@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 76, de Trinitate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 76, de Trinitate [Bnf 3074 Transcription]</title>
+          <date when="2018-07-12">July 12, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-12" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78-v"/>
+      </div>
+    </front>
+    <body>
+        <div xml:id="lectio76">
+          <head xml:id="l76-Hldtldt">Lectio 76, de Trinitate [Bnf 3074 Transcription]</head>
+              
+          <p xml:id="l76-dedcgd">
+            <lb ed="#P"/>Consequenter expedita spiritus sancti processione et de graecorum et latinorum controversia quo ad consilium 
+            generale et particulare super ipsius pro cessionis facto quae quidem materia scismati  <unclear>currit</unclear> anno quo supra potest aptari 
+            <lb ed="#P"/>aliqua
+          </p>
+          <p xml:id="l76-pppspv">
+            igitur circa tale scisma sunt videnda ut super ipso magis elucescat materia quantum spectat ad propositionem <unclear>protes?do</unclear> 
+            <lb ed="#P"/>non dicere aliquid nisi quam salubre ad opus ecclesiae videbitur valere et quod ad sustentatione fidei catholicae 
+            
+            <pb ed="#P" n="79-r"/>Et tunc circa hoc sit prima propositio praemittendo suppositionem istam videlicet quod deus et natura nihil faciunt 
+            <lb ed="#P"/>frustra Et potest hoc auctoritates circa humanum genus applicari
+          </p>
+          <p xml:id="ppra-l76-eqstcv">
+            Et primo sequitur quod sicut finis hominis
+            <lb ed="#P"/>excedit eius naturalem facultatem Ita de mediis attingendis deus sibi providit est prima pars propositionis est manifesta 
+            <lb ed="#P"/>quia status beatificus excedit omnem facultatem naturalem et contrariam tenere est haeresis <pc type="#punctus"/> <unclear>de p?ta</unclear> 2a pars enim patet 
+            <lb ed="#P"/>ex generali dei providentia circa humanum genus non solum circa rectores gubernantes et pastores ecclesiae 
+            <lb ed="#P"/>catholicae verum etiam circa policias omnes sicut habemus de angelo regente politias per angelum nam quaelibet civitas 
+            <lb ed="#P"/>habet angelum sibi de <unclear>punctum</unclear> ad ea gubernandum et igitur etiam dicit <name>magister</name> elucidari <pc type="#punctus"/> Et hoc etiam in <unclear>lu?no</unclear> 
+            <lb ed="#P"/>videtur patere <pc type="#punctus"/> ubi agitur de <name>iuliano</name> prosequente <name>pompeyum</name> <pc type="#punctus"/> <name>cesar</name> etc <pc type="#punctus"/> 
+          </p>
+          <!-- missing l76-ispgdp -->
+          <p xml:id="ppra-l76-uaeccg">
+            <pc type="#pilcrow"/>ubi advertendum est quod ex culpa originalis credenda transcendunt humanam 
+            <lb ed="#P"/>facultatem Et ideo requiritur specialis concursus ad earum revelationem <pc type="#punctus"/> Et licet in scripturis contineatur 
+            <lb ed="#P"/>tamen quod videndum est de certiore medio <pc type="#punctus"/> si secundum regulas patrum sanctorum traditas <pc type="#punctus"/> maxime in consiliis 
+            <lb ed="#P"/>ergo naturalibus
+          </p>
+          <p xml:id="ppra-l76-savscc">
+            <pc type="#pilcrow"/>Item quibusdam videtur quod ex scriptura non habeatur evidenter remanere fides 
+            <lb ed="#P"/>nisi in aliquo talis aliqui bene et non tamen in omnibus ad huc qui catholici putantur sive putarentur 
+            <lb ed="#P"/>sed non obstantibus istis adhuc in fide remanentes ad sacri consilii operatione adhuc sufficienter 
+            <lb ed="#P"/>quia <sic>quia</sic> fides suadente spiritu sancto in illis paucis remanet et operatur
+          </p>
+          <p xml:id="ppra-l76-eqsses">
+            <pc type="#pilcrow"/>Ex quo corollarie infertur quod in 
+            <lb ed="#P"/>consilio congregati non sunt proprie locuntur sed potius spiritus sanctus <pc type="#punctus"/> <pc type="virgula">/</pc> sicut etiam tenetur quod 
+            <lb ed="#P"/>in forma verborum ecclesiae sacramentum suam habet efficientia dum debite fuerit observata <pc type="#punctus"/> sit etiam ex gnenerali 
+            <lb ed="#P"/>consilio si forma observetur spiritus sanctus habebit in hoc suam efficientiam
+          </p>
+          <p xml:id="ppra-l76-eqpnas">
+            <pc type="#pilcrow"/>Ex quo etiam infertur quod implicat 
+            <lb ed="#P"/><sic>contraditionem</sic> sententiam consilii generalis sic potest defficere <pc type="#punctus"/> patet nam termini proprie in theologia 
+            <lb ed="#P"/>sic positi vel habiti <sic>conotant</sic> consilium spiritus sanctus <pc type="#punctus"/> Et sicut diceretur consilium illud esse falsum pari passu 
+            <lb ed="#P"/>consilium spiritus sanctus esset falsum quod videtur absurdum <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l76-scqnas">
+            <pc type="#pilcrow"/>Ulterius sequitur quod licet deffectus praelatorum sit 
+            <lb ed="#P"/>laesivus membrorum ecclesiae ergo non tamen respuenda est vel <sic>forminda</sic> eorum determinatio sive sententia 
+            <lb ed="#P"/>maxime in neccesariis ad salutem
+          </p>
+          <p xml:id="ppra-l76-ppetmc">
+            <note type="marginal-note" place="margin-right">superadditum exemplum satyricum</note>
+            <pc type="#pilcrow"/>
+            Quantum est de prima notum est in casu quod nullum laederent nam etiam 
+            <lb ed="#P"/>utrumque testatum tenentur scire et suis sub dictis reservare et eos in eis introducere et eorum officium 
+            <lb ed="#P"/>sic facere sed revera <unclear>praediligat</unclear> alba et fulva metalla in suis thezauris congregare 
+            <lb ed="#P"/><unclear>diligat</unclear> enim oves suas non tamen pro eis pascendis sed per velleribus non solum ymmo cranibus ipsarum 
+            <lb ed="#P"/>habendis <pc type="#punctus"/> Oves sibi dimissas <del>relinquit</del> in ore luporum dereliquit et in curiis regum 
+            <lb ed="#P"/>se nuct?ut <pc type="#punctus"/> luxuriose non caste vivunt <pc type="#punctus"/> deum in istarum fuit <pc type="virgula">/</pc> et tamen de factis propris non unus 
+            <lb ed="#P"/>eruginis mores corrodentis percipiunt <pc type="virgula">/</pc> et si breviter istius dicti recordarentur <unclear>me?re</unclear> 
+            <lb ed="#P"/>viam consequerentur <unclear>rra</unclear> de hiis potest dici
+            <!-- possible break point -->
+            <pc type="#pilcrow"/>Apud orbis iudices iura consumuntur <pc type="#punctus"/> 
+            <lb ed="#P"/>nam qui leges gubernat non bene reuntur <pc type="virgula">/</pc> non sentiunt miseri penam quam secuntur 
+            <lb ed="#P"/>nam qui dampnant alios primi dampnabuntur <pc type="#punctus"/> et haec de praelatis qui devorat plebem 
+            <lb ed="#P"/>sicut <unclear>escam panis</unclear> <pc type="#punctus"/>
+          </p>
+          <p>
+            <pc type="#pilcrow"/>2a pars propositionis patet nam quacumque malitia invalescente non est eorum sententia
+            <lb ed="#P"/><unclear>formi?da</unclear> patet haec quia non sunt ipsi qui locuntur <unclear>sumpto</unclear> quod sit mali sed spiritu sanctus <pc type="#punctus"/> et a fortiori 
+            <lb ed="#P"/>si debite confessi et <unclear>r?ati</unclear> de ipsis posset dici <quote ana="#mt10_20"><!-- underlined in ms -->vos non est qui loquimini sed spiritus</quote> etc <pc type="#punctus"/> <unclear>et sic</unclear> 
+            <lb ed="#P"/>eorum malitia tollit verborum efficientiam scilicet spiritus sanctus loquitur quia utn organum ipsius et per illud organum loquitur sicut 
+            <lb ed="#P"/><unclear>habemus</unclear> de asina <name>ballae</name> spiritus sanctus locutus est per eam <pc type="#punctus"/> 
+            <!-- possible break point -->
+            <pc type="#pilcrow"/> Similiter <name>ballaam</name> a <name>rege ballaac</name> vocatus 
+            <lb ed="#P"/>ad male dicendum populo israel <pc type="virgula">/</pc> ipsi populo bene dixit non a se proprie sed spiritus per eum loquebatur <pc type="virgula">/</pc> Ita 
+            <lb ed="#P"/>a sibi non obstantibus praelatis malis adhuc posset spiritus sanctus in eos loqui sicut in asina 
+            <lb ed="#P"/>et hoc est satis facto <unclear>scismato</unclear> consonum et est auctoritas infallibilis
+            <!-- possible break -->
+            <pc type="#pilcrow"/>Adhuc potest satis 
+            <lb ed="#P"/>confirmari <pc type="#punctus"/> nam ubi supra habetur quod cum <name>rex ballaac</name> audiret quia <name>ballam</name> populo israelico benedixi <!-- possible word added above --> 
+            <lb ed="#P"/>ut ad <name>ballaam</name> dicens mandavi te ut huic populo maledixeres <pc type="#punctus"/> et tu ei benedixisti <pc type="#punctus"/> Respondit 
+            <lb ed="#P"/><name>ballaam</name> non possum aliud loqui nisi quod mihi iusserit dominus
+            <!-- possible break -->
+            <pc type="#pilcrow"/>Unde intellectum 
+            
+           
+            
+            Secunda pars apparet omnia christi non sunt qui loquuntur sed 
+            spiritus sanctus est qui loquitur in eis praecipue observatur ad?ita[?] forma a sanctis patribus tradita 
+            illud de sacerdote qui licet sit malus nihilominus consecrat Ita proportionaliter de consilio generali 
+            quantumcumque <corr><del>magna est</del></corr> ministri essent inepti tamen malicia non tolleret efficaciam quia sunt 
+            organum spiritus sancti Sic proportionaliter <choice><orig>azina</orig><reg>asina</reg></choice> <name ref="#Balaam">balam</name> locuta est in proprie quia magis spiritus sanctus 
+            locutus est unde loqui non <choice><orig>conpetit</orig><reg>competit</reg></choice> proprie bruto similiter <name ref="#Balaam">balam</name> <title ref="#num">numeri</title> XXIIo et XXIIIo vocatus 
+            a <name ref="#Balak">balath</name> ut malediceret populo dei benedixit licet coactus Ita in Concilio generali 
+            in malis et puris praelatis spiritus sanctus loquetur veritatem hoc habemus fundare in suppositee[?] 
+            in generali provisione de omnibus <choice><orig>neccessariis</orig><reg>necessariis</reg></choice> pro meo[? ] sicut consequendo quia non esset vero concilio 
+            generali daretur infallibilis auctoritas non obstante ministrorum malicia sicut tactum 
+            est de <name ref="#Balam">balam</name> Cum audierit <name ref="#Balak">balath</name> quod <name ref="#Balaam">balam</name> benedicere populo dei ait quiddam quod agis 
+            quia ut maledices bonitate etc Respondit quod non possum aliud loqui nisi quod iusserit 
+            dicens Ita ubi ageretur de instructione populi quantumcumque invalesceret malitia praelatorum possunt 
+            dicere cum <name ref="#Balaam">balam</name> Non possum dicere nisi quod dicens iusserit Iterum respondit <name ref="#Balaam">balam</name> 2o 
+            benediccionem prohibere non valeo non est inquit deus homo ut mentiatur etc sed specialiori modo 
+            regit ecclesiam suam quam prius rexit populum promisit scilicet <name ref="#Peter">petro</name>. Item dicit vobiscum 
+            <sic>exo</sic> usque ineo[?] firmationem[?] saeculi</p>
+          
+          <p>Item vocat ecclesiam fremam petrum Item nec portae inferi praevalebunt duplici non posset contingere quod propter sanctas veritatem loquatur per organum mali 
+            hominis exemplum de <name ref="#Balaam">balam</name> aliud de <name ref="#Caiaphas">Caipha</name> qui sacramentum nostrae redemptionis et valorem 
+            et fruitum incarnationis verbi dei expressit dicens <quote ana="io11_50">Expedit nobis</quote> etc Altum 
+            fuit verbum sed non intellexit Ita potest contingere quantumcumque esset congregatorum malitia 
+            vel eciam ignorancia quod utilitatem ecclesiae proferrent Similem est de prophetis qui multa 
+            protulerunt non intelligentes tamen <name ref="#Augustine">augustinus</name> exponit <name>virgilium</name> in <title ref="#Bucolics">bucolicis</title> dicentem <quote>Iam 
+            nova progenies caelo mittitur alto</quote> unde <name ref="#Augustine">augustinus</name> exponit hoc de misterio incarnationis 
+            verbi dei Stat quod imperium eorum sacramenta nostrae fidei protulerunt sed non sapuerunt 
+            quia posuerunt obicem</p>
+          
+          <p>Item aliunde fundatur illud quod dictum est ex speciali regimine 
+            sanctae modis ecclesiae cui deputatus est tamquam gubernator specialis <name>michaehel archangelus</name> 
+            sicut anti christi adventum de putabatur ad custodiam synagoge qui non permitteret 
+            pullularere haeresim Ideo non obstante malicia vel ignorantia non permitteret perversionem 
+            aliquam transire</p>
+          
+          <p>Sequitur quod non videtur evidenter <choice><orig>repungnare</orig><reg>repugnare</reg></choice> quemlibet viatorem in consilio 
+            generali deputatum deficere in fide et tamen non posset nisi <choice><orig>katholicam</orig><reg>catholicam</reg></choice> veritatem vel fidei veritatem 
+            determinare primum patet quia ex sacra scriptura non habemus nisi quod usque ad <choice><orig>consumationem</orig><reg>consummationem</reg></choice> 
+            saeculi erunt aliqui fideles vel aliquis non est evidens quod esset aliquis praelatorum vel aliqui 
+            praelatorum ergo staret totam multitudinem praelatorum errare Secunda pars apparet quod illo non obstante 
+            non faceret determinationem concilii esse falsam in hiis quae spectant ad subiectum et hoc ex speciali 
+            spiritus sancti assistentia qui in eis loquitur</p>
+          
+          <p>Alia propositio verisimile concedendumest eciam beatum michahelem 
+          archangelum eciam ex speciali assistencia toti ecclesiae assistere patet ex deputatione officii 
+          et regiminis ad ecclesiam nam ecclesiae regiminem specialiter est sibi deputatum hoc deducit <name>Wilhelmis 
+          parisiensis</name> in libro suo <title>de universo</title></p>
+          
+          <p>Sequitur esse specialem assistenciam spiritus sancti et beati 
+            <pb ed="#E" n="103v"/><name>Michahelis Archangeli</name> etiam regnum illorum quae sunt extra caritatem 
+            patet quod ad regimen ecclesiae sunt officia deputata ad quae illi concurrunt ergo sicut 
+            malicia sacredotis non tollit quando ipse sacerdos consecret Ista eciam malicia non tollit quando 
+            habeat officium illis concurrentibus quod non esset sine speciali assistencia spiritu sancti et sancti 
+            <name>michahelis</name> regimen illorum sicut aliorum igitur <choice><orig>ymaginandum</orig><reg>imaginandum</reg></choice> est quod gradus ecclesiae[?] sunt 
+            quaedam assistenciae ut posset</p>
+          
+          <p>communiter ymaginari quod 2m ordinem graduum officiorum 
+            in ecclesia dei essent gradus et proportiones assistentiarum dei Infertur quod non obstante malicia 
+          summi pontificis si quis sit talis nichilominus tamen summo gradu assistentiae assistit sibi 
+            spiritus sanctus quantum ad hoc genus assistenciae</p>
+          
+          <p>Sequitur quod propter huiusmodi praesentiam praelatis ecclesiae 
+            debetur honor et reverencia non oabstante eorum malicia quia specuialiori modo spiritus sanctus 
+            eos inhabitat licet non per gratiam gratificantem</p> 
+          
+          <p>Infertur quod spiritus sanctus et <name>sanctus michahel</name> 
+            specialem habent assistentiam respectu liberorum in quibus continetur vita sanctorum et alia continentia 
+            fidem catholicam</p>
+          
+          <p>Sequitur quod etiam libri sacri scilicet biblia etc debent singulari reverentia 
+            venerari nam quadam vivificationem speciali vivificantur et conservantur</p>
+          
+          <p>Sequitur quod longa permanentia alicuius additi ad sacram scripturam est iudicium suae incorporationis et vivificationis 
+            patet actuum primo ex doctrina <name>Gamalielis</name> dicentis <quote>si ex deo est permanebit</quote> Ita a simili[?] ad 
+            dicio[?] facta scilicet quantum ad canones consiliorum generalium praecipue 4or principalium est signum 
+            incorporationis et vivificationis ex eorum permanentia</p>
+          
+          <p>Infertur quod additio facta in symbolo scilicet 
+            filioque est pars vera incorporata nam spiritus sanctus a <name>sanctus michaehel</name> eius minister specialiter ad libros 
+            sacros per nostra[?] saltem non <choice><orig>permicteret</orig><reg>permitteret</reg></choice> aliquod incorporeum quod non esset membrum sed providerent vel 
+            per miraculum nec per revelationem alias[?] ministraret <sic>populum</sic> sophisticum quod non spectat ad bonum 
+            patrem familias</p>
+          
+          <p>Sequitur additio facta a latinis est oera[?] addicio et approbata a spiritu sancto 
+            et apparet latinos non defecisse ymo constat saltem theoog quod fuerit facta additio spiritu sancto 
+            revelare scilicet spiritum sanctum ab utroque procedere</p>
+          
+          <p>Sequitur quod diversitas translationum scripturarum 
+            sacrarum nullum debet ponere offendiculum catholicis nam eodem spiritu esse sacrae librare vivificantur 
+            nec requirendus sensus litteralis sed spiritualis quem tradidit spiritus sanctus quia nos est sacrae scripturae 
+            et spiritu sancto eadem diversitatem pluribus vocibus exere?mere[?] ymo quasi vocaliter cocariis[?] unde longa 
+            orri?o[?] est signum esse servationis specialis per hoc solvuntire[?] quasi in numerales rationes quae con[?] 
+            <corr><del>semper</del></corr> fuerunt[?] fieri in translationibus bibliae quia translacio <choice><orig>lxx</orig><reg>septuaginta</reg></choice> ponit sic alia vocaliter a?a[?] 
+            unde fideles se debent transferre ad sensum spiritualem et ad bonum sensum vocabula recipere</p> 
+            
+          <p>Sequitur quod salutaris doctrina primo ad ecclesiam et <sic>viventem</sic> scripturam est diffusa scilicet in subiecto vituli 
+            deinde in scriptis redacta et iterum in ecclesiam <choice><orig>redumdans</orig><reg>redundans</reg></choice> quia determinatio salutarium veritatum 
+            est facta mentibus prophetarum apostolorum etc</p>
+          
+          <p>Sequitur ulterius quod ecclesia in prima significatione quae non 
+            esset aliud nisi congregatio fidelium ab <name ref="#Abel">abel iusto</name> usque ad consumationem mundi et sacra scripturam 
+            et ecclesia quae est congregatio praesentium eidem 2ae praecise veritatis adaequate innituntur nam huiusmodi doctrina 
+            pro salute requisita est immediate a spiritu sancto ita sicut deus non potuit decipere prophetas nec falsum 
+            revelare ita nec scriptura sacra potest esse falsa ad sensum ad quem credita est Ideo quantum ad hoc 
+            est simplex auctoritatis infallibilis</p>
+          
+          <p><g ref="#pilcrow"/>Alia propositio huius[?] non obstantibus ecclesia videtur aliquo modo maioris 
+            auctoritatis quam scriptura sacra capiendo ecclesiam primo modo patet quia immediate recepit a spiritu 
+            sancto vitali et viventi Eciam plures receperunt qui non scripserunt Etiam deus scilicet christus 
+            est inter eos qui realiter fuit verus apostolus et <name>paulus</name> vocat eum apostolum Ideo ratione 
+            circumstanciae <sic>personae</sic> ecclesiae est <choice><orig>inmensae</orig><reg>inmensae</reg></choice> auctoritatis licet quantum adiuti sacra scriptura eidem 
+            reg?[?] innitatur</p>
+          
+          <p><g ref="#pilcrow"/>Ultima propositione capiendo ecclesiam pro aggregatione fidelium vel congregatione 
+            praelatorum pro concilio sacro celebrando scriptura videretur maioris auctoritatis quantum ad hoc 
+            saltem naturaliter et quantum ad multitudinem Quia per plures sacra scriptura est nobis derivata[?] 
+            scilicet per spiritum sanctum christum apostolos a prophetas</p> 
+          
+          <p>Sed arguitur contra hoc per <name>augustinum dicentem</name> 
+            <cb ed="#E" n="104r"/><quote>Evangelio non crederem nisi acutoritas ecclesiae me conpelleret ad hoc</quote> ergo auctoritas ecclesiae est 
+            maior quam auctoritas sacrae scripturae</p>
+          
+          <p>Respondetur quod cepit forte ecclesiam primo modo scilicet incluso 
+            christo prophetis apostolis et sic de aliis et tunc concederetur quod ecclesia esset maioris acutoritatis quam sacra 
+            scriptura quia includit christum qui est verus deus</p>
+          
+          <p>Secundo dicitur quod licet in secunda significatione caperetur 
+            <mentioned>ecclesia</mentioned> tunc esset sensus quod nescivissem hoc esse evangelium et per consequens non adhibuissem fidem 
+            nisi ecclesia tradidisset mihi vel docuisset me</p>
+          
+          <p>Ego nolo assere nisi et inquantum sic fidei consonum 
+            et si sit aliquid fidei dissonum paratus sum revetare unde totum resolvitur ad istud quod deus 
+            noluit sufficienter nobis providere verum est quod possunt occurrere casus et difficultates quas non possumus 
+            enucliare[?] ideo ordinatum est quod in tali casu fuit consilium et in illo tunc revelabitur <name>Gregorius</name> 
+            dicit quod illis 4or conciliis scilicet principalibus credendum est sicut evangelio et ideo contra hoc assereret 
+            est multum laedere regnum ecclesiae et turbare fideles in conscientia et in omnibus</p>
+          
+          </div>
+    </body>
+  </text>
+</TEI>
