@@ -1,0 +1,199 @@
+<info>
+    <body>
+      <div xml:id="ppr-lectio76">
+        <head xml:id="ppr-l76-Hldtldt">Lectio 76, de Trinitate [Erlangen Transcription]</head>
+        <p xml:id="ppra-l76-dedcgd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-dedcgd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-dedcgd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-pppspv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-pppspv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-pppspv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-eqstcv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-eqstcv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-eqstcv"/>
+          </assertions>
+        </p>
+        <!-- no parallel in reportatioA/bnf3074 
+        <p xml:id="ppra-l76-ispgdp"/>
+        -->
+        <p xml:id="ppra-l76-uaeccg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-uaeccg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-uaeccg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-savscc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-savscc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-savscc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-eqsses">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-eqsses"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-eqsses"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-eqpnas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-eqpnas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-eqpnas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-scqnas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-scqnas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-scqnas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-ppetmc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-ppetmc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-ppetmc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-spaphg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-spaphg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-spaphg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-sevega">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-sevega"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-sevega"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-iipfst">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-iipfst"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-iipfst"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-qcscev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-qcscev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-qcscev"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-speede">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-speede"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-speede"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-spceea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-spceea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-spceea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-cpdebm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-cpdebm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-cpdebm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-npqhgp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-npqhgp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-npqhgp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-dpcare">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-dpcare"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-dpcare"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-ehscmv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-ehscmv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-ehscmv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-dceuer">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-dceuer"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-dceuer"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-tpssab">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-tpssab"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-tpssab"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-qpqeaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-qpqeaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-qpqeaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-suqesr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-suqesr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-suqesr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-ssqvee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-ssqvee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-ssqvee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-spsesc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-spsesc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-spsesc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-opiaii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-opiaii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-opiaii"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-npcecf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-npcecf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-npcecf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-srepip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-srepip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-srepip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-rdudmr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-rdudmr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-rdudmr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-smpsfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-smpsfc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-smpsfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-tsbcfe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l76-tsbcfe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l76-tsbcfe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l76-d1e1011"/>
+        <p xml:id="ppra-l76-d1e1020"/>
+        <p xml:id="ppra-l76-d1e1050"/>
+      </div>
+    </body>
+</info>
