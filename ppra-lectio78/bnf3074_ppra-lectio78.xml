@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 78, de Trinitate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 78, de Trinitate [Bnf 3074 Transcription]</title>
+          <date when="2018-07-22">July 2, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-22" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio78">
+        <head xml:id="ppra-l78-Hldtldt">Lectio 78, de Trinitate [BNF 3074 Transcription]</head>
+        <!--<p xml:id="ppra-l78-safaap">
+        </p>-->
+        <p xml:id="ppra-l78-peqsem">
+          <note type="marginal-note" place="margin-right">de materia scismatis ecclesiae</note>
+          <lb ed="#P"/>Consequenter iuxta scismatis materiam addendo aliquales propositiones aliae a praedictis <pc type="#punctus"/> quarum prima est 
+          <lb ed="#P"/>volo negare summum pontificem esse verum christi vicarium et esse papam ecclesiae militantis et 
+          <lb ed="#P"/>habere potestatem supra totam ecclesiam militantem
+        </p>
+        <p xml:id="ppra-l78-sdqpfo">
+          <pc type="#pilcrow"/>2o dico quod non est ex institutione humana <unclear>primarie</unclear> 
+          <lb ed="#P"/>quod habeat huiusmodi potestatem <pc type="virgula">/</pc> patet prma pars nam sicut deducit <name>almachanus</name> libro 2o <title>de quaestionibus 
+          <lb ed="#P"/><unclear>almentarum <!-- defn starts with alm --></unclear></title> <name>petrus</name> fuit summus pontifex et ideo ecclesia habet suum summum pontificem et hoc est contra <name>marcilium 
+          <lb ed="#P"/>de <sic>passu</sic></name> qui dicit in libro suo de papis <pc type="#punctus"/> quod <name>paulus</name> videtur se conformare <name>petro</name> <pc type="#punctus"/> et ymaginatur quod dignitas 
+          <lb ed="#P"/>pappalis fuit ex politica ordine facta inter apostolos ut scilicet ad aliquem eorum in necessaribus suis 
+          <lb ed="#P"/>et casibus <unclear>em?genibus</unclear> haberent recursum <pc type="virgula">/</pc> et ad hoc <name>petrum</name> <unclear>consti?t?</unclear> tamquam ad illum recurrentes 
+          <lb ed="#P"/>unde sic <unclear>consti??</unclear> quod post ipsum alius pontifex summus subcederet <!-- break ?? --><pc type="#pilcrow"/> Sed breviter ista oppinio non 
+          <lb ed="#P"/>videtur esse <unclear>fu?</unclear> data <pc type="#punctus"/> immo dicitur quod a ymmo ordinatus fuit summus pontifex et hoc quasi infinitis 
+          <lb ed="#P"/>rationibus probari maxime in sacra scriptura unde christus ad petrum <quote xml:id="ppra-l78-Qd1e194" ana="#mt16_18">Tu es <name>petrus</name> et super hanc</quote> etc et alibi 
+          <lb ed="#P"/><quote xml:id="ppra-l78-Qd1e201" ana="#io21_15">pasce agnos meos</quote>
+        </p>
+        <p xml:id="ppra-l78-tdqesd">
+          <pc type="#pilcrow"/>3o non denego summo pontifici universale dominium concurrere ex <unclear>paria</unclear> 
+          <lb ed="#P"/><del>fm</del> tam <unclear>sc?ne</unclear> divina
+        </p>
+        <p xml:id="ppra-l78-ppachn">
+          <pc type="virgula">//</pc>prima pars apparet ex vicaratu modo christus habuit utrumque dominum ergo et eius vicarius <pc type="#punctus"/> et per consequens 
+          <lb ed="#P"/>omnes de ecclesia sunt papae subiecti <pc type="#punctus"/> Tamen quantum ad executionem factam est divino <pc type="virgula">/</pc> et causa est quia aliter impediret 
+          <lb ed="#P"/>tempus gratiae <pc type="virgula">/</pc> licet non antecedente tempus gratiae impedivisset <pc type="#punctus"/> <unclear>multo</unclear> <unclear>ma</unclear> lex nobilior dignor et perfectior <pc type="#punctus"/> 
+          <lb ed="#P"/>mosayca quare etc <pc type="#punctus"/>
+        </p>
+        <p xml:id="ppra-l78-qdnstc">
+          <pc type="#pilcrow"/>4o non nego quin ad summum pontificem pertineat consilium generale <pc type="#punctus"/> acceptare 
+          <lb ed="#P"/><unclear>praesidere</unclear> et concludere et quin possit facere fidei articulum <unclear>necescente</unclear> et ratione cogente <pc type="#punctus"/> sed ubi veritas 
+          <lb ed="#P"/>non apparet ymmo qua scriptura ire <pc type="#punctus"/> non licet <pc type="#punctus"/> Et hoc videtur velle <name>sanctus thomas de aquino</name> 2a 2ae 
+          <lb ed="#P"/>articulo <unclear>de?nis</unclear>
+        </p> 
+        <p xml:id="ppra-l78-qdqpsf">
+          <pc type="#pilcrow"/>5o dicitur quod praeceptum ab eo editum tamen <sic>tamen</sic> licitum implendum est et sibi  obediendum 
+          <lb ed="#P"/>et maxime generaliter in hiis quae universae legi ecclesiae non <unclear>contradictis</unclear>
+        </p>
+        <p xml:id="ppra-l78-sdqsef">
+          <pc type="#pilcrow"/>6o papam esse unicum 
+          <lb ed="#P"/>non est articulus fidei <pc type="#punctus"/> ad quem omnes fideles obligentur nec forte sequitur <c>a</c> veritas fides 
+          <lb ed="#P"/><name>sortis</name> igitur articulus idei Nam elevatus theologus sive aliquis inspiratus quidquid licitum 
+          <lb ed="#P"/>videtur sibi fides est sibi <pc type="virgula">/</pc> Ex quo infertur quod dissentiendo alicui propositioni <name>sortes</name> esse haereticus 
+          <lb ed="#P"/>ubi <name>plato</name> catholicus et hoc patet per praedictam <!-- break?? --> <pc type="#pilcrow"/> Contra infertur quod consequentia non valet ista propositio est fides 
+          <lb ed="#P"/><subst><del rend="strikethrough">sorti</del> <add><name>platoni</name></add></subst> ergo fides <pc type="#punctus"/>
+        </p>
+        <p xml:id="ppra-l78-d1e347">
+          <!-- paragraph unique to this reportatio ???-->
+          <pc type="#pilcrow"/>Unde quantum est de me dicit <name>plaoust</name> in avinione protestatus <unclear>sive</unclear> me 
+          <lb ed="#P"/>tenere <unclear>cum nostrae ma</unclear> unitate
+        </p>
+        <p xml:id="ppra-l78-cipsdh">
+          <pc type="#pilcrow"/>Sed nihilominus ad videndum generaliter qualiter universitas circa fidei veritatem 
+          <lb ed="#P"/>se debeat habere  
+        </p>
+        <p xml:id="ppra-l78-pqniod">
+          Advertendum est iuxta philosophorum sententiam considerari debet duplex nulla universalis scilicet et particularis 
+          <lb ed="#P"/>universalis autem vocatur vis <unclear>regitiam</unclear> et <unclear>omni motu </unclear>
+        </p>
+        <p xml:id="ppra-l78-snelhp">
+          <pc type="#pilcrow"/>particularis naturaliter universali obedit <pc type="#punctus"/> unde sibi naturale 
+          <lb ed="#P"/>est impetum universalis sequi magis quam econtra <pc type="#punctus"/> Et hoc allegat <name>albertus magnus</name> qui fuit quasi omnium 
+          <lb ed="#P"/>philosophorum latinorum magis expertus scilicet supra finem primi de generatione dicens quod ex obedientia naturae particularis ad universalem 
+          <lb ed="#P"/>gravia descendunt et laevia conscenditis ad mixti generationem et in hoc allegat <name>averroym</name> et 
+          <lb ed="#P"/><name>misselath</name>
+        </p>
+        <!-- in reims and sv "item allegat per se Mesala in libro de sphera mota" should probably go in previous paragraph -->
+        <p xml:id="l78-iapaoi">
+          <pc type="#pilcrow"/>Et ex hac radice duplicem habent institutum scilicet universalis et particularis pro cuius declaratione advertendum est quod 
+          <lb ed="#P"/>providere speciebus pro regimine universi sunt particulares institutus provenientes ex parte naturae <pc type="#punctus"/> <pc type="#pilcrow"/>Primus est appetitus 
+          <lb ed="#P"/>aliquid cognoscendum <pc type="virgula">/</pc> unde quia homo non sufficeret se solo vivere <pc type="#punctus"/> natura inclinavit ad civiliter conversandum 
+          <lb ed="#P"/>unde <name>aristoteles</name> dicit quod politica est recte naturalis et <quote xml:id="ppra-l78-Qd1e436" ana="#Aristotle_Politica_1_a">homo animal civile</quote> et etiam coniugale <pc type="#punctus"/> Et sic ex hoc 
+          <lb ed="#P"/>consurget ordo politizandi 
+          <lb ed="#P"/>
+          Ex hac radice 
+          fundo duplicem instinctum in qualibet specie spiritualiter humana scilicet naturae univeralis et naturae particularis Pro 
+          declaratione advertendum quod pro bono speciei et specialiter humanae sunt plures instinctus venientes[?] 
+          ex parte naturae universalis primus est appetitus civiliter congregandi quia homo se solo non sufficeret 
+          vivere ideo natura universalis <corr><del rend="expunctuated">non</del></corr> indidit sibi naturaliter inclinari ad civiliter conversandum Ideo 
+          dicit <name>philosophus</name> primo <title>polliticae</title> <quote xml:id="ppra-l78-Qd1e456">homo est animalis naturaliter polliticum et civile</quote> ubi intendit quod civilitas 
+          est simpliciter naturalis et sic homo est animalis coniugule et civile et sociale. Etiam est animalis coniugabile 
+          quod inclinare ad coniugium causa prolis procreandae Etiam ex hoc consurgit ordo pollittisandi[?] 
+          istud tangit <name>aristotelis</name> in <title>pollita</title>
+        </p>
+        <p xml:id="ppra-l78-usqpce">
+          Sequitur quod ad perfectio humanae speciei requiritur doctrina 
+          docens i?das[?] iusticiae et politicam[?] consurgendi
+        </p>
+        <p xml:id="ppra-l78-eehhcb">
+          Sequitur quod instinctualiter naturaliter ex procreatione universalis 
+          naturae est aliqua pollicia scientium quos etiam natura universalis congregat eciam elevat[?] ad veritatis 
+          investigationem pro regimine politico
+        </p>
+        <p xml:id="ppra-l78-eqpqnc">
+          Sequitur quod ordine naturae naturalis ordinatum est secundum 
+          ad habendum scientes
+          Unde a talibus invente[?] sunt leges
+        </p>
+        <p xml:id="ppra-l78-tsqnas">
+          Sequitur quod universitas ex duplici 
+          <pb ed="#E" n="106r"/>
+          providencia est ad docendum instituta scilicet ad policiam et ad illa quae spectant ad ins?tio[?] neque 
+          fidei
+        </p>
+        <p xml:id="ppra-l78-eesset">
+          Sequitur quod finis naturalis ipsius policiae est instruere utramquae potestatem scilicet temporalem 
+          et spiritualem
+        </p>
+        <p xml:id="ppra-l78-qsqnqg">
+          Sequitur quod universitas non transit limites docendi principes sive quoscumque 
+          superiores quia illa est eius institutio tam naturae quam gratia
+        </p>
+        <p xml:id="ppra-l78-ssqihl">
+          Sequitur summa sollicitudo tam 
+          naturae quam gratiae et summa influentia et summa influencia et et caru[?] sponsi capitis in hoc regno quod maxime con?scat[?] 
+          per universitatem quae est de 2[?] anima[?] et principali[?] intentione naturae quem tamen ex acceptare[?] et loco quodammodo 
+          voluit institui
+        </p>
+        <p xml:id="ppra-l78-npipla">
+          Posset inferri <choice><orig>correllaria</orig><reg>corollaria</reg></choice> de habitudine dilecitonis principis ad universitatem et sicut debet 
+          habere se ad deum et ad materiam
+        </p>
+        <!-- review break -->
+        <p xml:id="ppra-l78-eqpsas">
+          patet signorum[?] obligatio tam regis quam universitatis et addinam[?] gratiam 
+          sponsum et ad naturam ad bonum ecclesiae procreandum quantum in se est erando exhortando et 
+          secundum alios modos quos spiritus sanctus deo duce inspirabit nolo magis specialiter in creare inacriam[?] 
+          bono[?]
+        </p>
+        <!-- review divisions -->
+        <p xml:id="ppra-l78-amssas">
+          ad materiam solutionis argumenti graecorum
+        </p>
+        <p xml:id="ppra-l78-pimaae">
+          Et pono istam propositionem quod spiritum procedere a fine[?] sufficienter 
+          deducitur ex scriptura Istam deducit <ref xml:id="ppra-l78-Rd1e513"><name>almachius</name> in sexto libro <title>quaestionibus armenorum</title></ref> 
+          ubi inducit plurimas auctoritas unde pluries legitur spiritus sanctus missus a filio quae habitudo 
+          non ocncederetur nisi esset emanatio unius ab alio
+        </p>
+        <p xml:id="ppra-l78-uiasap">
+          <title>Io</title> 16 capitulo Cum venit ille spiritus vertatis 
+          unde sequitur post de me acciperiebat et a in??iabit vobis Et sic patet quod spiritus sanctus a beo[?] scilicet filio 
+          doctrina quam tradidit <name>apostolus</name> et non per modum accidentis[?] ergo per instrinsicum communicationem propter deitatis 
+          et eius productionem per quam recipit <corr><del>propriam</del></corr> omnem scienciam et hoc est per spirationem quia totum 
+          esse suum caput a filio sicut a patre
+        </p>
+        <p xml:id="ppra-l78-siaans">
+          <title>Io</title> alibi Quem mittet pater in nomine meo Ex quo concluditur 
+          auctoritas mittentis quae non potest esse nisi ex habitudine originationis et filius non 
+          potest habere auctoritatem supra spiritum sanctum nisi originationis scilicet quia producit spiritum sanctum 
+          et spectat et spiritus sanctus est a filio et non est auctoritas inaequalitatis et superioritatis quia omnis sunt 
+          aequales et aequales dignitatis Aliae sunt auctoritates[?] plurimae quae quasi evidenter continent 
+          quod spiritus sanctus procedit a filio videatur <name>almachius</name> in sexto libro <title>de quaestionibus armenorum</title>
+        </p>
+        <p xml:id="ppra-l78-eqspaf">
+          Sequitur quod addicio de processione spiritus sancti a filio nedum fuisset licita ecclesiae latinorum 
+          ymmo soli papae nam in hiis quae sunt evideter in scriptura papa potest facere articulum non dico 
+          quod in omnibus posset scilicet in hiis quae non evidenter sequuntur vel saltem sufficienter maxime 
+          consideratis aliquibus concursibus apparet quod <name>latinorum</name> ecclesia sufficienter fecti
+        </p>
+        <p xml:id="ppra-l78-pqndvd">
+          Ubi advertendum quod in <sic>vicena</sic> 
+          synodo sub <name>silvestor papa</name> et <name>constantino imperatore</name> prima synodus fuit celebrata 
+          contra <name>arrium</name> qui ponebat distinctionem realem inter patrem et matrem et filium et quod filius esset 
+          creatura et ibi determinatum fuit quod esset consubstantialis patri
+        </p>
+        <p xml:id="ppra-l78-sdseha">
+          Secunda synodus scilicet Constan<g ref="#dbdash"/>tino 
+          politana fuit sub <name>danasio papa</name> et <name>theoloricio imperatore</name> propter haeresim macedoenii[?] 
+          qui dicebat spiritum sanctum esse creaturam Et quia ista fuit arriana quia ponit solum 
+          patrem verum deum
+        </p>
+        <p xml:id="ppra-l78-eiapai">
+          Ideo positum fuit et determinatum quod filius procederet a patre etiam spiritus sanctus 
+          tamquam idem et inpertinens erat quantum ad obviandum illi errori utrum procederet a filio Ideo 
+          visa causa non oportuit in huiusmodi simbolo movere de filio quia loquebantur de patre tamen 
+          scilicet quod spiritus sanctus dicitur a patre essentialiter et sic non negavit illi de consilio quando etiam a filio 
+          procedat et sic considerata causa non requirebatur pro tunc meretionem[?] spiritus sancti a filio
+        </p> 
+        <p xml:id="ppra-l78-rsrrsc">
+          Pro 
+          solutione ergo rationis advertendum quod ly aliud cum dicitur si quis aliquid addiderit etc conlusione[?] 
+          in sacra scriptura non sempter <corr><del>di</del></corr> dicit distinctum quiditatum[?] quod non dicit quod libet distinctum sed valet 
+          tantum sicut adversum vel gratium et ita aliquanod <corr><del>l</del></corr> capitur <choice><orig>ymmo</orig><reg>immo</reg></choice> saepe utque ex aliquibus locis scripturae 
+          unde <name>apostolus</name> <title>ad titum</title> Rogavi te ne aliter docens <name>paulus</name> non nega?ent[?] quando aliud doceret 
+          quod non sit evidenter expressum sed aliter id eset repugnans 
+        </p>
+        <p xml:id="ppra-l78-eaaspd">
+          eciam <title>ad galthas</title> primo <quote xml:id="ppra-l78-Qd1e614">Si quis 
+            nobis evangelizaverit praeter id[?] quod vos accepistis anathema sit</quote> unde doctos theologus non prohibetur 
+          veritates decere quae vero sunt expresse in articulis fidei <choice><orig>ymmo</orig><reg>immo</reg></choice> officiam eius docere veritates 
+          <pb ed="#E" n="106v"/>Multum distantes a principiis articulis sed non debent docere aliud id est <choice><orig>repungnans</orig><reg>repugnans</reg></choice> 
+        </p>
+        <!-- review break -->
+        <p xml:id="ppra-l78-eiaicp">
+          Ito[?] evidenter 
+          com?nutur et esset quod concedant quod aliquid additum est quam continebatur in simbolo niceno nam 
+          postea in quod concilio determinatum fuit duas voluntates esse mixto et tamen ista veritas non 
+          continebatur in symbolo et sic fidei est addita veritas quae est articulus fidei quae prius non fuit
+        </p>
+        <p xml:id="ppra-l78-sicpdi">
+          unde in culcidonensi concilio sub <name>leone papa primo</name> determinatum fuit duas naturas esse in una 
+          persona scilicet christi 
+        </p>
+        <p xml:id="ppra-l78-ticpaf">
+          Item in consilio constantinopolitano anno quingentesimo[?] sexagesimo 
+          fuit determinatum quod maria virgo genuit non solum hominem sed deum ergo fidei iterum cac[?] aliquid 
+          additum et per consequens ista militat sicut ratio graecorum
+        </p>
+        <p xml:id="ppra-l78-vamsen">
+          Ulterius advertendum quod ante huiusmodi determinationem 
+          doctores <name>graeci</name> et <name>latini</name> scilicet <name>hylarius</name> et <name>ambrosius</name> et <name>augustinus</name>  expresse sumpserunt quod spiritus sanctus 
+          procedit ab utroque non solum isti sed eciam graeci antequam latina determinaret ecclesia scilicet <name>anathasius</name> 
+          <name>didimus</name> et <name>sirrillis</name> <name>crisostimus</name> Qui fuerunt excellentissimae scientiae et reputabatur 
+          evidenter sequi ex scriptura nec reperitione aliquid repugnans
+          <!-- possible break -->
+          Item consideratis et accen?ta[?] 
+          neccessitate quia forte accuebat[?] aliqua haeresis <choice><orig>ymmo</orig><reg>immo</reg></choice> papa suffecisset per se vocavit latinos 
+          <choice><orig>ymmo</orig><reg>immo</reg></choice> non requirebatur eos vocuere attincta distantia locali et in utilitate et eorum ignorantia 
+          quia iam cessareant eorum doctrina et sic inutiliter fuissent vocati <choice><orig>ymmo</orig><reg>immo</reg></choice> est magis <choice><orig>praesumpcio</orig><reg>praesumptio</reg></choice> 
+          negare spiritum sanctum procedere a filio et non habet ab alio non ex superbia vel nequitia
+        </p>
+        <p xml:id="ppra-l78-igqhqn">
+          Item <name>gregorius</name> 
+          4tus in lugundmensis Consilio praesentibus graecis et consentientibus scilicet patriarcha quodam 
+          cum aliis praelatis determinavit quod patre et filius sunt unum principium spiritus sancti ipsis praesentibus et 
+          conferentientibus[?] ideo prima determinatio scilicet lateransis[?] fuit satis approbata per gracos ergo graeci 
+          magis fuit censendi haeretici quam latini.
+        </p>
+        <p xml:id="ppra-l78-sciifg">
+          Contra istud ut videtur est auctoritas <name>damasceni</name> dicentis 
+          ex filio autem spiritum sanctum non dicimus et sic tenet ut videtur quod non procedit ex filio
+        </p>
+        <p xml:id="ppra-l78-rpqgel">
+          Secundum 
+          est facilis quia damnascenus expresse en??at articulos et inter illos dicit hunc non esse articulum 
+          quia tunc non fuit determinatum quia ultimum refert hunc esse fidei et sequi ex fide
+        </p>
+        <p xml:id="ppra-l78-spdnec">Sequitur[?] 
+          potest dici quod fuit eius opinio nec censendus est haereticus quia fuit ante determinationem ecclesiae etiam 
+          <title>Reychardus de sancto victore</title> dixit essenciam generare
+        </p>
+        <p xml:id="ppra-l78-edscis">
+          Sequitur quod greaci simpliciter sunt censendi haeretici 
+          ei nam ipsi discedunt a concilio generali lateranen[?] eciam a Consilio lugudinensi 
+          ubi graeci fuerunt praesentes et determinatum fuit quod pater et filius sunt principium spiritus sancti
+        </p>
+        <p xml:id="ppra-l78-acqiem">
+          Sequitur 
+          quod non v?ta?o[?] eorum nullo modo excusat eos quia attenta articuli evidencia papa solus suffecisset
+        </p>
+        <p xml:id="ppra-l78-aardhr">
+          Ad aliam rationem de pluralitate consiliorum etc potest dici quod pars minor ubi crederet quod non 
+          vitae celebrarentur rationabiliter deberet refugere ubi tamen appareret quod credo[?] 
+          quod non deberet rennuere[?]
+        </p>
+        <p xml:id="ppra-l78-sledaf">Secundo dicitur quod licet ex institutione divina instituatur papa tamen hunc 
+          esse papam in hunc non est de articulis fidei
+        </p>
+        <p xml:id="ppra-l78-tpduii">
+          Tertio potest dici 2m quod dixit alios graecos quia inclu<g ref="#dbdash"/>ditur 
+          aliquid sancti quod latet ecclesiam[?] in hoc posset decipi etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
