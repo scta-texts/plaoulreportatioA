@@ -44,7 +44,7 @@
   <text>
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="78-v"/>
+        <pb ed="#P" n="80-r"/>
       </div>
     </front>
     <body>
@@ -124,74 +124,67 @@
           <lb ed="#P"/>providere speciebus pro regimine universi sunt particulares institutus provenientes ex parte naturae <pc type="#punctus"/> <pc type="#pilcrow"/>Primus est appetitus 
           <lb ed="#P"/>aliquid cognoscendum <pc type="virgula">/</pc> unde quia homo non sufficeret se solo vivere <pc type="#punctus"/> natura inclinavit ad civiliter conversandum 
           <lb ed="#P"/>unde <name>aristoteles</name> dicit quod politica est recte naturalis et <quote xml:id="ppra-l78-Qd1e436" ana="#Aristotle_Politica_1_a">homo animal civile</quote> et etiam coniugale <pc type="#punctus"/> Et sic ex hoc 
-          <lb ed="#P"/>consurget ordo politizandi 
-          <lb ed="#P"/>
-          Ex hac radice 
-          fundo duplicem instinctum in qualibet specie spiritualiter humana scilicet naturae univeralis et naturae particularis Pro 
-          declaratione advertendum quod pro bono speciei et specialiter humanae sunt plures instinctus venientes[?] 
-          ex parte naturae universalis primus est appetitus civiliter congregandi quia homo se solo non sufficeret 
-          vivere ideo natura universalis <corr><del rend="expunctuated">non</del></corr> indidit sibi naturaliter inclinari ad civiliter conversandum Ideo 
-          dicit <name>philosophus</name> primo <title>polliticae</title> <quote xml:id="ppra-l78-Qd1e456">homo est animalis naturaliter polliticum et civile</quote> ubi intendit quod civilitas 
-          est simpliciter naturalis et sic homo est animalis coniugule et civile et sociale. Etiam est animalis coniugabile 
-          quod inclinare ad coniugium causa prolis procreandae Etiam ex hoc consurgit ordo pollittisandi[?] 
-          istud tangit <name>aristotelis</name> in <title>pollita</title>
+          <lb ed="#P"/>consurget ordo politizandi scilicet habere aliquem regem et <unclear>iustitia</unclear> habere <unclear>aliundi</unclear> eum <pc type="#punctus"/> debite gubernante 
+          <lb ed="#P"/><unclear>re</unclear> ita politiam <pc type="virgula">/</pc> et hoc <unclear>est</unclear> de intentione <name>aristotelis</name> in politicarum 
         </p>
         <p xml:id="ppra-l78-usqpce">
-          Sequitur quod ad perfectio humanae speciei requiritur doctrina 
-          docens i?das[?] iusticiae et politicam[?] consurgendi
+          <pc type="#pilcrow"/>Ulterius sequitur quod ad <c>b</c> essendum <unclear>ve?te</unclear> vide<lb ed="#P"/>retur 
+          doctrina docens scilicet regulas iustitiae et politiam conservandi <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l78-eehhcb">
-          Sequitur quod instinctualiter naturaliter ex procreatione universalis 
-          naturae est aliqua pollicia scientium quos etiam natura universalis congregat eciam elevat[?] ad veritatis 
-          investigationem pro regimine politico
+          Et ex hoc sequitur quod ex pro creatione universalis materiae 
+          <lb ed="#P"/>quod sit aliqua politia scientium quos natura humana elevat circa humanae speciei conservatione
         </p>
+        <!-- review division -->
         <p xml:id="ppra-l78-eqpqnc">
-          Sequitur quod ordine naturae naturalis ordinatum est secundum 
-          ad habendum scientes
-          Unde a talibus invente[?] sunt leges
+          <pc type="virgula">/</pc> Et hoc oportet 
+          <lb ed="#P"/><unclear>quin</unclear> ex in <unclear>sci?ne</unclear> naturae ordinatum est ut superiores duentur <pc type="#punctus"/> et inferiores obediant unde sic fuit 
+          <lb ed="#P"/>primitivo tempore in graecia <pc type="#punctus"/> roma etc
         </p>
         <p xml:id="ppra-l78-tsqnas">
-          Sequitur quod universitas ex duplici 
-          <pb ed="#E" n="106r"/>
-          providencia est ad docendum instituta scilicet ad policiam et ad illa quae spectant ad ins?tio[?] neque 
-          fidei
+          <pc type="#pilcrow"/>Ex quo sequitur quod universitas ex providentia naturae et dei provisione
+          <lb ed="#P"/>providet utriusque politiae saluti 
         </p>
         <p xml:id="ppra-l78-eesset">
-          Sequitur quod finis naturalis ipsius policiae est instruere utramquae potestatem scilicet temporalem 
-          et spiritualem
+          <pc type="#punctus"/> unde sequitur quod finis naturalis <subst><del>politiae</del> <add>universitatis</add></subst> est utraumque politiam introducere 
+          <lb ed="#P"/>tam civilem quam ecclesiastica
         </p>
         <p xml:id="ppra-l78-qsqnqg">
-          Sequitur quod universitas non transit limites docendi principes sive quoscumque 
-          superiores quia illa est eius institutio tam naturae quam gratia
+          <pc type="#pilcrow"/>Et sit sequitur quod in haec universitas non transcendit <unclear>methas</unclear>
         </p>
         <p xml:id="ppra-l78-ssqihl">
-          Sequitur summa sollicitudo tam 
-          naturae quam gratiae et summa influentia et summa influencia et et caru[?] sponsi capitis in hoc regno quod maxime con?scat[?] 
-          per universitatem quae est de 2[?] anima[?] et principali[?] intentione naturae quem tamen ex acceptare[?] et loco quodammodo 
-          voluit institui
+          <note type="marginal-note" place="margin-right">nota de regno franciae</note>
+          <pc type="#pilcrow"/>Ulterius sequitur 
+          <lb ed="#P"/>quod sollicitudo et summa influentia capitur in isto regno scilicet franciae tam naturae quam gratiae <pc type="#punctus"/> quod quid 
+          <lb ed="#P"/>maxime constat per nobilem universitatem matrem nostram quae est de 2aria et principali naturae humanae <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l78-npipla">
-          Posset inferri <choice><orig>correllaria</orig><reg>corollaria</reg></choice> de habitudine dilecitonis principis ad universitatem et sicut debet 
-          habere se ad deum et ad materiam
+          <pc type="virgula">/</pc>Et 
+          <lb ed="#P"/>sit bene posset inferri quod ex affectione et amore <unclear>c?est</unclear> rex uniri cum ea <pc type="#punctus"/> 
         </p>
         <!-- review break -->
         <p xml:id="ppra-l78-eqpsas">
-          patet signorum[?] obligatio tam regis quam universitatis et addinam[?] gratiam 
-          sponsum et ad naturam ad bonum ecclesiae procreandum quantum in se est erando exhortando et 
-          secundum alios modos quos spiritus sanctus deo duce inspirabit nolo magis specialiter in creare inacriam[?] 
-          bono[?]
+          Etiam ex hoc patet 
+          <lb ed="#P"/>in <unclear>ingu?tis</unclear> obligatio tam <unclear>reg?</unclear> quam <unclear>uni?</unclear> deo et naturae scilicet orando et exhortando <del rend="strikethrough">in bonum</del> populum in bonum
         </p>
         <!-- review divisions -->
         <p xml:id="ppra-l78-amssas">
-          ad materiam solutionis argumenti graecorum
+          <pb ed="#P" n="80-v"/>
+          <lb ed="#P"/><pc type="#pilcrow"/>Venio tamen ad materiam solutionis graecorum super facto processionis spiritus sanctus a patre solum
+          <pb ed="#P" n="80-v"/>
+          <lb ed="#P"/>et ad hoc videlicet quod quicumque addidit sive subtraxerit anathema sit <pc type="virgula">/</pc>
         </p>
         <p xml:id="ppra-l78-pimaae">
-          Et pono istam propositionem quod spiritum procedere a fine[?] sufficienter 
-          deducitur ex scriptura Istam deducit <ref xml:id="ppra-l78-Rd1e513"><name>almachius</name> in sexto libro <title>quaestionibus armenorum</title></ref> 
-          ubi inducit plurimas auctoritas unde pluries legitur spiritus sanctus missus a filio quae habitudo 
-          non ocncederetur nisi esset emanatio unius ab alio
+          <unclear>Respondeo</unclear> 
+          <lb ed="#P"/>ergo quod spiritum sanctum procedere a filio sufficienter deducitur a scriptura Ista deducit <name>almachanus</name> 
+          <lb ed="#P"/>in suo libro <pc type="#pilcrow"/> unde pluries legitur spiritus sanctus missus fuisse a filio
         </p>
         <p xml:id="ppra-l78-uiasap">
+          unde maxime <title>iohannis</title> 
+          <lb ed="#P"/>10 habetur <quote ana="#io16_13">cum venerit autem ille spiritus veritatis</quote> <quote ana="#io14_26">quem mittet pater in nomine meo</quote> etc Et 
+          <lb ed="#P"/>alibi <quote ana="#io16_14 #io16_15">de meo accipiet et annuntiabit vobis</quote> <pc type="#punctus"/> <pc type="virgula">/</pc> et non tamquam accidens sicut doctrina <unclear>tradita</unclear>
+          discipulo a magistro <pc type="#punctus"/> sed per inspirationem <pc type="#punctus"/>
+          
           <title>Io</title> 16 capitulo Cum venit ille spiritus vertatis 
           unde sequitur post de me acciperiebat et a in??iabit vobis Et sic patet quod spiritus sanctus a beo[?] scilicet filio 
           doctrina quam tradidit <name>apostolus</name> et non per modum accidentis[?] ergo per instrinsicum communicationem propter deitatis 
@@ -199,20 +192,20 @@
           esse suum caput a filio sicut a patre
         </p>
         <p xml:id="ppra-l78-siaans">
-          <title>Io</title> alibi Quem mittet pater in nomine meo Ex quo concluditur 
-          auctoritas mittentis quae non potest esse nisi ex habitudine originationis et filius non 
-          potest habere auctoritatem supra spiritum sanctum nisi originationis scilicet quia producit spiritum sanctum 
-          et spectat et spiritus sanctus est a filio et non est auctoritas inaequalitatis et superioritatis quia omnis sunt 
-          aequales et aequales dignitatis Aliae sunt auctoritates[?] plurimae quae quasi evidenter continent 
-          quod spiritus sanctus procedit a filio videatur <name>almachius</name> in sexto libro <title>de quaestionibus armenorum</title>
+          <pc type="#pilcrow"/>Item satis concluditur nomen mittentis per praedicta 
+          <lb ed="#P"/>et habitudo originationis <pc type="virgula">/</pc> modo filius non potest habere auctoritatem supra spiritum sanctum nisi ratione originationis 
+          <lb ed="#P"/>quia omnes 3es personae trinitatis individuae sunt sibi coaequales
+          <!-- break point --> 
+          <pc type="#pilcrow"/>Alia auctoritates plurimae sunt 
+          <lb ed="#P"/>quae sic continent sicut <name>almachanus</name> tractat in suo 6to libro de quaestionibus almenorum 
         </p>
         <p xml:id="ppra-l78-eqspaf">
-          Sequitur quod addicio de processione spiritus sancti a filio nedum fuisset licita ecclesiae latinorum 
-          ymmo soli papae nam in hiis quae sunt evideter in scriptura papa potest facere articulum non dico 
-          quod in omnibus posset scilicet in hiis quae non evidenter sequuntur vel saltem sufficienter maxime 
-          consideratis aliquibus concursibus apparet quod <name>latinorum</name> ecclesia sufficienter fecti
+          <lb ed="#P"/><pc type="#pilcrow"/>Unde sequitur quod talis processio nedum fuit latinis licita immo soli papae quia <unclear>ing?ente?</unclear>
+          <lb ed="#P"/><unclear>nec?te</unclear> posset facere articulum licet non in omnibus <pc type="#punctus"/> <pc type="virgula">/</pc> ex quo considerantibus patet quod licite 
+          <lb ed="#P"/>Latini addiderunt <mentioned>filioque</mentioned>
         </p>
         <p xml:id="ppra-l78-pqndvd">
+          <lb ed="#P"/><pc type="#pilcrow"/>Unde sequitur quod tali
           Ubi advertendum quod in <sic>vicena</sic> 
           synodo sub <name>silvestor papa</name> et <name>constantino imperatore</name> prima synodus fuit celebrata 
           contra <name>arrium</name> qui ponebat distinctionem realem inter patrem et matrem et filium et quod filius esset 
