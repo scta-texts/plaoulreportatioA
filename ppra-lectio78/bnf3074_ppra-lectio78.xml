@@ -171,7 +171,6 @@
         <p xml:id="ppra-l78-amssas">
           <pb ed="#P" n="80-v"/>
           <lb ed="#P"/><pc type="#pilcrow"/>Venio tamen ad materiam solutionis graecorum super facto processionis spiritus sanctus a patre solum
-          <pb ed="#P" n="80-v"/>
           <lb ed="#P"/>et ad hoc videlicet quod quicumque addidit sive subtraxerit anathema sit <pc type="virgula">/</pc>
         </p>
         <p xml:id="ppra-l78-pimaae">
@@ -181,8 +180,8 @@
         </p>
         <p xml:id="ppra-l78-uiasap">
           unde maxime <title>iohannis</title> 
-          <lb ed="#P"/>10 habetur <quote ana="#io16_13">cum venerit autem ille spiritus veritatis</quote> <quote ana="#io14_26">quem mittet pater in nomine meo</quote> etc Et 
-          <lb ed="#P"/>alibi <quote ana="#io16_14 #io16_15">de meo accipiet et annuntiabit vobis</quote> <pc type="#punctus"/> <pc type="virgula">/</pc> et non tamquam accidens sicut doctrina <unclear>tradita</unclear>
+          <lb ed="#P"/>10 habetur <quote xml:id="ppra-l78-Qd1e626" ana="#io16_13">cum venerit autem ille spiritus veritatis</quote> <quote xml:id="ppra-l78-Qd1e629" ana="#io14_26">quem mittet pater in nomine meo</quote> etc Et 
+          <lb ed="#P"/>alibi <quote xml:id="ppra-l78-Qd1e635" ana="#io16_14 #io16_15">de meo accipiet et annuntiabit vobis</quote> <pc type="#punctus"/> <pc type="virgula">/</pc> et non tamquam accidens sicut doctrina <unclear>tradita</unclear>
           discipulo a magistro <pc type="#punctus"/> sed per inspirationem <pc type="#punctus"/>
           
           <title>Io</title> 16 capitulo Cum venit ille spiritus vertatis 
@@ -205,109 +204,142 @@
           <lb ed="#P"/>Latini addiderunt <mentioned>filioque</mentioned>
         </p>
         <p xml:id="ppra-l78-pqndvd">
-          <lb ed="#P"/><pc type="#pilcrow"/>Unde sequitur quod tali
-          Ubi advertendum quod in <sic>vicena</sic> 
-          synodo sub <name>silvestor papa</name> et <name>constantino imperatore</name> prima synodus fuit celebrata 
-          contra <name>arrium</name> qui ponebat distinctionem realem inter patrem et matrem et filium et quod filius esset 
-          creatura et ibi determinatum fuit quod esset consubstantialis patri
+          <lb ed="#P"/><pc type="#pilcrow"/>Unde advertendum est ulterius quod in nicena synodo et constan<lb ed="#P"/>tinonia 
+          ubi primum consilium fuit contra <name>arrianum</name> sub silvestro papa et constantino regente 
+          <lb ed="#P"/>nam <name>arrianus</name> ponebat filium in divinis etiam creatura et iam positus fuit Qui consubstantialem patri
         </p>
         <p xml:id="ppra-l78-sdseha">
-          Secunda synodus scilicet Constan<g ref="#dbdash"/>tino 
-          politana fuit sub <name>danasio papa</name> et <name>theoloricio imperatore</name> propter haeresim macedoenii[?] 
-          qui dicebat spiritum sanctum esse creaturam Et quia ista fuit arriana quia ponit solum 
-          patrem verum deum
+          <lb ed="#P"/><pc type="#pilcrow"/>Alia 6o synodus propter haeresim macedoniorum ponentium filium etiam creaturam distinctam a patre 
+          <lb ed="#P"/>et non ponebat nisi patrem esse verum deum sicut adhuc pagani et propter haec positam fuit hic 
         </p>
         <p xml:id="ppra-l78-eiapai">
-          Ideo positum fuit et determinatum quod filius procederet a patre etiam spiritus sanctus 
-          tamquam idem et inpertinens erat quantum ad obviandum illi errori utrum procederet a filio Ideo 
-          visa causa non oportuit in huiusmodi simbolo movere de filio quia loquebantur de patre tamen 
-          scilicet quod spiritus sanctus dicitur a patre essentialiter et sic non negavit illi de consilio quando etiam a filio 
-          procedat et sic considerata causa non requirebatur pro tunc meretionem[?] spiritus sancti a filio
+          <lb ed="#P"/>Et non opportuit aliquid dicere de filio ymmo de patre solum quare etc et hoc potius fuisset 
+          <lb ed="#P"/>ad haeresim <unclear>oriendam</unclear> <pc type="#punctus"/>
         </p> 
         <p xml:id="ppra-l78-rsrrsc">
-          Pro 
-          solutione ergo rationis advertendum quod ly aliud cum dicitur si quis aliquid addiderit etc conlusione[?] 
-          in sacra scriptura non sempter <corr><del>di</del></corr> dicit distinctum quiditatum[?] quod non dicit quod libet distinctum sed valet 
-          tantum sicut adversum vel gratium et ita aliquanod <corr><del>l</del></corr> capitur <choice><orig>ymmo</orig><reg>immo</reg></choice> saepe utque ex aliquibus locis scripturae 
-          unde <name>apostolus</name> <title>ad titum</title> Rogavi te ne aliter docens <name>paulus</name> non nega?ent[?] quando aliud doceret 
-          quod non sit evidenter expressum sed aliter id eset repugnans 
+          <pc type="#pilcrow"/>Restat adhuc solvere rationem <pc type="virgula">/</pc> pro solutione cuius advertendum est quod li 
+          <lb ed="#P"/><mentioned>aliud</mentioned> ubi dicitur qui aliud addiderit aut etc non dicit semper distinctum quod sive quodlibet distinctum 
+          <lb ed="#P"/>ymmo notat idem quod adversum <pc type="#punctus"/> si contrarium <pc type="#punctus"/> et quod ita capiatur taliter apparet in mutlis locis scripturae 
+          <lb ed="#P"/>unde <name>apostolus</name> <title>ad thymoteum</title> <quote xml:id="ppra-l78-Qd1e771" ana="#Itim1_3">Rogavi te ne aliud doceres</quote> etcunde non negavit quin bene 
+          <lb ed="#P"/>multa alia bona ab illis quae docebat eum praedicaret et doceret <pc type="virgula">/</pc> sed ad talem sensum quod non <unclear>est</unclear> 
+          <lb ed="#P"/>adversa sive contraria praedicaret
         </p>
         <p xml:id="ppra-l78-eaaspd">
-          eciam <title>ad galthas</title> primo <quote xml:id="ppra-l78-Qd1e614">Si quis 
-            nobis evangelizaverit praeter id[?] quod vos accepistis anathema sit</quote> unde doctos theologus non prohibetur 
-          veritates decere quae vero sunt expresse in articulis fidei <choice><orig>ymmo</orig><reg>immo</reg></choice> officiam eius docere veritates 
-          <pb ed="#E" n="106v"/>Multum distantes a principiis articulis sed non debent docere aliud id est <choice><orig>repungnans</orig><reg>repugnans</reg></choice> 
+          <pc type="#pilcrow"/>Item <title>ad galathas</title> primo <quote xml:id="ppra-l78-Qd1e614">Si quis vobis evangelizaverit 
+          <lb ed="#P"/>aliud quam accepistis anathema sit</quote> <pc type="#punctus"/> unde pro tanto theologus non pro tanto anathema 
+          <lb ed="#P"/>reputatur si multa alia bona doceat <pc type="#punctus"/> Ex quo patet quod ut prius dicitur sumitur li <mentioned>aliud</mentioned>
         </p>
         <!-- review break -->
         <p xml:id="ppra-l78-eiaicp">
-          Ito[?] evidenter 
-          com?nutur et esset quod concedant quod aliquid additum est quam continebatur in simbolo niceno nam 
-          postea in quod concilio determinatum fuit duas voluntates esse mixto et tamen ista veritas non 
-          continebatur in symbolo et sic fidei est addita veritas quae est articulus fidei quae prius non fuit
+          <pc type="#pilcrow"/>Item 
+          <lb ed="#P"/>oportet quod evidenter concedat quod aliud est postea additum quam continebatur in consilio niceno <pc type="virgula">/</pc> unde 
+          <lb ed="#P"/>ibidem determinatum fuit duas voluntates esse in christo et in primo non erat <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l78-sicpdi">
-          unde in culcidonensi concilio sub <name>leone papa primo</name> determinatum fuit duas naturas esse in una 
-          persona scilicet christi 
+          <pc type="#pilcrow"/>Item in calcidansi 
+          <lb ed="#P"/>consilio determinato fuit sub leone papa duas naturas esse in christo scilicet divina et humana
         </p>
         <p xml:id="ppra-l78-ticpaf">
-          Item in consilio constantinopolitano anno quingentesimo[?] sexagesimo 
-          fuit determinatum quod maria virgo genuit non solum hominem sed deum ergo fidei iterum cac[?] aliquid 
-          additum et per consequens ista militat sicut ratio graecorum
+          <pc type="#pilcrow"/>Item in consilio 
+          <lb ed="#P"/>fuit determinatum quod virgo genuit non solum deum sed hominem et hoc fuit anno quinquentismo 6to 
+          <lb ed="#P"/>Et sic dicitur quod est mater dei <pc type="#punctus"/> Iterum <unclear>additiones</unclear> fuit <unclear>tam <!-- possibily added above line --></unclear> alius articulus <pc type="virgula">/</pc> et per consequens ita potuit addi de 
+          <lb ed="#P"/>spiritus sancti productione <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l78-vamsen">
-          Ulterius advertendum quod ante huiusmodi determinationem 
-          doctores <name>graeci</name> et <name>latini</name> scilicet <name>hylarius</name> et <name>ambrosius</name> et <name>augustinus</name>  expresse sumpserunt quod spiritus sanctus 
-          procedit ab utroque non solum isti sed eciam graeci antequam latina determinaret ecclesia scilicet <name>anathasius</name> 
-          <name>didimus</name> et <name>sirrillis</name> <name>crisostimus</name> Qui fuerunt excellentissimae scientiae et reputabatur 
-          evidenter sequi ex scriptura nec reperitione aliquid repugnans
-          <!-- possible break -->
-          Item consideratis et accen?ta[?] 
-          neccessitate quia forte accuebat[?] aliqua haeresis <choice><orig>ymmo</orig><reg>immo</reg></choice> papa suffecisset per se vocavit latinos 
-          <choice><orig>ymmo</orig><reg>immo</reg></choice> non requirebatur eos vocuere attincta distantia locali et in utilitate et eorum ignorantia 
-          quia iam cessareant eorum doctrina et sic inutiliter fuissent vocati <choice><orig>ymmo</orig><reg>immo</reg></choice> est magis <choice><orig>praesumpcio</orig><reg>praesumptio</reg></choice> 
-          negare spiritum sanctum procedere a filio et non habet ab alio non ex superbia vel nequitia
+          <pc type="#pilcrow"/>Ulterius notandum est quod in consilio lateranensi anno deum minimo <unclear>duce?mo</unclear> 
+          <lb ed="#P"/>13mo sub innocento determinatum fuit de spiritus sancti processione <pc type="#pilcrow"/> Doctores enim ante sicut <name>gregorius</name> 
+          <lb ed="#P"/><name>hylarius</name> <pc type="#punctus"/> <name>augustinus</name> et <name>ierominus</name> et <name>ambrosius</name> in scripturis suis posuerant hoc antequam determinatum esset 
+          <lb ed="#P"/>et non solum ipsi verum et graeci sicut <name>athanasius</name> et <name>crisostomus</name> qui fuerunt doctores <unclear>av??</unclear> 
+          <!-- break ? -->
+          <lb ed="#P"/>Et per consequens tam ex dictis latinorum quam etiam graecorum et maxime doctorum sanctorum patet spiritum sanctum 
+          <lb ed="#P"/><unclear>procedere</unclear> a patre et filio et ideo determinato non videtur repugnans 
+          <!-- break --> 
+          <pc type="#pilcrow"/>Quare autem graeci in 
+          <lb ed="#P"/>illo consilio non fuere potest dici quod attenta locorum distantia et <unclear>varie?te</unclear> ydiomatum fuit hoc 
+          <lb ed="#P"/>quod non venirent deliberatum et pro tanto latini eoipso non sunt excommunicati
         </p>
         <p xml:id="ppra-l78-igqhqn">
-          Item <name>gregorius</name> 
-          4tus in lugundmensis Consilio praesentibus graecis et consentientibus scilicet patriarcha quodam 
-          cum aliis praelatis determinavit quod patre et filius sunt unum principium spiritus sancti ipsis praesentibus et 
-          conferentientibus[?] ideo prima determinatio scilicet lateransis[?] fuit satis approbata per gracos ergo graeci 
-          magis fuit censendi haeretici quam latini.
+          <pc type="#pilcrow"/>Item <name>gregorius</name>
+          in lugdunensi consilio praesentibus graecis et censentibus si patriarcha quodam praesente determinavit 
+          <lb ed="#P"/>quod pater et filius sint unum principium productionis spiritus sancti <pc type="#punctus"/> <pc type="virgula">/</pc> Ex quo sequitur tunc quod graeci magis censendi 
+          <lb ed="#P"/>sunt haeretici quam latini
         </p>
         <p xml:id="ppra-l78-sciifg">
-          Contra istud ut videtur est auctoritas <name>damasceni</name> dicentis 
-          ex filio autem spiritum sanctum non dicimus et sic tenet ut videtur quod non procedit ex filio
+          <pc type="#pilcrow"/>Contra tamen hoc est auctoritas <name>damasceni</name> in qua dicitur quod ex fiio 
+          <lb ed="#P"/>spiritus sancto non procedit <pc type="#punctus"/> 
         </p>
         <p xml:id="ppra-l78-rpqgel">
-          Secundum 
-          est facilis quia damnascenus expresse en??at articulos et inter illos dicit hunc non esse articulum 
-          quia tunc non fuit determinatum quia ultimum refert hunc esse fidei et sequi ex fide
+          <pc type="#pilcrow"/>Unde ad hoc sine dubio facilis est responsio <pc type="virgula">/</pc> nam ipse enumerat articulos 
+          <lb ed="#P"/>fidei et inter ipsos non enumerat quia forte nec licitum erat quia haec fuit ante determinationem ecclesiae et per <unclear>consequens</unclear> 
+          <lb ed="#P"/>non dicit quia <del rend="strikethrough">non</del> voluit solum enumerare illa quae magis spectabat ad enumerationem
         </p>
-        <p xml:id="ppra-l78-spdnec">Sequitur[?] 
-          potest dici quod fuit eius opinio nec censendus est haereticus quia fuit ante determinationem ecclesiae etiam 
-          <title>Reychardus de sancto victore</title> dixit essenciam generare
+        <p xml:id="ppra-l78-spdnec">
+          <pc type="#pilcrow"/>2o dicitur quod <unclear>ne?tur</unclear> 
+          <lb ed="#P"/>sibi si sic <unclear>po?ret</unclear> simpliciter nec in hoc pro tanto reputaretur haereticus quia fuit ante ecclesiae determinatione 
+          <lb ed="#P"/>sicut iam dictum est <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l78-edscis">
-          Sequitur quod greaci simpliciter sunt censendi haeretici 
-          ei nam ipsi discedunt a concilio generali lateranen[?] eciam a Consilio lugudinensi 
-          ubi graeci fuerunt praesentes et determinatum fuit quod pater et filius sunt principium spiritus sancti
+          <pc type="#pilcrow"/>Ex quilibet omnibus sequitur quod in haec maxime graeci censendi sunt haeretic
+          <lb ed="#P"/>sicut patet de consilio lugdusi <pc type="#punctus"/> Et sic non possunt evadere Et etiam ratio sua est sophistica quia 
+          <lb ed="#P"/>consilium generale non intendebat nisi <unclear>dubia</unclear> removere et pro tanto novas propositiones <unclear>dubiae</unclear>
         </p>
         <p xml:id="ppra-l78-acqiem">
-          Sequitur 
-          quod non v?ta?o[?] eorum nullo modo excusat eos quia attenta articuli evidencia papa solus suffecisset
+          <lb ed="#P"/><pc type="#pilcrow"/>Ulterius sequitur quod <del rend="strikethrough">non</del> vocatio eorum nullo modo excusat eos quin credant et teneant hoc <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia 
+          <lb ed="#P"/>adhuc solus papa suffecisset 
+          
+          <pc type="#punctus"/> Et sic eos excusantes male sentiunt <pc type="#punctus"/> ut satis clarum est 
+          <lb ed="#P"/>Et ergo patet quomodo li <mentioned>aliud</mentioned> glosari debet
         </p>
         <p xml:id="ppra-l78-aardhr">
-          Ad aliam rationem de pluralitate consiliorum etc potest dici quod pars minor ubi crederet quod non 
-          vitae celebrarentur rationabiliter deberet refugere ubi tamen appareret quod credo[?] 
-          quod non deberet rennuere[?]
+          <pc type="#pilcrow"/>Et tunc ad rationem de scismate ecclesiae 
+          <lb ed="#P"/><pc type="#pilcrow"/>primo potest dici quod pars minor ubi rite non crederetur celebrare consilium posset <pc type="virgula">/</pc> dum tamen uteretur de 
+          <lb ed="#P"/>vitae et sanctae consilio <unclear>ipso</unclear> <pc type="#punctus"/>
         </p>
-        <p xml:id="ppra-l78-sledaf">Secundo dicitur quod licet ex institutione divina instituatur papa tamen hunc 
-          esse papam in hunc non est de articulis fidei
+        <p xml:id="ppra-l78-sledaf">
+          <pc type="#pilcrow"/>2o licet constitutione divina aliquis sit papa <pc type="#punctus"/> nihilominus hunc esse pappam non est 
+          <lb ed="#P"/>de fidei articulis
         </p>
         <p xml:id="ppra-l78-tpduii">
-          Tertio potest dici 2m quod dixit alios graecos quia inclu<g ref="#dbdash"/>ditur 
-          aliquid sancti quod latet ecclesiam[?] in hoc posset decipi etc.
+          <pc type="#pilcrow"/>3o sicut de iarsanno dixit in prima lectura sua quod in casu quod <unclear>alius</unclear> 
+          <lb ed="#P"/>falsi in haec includeretur consilium erraret nec esset <unclear>admi?dum</unclear> et ista sufficiat de ista scismate 
         </p>
+        <div xml:id="ppra-l78-Dd1e1078">
+          <head xml:id="ppra-l78-Hd1e1080">Conclusiones</head>
+          <p xml:id="ppra-l78-d1e1083">
+            <pc type="#pilcrow"/>Secuntur conclusiones lectionis supra distinctionem 28vam 2i pars oppinio pelagi recitatur a magistro 
+            <lb ed="#P"/>si quod naturalia nostra sufficiunt ad implendum dei mandata <pc type="#punctus"/> pro merendo vitam aeternam 
+            <lb ed="#P"/>cum hoc concedebat gratiam dei <pc type="#punctus"/> sed non ita faciliter et concedebat quod <unclear>m?bat</unclear> ad etc <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l78-d1e1102">
+            <pc type="#pilcrow"/>tunc 
+            <lb ed="#P"/>prima conclusio de gratia cooperante <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l78-d1e1111">
+            <pc type="#pilcrow"/>2a conclusio sine dei gratia nullus potest facere mandata dei <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l78-d1e1118">
+            <pc type="#pilcrow"/>3a conclusio 
+            <lb ed="#P"/>non solum gratiam datur tamquam pro?? sed tamquam neccessaria <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l78-d1e1128">
+            <pc type="#pilcrow"/>4a conclusio gratia dei non <unclear>mereri</unclear> potest prima sed alia
+          </p>
+          <p xml:id="ppra-l78-d1e1136">
+            <pc type="#pilcrow"/>4a 
+            <lb ed="#P"/>oppinio pelagi fuit quod primi nascuntur sine peccato originali quia dicit iste non habuit liberum 
+            <lb ed="#P"/>arbitrium et quidquid dicat totum ad immensitatem resolvatur et nostri imbecilitate
+          </p>
+          <p xml:id="ppra-l78-d1e1145">
+            <pc type="#pilcrow"/>7a <unclear>aug?m</unclear> quod homo 
+            <lb ed="#P"/>non peccat in haec quod <unclear>vitare</unclear> non potest <pc type="virgula">/</pc> unde creatura potest aliqua dispositione naturali quam habet 
+            <lb ed="#P"/>et sic ipsa posita ponitur et gratia
+          </p>
+          <p xml:id="ppra-l78-d1e1164">
+            <pc type="#pilcrow"/>Omnes aliae conclusiones reducuntur quod creatura possit mereri mediante gratia divina 
+            <lb ed="#P"/>etc et haec sint dicta de ista lectione <unclear>dieioum post capam ieiu?orum immediate</unclear>
+          </p>
+        </div>
+          
       </div>
     </body>
   </text>
