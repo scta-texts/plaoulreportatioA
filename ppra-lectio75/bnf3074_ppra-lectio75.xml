@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 75, de Trinitate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 75, de Trinitate [Bnf 3074 Transcription]</title>
+          <date when="2018-07-29">July 29, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-29" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="78-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio75">
+        <head xml:id="ppra-l78-Hldtldt">Lectio 75, de Trinitate [BNF 3074 Transcription]</head>
+        <div xml:id="ppra-l75-Dd1e102">
+          <head xml:id="ppra-l75-Hcapdid">Contra aliqui ponentes distinctiones in divinis</head>
+          <p xml:id="ppra-l75-edarss">
+            <lb ed="#P"/>Consequenter adhuc circa materiam trinitatis ex dictis enim patet qualiter multi excedunt <unclear>articulos</unclear> 
+            <lb ed="#P"/>obligabiles primi sunt proprietatis ad personas <pc type="virgula">/</pc> 2i personarum ad essentiam primi incidunt contra regulam <sic>ancelmi</sic> 
+            <lb ed="#P"/><lb ed="#E"/>prius tactam mihi praecedenti lectione  <pc type="#punctus"/> quia huiusmodi <unclear>consimiles</unclear> simplicitati divinae repugnant
+          </p>
+          <p xml:id="ppra-l75-srsqef">
+            <pc type="#pilcrow"/>Item refellendi sunt sint positores 
+            <lb ed="#P"/>plurium absolutorum <pc type="#pilcrow"/>ubi advertendum est quod personas divinas posuerunt quidam ut <subst><del rend="strikethrough">essentia</del> <add place="in-line">entia</add></subst> absoluta est quamquam 
+            <lb ed="#P"/>possint inpugnari sequitur quod non possunt esse essentia absoluta quia inter ea non potest esse realis distinctio 
+          </p>
+          <p xml:id="ppra-l75-tsqndp">
+            <lb ed="#P"/><pc type="#pilcrow"/>Ulterius sequitur contra separantes materiam a formis sillogisticis non considerantes quod ibi sit dici de omni 
+            <lb ed="#P"/>sed bene materia considerata reperietur ars sillogistica in terminis in divinis tenere <pc type="#punctus"/> <del>quo viso</del> tam in affirmationis quam 
+            <lb ed="#P"/>in negativis <pc type="virgula">/</pc> et sic <name>aristoteles</name> satis sufficienter determinavit <pc type="#pilcrow"/> unde averroyis notat differentiam inter propositionem universaliter 
+            <lb ed="#P"/>et dici de omni <pc type="#punctus"/>
+            Sequitur contra separantes materiam trinitatis <pc type="#pilcrow"/>Nam dicit quod ad hoc quod aliqua propositio secundum communem modum loquendi sit universalis sufficienter quod subiectum 
+            <lb ed="#P"/>verificetur de quolibet suorum singularium sive sit singulare vagum <pc type="#punctus"/> sive determinatum <pc type="#punctus"/> quod sit 
+            <lb ed="#P"/>de omni requiritur nedum verificatio suorum singularium omnimode sed sufficit quod partum sit verificabile de 
+            <lb ed="#P"/>subiecto lict non verificetur actu <pc type="#punctus"/> verbia gratia de ista omnis essentia divina est pater hoc est universalis et eset in ea 
+            <lb ed="#P"/>dici de omni quia de quocumque affirmatur essentia de eodem affirmatur pater <pc type="#punctus"/> et si aliquid <unclear>su?um</unclear> <unclear>erit</unclear> sub essentia de 
+            <lb ed="#P"/>quo non veificaretur partum etc esset falsa et heri fuit visio de ista <pc type="#punctus"/>
+            <!-- possible break point --> 
+            <pc type="#pilcrow"/>Consequenter est sciendum quod circa istam 
+            <lb ed="#P"/>materiam <unclear>praeno?tae</unclear> sunt quaedam deceptiones scilicet <unclear>15</unclear> quae pro praesenti non recitantur <pc type="#punctus"/> <unclear>aristoteles</unclear> post 
+          </p>
+        </div>
+        <div xml:id="ppra-l75-Dd1e201">
+          <head xml:id="ppra-l75-Hcgacga">Circa generationem aeternam</head>
+          <p xml:id="ppra-l75-pmivpl">
+            pro intellectu 
+            <lb ed="#P"/>summae generationis inducitur haeresis arriana <pc type="#punctus"/> ut elucescat nostra materia quam quidam <name>arrius</name> 
+            <lb ed="#P"/><!-- possible correction --> contra <name>victorinum</name>
+            <!-- possible break -->
+            <pc type="#pilcrow"/>
+            Unde dicebat <name>arrius</name> quod filius non poterat per quamcumque <del rend="strikethrough">potentiam</del> generationem <unclear>nisi?</unclear> 
+            <lb ed="#P"/>cum distinctione essentiae a patre generari <pc type="#punctus"/> Et inductive arguebat sit nam non producit pater filium 
+            <lb ed="#P"/>sive generat sicut linea producitur a puncto fluente <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l75-sfnias">
+            2o non sicut impressio a sigillo <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l75-tfncie">
+            3o non 
+            <lb ed="#P"/>sicut radius a sole <pc type="#punctus"/> et multis aliis modis <pc type="#pilcrow"/> Ex quo infert <name>arrius</name> quod impossibile est filium 
+            <lb ed="#P"/>in divinis cum ydemptitate essentiae vel substantiae a patre procedere
+          </p>
+        </div>
+        <div xml:id="ppra-l75-Dd1e243">
+          <head xml:id="ppra-l75-Hcontio">Confirmatio</head>
+          <div xml:id="ppra-l75-Dd1e248">
+            <head xml:id="ppra-l75-Hpriimo">Primo</head>
+            <p xml:id="ppra-l75-cqgqcg">
+              <pc type="virgula">//</pc>Confiirmat sic generatio est indita rebus 
+              <lb ed="#P"/>ratione deffectus sed in divinis nullus est deffectus igitur generatio in divinis non habet locum <pc type="#punctus"/> consequentia tenet pro tanto 
+              <lb ed="#P"/>nam propter indivisarum conservationem indita est et antecedens patet quod prima parte per <name>philosophum</name> 2o <title>de generatione</title> et <unclear>pro 2a</unclear> 
+              <lb ed="#P"/><unclear>per te</unclear> <unclear>manifestissimum</unclear> est quia deus summe perfectus
+            </p>
+          </div>
+          <div xml:id="ppra-l75-Dd1e281">
+            <head xml:id="ppra-l75-Hsecndo">Secundo</head>
+            <p xml:id="ppra-l75-saopef">
+              <pc type="#pilcrow"/>Item omnis generatio assimilat sibi <unclear>generatum</unclear> <unclear>gen?i</unclear> 
+              <lb ed="#P"/>si filius generatur a patre assimilabitur ei et per consequens generabit sicut pater et sic erunt plures filii quod 
+              <lb ed="#P"/>est absurdum et contra fidem <pc type="#pilcrow"/> Contra de spiritu sancto diceretur quod non procedit ab illis <pc type="virgula">/</pc> quia relationes 
+              <lb ed="#P"/>sunt met peronalitates
+            </p>
+            <p xml:id="ppra-l75-eehprd">
+              ex quo sequitur quod filii 
+              et pater non producitis spiritum sanctum <pc type="virgula">/</pc> nam activa spiratio est alia 
+              <lb ed="#P"/>a patre et alia a filio et sic sequeretur quod spiritus sanctus esset duae personae vel spirationes <pc type="#punctus"/> quod erroneum et 
+              <lb ed="#P"/>absurdum est dicere
+            </p>
+            <p xml:id="ppra-l75-eehpid">
+              <pc type="#punctus"/> Ex quibus deduceretur quod pari passu secundum ista essent sex personae in divinis quod 
+              <lb ed="#P"/>est contra fidem catholicam etc 
+            </p>
+          </div>
+          <div xml:id="ppra-l75-Dd1e335">
+            <head xml:id="ppra-l75-Htertio">Tertio</head>
+            <p xml:id="ppra-l75-tasnvs">
+              <pc type="#pilcrow"/>Contra videtur quod spiritus sanctus non procedit a filio secundum antiquum simbolum 
+              <lb ed="#P"/>patet nam in consilio a niceno fuit haec maioris auctoritatis quod a patre procederet <pc type="virgula">/</pc> et additur quod anathema erit 
+              <pb ed="#P" n="78-v"/>
+              <lb ed="#P"/>quicumque contra dixerit <pc type="#punctus"/> et tamen illud consilium generale quia tam graecorum quam latinorum Item 
+              <lb ed="#P"/>in <unclear>pro??</unclear> fidei habetur spiritus qui a patre procedit et additur etiam quod anathema sit quicumque 
+              <lb ed="#P"/>oppositum tenuerit sive qui addiderit sive subtraxerit <pc type="#punctus"/> et hoc patet in <name>ysidoro</name> <pc type="virgula">/</pc> Et tunc 
+              <lb ed="#P"/>posset argui sicut Illud consilium praedictum fuit maxime auctoritatis et tantae quod non quam de post 
+              <lb ed="#P"/>fuit tale <pc type="#punctus"/> nec tantum igitur quicumque dicit contra eum videtur errare et sententiam excommunicationis 
+              <lb ed="#P"/>incurrere <pc type="virgula">/</pc> modo graeci tenent ipsum et eius <unclear>serimonas</unclear> et nos non igitur excommunicati esse minus 
+              <lb ed="#P"/>ipso facto <pc type="virgula">/</pc> nisi assignaretur alia ratio <pc type="#punctus"/> <pc type="virgula">/</pc> Cum adhuc ita sit quod graeci ad ultimum <unclear>consilium</unclear> 
+              <lb ed="#P"/>non fuerit convocati et per consequens in ultimo non fuit nisi particularis auctoritas <unclear>quarum</unclear> 
+              <lb ed="#P"/>graeci nos reputant excommunicatos <pc type="#punctus"/>
+            </p>
+            <p xml:id="ppra-l75-eciaph">
+              <note type="marginal-note" place="margin-left">de materia scismatis ecclesiae</note>
+              <pc type="#pilcrow"/>Unde circa istam praesentem materiam posset induci 
+              <lb ed="#P"/>materia scismatis currentis anno a <unclear>passione domini</unclear> millesimo <unclear>iiius <!-- roman numerals for 3 --></unclear> 78o usque tunc quod lectum fuit haec 
+              <lb ed="#P"/>in secundum bono quo currebat annus millesimus iiimus 93us nam aliqui generale consilium repspuerit 
+              <lb ed="#P"/>et infuerunt quod maior pars dicens pro uno quam alio <pc type="#punctus"/> <pc type="virgula">/</pc> sed hoc non infert quia tunc unus papparum <unclear>ma??</unclear> 
+              <lb ed="#P"/>partem contra se habens citius deberet ipsam velle fore <unclear>conversam</unclear> <pc type="#punctus"/> 
+              <!-- possible break -->
+              <pc type="#pilcrow"/>Alii referet hoc 
+              <lb ed="#P"/>ad humanam potentiam et vocum multitudinem <pc type="#pilcrow"/> Ex quibus omnibus <unclear>sive</unclear> ampliori deducitone 
+              <lb ed="#P"/>infertur correlarie quod consilium generale non regitur spiritu sancto <pc type="#punctus"/> <pc type="virgula">/</pc> Sic in proposito de materia 
+              <lb ed="#P"/>productionis spiritus sanctus fuit nam una pars fuit concors licet minor scilicet latini quod procederet 
+              <lb ed="#P"/>ab ambabus personis <pc type="#punctus"/> licet graeci non fuisset etc <pc type="#punctus"/> sed <unclear>curtamnarie</unclear> Respondetur quod sicut 
+              <lb ed="#P"/>alias fuit visum quod hoc creditur fuisse per consilium maturum quod non oportebat graecos quia ut 
+              <lb ed="#P"/>mihi <unclear>pluribus</unclear> non tenetur <unclear>ritum</unclear> latinorum sicut de sacramento altaris nam celebrant de pone 
+              <lb ed="#P"/>magno finito et habent multas in sua missa ordines quas non habemus <pc type="#punctus"/> quare etiam <pc type="#punctus"/> qui 
+              <lb ed="#P"/>aliam <unclear>solutionem</unclear> voluerit diligenter inquirat studendo quia plaoust non reddidit pro tunc neque 
+              <lb ed="#P"/>de hoc neque de scismate <pc type="#punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l75-Dd1e415">
+          <head xml:id="ppra-l75-Hcaacaa">Circa argumentum <name>Arrii</name></head>
+          <p xml:id="ppra-l75-caaich">
+            <pc type="#pilcrow"/>Tunc istis in pace demissis venio ad rationes <name>arrii</name> 
+            <lb ed="#P"/>Respondendo quod per similitudine humanarum conclusit generationem in divinis sive relationem 
+            <lb ed="#P"/>sed talis multum differt a creaturis quare sua positio et ymaginatio est valde stulta et fallibilis et sic 
+            <lb ed="#P"/>non concludebat sicut <name>boetius</name> qui dicit quod nos arguendo in divinis sic concludere debemus quod pater eset deus 
+            <lb ed="#P"/>et filius est deus <pc type="#punctus"/> et spiritus sanctus est deus <pc type="#punctus"/> igitur unus deus <pc type="#punctus"/> et tamen non 3es non obstante quod sit <pc type="#punctus"/> 3es primo distincte 
+            et haec satis superius est deductum <pc type="#punctus"/> <pc type="virgula">/</pc> nam breviter <name>arrius</name> ignoravit principia nostra
+          </p>
+          <p xml:id="ppra-l75-pdaaid">
+            Et tunc ad men<lb ed="#P"/>tem 
+            arguenti dicitur quod si reperiatur aliqua <unclear>similitudo</unclear> non tamen ad e?tur deo intrinsece et perfecte <pc type="#punctus"/>  
+          </p>
+          <p xml:id="ppra-l75-sdqeii">
+            <pc type="#pilcrow"/>2o 
+            <lb ed="#P"/>dicitur quod subtiliter considendo creaturas possumus sufficienter denegare ad generationis huiusmodi <unclear>cogmi?ter</unclear> 
+            <lb ed="#P"/>et hoc sequestrando quod erit perfectionis in creaturis et tenendo quod est tenendum de perfectione 
+            <!-- possible break point -->
+            <pc type="#pilcrow"/>unde igitur 
+            <lb ed="#P"/>producit splendorem coaeve sibi vel etiam aliquem effectum 
+          </p>
+          <!-- reason for break not clear -->
+          <p xml:id="ppra-l75-ihpipc">
+            et sic perfectio est in effectu <pc type="virgula">/</pc> vel homo producit 
+            <lb ed="#P"/>hominem non secundum coevitatem In prima productio est quaedam perfectio in effectum <pc type="virgula">/</pc> et in 2am quaedam imperfectio 
+            <lb ed="#P"/>removeatur ergo illa imperfectio <unclear>deinde <!-- possible correction --></unclear> homine sunt aliquae perfectiones <pc type="virgula">/</pc> sicut effectum esse essentialem <unclear>sive ce?</unclear> 
+            <lb ed="#P"/>etc sequestremus id quid reperietur imperfectionis sic poterit competere divinis vel saltim esse similitudo aliqualis 
+            <lb ed="#P"/>et hoc videtur tangere <ref xml:id="ppra-l75-Rd1e499"><name ana="#AlexanderOfHales">magister alex de hallis</name></ref>
+          </p>
+          <p xml:id="ppra-l75-sneiif">
+            <pc type="#pilcrow"/>Ulterius est advertendum quod non est intrinseca 
+            <lb ed="#P"/>ratione potentiae passivae <del rend="strikethrough">rea</del> suae durationis recipere principium <pc type="#punctus"/> nam doctores dicunt si illa habitudo a creatura 
+            <lb ed="#P"/>removebatur non videretur imperfectionem habere
+          </p>
+          <p xml:id="ppra-l75-tneapp">
+            <pc type="#pilcrow"/>Ulterius tamen advertendum est quod productio verbi 
+            <lb ed="#P"/>non est creaturae per quamcumque potentiam nec est in ipsa reperibilis <pc type="virgula">/</pc> pro quo etiam est advertendum quod aliqui ymaginati 
+            <lb ed="#P"/>fuerint creaturam existere posse et tamen non tempori realiter existere licet impossibile sit ipsa aeternaliter <unclear>productio</unclear>
+          </p>
+          <p xml:id="ppra-l75-dpnaea">
+            <lb ed="#P"/><pc type="#pilcrow"/>Et quantum ad primum est simile de corpore christi in consecratione sine ampliori deductione <pc type="#punctus"/> Et ita dicunt 
+            <lb ed="#P"/>aliqui realiter existere aeternae et tamen tempori non mensurari <pc type="#punctus"/> 
+          </p>
+          <p xml:id="ppra-l75-spdqtm">
+            <pc type="virgula">/</pc> Quo concesso non sequeretur adhuc 
+            <lb ed="#P"/>quod esset aeterna quoniam adhuc in ipsa <unclear>non <!-- possible added --></unclear> esset perfectio intrinseca sive <unclear>d??d</unclear> et sic non valet consequentia vle dicitur 
+            <lb ed="#P"/>quod casus eo ipso esset impossibilis
+          </p>
+          <p xml:id="ppra-l75-eiscep">
+            Ex quo sequitur quod talis emanatio est consurgens ex immensa dei 
+            <lb ed="#P"/>simplicitate et eius perfectione et istud multitudines debet inferri in materia tali <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l75-d1e724">
+            <pc type="#pilcrow"/>Secuuntur ergo conclusiones 
+            <lb ed="#P"/>distinctionis prima conclusio et hoc supra 25am distinctionem 2i liberum arbitrium duo includit scilicet voluntatem 
+            <lb ed="#P"/>intellectum et de hoc fuit heri dictum <pc type="#punctus"/> <pc type="#pilcrow"/>2o <del rend="strikethrough">conclusio</del> liberum arbitrium dicitur <unclear>respectu futurum</unclear> sed de praesenti est de <unclear>sensitiva</unclear> 
+            <lb ed="#P"/>nam dicunt quidam quod mihi instanti producit etc
+          </p>
+          <p xml:id="ppra-l75-d1e749">
+            <pc type="#pilcrow"/>2a conclusio liberum arbitrium reperitur secundum magis et minus 
+            <lb ed="#P"/>in hominibus <pc type="#punctus"/> unde etiam in angelis magis et aliquibus minus <unclear>mihi</unclear> hominibus autem magis secundum studii exercitationem 
+            <lb ed="#P"/>vel morum exercitationem <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l75-d1e766">
+            <pc type="#pilcrow"/>3a conclusio primi parentes fuerunt debilitati quantum ad liberum arbitrium scilicet quantum 
+            <lb ed="#P"/>ad eius executionem <pc type="#punctus"/>
+          </p>
+          <p xml:id="ppra-l75-d1e775">
+            <pc type="#pilcrow"/>4a conclusio quaedam est libertas a miseria quae relevatur per gratiam <pc type="virgula">/</pc> alia quae <unclear>amei?te</unclear> 
+            <lb ed="#P"/>per <del rend="strikethrough">g</del> nullam et hoc de lectione
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

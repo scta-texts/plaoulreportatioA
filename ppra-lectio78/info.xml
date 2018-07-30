@@ -2,12 +2,11 @@
   <body>
     <div xml:id="ppra-lectio78">
       <head xml:id="ppra-l78-Hldtldt">Lectio 78, de Trinitate [Palantine Transcription]</head>
-      <p xml:id="ppra-l78-safaap">
-        <assertions>
-          <assertion property="isRelatedTo" target="http://scta.info/resource/l78-safaap"/>
-          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l78-safaap"/>
-        </assertions>  
+      <!--
+        not present in reportatio A
+        <p xml:id="ppra-l78-safaap">
       </p>
+      -->
       <p xml:id="ppra-l78-peqsem">
         <assertions>
           <assertion property="isRelatedTo" target="http://scta.info/resource/l78-peqsem"/>
