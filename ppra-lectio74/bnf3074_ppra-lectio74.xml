@@ -48,7 +48,7 @@
       </div>
     </front>
     <body>
-      <div xml:id="ppra-lectio74">
+      <div xml:id="ppra-l74">
         <head xml:id="ppra-l74-Hldtldt">Lectio 74, de Trinitate [Erlangen Transcription]</head>
         <div xml:id="ppra-l74-Dd1e4124">
           <head xml:id="ppra-l74-Hdmimit">De modo imaginando Trinitatem</head>
@@ -106,81 +106,74 @@
             <p xml:id="ppra-l74-equpit">
               nam licet ad primum casum conceditur 
               <lb ed="#P"/><unclear>quod</unclear> ex hoc tamen non sequeretur nisi conversus articulus nam unitas personalis et unitas essentialis 
-              <pb ed="#P" n="77v"/>
+              <pb ed="#P" n="77-v"/>
               <lb ed="#P"/>sine cum trinitate essentiarum Sed si trahatur per modum similitudinis viceversa prout supponatur quod <name>magister henricus 
-              <lb ed="#P"/>de harcia</name>
-              <!-- left off -->
-              et prima eas assumpsisset <unclear>ratione</unclear> sequitur casus oppositus et 
-              <lb ed="#E"/>conversus ad materiam benedictae trinitatis quia esset unitas personarum cum trinitate essentiarum 
-              <lb ed="#E"/><name>magister henricus de hassia</name> introducit istum modum pro similitudine quia viceversa est in isto modo ymaginandi 
-              <lb ed="#E"/>quantum ad rationem Unde prima intelligentia utramque aliarum unit scilicet ypostatice et sic non est nisi 
-              <lb ed="#E"/>una subsistentia et sic est de unica persona et tres naturae et in <del rend="strikethrough">ista</del> trinitate benedicta est unitas 
-              <lb ed="#E"/>naturae trinitas personarum
+              <lb ed="#P"/>de harcia</name> ferrit in casu essent 3es naturae et una essentia <unclear>superna</unclear> <pc type="#punctus"/> Et sic debet ymaginari 
+              <lb ed="#P"/>oppositis
             </p> 
             <p xml:id="ppra-l74-ihopei">
-              deficit ulterius in hoc quod dicit quod stante unione personali ad huiusmodi 
-              <lb ed="#E"/>naturam dicit patrem distingui a filio nam ponere unitatem personarum et ponere distinctionem relati<lb ed="#E"/>vam 
-              quae non recipit nisi subsistentias est <del rend="strikethrough">p</del> oppositum in adiecto et implicat quia eo ipso 
-              <lb ed="#E"/>quod est distinctio inter patrem et filium est etiam distinctio personalis
+              <pc type="#pilcrow"/>Decipimur ulterius quia pater distinguitur a filio relative In hoc casu esset implicatio <unclear>quantum etc</unclear> 
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4470">
             <head xml:id="ppra-l74-Htmtmtm">Tertius modus</head>
             <p xml:id="ppra-l74-aeipev">
-              Alia est ymaginatio considerando divinam essentiam 
-              <lb ed="#E"/>2m triplicem habitudinem primo modo ut intellectum omnia speculative repraesentem et intelligentem 
-              <lb ed="#E"/>Secundo modo considerando divinam essentiam ut practice res cognoscentem Tertio modo et amorose 
-              <lb ed="#E"/>res producentem diligentem et volentem
+              <lb ed="#P"/><pc type="#pilcrow"/>Alius modus ymaginandi nam considerando divinam essentiam secundum triplicem habitudinem potentiae <pc type="#punctus"/> ut 
+              <lb ed="#P"/>intellectus primo repraesentans <pc type="virgula">/</pc> 2o ut practice omnes res <pc type="#punctus"/> creatas cognoscens 3o sicut volens etc <pc type="virgula">/</pc> 
             </p>
             <p xml:id="ppra-l74-pmevss">
-              Primo modo potest vocari parens vel pater nam notitia speculativa 
-              <lb ed="#E"/>absolute considerata habet quaedam rationem prioritatis ad practicam executivam et 2o modo potest vocari filius 
-              <lb ed="#E"/>et tertio modo potest vocari spiritus sanctus
+              primo 
+              <lb ed="#P"/>potest vocari pater <pc type="#punctus"/> ut habitudo apprehensiva <pc type="#pilcrow"/> 2o filius ut habitudo rerum productiva <pc type="virgula">/</pc> 3o spiritus sanctus ut habitudo 
+              <lb ed="#P"/>rerum applicativa quae et amor vocatur <pc type="#punctus"/> <pc type="virgula">/</pc>
             </p>
+            <!--  division a bit unclear here -->
             <p xml:id="ppra-l74-eimass">
-              Et sic dixerunt aliquae quod semper est eadem res sed essentia consi<lb ed="#E"/>derata 
-              primo modo est pater 2o modo est filius tertio modo spiritus sanctus et sic haeretici scilicet Sabellina 
-              <lb ed="#E"/>haeresis concesserunt unde <name>Sabellius</name> confundebat personas id est nullam penitus distinctionem posuit inter 
-              <lb ed="#E"/>personas Et <name>Arrius</name> naturam separabit et posuit distinctionem inter essentiam et personas
+              Et iuxta hoc haeretici deum ymaginatur fuere trinitatem 
+              <lb ed="#P"/>concedentes scripturam sacram non tamen cum distinctione personarum sed solum nomini <pc type="virgula">/</pc> et ista fuit oppinio <name>sabellii</name>
+              <lb ed="#P"/><pc type="#pilcrow"/>Unde <name>arrius</name> autem substantiam confundebat <pc type="#punctus"/> <name>sabellius</name> uno personas patres non ponebat
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4550">
             <head xml:id="ppra-l74-Hqrmqrm">Quartus modus</head>
             <p xml:id="ppra-l74-qmeavi">
-              Alia ymagi<lb ed="#E"/>natio 
-              ponendo personas divinas non esse proprie substantias vel accidentia sed <sic>quandam</sic> similitudinem 
-              <lb ed="#E"/>Sicut aliqui philosophi posuerunt accidentia esse quosdam modos rerum Ita 2m istam ymaginationem 
-              <lb ed="#E"/>in divina essentia non est pluralitas rerum realiter distinctarum sed bene modorum quorundam quia consecuntur 
-              <lb ed="#E"/>naturam corporalem Istae positiones sunt per ecclesiam condempnatae etiam processus sacrae scrip<lb ed="#E"/>turae 
-              est satis in oppositum
+              <pc type="#pilcrow"/>Alius 
+              <lb ed="#P"/>ymaginandi modus ponendo personas non esse proprie substantias vel accidentia sed se habere per quemdam modum 
+              <lb ed="#P"/>sicut quidam posuerunt per modum substantiae vel accidentis Ita quod dicunt quod in <del rend="strikethrough">diffinitio</del> deo non est distinctio nec 
+              <lb ed="#P"/>sunt substantiae nec accidentia si <unclear>personae</unclear> intrinsece sed sicut in nobis <pc type="#pilcrow"/>Sed quia istae positiones sunt contempnendae 
+              <lb ed="#P"/>et in ecclesia catholica <unclear>abi?dae</unclear> nihilominus earum falsitas aliqualiter <unclear>m?at</unclear> ad veritatis mihi hac materia cognitionem
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4594">
             <head xml:id="ppra-l74-Hqnmqnm">Quintus modus</head>
+            <!-- review paragraph division -->
             <p xml:id="ppra-l74-qiefhv">
-              Alia est ymaginatio appropinquans satis ymaginatio fidei scilicet quod in deo 
-              <lb ed="#E"/>est unitas essentiae et est ibi trinitas non positiva sed privativa etc ibi numerus non positivus sed priva<lb ed="#E"/>tivus 
-              ita quod non est numerus nisi per privationem quendam scilicet sic quod pater non est filius etc Ad istum 
-              <lb ed="#E"/>sensum quod pater sic est pater quod non alius Et istam tangit <ref><name>magister</name> distinctione 24 primi</ref>
+              <lb ed="#P"/>Idcirco dicitur quod in deo est unitas essentialis quae realiter pater et filius et spiritus sanctus dicitur et tamen pater 
+              <lb ed="#P"/>non est filius <pc type="#punctus"/> neque filius spiritus sanctus etc et tamen non conceditur quod sit numerus nisi per ymaginatione quam <unclear>dam</unclear> 
+              <lb ed="#P"/>Et ista videtur sequi <name>magister</name> sententiarum distinctione 24a primi <pc type="virgula">/</pc> unde licet aliqui in hoc sibi contradicat <pc type="virgula">/</pc> nihilominus 
+              <lb ed="#P"/>si bene resolvitur <pc type="virgula">/</pc> magister bene dicebat <pc type="virgula">/</pc>
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4636">
             <head xml:id="ppra-l74-Hsxmxm">Sextus modus</head>
             <p xml:id="ppra-l74-suphpf">
-              Ultima positio 
-              <lb ed="#E"/>communis scilicet fidei est quod in trinitate est unica essentia scilicet una in mensa natura simplicissimus quae 
-              <lb ed="#E"/>ratione suae immensitatis et plenitudine bonitatis redundat in 3s subsistentias Ita quod ratione immensae bonitatis 
-              <lb ed="#E"/>non potest subsistere in una subsistentia sed in 3bus subsistentiis ypostasibus vel suppositis
+              <pc type="#pilcrow"/>Ultimus modi ymaginandi quod trinitas est unica 
+              <lb ed="#P"/>essentia et immensa natura simplicissima quae ratione suae immensitatis et plenitudine summae bonitatis 
+              <lb ed="#P"/>redundat in tribus subsistentiis suppositis ypostasibus et ista est conditio immensae trinitatis 
             </p>
             <p xml:id="ppra-l74-pppisi">
-              primum 
-              <lb ed="#E"/>suppositum producit per modum intellectus naturaliter verbum sui et omni expressivum Ideo illa productio 
-              <lb ed="#E"/>vocatur generatio secludendo omnem inperfectionem a generatione quae reperitur in creatura primo modo illa 
-              <lb ed="#E"/>generatio in divinis non est de nichilo ymmo de substantia patris Secundo non est de non esse ad esse 3o 
-              <lb ed="#E"/>non est alicuius indigentis vel dependentis quia tanta est perfectio in producto sicut in producente 
-              Ideo in secundo supposito nulla arguitur inperfectio ratione suae generationis
+              <lb ed="#P"/>primo producit verbum per modum intellectus et ideo genitum vocatur secludendo tamen omnem imperfectionem 
+              <lb ed="#P"/>quae posset in creaturis <sic>repperiri</sic> <pc type="#punctus"/> quia aeterna generation est et semper existens <pc type="#punctus"/> nam ipsa est tanta in 
+              <lb ed="#P"/>productio quanta in producente
             </p>
             <p xml:id="ppra-l74-cvaved">
+              <pc type="#pilcrow"/>Consequenter ab ambabus producitur <sic>producitur</sic> 3a ypostasis sive subsistentia 
+              <lb ed="#P"/>quae <del>realiter</del> minor amor <pc type="#punctus"/> sive donum ambarum ypostasum et est spiritus sanctus Et in istis includitur tota 
+              <lb ed="#P"/>latitudo ipsius immensae et individuae trinitatis et iste modus ymaginandi est <name>magistri plaoust</name> 
+              <lb ed="#P"/>a quo lectura ista fit
+              <!-- possibl break point -->
+              <pc type="#pilcrow"/>Consequenter dicit quod tenenda est <name>beati anselmi</name> regula videlicet quod praecise distinctio 
+              <lb ed="#P"/>relativa in divinis est ponenda nam sic dicit quod tanta ydemptitas concedenda est in divinis quanta fides 
+              <lb ed="#P"/>patitur modo fides hoc patitur igitur etc. Et sequendo istam viam multae difficultates <unclear>eva?tus</unclear>
               Consequenter vi amoris producitur 
               <lb ed="#E"/>tertium suppositum ypostasis vel subsistentia et in istis includitur tota latitudo ymaginabilis 
               <lb ed="#E"/>perfectionis unde requiritur quod sit ibi aliquod productum notitiae et etiam requiritur amor Consequenter 
@@ -193,149 +186,149 @@
         </div>
         <div xml:id="ppra-l74-Dd1e4767">
           <head xml:id="ppra-l74-Hcorria">Corollaria</head>
-          <!-- doesn't seem present <p xml:id="ppra-l74-eiiiic"><g ref="#dbslash"/>Ex istis inferuntur 
-            corollaria.</p> -->
+          <p xml:id="ppra-l74-eiiiic">
+            <lb ed="#P"/><pc type="#pilcrow"/>Unde visis istis ymaginandi modis ponuntur aliqua <sic>correlaria</sic>
+          </p>
           <div xml:id="ppra-l74-Dd1e4774">
             <head xml:id="ppra-l74-Hpcmpcm">Primum corollarium</head>
             <p xml:id="ppra-l74-peqnea">
-              Primum 
-              <lb ed="#E"/>corollarium male dicunt plures illa distingui aliqualiter de quorum nominibus propriis dicuntur 
-              <lb ed="#E"/>contradictoria vel pro nominibus demonstrantibus <unclear>eidem</unclear> affirmatur et negatur verbi gratia hic 
-              <lb ed="#E"/>pater generat haec essentia non generat Ex hoc quod generat dicitur de patre et non generat 
-              <lb ed="#E"/>de essentia <unclear>Concludunt <!-- possible correction here --></unclear> quod pater motibus et essentia divina aliquo modo distinguuntur Istud est contra 
-              <lb ed="#E"/>regulam <name>anselmi</name> quia inter patrem et essentiam non est oppositio relativa igitur in nulla est 
-              <lb ed="#E"/>penitus distinctio unde haec propositiones pater generat et essentia non generat Reducuntur 
-              <lb ed="#E"/>ad tertium modum propositionum materiae trinitatis scilicet propositionum nichil difficultatis adducentium 
-              <pb ed="#E" n="101-r"/>
-              <lb ed="#E"/>vel addentium Patet clare quia huiusmodi propositiones nichil penitus super positionem principalem 
-              <lb ed="#E"/>quia positio principalis est quod aliquid affirmatur de essentia quod negatur de parte scilicet quod 
-              <lb ed="#E"/>haec essentia est tres res Et ita viceversa aliquid affirmatur de patre quod negatur de essentia 
-              <lb ed="#E"/>nam haec est proprietas huius naturae quod est aliquae res una non est alia
+              Primum igitur correlarium quod male 
+              <lb ed="#P"/>dicunt plures illa distingui aliqualiter de quorum nominibus dicuntur praedicata <pc type="virgula">/</pc> contradictoria <unclear>vel</unclear> id verbum affirmatur 
+              <lb ed="#P"/>et negatur <pc type="#punctus"/> sicut in istis pater generat et essentia non <pc type="#punctus"/> <pc type="virgula">/</pc> nam ex hoc quod generat vocant patrem <pc type="#punctus"/> et 
+              <lb ed="#P"/>ex hoc quod essentia non generat dicunt aliqualiter a patre distingui <pc type="#punctus"/> sed haec videtur esse contra regulam anselmi 
+              <lb ed="#P"/>iam positam <pc type="#punctus"/>
+              <!-- possible break -->
+              <pc type="#pilcrow"/>Unde sciendum est quod haec propositio pater generat etiam essentia non reducitur ad 3m genus 
+              <lb ed="#P"/>propositionum in theologia <unclear>posterioris</unclear> et superius narratur nec aliquid difficultatis includunt <pc type="virgula">/</pc> patet quia nihil addunt 
+              <lb ed="#P"/>penitus supra positionem principalem quia non addunt nisi quod pater non est haec duae res vel quod 
+              <lb ed="#P"/>essentia divina est 3es res <pc type="virgula">/</pc> et pater non <pc type="virgula">/</pc> sed <del rend="strikethrough">sua</del> proprietas essentiae est quod sit 3es personae et tamen manet 
+              <lb ed="#P"/>eadem essentia 
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4854">
             <head xml:id="ppra-l74-Hsccium">Secundum corollarium</head>
             <p xml:id="ppra-l74-scqrte">
-              Sequitur 2o falsitas 
-              <lb ed="#E"/>opinionis <name>gilberti poretani</name> dicentis personas distingui per relationes distinctas 
-              <lb ed="#E"/>assistentes et quasi affixas ipsis personis et ipsas personas inter se huiusmodi relationes 
-              <lb ed="#E"/>distinguerent Radix eius fuit nam ymaginando quod relatio nichil addat super essentiam 
-              <lb ed="#E"/>tunc ponere relationem non est ponere nisi essentiam ergo ponere tres relationes non est nisi ponere 
-              <lb ed="#E"/><sic>ter</sic> essentiam
+              <pc type="#pilcrow"/>Ex quibus equitur oppinio <name>gilberti poretarii</name> qui posuit relatione divina esse distincta 
+              <lb ed="#P"/>realiter ab essentia ymmo et a personis <pc type="virgula">/</pc> sed quasi affixa ipsis et assistentem <pc type="#punctus"/> <pc type="#pilcrow"/> Unde ymaginatio sua fuit 
+              <lb ed="#P"/>quod si ponerentur sic tunc non est <unclear>pa?re</unclear> nisi essentiam et nisi repetere tunc essentialem <pc type="virgula">/</pc> Et sic oportet 
+              <lb ed="#P"/>ponere 3es personas in esse distinctio unius ab altera <pc type="virgula">/</pc> et ista ymaginatio <unclear>elegalis</unclear> et subtilis valde
             </p>
             <!-- reconsider paragraph break -->
             <p xml:id="ppra-l74-issdse">
-              et hoc nichil est igitur non est ponenda talis distinctio patet quia huiusmodi distinctiones sunt 
-              <lb ed="#E"/>abiciendae
-              <!-- para break might go better here -->
-              Ad rationem suam illa petit ymaginationem trinitatis Et petit quod ymaginatio 
-              <lb ed="#E"/>trinitatis clare videatur ad oculum et non potest quia sunt tres personae et quaelibet est ita 
-              <lb ed="#E"/>eadem cum essentia sicut cum se ipsa et distincta a qualibet aliarum personarum et ista est natura 
-              <lb ed="#E"/>rei simpliciter inmensae talis proprietas non omnino potest <del rend="strikethrough">stare</del> sciri a nobis saltem in via et 
-              <lb ed="#E"/>non mirum Et sic iste videtur inquirere positionem filii etiam filius tanta ydemptitate 
-              <lb ed="#E"/>est idem cum essentia sicut secum et hoc et conditione rei inmense
+              <lb ed="#P"/><pc type="#pilcrow"/>Sed nihilominus ad rationem suam dicitur <pc type="#punctus"/> quod ratio sua petit terminationem ab oculo quae in divinis non potest fieri 
+              <lb ed="#P"/>ymmo impossibile videtur <pc type="virgula">/</pc> In speculabile enim videtur revera proprietas inmensae naturae talis est quod omnes 
+              <lb ed="#P"/>res transcendit nec hoc postremus in creaturis experiri quia res immensa <pc type="virgula">/</pc> non habet quo ad 
+              <lb ed="#P"/><unclear>im</unclear> ingenii capacitatem propter ipsius ingenii et intellectus debite nam tales personae in trinitate 
+              <lb ed="#P"/>sunt tanta ydemptitate inter se quod non potest exprimi et nihilominus personae distinguuntur et hoc est sibi <unclear>pp?m</unclear> ut 
+              <lb ed="#P"/>per auctoritatem <name>ancelmi</name> iam praeallegatum est <pc type="#pilcrow"/>Ex quo sequitur quod rationes in contrarium adductae nihil 
+              <lb ed="#P"/>penitus contra trinitatis articulum concludunt
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e4958">
             <head xml:id="ppra-l74-Htcmtcm">Tertium corollarium</head>
             <p xml:id="ppra-l74-d1e4963">
-              <!-- no parallel -->
-              Sequitur <sic>2o</sic> <!-- might suggest that the above second corollary division is a mistake and the "3m" in the SV et al. edition is a mistake --> contra <name ref="#Scotus">Scotum</name> 
-              <lb ed="#E"/>contra <title ref="#Ripa">de ripa</title> contra <name ref="#Ockham">okkam</name> etc contra <name ref="#Oyta">eucha</name>
+              <pc type="#pilcrow"/>Ulterius sequitur contra <name>okam</name> <name>scotum</name> <name>de rippa</name> et <name>de heuta</name>
             </p>
             <p xml:id="ppra-l74-tceenr">
-              Primo contra <name ref="#Scotus">Scotum</name> <seg type="correction">Quo<add place="above-line">d</add></seg> inter essentiam et perso<lb ed="#E"/>nam 
-              nulla penitus est distinctio formalis nam quod praedicata contraria vel contradictoria vel verum cum negatione 
-              <lb ed="#E"/>vel sine negatione dicuntur de essentia et persona non arguit distinctione ultra positionem fidei 
-              <lb ed="#E"/>ponit quod essentia est tres res et pater non nec per hoc oportet ponere distinctionem aliam in divinis quam re<lb ed="#E"/>lativa 
-              hanc distinctionem scilicet personae ab essentia vocat <name>de ripa</name> distinctionem ex natura dei
+              <lb ed="#P"/><pc type="virgula">/</pc> Scotus enim dicit quod inter essentiam et personam nullam penitus est distinctio formalis <pc type="#punctus"/> nam composita contraria dicantur de 
+              <lb ed="#P"/>non arguunt haec contra fidei passionem nec difficultatem inducit unde essentia est 3es et tamen pater non <pc type="virgula">/</pc> nec propter hoc 
+              <lb ed="#P"/>oportet ponere distinctione
             </p>
             <p xml:id="ppra-l74-eoemvf">
-              Et idem in <sic>sententia</sic> 
-              <lb ed="#E"/>ponunt <name ref="#Ockham">Ockham</name> et <name ref="#Oyta">magister henricus de Eucha</name> Dicentes ex hoc quod essentia non generat 
-              <lb ed="#E"/>et pater generat non est ymaginabile quod a parte rei pater et essentia supponunt 
-              <lb ed="#E"/>pro eodem adaequate ergo oportet ponere aliqualem distinctionem quae vocatur formalis vel modalis
+              <pc type="#pilcrow"/><name>Okam</name> et <title>de heuta</title> coincidunt unde dicunt quod essentia non generat et 
+              <lb ed="#P"/>tamen pater generat et sic videtur quod non supponant praecise et adaequate pro eodem ex quo videtur tunc distinctio 
+              <lb ed="#P"/>quae potest vocari modalis 
             </p>
             <p xml:id="ppra-l74-neqfhc">
-              <lb ed="#E"/>Advertendum quod ipsi concidunt cum positione <del rend="strikethrough">l</del> mea unde vel vocant distinctionem formalem sic 
-              <lb ed="#E"/>quod ponamus quod omnino ab essentia et hoc non vel quia essentia est aliquae res et pater non 
-              <lb ed="#E"/>est ille Et <name ref="#Ockham">ockham</name> finaliter sic resolvit et sic illo modo concedendo quod est distinctio formalis quia 
-              <lb ed="#E"/>essentia et est aliqua res quae est res distincta a patre
+              <pc type="#punctus"/> Sed videntur coincidere cum positione nostra Nam <name>okam</name> resoluit sic quod sit 
+              <lb ed="#P"/>distinctio formalis quia essentia est aliqua res quae non est pater <pc type="virgula">/</pc> quia filius qui distinguitur a patre <pc type="virgula">/</pc> unde si vocaretur 
+              <lb ed="#P"/>quod pater esset res quae non esset essentiae coincideret nobiscum <pc type="virgula">/</pc> quia essentia est 3es res sive personae <!-- something unclear here --> non <unclear>p??</unclear> 
             </p>
+            <!-- division unclear; needs review  -->
             <p xml:id="ppra-l74-sarfas">
-              Etiam adhuc staret argumentum 
-              <lb ed="#E"/>quod ponamus quod nec esset filius nec spiritus sanctus et remaneat eadem habitudo essentiae ad 
-              <lb ed="#E"/>patrem scilicet circumscripta habitudine ad filium et spiritum sanctum si tunc ponat aliqualem <unclear>distinctionem <!-- distinctor --></unclear> 
-              <lb ed="#E"/>tunc coincidit cum <name ref="#Scotus">scoto</name> si non tunc coincidit cum positione in ea Ideo tutius est dicere quod penitus 
-              <lb ed="#E"/>nulla distinctio est patris ad essentiam sed <del rend="strikethrough">oios</del> omnimoda ydemptitas Cum hoc stat quod essentia 
-              <lb ed="#E"/>est aliqua res quae non est pater Resolvendo ergo sunt huiusmodi rationes quia haec est proprietas 
-              <lb ed="#E"/>rei inmensae quae non reperitur in creaturis 2o <title>metaphysicae</title> quaerere <unclear>aceobologiam</unclear> mathematica 
-              id est certitudinem mathematicam etiam primo <title>ethicorum</title> est inpedimentum in inquisitione veritatis 
-              <lb ed="#E"/>Etiam in naturalibus non possumus experiri utrum forma inhaereat materiae se ipsa vel 
-              <lb ed="#E"/>inhaerentia superaddita
+              <lb ed="#P"/>Et ideo magis est resolutio theologicalis quod non est distinctio patris ad essentiam <pc type="virgula">/</pc> cum hoc tamen stat quod etiam 
+              <lb ed="#P"/><unclear>3 a</unclear> quae res quae non sunt pater <pc type="#punctus"/> Et hoc totum ad trinitatis immensitatem est resolvendum nec est vivens in <unclear>numere</unclear> 
+              <lb ed="#P"/>qui posset scire adhuc solum in haesionem materiae ad formam quod quidem non est ita mirabilius 
+              <lb ed="#P"/>sicut de beatissima <!-- correction here --> et individua trinitate <pc type="virgula">/</pc> unde statis debemus in positione nostrae fidei catholicae quietari
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e5189">
             <head xml:id="ppra-l74-Hqrcqrc">Quartum corollarium</head>
             <p xml:id="ppra-l74-qcqspp">
-              Sequitur quod proprietates personales non sunt complexa significabilia 
-              <lb ed="#E"/>sicut patrem generare filium etc Aliqui ponunt patrem generare filium non est pater Sed 
-              <lb ed="#E"/>dicitur <subst><del rend="expunctuation">ipse</del> <add place="margin-left">quod est</add></subst> pater et est formaliter essentia nec oporteret ponere quod sit proprietas patris
+              <pb ed="#P" n="78-r"/>
+              <lb ed="#P"/><pc type="#pilcrow"/>Sequitur quod proprietates personales non sunt complexa significabilia et hoc satis videtur bene videtur 
+              <lb ed="#P"/><name ref="#JeanBuridan">buridanus</name> innumere in uno sophismate <pc type="virgula">/</pc> si <unclear>cu?oe</unclear> singularia sunt <unclear>chi?e</unclear> unde dicit quod patrem in divinis generare 
+              <lb ed="#P"/>filium non est nisi ipse pater <pc type="#punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e5211">
             <head xml:id="ppra-l74-Hqncqnc">Quintum corollarium</head>
             <p xml:id="ppra-l74-qspqsf">
-              Sequitur 
-              <lb ed="#E"/>probabilitas opinionis praepositivi dicentis quod proprie personae non distinguuntur proprieta<lb ed="#E"/>tibus 
-              sed se ipsis nec ab essentia distinguuntur Ita quod proprietas ad personam nulla est distinctio 
-              <lb ed="#E"/>sed vult quod sint personae tales quod non est alia et sic intelligitur quando dicitur quod personae disting<lb ed="#E"/>uuntur 
-              suis proprietatibus
+              <pc type="#pilcrow"/>Sequitur ulterius probabilitas positionis <name ref="#Praepositinus">praepositini</name> videlicet quod propter 
+              <lb ed="#P"/>aliud personam nullam est distinctio nec personae distinguantur a suis proprietatibus nisi quod una non est alia <pc type="virgula">/</pc> Et quicumque 
+              <lb ed="#P"/>hoc pure concedit obligat se ad articulum trinitatis concedendum et qui aliter vel pura dicit ad oppositum 
+              <lb ed="#P"/>articuli trinitatis
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e5248">
             <head xml:id="ppra-l74-Hsxcsxc">Sextum corollarium</head>
             <p xml:id="ppra-l74-scqvic">
-              Sequitur ulterius quod tales consequentiae <mentioned>haec essentia est pater</mentioned> et <mentioned>haec 
-                <lb ed="#E"/>essentia</mentioned> est filius ergo filius est pater nullam penitus adducunt difficultatem in materia 
-              <lb ed="#E"/>trinitatis nam habita positione fidei quilibet gentilis repraesentaret talem et consimiles 
-              <lb ed="#E"/>Nam positio fidei formaliter ponit illam consequentiam non valere et sic de directio supponit
-              <pb ed="#E" n="101-v"/>
-              <lb ed="#E"/>oppositum positionis fidei quia ex fidei sequitur quod illa consequentia non valet
-            </p> 
+              <pc type="#pilcrow"/>Ulterius sequitur quod tales conclusiones sive argumentationes <mentioned>haec essentia est pater</mentioned> <mentioned>haec essentia est 
+              <lb ed="#P"/>filius</mentioned> igitur <mentioned>filius est pater</mentioned> <pc type="#punctus"/> nullam contra articulum adducunt difficultatem <pc type="virgula">/</pc> nam quilibet gentilis adhuch 
+              <lb ed="#P"/>diceret sive in deus quod ibi peteretur principium <pc type="#punctus"/> nam de directo sumit fidei oppositum
+            </p>
             <p xml:id="ppra-l74-sinsta">
-              Item omnis essentia 
-              <lb ed="#E"/>est pater et omnis essentia est filius igitur nullam penitus adducit difficultatem super positionem 
-              <lb ed="#E"/>fidei quia ex fide sequitur quod illa contraria non valet
-              <!-- possible repetition in erlang here -->
-              <sic>Item omnis essentia est pater et omnis essentia 
-                <lb ed="#E"/>est filius igitur etc</sic> nullam penitus adducit difficultatem super positionem fidei Nam posito ut 
-              <lb ed="#E"/>non nisi pro essentia ut essentia est <sic>discribuat</sic> tunc idem est essentia et omnis essentia
+              <pc type="#pilcrow"/>Item arguendo sic 
+              <lb ed="#P"/>omnis essentia est pater <pc type="#punctus"/> omnis essentia est filius igitur etc simliter non aducit difficultatem sumpta quod li omnis non diffinit 
+              <lb ed="#P"/>nisi li essentia clarum est quod non sed consequentia
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e5298">
             <head xml:id="ppra-l74-Hspcspc">Septimum corollarium</head>
             <p xml:id="ppra-l74-scqeep">
-              Sequitur 
-              <lb ed="#E"/>quod sincategorematica reddentia propositiones de omni si ingrediantur propositiones consequentiae erunt optime 
-              <lb ed="#E"/>utamur taliter ly <mentioned>omnis</mentioned> quod sit ibi dici de omni scilicet sic quod distribuat ly <mentioned>essentia</mentioned> pro omni de quo potest 
-              <lb ed="#E"/>verificari haec erit falsa omnis essentia est pater et sic videtur mihi quod <name ref="#Aristotle">philosophus</name> sufficienter traddidit modum 
-              <lb ed="#E"/><unclear>sylogizandi</unclear> unde si sit ibi sufficienter dici de <unclear>omni</unclear> consequentiae erunt bonae
+              <pc type="#pilcrow"/>Ulterius quod sincategorematica reddentia <add place="above-line">propositionis</add> de omni optime reddit 
+              <lb ed="#P"/>ipsas veras nisi distribuantur pro omni <unclear>sn?to</unclear> trahi vel etc unde si sillogismi de omni de vite regularentur 
+              <lb ed="#P"/>adhuc in ista materia locum haberent 
             </p>
             <p xml:id="ppra-l74-eehphm">
-              et sic dici de nullo proportionaliter posset 
-              <lb ed="#E"/>inferri contra <name>Ockam</name> qui dicit quasi derisorie quod consequentiae silogisticae non tenent in divinis unde 
-              <lb ed="#E"/>non oporteret negare haec propter materiam <sic>divinorum</sic>
+              <pc type="virgula">/</pc> et haec videtur contra <name>okam</name> dicentem quod ars sillogistica tenet in 
+              <lb ed="#P"/>aliis terminis licet non in divinis
             </p>
           </div>
           <div xml:id="ppra-l74-Dd1e5353">
             <head xml:id="ppra-l74-Hocmocm">Octavum corollarium</head>
             <p xml:id="ppra-l74-ocitad">
-              Sequitur consequenter quod ista propositio <mentioned>essentia non generat et tamen pater 
-                <lb ed="#E"/>generat</mentioned> non adducit novam difficultatem prima est clara addita uno dicto <name ref="#Augustine">augustini</name> in primo 
-              <lb ed="#E"/><title ref="#deTrinitate">de trinitate</title> scilicet nichil generat se ut sic quia si essentiae attribuetur generare sic abstracte 
-              <lb ed="#E"/>generaret se si essentiam generaret ut generaret se et si personam cum sit idem adaequate etiam 
-              <lb ed="#E"/>generaret se etc Et sic est finis illius lectionis
+              <pc type="#pilcrow"/>Ulterius sequitur quod ista propositio pater generat et essentia non <pc type="virgula">/</pc> non 
+              <lb ed="#P"/>adducit difficultatem attento dicto <name>augustini</name> videlicet quod nihil generat seipsum id est ut sic quare oportet 
+              <lb ed="#P"/>quod inter gignens et genitum sit quid <unclear>distinctivum</unclear> <pc type="virgula">/</pc> hoc non addit qua trinitatis articulum <pc type="virgula">/</pc> Tamen 
+              <lb ed="#P"/>sunt aliquae particulares difficultates et de hiis postea deo dante cras videbitur <pc type="#punctus"/>
+            </p>
+            <!-- conclusiones -->
+            <p xml:id="ppra-l74-d1e1003">
+              <pc type="#pilcrow"/>Sequitur ergo conclusio 
+              <lb ed="#P"/>prima supra distinctionem et 4am 2i sententiarum si quod primis parentibus fuit <unclear>da?m</unclear> auxilium ubi posset stare 
+              <lb ed="#P"/>licet non mereri ex puris naturalibus et resolvitur ad haec quia ad haec requiritur actus intrinsecus et immanens 
+              <lb ed="#P"/>scilicet acceptatio divina
+            </p>
+            <p xml:id="ppra-l74-d1e1017">
+              <pc type="#pilcrow"/>2a conclusio In statu innocentiae poterant resistere malo <pc type="virgula">/</pc> quia habebant unde 
+              <lb ed="#P"/>puterant igitur <pc type="#punctus"/>
+            </p>
+            <p xml:id="ppra-l74-d1e1030">
+              <pc type="#pilcrow"/>3a conclusio huius adiutorium quod fuit primis parentibus <unclear>da?m</unclear> erat liberum arbitrium 
+              <lb ed="#P"/>unde <name>magister</name> describit ipsum <unclear>exi?daus</unclear> ipsum non solum <unclear>va?tem</unclear> sed etiam intellectum <pc type="#punctus"/>
+            </p>
+            <p xml:id="ppra-l74-d1e1052">
+              <pc type="#pilcrow"/>4a conclusio bruta 
+              <lb ed="#P"/>animalia non habent liberum arbitrium
+            </p>
+            <p xml:id="ppra-l74-d1e1059">
+              <pc type="#pilcrow"/>5a conclusio est de <unclear>sensualitate</unclear> quam habebat primi parentes
+            </p>
+            <p xml:id="ppra-l74-d1e1067">
+              <pc type="#pilcrow"/>6a 
+              <lb ed="#P"/>de propositione animae supra sensitiva nam quaedam est superior <pc type="virgula">/</pc> alia verus inferior prima <unclear>b? sa?</unclear> circa deum <pc type="virgula">/</pc> alia 
+              <lb ed="#P"/>circa temporalia <pc type="virgula">/</pc> secundum primam non <unclear>loquitur</unclear> sapiens <pc type="#punctus"/> secundum aliam sciens <pc type="#punctus"/> et in haec terminatur sententia lectionis praesentis
             </p>
           </div>
         </div>
