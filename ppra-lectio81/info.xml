@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <div xml:id="ppra-lectio81">
+    <head xml:id="ppra-l81-Hldcldc">Lectio 81, de Caritate [Bnf 3074 Transcription]</head>
+    <div xml:id="ppra-l81-Dd1e85">
+     <head xml:id="ppra-l81-Hpcgcgc">Propositio circa generatio caritatis</head>
+      <p xml:id="ppra-l81-pdmavo">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l81-pdmavo"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-pdmavo"/>
+        </assertions>
+      </p>
+      <div xml:id="ppra-l81-Dd1e93">
+        <head xml:id="ppra-l81-Hrppppp">Rationes pro prima parte</head>
+        <p xml:id="ppra-l81-pppamo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-pppamo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-pppamo"/>
+          </assertions>
+        </p>
+        <!-- seems like "secundo" is not present in PV. V seems to make a partial skip here -->
+        <!-- <p xml:id="ppra-l81-sssspa">
+          Secundo spiritus sanctus potest producere actum se solo, qui immediate 
+          ab anima mediante caritate producitur, igitur quantum ad totam causalitatem 
+          quam haberet caritas respectu animae spiritus sanctus 
+          se solo sufficeret, igitur ex parte actuum non Requiritur 
+          donum creatum <unclear>quoniam[?]</unclear> per spiritum sanctum possit adimpleri.
+        </p>-->
+        <p xml:id="ppra-l81-tdapsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-tdapsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-tdapsc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l81-qadssd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-qadssd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-qadssd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e123">
+        <head xml:id="ppra-l81-Hrpspsp">Rationes pro secunda parte</head>
+        <p xml:id="ppra-l81-sppdpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sppdpp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sppdpp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l81-Dd1e131">
+          <head xml:id="ppra-l81-Hppptgc">
+            Prima pars pro secunda parte: 
+            quod secundum legem nunc statutum requiritur 
+            aliquod donum creatum concurrere in triplici genere causae
+          </head>
+          <p xml:id="ppra-l81-peqrap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-peqrap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-peqrap"/>
+            </assertions>
+          </p> 
+          <p xml:id="ppra-l81-spasec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-spasec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-spasec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l81-sqrcem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sqrcem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sqrcem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l81-emacom">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-emacom"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-emacom"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l81-qioprd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-qioprd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-qioprd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l81-Dd1e157">
+          <head xml:id="ppra-l81-Hspptgc">Secunda pars pro secunda parte</head>
+          <head xml:id="ppra-l81-Hd1e166" type="question-title">Quod caritas reperiatur in triplici genere causae</head>
+          <p xml:id="ppra-l81-sqarov">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sqarov"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sqarov"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l81-Dd1e168">
+            <head xml:id="ppra-l81-Hqcsgcm" type="quesiton-title">Quod caritas se habeat in genere causae materialis</head>
+            <p xml:id="ppra-l81-sbgpbo">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sbgpbo"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sbgpbo"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-asagcm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-asagcm"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-asagcm"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l81-Dd1e183">
+            <head xml:id="ppra-l81-Hqcsgcf" type="question-title">Quod caritas se habeat in genere causae finalis</head>
+            <p xml:id="ppra-l81-daqasp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-daqasp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-daqasp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-shcvam">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-shcvam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-shcvam"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l81-Dd1e198">
+            <head xml:id="ppra-l81-Hqcsgce" type="question-title">Quod caritas se habeat in genere causae efficientis</head>
+            <p xml:id="ppra-l81-tpqram">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-tpqram"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-tpqram"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-sampnc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sampnc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sampnc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-unepcl">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-unepcl"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-unepcl"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-eqsisi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-eqsisi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-eqsisi"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l81-unsnl">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l81-unsnl"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-unsnl"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+     </div>
+    <div xml:id="ppra-l81-Dd1e240">
+     <head xml:id="ppra-l81-Hcorria">Corollaria</head>
+      <div xml:id="ppra-l81-Dd1e245">
+        <head xml:id="ppra-l81-Hpcqosv">Primum Corollarium</head> 
+        <head xml:id="ppra-l81-Hd1e278" type="question-title">quod caritas evidenter potest denominari omnes species virtutis</head>
+        <p xml:id="ppra-l81-eqseqv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-eqseqv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-eqseqv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e259">
+        <head xml:id="ppra-l81-Hd1e261">Secundum Corollarium</head>
+        <head xml:id="ppra-l81-Hd1e301" type="question-title">quod caritas sit realiter cognitio</head>
+        <p xml:id="ppra-l81-ssqddo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-ssqddo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-ssqddo"/>
+          </assertions>
+        </p> 
+       <!-- comparing with vat, it seemed like something might be left out here. dbcheck against sorb -->  
+       <p xml:id="ppra-l81-endddo">
+         <assertions>
+           <assertion property="isRelatedTo" target="http://scta.info/resource/l81-endddo"/>
+           <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-endddo"/>
+         </assertions>
+       </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e289">
+        <head xml:id="ppra-l81-Htcqrvc"><supplied>Tertium corollarium</supplied></head> 
+        <head xml:id="ppra-l81-Hd1e339" type="question-title"><supplied>Quod in habitu caritatis relucet veritas credendorum</supplied></head>
+        <p xml:id="ppra-l81-tsqcsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-tsqcsa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-tsqcsa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e301">
+        <head xml:id="ppra-l81-Hqcqcho">Quartum Corollarium</head>
+        <head xml:id="ppra-l81-Hd1e367" type="question-title">Quod credendorum facilitas ex intensione caritatis habet originem</head>
+        <p xml:id="ppra-l81-qscmfa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-qscmfa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-qscmfa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e311">
+        <head xml:id="ppra-l81-Hqcqfda">Quintum Corollarium</head> 
+        <head xml:id="ppra-l81-Hd1e380" type="question-title">Quod caritas est medicina infirmorum circa fidei difficiles articulos</head>
+        <p xml:id="ppra-l81-qsqhsm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-qsqhsm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-qsqhsm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e320">
+        <head xml:id="ppra-l81-Hscqqap">Sextum corollarium</head> 
+        <head xml:id="ppra-l81-Hd1e392" type="question-title">Quod simplex persona caritate informata 
+          est magis virtuosa quam aliquis philosophus
+        </head>
+        <p xml:id="ppra-l81-ssqeis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-ssqeis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-ssqeis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l81-sicvis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sicvis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sicvis"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e338">
+        <head xml:id="ppra-l81-Hscqead">Septimum corollarium</head> 
+        <head xml:id="ppra-l81-Hd1e413" type="question-title">Quod pro quocumque regimine caritas est aptissima dispositio</head>
+        <p xml:id="ppra-l81-ssqset">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-ssqset"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-ssqset"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e351">
+        <head xml:id="ppra-l81-Hocqqaa">Octavum corollarium</head>
+        <head xml:id="ppra-l81-Hd1e427" type="question-title">Quod in regimine politico et spirituali 
+          debet attendi ad caritatem tam ad consilia quam ad quoscumque alios actus
+        </head>
+        <p xml:id="ppra-l81-eqoheo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-eqoheo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-eqoheo"/>
+          </assertions>
+        </p>
+        <!-- confusing paragrahp separation in all manifestations; review; consider collapsing -->
+        <p xml:id="ppra-l81-eiderp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-eiderp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-eiderp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e368">
+        <head xml:id="ppra-l81-Hncqrae">Nonum corollarium</head>
+        <head xml:id="ppra-l81-Hd1e449" type="question-title">
+          Quod maxima dispositio cessandi schisma praesens 
+          esset habere caritatem et recurrere ad eam
+        </head>
+        <p xml:id="ppra-l81-nsqaas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-nsqaas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-nsqaas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l81-epipei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-epipei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-epipei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e383">
+        <head xml:id="ppra-l81-Hdcqdar">
+          Decimum corollarium
+        </head>
+        <head xml:id="ppra-l81-Hd1e467" type="question-title">
+          Quod omnis deliberata actio non producta a caritate sortitur difformitatis aliqualem rationem
+        </head>
+        <p xml:id="ppra-l81-dsqmsv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-dsqmsv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-dsqmsv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e393">
+        <head xml:id="ppra-l81-Hucqasc">Undecimum corollarium</head>
+        <head xml:id="ppra-l81-Hd1e480" type="question-title">Quod operationes ex caritate 
+          procedentes vel nullum generat habitum vel generat habitum 
+          per illum voluntatis non existentis in actum sublata caritate
+        </head>
+        <p xml:id="ppra-l81-usqvph">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-usqvph"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-usqvph"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e408">
+        <head xml:id="ppra-l81-Hdcqpsc">Duodecimum corollarium</head>
+        <head xml:id="ppra-l81-Hd1e498" type="question-title">Quod difficultas cognoscendi 
+          se esse in caritate non consurgit ex eo quod habitus acquisiti 
+          per actus caritativos producunt actus similes primis sublata caritate
+        </head>
+        <p xml:id="ppra-l81-dsqeic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-dsqeic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-dsqeic"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l81-Dd1e419">
+        <head xml:id="ppra-l81-Hdcqave">Decimumtertium corollarium</head> 
+        <head xml:id="ppra-l81-Hd1e512" type="question-title">Quod caritas non solum est animae sanatio, 
+          sed ultra gradum naturalis causalitatis augmentatio vel elevatio</head>
+        <p xml:id="ppra-l81-tsqicv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-tsqicv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-tsqicv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l81-epicls">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l81-epicls"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-epicls"/>
+          </assertions>
+        </p>
+     </div>
+    </div>
+    <div xml:id="ppra-l81-Dd1e435">
+      <head xml:id="ppra-l81-Hoqcvss">
+        Obiectio
+      </head>
+      <head xml:id="ppra-l81-Hd1e531" type="question-title">
+        Quod caritas non erit essentialiter subordinata primae veritati vel Spiritu Sancto
+      </head>
+      <p xml:id="ppra-l81-scasdf">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l81-scasdf"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-scasdf"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l81-eiriec">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l81-eiriec"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-eiriec"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l81-sdqsab">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l81-sdqsab"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l81-sdqsab"/>
+        </assertions>
+      </p>
+   </div>
+  </div>
+</body>

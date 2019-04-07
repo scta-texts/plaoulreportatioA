@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <div xml:id="ppra-lectio98">
+    <head xml:id="ppra-l98-Hldlldl">Lectio 98, De libertate [Bnf 3074 Transcription]</head>
+    <head xml:id="ppra-l98-Hcdpcdp" type="question-title">Circa divinam providentiam</head>
+    <p xml:id="ppra-l98-ehqmmd">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l98-ehqmmd"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-ehqmmd"/>
+      </assertions>
+    </p>
+    <div xml:id="ppra-l98-Dd1e119">
+      <head xml:id="ppra-l98-Hcorria">Corollaria</head>
+      <div xml:id="ppra-l98-Dd1e124">
+        <head xml:id="ppra-l98-Hpcmpcm">Primum corollarium</head>
+        <p xml:id="ppra-l98-ppeiei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l98-ppeiei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-ppeiei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l98-Dd1e153">
+        <head xml:id="ppra-l98-Hscmscm">Secundum corollarium</head>
+        <p xml:id="ppra-l98-scsasc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l98-scsasc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-scsasc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l98-Dd1e162">
+        <head xml:id="ppra-l98-Htcmtcm">Tertium corollarium</head>
+        <p xml:id="ppra-l98-tcdtda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l98-tcdtda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-tcdtda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l98-eisaic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l98-eisaic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-eisaic"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l98-Dd1e186">
+      <head xml:id="ppra-l98-Hqucquc">Quartum corollarium</head>
+      <p xml:id="ppra-l98-qceisf">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-qceisf"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-qceisf"/>
+        </assertions>
+      </p>
+      
+    </div>
+    <div xml:id="ppra-l98-Dd1e196">
+      <head xml:id="ppra-l98-Hqncqnc">Quintum corollarium</head>
+      <p xml:id="ppra-l98-qcqfdo">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-qcqfdo"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-qcqfdo"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l98-Dd1e212">
+      <head xml:id="ppra-l98-Hsxcsxc">Sextum corollarium</head>
+      <p xml:id="ppra-l98-scqimv">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-scqimv"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-scqimv"/>
+        </assertions>
+      </p> 
+      <p xml:id="ppra-l98-sdiimv">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-sdiimv"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-sdiimv"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l98-Dd1e239">
+      <head xml:id="ppra-l98-Hspcspc">Septimum corollarium</head>
+      <p xml:id="ppra-l98-cqdspd">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-cqdspd"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-cqdspd"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-eqsihm">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-eqsihm"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-eqsihm"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l98-Dd1e269">
+      <head xml:id="ppra-l98-Hovcovc">Octavum corollarium</head>
+      <p xml:id="ppra-l98-ocqaep">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-ocqaep"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-ocqaep"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l98-Dd1e290">
+      <head xml:id="ppra-l98-Hncmncm">Nonum corollarium</head>
+      <p xml:id="ppra-l98-ncqeaf">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-ncqeaf"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-ncqeaf"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-eehacp">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-eehacp"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-eehacp"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-cdqaig">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-cdqaig"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-cdqaig"/>
+        </assertions>
+      </p>
+      <!--
+        consider collapsing this paragraph into the above -->
+        <p xml:id="ppra-l98-eicqis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l98-eicqis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-eicqis"/>
+          </assertions>
+        </p>
+    </div>
+  </div>
+    <div xml:id="ppra-l98-Dd1e415">
+      <head xml:id="ppra-l98-Hctafvd" type="question-title">
+        Circa tertia acceptione fatum vulgariter dictum <!--(Cf. lectio 95)-->
+      </head>
+      <p xml:id="ppra-l98-pmdaar">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-pmdaar"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-pmdaar"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-psqpan">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-psqpan"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-psqpan"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-sievms">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-sievms"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-sievms"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-tphasm">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-tphasm"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-tphasm"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-spriot">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-spriot"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-spriot"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l98-qapsdm">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l98-qapsdm"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l98-qapsdm"/>
+        </assertions>
+      </p>
+    </div>
+  </div>
+</body>
