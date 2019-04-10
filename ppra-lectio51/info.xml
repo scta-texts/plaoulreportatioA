@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <div xml:id="ppr-lectio51">
+    <head xml:id="ppr-l51-Hldfldf">Lectio 51, de Fruitione [Palantine Transcription]</head>
+  
+    <!--<p xml:id="ppra-l51-cdiamt"></p>-->
+    <p xml:id="ppra-l51-itadqp">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-itadqp"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-itadqp"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-ecisps">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-ecisps"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-ecisps"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-uctevt">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-uctevt"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-uctevt"/>
+      </assertions>
+    </p>
+  <!-- unclear division here -->
+    <p xml:id="ppra-l51-eabmds">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-eabmds"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-eabmds"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-pmelud">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-pmelud"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-pmelud"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-apetes">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-apetes"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-apetes"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-aeapid">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-aeapid"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-aeapid"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-cideuf">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-cideuf"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-cideuf"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-siidps">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-siidps"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-siidps"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-isisac">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-isisac"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-isisac"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-isqdei">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-isqdei"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-isqdei"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-isqpad">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-isqpad"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-isqpad"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-icueif">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-icueif"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-icueif"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-secimn">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-secimn"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-secimn"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-sppcmq">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-sppcmq"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-sppcmq"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-ppptsb">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-ppptsb"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-ppptsb"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-euelse">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-euelse"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-euelse"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-aiedbf">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-aiedbf"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-aiedbf"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-aiedtq">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-aiedtq"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-aiedtq"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-aigsee">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-aigsee"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-aigsee"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-udqfui">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-udqfui"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-udqfui"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-asddpn">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-asddpn"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-asddpn"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-asdnes">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-asdnes"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-asdnes"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-sfcdsd">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-sfcdsd"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-sfcdsd"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-icfdqc">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-icfdqc"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-icfdqc"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-d148reqiid"> <!-- consider id revision ??? -->
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/d148reqiid"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-d148reqiid"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-pcqsdm">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-pcqsdm"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-pcqsdm"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-ahabep">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-ahabep"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-ahabep"/>
+      </assertions>
+    </p>
+    <p xml:id="ppra-l51-ehadae">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l51-ehadae"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-ehadae"/>
+      </assertions>
+    </p>
+      <p xml:id="ppra-l51-iqened">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l51-iqened"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-iqened"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l51-tcemii">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l51-tcemii"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-tcemii"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l51-cqeiac">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l51-cqeiac"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-cqeiac"/>
+        </assertions>
+      </p>
+    <div xml:id="ppr-l51-Dd1e591">
+      <head xml:id="ppr-l51-Hcorria">
+        <supplied>Corollaria</supplied>
+      </head>
+      <!-- not present <p xml:id="ppra-l51-eicsac"></p>-->
+      <div xml:id="ppr-l51-Dd1e601">
+        <head xml:id="ppr-l51-Hqmhdin" type="question-title">
+          <supplied>Quod moralis honestas pulchre describitur in natura</supplied>
+        </head>
+        <p xml:id="ppra-l51-pcenoa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-pcenoa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-pcenoa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l51-eqpnpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-eqpnpd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-eqpnpd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l51-tpqpbu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-tpqpbu"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-tpqpbu"/>
+          </assertions>
+        </p> 
+      </div>
+      <div xml:id="ppr-l51-Dd1e645">
+        <head xml:id="ppr-l51-qgdedg" type="question-title">
+          <supplied>Quod gradus dilectionis creaturae ad se propter Deum magis est 
+          ex divinae bonitatis statuto quam ex diligente creaturae</supplied>
+        </head>
+        <p xml:id="ppra-l51-suqoac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-suqoac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-suqoac"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e667">
+        <head xml:id="ppr-l51-Hqoacin" type="question-title">
+          <supplied>Quod omnis affectio commodi est contra inclinationem naturalem</supplied>
+        </head>
+        <p xml:id="ppra-l51-suqcin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-suqcin"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-suqcin"/>
+          </assertions>
+        </p> 
+        <p xml:id="ppra-l51-uaqeic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-uaqeic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-uaqeic"/>
+          </assertions>
+        </p> 
+        <p xml:id="ppra-l51-uicpsb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-uicpsb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-uicpsb"/>
+          </assertions>
+        </p> 
+        <p xml:id="ppra-l51-etccac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-etccac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-etccac"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e725">
+        <head xml:id="ppr-l51-Hqopsec" type="question-title">
+          <supplied>Quod omnes primi motus sunt ex cupidititate</supplied>
+        </head>
+        <p xml:id="ppra-l51-suqeec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-suqeec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-suqeec"/>
+          </assertions>
+        </p>
+        <!--
+          Seems like this paragraph should be connected to above; text from reportatio is included in above 
+          without clear place for paragraph break 
+          <p xml:id="ppra-l51-ucotep">
+          Unde circa obiectum, quando voluntas non potest <sic>deberare</sic>, et non deliberat 
+          et tenetur deliberare et moveatur ab obiecto et cupiditate, 
+          tunc est peccatum.
+        </p>-->
+        <p xml:id="ppra-l51-eqpvuv"></p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e768">
+        <head xml:id="ppr-l51-Hqsvrrn" type="question-title">
+          <supplied>Quod si voluntas esset conformis semper appetitui naturali, 
+          semper voluntas esset recta rectitudine naturali</supplied>
+        </head>
+        <p xml:id="ppra-l51-suqser">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-suqser"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-suqser"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e788">
+        <head xml:id="ppr-l51-Hqseeer" type="question-title">
+          <supplied>Quod si esse aliqua rationalis creatura libera quae esset essentialiter talis 
+          quod eius appetitus rationalis non posset esse difformis appetitui naturali quantum ad hoc, 
+          esset essentialiter recta</supplied>
+        </head>
+        <p xml:id="ppra-l51-seiser">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-seiser"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-seiser"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e807">
+        <head xml:id="ppr-l51-Hqtnauf" type="question-title">
+          <supplied>Quod tota natura immobiliter adhaeret ultimo fine</supplied>
+        </head>
+        <p xml:id="ppra-l51-scqadu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-scqadu"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-scqadu"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e826">
+        <head xml:id="ppr-l51-Hqaaadc" type="question-title">
+          <supplied>Quod ad appetitum rationalem est aliqua dei convictio</supplied>
+        </head>
+        <p xml:id="ppra-l51-suqfqc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-suqfqc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-suqfqc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e841">
+        <head xml:id="ppr-l51-Hqqadaq" type="question-title">
+          <supplied>Quod quantum ad appetitum naturalem dampnait aliqualiter quietantur</supplied>
+        </head>
+        <p xml:id="ppra-l51-isqcev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-isqcev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-isqcev"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppr-l51-Dd1e857">
+        <head xml:id="ppr-l51-Hconsio">Conclusio</head>
+        <p xml:id="ppra-l51-aeqcsn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-aeqcsn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-aeqcsn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l51-saeaio">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-saeaio"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-saeaio"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l51-iaqfpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l51-iaqfpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l51-iaqfpa"/>
+          </assertions>
+        </p>
+        <!--
+          doesn't seem present 
+          <p xml:id="ppra-l51-qahfim">
+          Quantum ad hoc habebam aliquas rationes 
+          contra dicta, 
+          tamen possunt solvi ex dictis, 
+          et sic est finis istius materiae.
+        </p>-->
+      </div>
+    </div>
+  </div>
+</body>
