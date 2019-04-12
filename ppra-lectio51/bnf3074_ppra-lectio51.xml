@@ -378,30 +378,66 @@
             <!-- where i left off 
             corrections info file still need throughout 
             -->
-            <p xml:id="ppra-l51-saeaio">
-              2a divina voluntas absolute inmobiliter 
-              et neccessario fruitur 
-              huiusmodi obiecto nam quaelibet 
-              alia potest averti
+            <p xml:id="ppra-l51-pcldpt">
+              <lb ed="#P"/><pc type="#pilcrow"/>Prima conclusio lectionis 
+              <lb ed="#P"/>fuit quod deus est creator omnium et haec videtur esse contra positionem antiquorum philosophorum et <name>origines</name> maxime qui 
+              <lb ed="#P"/>dicit spiritibus angelicis quod nullam fit mentio in <unclear>genese</unclear> de eorum creatura igitur etc Sed respondetur 
+              <lb ed="#P"/>secundum <name>augustinum</name> in glosa super genesem quod <unclear>ymmo</unclear> satis quia per caelum intelligitur creatura spiritualis et per terra creatura 
+              <lb ed="#P"/>cor <unclear>poscorad</unclear>
             </p>
-            <p xml:id="ppra-l51-iaqfpa">
-              3o omnis appetitus 
-              naturalis iuxta suam naturam et 
-              capacitatem fruitur huiusmodi 
-              obiecto Et consequenter quod solus 
-              appetitus rationalis <del rend="strikethrough">iuxta suam creatura 
-                et capacitatem</del> et sola voluntas 
-              creatura quae est ab huiusmodi obiecto 
-              potest averti
+            <p xml:id="ppra-l51-acldpa">
+              <pc type="#pilcrow"/>2a conclusio creare et aliquid de non facere <pc type="#punctus"/> et illud verbum est aequivocum nam creare potest capi 
+              <lb ed="#P"/>pro facere alio sive indigentia causae efficientis pro producere sed haec inconveniens etc 
             </p>
-            <!--
-              doesn't seem present 
-              <p xml:id="ppra-l51-qahfim">
-              Quantum ad hoc habebam aliquas rationes 
-              contra dicta, 
-              tamen possunt solvi ex dictis, 
-              et sic est finis istius materiae.
-            </p>-->
+            <p xml:id="ppra-l51-bcldpb">
+              <pc type="#pilcrow"/>3a conclusio creatio vel creare dicitur de do<lb ed="#P"/>m?te 
+              agens Vo sit creaturae sed existente
+            </p>
+            <p xml:id="ppra-l51-ccldpc">
+              <pc type="#pilcrow"/>4a conclusio homo est factus ut fruatur deo unde est altorum specie quam <unclear>au?s</unclear>
+            </p>
+            <p xml:id="ppra-l51-dcldpd">
+              <pb ed="#P" n="61-v"/>
+              <lb ed="#P"/><pc type="#pilcrow"/> 5a conclusio anima creata est de nihilo <pc type="virgula">/</pc> Et ex hoc sumpserunt philosophi antiqui principium sui erroris <pc type="#punctus"/>
+              <lb ed="#P"/>Et sic posuerunt mundum esse ab aeerno Sed <name>rabbi moyses</name> dicit quod ponendo quod unus iuven? 
+              <lb ed="#P"/>ponam per vis natus in quamdam insula bonitate ad omnibus et ibidem nutriatur non tamen inter gentes 
+              <lb ed="#P"/>adducatur in aetate de crepeta non quam credet vel rectae ymaginam videtur quomodo sit ex decisione 
+              <lb ed="#P"/>s? patris et nostris generatus <pc type="#punctus"/> et sic de philosophis pari passu non potuerunt rectae ymaginari 
+              <lb ed="#P"/>principium ipsius mundi quare dixerunt ab aeterno ipsum esse et provenit eis ex ignorantia et haec 
+              <lb ed="#P"/>sint dicta de lectione primi cursus ultima finita in <unclear>subvi?a</unclear> natalis deum nostri ihesu christi
+              <lb ed="#P"/>qua maximum mirabile audivi a quodam religios magsitro gauffrido nuncupato dici 
+              <lb ed="#P"/>videlicet quod non fuerant xxt <!-- 20 days --> dies illo tunc quod unus assistentium quando christus crucem pro salute 
+              <lb ed="#P"/>nostra portabit fuit parisius coram rege francorum et pluribus et dicebat se esse illum qui 
+              <lb ed="#P"/>pepulit in deum <unclear>prae mentem</unclear> crucem supra christum <pc type="virgula">/</pc> unde christus dicit ei non senesces <pc type="#punctus"/> sicut 
+              <lb ed="#P"/>asserebat et certa signa ostendebat omniaque ydiota loquebatur in aetate qua <unclear>cerelerit</unclear> quando christus 
+              <lb ed="#P"/>ad vi <unclear>ttiam</unclear> ductus fuerat adhuc permanebat <pc type="virgula">/</pc> Et dicebat quod erat etiam unus de quibus 
+              <lb ed="#P"/>in euvangelio dicebatur <pc type="#punctus"/> <quote ana="#mt16_28 #mc8_39 #lc9_27">Sunt quidam de hic assistentibus qui non gustabunt mortem 
+              <lb ed="#P"/>donec videant filium hominis venientem de milibus cum potestate magna</quote> sed utrum sit <unclear>verum</unclear> 
+              <lb ed="#P"/>nescio tamen asserebat <pc type="virgula">/</pc> nihilominus non adhuc firmiter credo sed in dagnabo <pc type="#punctus"/>
+            </p>
+            <p xml:id="ppra-l51-ecldpe">
+              <pc type="#pilcrow"/>Item ex alia parte 
+              <lb ed="#P"/>dicebat et haec verum erat quod duo carturientes a papa missi scilicet a papa romano ad ne?? 
+              <lb ed="#P"/>fu?corum qui quidem in parisione avignionensi papae fuerant reclusi propter quamdam derisione 
+              <lb ed="#P"/>nuper erat factam cuidam heremite ab ipso avinioniensi papa transmissi apud sedem 
+              <lb ed="#P"/>romanam ob praedictionem detestationis urbani romani papae
+            </p>
+            <p xml:id="ppra-l51-fcldpf">
+              <pc type="#pilcrow"/>Dicebatur autem quod erat 
+              <lb ed="#P"/>ad deliberandum super facto paparum maledictorum <pc type="#punctus"/> dico tamen <unclear>novater</unclear> maledictorum quia posuerunt et <unclear>??</unclear> 
+              <lb ed="#P"/>ecclesiam in errorem pelagi et misit rex multas litteras clementis admionensis pro car<lb ed="#P"/>turisiensibus 
+              illis sed <add>papa avinionensis</add> noluit adhuc mittere parisius illos <pc type="#pilcrow"/>Tandem <!-- G has tamen --> misit certos nuntios 
+              <lb ed="#P"/>et venerunt ipso die <add place="above-line">quo scripsi haec</add> vel ante immediate ad regem sed adhuc nescitur de effectu iacueruntque 
+              <lb ed="#P"/>penes cartusienses in valle viridi iuxta parisius <pc type="#pilcrow"/>Et haec sunt nova quae deus det utrum sint 
+              <lb ed="#P"/>bona <pc type="#punctus"/> nescio vero utrum sint missi ihesu christi sive antichristi cui procul dubio via iam 
+              <lb ed="#P"/>praeparatur in regno nisi pacis angelus evenerit qui iherusalem militantem reformabit 
+              <lb ed="#P"/>scilicet modernam ecclesiam nam revera indiget ope sua ideoque potest congruere lamentationes 
+              <lb ed="#P"/>iheremie prophete in qua dicitur quomodo sedet sola civitas plena populo facta est vidua domina 
+              <lb ed="#P"/>gentium princeps provinciarum facta est sub tributo Et bene sub tributo quoniam rex praeexistit 
+              <lb ed="#P"/>moderne iherusalem et sui principes nisi deus suae genti de remedio providerit opportuno 
+              <lb ed="#P"/><pc type="#pilcrow"/>unde potest dici quod sol super lunam non residet sed luna super solem modernis temporibus lucem 
+              <lb ed="#P"/>praebet vel innititur praebere Super quibus omnibus providere dignetur gratia sancti spiritus amen
+            </p>
           </div>
         </div>
       </div>
