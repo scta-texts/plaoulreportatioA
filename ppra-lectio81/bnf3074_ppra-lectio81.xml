@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,76 +53,39 @@
          <head xml:id="ppra-l81-Hpcgcgc">Propositio circa generatio caritatis</head>
           <p xml:id="ppra-l81-pdmavo">
             <lb ed="#P" n="30"/>Consequenter ad magis caritatis materiam ape?dam in qua quid quam tota lex et prophetae deppendet 
-            <lb ed="#P"/>a generalibus incipiendo ponitur ista propositio quae talis est. Quamvis creatae <seg type="correction"><del>tr</del>caritatis</seg> donum non sit 
-            <lb ed="#P"/>absolute neccessarium ad regnum caeleste merendum nihilominus secundum legem nunc statutam requiritur secundum tripliciter genus 
-            <lb ed="#P"/>causae 
+            <lb ed="#P" n="31"/>a generalibus incipiendo ponitur ista propositio quae talis est. Quamvis creatae <seg type="correction"><del>tr</del>caritatis</seg> donum non sit 
+            <lb ed="#P" n="32"/>absolute neccessarium ad regnum caeleste merendum nihilominus secundum legem nunc statutam requiritur secundum tripliciter genus 
+            <lb ed="#P" n="33"/>causae 
           </p>
           <div xml:id="ppra-l81-Dd1e93">
             <head xml:id="ppra-l81-Hrppppp">Rationes pro prima parte</head>
             <p xml:id="ppra-l81-pppamo">
-              prima pars probatur supponendo 
-              quod quaelibet <subst><del>substantia</del><add place="above-line">forma</add></subst> unita suo subiecto 
-              unitur ut motor vel motrix 
-              etiam ut actus inhaerens quantum 
-              ad habitudinem forma ad subiectum 
-              ut est motrix constat quod spiritus sanctus 
-              vel deus potest supple Nam 
-              omnem operationem quam potest habere 
-              forma spiritus sanctus potest habere ex eo quod 
-              hoc reducitur ad genus causae 
-              efficientis 
-              
-              unde spiritus sanctus se solo sufficit 
-              inclinare producere actum 
-              solum quem producit <unclear>me?nte</unclear>
-              animam
+              <lb ed="#P" n="34"/>probatur propositio primo quo ad eius primam partem nam forma substantialis in suo subiecto est tamquam motor 
+              <lb ed="#P" n="35"/>in suo subiecto quantum ad habitudine ipsius formae ad subiectum ut <unclear>est</unclear> motrix constat spiritum sanctum movere eam 
+              <lb ed="#P" n="36"/>vel eam supplere modo hoc reducitur ad aliquod genus causae <pc type="punctus"/> si efficientis unde se solo sufficit movere 
+              <lb ed="#P" n="37"/>animam
             </p>
-            <!-- seems like "secundo" is not present in PV. V seems to make a partial skip here -->
-            <!-- <p xml:id="ppra-l81-sssspa">
-              Secundo spiritus sanctus potest producere actum se solo, qui immediate 
-              ab anima mediante caritate producitur, igitur quantum ad totam causalitatem 
-              quam haberet caritas respectu animae spiritus sanctus 
-              se solo sufficeret, igitur ex parte actuum non Requiritur 
-              donum creatum <unclear>quoniam[?]</unclear> per spiritum sanctum possit adimpleri.
-            </p>-->
+            <p xml:id="ppra-l81-sssspa">
+              <pc type="pilcrow"/> Item se solo sufficit producere actum ipsius igitur ad quaecumque actum spiritus sanctus potest se solo 
+              <lb ed="#P" n="38"/>et per consequens caritas absolute et de pro se non requiritur
+            </p>
             <p xml:id="ppra-l81-tdapsc">
-              Item divina acceptatio quae 
-              est actus interior dei est causa 
-              sufficiens ad hoc quod creatura consequatur 
-              saltum nam eo ipso quod creaturam 
-              vult deus esse dignam vel habetur 
-              vitam aeternam digna est Sed 
-              voluntas divina non dependet 
-              ab alio creato nec est alicui 
-              creato allegatur quando sufficiat 
-              dare creaturae vitam aeternam
-              <pb ed="#PV" n="149-r" />
-              <cb ed="#PV" n="a"/>
-              absque hoc quod creaturae habeat 
-              aliquem habitum <unclear>purae</unclear> caritatis 
-              vel alterius doni creatae ymmo 
-              sola voluntate potest acceptare 
-              creaturam quae est sufficiens se sola
+              <pc type="pilcrow"/> Item divina acceptatio est interior actus et causa 
+              <lb ed="#P" n="39"/>sufficiens ad hoc quod creatura sequatur 
+              vel mereatur salutem <pc type="punctus"/> patet nam eo ipso digna est ad hoc modo 
+              <lb ed="#P" n="40"/>voluntas quae sive sua acceptatio est independens quia ab aliqua <unclear>beatitudo</unclear> creata non deppendet 
+              <lb ed="#P" n="41"/>igitur etc
             </p>
             <p xml:id="ppra-l81-qadssd">
-              Item ante determinationem ecclesiae 
-              quod infunduntur fides spes et caritas 
-              non concludebatur sufficienter 
-              ex scriptura quod esset alia caritas 
-              quam spiritus sanctus ymmo plures 
-              videbantur auctoritates ad hoc quod nullum 
-              donum creatum esset caritas <unclear>utque</unclear> 
-              <ref><name ref="#Lombard">Magister</name> 17 distinctione primi</ref> Ex istis 
-              patet <unclear>quod</unclear> de potentia dei absoluta possibile 
-              est creaturam esse in statu salutis 
-              absque dono creato quocumque
+              <pc type="pilcrow"/> Item ante determinatione ecclesiae non erat possibile quod caritas esset aliud quam spiritus sanctus <pc type="virgula">/</pc> tamen 
+              <lb ed="#P" n="42"/>videtur velle magister quod sit donum creatum <pc type="punctus"/> ut patet in sententiarum in multis locis <pc type="punctus"/> <pc type="pilcrow"/> Ex quibus 
+              <lb ed="#P" n="43"/>patet quod de potentia dei absoluta creatura erit in gratia absque dono creato
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e123">
             <head xml:id="ppra-l81-Hrpspsp">Rationes pro secunda parte</head>
             <p xml:id="ppra-l81-sppdpp">
-              Secunda pars probatur 
-              habens duas partes principales.
+              <pc type="pilcrow"/>2a pars propositionis patet 
             </p>
             <div xml:id="ppra-l81-Dd1e131">
               <head xml:id="ppra-l81-Hppptgc">
@@ -134,179 +94,99 @@
                 aliquod donum creatum concurrere in triplici genere causae
               </head>
               <p xml:id="ppra-l81-peqrap">
-                Prima est quod secundum legem 
-                nunc statutam, requiritur aliquod donum creatum 
-                concurrere in triplici genere causae. et in regno animae 
-                praeordinatum ad cuiuslibet boni operis causationem, ita 
-                quod caritas tenet principatum in regno animae 
-                sic quod non stat aliquem bonum actum produci quin 
-                caritas principaliter concurrat respectu illius actus virtuosi 
-                in regno animae producibilis.
+                <lb ed="#P" n="44"/>scilicet quod secundum nunc statuam etc nam in regno animae caritas creata requiritur tamquam tenens 
+                <lb ed="#P" n="45"/>principium sicut in policitia bona res vel princeps regens et gubernans ipsam policitam 
               </p> 
               <p xml:id="ppra-l81-spasec">
-                Sed primo apparet 
-                <cb ed="#SV" n="297vb"/>
-                quod requiratur aliquis habitus creatus per <ref xml:id="ppra-l81-Rd1e143"><title>decretalem</title></ref> ponentem 
-                quod in baptismo infunduntur in parvulis tria dona, fides, 
-                spes, et caritas.
+                et primo 
+                <lb ed="#P" n="46"/>quod requiratur aliquod donum creatum est <ref xml:id="ppra-l81-Rd1e143">decretalis</ref> ad hoc quoniam revera dicit quod in baptismo infunditur 
+                <lb ed="#P" n="47"/>specialis gratia etc et sic ex determinatione ecclesiae patet etc
               </p>
               <p xml:id="ppra-l81-sqrcem">
-                Secundo qua ratione fides et spes ponerentur 
-                dona distincta creata, 
-                eadem ratione de caritate diceretur, 
-                quod omnis ratio probans de fide et spe 
-                probaret de caritate eodem modo.
+                <pc type="pilcrow"/> Item qua ratione ponitur fides et spes dona per se 
+                <lb ed="#P" n="48"/>distincta <pc type="punctus"/> sic videtur de <del rend="strikethrough">gratia</del> caritate
               </p>
               <p xml:id="ppra-l81-emacom">
-                Eodem modo accidentia ponuntur 
-                et ordinantur in substantiarum operationes, licet forte a proterviente 
-                possent accidentia negari, tamen illa concedenda sunt 
-                pro substantis ad earum operationem, ergo anima habebit proportionales habitus 
-                et accidentia conferentia ad suarum operationum executionem, 
-                ut apparet in naturalibus de forma substantiali, quae habet multa accidentia 
-                ut exerceat debite suas operationes, ergo respectu operationum 
-                meritorum et actuum diligendi deum et proximum requiruntur 
-                habitus et actus nobiliores coagentes opera meritoria.
+                <pc type="pilcrow"/>Item accidentia ordinantur in operatione substantialem <pc type="punctus"/> licet propter veritatem 
+                <lb ed="#P" n="49"/>accidentia possent negari <pc type="punctus"/> tamen in hoc concedenda sunt igitur habebit proportionales habitus ad suam operationem 
+                <lb ed="#P" n="50"/>non forte materiales in <unclear>digetis</unclear> operationibus accidentibus et ita de operationibus creaturarum et sic <unclear>requiruntur</unclear> 
+                <lb ed="#P" n="51"/>actus sive habitus moralis concurrens sive coagens <pc type="punctus"/>
               </p>
-              <p xml:id="ppra-l81-qioprd"><sic>Quarto</sic> Iustitia originalis in statu innocentiae ponitur virtus 
-                distincta rectificans vires inferiores et eas concordat 
-                viribus superioribus, igitur in statu gratiae, cum ipsa ponatur 
-                in supplemento iustitiae originalis debet poni res distincta.
+              <p xml:id="ppra-l81-qioprd">
+                <pc type="pilcrow"/> Item ponebatur iustitia originalis post privatione 
+                <lb ed="#P" n="52"/>rectificans vires inferiores et erat distincta res in statu innocentiae et per consequens et in statu gratiae 
+                <lb ed="#P" n="53"/>cum ponatur maxime in <unclear>supplementam</unclear>
+                
               </p>
             </div>
             <div xml:id="ppra-l81-Dd1e157">
               <head xml:id="ppra-l81-Hspptgc">Secunda pars pro secunda parte</head>
               <head xml:id="ppra-l81-Hd1e166" type="question-title">Quod caritas reperiatur in triplici genere causae</head>
               <p xml:id="ppra-l81-sqarov">
-                Sed quantum ad aliam partem secundam partis secundae, scilicet, quod caritas 
-                reperiatur in triplici genere causae. Probatur primo de causa formali 
-                non quod caritas sit realiter informans, sed se habet ad modum 
-                formae, ut <name ref="#Augustine">Augustinus</name> ait quod ipsa est vita virtutum, ergo 
-                caritas se habet ad modum formae vivificantis cui concordat 
-                scriptura dicens fidem esse mortuam sine operibus 
-                caritatis. et ideo absentia eius est mors, igitur caritas 
-                est velut forma vivificans et rectificans operationes voluntatis.
+                <pc type="pilcrow"/> Sed quo ad aliam partem probatur propositio videlicet quod ad formam causae 
+                <lb ed="#P" n="54"/>et quod sit actuans et vivificans scilicet caritas patet per beatum augustinum qui ponit eam vitam virtutum 
+                <lb ed="#P" n="55"/>per consequens si sic se habet tunc per modum vivificantis
               </p>
               <div xml:id="ppra-l81-Dd1e168">
                 <head xml:id="ppra-l81-Hqcsgcm" type="quesiton-title">Quod caritas se habeat in genere causae materialis</head>
-                <p xml:id="ppra-l81-sbgpbo">Secundo 
-                  <name ref="#GregoryGreat">Beatus Gregorius</name> ait 
-                  <cit>
-                    <quote xml:id="ppra-l81-Qd1e187">
-                      nihil habet viriditatis ramus boni operis, 
-                      nisi remaneat in radice caritatis
-                    </quote>
-                    <bibl>
-                      <name>Gregory</name>
-                      Hom. in Ev., 27
-                      <!-- also quoted in Aquinas, ST. IIa-IIae, q. 108, a. 2 -->
-                    </bibl>
-                  </cit> 
-                  quantum 
-                  ad illud quod est vivificare 
-                  et iuvare prosecutionem boni operis.
+                <p xml:id="ppra-l81-sbgpbo">
+                  <pc type="pilcrow"/>Item 
+                  <name ref="#GregoryGreat">gregorii</name> videtur dicere <quote xml:id="ppra-l81-Qd1e187">nihil habet viriditatis ramus boni operis
+                  <pb ed="#P" n="82-v"/>
+                  <lb ed="#P" n="1"/>sed tamquam <unclear>ranias</unclear> aridus nisi viriditatem habeat caritatis</quote> haec ille vel quasi conformiter quare 
+                  <lb ed="#P" n="2"/>sequitur quod merito vocatur caritas vivificans
                 </p>
                 <p xml:id="ppra-l81-asagcm">
-                  Aliae sunt auctoritates innuere asserentes quod 
-                  caritas est forma aliarum virtutum. 
-                  Ideo fides sine caritate 
-                  vocatur informis ab omnibus doctoribus, 
-                  ex quibus apparet quod caritas merito dicitur forma aliarum 
-                  virtutum et Reperitur in genere causae materialis.
+                  <pc type="pilcrow"/> Item sunt auctoritates ad haec innumerales in quibus 
+                  <lb ed="#P" n="3"/>habetur quod caritas est vivificans virtutes et ideo fides sine caritate vocatur et forma 
+                  <lb ed="#P" n="4"/>apud omnes doctores igitur etc
                 </p>
               </div>
               <div xml:id="ppra-l81-Dd1e183">
                 <head xml:id="ppra-l81-Hqcsgcf" type="question-title">Quod caritas se habeat in genere causae finalis</head>
                 <p xml:id="ppra-l81-daqasp">
-                  Deinde apparet quod caritas se habeat in genere causae finalis. 
-                  Patet ex prioritate regiminis animae 
-                  quia nec duplex est finis partium exercitus. 
-                  ita caritas est finis omnium virtutum animae et ad 
-                  quem aliae virtutes in regno animae ordinantur quasi subiecte 
-                  et ad modum superioris in illam. 
-                  Aliae virtutes ordinantur 
-                  ut partes exercitus sunt subiecte ad suum principem.
+                  <pc type="pilcrow"/> Deinde quod caritas se habeat in triplici genere <unclear>nomen</unclear> 
+                  <lb ed="#P" n="5"/>de duobus de uppremo vero patet maxime ex regiminis sui prioritate nam sicut dux exercitur <unclear>se</unclear> 
+                  <lb ed="#P" n="6"/>habet finaliter circa exercitum suum gubernandum in recta politia <pc type="punctus"/> ita caritas ipsa se habet 
+                  <lb ed="#P" n="7"/>circa virtutes omnes regendas et debite ordinandas
                 </p>
                 <p xml:id="ppra-l81-shcvam">
-                  Secundo huic concordat <name ref="#Paul">Apostolus</name> 
-                  dicens quod finis praecepti est dilectio, 
-                  igitur caritas est finis omnium operationum vitae aeternae meritorium.
+                  <pc type="virgula">/</pc> Et in hoc concordat satis apostolus 
+                  <lb ed="#P" n="8"/>dicens quod finis praecepti est dilectio modo talis dilectio non est aliud quam caritas igitur etc 
+                  <!-- break to next paragraph could be here -->
+                  / ex quilibet 
+                  <lb ed="#P" n="9"/>patet quod non solum concurrit in genere causae efficientis et formalis ymmo in finali 
                 </p>
               </div>
+              <!-- fuzzy break and parallel -->
               <div xml:id="ppra-l81-Dd1e198">
                 <head xml:id="ppra-l81-Hqcsgce" type="question-title">Quod caritas se habeat in genere causae efficientis</head>
                 <p xml:id="ppra-l81-tpqram">
-                  Tandem probatur quod caritas se habeat in genere causae efficientis. 
-                  Patet quia, 
-                  sicut actus generant habitus formaliter, 
-                  ita habitus concurrunt active ad generandum actus similes primis. 
-                  Modo actus generant habitus in naturalibus et econverso, 
-                  igitur ex caritate generantur habitus 
-                  et ex illis generantur actus alii similes primis. 
-                  Et per consequens caritatis concurrit 
-                  active respectu actuum meritoriorum.
+                  <pc type="pilcrow"/> Item habitus ipsius generant 
+                  <lb ed="#P" n="10"/>morales igitur sequitur ipsam concurrere <unclear>p</unclear> <unclear>effectiva</unclear> ad ipsorum generans et productionem
                 </p>
                 <p xml:id="ppra-l81-sampnc">
-                  Secundo, 
-                  actus meritorii excedunt voluntatis naturalis facultatem, 
-                  igitur ibidem requiritur concursus supernaturalis causae, 
-                  scilicet, caritatis, quia si praecise concurreret assistendo sic 
-                  <cb ed="#SV" n="298ra"/>
-                  quod non iuvaret ad effectus prosecutionem, 
-                  sed solum assisteret ad decorem animae, 
-                  tunc videretur errori <name ref="#Pelagius">Pellagii</name> 
-                  consonare, immo esset determinor, 
-                  quia <name ref="#Pelagius">Pellagius</name> non 
-                  negat quin caritas facilitet animam ad operum executionem, 
-                  concedit tamen quod anima sine caritate 
-                  poterit facere opera meritoria. 
-                  Modo, si ponatur quod caritas concurrat active, 
-                  sequitur quod facilitabit animam respectu operis meritorii, 
-                  quod <name ref="Pelagius">Pellagius</name> non concessisset.
+                  <pc type="pilcrow"/> Item 
+                  <lb ed="#P" n="11"/>actus meritorii exedunt naturalem facultatem igitur caritas <unclear>iu?bit</unclear> et non solum ad animae <unclear>de core</unclear> 
+                  <lb ed="#P" n="12"/>sed <unclear>etiam</unclear> ad alia quoniam sic dicere solum errori pelagi se conformaret nam pelagius non 
+                  <lb ed="#P" n="13"/>negaverit sed dicebat quod anima exiret bene in bonum opus sine ipsa caritate
                 </p>
                 <p xml:id="ppra-l81-unepcl">
-                  Ubi notandum est quod 
-                  <ref xml:id="ppra-l81-Rd1e244">
-                    <name ref="#Augustine">Augustinus</name> in libro 
-                    <title ref="#onNatureAndGrace">de natura et gratia</title>
-                  </ref>, 
-                  qui comparat animam sanitati. 
-                  Unde notat <ref xml:id="ppra-l81-Rd1e253">ibidem</ref> 
-                  quod status innocentiae habuit sanitatem omnium 
-                  virium in regno animae regimen illarum constituentem. 
-                  unde superior ratio habuit in anima 
-                  plenum imperium et singule vires prout oportuit 
-                  obediebant superiori portioni, sed ratione 
-                  culpae originalis sublata est iustitia originalis, 
-                  quae conservabit concordiam inter vires inferiores 
-                  ad superiorem et loco eius ponitur cupiditas 
-                  cuius effectus est oppositus et contrarius effectui 
-                  iustitiae originalis, ita quod officium cupiditatis 
-                  est trahere portionem superiorem ad obedientiam 
-                  virium inferiorum. 
-                  Unde officium portionis superiorum 
-                  erat contemplari spiritualia et caelestia et 
-                  per obedientiam ipsius ad vires inferiores trahitur 
-                  ad vacandum circa terrena nisi per caritatem liberetur.
+                  <pc type="pilcrow"/> In <unclear>ad?</unclear> 
+                  <lb ed="#P" n="14"/>quod <ref xml:id="ppra-l81-Rd1e244"> <name ref="#Augustine">augustinus</name> in libro <title ref="#onNatureAndGrace">de natura et gratia</title></ref> comparat caritatem sanitati unde dicit quod status innocentiae habuit 
+                  <lb ed="#P" n="15"/>sanitatem omnium virium <unclear>constitualium</unclear> et sic in plena <unclear>obedientia</unclear> consistit caritas sed ratione culpae 
+                  <lb ed="#P" n="16"/>originalis data est iustitia originalis et in loco eius fuit introducta cupiditas et sic alia per <unclear>secu</unclear> 
+                  <lb ed="#P" n="17"/>sublata est non proprietas cupiditatis est ad terrena se habere <pc type="punctus"/>
                 </p>
                 <p xml:id="ppra-l81-eqsisi">
-                  Ex quo sequitur quod caritas est animae sanitas 
-                  et agit in anima, ut vires inferiores superiori 
-                  portioni seu rationi obediant, sed adhuc 
-                  caritas ultra addit puta roborationem 
-                  maiorem quam erit sanitas in statu innocentiae.
+                  Caritas autem est sanitas 
+                  <lb ed="#P" n="18"/>animae elevativa et ipsius inclinativa ut scilicet vires inferiores superioribus obediant <pc type="punctus"/>
                 </p>
                 <p xml:id="ppra-l81-unsnl">
-                  Ubi notandum est quod in statu innocentiae, anima vi 
-                  suae sanitatis, licet possit exire in actum dilectionis 
-                  dei super omnia, non tamen in actu dilectionis dei 
-                  eiusdem speciei cum illo, quia nunc elicitur mediante caritate. 
-                  unde si unus actus comparetur ad illum, 
-                  ut fit comparatio in naturalibus, tunc non est difficultas. 
-                  Sed dicitur quod anima in statu innocentiae non 
-                  suffecisset elicere actum eiusdem speciei cum illa, 
-                  qui mediante caritate producitur a voluntate, nec 
-                  hoc sufficeret in statu naturae lapsae.
+                  <pc type="pilcrow"/> Unde advertendum 
+                  <lb ed="#P" n="19"/>quod in statu innocentiae animae vi suae sanitatis <del rend="strikethrough expunctuation">aliquid</del> licet potuisset exivisse in actum dilectionis igitur 
+                  <lb ed="#P" n="20"/>super omnia non tamen in actum eiusdem speciei <pc type="pilcrow"/> unde anima sana non suffecisset cum actu qui nunc 
+                  <lb ed="#P" n="21"/>et haec est de intentione beati augustini <pc type="punctus"/> quantum est de meritorio nulla est difficultas
                 </p>
               </div>
             </div>
@@ -318,111 +198,53 @@
             <head xml:id="ppra-l81-Hpcqosv">Primum Corollarium</head> 
             <head xml:id="ppra-l81-Hd1e278" type="question-title">quod caritas evidenter potest denominari omnes species virtutis</head>
             <p xml:id="ppra-l81-eqseqv">
-              Ex quo sequitur primo 
-              quod caritas evidenter potest denominari 
-              omnis species virtutis, 
-              et sic evidenter prudentia, fortitudo, iustitia, temperantia, 
-              ita quod causaliter sufficit, 
-              ut exeat in actum aequalis perfectionis 
-              et maioris quam agerent huiusmodi virtutes. 
-              Et illud roboratur ex auctoritate 
-              <ref xml:id="ppra-l81-Rd1e283">
-                <name ref="#Augustine">Augustini</name> 
-                in libro <title>De moribus ecclesiae</title>
-              </ref> 
-              in quo describit singulas 
-              virtutes et ponit caritatem vel amorem pro genere 
-              in qualibet diffinitione virtutis, et etiam ponit quod 
-              caritas potest in omni actu virtutis 
-              modo eminen<cb ed="#SV" n="298rb"/>tiori 
-              quam virtutes.
+              <pc type="pilcrow"/> Ex quo 
+              <lb ed="#P" n="22"/>inferuntur aliqua corollaria primum est quod caritas potest denominari omnes species virtutis evidenter ut 
+              <lb ed="#P" n="23"/>sit prudentia fortitudo temperantia etc et causaliter et eminenter continens <pc type="punctus"/> et sufficeret 
+              <lb ed="#P" n="24"/>ad exeundum in actum <pc type="punctus"/> <pc type="virgula">/</pc> Et hoc roboratur per <ref xml:id="ppra-l81-Rd1e283"><name ref="#Augustine">beatum augustinum</name> in <del rend="strikethrough">modo</del> libro <title>de moribus ecclesiae</title></ref> 
+              <lb ed="#P" n="25"/>qui potest caritatem vel amorem etiam in quolibet virtutis actu
            </p>
           </div>
           <div xml:id="ppra-l81-Dd1e259">
             <head xml:id="ppra-l81-Hd1e261">Secundum Corollarium</head>
             <head xml:id="ppra-l81-Hd1e301" type="question-title">quod caritas sit realiter cognitio</head>
             <p xml:id="ppra-l81-ssqddo">
-              Secundo sequitur quod caritas sit realiter cognitio.
-              Patet quia illa potest immediate in actum prudentiae, 
-              modo nullus habitus potest in actum prudentiae 
-              nisi sit habitus cognitivus, 
-              immo sequitur quod caritas potest vocari 
-              prudentia, scientia, et sapientia. 
-              Et huic concordat 
-              <ref xml:id="ppra-l81-Rd1e266" corresp="#ppra-l81-Quddddo">
-                scriptura in <title ref="#Iio">Canonica Iohannis</title></ref>
-              dicentis 
-              quod caritas est
-              <cit>
-                <quote xml:id="ppra-l81-Quddddo" ana="#Iio2_27">
-                  unctio docens de omnibus
-                </quote>
-                <bibl>
-                  <title>Ioannis I</title> 
-                  2:27
-                </bibl>
-              </cit>.
+              <pc type="pilcrow"/> Unde sequitur primo quod realiter sit cognitio 
+              <lb ed="#P" n="26"/>probatur quia inmediate  potest una cum prudentia sive in habitu eius <pc type="punctus"/> et per consequens est habitus positivus 
+              <lb ed="#P" n="27"/>ymmo potest vocari prudentia et aliae virtutes <pc type="virgula">/</pc> et hoc videtur velle <sic>baptissimus</sic> iohannis <ref xml:id="ppra-l81-Rd1e266" corresp="#ppra-l81-Quddddo">in <title ref="#Iio">canonica  
+              <lb ed="#P" n="28"/>sua</title></ref> <pc type="punctus"/> unde dicit quod caritas est <quote xml:id="ppra-l81-Quddddo" source="http://scta.info/resource/Iio2_27@21-26">unctio docens de omnibus</quote>
             </p> 
-           <!-- comparing with vat, it seemed like something might be left out here. dbcheck against sorb -->  
+           <!-- fuzzy break; fuzzy paralllel -->
            <p xml:id="ppra-l81-endddo">
-             Et nedum dirigit affectu, 
-             sed intellectum practicum et speculativum, 
-             igitur est <unclear>uncio[?]</unclear> 
-             docens de omnibus.
+             Si tam de speculationibus quam de eligibilibus
            </p>
           </div>
           <div xml:id="ppra-l81-Dd1e289">
             <head xml:id="ppra-l81-Htcqrvc"><supplied>Tertium corollarium</supplied></head> 
             <head xml:id="ppra-l81-Hd1e339" type="question-title"><supplied>Quod in habitu caritatis relucet veritas credendorum</supplied></head>
             <p xml:id="ppra-l81-tsqcsa">
-              Tertio, 
-              sequitur quod in habitu caritatis 
-              relucet veritas credendorum. 
-              Patet quia caritas potest in actum 
-              cuiuslibet veritatis, 
-              igitur illa potest in actum credendorum, 
-              et licet ex ordinatione divina caritas 
-              numquam exeat in actum se sola 
-              quia Deus non ordinavit quod in creatura caritas agat 
-              sine concursu Spiritus Sancti, 
-              et etiam sine spe et fide, 
-              <ref xml:id="ppra-l81-Rd1e345">
-                teste <name ref="Paul">Apostolo</name>
-              </ref> 
-              quia 
-              <cit>
-                <quote xml:id="ppra-l81-Qd1e353" ana="#hebr11_6">sine fide impossibile est Deo placere</quote>
-                <bibl>Ad Hebraeos 11:6</bibl>
-              </cit>. 
-              Nam quantum est ex parte sui caritas 
-              posset exire in actum credendorum, 
-              ut dicebatur, 
-              quia fides nedum est credendorum cognitio, 
-              sed amor.
+              <lb ed="#P" n="29"/> <pc type="pilcrow"/> Ulterius sequitur quod in habitu caritatis relucent veritates credendorum <pc type="punctus"/> nam ipsa 
+              <lb ed="#P" n="30"/>caritas potest in actu cuiuslibet virtutis igitur etc et licet non exeat se sola quia deus non ordinavit sine 
+              <lb ed="#P" n="31"/>fide et spe <pc type="punctus"/> <pc type="virgula">/</pc> nihilominus ex parte sui posset exire in actu credendum <pc type="punctus"/> et haec non ita miracula 
+              <lb ed="#P" n="32"/>sicut ponere fidem etiam amorem
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e301">
             <head xml:id="ppra-l81-Hqcqcho">Quartum Corollarium</head>
             <head xml:id="ppra-l81-Hd1e367" type="question-title">Quod credendorum facilitas ex intensione caritatis habet originem</head>
             <p xml:id="ppra-l81-qscmfa">
-              Quarto sequitur credendorum facilitas ex intensione 
-              caritatis habet originem. 
-              Patet quia si caritas sit credendorum 
-              relucentia 
-              quanto illa est intensior 
-              tanto magis facilitat animam.
+              <pc type="pilcrow"/> Ulterius sequitur quod credendi facilitas ex intentione caritatis <unclear>mi?x</unclear>
+              <lb ed="#P" n="33"/>habet originem <pc type="punctus"/> patet satis quonima de credendis anima magis faciliter 
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e311">
             <head xml:id="ppra-l81-Hqcqfda">Quintum Corollarium</head> 
             <head xml:id="ppra-l81-Hd1e380" type="question-title">Quod caritas est medicina infirmorum circa fidei difficiles articulos</head>
             <p xml:id="ppra-l81-qsqhsm">
-             quinto sequitur quod caritas est medicina infirmorum 
-             circa fidei difficiles articulos, ut si in materia trinitatis, praedestinationis 
-             reprobationis, incarnationes et in aliis difficiles 
-             articulos anima patiatur scrupulum recurrat anima ad caritatem 
-             et cessabit eius infirmitas, quia ipsa est quantum ad hoc 
-             suprema medicina.
+              <pc type="pilcrow"/> Ex quo sequitur quod medicina infirmorum 
+              <lb ed="#P" n="34"/>est caritas <pc type="punctus"/> circa fidei difficiles articulos ut est in materia praedestinationis trinitatis et aliarum <pc type="pilcrow"/> Et licet 
+              <lb ed="#P" n="35"/>anima in ipsis patiatur recurrat ad felicem caritatem et gratam reperiet <unclear>eum</unclear> solatricem
+              <lb ed="#P" n="36"/>atque sibi propinabit summam sive infirmitati medicinam
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e320">
@@ -431,67 +253,31 @@
               est magis virtuosa quam aliquis philosophus
             </head>
             <p xml:id="ppra-l81-ssqeis">
-              Sexto, 
-              sequitur quod simplex persona caritate
-              informata est magis virtuosa quam aliquis philosophus. 
-              ut <name ref="Seneca">Seneca</name> 
-              vel <name ref="#Socrates">Socrates</name>, 
-              si caritatem non habuerunt. 
-              Patet quia eminentiori 
-              modo caritatis est quaelibet 
-              virtus in quacumque persona quam aliqua 
-              virtus esset in se.
+              <pc type="pilcrow"/> Ulterius sequitur quod simplex persona 
+              <lb ed="#P" n="37"/>caritate informata realiter est virtuosior quouis philosopho extra caritatem existente patet quia virtutem 
+              <lb ed="#P" n="38"/>excellere respectu cuiuscumque ubi habet modo talis non reperitur in philosopho non abstante quod quasi infinita 
             </p>
+            <!-- fuzzy parallel -->
             <p xml:id="ppra-l81-sicvis">
-              Secundo, ipsa caritas est extensior 
-              quantum ad multitudinem 
-              quia respectu cuiuscumque obiecti illa potest habere actum meritorium. 
-              Sed constat quod nulla virtus sine caritate 
-              potest habere actum meritorium. 
-              immo potest sequi quod parvulus 
-              noviter baptizatus est magis virtuosus quam aliquis philosophus, 
-              licet in parvulus sit impeditum ex parte corporum, 
-              ut exeant in opera meritoria, 
-              licet tamen hoc non tollat virtutum magnitudinem. 
-              Patet hoc ex eminentia caritatis supra omnes alias virtutes. 
-              In adulto vero noviter baptizato 
-              est impeditum ne exeat ad opera meritoria facienda, 
-              quia licet habeat modicam caritatem difficultas, 
-              tamen provenit ex concupiscentia, 
-              quae ipsum inclinat ad oppositum 
-              et in illo non plene obediunt vires inferiores superioribus.
+              <pc type="pilcrow"/> Confirmatur hoc etiam de parvis noviter baptizatis nam quilibet 
+              <lb ed="#P" n="39"/>talis virtuosior in centuplo quolibet tali praedicto philosopho <pc type="pilcrow"/> Item patet haec etiam esse noviter <unclear>c?f?</unclear> 
+              <lb ed="#P" n="40"/>conversis ad fidem non obstante quacumque malitia <unclear>sua</unclear> <unclear>p?via</unclear> Lucide patet etiam per 
+              <lb ed="#P" n="41"/>apostolum quod caritas est virtutum omnium radix <pc type="punctus"/> <quote xml:id="ppra-l81-Qsicv1x" source="http://scta.info/resource/Icor13_2">nam si omnem scientiam habuero dicit ipse et sensum 
+              <lb ed="#P" n="42"/>prophetiae etc ineffabilia caritatem autem non habeam nihil sum</quote>
+              
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e338">
             <head xml:id="ppra-l81-Hscqead">Septimum corollarium</head> 
             <head xml:id="ppra-l81-Hd1e413" type="question-title">Quod pro quocumque regimine caritas est aptissima dispositio</head>
             <p xml:id="ppra-l81-ssqset">
-              Septimo, 
-              sequitur quod pro quocumque regimine caritas est 
-              aptissima dispositio. 
-              Patet quia pro regimine regni animae 
-              ipsa est sufficientissima 
-              et continet omnes virtutes refrenativas 
-              omni passionum, 
-              et est sufficiens ad regnum politiae. 
-              Primo 
-              quia potest regere regnum animae 
-              quo dato in aliqua creatura ipsa est apta ad 
-              regimen politicum, 
-              et quia caritas non quaerit quae 
-              sua sunt et proximi. 
-              Ideo ipsa est aptissima ad regimen, 
-              quia maxime excludit tyrannidum. 
-              Nam tyrannus 
-              non regit propter bonum politicum, 
-              sed propter bonum 
-              <cb ed="#SV" n="298va"/>
-              proprium, 
-              et ideo caritas est aptissima dispositio ad 
-              regimen nedum animae, sed politicarum. 
-              Et sic caritas 
-              potest applicari ad regimen 
-              spirituale et temporale.
+              <pc type="pilcrow"/> Ex quo sequitur ulterius quod pro quocumque 
+              <lb ed="#P" n="43"/>regimine scilicet tam cuilibet quam spirituali caritas est aptissima <pc type="punctus"/> primo de regimine animae satis deductum est quia 
+              <lb ed="#P" n="44"/>ipsa omnes virtutes continet <pc type="punctus"/> et facit virtutes inferiores obedire superioribus et hoc maxime regimini 
+              <lb ed="#P" n="45"/>cuilibet competat quod scilicet inferiores gentes suo principi et aliis suis superioribus obediant 
+              <lb ed="#P" n="46"/>Caritas etiam excludit tyrranidem principere quia non <unclear>quaerit</unclear> quae sua sunt non est ambitiosa etc
+              <lb ed="#P" n="47"/>sed tyrannus quaerit aliena et sua multiplicare sine causa <pc type="punctus"/> modo caritas non sit
+              
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e351">
@@ -500,18 +286,15 @@
               debet attendi ad caritatem tam ad consilia quam ad quoscumque alios actus
             </head>
             <p xml:id="ppra-l81-eqoheo">
-              <pc type="#pilcrow"/>Ex quo sequitur 
-              <lb ed="#P"/>quod in ambobus regiminibus debet attendi ad caritatem virtutum matrem sectandam patet etiam quia est 
-              <lb ed="#P"/>docens omnem prudentiam
+              <pc type="pilcrow"/> Ex quo sequitur 
+              <lb ed="#P" n="48"/>quod in ambobus regiminibus debet attendi <pc type="punctus"/> ad caritatem virtutum matrem sectanda <pc type="punctus"/> patet etiam quia est 
+              <lb ed="#P" n="49"/>docens omnem prudentiam
             </p>
             <!-- confusing paragrahp separation in all manifestations; review; consider collapsing -->
             <p xml:id="ppra-l81-eiderp">
               <pc type="#pilcrow"/>Item obicit res et qualiter se habent secundum debitum ordinem sicut 
-              <lb ed="#P"/>deum repraesentat praecise nisi paternalis obligatio sit ad oppositum 
-              <!-- could above line belong to paragraph above?? -->
-              Et sic in divina per caritatem factam ad 
-              <lb ed="#P"/>exequendum sunt facilia sed ad oppositum stat cupiditas in <unclear>stignans</unclear> ne <unclear>exerteantur</unclear> ipsa mente
-              
+              <lb ed="#P" n="50"/>deum repraesentat praecise nisi paternalis obligatio sit ad oppositum <!-- could above line belong to paragraph above?? --> Et sic in divina per caritatem factam ad 
+              <lb ed="#P" n="51"/>exequendum sunt facilia sed ad oppositum stat cupiditas in <unclear>stignans</unclear> ne <unclear>exerteantur</unclear> ipsa mente
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e368">
@@ -521,15 +304,15 @@
               esset habere caritatem et recurrere ad eam
             </head>
             <p xml:id="ppra-l81-nsqaas">
-              <lb ed="#P"/><pc type="#pilcrow"/>Unde potest inferri de scismate nunc currente scilicet annon nonagesimo 2a quod maxima ipsius 
-              <lb ed="#P"/>scismatis dissolutio esset caritatis apprehensio sed quia frequens cupiditatis regnat adeptio in 
-              <lb ed="#P"/>utraque politia tam civili quam spirituali recessit caritas quia inter ipsas esset maxima <unclear>a?ppo?</unclear>
+              <lb ed="#P" n="52"/><pc type="#pilcrow"/>Unde potest inferri de scismate nunc currente scilicet anno nonagesimo 2a quod maxima ipsius 
+              <lb ed="#P" n="53"/>scismatis dissolutio esset caritatis apprehensio sed quia frequens cupiditatis regnat adeptio in 
+              <lb ed="#P" n="54"/>utraque politia tam civili quam spirituali recessit caritas quia inter ipsas esset maxima <unclear>a?ppo?</unclear>
             </p>
             <p xml:id="ppra-l81-epipei">
               <pc type="#pilcrow"/>Ex quo sequitur 
-              <lb ed="#P"/>quod si vellemus pacem oporteret primitus cupiditate qua magnates <del rend="strikethrough">se</del> maxime se dantur 
-              <pb ed="#P" n="33-r"/>
-              <lb ed="#P"/>qua <unclear>pro?</unclear> a caritate separantur
+              <lb ed="#P" n="55"/>quod si vellemus pacem oporteret primitus cupiditate qua magnates <del rend="strikethrough">se</del> maxime se dantur 
+              <pb ed="#P" n="83-r"/>
+              <lb ed="#P" n="1"/>qua <unclear>pro?</unclear> a caritate separantur
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e383">
@@ -540,14 +323,9 @@
               Quod omnis deliberata actio non producta a caritate sortitur difformitatis aliqualem rationem
             </head>
             <p xml:id="ppra-l81-dsqmsv">
-              Decimo,
-              sequitur quod omnis deliberata actio non 
-              producta a caritate sortitur difformitatis aliqualem 
-              rationem. 
-              Patet quia ipsa sine caritate praeordinatur 
-              inordinate et difformiter 
-              et omnis talis actio est peccatum, 
-              et si non mortale, saltem veniale.
+              <pc type="pilcrow"/> Ex quo sequitur ulterius quod omnis actio <unclear>debita</unclear> caritate non producta 
+              <lb ed="#P" n="2"/>sortitur aliquam difformitate patet per praedicta quia sine ipsa non rectificatur <pc type="virgula">/</pc> Et etiam omnis 
+              <lb ed="#P" n="3"/>operatio extra caritate vel peccatum saltem veniale
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e393">
@@ -557,26 +335,9 @@
               per illum voluntatis non existentis in actum sublata caritate
             </head>
             <p xml:id="ppra-l81-usqvph">
-              Undecimo, 
-              sequitur quod operationes ex caritate procedentes vel 
-              nullum generat habitum vel si aliquem generet per illum 
-              voluntatis non exit in actum sublata caritate, 
-              ut <name ref="#Sortes">Sortes</name> nunc diligat Deum et proximum et 
-              exeat in actum dilectionis Dei et proximi, 
-              tunc dicitur quod huiusmodi actus vel nullum generat habitum 
-              vel si generet aliquem, 
-              tunc sine caritate <name ref="#Sortes">Sortis</name> non 
-              exiret in actus consimiles primis per illum habitum reservatum 
-              quia, 
-              si sic, 
-              sequeretur quod sublata caritate 
-              voluntas posset in consimiles actus actibus habitis, 
-              quod est falsum, 
-              quia habitus sit generati a caritate derelicti 
-              non sufficerent in consimiles actus. 
-              Patet quia voluntas non potest 
-              nisi cum caritate agere actus consimiles 
-              illis ex quibus cum caritate voluntas producebat habitus.
+              <pc type="pilcrow"/> Ulterius sequitur quod operationes sic procedentes 
+              <lb ed="#P" n="4"/>vel nullum generant habitum vel habitus sive actus non sunt sicut moraliter <pc type="pilcrow"/> Sequitur etiam quod voluntas 
+              <lb ed="#P" n="5"/>potest producere actum eiusdem speciei sine caritate et hoc est dictum superiori et etiam circa materiam prae<lb ed="#P" break="no" n="6"/>destinationis
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e408">
@@ -586,32 +347,11 @@
               per actus caritativos producunt actus similes primis sublata caritate
             </head>
             <p xml:id="ppra-l81-dsqeic">
-              Duodecimo, 
-              sequitur quod difficultas cognoscendi 
-              se esse in caritate non consurgit ex eo quod habitus 
-              acquisiti per actus caritativos producunt actus similes 
-              primis sublata caritate. 
-              Unde aliqui imaginantur 
-              quod si aliquis feratur in dilectionem Dei et proximi, 
-              tunc in ipso producitur actus diligendi Deum et proximum 
-              mediante caritate. 
-              Et ex isto actu generatur habitus 
-              qui potest exire in actu diligendi Deum et proximum 
-              sublata caritate, 
-              et iste actus est primo similis, 
-              licet producatur cum caritate. 
-              Modo, 
-              dicitur totum contrarium, 
-              sed difficultas cognoscendi 
-              se esse in caritate consurgit 
-              ex parte cupiditatis et malorum habituum caritati 
-              <cb ed="#SV" n="298vb"/>
-              incompossibilium et partim ex ignorantia relationum ad actum. 
-              Unde stat bene quod aliquis habeat actum fruibilem vel fruitivum, 
-              et tamen nescit se habere illum, 
-              nam illum actum reffert ad se, 
-              quia non potest habere actum reflexum super actus suos et 
-              ex hoc consurgit difficultas cognoscendi se esse in caritate.
+              <pc type="pilcrow"/> Ulterius sequitur quod difficultas cognoscendi esse in caritate non consurgit ex 
+              <lb ed="#P" n="7"/>habitudine productionis actuum similium sublata caritate sicut aliqui sunt ymaginati et hoc est 
+              <lb ed="#P" n="8"/>ex radice cupiditatis ignorantiam generantur in nobis <pc type="virgula">/</pc> unde constat quod aliquis putet esse 
+              <lb ed="#P" n="9"/>in caritate et tamen non et <unclear>nihil</unclear> putabit se summe diligere deum <pc type="virgula">/</pc> et sic latentes 
+              <lb ed="#P" n="10"/>sed si haberet actum caritatis posset conclusione se esse.
             </p>
           </div>
           <div xml:id="ppra-l81-Dd1e419">
@@ -619,27 +359,13 @@
             <head xml:id="ppra-l81-Hd1e512" type="question-title">Quod caritas non solum est animae sanatio, 
               sed ultra gradum naturalis causalitatis augmentatio vel elevatio</head>
             <p xml:id="ppra-l81-tsqicv">
-              Tredecimo, 
-              sequitur quod caritas non solum est animae sanatio, 
-              sed ultra gradum naturalis causalitatis augmentatio vel elevatio, 
-              quia voluntas in statu innocentiae non potest in actum in quem nunc potest
-              iuvante caritate, igitur corollarium verum.
+              <pc type="pilcrow"/> Sequitur ulterius caritas nedum est sanitiva 
+              <lb ed="#P" n="11"/>sed est sanissima super omnem facultatem
             </p>
             <p xml:id="ppra-l81-epicls">
-             Et proportionaliter in materia fidei, 
-             sicut fuerunt posita corollaria de laude fidei, 
-             ita posset poni de laude caritatis. 
-             Unde imaginatur 
-             quod sicut fides est instrumentum libere agentis, 
-             scilicet, spiritus, <sic>scilicet</sic> et 
-             conformiter se habet primae veritati, 
-             ita caritas est qualitas qua Spiritus Sanctus in creatura 
-             producitur actus meritorius 
-             et est semper Spiritui Sancto conformis 
-             quia impossibile est quod caritas 
-             exeat contra legem in actum, 
-             vel quod actus mediante ipsa 
-             elicitur a voluntate contra legem statutam.
+              <pc type="pilcrow"/>Et proportionaliter sicut in materia fidei dicta fuerit multa 
+              <lb ed="#P" n="12"/>laudatoria possent etiam hic aptari idcirca ad ea si velit recurrere recui?tis
+              <lb ed="#P" n="13"/>unde tenendum est quod impossibile est caritatem in aliquem pravum actum exire <pc type="punctus"/> 
             </p>
          </div>
         </div>
@@ -651,43 +377,55 @@
             Quod caritas non erit essentialiter subordinata primae veritati vel Spiritu Sancto
           </head>
           <p xml:id="ppra-l81-scasdf">
-            Sed contra arguitur 
-            et ponitur quod deus deacceptet creaturam, 
-            staret illam 
-            caritatem esse in creatura quae esset in peccato, 
-            scilicet, subtracto spiritu 
-            sancto, 
-            et eius speciali assistentia, 
-            quia spiritus sanctus et caritas 
-            non simul colligantur, 
-            tunc ponatur quod ex caritate voluntas 
-            producat actum ille non erit meritorius, sed obliquus. 
-            sed et per consequens, caritas non erit essentialiter subordinata primae 
-            veritati vel spiritui sancto. 
-            illud argumentum fuit factum similiter de fide.</p>
-          <p xml:id="ppra-l81-eiriec">
-            Et ideo respondetur admittendo totum casum. 
-            Et dicitur quod, 
-            licet illa quantitas quae est caritas remanet, 
-            non tamen remaneret in esse caritatis.
+            <pc type="pilcrow"/> Sed nihilominus sic 
+            <lb ed="#P" n="14"/>argueretur ponendo quod caritas a creatura separetur et tamen qualitas maneat abstracto spiritu sancto <pc type="punctus"/> tunc 
+            <lb ed="#P" n="15"/>ponamus quod ex ipsa qualitate producatur aliquis actus 
           </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l81-eiriec">
+            <pc type="punctus"/> tunc hoc stante ille non erit bonus sed peccatum <pc type="punctus"/> et tamen 
+            <lb ed="#P" n="16"/>manebit qualitas adhuc ipsius caritatis
+          </p>
+          <!-- fuzzy parallel -->
           <p xml:id="ppra-l81-sdqsab">
-            Secundo dicitur quod voluntas non 
-            exiret in actum 
-            quia activitas caritatis est activitas 
-            spiritualis praerequirens influxum Spiritus Sancti et influxum 
-            esse superioris secum concurrentis modo dicitur quod Spiritus Sanctus 
-            non potest agere immediate et specialiter ad mali productionem, 
-            igitur nec caritas cum spiritus sanctus semper dirigit caritatem 
-            in suis operationibus. 
-            Et ideo caritas semper prarequirit superiorem 
-            causam concurrentem cum ea et eius causalitas est 
-            talis quod semper praerequirit causalitatem Spiritus Sancti. 
-            Et sic apparet quod caritas 
-            non potest concurrere uniformiter ad malum, 
-            sicut ad bonum.
+            <pc type="pilcrow"/> Ad huc dicitur quod ista ratio iam in materia de fide est 
+            <lb ed="#P" n="17"/>soluta <pc type="punctus"/> nihilominus dico quod qualitas talis manens in sorte non erit caritas quia non ageret specialiter
+            <lb ed="#P" n="18"/>nec apta nata esset causare effectum sufficientem bonum <pc type="punctus"/> sed cum hoc requirit spiritum sanctum tamquam 
+            <lb ed="#P" n="19"/>superiorem causam Et eius causalitas talis est quod non potest exire in aliquem actum malum modo 
+            <lb ed="#P" n="20"/>hoc spiritui sancto repugnat et haec de ista materia pro nunc
           </p>
        </div>
+        <div xml:id="ppra-l81-Dacsxxy" type="liber2-distinctio32">
+          <head>Conclusiones</head>
+          <p xml:id="ppra-l81-acs2xx">
+            <sic>Secuntur</sic> ergo conclusiones textuales 
+            <lb ed="#P" n="21"/><unclear>sum</unclear> 32am distinctione 2i prima est de oppinionibus quorumdam videlicet quod peccatum originale est traductio est 
+            <lb ed="#P" n="22"/>unde dixerunt animam descendere pro propagationem pariseis decisione et hoc est erronea et falsum 
+          </p>
+          <p xml:id="ppra-l81-acs4xx">
+            <lb ed="#P" n="23"/> <pc type="pilcrow"/> 2a conclusio <unclear>sensus</unclear> quo ad?ubi dicisa concupiscentiam in seminis decisione cont?rte etc <pc type="virgula">/</pc> ex qui?one 
+            <lb ed="#P" n="24"/>ipsa anima labem sumit
+          </p>
+          <p xml:id="ppra-l81-acs6xx">
+            <pc type="pilcrow"/> 3a conclusio anima non contrahit maculam sed in instanti quo con<lb ed="#P" break="no" n="25"/>iungitur 
+            crani ad ipsam labem contrahit
+          </p>
+          <p xml:id="ppra-l81-acs8xx">
+            <pc type="pilcrow"/> 4a conclusio est quaedam similitudo animae nostrae <del>a</del> et cor soris 
+            <lb ed="#P" n="26"/>ad granum et paleam et est satis morosa nam sicut triticum a palea denudatum purum est 
+            <lb ed="#P" n="27"/><unclear>et</unclear> nundum <pc type="punctus"/> <del rend="strikethrough">ita anima</del> antequam in terram seminentur <pc type="punctus"/> sed post eius augmentum <unclear>dum in messem </unclear> 
+            <lb ed="#P" n="28"/>devenit paleam sumit a natura prius <unclear>creata</unclear> Ita similiter anima dum carni seminatur sive infunditur 
+            <lb ed="#P" n="29"/>sine palea id est vicio et macula ipsi crani coniungitur sed in instanti coniunctionis illius <unclear>laben</unclear> 
+            <lb ed="#P" n="30"/>peccati videlicet originalis sumit unde satis philosophus videtur hoc velle <ref xml:id="ppra-l81-Rxs8xx" target="http://scta.info/resource/aristda-l3-bw14Xp@26-45"><sic>2o <!-- seems like this actually book 3 --></sic> de anima</ref> dicens quod intellectus 
+            <lb ed="#P" n="31"/>noster scilicet anima in principi suae creationis est tamquam tabula rasa in qua nihil <sic>depinguitur</sic> etc
+          </p>
+          <p xml:id="ppra-l81-ac10xx">
+            <pc type="pilcrow"/> 5a conclusio 
+            <lb ed="#P" n="32"/>de conceptu qui quid <unclear>potest</unclear> capi primo pro seminis decisione <pc type="virgula">/</pc> 2o pro anime infusione <pc type="virgula">/</pc> 3o pro <unclear>nativitate</unclear> 
+            <lb ed="#P" n="33"/>si quando supra terram egreditur fetus <pc type="punctus"/> et propter haec non contra habetur peccatum sicut de ieremia 
+            <lb ed="#P" n="34"/>de iohanne baptista et de virgine gloriosa quod fuerit sanctificati in matris utero quare etc
+          </p>
+        </div>
       </div>
     </body>
   </text>
