@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 83, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 83, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-08-27">August 27, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-08-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="84-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio83">
+        <head xml:id="ppra-l83-Hldcldc">Lectio 83, de Caritate</head>
+        <div xml:id="ppra-l83-Dd1e109">
+          <head xml:id="ppra-l83-Hpqsidm">Ad secundum corollarium: quod stat aliquem in caritate existentem esse perplexum inter duo mala</head>
+          <p xml:id="ppra-l83-umcidm">
+            <lb ed="#P"/>Consequenter circa materiam caritatis pro rationibus factis et ut materia magis amplietur <pc type="pilcrow"/> Sunt 
+            <lb ed="#P"/>aliae rationes in oppositum aliarum <unclear>inducendae</unclear> quarum prima <pc type="pilcrow"/> Stat aliquem esse in caritate et tamen 
+            <lb ed="#P"/>perplexum esse
+          </p> 
+          <p xml:id="ppra-l83-epdmdc">
+            Et arguitur probando sic eam primo de iudaeis nam praelati eorum sibi praedicabat ut christum 
+            <lb ed="#P"/>interficerent tanquam legis suae destructorem et adversatorem et etiam prophetarum <pc type="virgula">/</pc> modo 
+            <lb ed="#P"/>suis praepositis est obediendi ut dicit christus in evangelio et hoc videtur omnium viri consonum igitur 
+            <lb ed="#P"/>sic facientes iudaei cum non essent literati adhuc in caritate manebant et tamen secundum nostram 
+            <lb ed="#P"/>legem gravissime peccabant quia innocentem condempnabant et per consequens stat aliquem 
+            <lb ed="#P"/>esse in caritate et tamen perplexum esse quod fuit declarandum consequentia clara antecedens 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l83-pmidcl">
+            pro prima sui parte patet <pc type="punctus"/> sed 
+            <lb ed="#P"/>pro 2a fulcitur duobus praeceptis in deuteronomio contentis quorum primum maledictis imponetur omnibus 
+            <lb ed="#P"/>non legem testamenti servantibus <pc type="punctus"/> modo christus contra legem eorum multa faciebat igitur
+          </p>
+          <p xml:id="ppra-l83-ariavi">
+            <pc type="pilcrow"/> Primo quia 
+            <lb ed="#P"/>dabatur eis pro ista quod si surrexerit aliquis propheta in te et praedicaverit contra legem interficiatur 
+          </p>
+          <p xml:id="ppra-l83-ivqhns">
+            <lb ed="#P"/>et sic iudaei permanserit in caritate tamquam ad sua praecepta <unclear>obligata</unclear> licet essent perplexi ergo aliquis
+            <lb ed="#P"/>existens in caritate inter duo mala est perplexus Et forte diceret aliquis quod operatio malorum 
+            <lb ed="#P"/>sufficit solvebat vinculum perplexitatis sed hoc non sufficit 
+          </p>
+          <p xml:id="ppra-l83-qiasfm">
+            quoniam <sic>christus</sic> in atestatione suae nequitiae 
+            <lb ed="#P"/>faciebat miracula 
+          </p>
+          <p xml:id="ppra-l83-smpdhr">
+            <pc type="pilcrow"/> Sed quis diceret ita fuit de multis nam magi pharaonis miracula
+            <lb ed="#P"/>fecerit igitur etc consequentia tenet consequens patet de mutatione virge in serpentem
+          </p>
+          <p xml:id="ppra-l83-tiihap">
+            <pc type="pilcrow"/> Item fictores ydeolorum 
+            <lb ed="#P"/>ut valerius recitat nam <del rend="strikethrough">deillones</del> loquaebantur <del>in eis</del> <pc type="punctus"/> si ydola et dabantur in 
+            <lb ed="#P"/>eis responsa <pc type="punctus"/> igitur ex istis patet quod ex parte nurarum iudaei non habebant credere christum
+          </p>
+          <p xml:id="ppra-l83-saqsia">
+            <pc type="pilcrow"/> Item 
+            <lb ed="#P"/>ignorantia invincibilis excludit a peccato sed sua sic erat igitur etc
+          </p>
+        </div>
+        <div xml:id="ppra-l83-Dd1e178">
+          <head xml:id="ppra-l83-Hd1e180">Ad 10<!-- or 11[??]--></head>
+          <p xml:id="ppra-l83-dacier">
+            <pc type="pilcrow"/> Deinde arguitur contra aliud dictum 
+            <lb ed="#P"/>videlicet quod stat caritatem non esse intensibilem et remissibilem 
+          </p>
+          <!-- fuzzy break; fuzzy parallel -->
+          <p xml:id="ppra-l83-ehdier">
+            quoniam omnis forma denominans suum subiectum denominatione 
+            <lb ed="#P"/>absoluta est realiter in se intensibilis et remissibilis modo caritas est forma sic denominans suum subiectum 
+            igitur contra dicta
+          </p>
+        </div>
+        <div xml:id="ppra-l83-Dd1e191">
+          <head xml:id="ppra-l83-Hd1e193">Ad octavum corollarium: quod caritas non repugnat essentialiter culpae</head>
+          <p xml:id="ppra-l83-pacscc">
+            <pc type="pilcrow"/> Item contra aliud videlicet quod caritas non repugnat culpae realiter et intrinsece igitur 
+            <lb ed="#P"/>non stat cum culpa consequentia tenet et antecedens patet quia sicut odium dei a recta semita facit <sic>oblicarem<!-- obliquarem --></sic> 
+            <lb ed="#P"/>ita caritas per obiectum intrinsece recta faciet rectificarem igitur etc
+          </p>
+          <p xml:id="ppra-l83-ciqaic">
+            <pc type="pilcrow"/> Item contra aliud scilicet quod caritas 
+            <lb ed="#P"/>requiritur tamquam causa <pc type="virgula">/</pc> Nam sit ita quod aliquis fecerit quasi omnia opera meritoria per <unclear>ultima</unclear> annos 
+            <lb ed="#P"/>et bene exercitetur circa materiam ipsorum operum etc existere operibus generabuntur habitus <pc type="virgula">/</pc> sit ergo 
+            <lb ed="#P"/>ita inmediate post hoc peccet aliquo peccato tunc per hoc habitus praecedentes non eorum <unclear>p?tur</unclear> 
+            <lb ed="#P"/>igitur efficaciam suam habebunt <pc type="punctus"/> videlicet exeundi in actum virtutis et per consequens sua habitudo non de<lb ed="#P"/>pendet 
+            a caritatis dependentia igitur actio virtutum non dependebit a caritate <unclear>quodam</unclear> tamen est obiectum 
+            <lb ed="#P"/>praedictis superius
+          </p>
+          <p xml:id="ppra-l83-qaqchp">
+            <pc type="pilcrow"/> Item huius qualitas remanet cum culpa tunc <unclear>valo</unclear> et arguo sic 
+          </p>
+          <p xml:id="ppra-l83-nupeia">
+            nam probatum est quod habitus 
+            <lb ed="#P"/>generantur per actus caritativos igitur sufficiet exire in aliquem actum <pc type="virgula">/</pc> quoniam caritas nobilior 
+            <lb ed="#P"/>et magis activa est et per consequens si aliae et caritas sufficiet
+          </p>
+          <p xml:id="ppra-l83-cqessf">
+            <pc type="pilcrow"/> Confirmatur hoc de fide a simili 
+            <lb ed="#P"/>nam tenens <sic>fidens</sic> potest exire in actum peccati <pc type="punctus"/> igitur et in caritate existens potest exire in actum 
+            <lb ed="#P"/>peccati <unclear>aliter</unclear> econtra ut docet experientia quoniam aliter sequeretur quod non quam conferetur sua peccata <pc type="punctus"/> igitur 
+            <lb ed="#P"/>fides absque influxu caritatis exiet in actum
+          </p>
+        </div>
+        <div xml:id="ppra-l83-Dd1e218">
+          <head xml:id="ppra-l83-Hrarara">Responsio ad rationes <name ref="#Aureoli">Aureoli</name></head>
+          <p xml:id="ppra-l83-araara">
+            <pc type="pilcrow"/> Aliae rationes possent adduci quas 
+            <lb ed="#P"/>dimittus usque ad alium locum <pc type="pilcrow"/> Venio igitur ad solvendum rationes <name>aureoli</name> prius 
+            <lb ed="#P"/>factus <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l83-epvdad">
+            <pc type="pilcrow"/> Ad primum quando dicebatur scilicet quod caritas est necessario caritas erat ymaginarius sua sicut diceretur 
+            <lb ed="#P"/>albeda realiter et intrinsece albedo et sicut impossibile est quin inhaereat alicui subiecto quin 
+            <lb ed="#P"/>denominet subiectum quale ita caritas subiectum carum <pc type="punctus"/> vel etc <pc type="pilcrow"/> Item addit quod non solum denominat 
+            <lb ed="#P"/>suum subiectum sed cum hoc deum diligentem <unclear>habentem</unclear> formam et <unclear>sive</unclear> subiectum carum <pc type="virgula">/</pc> non quia solum diligat 
+            <lb ed="#P"/>ymmo infert actualiter <pc type="pilcrow"/> unde consequenti est bona caritas informat igitur deus diligit eam et sicut 
+            <lb ed="#P"/>non stat subiectum cui albedo inhaeret esse sine albedine ita in creatura non potest esse sine caritate 
+            <lb ed="#P"/>et etiam prius obicitur personae diligendo deum et ista sunt contra <unclear>ante</unclear> dicta
+          </p>
+          <div xml:id="ppra-l83-Dd1e240">
+            <head xml:id="ppra-l83-Hrapsca">Responsio ad probationem secundae conclusionis Aureoli</head>
+            <p xml:id="ppra-l83-ciicva">
+              <pc type="pilcrow"/> Arguitur tamen contra ultimum 
+              <lb ed="#P"/>argumentum suum scilicet de ratione prioritatis nam informare subiectum habet <unclear>quamdam</unclear> forma prioritatis ut igitur
+              
+              
+              Contra istam imaginationem arguitur, 
+              primo contra illud 
+              quod ultimo dicebatur de ratione prioritatis 
+              quia dicit quod caritas habet rationem prioritatis 
+              respectu divinae acceptationis.
+              <!--<note>See above <ref type="crossReference" target="lectio82.xml#l82-scpicv">Lectio 82,</ref></note>-->
+            </p>
+            <p xml:id="ppra-l83-cepcva">
+              <pc type="pilcrow"/> Sed contra nam <unclear>generali</unclear> 
+              <pb ed="#P" n="84-v"/>
+              <lb ed="#P"/>habitudo dei ad res <pc type="virgula">/</pc> rerum autem ad nos est viceversa Et in <unclear>hiis</unclear> <name>aristoteles</name> et <name>commentator</name> satis 
+              <lb ed="#P"/>concordant videlicet quod scientia dei est causa rerum <pc type="punctus"/> In nobis autem res causae sunt <unclear>men</unclear>
+              <lb ed="#P"/>scientiae et sicut est de scientia ita de omnibus aliis habentibus sicut de volitione et ceteris <pc type="punctus"/> Nam etiam 
+              <lb ed="#P"/>volitio dei est causa rerum <pc type="punctus"/> et non econtra et per consequens ratio prioritatis in deo consurgit respectu creaturis 
+              <lb ed="#P"/>sive respectu scibilium quantum ad voluntatem igitur sic ponere ut dictum est contra theologiam ponere et etiam philosophiam 
+              <lb ed="#P"/>unde certum est quod scientia dei est causa scibilium et sic male dicitur quod caritas creata sit causa divinae acceptionis 
+            </p> 
+            <p xml:id="ppra-l83-eeioid">
+              <lb ed="#P"/>Ex isto sequitur contra alia dicta sua <pc type="virgula">/</pc> scilicet quod deus potest diligere creaturam et acceptare eam absque 
+              <lb ed="#P"/>dono creato quocumque vel alia causa extrinseca ymmo propter bonitatem suam summam patet hoc quia obiectum 
+              <lb ed="#P"/>diligibile sortis ratione diligibili et non econtra quia non habet originem in se essentialiter sed deus habet 
+              <lb ed="#P"/>sit originem in se et a se 
+            </p> 
+            <p xml:id="ppra-l83-ucbada">
+              <pc type="punctus"/> ut satis expresse <ref xml:id="ppra-l83-Rd1e261">in canonica <name ref="#John">beatissimi iohannis</name></ref> ponitur <quote xml:id="ppra-l83-Qd1e268" source="http://scta.info/resource/Iio4_19">prior dilexit nos</quote> 
+            </p>
+            <p xml:id="ppra-l83-eldaoh">
+              <lb ed="#P"/>Item etiam de <name ref="Jacob">iacob</name> <pc type="virgula">/</pc> dicitur antequam nati essent vel aliquid essent <name>iacob</name> et <name>esau</name> prius <name>iacob</name> dilexi 
+              <lb ed="#P"/><name>esau</name> autem odio <unclear>habui</unclear> igitur etc
+            </p>
+            <p xml:id="ppra-l83-eiidnd">
+              <pc type="pilcrow"/> Item in <ref xml:id="ppra-l83-Rd1e299"><title ref="#is">ysaia</title></ref> legitur <quote xml:id="ppra-l83-Qd1e307" source="http://scta.info/resource/is64_6">scientiae nostrae sunt in conspectu dei sunt 
+              <lb ed="#P"/>tamquam pannus mulieris menstruate</quote> et per consequens non est in nobis ratio ad hoc quod deus 
+              <lb ed="#P"/>diligat nos nisi ex summa sua et benigmissima miseria <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l83-eiedps">
+              <pc type="pilcrow"/> unde quicquid fecerimus secundum inutiles 
+              <lb ed="#P"/>facti sumus <pc type="pilcrow"/> Et <ref xml:id="ppra-l83-Rd1e314"> <name ref="#Paul">Apostolus</name></ref> <quote xml:id="ppra-l83-Qd1e320" source="http://scta.info/resource/tit3_5">non ex operibus iustitiae quae fecimus nos sed secundum misericordiam suam salvos 
+              <lb ed="#P"/>nos fecit</quote> <pc type="punctus"/> <pc type="virgula">/</pc> Et sic a parte obiecti creaturae non reperitur <unclear>diligitas</unclear> dei in nobis 
+            </p>
+            <p xml:id="ppra-l83-iaarin">
+              <pc type="virgula">/</pc> quoniam ut 
+              <lb ed="#P"/>dicit <ref xml:id="ppra-l83-Rd1e326"><name ref="#Paul">apostolus</name></ref> <quote xml:id="ppra-l83-Qd1e330" source="http://scta.info/resource/rom8_18">passiones huius temporis non sunt condignae ad</quote> etc
+            </p>
+            <p xml:id="ppra-l83-ipgqem">
+              <pc type="pilcrow"/> Item pure gratuite et 
+              <lb ed="#P"/>propter suam voluntatem ordinavit nobis deus <unclear>l?am</unclear> vitam igitur medium ad ipsam consequendum scilicet caritatem 
+              <lb ed="#P"/>quam in nobis ordinavit
+            </p>
+            <p xml:id="ppra-l83-iqiiag">
+              <pc type="pilcrow"/> Item quaeretur in quo genere causae esset huiusmodi dilectio 
+              <lb ed="#P"/>et non videtur posse bene salvari <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l83-ivevbs">
+              <pc type="pilcrow"/> Item haec videretur esse contra divinam libertatem <pc type="punctus"/> ut patet prima facie 
+            </p>
+            <p xml:id="ppra-l83-iurapo">
+              <lb ed="#P"/><pc type="pilcrow"/> Item radix sua de odio dei retorquetur contra eum unde dicit quod non potest dare vel odire aliquem 
+              <lb ed="#P"/>nisi fuerit odium positivum et per consequens non potest diligere nisi voluntas sive delectio fuerit <unclear>potentia</unclear> 
+              <lb ed="#P"/>sed hoc videtur falsum  
+            </p>
+            <!-- very fuzzy parallel; this is current best guess -->
+            <p xml:id="ppra-l83-iaidcp">
+              <pc type="pilcrow"/> Item de anima et in <unclear>infusione</unclear> sua potest illud confirmari <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l83-iasarb">
+              <pc type="virgula">/</pc> unde est sciendum quod 
+              <lb ed="#P"/>deus aliter et aliter se habet respectu bonorum et malorum
+            </p> 
+            <p xml:id="ppra-l83-pqniri">
+              <pc type="virgula">/</pc> Et per consequens similitudo non est bona de odio et <unclear>diligitate</unclear> 
+              <lb ed="#P"/>quia dato quod deus non posset odire aliquem nisi ex sua malitia adhuc non sequeretur conclusio sua 
+              <lb ed="#P"/>attenta sua immensitate infinita quia in nobis experimur maxime in bonis hominibus quod nonquam 
+              <lb ed="#P"/>virtuosus homo odiret nisi male factae licet <del rend="strikethrough">latenter esset malus bonus</del>
+            </p>
+            <p xml:id="ppra-l83-idairi">
+              <pc type="virgula">/</pc> Etiam a fortiori deus 
+              <lb ed="#P"/>aliter concurrit circa mala et aliter circa bona <pc type="virgula">/</pc> circa bona secundum suum effectum bonum et circa mala: 
+              <lb ed="#P"/>secundum quod rigor iustitiae requirit
+            </p>
+          </div>
+          <div xml:id="ppra-l83-Dd1e378">
+            <head xml:id="ppra-l83-Hrappca">Responsio ad probationem primae conclusionis Aureoli</head>
+            <p xml:id="ppra-l83-rardad">
+              <pc type="pilcrow"/> Et sic ad suam rationem primam actus aeternus non potest transire 
+              <lb ed="#P"/>super sortem etc infert ex haec quod divina causarum <unclear>la?a</unclear> non potest transire super sortem nisi habeat caritatem  
+            </p>
+            <p xml:id="ppra-l83-idtaae">
+              <lb ed="#P"/> <pc type="pilcrow"/> Breviter iste doctor in materia de praescientia et de causalitate rerum tenuit oppinionem non 
+              <lb ed="#P"/>solidam <pc type="punctus"/> nam dicit quod non stat divina voluntatem circa aliquod obiectum esse quin tale obiectum bene 
+              <lb ed="#P"/>aliquotiens se habeat ad obiectum <pc type="virgula">/</pc> unde etiam de actu aeterno dicitur quod ipse et multi alii doctores 
+              <lb ed="#P"/>propter terminorum absente multae <unclear>lucida</unclear> nubilaneris
+            </p>
+            <p xml:id="ppra-l83-hdapot">
+              Nihilominus pro responsione ad haec 
+            </p>
+            <p xml:id="ppra-l83-eidtso">
+              distinguitur de 
+              <lb ed="#P"/>ad haec complacentia nam complacentia potest <unclear>servi</unclear> <pc type="pilcrow"/> primo pro praedestinatione et sic non potest transire noviter supra sortem 
+              <lb ed="#P"/>actus aeternus <pc type="punctus"/> vel supra aliquod obiectum quia quidquid praedestinatum est ab aeterno praedestinatum est <pc type="punctus"/> licet posset 
+              <lb ed="#P"/>non esse ut videtur <name>boetius</name> posuisse
+            </p>
+            <p xml:id="ppra-l83-pmieap">
+              <pc type="pilcrow"/> 2o modo potest capi pro acceptatione divina et sic negatur sibi quoniam 
+              <lb ed="#P"/>implicaret contradictionem nisi forte per communicationem ydiomatum ad hoc factum <pc type="virgula">/</pc> sed cum haec stat quod potest 
+              <lb ed="#P"/>etiam non praedestinatum <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l83-scdide">
+              <pc type="pilcrow"/>3o modo potest capi pro acceptatione secundum praesentem iustitiam et sic isto modo fertur 
+              <lb ed="#P"/>supra aliquem actum vel obiectum <pc type="virgula">/</pc> sed quando dicit ultra dicitur quod difficultas stat in hoc scilicet quod deus ab aeterno 
+              <lb ed="#P"/>acceptavit verum est ut sic sed si intelligatur quod <unclear>denominaliter</unclear> sortem sic se habere etc negaretur <unclear>pra?</unclear> etc
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l83-Dasfdd">
+          <head xml:id="ppra-l83-Hasf11">Conclusiones</head>
+          <p xml:id="ppra-l83-aasf22">
+            <lb ed="#P"/><pc type="pilcrow"/> Tunc secuntur conclusiones textuales supra 34am distinctionem 2i quarum prima In <unclear>potestate</unclear> primi parentis in beata peccata 
+            <lb ed="#P"/><unclear>fueritiat</unclear> annexa <pc type="punctus"/> et quasi omnia se parte <unclear>capi?liam</unclear> quae dicuntur mortalia primo in privari ca?ne peccavit 
+            <lb ed="#P"/>superbia non obediendo sacrilegio sacrae <unclear>finando</unclear> fornicatione mentis in te <unclear>grite</unclear> non servando 
+            <lb ed="#P"/>avaritia superfluia apppettando <pc type="virgula">/</pc> si divinas divitias exurpando <pc type="punctus"/> per furtum pro habitum fructum <unclear>fie?do</unclear> 
+            <lb ed="#P"/>per invidiam creatori et eius scientiae in videndo <pc type="virgula">/</pc> Ira <del rend="strikethrough">se</del> guturi suum post fructus esum capiendo 
+            <lb ed="#P"/><unclear>pignitiae</unclear> <unclear>pusilla?te</unclear> et non <unclear>temptantium</unclear> resistendo etc Ista sic posui scribendo licet aliter in textu sint 
+            <lb ed="#P"/>reperta
+          </p>
+          <p xml:id="ppra-l83-aasf33">
+            <pc type="pilcrow"/> Sed circa haec potest quaeri quid peccatum fuerit primum et utrum commisionis vel obmissionis 
+          </p>
+          <p xml:id="ppra-l83-aasf44">
+            <lb ed="#P"/><pc type="pilcrow"/> dicunt quidam quod fuit obmissionis videlicet occurente materia temptationis nec habebat <name>adam</name> <unclear>dita?na</unclear> 
+            <lb ed="#P"/>recta <pc type="punctus"/> si pro sciendo quo modo se a peccato praeservasset quia eo ipso non peccasset sicut de lucifero et eius 
+            <lb ed="#P"/>casu quia casum suum minime praescivit
+          </p>
+          <p xml:id="ppra-l83-aasf55">
+            <pc type="pilcrow"/> Alii dicuntur quod sufficit simplex apprehensio et sufficiebant 
+            <lb ed="#P"/>in hac <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l83-aasf66">
+            <lb ed="#P"/> Alii quod voluntas in particulari potest in potest et exire in actum nimis intensum etc patet 
+          </p>
+          <p xml:id="ppra-l83-aasf77">
+            <lb ed="#P"/><pc type="pilcrow"/> 2a conclusio peccata parentum non puniuntur in posteros scilicet ipsamet sed propria <unclear>habent</unclear>
+          </p>
+          <p xml:id="ppra-l83-aasf88">
+            <pc type="pilcrow"/> 3a conclusio poena parvulorum 
+            <lb ed="#P"/>in originale decedentium nullam est vel modica quia nullum est peccatum et sic sibi nulla est modica 
+            <lb ed="#P"/>correspondet poena nisi solum privatio visionis aeternae quam ad <unclear>mo?m</unclear> si sortes in prima aula <pc type="punctus"/> et rex 
+            <lb ed="#P"/><unclear>fu?corum</unclear> connobilibus suis esset <unclear>infirmitate</unclear> aulae in creatura quadam alii de lectarentur in eum scilicet <unclear>assi?tes</unclear> sortes 
+            <pb ed="#P" n="85-r"/>
+            <lb ed="#P"/><unclear>autem</unclear> non quia non videre sic de partialis <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l83-aasf99">
+            <pc type="pilcrow"/> 4a conclusio de quadam oppinione scilicet de grave <unclear>ar</unclear>
+            <lb ed="#P"/>peccati et haec debet intelligi ratione se quale <pc type="punctus"/> non de se sed de per accidens respectu scilicet ad posterios 
+          </p>
+          <p xml:id="ppra-l83-azcc11">
+            <lb ed="#P"/><pc type="pilcrow"/> 5a conclusio peccatum posteriorum parentum fuit propter donum christi delectam scilicet sanguine suo semper se
+          </p>
+          <p xml:id="ppra-l83-azcc22">
+            <pc type="pilcrow"/> 6a conclusio 
+            <lb ed="#P"/>peccatum posteriorum parentum dicitur in posterios puniri quia pena consequitur quaedam <pc type="virgula">/</pc> unde filius non portabit 
+            <lb ed="#P"/>iniquitas patris scilicet eadem licet bene in specie similem aliquando
+          </p>
+          <p xml:id="ppra-l83-azcc33">
+            <pc type="pilcrow"/> 7ma conclusio <unclear>deus</unclear> non punit primos motus 
+            <lb ed="#P"/>quia tales non sunt in nostra potestate et hoc debet intelligi ubi voluntas non potest tali resistere <unclear>nominari</unclear>
+            <lb ed="#P"/>vel etc
+          </p>
+          <p xml:id="ppra-l83-azcc44">
+            et haec sint pro praesenti de lectione sic dicta
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

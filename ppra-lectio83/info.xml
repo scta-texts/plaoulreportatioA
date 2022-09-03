@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio83">
+      <head xml:id="ppra-l83-Hldcldc">Lectio 83, de Caritate</head>
+      <div xml:id="ppra-l83-Dd1e109">
+        <head xml:id="ppra-l83-Hpqsidm">Ad secundum corollarium: quod stat aliquem in caritate
+          existentem esse perplexum inter duo mala</head>
+        <p xml:id="ppra-l83-umcidm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-umcidm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-umcidm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-epdmdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-epdmdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-epdmdc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l83-pmidcl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-pmidcl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-pmidcl"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-ariavi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ariavi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ariavi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-ivqhns">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ivqhns"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ivqhns"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-qiasfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-qiasfm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-qiasfm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-smpdhr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-smpdhr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-smpdhr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-tiihap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-tiihap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-tiihap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-saqsia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-saqsia"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-saqsia"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l83-Dd1e178">
+        <head xml:id="ppra-l83-Hd1e180">Ad 10<!-- or 11[??]--></head>
+        <p xml:id="ppra-l83-dacier">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-dacier"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-dacier"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break; fuzzy parallel -->
+        <p xml:id="ppra-l83-ehdier">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ehdier"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ehdier"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l83-Dd1e191">
+        <head xml:id="ppra-l83-Hd1e193">Ad octavum corollarium: quod caritas non repugnat
+          essentialiter culpae</head>
+        <p xml:id="ppra-l83-pacscc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-pacscc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-pacscc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-ciqaic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ciqaic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ciqaic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-qaqchp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-qaqchp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-qaqchp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-nupeia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-nupeia"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-nupeia"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-cqessf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-cqessf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-cqessf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l83-Dd1e218">
+        <head xml:id="ppra-l83-Hrarara">Responsio ad rationes <name ref="#Aureoli">Aureoli</name></head>
+        <p xml:id="ppra-l83-araara">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-araara"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-araara"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l83-epvdad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l83-epvdad"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-epvdad"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l83-Dd1e240">
+          <head xml:id="ppra-l83-Hrapsca">Responsio ad probationem secundae conclusionis
+            Aureoli</head>
+          <p xml:id="ppra-l83-ciicva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ciicva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ciicva"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-cepcva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-cepcva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-cepcva"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-eeioid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-eeioid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-eeioid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-ucbada">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ucbada"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ucbada"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-eldaoh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-eldaoh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-eldaoh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-eiidnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-eiidnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-eiidnd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-eiedps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-eiedps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-eiedps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-iaarin">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-iaarin"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-iaarin"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-ipgqem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ipgqem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ipgqem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-iqiiag">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-iqiiag"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-iqiiag"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-ivevbs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-ivevbs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-ivevbs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-iurapo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-iurapo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-iurapo"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel; this is current best guess -->
+          <p xml:id="ppra-l83-iaidcp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-iaidcp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-iaidcp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-iasarb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-iasarb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-iasarb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-pqniri">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-pqniri"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-pqniri"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-idairi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-idairi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-idairi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l83-Dd1e378">
+          <head xml:id="ppra-l83-Hrappca">Responsio ad probationem primae conclusionis
+            Aureoli</head>
+          <p xml:id="ppra-l83-rardad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-rardad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-rardad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-idtaae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-idtaae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-idtaae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-hdapot">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-hdapot"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-hdapot"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-eidtso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-eidtso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-eidtso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-pmieap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-pmieap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-pmieap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l83-scdide">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l83-scdide"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l83-scdide"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l83-Dasfdd">
+        <head xml:id="ppra-l83-Hasf11">Conclusiones</head>
+        <p xml:id="ppra-l83-aasf22">
+        </p>
+        <p xml:id="ppra-l83-aasf33">
+        </p>
+        <p xml:id="ppra-l83-aasf44">
+        </p>
+        <p xml:id="ppra-l83-aasf55">
+        </p>
+        <p xml:id="ppra-l83-aasf66">
+        </p>
+        <p xml:id="ppra-l83-aasf77">
+        </p>
+        <p xml:id="ppra-l83-aasf88">
+        </p>
+        <p xml:id="ppra-l83-aasf99">
+        </p>
+        <p xml:id="ppra-l83-azcc11">
+        </p>
+        <p xml:id="ppra-l83-azcc22">
+        </p>
+        <p xml:id="ppra-l83-azcc33">
+        </p>
+        <p xml:id="ppra-l83-azcc44">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

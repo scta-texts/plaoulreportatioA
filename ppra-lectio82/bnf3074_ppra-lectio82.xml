@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lectio 80, de Caritate [Bnf 3074 Transcription]</title>
+        <title>Lectio 82, de Caritate [Bnf 3074 Transcription]</title>
         <author xml:id="PP">Petrus Plaoul</author>
         <editor xml:id="JW">Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Lectio 80, de Caritate [Bnf 3074 Transcription]</title>
+          <title>Lectio 82, de Caritate [Bnf 3074 Transcription]</title>
           <date when="2022-08-27">August 27, 2022</date>
         </edition>
       </editionStmt>
@@ -43,11 +43,11 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#PV" n="83-r"/>
+        <pb ed="#P" n="83-r"/>
       </div>
     </front>
     <body>
-      <div xml:id="lectio82">
+      <div xml:id="ppra-lectio82">
         <head xml:id="ppra-l82-Hldcldc">Lectio 82, de Caritate</head>
         <div xml:id="ppra-l82-Dd1e105">
           <head xml:id="ppra-l82-Hcorria">Corollaria</head>
