@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio85">
+      <head xml:id="ppra-l85-Hldcldc">Lectio 85, de Caritate</head>
+      <div xml:id="ppra-l85-Dd1e109">
+        <head xml:id="ppra-l85-Hpsafir">Prima Solutio ad argumentum quod potest fieri transitus de
+          contradictio in contradictioni sine mutatione facta in re</head>
+        <p xml:id="ppra-l85-cmdpas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-cmdpas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-cmdpas"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l85-Dd1e117">
+          <head xml:id="ppra-l85-Hsupnes">Suppositiones</head>
+          <div xml:id="ppra-l85-Dd1e122">
+            <head xml:id="ppra-l85-Hpsopso">Prima suppositio</head>
+            <p xml:id="ppra-l85-peqssm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-peqssm"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-peqssm"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l85-pparpi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-pparpi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-pparpi"/>
+              </assertions>
+            </p>
+            <!-- fuzzy break -->
+            <p xml:id="ppra-l85-spaidp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-spaidp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-spaidp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e143">
+            <head xml:id="ppra-l85-Hssosso">Secunda suppositio</head>
+            <p xml:id="ppra-l85-spqaad">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-spqaad"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-spqaad"/>
+              </assertions>
+            </p>
+            <!-- fuzzy break/parallel -->
+            <p xml:id="ppra-l85-ppagbi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ppagbi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ppagbi"/>
+              </assertions>
+            </p>
+            <!-- doesn't seem present 
+              <p xml:id="ppra-l85-spapsd">
+              Secunda pars apparet, quia 
+              ei non pertinet aliquem deacceptare nisi praeexigentibus 
+              suis demeritis.
+            </p>-->
+          </div>
+          <div xml:id="ppra-l85-Dd1e158">
+            <head xml:id="ppra-l85-Htsotso">Tertia suppositio</head>
+            <p xml:id="ppra-l85-tpetdp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-tpetdp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-tpetdp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l85-ppanhe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ppanhe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ppanhe"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l85-spatpa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-spatpa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-spatpa"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l85-eeiesd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-eeiesd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-eeiesd"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l85-Dd1e184">
+          <head xml:id="ppra-l85-Hrafafr">Responsio ad formam rationis</head>
+          <p xml:id="ppra-l85-rraeim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l85-rraeim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-rraeim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l85-pninsn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l85-pninsn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-pninsn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l85-pisaev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l85-pisaev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-pisaev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l85-sfacma">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l85-sfacma"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-sfacma"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l85-aippap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l85-aippap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-aippap"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l85-Dd1e218">
+          <head xml:id="ppra-l85-Hsuppes">Suppositiones</head>
+          <div xml:id="ppra-l85-Dd1e223">
+            <head xml:id="ppra-l85-prsprs">Prima suppositio</head>
+            <p xml:id="ppra-l85-pehahs">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-pehahs"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-pehahs"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l85-iieahs">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-iieahs"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-iieahs"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e261">
+            <head xml:id="ppra-l85-Hsassas">Secunda suppositio</head>
+            <p xml:id="ppra-l85-ssbqnf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ssbqnf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ssbqnf"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e276">
+            <head xml:id="ppra-l85-Htastas">Tertia suppositio</head>
+            <p xml:id="ppra-l85-tsarpp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-tsarpp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-tsarpp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e288">
+            <head xml:id="ppra-l85-Hqasqas">Quarta suppositio</head>
+            <p xml:id="ppra-l85-qsiqei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-qsiqei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-qsiqei"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l85-Dd1e302">
+          <head xml:id="ppra-l85-Hrafraf">Responsio ad formam rationis</head>
+          <div xml:id="ppra-l85-Dd1e307">
+            <head xml:id="ppra-l85-Hpriima">Prima</head>
+            <p xml:id="ppra-l85-isifii">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-isifii"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-isifii"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e319">
+            <head xml:id="ppra-l85-Hsecnda">Secunda</head>
+            <p xml:id="ppra-l85-ssqena">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ssqena"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ssqena"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e328">
+            <head xml:id="ppra-l85-Htertia">Tertia</head>
+            <p xml:id="ppra-l85-tsqrae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-tsqrae"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-tsqrae"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e337">
+            <head xml:id="ppra-l85-Hquarta">Quarta</head>
+            <p xml:id="ppra-l85-qsqedi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-qsqedi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-qsqedi"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e347">
+            <head xml:id="ppra-l85-Hquinta">Quinta</head>
+            <p xml:id="ppra-l85-qsqpsm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-qsqpsm"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-qsqpsm"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e360">
+            <head xml:id="ppra-l85-Hsexxta">Sexta</head>
+            <p xml:id="ppra-l85-ssquaa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ssquaa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ssquaa"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l85-Dd1e372">
+            <head xml:id="ppra-l85-Hsepima">Septima</head>
+            <p xml:id="ppra-l85-ipvsec">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-ssquaa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-ssquaa"/>
+              </assertions>
+            </p>
+            <!-- fuzzy break / parallel -->
+            <p xml:id="ppra-l85-sahpad">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l85-sahpad"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-sahpad"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l85-Dd1e416">
+        <head xml:id="ppra-l85-Htsltsl">Tertia solutio</head>
+        <p xml:id="ppra-l85-arqprh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-arqprh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-arqprh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l85-uadaas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-uadaas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-uadaas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l85-apqnec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-apqnec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-apqnec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l85-segmbi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-segmbi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-segmbi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l85-neqdnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-neqdnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-neqdnc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l85-eiaara">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l85-eiaara"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l85-eiaara"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l85-Dzzzz1">
+        <head xml:id="ppra-l85-Hzzzz2">Conclusiones</head>
+        <p xml:id="ppra-l85-xzzzz3">
+        </p>
+        <p xml:id="ppra-l85-xzzzz4">
+        </p>
+        <p xml:id="ppra-l85-xzzzz5">
+        </p>
+        <p xml:id="ppra-l85-xzzzz6">
+        </p>
+        <p xml:id="ppra-l85-xzzzz7">
+        </p>
+        <p xml:id="ppra-l85-xzzzz8">
+        </p>
+        <p xml:id="ppra-l85-xzzzz9">
+        </p>
+        <p xml:id="ppra-l85-xzzzz10">
+        </p>
+        <p xml:id="ppra-l85-xzzzz11">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
