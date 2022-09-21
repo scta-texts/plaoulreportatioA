@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio86">
+      <head xml:id="ppra-l86-Hldcldc">Lectio 86, de Caritate</head>
+      <div xml:id="ppra-l86-Dd1e109">
+        <head xml:id="ppra-l86-Hcaeaed">Circa acceptionem et deacceptionem</head>
+        <p xml:id="ppra-l86-eplegd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-eplegd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-eplegd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-uieevb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-uieevb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-uieevb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-eqceuc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-eqceuc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-eqceuc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break/parallel -->
+        <p xml:id="ppra-l86-eihdic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-eihdic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-eihdic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-eqaiel">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-eqaiel"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-eqaiel"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e144">
+        <head xml:id="ppra-l86-Hucrmqg">Utrum creatura realiter mutatur quando gratificatur?</head>
+        <!-- 
+             Doesn't seem present 
+          <p xml:id="ppra-l86-sdqadc">
+           <pc type="pilcrow"/>
+            Secundo dicebatur quod ad gratificandum creaturam nihil 
+            acquiritur vel deperditur, 
+            ita quod possibile est creaturam 
+            acceptari sine aliquo dono creato.
+          </p>
+           -->
+        <p xml:id="ppra-l86-ipqmqg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ipqmqg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ipqmqg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqsccn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqsccn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqsccn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-sdqdar">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-sdqdar"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-sdqdar"/>
+          </assertions>
+        </p>
+        <!-- seems missing 
+            
+            <p xml:id="ppra-l86-tdeeun">
+            Tertio dictum est quod <name xml:id="ppra-l86-Nd1e178" ref="#Achilles">Achilles</name> seu ratio fortissima ponentium 
+            Respectus est, quod quando aliqua propositio affirmativa 
+            est quae verificatur pro Rebus datis duabus Rebus, si 
+            ille non sufficiunt ad verificandum propositionem oportet 
+            aliam quae dicitur relatus. modo dicitur quod illae res sufficiunt 
+            <cb ed="#SV" n="b"/><!-\-SV 303vb-\->
+            ad verificandum propositionem affirmativam, sed non sufficiunt qualiterque 
+            dispositae seu non sufficit quaelibet positio illarum 
+            Rerum. et ideo isti arguunt, quod igitur oportet ponere respectus 
+            inter illa Res. unde haec opinantes se Resolvunt ad 
+            illam <unclear>relatam[?]</unclear>. unde per illam propositionem bene sciretur ubi 
+            debet poni Respectus, et ubi non.
+          </p>-->
+        <p xml:id="ppra-l86-uavser">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-uavser"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-uavser"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break/parallel -->
+        <p xml:id="ppra-l86-pnsphr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-pnsphr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-pnsphr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-amassh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-amassh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-amassh"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e212">
+        <head xml:id="ppra-l86-Harqaov">Ad rationem: quod caritas non sit activa quia sequitur quod
+          caritas posset se sola exire in actus omnium virtutum</head>
+        <p xml:id="ppra-l86-drrsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-drrsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-drrsda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rtpavc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rtpavc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rtpavc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e241">
+        <head xml:id="ppra-l86-Haaragp">Ad aliam rationem: si caritas esset activa, ponatur quod
+          intendatur gradus dilectionis in forte continue ad gradum prohibitum</head>
+        <p xml:id="ppra-l86-aarcnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-aarcnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-aarcnc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqeaav">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqeaav"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqeaav"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l86-Dd1e262">
+          <head xml:id="ppra-l86-Hobitio">Obiectio</head>
+          <p xml:id="ppra-l86-scqhgp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-scqhgp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-scqhgp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l86-rqvami">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqvami"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqvami"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l86-Dd1e276">
+        <head xml:id="ppra-l86-Hucpape">Utrum caritas possit concurrere cum voluntate usque ad
+          huiusmodi actum prohibitum exclusive</head>
+        <p xml:id="ppra-l86-hdugcp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-hdugcp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-hdugcp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-evqiea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-evqiea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-evqiea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqnnpo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqnnpo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e312">
+        <head xml:id="ppra-l86-Hatmatum">Ad tertiam: si caritas est activa, sequeretur quod caritas
+          posset agere non agente voluntate</head>
+        <p xml:id="ppra-l86-atrraa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-atrraa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-atrraa"/>
+          </assertions>
+        </p>
+        <!-- why para break? This should be collapsed with above -->
+        <p xml:id="ppra-l86-ncqrda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ncqrda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ncqrda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-sdqqvn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-sdqqvn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-sdqqvn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-tdqcla">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-tdqcla"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-tdqcla"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e348">
+        <head xml:id="ppra-l86-Haqsiei">Ad quartam: si caritas est activa, sequeretur quod ipsa
+          efficeretur infinita</head>
+        <p xml:id="ppra-l86-aqqsah">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-aqqsah"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-aqqsah"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqifvs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqifvs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqifvs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-sdqaaa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-sdqaaa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-sdqaaa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e369">
+        <head xml:id="ppra-l86-Hardrdp">Ad rationem de perplexitate</head>
+        <p xml:id="ppra-l86-ardacf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ardacf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ardacf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqcspn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqcspn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqcspn"/>
+          </assertions>
+        </p>
+        <!-- perhaps a skipped line here compare with V -->
+        <p xml:id="ppra-l86-earmid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-earmid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-earmid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-riqmvc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-riqmvc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-riqmvc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-ralape">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ralape"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ralape"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l86-Dd1e452">
+          <head xml:id="ppra-l86-Hqdiemd">Quomodo discernere inter miracula christi et miracula
+            daemonum</head>
+          <p xml:id="ppra-l86-ssqrcd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ssqrcd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ssqrcd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l86-pppnta">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-pppnta"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-pppnta"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l86-svfepp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-svfepp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-svfepp"/>
+            </assertions>
+          </p>
+          <!--
+              Does not seem present 
+              <p xml:id="ppra-l86-tcechm">
+              Tertia consideratio est ex invocatione 
+              divina immediate antequam fiant miracula. 
+              sed miracula pharaonis fiebant per invocationem 
+              daemonum et ex vitio talium contingunt huiusmodi 
+              mirandum.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l86-Dd1e473">
+          <head xml:id="ppra-l86-Haardii">Ad aliam rationem de ignorantia invincibile</head>
+          <p xml:id="ppra-l86-drtnas">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l86-drtnas"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-drtnas"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l86-Dd1e489">
+        <head xml:id="ppra-l86-Harsier">Ad rationem sequentem caritas denominat magis vel minus suum
+          subiectum, igitur oportet quod hoc sit secundum intensionem et remissionem</head>
+        <!-- extremely fuzzy breaks/parallels -->
+        <p xml:id="ppra-l86-arsedd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-arsedd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-arsedd"/>
+          </assertions>
+        </p>
+        <!-- extremely fuzzy breaks/parallels -->
+        <!-- doesn't seem present 
+            <p xml:id="ppra-l86-rqcedd">
+            Respondetur quod caritas potest extrinsece denominari 
+            dupliciter.
+          </p>-->
+        <!-- extremely fuzzy breaks/parallels -->
+        <p xml:id="ppra-l86-umqssa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86umqssa-"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-umqssa"/>
+          </assertions>
+        </p>
+        <!-- extremely fuzzy breaks/parallels -->
+        <p xml:id="ppra-l86-smqcsg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-smqcsg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-smqcsg"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e513">
+        <head xml:id="ppra-l86-Harcnrc">Ad rationem cum arguebatur contra illud quod dictum est quod
+          essentia caritatis non repugnat culpae</head>
+        <p xml:id="ppra-l86-aarnrc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-aarnrc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-aarnrc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqniiv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqniiv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqniiv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dd1e528">
+        <head xml:id="ppra-l86-Harqahp">Ad rationem qua arguebatur contra unum dictum quod caritas
+          in regno animae habet principatum</head>
+        <p xml:id="ppra-l86-aarerh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-aarerh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-aarerh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-rqnpac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-rqnpac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-rqnpac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-ireanv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-ireanv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-ireanv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-neqinc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-neqinc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-neqinc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-dcuaac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-dcuaac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-dcuaac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l86-sdqdvv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l86-sdqdvv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l86-sdqdvv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l86-Dxxyy1">
+        <head xml:id="ppra-l86-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l86-xxxyy3">
+        </p>
+        <p xml:id="ppra-l86-xxxyy4">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
