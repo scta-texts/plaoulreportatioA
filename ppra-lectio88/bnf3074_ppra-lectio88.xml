@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 88, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 88, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-09-25">September 25, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-09-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="88-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio88">
+        <head xml:id="ppra-l88-Hldcldc">Lectio 88, de Caritate</head>
+        <div xml:id="ppra-l88-Dd1e109">
+          <head xml:id="ppra-l88-Hpdhcam">Propositiones de habitudine Spiritus Sancti et caritatis ad mentem</head>
+          <p xml:id="ppra-l88-avhpsp">
+            <lb ed="#P"/>Consequenter restat aliqua dicenda circa materiam habitudinis spiritus sancti et caritatis ad mentem gratifficandum 
+            <lb ed="#P"/>unde primo ponuntur aliquae propositiones  
+          </p>
+          <div xml:id="ppra-l88-Dd1e117">
+            <head xml:id="ppra-l88-Hppqpssa">Prima propositio: quod per divinam acceptationem creatura est magis intrinsece digna quam per Spiritus Sancti assistentiam</head>
+            <p xml:id="ppra-l88-ppecqa">
+              quarum prima licet de communi lege assistentia spiritus sancti caritas 
+              <lb ed="#P"/>creata et divina acceptatio requiratur ad creaturae grattifficationem nihilominus per dei acceptationem 
+              <lb ed="#P"/>creatura est magis digna quam per caritatem informantem vel assistentiam spiritus sancti est assistentia 
+              <lb ed="#P"/>quod <unclear>tamen</unclear> est contra multorum oppinionem
+            </p>
+            <p xml:id="ppra-l88-ppepva">
+              <pc type="virgula">/</pc> prima pars propositionis est de se nota quoniam ad creaturae 
+              <lb ed="#P"/>gratifficationem assistentia spiritus sancti et caritas creata elevat actus ad gratifficandum et prima 
+              <pb ed="#P" n="88-v"/>
+              <lb ed="#P"/>vitae aeternae accipiendum
+            </p>
+            <p xml:id="ppra-l88-spcdva">
+              2a pars patet per dicta ante in materia praecedente nam sola acceptatione divina 
+              <lb ed="#P"/><unclear>po?ta</unclear> creatura fit deo grata 
+            </p>
+            <p xml:id="ppra-l88-ubsdae">
+              Unde sequitur hanc conclusionem esse bona deus acceptat creaturam igitur ipsa 
+              <lb ed="#P"/>est deo grata <pc type="punctus"/> per consequens digna et econtra etiam 
+            </p>
+            <p xml:id="ppra-l88-saicae">
+              sed consequentia non valet spiritus sanctus sit assistit creaturae 
+              <lb ed="#P"/>igitur est deo grata <pc type="punctus"/> Cuius causa est quoniam influxus spiritus sanctus reducitur quasi ad operationem distinctam 
+              <lb ed="#P"/>ab acceptione et etiam caritas creata 
+            </p>
+            <!-- fuzzy break/parallel -->
+            <p xml:id="ppra-l88-eidceo">
+              <pc type="punctus"/> et per consequens aliter se habet acceptatio quam illa duo
+            </p>
+            <p xml:id="ppra-l88-cqdncc">
+              <lb ed="#P"/><pc type="pilcrow"/> Confirmatur illud nam vivificatio quam dat spiritus sanctus non est nisi instrumentalis 
+              <lb ed="#P"/>respectu divinae acceptationis et per consequens divina acceptatio principialior est <pc type="pilcrow"/> 3o ad creaturam esse dignam 
+              <lb ed="#P"/>vita aeterna requiritur libertas immensa qua vult deus hanc esse dignam igitur ibi aliquod 
+              <lb ed="#P"/>concurrit immensum modo caritas non est illud nec spiritus sancti assistentia ut sic est assistentia igitur 
+              <lb ed="#P"/>restat quod sit divina acceptatio Et haec non est creturae communicabilis nec spiritum sancto <unclear>competibilis</unclear> ut 
+              <lb ed="#P"/>dictum est igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l88-Dd1e148">
+            <head xml:id="ppra-l88-Hspospo">Secunda propositio</head>
+            <p xml:id="ppra-l88-eqsrig">
+              <pc type="pilcrow"/> Ex quo sequitur correlarie consequentiam istam non valere tota perfectio creaturae vel <unclear>caritatis</unclear> 
+              <lb ed="#P"/>creatae concurrit igitur talem compositum sit iustum simpliciter patet hoc quoniam tota perfectio creaturae est citra talem 
+              <lb ed="#P"/>gradum <pc type="pilcrow"/> unde dato adhuc quod esset essentialis <add place="above-line">deno</add> non esset tota essentialiter et intrinsece <unclear>deno?to</unclear>
+              <lb ed="#P"/>quo ad omnes gradus requisitos
+            </p>
+            <p xml:id="ppra-l88-eeiqei">
+              <pc type="pilcrow"/> Ex quo sequitur falsitatem oppinionis <sic>patere</sic> dicentium aliquam creaturam 
+              <lb ed="#P"/>rationalem esse inpeccabile per naturam non quod caritas possit ydentice concurrere sed ymaginatur 
+              <lb ed="#P"/>quod esse natura esse denominatio perfectionis sumitur et esse caritatem sic ita quod possit communicari alicui 
+              <lb ed="#P"/>creaturae et quod esset sic impeccabilis
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l88-scdntt">
+              <pc type="pilcrow"/> Sed tamen teneo oppositum videlicet quod non sicut est <pc type="virgula">/</pc> licet tamen 
+              <lb ed="#P"/>per hoc reddatur aliqualiter apta nata movere citius in deum tamquam in summum bonum 
+              <lb ed="#P"/>et sic non est denominatio totaliter essentialis <pc type="virgula">/</pc> licet partialis
+            </p>
+          </div>
+          <div xml:id="ppra-l88-Dd1e163">
+            <head xml:id="ppra-l88-Htpscei">Tertia propositio: si habitudo dignitatis <unclear>passivae[?]</unclear> et acceptati posset intrinsece communicari creaturae, tunc talis creatura esset impeccabilis</head>
+            <p xml:id="ppra-l88-tmscrc">
+              <pc type="pilcrow"/> Ulterius sequitur quod si dignitatis 
+              <lb ed="#P"/>habitudo potentiae passionis posset creaturae competere essentialiter et intrinsece esset inpeccabilis patet quia 
+              <lb ed="#P"/>intrinsece haberet unde esset digna <pc type="punctus"/> et sic haberet medium competens et sufficiens
+              <lb ed="#P"/>nec deus eo ipso posset facere eam non digna <pc type="virgula">/</pc> Sed quod passio diligibilitatis non sit essentialis 
+              <lb ed="#P"/>patet <pc type="virgula">/</pc> quia a libera dei arbitrio dependet quod est contingere respectu huius 
+            </p>
+          </div>
+          <!-- fuzzy break/parallel -->
+          <div xml:id="ppra-l88-Dd1e179">
+            <head xml:id="ppra-l88-Hqpqemc">Quarta Propositio: quod in divinam bonitatem reducitur tota radix bonitatis et meritorum creatura.</head>
+            <p xml:id="ppra-l88-qsqnam">
+              Et patet ex alio nam 
+              <lb ed="#P"/>in divina voluntatem reducitur tota radix meritorum creaturae <pc type="pilcrow"/> <unclear>Quantum <!-- quartum? --></unclear> nec ex libero arbitrio 
+              <lb ed="#P"/>nec ex caritate creata nec ex spiritus sancti motione reducitur igitur in ipsam divinam bonitatem sive voluntatem 
+              <lb ed="#P"/>qua quid deus vult misericorditer agere 
+            </p>
+            <p xml:id="ppra-l88-eiveap">
+              <pc type="virgula">/</pc> Et hoc satis lucide patet per <ref><name>apostolum</name> ad titum</ref>
+              <lb ed="#P"/>nam <quote xml:id="ppra-l88-Qasgva3" source="http://scta.info/resource/tit3_5@1-14">non ex operibus iustitiae quae fecimus nos sed secundum suam misericordiam salvos nos fecit</quote>
+            </p>
+          </div>
+          <div xml:id="ppra-l88-Dd1e213">
+            <head xml:id="ppra-l88-Hqpqdsc">Quinta Propositio: quod nec concursus activus increatae caritatis nec creatae dignificat sufficienter creaturam</head>
+            <p xml:id="ppra-l88-qsqbac">
+              <lb ed="#P"/>Ex quo sequitur quod nec concursus est <unclear>actus</unclear> increatus nec creatus <unclear>digni?tat</unclear> creatura <pc type="virgula">/</pc> patet etiam 
+              <lb ed="#P"/>per <ref><name>apostolum</name></ref> dicentem <quote source="http://scta.info/resource/rom8_18@4-9">Non sunt condignae passiones huius temporis</quote> etc Et hoc est contra <name ref="#Ripa">magistrum iohannem 
+              <lb ed="#P"/>de rippa</name> dicentem quod ex concursu caritatis creatae et spiritu sancto redditur creatura <unclear>iusta</unclear> iustitiae 
+              <lb ed="#P"/><unclear>communitive</unclear>
+            </p>
+          </div>
+          <div xml:id="ppra-l88-Dd1e225">
+            <head xml:id="ppra-l88-Hspqdae">Sexta Propositio: quod actus productus a caritate cum Spiritu Sancto specialiter assistente circumscripta divina acceptatione esse</head>
+            <p xml:id="ppra-l88-ssqvec">
+              <pc type="pilcrow"/> Ulterius sequitur quod actus productivus a caritate et spiritu sancto circumscripta acceptatione 
+              <lb ed="#P"/>divina esset virtuosus licet non tamen meritorius tamen nobilissimus etiam esset ex eo quod caritas est 
+              <lb ed="#P"/>nobilissima virtutum ut patet per apostolum nam dicit quod maior autem horem est caritas et sic 
+              <lb ed="#P"/>in genere suo virtuosum redderet hominem vel habentem <pc type="punctus"/> quoniam virtus habentem perficit 
+              <lb ed="#P"/>et opus eius bonum reddit ut videtur velle <ref><name>aristotelem</name> in ethicorum</ref>
+            </p>
+          </div>
+          <div xml:id="ppra-l88-Dd1e259">
+            <head xml:id="ppra-l88-Hspqcca">Septima Propositio: quod Spiritus Sanctus caritas possunt stare cum culpabili actu</head>
+            <p xml:id="ppra-l88-ssqcca">
+              <pc type="pilcrow"/> Ulterius sequitur quod licet 
+              <lb ed="#P"/>caritas et spiritus sanctus non possit de potentia dei absoluta ad peccatum concurrere tamen cum ipse 
+              <lb ed="#P"/>possit stare
+            </p>
+            <p xml:id="ppra-l88-ppaaiv">
+              <pc type="punctus"/> et <unclear>haec</unclear> <unclear>paret</unclear> quoniam alias spiritu sancto non moveretur creatura in peccato existens <pc type="punctus"/> sed 
+              <lb ed="#P"/>tenetur quod aliquociens ymmo <pc type="punctus"/> et concurrit <unclear>mo?do</unclear> eam quia <sic>nonquam</sic> ad malum concurrit incitando
+              <lb ed="#P"/>hoc est ei impossibile et per consequens semper ad bonum modo creatura existens in peccato aliquando disponitur ad bonum 
+              <lb ed="#P"/>et ad caritatem et hoc non videtur esse nisi ex spiritu sancti motione igitur etc 
+            </p>
+            <p xml:id="ppra-l88-spppac">
+              <pc type="virgula">/</pc> 2a pars <sic>corelarii</sic> 
+              <lb ed="#P"/>probatur cum divina acceptatio est separabilis ab huiusmodi assistentia et per consequens stat creaturam <unclear>bene</unclear>
+              <lb ed="#P"/>inclinare se qua caritatem pro etc et cum hoc in eodem gradu movebitur spiritus sanctus et tamen creatura non 
+              <lb ed="#P"/>ibit ad <unclear>nu?m</unclear> spiritus sancti quare sequitur quod habitudo spiritus sancti aliud mentem <unclear>uno?us</unclear> ferretur et creatura 
+              <lb ed="#P"/>ad oppositum ipsius sed secundum legem nunc <unclear>factatam</unclear> non videtur bene consonum 
+            </p>
+            <p xml:id="ppra-l88-spsnmc">
+              <pc type="pilcrow"/> Item est respectu peccati venialis 
+              <lb ed="#P"/>spiritus sancti bene in creatura assistentia igitur et respectu mortalis 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l88-tsqeer">
+              vel stabit quod caritas inclinabit ad 
+              <lb ed="#P"/>malum et sic non esset formalis repugnantia ipsius caritatis ad peccatum sive ad malum Tamen <unclear>ord?</unclear> 
+              <lb ed="#P"/>quod quocumque habet peccatum privatur caritate lege stante qui <pc type="pilcrow"/> Ex quo sequeretur quod staret habitualem 
+              <lb ed="#P"/>operationem caritatis esse rectam a tamen actualem esse deturpatam et mortificatam <pc type="punctus"/> patet quia 
+              <lb ed="#P"/>vocatio dispositio est compossibilis male <unclear>actuatum</unclear> cuius oppositum in mortificationibus videmus
+            </p>
+            <!--
+              doesn't seem present
+              <p xml:id="ppra-l88-aeiils">
+              <pc type="pilcrow"/> Alia tamen est oppinio <pc type="punctus"/> sed 
+              <lb ed="#P"/><unclear>eam</unclear> pro nunc dimittet
+            </p>-->
+          </div>
+        </div>
+        <div xml:id="ppra-l88-Dxxxx1">
+          <head xml:id="ppra-l88-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l88-xxxxx3">
+            <pc type="pilcrow"/> Secuntur ergo conclusiones textuales super 38vam distinctionem 2i <pc type="pilcrow"/> prima est quod <unclear>va?os</unclear> 
+            <pb ed="#P" n="89-r"/>
+            <lb ed="#P"/>an sit bona vel mala a suo fine <pc type="virgula">/</pc> nam <unclear>dicit</unclear> <unclear>deo quod</unclear> a fine denominatur <unclear>ne?</unclear> Et <unclear>f??</unclear>
+            <lb ed="#P"/>vel deo est fis creaturae et hoc eest bonus <pc type="virgula">/</pc> vel creatura quod finis sive aliud <unclear>etc</unclear> male
+          </p>
+          <p xml:id="ppra-l88-xxxxx4">
+            <pc type="pilcrow"/>2a hoc <unclear>a???</unclear> 
+            <lb ed="#P"/>potest <unclear>ca?te?nus</unclear> esse <unclear>fu?m</unclear> potest deum et hoc intelligitur de caritate aeterna unde ipsa cast?s
+            <lb ed="#P"/>aeterna est ipsemet deus <pc type="virgula">/</pc> sed si poneretur pro dono creato non sit esset <pc type="virgula">/</pc> unde <name>magister</name> ponit 
+            <lb ed="#P"/>ipsam caritatem deum esse iuxta causatam iohannis Qui manet in caritate in deo nam patet et deus 
+            <lb ed="#P"/>in eo etc
+          </p>
+          <p xml:id="ppra-l88-xxxxx5">
+            <pc type="pilcrow"/>3a alius bonae voluntates <unclear>hict</unclear> diversos fies et hoc intelligitur <unclear>a</unclear>
+            <lb ed="#P"/>finibus mediis <pc type="virgula">/</pc> sed quo modo entis sit semper deum pro fine debet omnis bonus habere
+          </p>
+          <p xml:id="ppra-l88-xxxxx6">
+            <pc type="pilcrow"/>4a 
+            <lb ed="#P"/>non debemus nobis deus fines consti?ne
+          </p>
+          <p xml:id="ppra-l88-xxxxx7">
+            <pc type="pilcrow"/>5a conclusio fine voluntatis est delectatio et hae est 
+            <lb ed="#P"/>dupliciter vel est respectu boni summi vel respectu boni <unclear>spa?lis</unclear> prima delectatio bona 2a o?v mala
+          </p>
+          <p xml:id="ppra-l88-xxxxx8">
+            <lb ed="#P"/><pc type="pilcrow"/>6a voluntas qua vult homo veritatem et non est bona et ponitur pro actu volitionis et sic volitio est 
+            <lb ed="#P"/>media et ad hoc quasi etc et haec <unclear>de lectione die sabbbe et post ochmei</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

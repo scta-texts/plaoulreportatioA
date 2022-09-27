@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio88">
+      <head xml:id="ppra-l88-Hldcldc">Lectio 88, de Caritate</head>
+      <div xml:id="ppra-l88-Dd1e109">
+        <head xml:id="ppra-l88-Hpdhcam">Propositiones de habitudine Spiritus Sancti et caritatis ad
+          mentem</head>
+        <p xml:id="ppra-l88-avhpsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l88-avhpsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-avhpsp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l88-Dd1e117">
+          <head xml:id="ppra-l88-Hppqpssa">Prima propositio: quod per divinam acceptationem creatura
+            est magis intrinsece digna quam per Spiritus Sancti assistentiam</head>
+          <p xml:id="ppra-l88-ppecqa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ppecqa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ppecqa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-ppepva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ppepva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ppepva"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-spcdva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-spcdva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-spcdva"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-ubsdae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ubsdae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ubsdae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-saicae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-saicae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-saicae"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break/parallel -->
+          <p xml:id="ppra-l88-eidceo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-eidceo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-eidceo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-cqdncc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-cqdncc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-cqdncc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l88-Dd1e148">
+          <head xml:id="ppra-l88-Hspospo">Secunda propositio</head>
+          <p xml:id="ppra-l88-eqsrig">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-eqsrig"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-eqsrig"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-eeiqei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-eeiqei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-eeiqei"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l88-scdntt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-scdntt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-scdntt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l88-Dd1e163">
+          <head xml:id="ppra-l88-Htpscei">Tertia propositio: si habitudo dignitatis
+              <unclear>passivae[?]</unclear> et acceptati posset intrinsece communicari creaturae,
+            tunc talis creatura esset impeccabilis</head>
+          <p xml:id="ppra-l88-tmscrc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-tmscrc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-tmscrc"/>
+            </assertions>
+          </p>
+        </div>
+        <!-- fuzzy break/parallel -->
+        <div xml:id="ppra-l88-Dd1e179">
+          <head xml:id="ppra-l88-Hqpqemc">Quarta Propositio: quod in divinam bonitatem reducitur
+            tota radix bonitatis et meritorum creatura.</head>
+          <p xml:id="ppra-l88-qsqnam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-qsqnam"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-qsqnam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-eiveap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-eiveap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-eiveap"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l88-Dd1e213">
+          <head xml:id="ppra-l88-Hqpqdsc">Quinta Propositio: quod nec concursus activus increatae
+            caritatis nec creatae dignificat sufficienter creaturam</head>
+          <p xml:id="ppra-l88-qsqbac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-qsqbac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-qsqbac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l88-Dd1e225">
+          <head xml:id="ppra-l88-Hspqdae">Sexta Propositio: quod actus productus a caritate cum
+            Spiritu Sancto specialiter assistente circumscripta divina acceptatione esse</head>
+          <p xml:id="ppra-l88-ssqvec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ssqvec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ssqvec"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l88-Dd1e259">
+          <head xml:id="ppra-l88-Hspqcca">Septima Propositio: quod Spiritus Sanctus caritas possunt
+            stare cum culpabili actu</head>
+          <p xml:id="ppra-l88-ssqcca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ssqcca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ssqcca"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-ppaaiv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-ppaaiv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-ppaaiv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-spppac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-spppac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-spppac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l88-spsnmc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-spsnmc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-spsnmc"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l88-tsqeer">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-tsqeer"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-tsqeer"/>
+            </assertions>
+          </p>
+          <!--
+              doesn't seem present
+              <p xml:id="ppra-l88-aeiils">
+              <pc type="pilcrow"/> Alia tamen est oppinio <pc type="punctus"/> sed 
+              <lb ed="#P"/><unclear>eam</unclear> pro nunc dimittet
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="ppra-l88-Dxxxx1">
+        <head xml:id="ppra-l88-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l88-xxxxx3">
+        </p>
+        <p xml:id="ppra-l88-xxxxx4">
+        </p>
+        <p xml:id="ppra-l88-xxxxx5">
+        </p>
+        <p xml:id="ppra-l88-xxxxx6">
+        </p>
+        <p xml:id="ppra-l88-xxxxx7">
+        </p>
+        <p xml:id="ppra-l88-xxxxx8">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
