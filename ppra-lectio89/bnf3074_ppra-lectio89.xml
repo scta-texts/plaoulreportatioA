@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 89, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 89, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-09-28">September 28, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-09-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="89-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio89">
+        <head xml:id="ppra-l89-Hldcldc">Lectio 89, de Caritate</head>
+        <div xml:id="ppra-l89-Dd1e109">
+          <head xml:id="ppra-l89-Hdieerc">De intensione et remissione caritatis</head>
+          <p xml:id="ppra-l89-pdeivr">
+            <lb ed="#P"/>Consequenter postquam visum fuit de caritatis influxu videndum est qualiter possit intendi et 
+            <lb ed="#P"/>remisssi 
+          </p>
+          <div xml:id="ppra-l89-Dd1e117">
+            <head xml:id="ppra-l89-Hppvegd">Propositio: probabilior videtur quod caritas potest componi ex gradibus distinctis</head>
+            <p xml:id="ppra-l89-pcmegd">
+              Et sit prima propositio: Quamvis salvari possit caritatem <del rend="expunctuation">omnino</del> esse composita ex gradibus 
+              <lb ed="#P"/>essentialiter distinctis 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l89-ppangc">
+              alia tamen via melior est <pc type="virgula">/</pc> nam existente eadem substantia in anima secundum 
+              <lb ed="#P"/>quod magis vel minus spiritus sanctus assistentiam nihilominus potest salvari <unclear>varistat</unclear> <unclear>absque</unclear> novi 
+              <lb ed="#P"/>gradus appositionis
+            </p>
+            <p xml:id="ppra-l89-suedae">
+              <pc type="pilcrow"/> Alia via est quod ponendum est quod forma quae haec est simpliciter indivisibilis intensive quia 
+              <lb ed="#P"/>et sic compositas ex gradibus licet intentionaliter Et secundum hoc sunt varii modi ymaginandi 
+              <lb ed="#P"/>unde <ref xml:id="ppra-l89-Rd1e147"><name ref="#Aquinas">beatus thomas de aquino</name></ref> movet quaestionem utrum caritas sit augmentibilis et remissibilis 
+              <lb ed="#P"/>Et respondet quod caritas est simplex et indivisibilis Sed ad talem sensum dicitur intendi videlicet 
+              <lb ed="#P"/>quod subiectum potest plus participare eam vel <unclear>mio</unclear> respondet <unclear>magis</unclear> plus <unclear>communicarem et plus</unclear> si 
+              <lb ed="#P"/>in esse Et ista via <unclear>divi</unclear> dicitur secundum duos modos <pc type="pilcrow"/> Unus est quod caritas <unclear>cu? l? forma</unclear> 
+              <lb ed="#P"/>accidentalis posset intensius vel remissius <unclear>communicare</unclear> suo subiecto manente eodem <pc type="virgula">/</pc> unde magis 
+              <lb ed="#P"/>et inhaerere secundum quia passum <unclear>ips</unclear> est magistrum <unclear>su????</unclear> et sic diceretur quod per maiorem 
+              <lb ed="#P"/><unclear>intimationem</unclear> et actuationem respectu sui subiecti suum subiectum magis vel <unclear>eius</unclear> se nominatur 
+              <lb ed="#P"/>tale absque ipsius mutationem
+            </p>
+          </div>
+          <div xml:id="ppra-l89-Dd1e159">
+            <head xml:id="ppra-l89-Hscoidr">Sed Contra: opinio Iohannes de Rippa</head>
+            <p xml:id="ppra-l89-scifei">
+              <pc type="pilcrow"/> Sed nihilominus <ref xml:id="ppra-l89-Rd1e168"><name ref="#Ripa">de rippa</name></ref> tenet oppositum maxime quod forma 
+              <lb ed="#P"/>et quaerit utrum possit quaelibet formae informaret plus vel minus Et ad hoc <unclear>fa?</unclear> 
+              <lb ed="#P"/>multas positionem quarum prima forma de sui essentia est realiter et formaliter quaedam intrinseca 
+              <lb ed="#P"/>et formalis quidditas 
+              <pc type="pilcrow"/> unde ponere influxus est ad hoc <unclear>o?no</unclear> inpossibile 
+              <pb ed="#P" n="89-v"/>
+              <lb ed="#P"/>unde dicit quod nisi ita esset sequerentur inconvenientia multa <pc type="virgula">/</pc> primo staret quod aliud esset 
+            </p> 
+            <p xml:id="ppra-l89-pqncpm">
+              <lb ed="#P"/>unde sortis et esse sortis deinde etiam de operationibus intensius propter maiorem 
+              <lb ed="#P"/>latere perfectionem <pc type="virgula">/</pc> et etiam staret animam sortis plus <unclear>ipe?eri</unclear> vel demereri quam ipse 
+              <lb ed="#P"/>sortes
+            </p>
+            <p xml:id="ppra-l89-sssens">
+              <pc type="pilcrow"/> Item sequeretur quod aliquod agere corresponderet animae quod non subiecto sive composito 
+              <lb ed="#P"/>consequens est falsum quaero actiones sunt respectu personarum <pc type="virgula">/</pc> consequentia probatur nam capiatur aliquis gradus vitae <unclear>it?</unclear>
+              <lb ed="#P"/>secundum quem non communicatur sorti tunc poterit correspondere animae et non compo?re
+            </p>
+            <p xml:id="ppra-l89-tdicci">
+              <pc type="pilcrow"/> Item dato 
+              <lb ed="#P"/>ymaginatione tali sequeretur quod compositum ex anima et corpore esset imperfectius quam asinus vel lapis modo 
+              <lb ed="#P"/>videtur absurdum <unclear>probatur</unclear> tamen consequentia nam communicaret secundum rationem essendi et sic tale constitutum sive 
+              <lb ed="#P"/>compositum esset minus perfectum quam asinus et tandem aliquis constitueret quod esset non vivens 
+            </p>
+          </div>
+          <div xml:id="ppra-l89-Dd1e230">
+            <head xml:id="ppra-l89-Hraoidr">Responsio ad opinionem Iohannis de Rippa</head>
+            <p xml:id="ppra-l89-reiivr">
+              <lb ed="#P"/> <pc type="pilcrow"/> Ad rationes huius oppinionis restat respondere unde videtur radix eius esset velle 
+              <lb ed="#P"/>quod forma non sit intelligibilis vel remissibilis sive agat secundum gradum intensum <pc type="pilcrow"/> deinde quod formae 
+              <lb ed="#P"/>accidentales sit absque novae <unclear>tempus</unclear> additionem per quas subiectum denominetur magis tale 
+              <lb ed="#P"/>de substantia libet tamen secus est nam communicat se secundum se totam <unclear>const?do</unclear> et adhuc esset 
+              <lb ed="#P"/>substatiale de substantialibus formis et salvaretur per hoc ingeniorum differentia <pc type="pilcrow"/> Sed rationes 
+              <lb ed="#P"/>magistri <name>iohannis de rippa</name> probant de formis substantialibus
+            </p>
+            <p xml:id="ppra-l89-praino">
+              <pc type="pilcrow"/> unde ad rationes suas 
+              <lb ed="#P"/>posset dici quando dicit quod forma secundum se totam communicat igitur non potest intensius nec remissius 
+              <lb ed="#P"/>negatur sibi Et ad probationem quoniam requirentur inconvenientia praedicta negatur unde advertendum 
+              <lb ed="#P"/>quod non stat quod anima communicet se nisi communicet secundum quamlibet sui denominationem essentialem 
+              <lb ed="#P"/>intensius vel remissius ad talem spiritum non quod in ea sint gradus: sed tamen causa 
+              <lb ed="#P"/>effectiva libera potest se ad effectum magis vel minus adaptare <pc type="punctus"/> et ita in caritate 
+              <lb ed="#P"/><unclear>corporum</unclear> communicaretur intensius vel remissius etc non secundum unam denominationem quin 
+              <lb ed="#P"/>secundum aliam 
+            </p> 
+            <p xml:id="ppra-l89-esnsst">
+              Et non sequitur <unclear>hoc<!-- haec?--></unclear> quod ulterius dicebatur <del rend="strikethrough">scilicet</del> licet non ita perfecte <pc type="virgula">/</pc> Et per hoc 
+              <lb ed="#P"/>solverentur omnia prius inducta a <name>magistro iohanne de rippa</name> <pc type="pilcrow"/> Unde in materia 
+              <lb ed="#P"/>indisposita quantum ad intrinsecum gradum est eadem perfectio sed quantum ad exercitium anima non 
+              <lb ed="#P"/>est ita apta nata ad suas operationes exercendas Et sic non oportet amplius dicere 
+              <lb ed="#P"/>nihilominus via communis est securior scilicet quod gradus <unclear>concausatonis</unclear> non est ponendus in formis substantialibus 
+              <lb ed="#P"/>sed tamen de accidentibus sustinibilis est oppinio nec ratio est evidens ad contrarium
+            </p>
+          </div>
+          <div xml:id="ppra-l89-Dd1e262">
+            <head xml:id="ppra-l89-Hdfadfa">De formis accidentalibus</head>
+            <p xml:id="ppra-l89-dfaerm">
+              <pc type="pilcrow"/> Unde 
+              <lb ed="#P"/><name ref="#Aquinas">sanctus thomas</name> videtur dicere quod accidentia non sunt proprie entia <pc type="virgula">/</pc> sed esse accidens est formaliter 
+              <lb ed="#P"/>alteri in esse et sic accidentia non habent intrinsece esse <pc type="virgula">/</pc> Et ideo formam esset formam 
+              <lb ed="#P"/>magnam vel parvam non est nisi alteri in esse quia non habet quiditatem intrinsecam licet magis 
+              <lb ed="#P"/>vel minus participet suo subiecto <pc type="pilcrow"/> unde idem se in una radice se fundat <pc type="punctus"/> Et 
+              <lb ed="#P"/>dicit quod distinctio vel specifica <unclear>uter</unclear> individualis est modo formae praeexistentis et forma adve?l 
+              <lb ed="#P"/>non differunt specifice nec individualiter <pc type="virgula">/</pc> quia omnis differentia individualis est ratione 
+              <lb ed="#P"/>materiae
+            </p>
+            <div xml:id="ppra-l89-Dd1e273">
+              <head xml:id="ppra-l89-Hprrprr">Prima ratio</head>
+              <p xml:id="ppra-l89-eiemdi">
+                <pc type="pilcrow"/>Sed cum correctione sanctitatis suae falsum est nam videtur etiam dicere quod mihi 
+                <lb ed="#P"/>eadem forma possit patres angelos esse <pc type="virgula">/</pc> unde anima a corpore separata differunt in materia 
+                <lb ed="#P"/>et ad extra materiam materialiter <sic>saltim</sic>
+              </p>
+              <!-- super fuzzy parallels -->
+              <p xml:id="ppra-l89-sainhm">
+                <pc type="pilcrow"/>Item capiamus duas <unclear>qualitas<!-- quantitas --></unclear> separatas a materia 
+                <lb ed="#P"/>differunt <sic>numeraliter</sic> etc 
+              </p>
+              <!-- super fuzzy parallels -->
+              <p xml:id="ppra-l89-tdanei">
+                Sed breviter quicquid dictat dicitur quod non est aliquod medium 
+                <lb ed="#P"/>concludi divinitatem materialem
+              </p> 
+              <!-- super fuzzy parallels -->
+              <p xml:id="ppra-l89-esfnrm">
+                et hoc est verum et sic est ex intrinsece et sunt eiusdem speciei
+              </p>
+              <!-- super fuzzy parallels -->
+              <p xml:id="ppra-l89-esress">
+                <lb ed="#P"/>Tamen dicit quod si sint duae qualitates non differunt nisi ex parte <unclear>m e</unclear> et hoc est falsum 
+                <lb ed="#P"/>sed nobis innotescit ex eo quod promptum medium ad haec probandum habemus Et con<lb ed="#P"/>cludit 
+                quod non potest esse specifica differentia <pc type="virgula">/</pc> quia qualitas intensa et remissa sunt idem realiter
+              </p>
+            </div>
+            <!-- super fuzzy parallels -->
+            <div xml:id="ppra-l89-Dd1e343">
+              <head xml:id="ppra-l89-Hscrscr">Secunda ratio</head>
+              <p xml:id="ppra-l89-speier">
+                <pc type="pilcrow"/> Ad 
+                <lb ed="#P"/>hoc respondetur quod licet sua positio sit satis probabilis probatio saltim quam ponit non est 
+                <lb ed="#P"/>bene fundata neque deffendibilis
+              </p>
+            </div>
+          </div>
+          <!-- super fuzzy parallels -->
+          <div xml:id="ppra-l89-Dd1e357">
+            <head xml:id="ppra-l89-Hobines">Obiectiones</head>
+            <div xml:id="ppra-l89-Dd1e362">
+              <head xml:id="ppra-l89-Hprprpr">Prima ratio</head>
+              <p xml:id="ppra-l89-tcocnm">
+                <pc type="pilcrow"/> Tamen instatur et sit ita quantum ad intensive 
+                <lb ed="#P"/>quod per omnem motum alterationis acquiratur aliquid igitur si aliquid continue acquiratur alteratur
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e371">
+              <head xml:id="ppra-l89-Hsrsrsr">Secunda ratio</head>
+              <p xml:id="ppra-l89-spasst">
+                <lb ed="#P"/><pc type="pilcrow"/>2o quia tota forma est communicata igitur denominat concretive secundum se totam 
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e380">
+              <head xml:id="ppra-l89-Htrtrtr">Tertia ratio</head>
+              <p xml:id="ppra-l89-tqseaa">
+                <pc type="pilcrow"/> 3o sequeretur 
+                <lb ed="#P"/>quod in sorte et platone essent aequales albedines 
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e395">
+              <head xml:id="ppra-l89-Hqarqar">Quarta ratio</head> 
+              <p xml:id="ppra-l89-qsscai">
+                nam sit aliquod medium sufficienter <unclear>a s?</unclear> 
+                <lb ed="#P"/>cui applicetur lucidum causabit lumen dupplicentia illud causa <unclear>b?r?t</unclear> igitur intensius quam ante igitur
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e405">
+              <head xml:id="ppra-l89-Hqrqrqr">Quinta ratio</head>
+              <p xml:id="ppra-l89-qsqeni">
+                <lb ed="#P"/><pc type="pilcrow"/> 5o sequeretur quod accidentia in sacramento altaris non posset intendi vel <sic>remiti</sic> consequens est <unclear>falsum</unclear>
+                <pb ed="#P" n="90-r"/>
+                <lb ed="#P"/><unclear>nam</unclear> per longam temporis reservare albedo remittitur ut patet ad experientiam et tamen non rationes 
+                <lb ed="#P"/>subiecti igitur
+              </p>
+            </div> 
+          </div>
+          <div xml:id="ppra-l89-Dd1e415">
+            <head xml:id="ppra-l89-Hrarrar">Responsiones ad rationes<!--<note>seems to be responses to the arguments directly above</note>--></head>
+            <div xml:id="ppra-l89-Dd1e421">
+              <head xml:id="ppra-l89-aprapr">Ad primam rationem</head>
+              <p xml:id="ppra-l89-aprnqp">
+                <pc type="pilcrow"/> Ad primum diceret tenens positionem <name ref="#Aquinas">sancti thomae</name> quod non 
+                <lb ed="#P"/>oportet quod acquiratur aliquid <pc type="virgula">/</pc> 2o diceretur quod ad salvandum alterationem sufficit quod magis 
+                <lb ed="#P"/>motus existat absque re potentia <unclear>licet habet l?efere</unclear> et accipit aliquod latitudinem 
+                <lb ed="#P"/>et illa vel est nisi illud inexistere Et illud non est aliquis <unclear>pafitun?</unclear> 
+              </p> 
+            </div>
+            <!-- not present see below 
+            <div xml:id="ppra-l89-Dd1e433">
+              <head xml:id="ppra-l89-asrasr">Ad secundam rationem</head>
+              <p xml:id="ppra-l89-ephfei">
+                
+                Et per hoc respondetur ad secundum argumentum 
+                quod tota forma est ibi.
+              </p> 
+            </div>-->
+            <div xml:id="ppra-l89-Dd1e442">
+              <head xml:id="ppra-l89-Hatratr">Ad tertiam rationem</head>
+              <p xml:id="ppra-l89-esdiap">
+                <pc type="virgula">/</pc> Et ad 2am 
+                <lb ed="#P"/>et 3am rationem diceretur per albedinem esse causatam <unclear>s</unclear> <unclear>mi?ostere</unclear> et attenditur certa haec
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e451">
+              <head xml:id="ppra-l89-Haqtaqt">Ad quartam rationem</head>
+              <p xml:id="ppra-l89-aqqclm">
+                <lb ed="#P"/><pc type="pilcrow"/> Ad 4am quod agens respectu eiusdem passi fortius facit eadem quantitate magis non existere 
+                <lb ed="#P"/>Et sic lucidam neque dupplo magis <unclear>etc</unclear> 
+                
+              </p>
+            </div>
+            <div xml:id="ppra-l89-Dd1e461">
+              <head xml:id="ppra-l89-Haqraqr">Ad quintam rationem</head>
+              <p xml:id="ppra-l89-aqnhmi">
+                <pc type="pilcrow"/> Ad ultimam quae difficilior videlicet 
+                <lb ed="#P"/>de actibus in sacramento altaris sine subiecto quomodo salvaretur <unclear>inten?</unclear> vel remissio 
+                <lb ed="#P"/>albedinis absque etc 
+              </p>
+              <!-- fuzzy break -->
+              <p xml:id="ppra-l89-scaple">
+                Respondetur quod tenendo quod accidentia non sunt existentia sive <unclear>entiae</unclear> nec 
+                <lb ed="#P"/><unclear>ha?t</unclear> est propriam <unclear>quantitatem</unclear> dicitur quod habitudo quam habet subiectum ad accidens dicit perfectionem 
+                <lb ed="#P"/>in subiecto circumscripta habitudine quod accidentia non habent nisi dependentiam quamvis 
+                <lb ed="#P"/>deus tamen posset supplere vicem subiecti quare etc
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l89-Dxxxx1">
+            <head xml:id="ppra-l89-Hxxxxx1">Conclusiones</head>
+            <p xml:id="ppra-l89-yxxxx1">
+              <pc type="pilcrow"/> Conclusiones XLmae distinctionis 
+              <lb ed="#P"/>hic non apposui quia cum <name>magistro gauffrido lestencher</name> <unclear>ivi</unclear> pro habendo 
+              <lb ed="#P"/>credulam meam a <name>doctore nostro maigstro johanne luqueti</name> 
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
