@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio90">
+      <head xml:id="ppra-l90-Hldcldc">Lectio 90, de Caritate</head>
+      <p xml:id="ppra-l90-cmcsov">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l90-cmcsov"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-cmcsov"/>
+        </assertions>
+      </p>
+      <div xml:id="ppra-l90-Dd1e117">
+        <head xml:id="ppra-l90-Hostost"> Prima opinio: <name xml:id="ppra-l90-Nd1e121"
+            ref="#Aquinas">Sanctus Thomas</name>
+        </head>
+        <p xml:id="ppra-l90-efremf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l90-efremf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-efremf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l90-Dd1e138">
+        <head xml:id="ppra-l90-Haopaop">Secunda opinio: Gualterus Burleus</head>
+        <p xml:id="ppra-l90-eaoeqc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l90-eaoeqc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-eaoeqc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l90-Hcopmgb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l90-Hcopmgb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-Hcopmgb"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l90-Dd1e167">
+          <head xml:id="ppra-l90-Hpmemes">Prima pars</head>
+          <div xml:id="ppra-l90-Dd1e172">
+            <head xml:id="ppra-l90-Hprprpr">Prima ratio</head>
+            <p xml:id="ppra-l90-preaaq">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-preaaq"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-preaaq"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-ireasp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-ireasp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-ireasp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e187">
+            <head xml:id="ppra-l90-Hsrosro">Secunda ratio</head>
+            <p xml:id="ppra-l90-ssqqqp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-ssqqqp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-ssqqqp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-d1e211">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-d1e211"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-d1e211"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e215">
+            <head xml:id="ppra-l90-Htrotro">Tertia ratio</head>
+            <p xml:id="ppra-l90-trstiq">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-trstiq"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-trstiq"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-irsiqo">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-irsiqo"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-irsiqo"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-aeifis">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-aeifis"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-aeifis"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e234">
+            <head xml:id="ppra-l90-Hqroqro">Quarta ratio</head>
+            <p xml:id="ppra-l90-qremdi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-qremdi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-qremdi"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-d1e261">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-d1e261"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-d1e261"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l90-Dd1e269">
+          <head xml:id="ppra-l90-Hd1e271">Secunda pars</head>
+          <div xml:id="ppra-l90-Dd1e245">
+            <head xml:id="ppra-l90-Hpoeoer">Prima obiectio et responsio</head>
+            <p xml:id="ppra-l90-cipaac">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-cipaac"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-cipaac"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-rahpie">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-rahpie"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-rahpie"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-sivhne">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-sivhne"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-sivhne"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e284">
+            <head xml:id="ppra-l90-Hsoeoer">Secunda obiectio et responsio</head>
+            <p xml:id="ppra-l90-srcnhp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-srcnhp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-srcnhp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-rqepsd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-rqepsd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-rqepsd"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-umpepm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-umpepm"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-umpepm"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-amsppu">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-amsppu"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-amsppu"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e302">
+            <head xml:id="ppra-l90-Htoeoer">Tertio obiectio et responsio</head>
+            <p xml:id="ppra-l90-taqvme">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-taqvme"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-taqvme"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-hpreas">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-hpreas"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-hpreas"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e333">
+            <head xml:id="ppra-l90-Hqoeoer">Quarta obiectio et responsio</head>
+            <p xml:id="ppra-l90-qaqcpc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-qaqcpc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-qaqcpc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-rqiici">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-rqiici"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-rqiici"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e349">
+            <head xml:id="ppra-l90-Hqneoer">Quinta obiectio et responsio</head>
+            <p xml:id="ppra-l90-qreeae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-qreeae"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-qreeae"/>
+              </assertions>
+            </p>
+            <!-- questionable break -->
+            <p xml:id="ppra-l90-taqfcc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-taqfcc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-taqfcc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-rqsfse">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-rqsfse"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-rqsfse"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l90-Dd1e364">
+            <head xml:id="ppra-l90-Hsxeoer">Sexta obiectio et responsio</head>
+            <p xml:id="ppra-l90-sacies">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-sacies"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-sacies"/>
+              </assertions>
+            </p>
+            <!-- doesn't seem present or is somewhere in the above 
+              <p xml:id="ppra-l90-rqirnc">
+                Respondetur 
+                quod in illo instanti in quo <name xml:id="ppra-l90-Nd1e420" ref="#Sortes">Sortes</name> meretur gradum caritatis 
+                sibi infundi non recipit illam caritatem. 
+                Et hoc in instanti, 
+                sed immediate post hoc eam recipiet. 
+                Et sic non concluditur 
+                quod cum caritate prima infundatur alia caritas, 
+                sed prima habet ultimum instans sui esse, 
+                sicut de quantitate imaginatur 
+                quia si continue sit fiat nulla erit caritas, 
+                quae in mediante post hoc infundetur, 
+                nam quaelibet manebit 
+                praecise per instans nam quacumque data ante illam erat alia, 
+                et ante illam alia, 
+                et sic in infinitum. 
+                Et sic concedendum est 
+                quod quaelibet caritas quae in hoc instanti conferretur propter 
+                meritum praecise duraret per instans, 
+                et sic ista ratio non concludit.
+              </p> -->
+            <p xml:id="ppra-l90-asepdi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-asepdi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-asepdi"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l90-umqpam">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-umqpam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-umqpam"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l90-chpdil">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l90-chpdil"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l90-chpdil"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l90-Dxxxx1">
+        <head xml:id="ppra-l90-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l90-yxxxx3">
+        </p>
+        <p xml:id="ppra-l90-yxxxx4">
+        </p>
+        <p xml:id="ppra-l90-yxxxx5">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
