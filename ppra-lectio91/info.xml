@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio91">
+      <head xml:id="ppra-l91-Hldcldc">Lectio 91, de Caritate</head>
+      <div xml:id="ppra-l91-Dd1e109">
+        <head xml:id="ppra-l91-Htodgag">Tertia opinio de intensio formarum: quod intensio formarum
+          non fit per additionem gradus ad gradum</head>
+        <p xml:id="ppra-l91-ratcsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-ratcsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-ratcsc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l91-Dd1e117">
+          <head xml:id="ppra-l91-Hdosdos">Deficientia opinionis</head>
+          <div xml:id="ppra-l91-Dd1e122">
+            <head xml:id="ppra-l91-Hpdapda">Prima deficientia</head>
+            <p xml:id="ppra-l91-siodsr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-siodsr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-siodsr"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l91-Dd1e131">
+            <head xml:id="ppra-l91-Hsdasda">Secunda deficientia</head>
+            <p xml:id="ppra-l91-sianhc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-sianhc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-sianhc"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l91-Dd1e140">
+            <head xml:id="ppra-l91-Htdatda">Tertia deficientia</head>
+            <p xml:id="ppra-l91-tqsrnc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-tqsrnc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-tqsrnc"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l91-Dd1e154">
+            <head xml:id="ppra-l91-Hqdaqda">Quarta deficientia</head>
+            <p xml:id="ppra-l91-qanebe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-qanebe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-qanebe"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l91-Dd1e192">
+            <head xml:id="ppra-l91-Hqndqnd">Quinta deficientia</head>
+            <p xml:id="ppra-l91-qaicce">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-qaicce"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-qaicce"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l91-Dd1e201">
+            <head xml:id="ppra-l91-Hsxdsxd">Sexta deficientia</head>
+            <p xml:id="ppra-l91-sdqiea">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l91-sdqiea"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-sdqiea"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l91-Dd1e212">
+        <head xml:id="ppra-l91-Hqoddif">Quarta opinio de intensione formarum</head>
+        <p xml:id="ppra-l91-qoepiq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-qoepiq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-qoepiq"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l91-Dd1e228">
+        <head xml:id="ppra-l91-Hqnddif">Quinta opinio de intensione formarum</head>
+        <p xml:id="ppra-l91-qoesie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-qoesie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-qoesie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-sioptd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-sioptd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-sioptd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-saditd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-saditd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-saditd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-itsnee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-itsnee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-itsnee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l91-Dd1e255">
+        <head xml:id="ppra-l91-Hsodesa">Sexta opinio de intensione formarum: quod intensio formarum
+          fit per additionem gradus ad gradum in eodem situ
+          adaequate<!--<note>[position of Walter Burley?? See lectio 76</note>--></head>
+        <p xml:id="ppra-l91-soqpce">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-soqpce"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-soqpce"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-pqaemc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-pqaemc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-pqaemc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-iloqse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-iloqse"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-iloqse"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-chtesi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-chtesi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-chtesi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-rqasis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-rqasis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-rqasis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-srsias">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-srsias"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-srsias"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l91-tqehsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l91-tqehsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-tqehsp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l91-Dd1e315">
+        <head xml:id="ppra-l91-Hrarrar">Responsio ad rationes</head>
+        <!--Doesn't seem present  
+            <p xml:id="ppra-l91-avscim">
+            Circa istam materiam 
+            solent adduci multi casus difficiles, sed quia sunt 
+            magis naturalia seu naturales Relinquuntur ad 
+            <name xml:id="ppra-l91-Nd1e322" type="place">vicum straminis</name>.
+          </p>-->
+        <div xml:id="ppra-l91-Dd1e326">
+          <head xml:id="ppra-l91-Hapmapm">Ad primam</head>
+          <p xml:id="ppra-l91-srentd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-srentd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-srentd"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break/parallel -->
+          <p xml:id="ppra-l91-hdqimc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-hdqimc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-hdqimc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l91-Dd1e338">
+          <head xml:id="ppra-l91-Hasmasm">Ad secundam</head>
+          <p xml:id="ppra-l91-ascncp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-ascncp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-ascncp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l91-hrqira">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-hrqira"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-hrqira"/>
+            </assertions>
+          </p>
+
+          <p xml:id="ppra-l91-sdqpdg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-sdqpdg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-sdqpdg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l91-uenmsr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-uenmsr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-uenmsr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l91-sncecm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-sncecm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-sncecm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l91-Dd1e414">
+          <head xml:id="ppra-l91-Haaraar">Ad aliam rationem</head>
+          <p xml:id="ppra-l91-aarnic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-aarnic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-aarnic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l91-rqpecg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-rqpecg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-rqpecg"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l91-Dd1e464">
+          <head xml:id="ppra-l91-Hamramr">Ad aliam rationem</head>
+          <p xml:id="ppra-l91-aargsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-aargsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-aargsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l91-hdqhls">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l91-hdqhls"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l91-hdqhls"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l91-Dxxxx1">
+        <head xml:id="ppra-l91-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l91-yxxxx3">
+          
+        </p>
+        <p xml:id="ppra-l91-yxxxx4">
+          
+        </p>
+        <p xml:id="ppra-l91-yxxxx5">
+          
+        </p>
+        <p xml:id="ppra-l91-yxxxx6">
+          
+        </p>
+        <p xml:id="ppra-l91-yxxxx7">
+          
+        </p>
+        <p xml:id="ppra-l91-yxxxx8">
+          
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
