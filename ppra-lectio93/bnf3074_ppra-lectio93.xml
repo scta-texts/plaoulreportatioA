@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 93, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 93, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-10-07">October 04, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-10-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="93-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="lectio93">
+        <head xml:id="l93-Hldcldc">Lectio 93, de Caritate</head>
+        <head xml:id="l93-Huqssei" type="question-title">Utrum qualitas spiritualis seu indivisibilis extensive possit subiecto extenso inhaerere?</head>
+        <p xml:id="l93-sadsei">
+          <lb ed="#P"/>Consequenter circa materiam de caritate restat unum argumentum solvere tangens difficultatem utrum qualitas spiritualis 
+          <lb ed="#P"/>seu indivisibilis extensive possit subiecto extenso inhaerere 
+        </p>
+        <div xml:id="l93-Dd1e115">
+          <head xml:id="l93-uoqeec">Una opinio quod qualitas mundi inextensa potest realiter fieri extensa et e converso</head>
+          <p xml:id="l93-eprmcv">
+            et primo recitatur una oppinio cum suo 
+            <lb ed="#P"/>fundamento deinde poneretur conclusio responsialis quae videtur esse magis consona veritati
+          </p>
+          <p xml:id="l93-ueueie">
+            <lb ed="#P"/> <pc type="pilcrow"/> unde est 
+            <lb ed="#P"/>una oppinio quod omnis qualitas modi inextensa <del rend="strikethrough">et indivisibilis extensive</del> potest fieri realiter extensa 
+            <lb ed="#P"/>et econverso 
+          </p>
+          <div xml:id="l93-Dd1e126">
+            <head xml:id="l93-Hspipio">Suppositiones pro istius opinionis</head>
+            <p xml:id="l93-phoops">
+              <pc type="virgula">/</pc> pro declaratione cuius ponuntur suppositiones 
+            </p>
+            <div xml:id="l93-Dd1e134">
+              <head xml:id="l93-pqovai">Prima: quod omne accidens est intensivum vel alicuius intensionis</head>
+              <p xml:id="l93-psoeir">
+                prima suppositio est <pc type="virgula">/</pc> omne accidens est intensivum 
+                <lb ed="#P"/>vel alicuius intensionis <pc type="virgula">/</pc> patet quia impossibile est accidens esse infinite remissum <pc type="punctus"/>
+              </p>
+              <p xml:id="l93-spqmei">
+                <pc type="pilcrow"/> 2o patet quia 
+                <lb ed="#P"/>quodlibet accidens sua mediante est intensius 
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e146">
+              <head xml:id="l93-Hssqsua">Secunda suppositio</head>
+              <head xml:id="l93-Hd1e151" type="question-title">Quod omnis qualitas inextensa continet partes secundum se et quodlibet sui unitas adinvicem</head>
+              <p xml:id="l93-ssopeu">
+                <pc type="pilcrow"/> 2a suppositio omnis qualitas inextensa continet 
+                <lb ed="#P"/>partes secundum se et quodlibet sui <pc type="virgula">/</pc> unitas ad adinvicem patet quia partes intensive uniuntur inter se 
+                <lb ed="#P"/>et qua ratione propter indistantiam unitur una alteri ita inter se uniuntur igitur cuiuslibet 
+                <pb ed="#P" n="93-v"/>
+                <lb ed="#P"/>partis ad quamlibet partem est unio.
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e158">
+              <head xml:id="l93-Htsotso">Tertia suppositio</head>
+              <p xml:id="l93-tsasar">
+                <pc type="pilcrow"/> 3a suppositio <pc type="virgula">/</pc> alia est unio partium intensivarum 
+                <lb ed="#P"/>et alia partium ad subiectum <pc type="punctus"/> patet quia in qualitatibus corporalibus quae habent unionem intensivam 
+                <lb ed="#P"/>et unionem continuitatis <pc type="virgula">/</pc> istae uniones sunt diversarum speciarum et una potest separari 
+                <lb ed="#P"/>alia remanente 
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e168">
+              <head xml:id="l93-Hqsoqso">Quarta suppositio</head>
+              <p xml:id="l93-eqsaue">
+                <pc type="virgula">/</pc> Et ex hoc sequitur 4a suppositio quod habitudo partium intensivarum est alia ad ha<lb ed="#P"/>bitudine 
+                unionis extensive
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e177">
+              <head xml:id="l93-Hqnsqns">Quinta suppositio</head>
+              <p xml:id="l93-qsoiea">
+                <pc type="pilcrow"/>5a suppositio qualitates subiectum indivisibiliter informantes 
+                <lb ed="#P"/>infinitis sitibus exterioribus coexistunt <pc type="virgula">/</pc> patet quia sicut sua substantia coexistunt diversis sitibus 
+                <lb ed="#P"/>ita illa accidentia eis inhaerentia coexistunt diversis sitibus licet non commensurative <pc type="punctus"/> unde 
+                <lb ed="#P"/>licet anima intellectiva sit indivisibilis coexistit tamen situi divisibili scilicet corpori humano <pc type="punctus"/> modo dicitur 
+                <lb ed="#P"/>quod accidens spirituale inhaerens subiecto divisibili proportionaliter coexistit situi ymmo tot sitibus 
+                <lb ed="#P"/>quot coexistit subiectum suum Etiam patet quia totum coexistit sitibus partium igitur et accidens
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e188">
+              <head xml:id="l93-Hsxosxo">Sexta suppositio</head>
+              <p xml:id="l93-ssdfis">
+                <lb ed="#P"/><pc type="pilcrow"/> 6a suppositio destructo quolibet subiecto indivisibili deus potest conservare habitudinem accidenter 
+                <lb ed="#P"/>ad situm exteriorem quem habebat subiecto existente id est quod accidens occupet talem 
+                <lb ed="#P"/>situm vel tot situs sicut ante faciebat in subiecto
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e197">
+              <head xml:id="l93-Hsmosmo">Septima suppositio</head>
+              <p xml:id="l93-ssdipe">
+                <pc type="pilcrow"/> 7ma suppositio deus potest 
+                <lb ed="#P"/>omne accidens non solum localiter verum etiam subiective multiplicare id deus potest accidens ponere 
+                <lb ed="#P"/>in diversis sitibus inhaerens <pc type="pilcrow"/> Ex quo sequitur quod aliquod accidens spirituale potest subiecto corporali 
+                <lb ed="#P"/>inhaere pure extensive
+              </p>
+              <p xml:id="l93-uispic">
+                <pc type="pilcrow"/> unde ymaginatio stat in hoc quod accidens spirituale 
+                <lb ed="#P"/>duplicem habet habitudinem partium scilicet inter se et ad situm extrinsecum <pc type="pilcrow"/> unde posset dici 
+                <lb ed="#P"/>quod prima habitudo esset partium intensivarum <pc type="virgula">/</pc> alia esset habitudo ipsarum in diversis partibus vel re<lb ed="#P"/>plicatio 
+                ipsarum in sitibus extrinsicis sicut acccidens indivisibile occupat situm et partes 
+                <lb ed="#P"/>replicantur in diversis sitibus ita potest inhaere correspondenter 
+              </p>
+            </div>
+          </div>
+          <div xml:id="l93-Dd1e214">
+            <head xml:id="l93-Hciocio">Conclusiones istius opinionis</head>
+            <p xml:id="l93-eiiopc">
+              <pc type="virgula">/</pc> Et ideo 
+              <lb ed="#P"/>ista oppinio ponit conclusiones
+            </p>
+            <div xml:id="l93-Dd1e222">
+              <head xml:id="l93-Hpcopco">Prima conclusio</head>
+              <p xml:id="l93-poffpc">
+                prima est omnem formam accidentalem a subiecto et materia separatam
+                <lb ed="#P"/>potest deus extendere situaliter unione partium non destructa <pc type="virgula">/</pc> patet primo nam 
+                <lb ed="#P"/>de corporalibus non est dubium propter rarefactionem et augmentationem extensivam <pc type="virgula">/</pc> sed de  
+                <lb ed="#P"/>spiritualibus apparet quia illae possunt habere habitudinem unionis quantum ad situm igitur per 
+                <lb ed="#P"/>replicationem partium in eodem loco potest fieri partium continuitas
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e231">
+              <head xml:id="l93-Hscosco">Secunda conclusio</head>
+              <p xml:id="l93-scaiee">
+                <pc type="pilcrow"/> 2a conclusio 
+                <lb ed="#P"/>accidens corporale potest fieri inextensive patet quia habitudo partium intensivarum et unio 
+                <lb ed="#P"/>earum est alia habitudo ab unione illarum partium correspondenter ad situm extrinsecum igitur 
+                <lb ed="#P"/>2a unio potest tolli stante prima et per consequens potest tolli unio respectu situs 
+                <lb ed="#P"/>remanente unione partium <pc type="punctus"/> inter se <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="l93-Dd1e240">
+              <head xml:id="l93-Htcotco">Tertia conclusio</head>
+              <p xml:id="l93-eqsdqi">
+                <pc type="pilcrow"/> Ex quo sequitur quod nullum accidens determinat sibi 
+                <lb ed="#P"/>ordinem partium in situ vel in toto <pc type="punctus"/> patet quia habitudo unionis partium intensivarum 
+                <lb ed="#P"/>est alia quam unio extensiva igitur extrinsece nullus accidens determinat habitudinem partium 
+                <lb ed="#P"/>intensivarum Et sic stat accidentia corporalia habere habitudinem <del rend="strikethrough">partium intensivarum</del> 
+                <lb ed="#P"/>accidentium spiritualium <pc type="virgula">/</pc> et econveso stat quantitatem spiritualem habere rationem continui 
+                <lb ed="#P"/>Ita quod qualitas potest informare subiectum extensivum et esse qualitas extensa <pc type="pilcrow"/> unde possibile 
+                <lb ed="#P"/>est esse duas quantitates in eadem specie quarum una esset extensa et alia non <pc type="virgula">/</pc> Et 
+                <lb ed="#P"/>hoc patet ex dictis <pc type="virgula">/</pc> quoniam si una inhaeret extenso subiecto dicitur extenso si 
+                <lb ed="#P"/>inhaeret inextenso dicitur qualitas inextensa
+              </p> 
+              <p xml:id="l93-mcptsr">
+                <pc type="pilcrow"/> Multa <sic>correllaria</sic> possent 
+                <lb ed="#P"/>inferri quae pulchra nimis essent secundum studere volentibus relinquuntur
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="l93-Dd1e254">
+          <head xml:id="l93-Hoaiaio">Obiectio ad istam opinionem</head>
+          <p xml:id="l93-ctiqsi">
+            <lb ed="#P"/><pc type="pilcrow"/> Nihilominus contra oppinionem praefatam pono conclusionem negativam videlicet 
+            <lb ed="#P"/>quod nec caritas nec spiritualis qualitas possunt subiectum extensum informare aut econtra 
+            <lb ed="#P"/>Cuius radix et causa est quoniam nullus situs extrinsecus correspondet qualitati spirituali ubi 
+            <lb ed="#P"/>notandum quod res indivisibiles extensivae habeant situs hoc est ratione perfectionis 
+            <lb ed="#P"/><pc type="pilcrow"/> Unde deo ratione immensitatis correspondet infiniti situs ubi vel ymaginarii
+            <lb ed="#P"/>Ita quod secundum ordinem specierum perfectior species occupat maiorem situm vel innata 
+            <lb ed="#P"/>est occupare igitur situs correspondet alicui secundum quantitatem suae perfectionis Et ideo 
+            <lb ed="#P"/>dicitur quod extra caelum et finitum spatium scilicet verum vel ymaginarium correspondents deo ratione suae perfectionis 
+            <lb ed="#P"/>immensae <pc type="punctus"/> Et cum accidens sit minime perfectionis situs non correspondet ei secundum quod correspondet 
+            <lb ed="#P"/>subiectae cui inhaeret <pc type="punctus"/> Nec sequitur quod si situs correspondeat angelo quod propter hoc 
+            <pb ed="#P" n="94-r"/>
+            <lb ed="#P"/>correspondeat qualitati sibi inhaerenti 
+          </p>
+          <p xml:id="l93-echsei">
+            Et circa hoc <name ref="#Chaton">quidam doctor</name> notat quod licet intellectus sit simpliciter 
+            <lb ed="#P"/>indivisibilis et omnis actus eius vel habitus non oportet quod ubicumque est intellectus quod etiam eius 
+            <lb ed="#P"/>actus sit ibi <pc type="virgula">/</pc> quoniam staret quod anima multiplicaretur in diversis sitibus scilicet parisius et romae et quod 
+            <lb ed="#P"/>haberet <c>a</c> notitiam parisius <pc type="punctus"/> et non haberet eam romae <pc type="punctus"/> Et sic non oportet de accidentibus quod accidens 
+            <lb ed="#P"/>occupat tantum situm sicut intellectus <pc type="pilcrow"/> unde <name xml:id="l93-Nd1e288" ref="#Chatton">chaton</name> <note type="marginal-note" place="margin-right">Chaton</note> quod licet sit indivisibilis tamen eius intellectus 
+            <lb ed="#P"/>est in capite <pc type="virgula">/</pc> Ex quo patet quod rem indivisibilem occupare locum est ratione suae perfectionis <pc type="virgula">/</pc> et quia accidens 
+            <lb ed="#P"/>non potest coexistere situi ideo non potest si sit spirituale subiectum <subst><add place="above-line">ex</add><del rend="strikethrough">in</del></subst>tensum informare.
+          </p>
+        </div>
+        <div xml:id="l93-Dd1e286">
+          <head xml:id="l93-Hoeroer">Obiectio et Responsio</head>
+          <p xml:id="l93-caqiec">
+            <pc type="pilcrow"/>Contra 
+            <lb ed="#P"/>tamen arguitur sic quia saltem quantitas spiritualis potest subiectum extensum informare per multiplicationem 
+            <lb ed="#P"/>et ponatur quod qualitas spiritualis sit in qualibet parte subiecti et infinite replicetur in situ indivisibili vel 
+            <lb ed="#P"/>creetur alia et alia qualitas differens tamen numeraliter et non specifice <pc type="virgula">/</pc> et tunc videtur quod una qualitas potet 
+            <lb ed="#P"/>alteri uniri quo dato <pc type="punctus"/> videtur quod agregatum ex illis erit continuum
+          </p>
+          <p xml:id="l93-rqpppe">
+            <pc type="pilcrow"/> Respondetur quod partes 
+            <lb ed="#P"/>huiusmodi qualitatis non sunt unibiles nisi intensive sicut illa anima per coniunctionem 
+            <lb ed="#P"/>alterius non efficit unum nec ex illis duabus <pc type="punctus"/> nec pluribus efficetur unum <pc type="punctus"/> nec sunt 
+            <lb ed="#P"/>in potentia ad unionem continuitatis nec per extensionem <pc type="punctus"/> et quam ratione <sic>repraesentat</sic> <unclear>animae</unclear> 
+            <lb ed="#P"/>indivisibili ex coniunctione ipsius cum aliam esse continuationem <pc type="punctus"/> vel aliquod unum per modum continuitatis 
+            <lb ed="#P"/>ita accidentibus indivisibilibus extensive repraesentant esse contingentia in aliquo subiecto extenso <pc type="punctus"/> vel eidem 
+            <lb ed="#P"/>inhaerere <pc type="punctus"/> et licet in illo subiecto subiecto esset qualitas secundum casum positum in argumento non tamen esset continua 
+            <lb ed="#P"/>per partes extensas <pc type="punctus"/>
+          </p>
+          <p xml:id="l93-enqaui">
+            <pc type="pilcrow"/> unde notandum proportionaliter in casu argumenti diceretur de illis qualitatibus existentibus in subiecto 
+            <lb ed="#P"/>sicut diceretur de punctis ymaginando quod puncta essent continuantia et non componentia et tunc 
+            <lb ed="#P"/>diceretur quod nullam qualitas vel pars qualitatis esset alteri inmediata sed inter quascumque qualitates 
+            <lb ed="#P"/>essent infinitae mediae <pc type="virgula">/</pc> ut ex punctis continuantibus non sequitur infinita sunt ibi puncta <pc type="virgula">/</pc> nec 
+            <lb ed="#P"/>est aliqua pars significabilis quin in illa sit punctus igitur puncta sunt adinvicem continua et per consequens licet 
+            <lb ed="#P"/>una qualitas esset alteri unibilis intensive <pc type="virgula">/</pc> non tamen esset una alteri inmediata <pc type="virgula">/</pc> et ideo 
+            <lb ed="#P"/>illa ymaginatio defficit quia supponit quod qualitates adinvicem sint continuabiles quod est falsum nec 
+            <lb ed="#P"/>arguitur ex hoc continuitas <pc type="virgula">/</pc> si una est alteri unibilis intensive
+          </p>
+          <p xml:id="l93-ehsspp">
+            <pc type="pilcrow"/> Ex quo sequitur quod ista consequentia non 
+            <lb ed="#P"/>valet in qualibet parte subiecti est qualitas igitur totum redditur quoddam extensum Et per consequens tenendum est pro 
+            <lb ed="#P"/>via probabili ymmo veriori quod qualitates <del rend="strikethrough">v</del> mere spirituales non possunt subiecto inextenso inhaerere 
+            <lb ed="#P"/>et dato adhuc quod possent non haberent nisi puncto indivisibili illius subiecti si poneretur 
+            <lb ed="#P"/>puncta
+          </p>
+          <p xml:id="l93-cqqcpi">
+            <pc type="virgula">/</pc> Concedendum est quod qualitas spiritualis est in homine et tamen nullus punctus sibi correspondet 
+            <lb ed="#P"/>nec cuilibet parti ipsius
+          </p>
+        </div>
+        <div xml:id="l93-Dd1e312">
+          <head xml:id="l93-Hafifio">Ad fundamenta illius opinionis</head>
+          <div xml:id="l93-Dd1e317">
+            <head xml:id="l93-Hapsaps">Ad primam suppositionem</head>
+            <p xml:id="l93-etaaei">
+              <pc type="pilcrow"/> Et tunc ad fundamenta illius oppinionis <pc type="virgula">/</pc> et primo ad oppinionem 
+              <lb ed="#P"/>sive suppositionem quando dicitur quod omne accidens est intensivum  
+            </p>
+            <p xml:id="l93-hdpepc">
+              hic dicitur primo quod si quantitas di<lb ed="#P"/>stinguitur
+              a re quanta quod ipsa non est accidens intensivum quia esset penetratio corporis quia quadrupedalitas 
+              <lb ed="#P"/>esset composita ex duabus bipedalibus se invicem penetrantibus et tunc esset penetratio corporum 
+            </p>
+            <p xml:id="l93-septis">
+              <lb ed="#P"/><pc type="pilcrow"/> 2o etiam pars adaequaretur toti quia signata quantitate pedali <pc type="virgula">/</pc> si ei applicetur quantitas quaddrupedalis 
+              <lb ed="#P"/>ipsa non excedit bipedalitatem quia qualitas bipedalis inest extensa toti qualitati quadrupedali 
+              <lb ed="#P"/>et quaelibet pars extensiva coextenditur toti igitur quaelibet pars adaequatur magnitudini quadrupedali nam quaelibet 
+              <lb ed="#P"/>quantitas est per totum illud subiectum extensa
+            </p>
+            <p xml:id="l93-tdiinr">
+              <pc type="pilcrow"/> 3o datur instantia de actibus simplicibus in mente 
+              <lb ed="#P"/>unde supposito quod propositio mentalis habeat partes correspondentes partibus vocalis <pc type="virgula">/</pc> tunc negatio 
+              <lb ed="#P"/>istius <mentioned>sortes non currit</mentioned> habet actum sibi correspondentem qui eest quantitas mentalis <pc type="virgula">/</pc> et tamen ille non 
+              <lb ed="#P"/>est intensibilis nec remissibilis quia actus negandi non intenditur neque remittitur 
+            </p>
+            <p xml:id="l93-sidivr">
+              <lb ed="#P"/><pc type="pilcrow"/> <sic>4o</sic> ita diceretur de omnibus actibus simplicibus affirmativis ubi non videtur quod huiusmodi qualitates 
+              <lb ed="#P"/>sint intensibiles vel remissibiles 
+            </p>
+            <p xml:id="l93-eqdisp">
+              <pc type="virgula">/</pc> sed quando dicitur ultima <pc type="punctus"/> quia nisi sic tunc accidens esset infinite 
+              <lb ed="#P"/>remissum <pc type="punctus"/> negatur consequentia quia pari ratione probaretur quod quaelibet forma esset intensa quantumcumque 
+              <lb ed="#P"/>remissa nec valet ratio sequens scilicet qudo quodlibet accidens esset intensius sua parte quia quantitas 
+              <lb ed="#P"/>non est intensior sua parte
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e347">
+            <head xml:id="l93-Hassass">Ad secundam suppositionem</head>
+            <p xml:id="l93-sengpi">
+              <pc type="pilcrow"/> 2a suppositio est neganda quae ponit ordinem partium intensivarum 
+              <lb ed="#P"/>inter se <pc type="virgula">/</pc> tamen si concederetur ordo hoc iam esset contra illam oppinionem <pc type="virgula">/</pc> quia gradus 
+              <lb ed="#P"/>ultimo introductus non unitur gradui primo introducto <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e356">
+            <head xml:id="l93-Hatsats">Ad tertiam suppositionem</head>
+            <p xml:id="l93-tsqnhs">
+              <pc type="pilcrow"/> 3a suppositio quae dicit quod alia 
+              <lb ed="#P"/>est unio partium intensivarum inter se et alia unio partium ad subiectum <pc type="virgula">/</pc> conceditur haec in qualibet 
+              <lb ed="#P"/>corporeis sed si generaliter intelligatur planissime negatur quia qualitas spiritualis habet 
+              <lb ed="#P"/>solam habitudinem partium inter se <pc type="punctus"/> et non habet habitudinem partium ad situm <pc type="punctus"/> quia partes 
+              <lb ed="#P"/>non habent situm
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e365">
+            <head xml:id="l93-Haqsaqs">Ad quintam suppositionem</head>
+            <p xml:id="l93-qsupra">
+              <sic>5a</sic> suppositio ubi ponit quod qualitates sunt in tot sitibus sicut subiecta 
+              <lb ed="#P"/>quibus inhaerent et tot sitibus adaequate coexistunt sicut substantia quilibet inhaerent <pc type="punctus"/> negatur 
+              <lb ed="#P"/>illa suppositio quia romae perfectionis convenit deo vel angelo coexistere infinito spatio et tamen non oportet 
+              <pb ed="#P" n="94-v"/>
+              <lb ed="#P"/>quod accidens inhaerens angelo tanto spatio coexistat eo quod est minime perfectionis respectu angeli 
+            </p>
+            <!-- not present
+              <p xml:id="l93-aeuqds">
+              Adhuc 
+              erat una ratio, sed ex dictis satis patet quid dicendum 
+              sit.
+            </p>-->
+          </div>
+        </div>
+        <div xml:id="l93-Dxxxx1">
+          <head xml:id="l93-Hxxxx2">Conclusiones</head>
+          <p xml:id="l93-yxxxx3">
+            <lb ed="#P"/>Secuntur conclusiones textuales supra distinctionem 2am 3ii
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

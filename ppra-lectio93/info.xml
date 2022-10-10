@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="lectio93">
+      <head xml:id="l93-Hldcldc">Lectio 93, de Caritate</head>
+      <head xml:id="l93-Huqssei" type="question-title">Utrum qualitas spiritualis seu indivisibilis
+        extensive possit subiecto extenso inhaerere?</head>
+      <p xml:id="l93-sadsei">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l93-sadsei"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-sadsei"/>
+        </assertions>
+      </p>
+      <div xml:id="l93-Dd1e115">
+        <head xml:id="l93-uoqeec">Una opinio quod qualitas mundi inextensa potest realiter fieri
+          extensa et e converso</head>
+        <p xml:id="l93-eprmcv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-eprmcv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-eprmcv"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-ueueie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ueueie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ueueie"/>
+          </assertions>
+        </p>
+        <div xml:id="l93-Dd1e126">
+          <head xml:id="l93-Hspipio">Suppositiones pro istius opinionis</head>
+          <p xml:id="l93-phoops">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-phoops"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-phoops"/>
+            </assertions>
+          </p>
+          <div xml:id="l93-Dd1e134">
+            <head xml:id="l93-pqovai">Prima: quod omne accidens est intensivum vel alicuius
+              intensionis</head>
+            <p xml:id="l93-psoeir">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-psoeir"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-psoeir"/>
+              </assertions>
+            </p>
+            <p xml:id="l93-spqmei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-spqmei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-spqmei"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e146">
+            <head xml:id="l93-Hssqsua">Secunda suppositio</head>
+            <head xml:id="l93-Hd1e151" type="question-title">Quod omnis qualitas inextensa continet
+              partes secundum se et quodlibet sui unitas adinvicem</head>
+            <p xml:id="l93-ssopeu">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ssopeu"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ssopeu"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e158">
+            <head xml:id="l93-Htsotso">Tertia suppositio</head>
+            <p xml:id="l93-tsasar">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-tsasar"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-tsasar"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e168">
+            <head xml:id="l93-Hqsoqso">Quarta suppositio</head>
+            <p xml:id="l93-eqsaue">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-eqsaue"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-eqsaue"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e177">
+            <head xml:id="l93-Hqnsqns">Quinta suppositio</head>
+            <p xml:id="l93-qsoiea">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-qsoiea"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-qsoiea"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e188">
+            <head xml:id="l93-Hsxosxo">Sexta suppositio</head>
+            <p xml:id="l93-ssdfis">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ssdfis"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ssdfis"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e197">
+            <head xml:id="l93-Hsmosmo">Septima suppositio</head>
+            <p xml:id="l93-ssdipe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ssdipe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ssdipe"/>
+              </assertions>
+            </p>
+            <p xml:id="l93-uispic">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-uispic"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-uispic"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="l93-Dd1e214">
+          <head xml:id="l93-Hciocio">Conclusiones istius opinionis</head>
+          <p xml:id="l93-eiiopc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-eiiopc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-eiiopc"/>
+            </assertions>
+          </p>
+          <div xml:id="l93-Dd1e222">
+            <head xml:id="l93-Hpcopco">Prima conclusio</head>
+            <p xml:id="l93-poffpc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-poffpc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-poffpc"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e231">
+            <head xml:id="l93-Hscosco">Secunda conclusio</head>
+            <p xml:id="l93-scaiee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-scaiee"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-scaiee"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l93-Dd1e240">
+            <head xml:id="l93-Htcotco">Tertia conclusio</head>
+            <p xml:id="l93-eqsdqi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-eqsdqi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-eqsdqi"/>
+              </assertions>
+            </p>
+            <p xml:id="l93-mcptsr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l93-mcptsr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-mcptsr"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="l93-Dd1e254">
+        <head xml:id="l93-Hoaiaio">Obiectio ad istam opinionem</head>
+        <p xml:id="l93-ctiqsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ctiqsi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ctiqsi"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-echsei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-echsei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-echsei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l93-Dd1e286">
+        <head xml:id="l93-Hoeroer">Obiectio et Responsio</head>
+        <p xml:id="l93-caqiec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-caqiec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-caqiec"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-rqpppe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-rqpppe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-rqpppe"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-enqaui">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-enqaui"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-enqaui"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-ehsspp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-ehsspp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-ehsspp"/>
+          </assertions>
+        </p>
+        <p xml:id="l93-cqqcpi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-cqqcpi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-cqqcpi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l93-Dd1e312">
+        <head xml:id="l93-Hafifio">Ad fundamenta illius opinionis</head>
+        <div xml:id="l93-Dd1e317">
+          <head xml:id="l93-Hapsaps">Ad primam suppositionem</head>
+          <p xml:id="l93-etaaei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-etaaei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-etaaei"/>
+            </assertions>
+          </p>
+          <p xml:id="l93-hdpepc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-hdpepc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-hdpepc"/>
+            </assertions>
+          </p>
+          <p xml:id="l93-septis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-septis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-septis"/>
+            </assertions>
+          </p>
+          <p xml:id="l93-tdiinr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-tdiinr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-tdiinr"/>
+            </assertions>
+          </p>
+          <p xml:id="l93-sidivr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-sidivr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-sidivr"/>
+            </assertions>
+          </p>
+          <p xml:id="l93-eqdisp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-eqdisp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-eqdisp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="l93-Dd1e347">
+          <head xml:id="l93-Hassass">Ad secundam suppositionem</head>
+          <p xml:id="l93-sengpi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-sengpi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-sengpi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="l93-Dd1e356">
+          <head xml:id="l93-Hatsats">Ad tertiam suppositionem</head>
+          <p xml:id="l93-tsqnhs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-tsqnhs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-tsqnhs"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="l93-Dd1e365">
+          <head xml:id="l93-Haqsaqs">Ad quintam suppositionem</head>
+          <p xml:id="l93-qsupra">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l93-qsupra"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-qsupra"/>
+            </assertions>
+          </p>
+          <!-- not present
+              <p xml:id="l93-aeuqds">
+              Adhuc 
+              erat una ratio, sed ex dictis satis patet quid dicendum 
+              sit.
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="l93-Dxxxx1">
+        <head xml:id="l93-Hxxxx2">Conclusiones</head>
+        <p xml:id="l93-yxxxx3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l93-"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l93-"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
