@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio94">
+      <head xml:id="ppra-l94-Hldcldc">Lectio 94, de Caritate</head>
+      <div xml:id="ppra-l94-Dd1e109">
+        <head xml:id="ppra-l94-Huspepg">Utrum secundum proportionem debeat esse proportio
+          gratiae?</head>
+        <p xml:id="ppra-l94-eepepg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-eepepg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-eepepg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l94-uneadm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-uneadm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-uneadm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l94-uneidd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-uneidd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-uneidd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l94-piuees">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-piuees"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-piuees"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l94-eehpoc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-eehpoc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-eehpoc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l94-ecedmt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l94-ecedmt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l94-ecedmt"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l94-Dxxxx1">
+        <head xml:id="ppra-l94-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l94-yxxxx3">
+
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

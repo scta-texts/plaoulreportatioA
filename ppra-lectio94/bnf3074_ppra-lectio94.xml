@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 94, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 94, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-10-10">October 10, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="94-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio94">
+        <head xml:id="ppra-l94-Hldcldc">Lectio 94, de Caritate</head>
+        <div xml:id="ppra-l94-Dd1e109">
+          <head xml:id="ppra-l94-Huspepg">Utrum secundum proportionem debeat esse proportio gratiae?</head>
+          <p xml:id="ppra-l94-eepepg">
+            <lb ed="#P"/>Consequenter tractando restat adhuc una ratio sed ex dictis satis patet quid sit de ipsa dicendum 
+            <lb ed="#P"/>Et etiam propositum erat aliquis dicere de caritate terminando eius materiam et ideo unicum verbum 
+            <lb ed="#P"/>est dicendum circa illud dubium
+          </p>
+          <p xml:id="ppra-l94-uneadm">
+            Utrum secundum proportionem statuum debeat esse proportio gratiae <pc type="punctus"/> ubi 
+            <lb ed="#P"/>notandum est quod in tota latitudinis perfectionis humanae datur infimus gradus perfectionis 
+            <lb ed="#P"/>et etiam suppremus secundum institutionem divinam <pc type="virgula">/</pc> unde infimius gradus vel gratia baptismalis 
+            <lb ed="#P"/>quae sufficit ad salutem et nullam minor gratia sufficit nam apparet quod in pueris noviter 
+            <lb ed="#P"/>baptizatis nullum transgrediuntur praeceptum et secuntur vitam aeternam <pc type="pilcrow"/> deinde gradi 
+            <lb ed="#P"/>superior poneretur secundum dispositionem hominis naturalem et gratuitam <pc type="virgula">/</pc> Et qui capacior esset 
+            <lb ed="#P"/>ingenio plus obligaretur deo in suis praeceptis ipsa tenendo <pc type="pilcrow"/> unde daretur aliqua creatura 
+            <lb ed="#P"/>rationalis habens ita remissum usum rationis quod confusissima cognitio et dilectio dei sufficeret 
+            <lb ed="#P"/>ad suam subiectum et forte hoc in aliquibus similibus personis habet locum quoniam ipsi non habent 
+            <lb ed="#P"/>cognitionem <unclear>nec</unclear> perfectionis de deo et nihilominus diligunt eum valde bene et sic poneretur 
+            <lb ed="#P"/>latitudo praeceptorum <pc type="virgula">/</pc> quia staret quod sortes amplius obligaretur deo in lege christiana 
+            <lb ed="#P"/>quam <name>plato</name> et hoc sine voto vel pacto speciali facto et tunc posset esse una latitudo personis 
+            <lb ed="#P"/>cadenter sub praecepto <pc type="virgula">/</pc> nec omnes obligantur aequaliter ut non omnes obligantur ad actum 
+            <lb ed="#P"/>fortitudinis <pc type="punctus"/> et ad patiendum martirium pro christo Etiam non omnes obligantur ad dilectionem
+            <lb ed="#P"/>inimicorum
+          </p>
+          <p xml:id="ppra-l94-uneidd">
+            <pc type="pilcrow"/> Ubi notandum est quod praeceptum videtur generale de dilectione proximi 
+            <lb ed="#P"/>igitur inimicus debet diligi
+          </p>
+          <p xml:id="ppra-l94-piuees">
+            <pc type="pilcrow"/> Pro isto ulterius est advertendum quod circa inimicum est duplex dilectio 
+            <lb ed="#P"/>Una qua optatur gratia et felicitas externa cuilibet viatori et hoc generali consideratione vel distinctione 
+            <lb ed="#P"/>et sub ista generali dilectione tenetur quis quemlibet deligere <pc type="pilcrow"/> Sed si occurrat inimicus secundum 
+            <lb ed="#P"/>rationem particularem tunc ipse non tenetur diligere eum in particulari sicut amicum <pc type="punctus"/> sed sufficit 
+            <lb ed="#P"/>quod ipse non habeat odimus vel actum repugnantem dilectioni generali proximi 
+            <lb ed="#P"/>Et inimicus diligendus est ex praecepto generali dilectione qua debemus creatura diligere 
+            <lb ed="#P"/>et in ipsam deum diligere Et si occurrat amicus sub ratione particulari praeter hoc 
+            <lb ed="#P"/>tenemur diligere ipsum et sibi subvenire sed de inimico non sic quod si quid faciat 
+            <lb ed="#P"/>scilicet quod quis diligat inimicum praeter generalem dilectionem et ei subveniat etc 
+            <lb ed="#P"/>illus opus est supererogationis et perfectionis ultra praecepta <pc type="pilcrow"/> Ad illud 
+            <lb ed="#P"/>tamen opus tenentur pastores sacrosanctae ecclesiae <pc type="pilcrow"/> Unde in pastoribus ecclesiae generaliter 
+            <lb ed="#P"/>debet esse contemptus sui propter deum et proximum Ideo dicebat salvator <ref xml:id="ppra-l94-Rd1e134" corresp="#l94-Qepbpos"><title ref="#io">iohannis</title> 10mo</ref> 
+            <lb ed="#P"/><pc type="pilcrow"/> <quote xml:id="ppra-l94-QBepbpos" source="http://scta.info/resource/io10_11">ego sum pastor bonus etc et bonus pastor est qui animam ponit pro ovibus suis</quote> <pc type="punctus"/> et quia 
+            <lb ed="#P"/>ibi loquitur de vita corporali <pc type="virgula">/</pc> igitur episcopus tenetur pro ovibus suis exponere vitam corporalem 
+            <lb ed="#P"/>quare tenetur eo ipso se morti exponere pro proximo <unclear>iu?do</unclear> et corporalem voluntatem abicere 
+            <lb ed="#P"/>et divitias pauperibus erogare eis subveniendo
+            <!-- below doesn't seem present in later edition -->
+            <pc type="virgula">/</pc> sed revera temporibus moderni 
+            <lb ed="#P"/>non fit mentio sed ad avaritiam et cupiditatem tota praelatorum versatur intentio 
+            <lb ed="#P"/>nec eorum ad hoc est elevata devotio <pc type="punctus"/> unde <unclear>pro tali</unclear> dolor et <unclear>dedecus</unclear> <pc type="punctus"/> Et quia tanta 
+            <lb ed="#P"/>regnat in eis cupiditas ideo necessario refrigescit omnimode caritas
+          </p>
+          <p xml:id="ppra-l94-eehpoc">
+            <pc type="pilcrow"/> Unde 
+            <lb ed="#P"/>ex hoc multa possent inferri <sic>correlaria</sic> sed dimittuntur brevitatis causa <pc type="pilcrow"/> Breviter 
+            <lb ed="#P"/>ex istis <sic>ex istis</sic> apparet de peccati gravitate praelatorum ceterorumque in potestatibus <unclear>constitutorum</unclear>
+            <lb ed="#P"/>oves per ire <del rend="strikethrough">crea</del> videntium <pc type="virgula">/</pc> non eis <del rend="strikethrough">dant</del> succurrentium <pc type="virgula">/</pc> nec dant eis 
+            <lb ed="#P"/>auxilium <pc type="virgula">/</pc> qui sine dubio sicut praefatum est tenentur eos <unclear>iu?re</unclear> <pc type="virgula">/</pc> Et etiam patet quomodo ipsi 
+            <lb ed="#P"/>obligantur ad aliquos gradus ultra nos simplices <pc type="virgula">/</pc> nam dicitur quod tanto gradus altior 
+            <lb ed="#P"/>tanto pena gravior <pc type="punctus"/> <pc type="pilcrow"/> Unde illa quae sunt consilii in latitudine inferiorum sunt praecepti in superioribus 
+            <lb ed="#P"/>praelatis et esset sic ordo ponendus quia summus pontifex tenetur habere suppremum gradum 
+            <lb ed="#P"/>caritatis et maxime tenetur animam pro ovibus ponere et tamquam servus adhibere pro ovium 
+            <lb ed="#P"/>conservatione
+          </p>
+          <p xml:id="ppra-l94-ecedmt">
+            <pc type="virgula">/</pc> Et consequenter episcopi inter lupos id est inimicos tenentur seminare verbum dei 
+            <lb ed="#P"/>et oves mortuas ab vitam aeternam reducere et hoc de mater caritatis 
+          </p>
+        </div>
+        <div xml:id="ppra-l94-Dxxxx1">
+          <head xml:id="ppra-l94-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l94-yxxxx3">
+            <lb ed="#P"/><pc type="pilcrow"/> Secuntur conclusiones supra distinctionem 3ii libri
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
