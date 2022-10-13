@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 80, de Caritate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 80, de Caritate [Bnf 3074 Transcription]</title>
+          <date when="2022-10-11">October 11, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-10-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="81-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio80">
+        <head xml:id="ppra-l80-Hldcldc">Lectio 80, de Caritate</head>
+        <div xml:id="ppra-l80-Dd1e109">
+          <head xml:id="ppra-l80-Hdmapdi">De modo attingendi Trinitatem per dona infusa</head>
+          <p xml:id="ppra-l80-phissi">
+            <lb ed="#P"/>Consequenter restat tractandum de modo attingendi trinitatem per bona caritatis diffusivae
+          </p>
+          <div xml:id="ppra-l80-Dd1e117">
+            <head xml:id="ppra-l80-Hrscrsc">Rationes contra</head>
+            <p xml:id="ppra-l80-epimev">
+              <lb ed="#P"/>Et ad materiam aperiendam rationes aliquae introducuntur contra fidei veritatem  
+            </p>
+            <p xml:id="ppra-l80-pecess">
+              sicut <name>epycurus</name> et 
+              <lb ed="#P"/>sui sequaces adducunt  
+            </p>
+            <p xml:id="ppra-l80-sipssp">
+              et etiam philosophi aliqui antiqui oppinantes quod virtutes ad hoc <unclear>falsitates</unclear> 
+              <lb ed="#P"/>sunt in <unclear>mea</unclear> <unclear>potestate</unclear> et ad felicitatem adquirendam sufficiunt et per consequens dona caritatis superfluerent <pc type="punctus"/> quare 
+              <lb ed="#P"/>sequitur contra fidem nostram
+            </p>
+            <p xml:id="ppra-l80-tipdgi">
+              <pc type="pilcrow"/> Item <name ref="#Pelagius">pelagius</name> et sui sequaces sive consentientes dixerunt vita aeternam 
+              <lb ed="#P"/>consequi ex puris naturalibus vel eo circa
+            </p>
+          </div>
+          <div xml:id="ppra-l80-Dd1e147">
+            <head xml:id="ppra-l80-Hrqenpc">Rationes quod ex puris naturalibus vitam aeternam nos posset consequi</head>
+            <p xml:id="ppra-l80-dardar">
+              <pc type="pilcrow"/>Deinde arguitur ratione sic 
+            </p>
+            <p xml:id="ppra-l80-pncifu">
+              <del rend="strikethrough">cupiditas</del> <add>caritas</add> est finitae <unclear>capacitatis</unclear>
+              <lb ed="#P"/>igitur potest esse aliquis alius super acquisitione virtutum mediata quo aliquis movebitur in ultimum finem igitur 
+            </p>
+            <p xml:id="ppra-l80-spisbp">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P"/>secundum <ref xml:id="ppra-l80-Rd1e162">philosophum</ref> 4or sunt genera virtutum quae politicae vocantur quae etiam ad vitam politicam requiruntur scilicet
+              <lb ed="#P"/>Aliae virtutes purgativae quae totaliter vincant passiones Aliae sunt quae nullum habent locum circa haec aliae sunt <unclear>p??</unclear> 
+              <lb ed="#P"/>igitur staret quod etc
+            </p>
+            <p xml:id="ppra-l80-tresei">
+              <pc type="pilcrow"/> Item arguitur ratione <name>sortes</name> facit quod in se est ad suam salutem igitur non 
+              <lb ed="#P"/>oportet habere caritatem et per consequens sine caritate potest <unclear>sortes</unclear> salvari consequentia tenet et antecedens patet quia hoc est in potestate 
+              <lb ed="#P"/>naturali
+              <!-- missing text here ?? -->
+            </p>
+            <!-- fuzzy paralle or break -->
+            <p xml:id="ppra-l80-qasasi">
+              <!-- missing text here ?? -->
+              <pc type="pilcrow"/> Confirmatur per <ref xml:id="ppra-l80-Rd1e205"><name>magistrum</name></ref> qui ponit creata non indigere dono creato gratia
+            </p>
+            <p xml:id="ppra-l80-cccrse">
+              <pc type="pilcrow"/>Item 
+              <lb ed="#P"/>si sic esset tunc caritas esset quoddam ens creatum et per consequens necessitat primam causam ad hoc quod 
+              <lb ed="#P"/>inducat in fluxum in causa inferiorem materia prima causa non necessitatur aliquo modo igitur etc
+            </p>
+            <p xml:id="ppra-l80-saqsmi">
+              <pc type="pilcrow"/>Item 
+              <lb ed="#P"/>si sic esset vel tunc caritas esset divisibilis sive indivisibilis non primum quia sicut omnes virtutes essent nec 2m <unclear>qui</unclear> 
+              <lb ed="#P"/>sicut est intensibilis ita remissibilis patet quoniam opposita hunc fieri circa idem si remissibilis tunc per veniale caritas 
+              <lb ed="#P"/>remitteretur <pc type="virgula">/</pc> sed hoc non
+            </p>
+            <p xml:id="ppra-l80-psqvmp">
+              nam staret aliquem plus mereri et tamen non plusquam infans noviter baptizatus 
+              <lb ed="#P"/>et deffunctus praemiari modo videtur hoc esse inconveniens et fidei repugnare <pc type="punctus"/> sed probatur consequentia nam stat quod 
+              <lb ed="#P"/>venialia tamen demeruit quod proportio multiplicatur scilicet quod plus meruerit venialia quam addiderint meritoria 
+              <lb ed="#P"/>per caritatem
+            </p>
+            <p xml:id="ppra-l80-sscded">
+              <pc type="pilcrow"/>Item sequeretur aliquem aeternaliter dampnati qui tamen nonquam peccasset consequens est absurdum probatur consequentia 
+              <pb ed="#P" n="82-r"/>
+              <lb ed="#P"/>nam posito casu quod sortes in quolibet instanti huius horae sit in gratia tunc faciliter deducere <unclear>e?</unclear> 
+            </p>
+            <p xml:id="ppra-l80-oscdss">
+              <lb ed="#P"/><pc type="pilcrow"/> Item si caritas esset intensibilis et remissibilis staret aliquem non iuste a deo praemiari secundum leges 
+              <lb ed="#P"/>nunc statutas 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l80-upqnps">
+              <pc type="virgula">/</pc> consequens est erroneum et probatur consequentia probando quod tota caritas sortis intendatur in ipso 
+              <lb ed="#P"/>tunc addatur quod immediate post hoc sortes desinat esse in caritate et plato sit in via caritas sine 
+              <lb ed="#P"/>gratia primi sit ut 10 et alterius ut 9 Tunc arguitur deducendo ad propositum etc
+            </p>
+            <p xml:id="ppra-l80-nscrsi">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P"/>si caritas esset intensibilis tunc si poneretur in subecto extenso redderet ipsum magis extensum 
+              <lb ed="#P"/>et per consequens secundum infinitum esse reduceretur tale intensum ergo etc
+            </p>
+            <p xml:id="ppra-l80-dschva">
+              <pc type="pilcrow"/> Item si sic tunc secundum <unclear>ordinem</unclear> 
+              <lb ed="#P"/>graduum deberet esse intensio caritatis igitur sic summi praelati summum obtineret gradum caritatis 
+              <lb ed="#P"/>sed haec non videtur pro tanto se qui igitur etc Et  scientia quod ista contingentia tangit materia statuum 
+              <lb ed="#P"/>videlicet de ordine status <unclear>gerargeri</unclear> et praelatorum
+            </p>
+            <!-- doesn't seem pressent
+              <p xml:id="ppra-l80-arpapm">
+              Aliae rationes possent adduci, 
+              sed inferius 
+              adducentur particularizando materiam.
+            </p>-->
+            <p xml:id="ppra-l80-ioepse">
+              <pc type="pilcrow"/> Ad oppositum tamen est decretalis quae dicit 
+              <lb ed="#P"/>quod in baptismo 3a dona caritatis infunduntur <pc type="virgula">/</pc> Et etiam ad hoc est unica ratio 
+              <lb ed="#P"/>quae sic est nam sicut unicus est finis humanas ita sufficit unus habitus ad praedicto igitur etc
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l80-Dxxxx1">
+          <head xml:id="ppra-l80-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l80-yxxxx3">
+            <lb ed="#P"/><pc type="pilcrow"/> Secuntur igitur conclusiones textuales super distinctionem 30am 2i libri <pc type="pilcrow"/> Prima contra <name>pelagium</name> qui 
+            <lb ed="#P"/>dicit quod originale peccatum in noviter natis non est ponendum et hoc est in alia lectione visum 
+            <lb ed="#P"/>tamen est sciendum quod sortitur ex habitudine parentum ad posteros sive filios
+          </p>
+          <p xml:id="ppra-l80-yxxxx4">
+            <pc type="pilcrow"/> Alia conclusio peccatum 
+            <lb ed="#P"/>originale non est culpa sed peccatum patet nam teste <name>gregorio</name> parvuli dampnatur per hoc nisi per baptismum 
+            <lb ed="#P"/>proserventur Queritur tamen utrum haec sit iustum vel iniustum <pc type="virgula">/</pc> dicitur quod nostra ymaginatio non 
+            <lb ed="#P"/>erit elevabilis satis in via ad hoc videndum sed in patria clarius videbimus licet ex habitudine creare 
+            <lb ed="#P"/>possit fundari aliqua ratio satis demonstrabilis
+          </p>
+          <p xml:id="ppra-l80-yxxxx5">
+            <pc type="pilcrow"/> Alia scilicet 3a in qua <name>magister</name> convertetur 
+            <lb ed="#P"/>nam dicit quod ad salvandum peccatum originale quod hoc non descendit per propagantionem ideo etc unde 
+            <lb ed="#P"/>modus suis ymaginandum consequenter non tenetur quoniam ymaginabitur quod generatio fit per decisionem 
+            <lb ed="#P"/>partium unde quod <name>adam</name> <pc type="virgula">/</pc> aliquid de sua propria substantia decidit et quilibet <pc type="punctus"/> et ex illa generatus est fetus 
+            <lb ed="#P"/><unclear>deim</unclear> adveniente <unclear>nuct?to</unclear> nihil <unclear>muct?t</unclear> transit sed aliqua certa portio substantiale et sic cibus non esset 
+            <lb ed="#P"/>de naturalitate naturae nec resurget in iudicio <pc type="virgula">/</pc> sed haec non communiter tenetur ymmo esset decidere 
+            <lb ed="#P"/>in philosophorum antiquorum errorem qui totum ad materiale principium reducebat
+          </p>
+          <p xml:id="ppra-l80-yxxxx6">
+            <pc type="pilcrow"/> Alia oppinio est 
+            <lb ed="#P"/><unclear>pro?is</unclear> <name>adam</name> est aliqua portio sumpta <pc type="virgula">/</pc> sed filius adiunxit a patre non tamen quidquid habet fuit in <name>adam</name> 
+            <lb ed="#P"/>unde <name>aristoteles</name> videtur velle quod semen non sit realiter pars hominis <pc type="punctus"/> sed nulla convertit <unclear>cybum</unclear> 
+            <lb ed="#P"/>in sanguinem sanguinis vero in augmentationem corporis et superfluum sanguinis in superna 
+          </p>
+          <p xml:id="ppra-l80-yxxxx7">
+            <pc type="pilcrow"/>Sed 
+            <lb ed="#P"/>nihilominus ex concupiscentia libidinosa habet quamdam qualitate quae fomes est peccati originalis etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

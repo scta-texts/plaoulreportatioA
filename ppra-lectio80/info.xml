@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio80">
+      <head xml:id="ppra-l80-Hldcldc">Lectio 80, de Caritate</head>
+      <div xml:id="ppra-l80-Dd1e109">
+        <head xml:id="ppra-l80-Hdmapdi">De modo attingendi Trinitatem per dona infusa</head>
+        <p xml:id="ppra-l80-phissi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80-phissi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-phissi"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l80-Dd1e117">
+          <head xml:id="ppra-l80-Hrscrsc">Rationes contra</head>
+          <p xml:id="ppra-l80-epimev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-epimev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-epimev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-pecess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-pecess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-pecess"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-sipssp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-sipssp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-sipssp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-tipdgi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-tipdgi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-tipdgi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l80-Dd1e147">
+          <head xml:id="ppra-l80-Hrqenpc">Rationes quod ex puris naturalibus vitam aeternam nos
+            posset consequi</head>
+          <p xml:id="ppra-l80-dardar">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-dardar"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-dardar"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-pncifu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-pncifu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-pncifu"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-spisbp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-spisbp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-spisbp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-tresei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-tresei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-tresei"/>
+            </assertions>
+          </p>
+          <!-- fuzzy paralle or break -->
+          <p xml:id="ppra-l80-qasasi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-qasasi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-qasasi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-cccrse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-cccrse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-cccrse"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-saqsmi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-saqsmi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-saqsmi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-psqvmp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-psqvmp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-psqvmp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-sscded">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-sscded"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-sscded"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-oscdss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-oscdss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-oscdss"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l80-upqnps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-upqnps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-upqnps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-nscrsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-nscrsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-nscrsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l80-dschva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-dschva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-dschva"/>
+            </assertions>
+          </p>
+          <!-- doesn't seem pressent
+              <p xml:id="ppra-l80-arpapm">
+              Aliae rationes possent adduci, 
+              sed inferius 
+              adducentur particularizando materiam.
+            </p>-->
+          <p xml:id="ppra-l80-ioepse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l80-ioepse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-ioepse"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l80-Dxxxx1">
+        <head xml:id="ppra-l80-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l80-yxxxx3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80yxxxx3-"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-yxxxx3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l80-yxxxx4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80-yxxxx4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-yxxxx4"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l80-yxxxx5">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80-yxxxx5"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-yxxxx5"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l80-yxxxx6">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80-yxxxx6"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-yxxxx6"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l80-yxxxx7">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l80-yxxxx7"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l80-yxxxx7"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
