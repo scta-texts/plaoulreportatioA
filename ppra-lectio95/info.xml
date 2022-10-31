@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio95">
+      <head xml:id="ppra-l95-Hldldld">Lectio 95, de Libertate</head>
+      <p xml:id="ppra-l95-cssepl">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l95-cssepl"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-cssepl"/>
+        </assertions>
+      </p>
+      <div xml:id="ppra-l95-Dd1e112">
+        <head xml:id="ppra-l95-Hulanap">Utrum liberum arbitrium possit necessitari ad
+          peccatum?</head>
+        <p xml:id="ppra-l95-qiqpsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l95-qiqpsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-qiqpsp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l95-Dd1e120">
+          <head xml:id="ppra-l95-Hrqsrqs">Rationes quod sic</head>
+          <div xml:id="ppra-l95-Dd1e125">
+            <head xml:id="ppra-l95-Hpropro">Prima ratio</head>
+            <p xml:id="ppra-l95-eapfvn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-eapfvn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-eapfvn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-lesifvn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-lesifvn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-lesifvn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-eoiraa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-eoiraa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-eoiraa"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-capccn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-capccn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-capccn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-scqscs">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-scqscs"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-scqscs"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e194">
+            <head xml:id="ppra-l95-Hsrosro">Secunda ratio</head>
+            <p xml:id="ppra-l95-sausav">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-sausav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-sausav"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e212">
+            <head xml:id="ppra-l95-trtrtr">Tertia ratio</head>
+            <p xml:id="ppra-l95-tadpae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-tadpae"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-tadpae"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-itadqf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-itadqf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-itadqf"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e237">
+            <head xml:id="ppra-l95-Hqrqrqr">Quarta ratio</head>
+            <p xml:id="ppra-l95-qasvbd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-qasvbd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-qasvbd"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-eeevbd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-eeevbd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-eeevbd"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e253">
+            <head xml:id="ppra-l95-Hqnrqnr">Quinta ratio</head>
+            <p xml:id="ppra-l95-qacmni">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-qacmni"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-qacmni"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-cvrhcn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-cvrhcn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-cvrhcn"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e281">
+            <head xml:id="ppra-l95-Hsxrsxr">Sexta ratio</head>
+            <p xml:id="ppra-l95-saanva">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-saanva"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-saanva"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e290">
+            <head xml:id="ppra-l95-Hsprspr">Septima ratio</head>
+            <p xml:id="ppra-l95-saonel">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-saonel"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-saonel"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l95-snudeb">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-snudeb"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-snudeb"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l95-Dd1e302">
+            <head xml:id="ppra-l95-Horooro">Octava ratio</head>
+            <p xml:id="ppra-l95-oaqecl">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l95-oaqecl"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-oaqecl"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l95-Dd1e319">
+          <head xml:id="ppra-l95-Hscasca">Sed contra</head>
+          <p xml:id="ppra-l95-ioalma">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l95-ioalma"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-ioalma"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l95-Dd1e352">
+          <head xml:id="ppra-l95-Hdqsdqs">Divisio quaestiones</head>
+          <p xml:id="ppra-l95-iimtao">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l95-iimtao"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l95-iimtao"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
