@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 96, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 96, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2022-10-31">October 31, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-10-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="95-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio96">
+        <head xml:id="ppra-l96-Hldlldl">Lectio 96, de Libertate</head>
+        <div xml:id="ppra-l96-Dd1e85">
+          <head xml:id="ppra-l96-Hdnfedp">De necessitate fidei defendere contra errores de fato, fortuna, et divina providentia</head>
+          <p xml:id="ppra-l96-admqfp">
+            <lb ed="#P"/>Pro declaratione materiae 
+            <lb ed="#P"/>sciendum est primo quod scutum fidei catholicae sufficit liberare animam et defendere contra errores gen<lb ed="#P"/>tilium 
+            in materia de fato et fortuna et divina providentia et de aliis ubi intellectus carens fide 
+            <lb ed="#P"/>mirabiliter vexatur <pc type="pilcrow"/> unde et mens humana fide destituta prostituitur erroribus et sicut 
+            <lb ed="#P"/>affectus sine caritate magis afficitur contrario sui finis quam fini proprio 
+          </p>
+          <p xml:id="ppra-l96-iieeev">
+            ita ymaginandum est de intellectu 
+            <lb ed="#P"/>non ducto lumine fidei quod ipse magis prostituitur erroribus et falsis apparentiis quam veris etc 
+            <lb ed="#P"/>potior via est firma fides quae intellectum liberat ab erroribus et vexationibus
+          </p>
+          <p xml:id="ppra-l96-sseqcs">
+            <pc type="pilcrow"/> 2o sciendum est 
+            <lb ed="#P"/>quod ex carentia fidei <unclear>pernicionissimi</unclear> errores habuerunt originem apud vulgus gentilium 
+            <lb ed="#P"/>et ex ignorantia philosophiae simul nam simplices videntes effectus mirabiles confinxerunt sibi infinitos 
+            <lb ed="#P"/>errores et pro causis huiusmodi effectuum philosophi admirantes inceperunt philosophari. Et 
+            <lb ed="#P"/>ex prima radice habuit ydolatria originem ut homines colerent creaturam pro creatore et 
+            <lb ed="#P"/>effectus mirabiles attribuerent vel soli vel lumine vel alicui elementorum vel fato vel fortunae 
+            <lb ed="#P"/>secundum varios modos imaginandi vias diversas apud indoctos
+          </p>
+          <p xml:id="ppra-l96-usqcsv">
+            <pc type="pilcrow"/> unde secundum quod legitur in 
+            <lb ed="#P"/>itinerario elementis ubi introducitur disputatus petri contra simonem magum <pc type="virgula">/</pc> narratur 
+            <lb ed="#P"/>ibidem quosdam coluisse strepitum ventris
+          </p>
+          <p xml:id="ppra-l96-ircrcf">
+            <pc type="pilcrow"/> Item romani colebant febre deum
+          </p> 
+          <p xml:id="ppra-l96-igpaes">
+            <pc type="pilcrow"/> Item 
+            <ref xml:id="ppra-l96-Rd1e156"><name rend="#WilliamOfParis">Guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de fide et legibus</title></ref> dicit quosdam barbaros <unclear>aquilonares</unclear> tamquam deum tonitruum
+            <lb ed="#P"/>colere propter mirabilitatem effectus illius apud eos ymmo et omnes species ydolatriae et supersti<lb ed="#P"/>tionum 
+            a vulgo indocto fide et philosophia carente videtur sumpsisse originem Et ideo 
+            <lb ed="#P"/>scribitur in <ref xml:id="ppra-l96-Rd1e196"> <title ref="#ps">psalmo</title></ref> <pc type="pilcrow"/> <quote xml:id="ppra-l96-Qmgdvcf" source="http://scta.info/resource/ps105_20">mutaverunt gloriam dei in similitudinem vituli comedentes fenum</quote> psalmo <unclear>cxn?mo 9o</unclear> 
+            <lb ed="#P"/>Et <ref xml:id="ppra-l96-Rd1e212"> <title ref="#rom">ad romanos</title> primo</ref> <pc type="pilcrow"/><quote xml:id="ppra-l96-Qmgiqes" source="http://scta.info/resource/rom1_23">mutaverunt gloriam incorruptibilem dei in similitudine=m ymaginis corruptibilis hominis et 
+            <lb ed="#P"/><sic>volucrum</sic> et quadrupedum et serpentum</quote>
+          </p>
+          <p xml:id="ppra-l96-enesec">
+            <pc type="pilcrow"/>Ubi notandum est quod nedum vulgus indoctus <pc type="punctus"/> sed 
+            <lb ed="#P"/>in philosophi ratione depressionis ingenii non fuerunt concordes imponendo deum quidam negaverunt 
+            <lb ed="#P"/>aliquem esse deum nisi praecise sensibilem et corporalem
+          </p>
+          <p xml:id="ppra-l96-apdiep">
+            alii posuerunt deum <pc type="punctus"/> sed variae <pc type="punctus"/> Et ideo 
+            <lb ed="#P"/>radix omnium errorum propter laesionem intellectus ratione culpae originalis Et ideo ipse intellectus 
+            <lb ed="#P"/>non sufficit elevari in illa quae concernunt ultimum finem <pc type="pilcrow"/>ubi est ulterius advertendum quod 
+            <lb ed="#P"/>subtilius philosophantes posuerunt unum principium et unum deum licet ipsi non convenirent in eius 
+            <lb ed="#P"/>proprietatibus
+          </p>
+          <p xml:id="ppra-l96-uneupc">
+            <pc type="pilcrow"/>Ubi notandum est quod iuxta fictiones vulgarium et philosophorum inventiones poetae supervenientes 
+            <lb ed="#P"/>delectationibus carminibus humanas descripserunt proprietates <pc type="pilcrow"/> ubi est advertendum quod ex hoc magnus error 
+            <lb ed="#P"/>insurrexit apud multos vulgares et literatos Nam ea quae poetae scripta sunt plures 
+            <lb ed="#P"/>ad litteram receperunt <pc type="punctus"/> Et sic de varietate et pluralitate varii varia scripserunt 
+            <lb ed="#P"/>Ideo posuerunt unum deum esse primum sequentes doctrinam <name ref="#Parmenides">parmenidis</name> qui posuit aquam esse 
+            <lb ed="#P"/>deum <pc type="virgula">/</pc> et alii posuerunt unum deum sequendo viam <name ref="#Aristotle">aristotelis</name> ponentis unam primam causam <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l96-cqeppd">
+            <lb ed="#P"/>Circa quod est advertendum quod secundum opinionem vocarii apud probabiliores poetae nominaverunt 
+            <lb ed="#P"/>primum principium demogorgon <pc type="pilcrow"/> Consequenter dixerunt quod habet chaos sibi coaeternum Et secundum veritatem 
+            <lb ed="#P"/>philosophiae non est aliud dicere nisi quod deus est simpliciter aeternus et est potentia rerum producibilium obiectiva 
+            <lb ed="#P"/>coaeterna Ita quod per chaos confusum poetae nihil aliud intellexerunt nisi potentiam obiectivam 
+            <lb ed="#P"/>rerum producibilium
+          </p>
+          <p xml:id="ppra-l96-dipeqc">
+            <pc type="pilcrow"/>Deinde ipsi ponunt quod demogorgon primo genuit litigium id est po<lb ed="#P"/>suit 
+            ordinem et distinctionem rerum et differentiam essentialem ipsarum <pc type="punctus"/> unde per litigium intelligitur 
+            <lb ed="#P"/>quaedam rerum imperitas cum actionibus distinctis <pc type="punctus"/> et quandoque contrariis <pc type="pilcrow"/> Consequenter posuerunt 
+            <lb ed="#P"/>quod demogorgon seu prima causa generat pau sororem litigii per quam intelligitur naturalis rerum 
+            <lb ed="#P"/>inscitus ad suas operationes exercendas
+          </p>
+          <p xml:id="ppra-l96-tpqecn">
+            <pc type="pilcrow"/> 3o posuerunt quod demogorgon generat iterum 3es filias 
+            <lb ed="#P"/>quas poetae vocant partas et <name ref="#Cicero">tullius</name> vocat eas fata scilicet clotho et atropos 
+            <pb ed="#P" n="96-r"/>
+            <lb ed="#P"/>per quas intelligitur naturae creatae proprietas et conditio naturalis
+          </p>
+          <p xml:id="ppra-l96-npcqva">
+            nam prima conditio rei 
+            <lb ed="#P"/>est quod producatur de non esse ad esse quod prima parta significat quae vocatur <name ref="#Clotho">cloto</name> <pc type="punctus"/> deinde natura rei 
+            <lb ed="#P"/>est quod non potest diu stare nec esse nisi conservetur saltim de creatura et illud significat alia parta 
+            <lb ed="#P"/>quae vocatur <name ref="#Lachesis">lachesis</name> <pc type="pilcrow"/> deinde illae res quae generantur tandem corrumpuntur saltem via naturali 
+            <lb ed="#P"/>et ideo ratio corruptionis rerum significatur per aliam partam quae vocatur <name ref="#Atropos">atropos</name>.
+          </p> 
+          <p xml:id="ppra-l96-eqafvp">
+            <pc type="pilcrow"/>Ex quo apparet quod per fatum 
+            <lb ed="#P"/>secundum veram philosophiam non intelligitur aliquid nisi proprietatem rei creatae <pc type="punctus"/> quibus reducuntur in suas 
+            <lb ed="#P"/>causas vel magis proprie per fatum intelliguntur proprietates requisitae ad rei creatae productionem 
+            <lb ed="#P"/>conservationem ac peryodicationem Et sic resolvendo fatum nullum est inconveniens concedere 
+            <lb ed="#P"/>fatum inter litteratos ubi simplicibus non praeberetur occasio cum gentilibus deficiendi et 
+            <lb ed="#P"/>errandi Et sic fatum nedum resolvitur ad causam finalem <pc type="punctus"/> sed reducitur ad genus causae 
+            <lb ed="#P"/>efficientis <pc type="virgula">/</pc> et ad concathenationem causarum efficientium <pc type="punctus"/> Sed de modo concatenationis 
+            <lb ed="#P"/>sunt variae oppiniones secundum quas fatum variae acciperetur nam aliqui resolvunt se ad divinam 
+            providentiam tamquam ad causam principalem quae aliquo modo fatum vocari potest
+          </p> 
+          <p xml:id="ppra-l96-arssec">
+            <pc type="pilcrow"/>Alii resolvunt se 
+            <lb ed="#P"/>ad causa secundas divinae providentiae subordinatas et concathenatas
+          </p>
+          <p xml:id="ppra-l96-arsapn">
+            <pc type="pilcrow"/>Alii resolvunt se mixti 
+            <lb ed="#P"/>ad divinam providentiam cum concathenatione causarum secundarium Et sic secundum varios modos est 
+            <lb ed="#P"/>intentio dicere de fato iuxta oppinionem <name ref="#Aristotle">philosophi</name> et <name ref="#Avicenna">avicennae</name> et aliorum philosophorum notabiliorum
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e429">
+          <head xml:id="ppra-l96-Hsodsrm">Sex opiniones de divina providentiae secundum Rabi Moyses</head>
+          <p xml:id="ppra-l96-cmddcs">
+            <lb ed="#P"/>Consequenter circa materiam divinae providentiae notandum est quod circa divinam providentiam 6 fuerunt opiniones 
+            <lb ed="#P"/>quas recitat <ref xml:id="ppra-l96-Rd1e290"><name ref="#Maimonides">Rabbi Moyses</name> in 3o libro <title ref="#GuideForThePerplexed">de duce <unclear>neu?orum</unclear> vel dubiorum</title> capitulo 17</ref>
+          </p>
+          <div xml:id="ppra-l96-Dd1e457">
+            <head xml:id="ppra-l96-Hpoapoa">Prima opinio antiquorum</head>
+            <p xml:id="ppra-l96-upoidb">
+              <pc type="pilcrow"/>Unde 
+              <lb ed="#P"/>prima opinio fuit antiquorum incipiens a tempore prophetarum dicentium quod a summo caelorum 
+              <lb ed="#P"/>usque ad terram quicquid contingit in universo mundo contingit simpliciter a casu <pc type="virgula">/</pc> Ita quod 
+              <lb ed="#P"/>isti imaginati sunt quod deus in seipso et de seipso sufficienter delectatur nec habet curam de rebus extrinsecis 
+              <lb ed="#P"/>sed effectus omnes qui fiunt sunt a casu et fiunt secundum causales applicationes rerum <pc type="virgula">/</pc> et isti 
+              <lb ed="#P"/>se resolvunt ad athomalia quae diverso modo combinata constituunt diversas species rerum 
+              <lb ed="#P"/>et istam viam dicit <name ref="#Maimonides">rabbi moyses</name> secuti sunt multi de populo <name ref="#Israel">israel</name> deinde blasphemantes
+            </p>
+            <p xml:id="ppra-l96-siodid">
+              <pc type="pilcrow"/> Sed 
+              <lb ed="#P"/>ista oppinio nedum est contra sacram scripturam seu doctrinam et fidem orthodoxam verum etiam contra philosophiam 
+              <lb ed="#P"/>nam quod sit suppremus princeps <pc type="punctus"/> et non curet de regimine pollitiae est veritati atque 
+              <lb ed="#P"/>sapientiae dissonum Ideo dicebat <ref xml:id="ppra-l96-Rd1e320"><name ref="#Aristotle">aristoteles</name></ref> <quote xml:id="ppra-l96-Qd1e512" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">entia nolunt male regi solus ergo princeps</quote>                
+              <lb ed="#P"/>Et ista via secutus est epycurus et sui sequaces <pc type="punctus"/> Sed quia posuit felicitatem consistere in 
+              <lb ed="#P"/>voluptatibus ideo ut voluptatibus locum daret dicit deum non curare de rebus quam oppinionem 
+              <lb ed="#P"/>impugnat <ref xml:id="ppra-l96-Rd1e340"><name ref="#Lactantius">Latentius</name> in libro super hoc editus <pc type="virgula">/</pc> qui intitulatur <title ref="#OnTheAngerOfGod">liber de ira dei</title></ref>
+            </p>
+          </div>
+          <div xml:id="ppra-l96-Dd1e540">
+            <head xml:id="ppra-l96-Hsoasoa">Secunda opinio Aristotelis</head>
+            <p xml:id="ppra-l96-soprup">
+              <lb ed="#P"/> <pc type="pilcrow"/>Secundam opinionem ponit <name ref="#Maimonides">rabbi moyses</name> fuisse <name ref="#Aristotle">aristotelis</name> quod multi non credunt scilicet quod deus 
+              <lb ed="#P"/>habet providentiam et curam singularem de tota caelesti essentia vel de 5ta essentia <pc type="virgula">/</pc> unde deus habet 
+              <lb ed="#P"/>singularem curam de corporibus caelestibus a summo caelo usque ad orbem lunae quantum ad species 
+              <lb ed="#P"/>et individua operationes et motus ideo illa sunt incorporalia sed infra concavum orbis lunae 
+              <lb ed="#P"/>scilicet in spera activorum et passivorum deus non habet curam nisi de speciebus quod conserventur et quod fiat 
+              <lb ed="#P"/>continuatio <pc type="virgula">/</pc> non curat tamen utrum per hoc vel hoc individuum Et propter curam quam habet respectu corporum 
+              <lb ed="#P"/>caelestium quantum ad species et individua ideo sunt aeterna <pc type="punctus"/> Et cum haec propter immediatam curam dei et quia habet 
+              <lb ed="#P"/>singularem curam in spera activorum et passivorum circa species ideo dicuntur aeternae <pc type="punctus"/> sed quia non habet 
+              <lb ed="#P"/>curam individuorum specialem ideo corporalia sunt et hic est ramus radicis de antiquitate mundi apud 
+              <lb ed="#P"/><name ref="#Aristotle">aristotelem</name> quia de quocumque deus habuit curam in particulari illud semper fuit est et erit nec permitteret deus 
+              <lb ed="#P"/>illud interire
+            </p>
+            <p xml:id="ppra-l96-seprup">
+              <pc type="punctus"/> Sed ex processu <name ref="#Aristotle">aristoteles</name> apparet quod non est verum quod ipse hanc opinionem tenuerit Et probatur ratione
+              <lb ed="#P"/>quia ut allegatum est in <ref xml:id="ppra-l96-Rd1e383"> 12mo <title ref="#Metaphysics">metaphysicae</title> <name ref="#Aristotle">Aristoteles</name></ref> loquitur dicens <quote xml:id="ppra-l96-Qd1e621" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">Entia nolunt male regi unus ergo princeps</quote>
+              <lb ed="#P"/>igitur deus est rector universalis pollitiae
+            </p>
+            <p xml:id="ppra-l96-sacsei">
+              <pc type="pilcrow"/>2o arguitur confirmando <pc type="virgula">/</pc> si imaginetur quod maior mundus sit ad modum animalis et species sint membra deus habet curam totius universi igitur habet curam partium 
+              <lb ed="#P"/>specierum et individuorum
+            </p>
+            <p xml:id="ppra-l96-tdpeop">
+              <pc type="pilcrow"/> 3o principaliter deus agit respectu cuiuscumque individui ad eius productionem 
+              <lb ed="#P"/>et conservationem, igitur cognoscit eum <pc type="punctus"/> antecedens apparet quia prima causa respectu cuiuscumque effectus prius influit 
+              <lb ed="#P"/>Et cum <name ref="#Aristotle">aristoteles</name> ponat primam causam in genere causae efficientis tunc cognoscit individua et non agit a casu quia agit 
+              <lb ed="#P"/>ut artifex summus igitur individua producit et ordinat principalissime
+            </p>
+            <p xml:id="ppra-l96-qacfnc">
+              <pc type="pilcrow"/>4to arguitur confirmando quonaim secundum <name ref="#Aristotle">philosophum</name> 
+              <lb ed="#P"/>instrumentalia dei regunt mundum inferiorem scilicet caelum intelligentiae et corpora caelestia regunt ista <unclear>inferiora</unclear> 
+              <lb ed="#P"/>modo cum instrumentum non agat nisi virtute causae cuius est instrumentum sequitur quod deus principaliter ductor instrumenti 
+              <lb ed="#P"/>quod dirigat caelum et particulariter influat in ista inferiora Et per consequens tollendo providentiam divinam respectu individuorum 
+              <lb ed="#P"/>secundum opinionem <name ref="#Aristotle">aristotelis</name> esset contra ipsummet quia videtur magis nostrae consonare
+            </p>
+          </div>
+          <div xml:id="ppra-l96-Dd1e688">
+            <head xml:id="ppra-l96-Htoptop">Tertio opinio</head>
+            <p xml:id="ppra-l96-toercs">
+              <pc type="pilcrow"/>3a opinio est quam <name ref="#Maimonides">rabbi moyses</name> 
+              <lb ed="#P"/>dicit esse mantorum quos ipse vocat <unclear>sentientes</unclear> et est talis scilicet quod nihil contingit a casu in isto universo nec
+              <pb ed="#P" n="96-v"/>
+              <lb ed="#P"/>quantum ad universalia nec quantum ad individua <pc type="punctus"/> et ista positio coincidit cum fide <unclear>materia</unclear> <pc type="virgula">/</pc> quia nihil fit 
+              <lb ed="#P"/>a casu respectu primae causae <pc type="punctus"/> sed tantummodo respectu causarum 2arium
+            </p>
+            <p xml:id="ppra-l96-sciiep">
+              <pc type="pilcrow"/>Sed tamen contra illam oppinionem arguit 
+              <lb ed="#P"/><name ref="#Maimonides">rabbi moyses</name> quoniam si esset vera tunc non esset differentia inter causam foliorum ab arbore et nativitatem 
+              <lb ed="#P"/>alicuius et breviter non esset differentia inter effectum parvum et notabilem vel magnum effectum et illud 
+              <lb ed="#P"/>est inconveniens <pc type="pilcrow"/> Respondetur quod positio habet concedere consequens et optime quia quantumcumque effectus sit 
+              <lb ed="#P"/>magnus vel parvus requirit dictum concursum et ille effectus ab aeterno qui evenit ab aeterno 
+              <lb ed="#P"/>ordinabatur et in mente divina providebatur Et ista positio est fidei consona <pc type="virgula">/</pc> et forte fuit 
+              <lb ed="#P"/>a fide catholica derivata <pc type="virgula">/</pc> nam iste qui recitat has opiniones fuit <name ref="#Jews">iudaeus</name> et regnavit 
+              <lb ed="#P"/>post christum incarnationem et passionem
+            </p>
+            <p xml:id="ppra-l96-saiqne">
+              <pc type="pilcrow"/> 2o arguit iste <name ref="#Maimonides">rabbi moyses</name> quoniam si illa positio esset vera tunc omnia futura 
+              <lb ed="#P"/>de necessitate evenient patet consequentia quia si deus ab aeterno praeordinavit casum folii oportet quod necessario eveniat.
+            </p>
+            <p xml:id="ppra-l96-sirccf">
+              <lb ed="#P"/>Sed iste respondet et recitat oppinionem illorum in respondendo quod omnis effectus in deum relati 
+              <lb ed="#P"/>necessario evenient quantum tamen ad causas particulares contingenter eveniret et sine dubio videtur quod responsio sit <ref xml:id="ppra-l96-Rd1e462"><name ref="#Boethius">boecii</name> 
+              <lb ed="#P"/>in 5o <title ref="#Consolation">de consolatione</title></ref> et etiam <ref xml:id="ppra-l96-Rd1e474"><name ref="#Aquinas">sancti thomae de aquino</name> in <title ref="#SummaTheologica">summa</title> sua</ref> ita quod consequentia est necessaria deus 
+              <lb ed="#P"/>praescit quod ita erit <pc type="virgula">/</pc> igitur ita erit et tamen est contingentia respectu nostri Ita quod haec consequentia est necessaria <mentioned><name ref="#Sortes">sortes</name> curret</mentioned> 
+              <lb ed="#P"/>igitur ipse movebitur Et quantum ad hoc positio est catholica si sit sensum bonum intellecta
+            </p> 
+            <p xml:id="ppra-l96-sifccf">
+              2o iste 
+              <lb ed="#P"/><name>rabbi moyses</name> facit unam consequentiam qua videtur ignorare qualiter praescientiae dei concordetur cum contingentia futurorum
+            </p>
+            <p xml:id="ppra-l96-iirqit">
+              <pc type="pilcrow"/>Item 
+              <lb ed="#P"/>ista ratio fieret evidenter contra eum in 6ta oppinionem quam ipse tenebit
+            </p>
+          </div>
+          <div xml:id="ppra-l96-Dd1e818">
+            <head xml:id="ppra-l96-Hqopquop">Quarta opinio</head>
+            <p xml:id="ppra-l96-qopmac">
+              <pc type="pilcrow"/>4a opinio ponit <name ref="#Maimonides">rabbi moyses</name> quam vocat 
+              <lb ed="#P"/>separatorum scilicet quod omnia quae fiunt <add place="above-line">generaliter fiunt</add> per sapientiam creatoris summi sive in caelestibus <pc type="punctus"/> sive in concavo 
+              <lb ed="#P"/>orbis lunae et hoc loquendo de effectibus positivis et non de privativis ut peccatum quia non fit per sapientiam 
+              <lb ed="#P"/>creatoris nec aliquo modo a creatore.
+            </p>
+            <p xml:id="ppra-l96-sdiili">
+              <pc type="pilcrow"/>2o dicit ista oppinio quod quicquid fit melius fit quam si non fieret patet 
+              <lb ed="#P"/>quia fit a summa sapientia igitur optime fit et ad illud reduceretur illud quod gentiles mirantur scilicet quod bonos 
+              <lb ed="#P"/>mala <unclear>praemiunt</unclear> praemia virtutum malique rapiunt <pc type="pilcrow"/>Unde diceretur quod eo ipso quod fit a summa sapientia 
+              <lb ed="#P"/>optime fit et iuste nam isti dicunt quod si iustus laedatur et malus exaltetur quod melius fit quam 
+              <lb ed="#P"/>si non fieret et totum resolvitur ad divinam sapientiam omnia iuste et debite ordinantem <pc type="pilcrow"/>dicitur tamen quod regula 
+              <lb ed="#P"/>boni et iustitiae non debet resolvi ad nostram <del>instantionem</del> rationem sed ad immensam dei rationem et iustitiam quae 
+              <lb ed="#P"/>est regula infallibilis <pc type="virgula">/</pc> Et ideo qualiter agat deus agat non debemus dicere quod sit contra rationem nec debemus arguere 
+              <lb ed="#P"/>haec non apparet bonum quod iste bonus homo patiatur calumpniam igitur non debet pati <pc type="punctus"/> Etiam non apparet nobis iustum 
+              <lb ed="#P"/>quod puer decedens sine baptismo dampnetur igitur non debet dampnari <pc type="pilcrow"/> Exemplum habemus de viliore servitore 
+              <lb ed="#P"/>regis si deberet aliquid iudicare in consilio apparet sibi quod rex male ageret in <del rend="strikethrough">quibus</del> multis quibus 
+              <lb ed="#P"/>iustificatione iudicaret et hoc est quia causa talis iudicii latet ipsum
+            </p> 
+            <p xml:id="ppra-l96-sorcdm">
+              <pc type="pilcrow"/>2o opposita radix est mala scilicet resolvere 
+              <lb ed="#P"/>bonam rerum dispositionem propter habitudinem quam habent inter se et non ad divinam rationem et ordinationem 
+              <lb ed="#P"/><pc type="pilcrow"/> unde debemus ymaginari quod bonum est aliquid fieri quia deus sic ordinat et causa est quia si ordo rerum 
+              <lb ed="#P"/>haberet rationem prioritatis respectu dei sequeretur quod deus necessitaretur sequi ordinem rerum <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia ordo 
+              <lb ed="#P"/>de se bonus est igitur deus non deberet aliter ordinare vel aliquid deordinare <pc type="virgula">/</pc> nam hoc 
+              <lb ed="#P"/>esset incidere in fatum <pc type="virgula">/</pc> et quia non poneretur prioritas in sapientia divina oporteret concedere quod deus non posset 
+              <lb ed="#P"/>ordinare aliter quam sit ordinatum nunc autem dicunt aliqui quod si deus ab aeterno ordinavit 
+              <lb ed="#P"/>creaturas alias insipienter egisset <pc type="virgula">/</pc> Et hoc oppinantes audivi aure propria <pc type="punctus"/> sed salva eorum 
+              <lb ed="#P"/>gratia hoc non videtur verum quoniam bonitas rerum sequitur divinam providentiam sive sapientiam et non econverso 
+              <lb ed="#P"/>nam posset salvari quod innocens perpetuo cruciaretur et tamen hoc esset contra divinam misericordiam
+            </p> 
+            <p xml:id="ppra-l96-iqpsnp">
+              <lb ed="#P"/><pc type="pilcrow"/> Item salvaretur quod parvuli nascantur in peccato originali et sine baptismo decedentes dampnantur 
+              <lb ed="#P"/>hoc mirantur quia non videmus dispositionem esse bonam tanta bonitate quanta bona est Et 
+              <lb ed="#P"/>in hoc iustitia dei latet nos quare sequitur quod ista oppinio 4ta realiter cum vera theologia et fide catholica 
+              <lb ed="#P"/><pc type="pilcrow"/> unde dicunt isti quod melius est innocens pati quam si non pateretur
+            </p>
+            <p xml:id="ppra-l96-tmefdp">
+              <pc type="pilcrow"/> <sic>2o</sic> melius est ei quia 
+              <lb ed="#P"/>patitur ad maius praemium <unclear>consentiendum</unclear> et recipiendum Et sic salvatur cum fide divina providentia
+            </p>
+          </div>
+          <div xml:id="ppra-l96-Dd1e944">
+            <head xml:id="ppra-l96-Hqoiquoi">Quinta opinio Iudaeorum</head>
+            <p xml:id="ppra-l96-qoesqm">
+              <pc type="pilcrow"/> 5a oppinio est <name ref="#Jews">iudaeorum</name> quae resolvit se ad naturalia cuiuslibet speciei <pc type="punctus"/> Ita quod sicut homo exercet suas operationes 
+              <lb ed="#P"/>ita aliae species animalium Et videtur dicere ista oppinio quod generaliter providentia omnium est in hac quod deus 
+              <lb ed="#P"/>reddet unicuique secundum quod meruerit et allegatur in scriptura videlicet super illo passu <quote source="http://scta.info/resource/ps24_10">universae 
+              <lb ed="#P"/>viae domini iudicia</quote> Et ex hoc dicunt quod deus reddet unicuique iuxta opera sua Et quando 
+              <lb ed="#P"/>dicitur de innocentibus qui multa mala patiuntur Ista opinio dicit quod deus nonquam faceret 
+              <lb ed="#P"/>innocentem pati nisi demeruisset <pc type="punctus"/> sed sua demerita latent nos <pc type="punctus"/> <pc type="pilcrow"/>De malis autem qui 
+              <lb ed="#P"/>exaltantur et habent multa bona temporalia dicit oppinio quod non haberent aliquam prosperitatem 
+              <lb ed="#P"/>nisi propter sua merita <pc type="punctus"/> sed illa etiam latent nos <pc type="pilcrow"/> unde stat bene illos quos infames 
+              <lb ed="#P"/>reputamus per sua merita quae sunt nobis ignota exaltari <pc type="pilcrow"/>Sed quicquis ista oppinio non bene 
+              <lb ed="#P"/>consonat experientiae ut de innocentibus quos fecit <name ref="#Herod">herodes</name> <unclear>aliae?mgenita sive ascalo?ti</unclear> interfici
+              <pb ed="#P" n="97-r"/>
+              <lb ed="#P"/>in nativitate salvatoris christi
+            </p>
+            <p xml:id="ppra-l96-sidfnm">
+              <pc type="pilcrow"/> 2o etiam de summe virtuosis qui quidam passi sunt penas acerbissimas 
+              <lb ed="#P"/>ut videlicet de <name ref="#Socrates">socrate</name> qui fuit interfectus et <name ref="#Plato">plato</name> captus <pc type="punctus"/> et <name ref="#Pompey">pompeius</name> qui pro iustitia 
+              <lb ed="#P"/>certabat mortuus est ut <name ref="#Lactantius">latencius</name> ait et <name ref="#JuliusCaesar">caesar nero</name> qui tyrannus erat fuit 
+              <lb ed="#P"/>exaltatus et reganvit et tamen nonquam bonum fecit nec meruit <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l96-Dd1e1028">
+            <head xml:id="ppra-l96-Hsororm">Sexta opinio Rabi Moyse</head>
+            <p xml:id="ppra-l96-soesda">
+              <pc type="pilcrow"/> 6a oppinio est <name ref="Maimonides">rabbi moyses</name>
+              <lb ed="#P"/>quae concordat cum <name ref="#Aristotle">aristotele</name> in hoc quod ait quod omnium quae fiunt in corporibus caelestibus sive sint 
+              <lb ed="#P"/>species sive individua deus habet curam specialem differunt tamen in hoc quia dicit quod deus habet curam specialem 
+              <lb ed="#P"/><unclear>individuarum</unclear> existentium infra spera activorum et passivorum scilicet tantum <unclear>individuarum</unclear> speciei humanae <pc type="punctus"/> et non aliarum 
+              <lb ed="#P"/>Ita quod ipse dicit deus habet curam in particular de hominibus et non de individuis aliarum 
+              <lb ed="#P"/>specierum Et allegat scripturam <quote source="http://scta.info/resource/hebr2_6@9-15">Quis est homo quod memor es eius</quote> etc <pc type="pilcrow"/> Sed quicquid 
+              <lb ed="#P"/>dicat contra suam opinionem sunt multae auctoritates quibus probaretur evidenter quomodo deus 
+              <lb ed="#P"/>habet curam de omnibus sive de hominibus sive de aliis aequaliter
+            </p>
+            <p xml:id="ppra-l96-ptfmip">
+              <pc type="pilcrow"/> Positio tamen fidei diceret quod deus ex 
+              <lb ed="#P"/>sua libertate regit mundum <pc type="punctus"/> Ex qua nullam ponit necessitatem <pc type="pilcrow"/> Sed ista materia alibi suo loco 
+              <lb ed="#P"/>declarabitur et videbitur deo dante quomodo salvaretur contingentia effectuum cum inmutabilitate primae causae 
+              <lb ed="#P"/>et istud dicetur magis in particulari
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

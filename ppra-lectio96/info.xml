@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio96">
+      <head xml:id="ppra-l96-Hldlldl">Lectio 96, de Libertate</head>
+      <div xml:id="ppra-l96-Dd1e85">
+        <head xml:id="ppra-l96-Hdnfedp">De necessitate fidei defendere contra errores de fato,
+          fortuna, et divina providentia</head>
+        <p xml:id="ppra-l96-admqfp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-admqfp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-admqfp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-iieeev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-iieeev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-iieeev"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-sseqcs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sseqcs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sseqcs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-usqcsv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-usqcsv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-usqcsv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-ircrcf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-ircrcf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-ircrcf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-igpaes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-igpaes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-igpaes"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-enesec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-enesec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-enesec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-apdiep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-apdiep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-apdiep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-uneupc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-uneupc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-uneupc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-cqeppd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-cqeppd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-cqeppd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-dipeqc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-dipeqc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-dipeqc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-tpqecn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-tpqecn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-tpqecn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-npcqva">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-npcqva"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-npcqva"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-eqafvp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-eqafvp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-eqafvp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-arssec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-arssec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-arssec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l96-arsapn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-arsapn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-arsapn"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l96-Dd1e429">
+        <head xml:id="ppra-l96-Hsodsrm">Sex opiniones de divina providentiae secundum Rabi
+          Moyses</head>
+        <p xml:id="ppra-l96-cmddcs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l96-cmddcs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-cmddcs"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l96-Dd1e457">
+          <head xml:id="ppra-l96-Hpoapoa">Prima opinio antiquorum</head>
+          <p xml:id="ppra-l96-upoidb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-upoidb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-upoidb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-siodid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-siodid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-siodid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e540">
+          <head xml:id="ppra-l96-Hsoasoa">Secunda opinio Aristotelis</head>
+          <p xml:id="ppra-l96-soprup">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-soprup"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-soprup"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-seprup">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-seprup"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-seprup"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sacsei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sacsei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sacsei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-tdpeop">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-tdpeop"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-tdpeop"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-qacfnc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-qacfnc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-qacfnc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e688">
+          <head xml:id="ppra-l96-Htoptop">Tertio opinio</head>
+          <p xml:id="ppra-l96-toercs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-toercs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-toercs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sciiep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sciiep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sciiep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-saiqne">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-saiqne"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-saiqne"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sirccf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sirccf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sirccf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sifccf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sifccf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sifccf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-iirqit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-iirqit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-iirqit"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e818">
+          <head xml:id="ppra-l96-Hqopquop">Quarta opinio</head>
+          <p xml:id="ppra-l96-qopmac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-qopmac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-qopmac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sdiili">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sdiili"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sdiili"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sorcdm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sorcdm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sorcdm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-iqpsnp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-iqpsnp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-iqpsnp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-tmefdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-tmefdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-tmefdp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e944">
+          <head xml:id="ppra-l96-Hqoiquoi">Quinta opinio Iudaeorum</head>
+          <p xml:id="ppra-l96-qoesqm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-qoesqm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-qoesqm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-sidfnm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-sidfnm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-sidfnm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l96-Dd1e1028">
+          <head xml:id="ppra-l96-Hsororm">Sexta opinio Rabi Moyse</head>
+          <p xml:id="ppra-l96-soesda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-soesda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-soesda"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l96-ptfmip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l96-ptfmip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l96-ptfmip"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

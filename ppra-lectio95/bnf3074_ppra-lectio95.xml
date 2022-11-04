@@ -115,7 +115,7 @@
               <p xml:id="ppra-l95-tadpae">
                 3o arguitur deus praecognoscit omnia futura et iudicat illa forae et illud iudicium est immutabile 
                 <lb ed="#P"/>et simpliciter <del rend="strikethrough">impossibile</del> infallibile igitur necesse est sic fore <pc type="virgula">/</pc> consequentia tenet antecedens pro prima parte oportet quia omnia nuda sunt 
-                <lb ed="#P"/>et aperta in oculis eius <pc type="punctus"/> sed pro 2a parte apparet quoniam ille est apud quem non est transmutatio nec vicissi<lb ed="#P"/>tudinis 
+                <lb ed="#P"/>et aperta in oculis eius <pc type="punctus"/> sed pro 2a parte apparet quoniam ille est apud quem non est transmutatio nec vicissi<lb ed="#P" break="no"/>tudinis 
                 <del rend="strikethrough">operatio</del> obumbratio Et alibi ait <quote>Ego sum deus et non mutor</quote> <pc type="pilcrow"/> Consimiliter arguitur de 
                 <lb ed="#P"/>determinatione divinae voluntatis quae ab aeterno fuit et est efficax igitur nullo modo potest aliter evenire
               </p>
@@ -130,7 +130,7 @@
               <head xml:id="ppra-l95-Hqrqrqr">Quarta ratio</head>
               <p xml:id="ppra-l95-qasvbd">
                 <pc type="pilcrow"/>4o arguitur sic deus animae christi revelavit omnia futura contingentia et 
-                <lb ed="#P"/>impossibile est quod decipiat eam igitur necesse est sic evenire prima pars antecedentis est <name ref="#Lombard">magister</name> in 3o di<lb ed="#P"/>stinctione 
+                <lb ed="#P"/>impossibile est quod decipiat eam igitur necesse est sic evenire prima pars antecedentis est <name ref="#Lombard">magister</name> in 3o di<lb ed="#P" break="no"/>stinctione 
                 <lb ed="#P"/>14ma ubi dicit quod anima christi novit omnia quae verbum 2a apparet quia impossibile est ex parte dei fallere 
                 <lb ed="#P"/>aliquem ratione suae bonitatis immensae 
               </p>
