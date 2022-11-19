@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio99">
+      <head xml:id="ppra-l99-ldlldl">Lectio 99, de Libertate</head>
+      <div xml:id="ppra-l99-Dd1e109">
+        <head xml:id="ppra-l99-Hpcppif">Propositiones circa prima principales radix pro inventione
+          fati</head>
+        <p xml:id="ppra-l99-deppap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-deppap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-deppap"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l99-Dd1e119">
+          <head xml:id="ppra-l99-Hppcaor">Prima Propositio</head>
+          <head xml:id="ppra-l99-Hd1e124" type="question-title">Creatura rationalis magis inclinant
+            ad malum</head>
+          <p xml:id="ppra-l99-pqcihf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-pqcihf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-pqcihf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-ipcafm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-ipcafm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-ipcafm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-ppdiab">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-ppdiab"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-ppdiab"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-spdpie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-spdpie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-spdpie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e185">
+          <head xml:id="ppra-l99-Hpcvqab">Primum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e190" type="question-title">Voluntas magis inclinatur ad malum
+            quam ad bonum</head>
+          <p xml:id="ppra-l99-eisued">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eisued"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eisued"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e197">
+          <head xml:id="ppra-l99-Hscramf">Secundum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e202" type="question-title">Radix inclinationum ad multas
+            fallibilitates</head>
+          <p xml:id="ppra-l99-ssrqpc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-ssrqpc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-ssrqpc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e222">
+          <head xml:id="ppra-l99-Htcrccl">Tertium corollarium</head>
+          <head xml:id="ppra-l99-Hd1e227" type="question-title">Radix facilitatis ad credendum
+            contra christi legem</head>
+          <p xml:id="ppra-l99-tsricr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-tsricr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-tsricr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e234">
+          <head xml:id="ppra-l99-Hqcqsqn">Quartum corollarium: quod idolatria sit quodammodo
+            naturalis</head>
+          <p xml:id="ppra-l99-qsqrpf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-qsqrpf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-qsqrpf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-spifaq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-spifaq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-spifaq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-speapd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-spifaq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-spifaq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-eqafar">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eqafar"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eqafar"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-qreecc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-qreecc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-qreecc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e303">
+          <head xml:id="ppra-l99-Hqccisa">Quintum corollarium: causa introductionis sacrilegarum
+            artium</head>
+          <p xml:id="ppra-l99-eqsils">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eqsils"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eqsils"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e315">
+          <head xml:id="ppra-l99-Hscqiss">Sextum corollarium: Quare plures student in sanctis
+              <unclear>super[?]</unclear></head>
+          <p xml:id="ppra-l99-ehpddf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-ehpddf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-ehpddf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e332">
+          <head xml:id="ppra-l99-Hscqfqt">Septimum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e337" type="question-title">Quare maior est multitudo non
+            tenentium fidem quam tentium</head>
+          <p xml:id="ppra-l99-eehsmd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eehsmd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eehsmd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e344">
+          <head xml:id="ppra-l99-Hocqfia">Octavum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e349" type="question-title">Quare est facilitas introductionis
+            antichristi</head>
+          <p xml:id="ppra-l99-eqaela">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eqaela"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eqaela"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e357">
+          <head xml:id="ppra-l99-Hncrdfm">Nonum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e362" type="question-title">Radix facilitatis introductionis de
+            facto mendacii</head>
+          <p xml:id="ppra-l99-eeifvi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eeifvi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eeifvi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l99-Dd1e372">
+          <head xml:id="ppra-l99-Hdcqfed">Decimum corollarium</head>
+          <head xml:id="ppra-l99-Hd1e377" type="question-title">Quare facilius credit vulgus
+            fortunam esse deam</head>
+          <p xml:id="ppra-l99-eehcps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eehcps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eehcps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l99-ussetr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l99-ussetr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-ussetr"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l99-Dd1e394">
+        <head xml:id="ppra-l99-Hsrppif">Secunda radix principalis pro inventione fati</head>
+        <p xml:id="ppra-l99-srpdpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-srpdpp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-srpdpp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l99-riaatd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-riaatd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-riaatd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l99-eaphrd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-eaphrd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-eaphrd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l99-Dd1e433">
+        <head xml:id="ppra-l99-Htrppif">Tertia radix principalis pro inventione fati</head>
+        <p xml:id="ppra-l99-amfspt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-amfspt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-amfspt"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l99-pqndgd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-pqndgd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-pqndgd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l99-qaildd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l99-qaildd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l99-qaildd"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

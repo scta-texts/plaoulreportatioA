@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio97">
+      <head xml:id="ppra-l97-Hldldld">Lectio 97, de Libertate</head>
+      <div xml:id="ppra-l97-Dd1e109">
+        <head xml:id="ppra-l97-Hdciedp">De connexio inter fatum et divina providentia</head>
+        <p xml:id="ppra-l97-adddpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l97-adddpd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-adddpd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l97-sqscis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sqscis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sqscis"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l97-Dd1e142">
+          <head xml:id="ppra-l97-Hpoqfen">Prima Opinio: Quod fatum est nihil</head>
+          <p xml:id="ppra-l97-eionep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eionep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eionep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e151">
+          <head xml:id="ppra-l97-Hsoqsai">Secunda opinio: quod divina providentia extendit se ad
+            incorruptibilia</head>
+          <p xml:id="ppra-l97-sooiem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sooiem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sooiem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-ucrhea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-ucrhea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-ucrhea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-eromev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eromev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eromev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-sircso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sircso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sircso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-sircXY">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sircXY"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sircXY"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-nqacod">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-nqacod"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-nqacod"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e214">
+          <head xml:id="ppra-l97-Hoaffav">Origo acceptationis fati a vulgari</head>
+          <p xml:id="ppra-l97-ahvvaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-ahvvaf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-ahvvaf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-pcmfia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-pcmfia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-pcmfia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-secaei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-secaei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-secaei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-tmevqm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-tmevqm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-tmevqm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e254">
+          <head xml:id="ppra-l97-Htmdtmd">Tres modos deceptionis</head>
+          <p xml:id="ppra-l97-univsn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-univsn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-univsn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e263">
+          <head xml:id="ppra-l97-Hrieire">Radix idolatriae</head>
+          <p xml:id="ppra-l97-eihiec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eihiec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eihiec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-eehher">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eehher"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eehher"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e293">
+          <head xml:id="ppra-l97-Hdcfdcf">De causa fati</head>
+          <p xml:id="ppra-l97-eqavan">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eqavan"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eqavan"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e302">
+          <head xml:id="ppra-l97-Hoeieif">opinio errans iulii firmici</head>
+          <p xml:id="ppra-l97-saorep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-saorep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-saorep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-epppfi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-epppfi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-epppfi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-sioebe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sioebe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sioebe"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e385">
+          <head xml:id="ppra-l97-Hoeaerb">Omnia eveniunt a casu vel ex necessitate et responsio
+            Boethius</head>
+          <p xml:id="ppra-l97-iertim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-iertim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-iertim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-eirilp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eirilp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eirilp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-prepvn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-prepvn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-prepvn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-srqivr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-srqivr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-srqivr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-icimia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-icimia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-icimia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-tsqqve">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-tsqqve"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-tsqqve"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-qcstct">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qcstct"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qcstct"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l97-qcqdbt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qcqdbt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qcqdbt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l97-Dd1e468">
+          <head xml:id="ppra-l97-Hdmadma">De mala</head>
+          <div xml:id="ppra-l97-Dd1e473">
+            <head xml:id="ppra-l97-Hqbmcsb">Quare bonis mala contingant secundum Boethium</head>
+            <p xml:id="ppra-l97-sqbcbr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sqbcbr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sqbcbr"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-pnpsmp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-pnpsmp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-pnpsmp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-sdalee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sdalee"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sdalee"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-tefivp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-tefivp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-tefivp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-qaranc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qaranc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qaranc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-qpdptp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qpdptp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qpdptp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l97-Dd1e538">
+            <head xml:id="ppra-l97-Hqbcass">Quod bonum contingat malis pertinent ad summam
+              sapientiam</head>
+            <p xml:id="ppra-l97-sqmemu">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-sqmemu"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-sqmemu"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-pqqsbt">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-pqqsbt"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-pqqsbt"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-spdeam">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-spdeam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-spdeam"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-tqhacb">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-tqhacb"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-tqhacb"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-qdmcap">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qdmcap"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qdmcap"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-udelne">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-udelne"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-udelne"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l97-Dd1e566">
+            <head xml:id="ppra-l97-Hcbpcbp">Cur boni patiuntur</head>
+            <p xml:id="ppra-l97-qapemp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-qapemp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-qapemp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l97-Dd1e578">
+            <head xml:id="ppra-l97-Hrmsrms">Responsio magis speculative</head>
+            <p xml:id="ppra-l97-nirsad">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-nirsad"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-nirsad"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-peqocr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-peqocr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-peqocr"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-acebos">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-acebos"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-acebos"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l97-eictes">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l97-eictes"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l97-eictes"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
