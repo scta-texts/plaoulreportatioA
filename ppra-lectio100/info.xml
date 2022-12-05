@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio100">
+      <head xml:id="ppra-l100-Hldlldl">Lectio 100, de Libertate</head>
+      <div xml:id="ppra-l100-Dd1e109">
+        <head xml:id="ppra-l100-Hccpccp">Circa corruptelam peccati</head>
+        <p xml:id="ppra-l100-apmitd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l100-apmitd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-apmitd"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l100-Dd1e117">
+          <head xml:id="ppra-l100-Hrqeepc">Rationes quod errores mores ac malas cogitationes ex
+            peccati corruptela</head>
+          <div xml:id="ppra-l100-Dd1e122">
+            <head xml:id="ppra-l100-Hpropro">Prima ratio</head>
+            <p xml:id="ppra-l100-eiapep">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-eiapep"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-eiapep"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l100-Dd1e146">
+            <head xml:id="ppra-l100-Hsrosro">Secunda ratio</head>
+            <p xml:id="ppra-l100-saeoli">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-saeoli"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-saeoli"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l100-Dd1e158">
+            <head xml:id="ppra-l100-Htrotro">Tertia ratio</head>
+            <p xml:id="ppra-l100-taaefc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-taaefc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-taaefc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l100-echded">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-echded"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-echded"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l100-Dd1e207">
+            <head xml:id="ppra-l100-Hqroqro">Quarta ratio</head>
+            <p xml:id="ppra-l100-qaapvs">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-qaapvs"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-qaapvs"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l100-eceppi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-eceppi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-eceppi"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l100-Dd1e253">
+            <head xml:id="ppra-l100-Hqnrqnr">Quinta ratio</head>
+            <p xml:id="ppra-l100-qaalsp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-qaalsp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-qaalsp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l100-Dd1e277">
+            <head xml:id="ppra-l100-Hsxrsxr">Sexta ratio</head>
+            <p xml:id="ppra-l100-seuepo">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-seuepo"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-seuepo"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l100-sedrae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-sedrae"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-sedrae"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l100-tedehn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-tedehn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-tedehn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l100-iihaid">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l100-iihaid"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-iihaid"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l100-Dd1e314">
+          <head xml:id="ppra-l100-Hormorm">Opinio Rabbi Moyses</head>
+          <p xml:id="ppra-l100-eirsho">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-eirsho"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-eirsho"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-ssqmis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-ssqmis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-ssqmis"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-tscmie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-tscmie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-tscmie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-qspouc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-qspouc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-qspouc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-qspscc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-qspscc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-qspscc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l100-Dd1e400">
+          <head xml:id="ppra-l100-Hocecer">Obiecto <unclear>caldaeis[?]</unclear> et
+            responsio</head>
+          <p xml:id="ppra-l100-scaavc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-scaavc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-scaavc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-rqcien">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-rqcien"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-rqcien"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-siccol">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-siccol"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-siccol"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-eehhfv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-eehhfv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-eehhfv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l100-Dd1e467">
+          <head xml:id="ppra-l100-Haoeoer">Alia obiectio et responsio</head>
+          <p xml:id="ppra-l100-cdival">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-cdival"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-cdival"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-rqnneo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-rqnneo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-rqnneo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l100-Dd1e482">
+          <head xml:id="ppra-l100-Haoraor">Alia obiectio et responsio</head>
+          <p xml:id="ppra-l100-scoesi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-scoesi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-scoesi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-sdaape">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-sdaape"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-sdaape"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-svrrci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-svrrci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-svrrci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l100-unebpe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l100-unebpe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l100-unebpe"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
