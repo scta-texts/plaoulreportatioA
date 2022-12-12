@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio101">
+      <head xml:id="ppra-l101-Hldlldl">Lectio 101, de Libertate</head>
+      <div xml:id="ppra-l101-Dd1e109">
+        <head xml:id="ppra-l101-Hd1e111">Quod corruptela peccati originalis est originem omnis artis
+          superstitiosae</head>
+        <p xml:id="ppra-l101-sdeiac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-sdeiac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-sdeiac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-usidvq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-usidvq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-usidvq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-unqcnh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-unqcnh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-unqcnh"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l101-eiaicr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-eiaicr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-eiaicr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-sseiac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-sseiac"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-sseiac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-tqusvd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-tqusvd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-tqusvd"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l101-spasda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-spasda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-spasda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-eqccfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-eqccfm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-eqccfm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l101-eehcfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l101-eehcfm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-eehcfm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l101-Dd1e185">
+        <head xml:id="ppra-l101-Hnotlia">Notabilia</head>
+        <div xml:id="ppra-l101-Dd1e190">
+          <head xml:id="ppra-l101-Hpqssvv">Primum: quod semper vincit veritas</head>
+          <p xml:id="ppra-l101-cpdism">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-cpdism"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-cpdism"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l101-Dd1e205">
+          <head xml:id="ppra-l101-Hsqphla">Secundum: quod providentia praemissus est artes magicae
+            ut mens humiliter legem acceptaret</head>
+          <p xml:id="ppra-l101-pqsefn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-pqsefn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-pqsefn"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l101-d1e213">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-d1e213"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-d1e213"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-ehehif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-ehehif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-ehehif"/>
+            </assertions>
+          </p>
+          <!--
+              doesn't seem present
+              <p xml:id="ppra-l101-eehhla">
+              Et ex hoc apparet quod deus voluit ab initio mundi[?] 
+              quod non esset evidens probatio fidei nostrae 
+              ut mens humiliter legem acceptaret.
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="ppra-l101-Dd1e227">
+        <head xml:id="ppra-l101-Hceccec">Circa effectus contingentes</head>
+        <div xml:id="ppra-l101-Dd1e232">
+          <head xml:id="ppra-l101-Hoaaoaa">Opinio Avicenna</head>
+          <p xml:id="ppra-l101-nethup">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-nethup"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-nethup"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-echpns">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-echpns"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-echpns"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-siioei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-siioei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-siioei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-ucicol">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-ucicol"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-ucicol"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-ihaahc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-ihaahc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-ihaahc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l101-Dd1e289">
+          <head xml:id="ppra-l101-Hasoaso">alia (secunda) opinio</head>
+          <p xml:id="ppra-l101-ariepf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-ariepf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-ariepf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-ncieme">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-ncieme"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-ncieme"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-uicaec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-uicaec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-uicaec"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l101-Dd1e313">
+          <head xml:id="ppra-l101-Hatoato">Alia (tertia) opinio</head>
+          <p xml:id="ppra-l101-toeser">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-toeser"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-toeser"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-siieaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-siieaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-siieaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-tiitme">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-tiitme"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-tiitme"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l101-qiqsis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-qiqsis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-qiqsis"/>
+            </assertions>
+          </p>
+          <!-- not sure p break is needed here -->
+          <p xml:id="ppra-l101-iqasis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-iqasis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-iqasis"/>
+            </assertions>
+          </p>
+          <!-- not sure p break is needed here -->
+          <p xml:id="ppra-l101-asvnpp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-asvnpp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-asvnpp"/>
+            </assertions>
+          </p>
+          <!--
+              doesn't seem present 
+              <p xml:id="ppra-l101-asvqhe">
+              Aliae 
+              sunt voces quae prolatae pro quocumque tempore vel in quocumque 
+              habent efficientiam.
+            </p>-->
+          <p xml:id="ppra-l101-annicc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l101-annicc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l101-annicc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l101-Dxxxx1">
+        <head xml:id="ppra-l101-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l101-xxxxx1">
+
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

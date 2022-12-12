@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 101, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 101, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2022-12-09">December 09, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-12-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="102-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio101">
+        <head xml:id="ppra-l101-Hldlldl">Lectio 101, de Libertate</head>
+        <div xml:id="ppra-l101-Dd1e109">
+          <head xml:id="ppra-l101-Hd1e111">Quod corruptela peccati originalis est originem omnis artis superstitiosae</head>
+          <p xml:id="ppra-l101-sdeiac">
+            <lb ed="#P"/>Consequenter circa materiam de fatis et de corrupteal peccati originalis advertendum est 
+            <lb ed="#P"/>quod ex ipsa corruptela omnes artes sortilegae initium habere <pc type="virgula">/</pc> Et secundum etiam quod 
+            <lb ed="#P"/>variant elementa varias artes constituerunt <pc type="pilcrow"/> unde geomantia dicitur age quod est terra 
+            <lb ed="#P"/>nam a principio fuit ars introducta sed post ea supervenientes <unclear>pautiores<!-- correction --></unclear> considerantes ipsius scientiae 
+            <lb ed="#P"/>radicem <pc type="punctus"/> huiusmodi artem scientificam in armoniam caelestem resolverunt <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l101-usidvq">
+            <pc type="pilcrow"/> Unde secundum eos 
+            <lb ed="#P"/>suspensa omni deliberatione in particulari et secundum primos motus a caelo provenientes in punctorum proiectione 
+            <lb ed="#P"/>secundum figuras proicit secundum <sic>arten</sic> constitutas ex quantitate punctorum quae quidem <unclear>figurae</unclear> repraesentant ad 
+            <lb ed="#P"/>proportionem caeli Et sic omnes effectus mundi relucent in caelo quare tunc ex <unclear>figura</unclear> caeli <unclear>veniet</unclear> 
+            <lb ed="#P"/>effecto <unclear>figurae</unclear> geomantiae in istis inferioribus secundum ymaginationem illorum de ista arte superstitiosa <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l101-unqcnh">
+            <lb ed="#P"/><pc type="pilcrow"/> Ubi ulterius advertendum est quod tota superstitio magica vel fraus sive dyabolus nihil confert
+            <lb ed="#P"/>sed per consensum plures operantur quando deceptores plures inter se conveniunt Et potest esse quod <name ref="#Sortes">sortes</name> 
+            <lb ed="#P"/>furetur aliquid <pc type="virgula">/</pc> et <name ref="#Plato">plato</name> magicus dicit optime de furto per consensum et hoc tangit <name ref="#RogerBacon">bacon</name> 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l101-eiaicr">
+            <lb ed="#P"/><pc type="pilcrow"/> Unde tales gentium deceptores solent de ipsorum statu perquirere <pc type="virgula">/</pc> et sic <name>plato</name> ignorante 
+            <lb ed="#P"/>inquirunt et iudicabunt de altissimis negotiis et ut a vulgo magis credantur 
+            <lb ed="#P"/>fingunt horas certae constellationis ut animi simplicium in admiratione provocetur 
+            <lb ed="#P"/>et sic dant responsa deceptis <pc type="pilcrow"/> unde <name ref="#Albert">albertus</name> quod tales superstitiones veram 
+            <lb ed="#P"/>astrologiam infamaverunt et fraudulenti ad ipsa apparentiam sumpserunt <pc type="punctus"/> nam quod geomantia 
+            <lb ed="#P"/>in caelestem resolvatur armoniam nullam est apparentia quoniam geomantici praesupponunt dare 
+            <lb ed="#P"/>responsionem scilicet utrum <name>clemens</name> sit papa vel <name>bonefacius</name> vel <unclear>tunc</unclear> sed constat quod tales 
+            <lb ed="#P"/>effectus deppendent ab humana voluntate vel divina et ergo sic in caelo non possit relucere
+          </p> 
+          <p xml:id="ppra-l101-sseiac">
+            <pc type="pilcrow"/> Item 
+            <lb ed="#P"/>in eadem constellatione et eadem hora variae figurae eveniunt in deciorum proiectione et per consequens 
+            <lb ed="#P"/>non correspondent adaequate figurae caeli
+          </p>
+          <p xml:id="ppra-l101-tqusvd">
+            <pc type="pilcrow"/> Item cessatio a punctorum proiectione est secundum dispositionem 
+            <lb ed="#P"/>corporalem videlicet manus mote igitur stat unum iacere numerum parem vel imparem <pc type="virgula">/</pc> quare 
+            <lb ed="#P"/>sequitur quod sic dicere quod in caelo talis operatio reluceat non est fas nec videtur habere fundamentum 
+            <lb ed="#P"/>ymmo videtur voluntarie dictum
+          </p> 
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l101-spasda">
+            <pc type="pilcrow"/> Sed dicitur breviter quod in talibus sola resolutio stat 
+            <lb ed="#P"/><unclear>est</unclear> ille habitus pravus contrarius iustitiae originali qui respectu omnium malorum est quaedam apparentia 
+            <lb ed="#P"/>respectu etiam sui obiecti Et sic tota apparentia illarum artium resolvitur ut est dictum nec in alia 
+            <lb ed="#P"/>radice fundantur unde quantum ad intellectum et voluntatem est quaedam corruptela mentis humanae 
+            <lb ed="#P"/>quantum ad potentiam cognitivam et affectivam etc 
+          </p>
+          <p xml:id="ppra-l101-eqccfm">
+            Ex qua radice consurgit quod virtutes ad humanam 
+            <lb ed="#P"/>vitam particulares per haec obfuscantur 
+          </p> 
+          <p xml:id="ppra-l101-eehcfm">
+            <pc type="virgula">/</pc> Et hoc satis habetur de moyse virtuoso dei <unclear>ze?la?re</unclear> 
+            <lb ed="#P"/>qui miracula per virgam faciens <pc type="punctus"/> magi pharaonis per suam magicam artem similia 
+            <lb ed="#P"/>fecerunt <pc type="punctus"/> <pc type="pilcrow"/> Similiter artes apostolorum <name>petri</name> et <name>pauli</name> per <name ref="#SimonMagician">simonem magum</name> obfuscate fuerunt 
+          </p>
+        </div>
+        <div xml:id="ppra-l101-Dd1e185">
+          <head xml:id="ppra-l101-Hnotlia">Notabilia</head>
+          <div xml:id="ppra-l101-Dd1e190">
+            <head xml:id="ppra-l101-Hpqssvv">Primum: quod semper vincit veritas</head>
+            <p xml:id="ppra-l101-cpdism">
+              <lb ed="#P"/><pc type="pilcrow"/>Circa hoc tamen notandum sunt duo <pc type="punctus"/> primum est quod non obstante falsitate et malitia semper vincit 
+              <lb ed="#P"/>veritas nam <name ref="#MagiOfPharaoh">magi pharaonis</name> deffecerunt in 3o signo <pc type="pilcrow"/> Similiter <name ref="#SimonMagician">simon magus</name> 
+              <lb ed="#P"/>in attestationem legis
+            </p>
+          </div>
+          <div xml:id="ppra-l101-Dd1e205">
+            <head xml:id="ppra-l101-Hsqphla">Secundum: quod providentia praemissus est artes magicae ut mens humiliter legem acceptaret</head>
+            <p xml:id="ppra-l101-pqsefn">
+              <pc type="virgula">/</pc> 2m est <pc type="punctus"/> quoniam divina providentia permissum est ut artes sortilegae 
+              <lb ed="#P"/>vigerent 
+            </p> 
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l101-d1e213">
+              <pc type="virgula">/</pc> cum mirabilis sanctorum ut potius fides christianissima probaretur et auctoritatem 
+              <lb ed="#P"/>maiorem consequeretur <pc type="virgula">/</pc> quia fides non introducitur nisi denominative vera <unclear>praevia</unclear> cum humilitate 
+              <lb ed="#P"/>debita
+            </p> 
+            <p xml:id="ppra-l101-ehehif">
+              <pc type="pilcrow"/> Et ista est causa quare species sub quibus verum corpus christi continetur habent omnees 
+              <lb ed="#P"/>operationes quas haberet verus panis nam sicut ex pane alterato generaretur vermis 
+              <lb ed="#P"/>ex observatione magna ita etc <pc type="punctus"/> Nam contrario dato apparabit nostrae fidei evidens probatio 
+              <lb ed="#P"/>Et ergo sic decuit ut fides per humilitatem intraret <pc type="punctus"/>
+            </p>
+            <!--
+              doesn't seem present
+              <p xml:id="ppra-l101-eehhla">
+              Et ex hoc apparet quod deus voluit ab initio mundi[?] 
+              quod non esset evidens probatio fidei nostrae 
+              ut mens humiliter legem acceptaret.
+            </p>-->
+          </div>
+        </div>
+        <div xml:id="ppra-l101-Dd1e227">
+          <head xml:id="ppra-l101-Hceccec">Circa effectus contingentes</head>
+          <div xml:id="ppra-l101-Dd1e232">
+            <head xml:id="ppra-l101-Hoaaoaa">Opinio Avicenna</head>
+            <p xml:id="ppra-l101-nethup">
+              <pc type="pilcrow"/> Ulterius est advertendum quod omnes 
+              <lb ed="#P"/>effectus continentes quidam philosophi voluerunt reducere ad causas pure naturales non concedendo 
+              <lb ed="#P"/>esse per daemonum illusionem vel suggestionem <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l101-echpns">
+              <pc type="pilcrow"/> Unde <name ref="#Avicenna">Avicenna</name> in 6to <title>naturalium</title>
+              <lb ed="#P"/>ut recitat <name ref="#Albert">albertus</name> in <title>parvis naturalibus</title> ymaginatus est animam esse ultimam intelligentiarum 
+            </p>
+            <p xml:id="ppra-l101-siioei">
+              <pc type="pilcrow"/> 2o quod ipsa anima non impediti vel per malitiam complexionois vel per habitus malos 
+              <lb ed="#P"/>ipsam deprimentes a afficientem ad res viles sed magis habituata amore et desi<lb ed="#P"/>derio 
+              efficitur tantae virtutis auctoritatis et activitatis quod omnia corpora infra concavum orbis lunae 
+              <lb ed="#P"/>existentia obediunt <unclear>eidem</unclear> realiter et eius imperio subduntur   
+            </p>
+            <p xml:id="ppra-l101-ucicol">
+              et contra dicit quod anima potest esse 
+              <lb ed="#P"/>tantae activitatis et virtutis quod videatur esse <unclear>quoddam</unclear> verbum incarnatum
+            </p>
+            <p xml:id="ppra-l101-ihaahc">
+              <pc type="virgula">/</pc> Et sic consequenter concedit 
+              <lb ed="#P"/>quod anima potest facere <unclear>plure</unclear> et elementa alterari <pc type="punctus"/> etc Et sic reduceret omnia mirabilia in operatione 
+              <pb ed="#P" n="102-v"/>
+              <lb ed="#P"/>animae nobilis imperant cui tota materia obedit sic Et etiam salvaret per haec quod una anima 
+              <lb ed="#P"/>posset supra animam ratione <unclear>ma?ris</unclear> bonitatis vel virtutis <pc type="virgula">/</pc> Et breviter omnes machinationes ad hoc 
+              <lb ed="#P"/>reducit
+            </p>
+          </div>
+          <div xml:id="ppra-l101-Dd1e289">
+            <head xml:id="ppra-l101-Hasoaso">alia (secunda) opinio</head>
+            <p xml:id="ppra-l101-ariepf">
+              <pc type="pilcrow"/>Alii vero ad influentias calestes
+            </p>
+            <p xml:id="ppra-l101-ncieme">
+              <pc type="pilcrow"/> Unde notant quod omnia mirabilia in istis 
+              <lb ed="#P"/>inferioribus contingentia proveniunt a caelo notando quod sunt stellae et planatae diversarum proprietatum 
+              <lb ed="#P"/>ratione quorum talia consurgunt Et est unum caelum alterius proportionaliter <pc type="virgula">/</pc> et aliud alterius fortitudo signa 
+              <lb ed="#P"/>vel respicientia <del rend="strikethrough">et sic</del> ex quibus proveniunt diversa opera <pc type="punctus"/> sicut de capite saturni observatione debita 
+              <lb ed="#P"/>praevia imprimitur virtus in fetum dicendi <pc type="virgula">/</pc> vel etc 
+            </p>
+            <p xml:id="ppra-l101-uicaec">
+              Et sic effectus salvarentur pro huiusmodi 
+              <lb ed="#P"/>et <unclear>la?tas</unclear> et stellas <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l101-Dd1e313">
+            <head xml:id="ppra-l101-Hatoato">Alia (tertia) opinio</head>
+            <p xml:id="ppra-l101-toeser">
+              <pc type="pilcrow"/> 3a oppinio scilicet <name>alkindi</name> in libro de radiis stellicis cuius ymaginatio 
+              <lb ed="#P"/>coincidit cum prima dicit quod totus mundus est plenus radiis <pc type="punctus"/> et quaelibet res multiplicat 
+              <lb ed="#P"/>suas species
+            </p> 
+            <p xml:id="ppra-l101-siieaa">
+              <pc type="virgula">/</pc> ymaginatur 2o quod caelum continet omnes res in istis inferioribus existentes
+            </p>
+            <p xml:id="ppra-l101-tiitme">
+              <pc type="pilcrow"/> Ulterius 
+              <lb ed="#P"/>ymaginatur quod homo est minor mundus aequivalenter 
+            </p>
+            <p xml:id="ppra-l101-qiqsis">
+              <pc type="virgula">/</pc> deinde quod homo operatur mediante ymaginatione 
+              <lb ed="#P"/>desiderio <pc type="virgula">/</pc> Et consequenter mediante voce expressa <pc type="punctus"/> Consequenter voces habet radios mediante desiderio
+              <lb ed="#P"/>et ymaginatione et habent proportionem ad caelum 
+            </p> 
+            <!-- not sure p break is needed here -->
+            <p xml:id="ppra-l101-iqasis">
+              sicut signo arietis 
+            </p>
+            <!-- not sure p break is needed here -->
+            <p xml:id="ppra-l101-asvnpp">
+              vel tauri <pc type="virgula">/</pc> et sic de aliis
+              <pc type="pilcrow"/> Ulterius ymaginatur quod ultimo prolatae habent suam efficientiam aliae non nisi pluries 
+              <lb ed="#P"/>prolatae
+            </p>
+            <!--
+              doesn't seem present 
+              <p xml:id="ppra-l101-asvqhe">
+              Aliae 
+              sunt voces quae prolatae pro quocumque tempore vel in quocumque 
+              habent efficientiam.
+            </p>-->
+            <p xml:id="ppra-l101-annicc">
+              <pc type="virgula">/</pc> Et sic ex istis radicibus solvit sortilegia et sic refertur hoc ad caelum 
+              <lb ed="#P"/>desiderium et voces expressas <pc type="punctus"/> secundum quod sunt quo ad haec applicatae <pc type="virgula">/</pc> et de ista consideratione 
+              <lb ed="#P"/>videbitur deo dante in lectione sequente
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l101-Dxxxx1">
+          <head xml:id="ppra-l101-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l101-xxxxx1">
+            <pc type="pilcrow"/> Sequitur 8va distinctio supra 3m librum videlicet quod concedendum est 
+            <lb ed="#P"/>quod deus factus est homo et homo deus quia una <sic>susistentia</sic> facta est alia utroque tamen remanente termino 
+            <lb ed="#P"/>nam homo incepti esse deus <pc type="punctus"/> et potest desinere esse deus <pc type="virgula">/</pc> et ex consequenti concedit magister quod 
+            <lb ed="#P"/>ille homo qui est christus incepit esse et potest <unclear>desineri</unclear> <pc type="virgula">/</pc> et sic ille praedestinatus est ut esset verus 
+            <lb ed="#P"/>deus <pc type="punctus"/> <pc type="virgula">/</pc> Sed tamen alia oppinio non concederet quod ille huius inciperet esse <pc type="virgula">/</pc> quia supponit pro illo 
+            <lb ed="#P"/>verbo et est unica susitentia nec est praedestinatus nisi quia habeat nullam praedestinatam <pc type="virgula">/</pc> Et 
+            <lb ed="#P"/>sic resolutio est quod talis homo sit factus ita quod est deus <pc type="punctus"/> nec possibile est quod duae res concurrentes 
+            <lb ed="#P"/>ydemptice debetur et sic finis lectionis istius lectae quando recessus a patria <unclear>ma</unclear> die <unclear>mercur</unclear> 
+            <lb ed="#P"/>post quasi modo geniti etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
