@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio103">
+      <head xml:id="ppra-l103-ldlldl">Lectio 103, de Libertate</head>
+      <div xml:id="ppra-l103-Dd1e109">
+        <head xml:id="ppra-l103-Hrdaadp">Responsio de aliis duabus positionibus</head>
+        <p xml:id="ppra-l103-rdapda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l103-rdapda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-rdapda"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l103-Dd1e117">
+          <head xml:id="ppra-l103-Hqmeids">Quod mirabiles effectus contingentes reducit in
+            dispositionem siderium</head>
+          <p xml:id="ppra-l103-ueqmeo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-ueqmeo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-ueqmeo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l103-Dd1e129">
+          <head xml:id="ppra-l103-Hcoqids">Contra opinio quod mirabiles effectus contingentes
+            reducit in dispositionem siderium</head>
+          <p xml:id="ppra-l103-chavpf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-chavpf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-chavpf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-saseac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-saseac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-saseac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-tacdso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-tacdso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-tacdso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-qamaen">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-qamaen"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-qamaen"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-qhmuai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-qhmuai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-qhmuai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-sfsiea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sfsiea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sfsiea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-eaheef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sfsiea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sfsiea"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l103-Dd1e204">
+          <head xml:id="ppra-l103-Hoaioai">Opinio Alkindi</head>
+          <p xml:id="ppra-l103-spaeda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-spaeda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-spaeda"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-pcdqie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-pcdqie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-pcdqie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-pdqroi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-pdqroi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-pdqroi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-sqssaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sqssaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sqssaa"/>
+            </assertions>
+          </p>
+          <!-- fuzzy prallel here; possible missing text -->
+          <p xml:id="ppra-l103-tdtvcc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-tdtvcc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-tdtvcc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-qdaera">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-qdaera"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-qdaera"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l103-eianep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-eianep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-eianep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-qdqoem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-qdqoem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-qdqoem"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l103-Dd1e263">
+          <head xml:id="ppra-l103-Hpdodoa">Particularior declaratio opinionis Alkindi</head>
+          <p xml:id="ppra-l103-pcpqaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-pcpqaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-pcpqaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-sdhgec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sdhgec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sdhgec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-tdreai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-tdreai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-tdreai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-qdecrs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-qdecrs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-qdecrs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-csivsl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-csivsl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-csivsl"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l103-Dd1e333">
+          <head xml:id="ppra-l103-Hcoacoa">Contra opinionem Alkindi</head>
+          <p xml:id="ppra-l103-ipeiva">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-ipeiva"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-ipeiva"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-sqmfsd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sqmfsd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sqmfsd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-uneidp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-uneidp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-uneidp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-esisid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-esisid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-esisid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l103-ssedne">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-ssedne"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-ssedne"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l103-sqqoed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l103-sqqoed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l103-sqqoed"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l103-Dxxxx1">
+        <head xml:id="ppra-l103-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l103-Xxxxx3">
+        </p>
+        <p xml:id="ppra-l103-Xxxxx4">
+        </p>
+        <p xml:id="ppra-l103-Xxxxx5">
+        </p>
+        <p xml:id="ppra-l103-Xxxxx6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

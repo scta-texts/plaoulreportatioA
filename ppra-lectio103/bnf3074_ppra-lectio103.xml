@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 103, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 103, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2022-12-24">December 24, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-12-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="103-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio103">
+        <head xml:id="ppra-l103-ldlldl">Lectio 103, de Libertate</head>
+        <div xml:id="ppra-l103-Dd1e109">
+          <head xml:id="ppra-l103-Hrdaadp">Responsio de aliis duabus positionibus</head>
+          <p xml:id="ppra-l103-rdapda">
+            <lb ed="#P"/>Consequenter circa materiam praetactam restant solvendae duae rationes quorum 
+          </p>
+          <div xml:id="ppra-l103-Dd1e117">
+            <head xml:id="ppra-l103-Hqmeids">Quod mirabiles effectus contingentes reducit in dispositionem siderium</head>
+            <p xml:id="ppra-l103-ueqmeo">
+              prima reducit effectus 
+              <lb ed="#P"/>hic inferius evenientes ad caeli dispositionem et ipsius armoniam corporoumque celestium 
+              <lb ed="#P"/>influentiam tamquam ad causam totalem ad haec sufficientem <pc type="pilcrow"/> unde consequenter tenet quod in certa 
+              <lb ed="#P"/>hora ymago metallina fabricata et composita retinet a syderibus et planetis impressione 
+              <lb ed="#P"/>sive influentiam naturalem <pc type="punctus"/> nocentem vel iuvantem scilicet praedicendi futura et revelandi 
+              <lb ed="#P"/>occulta sicut dicit de capite saturni quod quidem si debite observata hora fabricetur 
+              <lb ed="#P"/>ymago metallina habebit dividendi occulta
+            </p>
+          </div>
+          <div xml:id="ppra-l103-Dd1e129">
+            <head xml:id="ppra-l103-Hcoqids">Contra opinio quod mirabiles effectus contingentes reducit in dispositionem siderium</head>
+            <p xml:id="ppra-l103-chavpf">
+              <pc type="pilcrow"/> Sed contra hoc arguitur sic et prima facie non 
+              <lb ed="#P"/>est dubium haec esse contra fidei veritatem <pc type="punctus"/> Tamen rationibus arguitur sit primo sibi ratione averrois contra avicennam 
+              <lb ed="#P"/>de generatione animalium post diliuvium Tenet enim <name>avicena</name> quod post diluvium animalia imperfecta 
+              <lb ed="#P"/>quae sine aquis <del rend="strikethrough">non</del> possunt vivere possunt de novo produci sicut de mure vel etiam quae non 
+              <lb ed="#P"/>sine aquis sicut esset anguilla vel alio modo simile animal <add place="above-line"><unclear>sive ????</unclear></add> Et similiter videtur <name xml:id="ppra-l103-Nd1e142" ref="#Plato">plato</name> satis hoc velle 
+              <lb ed="#P"/>nam dicit quod deus creavit senientem id est virtutem seminalem primum quodque individuum pro<lb ed="#P"/>ducentem 
+              et vocat sementem deorum quam tradidit stellis ad incorporandum et exequendum 
+              <lb ed="#P"/>unumquodque individuum secundum suam speciem <pc type="pilcrow"/> Unde et ipse <name>avicena</name> et <name>plato</name> videntur hoc reducere 
+              <lb ed="#P"/>ad corpora celestia <pc type="pilcrow"/> Sed <name>averroys</name> contrarium arguit et haec sit primo in perfectis In quibus est tanta 
+              <lb ed="#P"/>organizatio et tanta diversitas quod non videtur ea posse generari sine seminis infusione et 
+              <lb ed="#P"/>in matrice conservatione ipsum semen <unclear>continente</unclear> igitur non stat hominem vel aliud animal perfectum 
+              <lb ed="#P"/>sine semine <pc type="virgula">/</pc> et ex constellatione caeli generari <pc type="virgula">/</pc> et per consequens a fortiori non stat in aliquo 
+              <lb ed="#P"/>metallo esse vis prophetandi et secreta revelandi patet quoniam hic est maior effectus quam 
+              <lb ed="#P"/>animalis productio loquendo sicut dictum est 
+            </p>
+            <p xml:id="ppra-l103-saseac">
+              <pc type="pilcrow"/>2o si sic tunc seape animal perfectum sine semine 
+              <lb ed="#P"/>a solis planetis generaretur patet quia <unclear>contin?tus</unclear> similes constellationes saepe reiterari igitur animalia 
+              <lb ed="#P"/>perfecta sic generarentur quod videtur absurdum <pc type="pilcrow"/> Simile ratione de virtute prophetica diceretur 
+              <lb ed="#P"/>et arguitur sic nam si talis virtus imprimeretur in huiusmodi metalla ita et in lapidem igitur 
+              <lb ed="#P"/>etc consequens tamen est falsum igitur et antecedens et consequentia patet quia non est maior ratio de uno quam de alio
+            </p>
+            <p xml:id="ppra-l103-tacdso">
+              <pc type="pilcrow"/> 3o corpora 
+              <lb ed="#P"/>caelestia non producere potest intellectum igitur nec imprimere in metalla vim <unclear>prophetandi</unclear> 
+              <lb ed="#P"/>quod est de excedentibus operationibus
+            </p>
+            <p xml:id="ppra-l103-qamaen">
+              <pc type="pilcrow"/>4o metallum non est organizatum nec flexibile igitur 
+              <lb ed="#P"/>non habet virtutem talem
+            </p>
+            <p xml:id="ppra-l103-qhmuai">
+              <pc type="pilcrow"/> 5o huiusmodi ymago metallina non vivit ergo nec loquitur 
+              <lb ed="#P"/>consequentia tenet antecedens probatur quoniam si viveret vel hoc esset vita brutali vel plantae vel hominis sed nullum 
+              <lb ed="#P"/>istorum potest dici igitur 
+            </p>
+            <p xml:id="ppra-l103-sfsiea">
+              <pc type="pilcrow"/> 6o in tali forma metallina aliquid non corrumpitiru igitur nec alia forma vitalis 
+              <lb ed="#P"/>introducitur et per consequens ymago non vivit et ultra non vivit ergo futura non <unclear>di?nat</unclear> nec <unclear>praedi?t</unclear> Et 
+              <pb ed="#P" n="104-r"/>
+              <lb ed="#P"/>certe ad hoc alia cognito et perfecta requiritur <pc type="pilcrow"/> In istis tamen satis concordat <name xml:id="ppra-l103-Nd1e183" ref="#Paul">apostolus</name> dicens 
+              <lb ed="#P"/><quote xml:id="ppra-l103-Qd1e188" source="http://scta.info/resource/Icor8_4">ydolum nihil est</quote>
+            </p>
+            <p xml:id="ppra-l103-eaheef">
+              Et <name xml:id="ppra-l103-Nd1e195" ref="David">david</name><quote xml:id="ppra-l103-Qd1e200" source="http://scta.info/resource/ps113_12 http://scta.info/resource/ps113_13 http://scta.info/resource/ps113_14 http://scta.info/resource/ps134_15 http://scta.info/resource/ps134_16 http://scta.info/resource/ps134_17">simulachra gentium argentum et aurum 
+              <lb ed="#P"/>opera manuum hominum Os habent et non loquentur oculus habent et non videbunt Aures habent</quote> 
+              <lb ed="#P"/>etc <pc type="pilcrow"/> Ex quibus patet quod ergo nihil sciunt quia nihil cognoscunt et sic non divinat praenosticant 
+            </p>
+          </div>
+          <div xml:id="ppra-l103-Dd1e204">
+            <head xml:id="ppra-l103-Hoaioai">Opinio Alkindi</head>
+            <p xml:id="ppra-l103-spaeda">
+              <pc type="pilcrow"/> Ex quo 
+              <lb ed="#P"/>sequitur quod oppinio <name xml:id="ppra-l103-Nd1e217" ref="#Alkindi">alkindi</name> est superstitiosa nepharia detestabilis et dyabolica et sacrae scripturae 
+              <lb ed="#P"/>dissona ymmo purae et verae philosophiae <del rend="strikethrough">obnipia</del> obvia <pc type="virgula">/</pc> Et illam oppinionem detestabilem 
+              <lb ed="#P"/>introducitur ad melius videndum eius radicem et fundamentum quae licet videatur principiis 
+              <lb ed="#P"/>astrologicis <unclear>colo?ta</unclear> nihilominus est valde inpertiens et falsa 
+            </p>
+            <p xml:id="ppra-l103-pcdqie">
+              <pc type="pilcrow"/> dicit enim ipse <name>iacob alkindi</name> 
+              <lb ed="#P"/>aliqua iuxta hoc maxime in libro de radiis stellicis
+            </p>
+            <p xml:id="ppra-l103-pdqroi">
+              <pc type="pilcrow"/>primum eius dictum est quod quaelibet stella 
+              <lb ed="#P"/>radiat spherice suam radiationem vel influentiam orbiculariter undique diffundendo cuius partes se 
+              <lb ed="#P"/>habent supra passum receptivum per totum et variatur secundum approximationem angulorum 
+              <lb ed="#P"/>Et ista satis potest transire
+            </p>
+            <p xml:id="ppra-l103-sqssaa">
+              <pc type="pilcrow"/> 2m dictum suum <pc type="virgula">/</pc> quaelibet stella habet radiationem alterius 
+              <lb ed="#P"/>speciei ab alia
+            </p>
+            <!-- fuzzy prallel here; possible missing text -->
+            <p xml:id="ppra-l103-tdtvcc">
+              et commiscentur simul sic quod ex eis resultat caelestis armonia quae continue variatur 
+              <lb ed="#P"/>propter continuos motus <pc type="virgula">/</pc> et hoc est satis transibile <pc type="punctus"/> Et talem armoniam vocaverunt antiqui 
+              <lb ed="#P"/>contentum caeli
+            </p>
+            <p xml:id="ppra-l103-qdaera">
+              <pc type="pilcrow"/> 3m dictum aliqua varietas est vulgo nota <del rend="strikethrough">q</del> et aliqua sapientibus 
+              <lb ed="#P"/>quo aliud effectum et aliqua reperta <pc type="punctus"/> et alia non <pc type="pilcrow"/> unde ymaginatur quod sunt variationes vulgo 
+              <lb ed="#P"/>sicut motus solis et corporum vegetatio et hoc secundum combinationem corporum celestium <pc type="virgula">/</pc> Et 
+              <lb ed="#P"/>alia est combinatio nota sapientibus qui particularius <unclear>nonat</unclear> effectus planetarum ignoratos vulgo
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l103-eianep">
+              <lb ed="#P"/>Sed alia potest esse variatio nam sicut philosophi cognoscunt ultra vulgus Ita sunt aliqui philosophorum 
+              <lb ed="#P"/>cognoscentes ultra alios et secundum haec sunt combinationes dissimiles quia liquae sunt notae aliquibus aliae vero ignotae
+              <lb ed="#P"/>aliis
+            </p>
+            <p xml:id="ppra-l103-qdqoem">
+              <pc type="pilcrow"/>4m dictum sub ista ultima latitudine continentur omnes effectus mirabiles hic <unclear>inferius</unclear> 
+              <lb ed="#P"/><unclear>evenientes</unclear> quorum causae sunt ignotae vulgo et communiter philosophantibus Et ideo sub ista omnia 
+              <lb ed="#P"/>mirabilia quorum causae a vulgo non possunt inveniri reducuntur ad istud genus et supersticiosae 
+              <lb ed="#P"/>artes magicae etc 
+            </p>
+          </div>
+          <div xml:id="ppra-l103-Dd1e263">
+            <head xml:id="ppra-l103-Hpdodoa">Particularior declaratio opinionis Alkindi</head>
+            <p xml:id="ppra-l103-pcpqaa">
+              <pc type="pilcrow"/>Pro cuius maiori declaratione videndum est unum dictum ipsius <name xml:id="ppra-l103-Nd1e276" ref="#Alkindi">alkindi</name>
+              <lb ed="#P"/>in quo dicit sic quod omnis res mundi est quoddam speculum totius ordinis speciarum celestium 
+              <lb ed="#P"/>et multiplicat suum radium per totum mundum inferiorem orbiculariter inferiora adiuvans quo 
+              <lb ed="#P"/>ad aliquos effectus et nocens quo ad alios et est sic repraesentans sicut effectus suae causae 
+              <lb ed="#P"/>et realiter alterat elementa et immutat licet aliter et aliter Et consequenter sicut una quaecumque res est causaliter 
+              <lb ed="#P"/>magis ab una veritate caeli quam ab alia habet maiorem vel minorem effectum
+            </p>
+            <p xml:id="ppra-l103-sdhgec">
+              <pc type="pilcrow"/> Aliud dictum 2m 
+              <lb ed="#P"/>in ordine <del rend="strikethrough">seq</del> <unclear>praete?tis</unclear> homo dicitur minor mundus <pc type="virgula">/</pc> nam sicut in mundo reperiuntur diversa 
+              <lb ed="#P"/>organica ita in homine sicut satis patet per <ref xml:id="ppra-l103-Rd1e281"><name xml:id="ppra-l103-Nd1e288">alanum</name> in libro <title>de complantu naturae</title></ref>
+            </p>
+            <p xml:id="ppra-l103-tdreai">
+              <lb ed="#P"/><pc type="pilcrow"/> Aliud dictum Radiatio cuiuslibet rei iuvatur proportionali radiatione ita quod radiatio saturni iuvat
+              <lb ed="#P"/>radiationem hominis quo ad effectus suos et sic de aliis <pc type="virgula">/</pc> Et sic quaedam radiationes promovent 
+              <lb ed="#P"/>aliquos effectus et aliquos impediunt
+            </p>
+            <p xml:id="ppra-l103-qdecrs">
+              <pc type="pilcrow"/> Ulterius Radiationes hic facere habent ordinem 
+              <lb ed="#P"/>nedum ad illam armoniam sed etiam inter se <pc type="virgula">/</pc> ita quod una iuvat aliam <pc type="punctus"/> <pc type="pilcrow"/> Unde consequenter ponit 
+              <lb ed="#P"/>idem <name>iacob alkindi</name> quod radiatio hominis iuvat illas scilicet intensive desiderio <pc type="punctus"/> fide et spe et vocat 
+              <lb ed="#P"/>fidem assensum habere firmum ad hoc sine formidine ad oppositum <pc type="pilcrow"/>dicit consequenter quod talis radiatio 
+              <lb ed="#P"/>hominis iuvatur ab aliis radiationibus <pc type="virgula">/</pc> sicut a radiatione animae quae influit <pc type="punctus"/> deinde ymaginatio 
+              <lb ed="#P"/>fortis influit etiam deinde vehemens desiderio et ulterius fides scilicet firimius assensus
+            </p>
+            <p xml:id="ppra-l103-csivsl">
+              <pc type="pilcrow"/> Consequenter 
+              <lb ed="#P"/>verborum expressio ibidem subordinata conferens efficaciam cum manu fabricatione certa <sic>karateres</sic> 
+              <lb ed="#P"/>et finitas <pc type="virgula">/</pc> Et tales radiationes sunt adiuventes radiationem hominis maxime quando efficiuntur in armonia 
+              <lb ed="#P"/>et constellatione sibi convenient <pc type="punctus"/> tunc ex hiis <unclear>provenitur</unclear> ad intentum <pc type="punctus"/> <pc type="pilcrow"/> Et ultimo superaddit 
+              <lb ed="#P"/>pro complemento spherae generalis expedit sacrificium alicuius animalis <pc type="virgula">/</pc> nam eius violenta interfectio dicit ipse 
+              <lb ed="#P"/>est omnium elementarum immuutatio quilibet fit effectus mirabiliter <pc type="virgula">/</pc> Et in fine libelli dicit 
+              <lb ed="#P"/>quod in productione cuiuslibet effectus dabitur fortunium vel infortunum regens usque ad finem vite 
+              <lb ed="#P"/>unde dicit ipse desiderium est tamquam <unclear>scamonea</unclear> addita medicine attrahens humores 
+              <lb ed="#P"/>vel sicut lux ad tenebram <pc type="punctus"/> ita ymaginatur se mutuo adiuvare radiationes
+            </p>
+          </div>
+          <div xml:id="ppra-l103-Dd1e333">
+            <head xml:id="ppra-l103-Hcoacoa">Contra opinionem Alkindi</head>
+            <p xml:id="ppra-l103-ipeiva">
+              <pc type="pilcrow"/> Sed breviter 
+              <lb ed="#P"/>ista oppinio est superstitiosa prophana et detestabilis et sacrae doctrinae et philosophiae etiam <unclear>infamalis</unclear> 
+              <lb ed="#P"/>contra astrologiam suasu dyabolica repertam vel suggestam <pc type="punctus"/> et haec satis patet nam ponit quod species 
+              <lb ed="#P"/>et desiderium et terminor procedit ex talibus <pc type="punctus"/> unde iste sacrilegus <name>iacob alkindi</name> et magus 
+              <lb ed="#P"/>peccat contra <name>ptoloneum</name> et ceteros astrologos reducens sic effect aliud caelum 
+            </p>
+            <p xml:id="ppra-l103-sqmfsd">
+              <pc type="pilcrow"/> 2o fuit 
+              <lb ed="#P"/>dyaboli discipulus quia magus et dyabolicis invocationibus utebatur ut <name>simon magus</name> quam 
+              <lb ed="#P"/>magis igne et <unclear>odio</unclear> deberet puniri quam alio modo <pc type="virgula">/</pc> nam provocat hominem ad sacrificia <unclear>fa?la</unclear>
+              <lb ed="#P"/>quae dyabolo <unclear reason="smudged">????</unclear> et quia dyabolus hominem odit ideo divinos honores libenter requirit venit 
+              <pb ed="#P" n="104-v"/>
+              <lb ed="#P"/>unde <ref>psalmo centesimo 5o scilicet confitemini</ref> ubi agitur de transitu per mare rubricum quando filii israel 
+              <lb ed="#P"/>fuerunt in deserto habetur de eis quomodo ydolaraerunt et sic divina beneficia perdiderunt unde dicitur 
+              <lb ed="#P"/>ibidem didicerunt opera eorum et servierunt hominibus <pc type="virgula">/</pc> 
+              Et sequitur <quote xml:id="ppra-l103-Qd1e380" source="http://scta.info/resource/ps105_37">Immolaverunt filios suos daemoniis</quote>
+            </p>
+            <p xml:id="ppra-l103-uneidp">
+              <lb ed="#P"/><pc type="pilcrow"/> Et ponit id sacrilegus <name>iacob alkindi</name> quod animal nobilioris complexionis melius est ad immolationem 
+              <lb ed="#P"/>sive sacrificium et hoc est a dyabolo repertum propter humanum genus decipiendum <pc type="pilcrow"/> Et sequitur in psalmo 
+              <lb ed="#P"/>eodem <pc type="pilcrow"/> <quote>Et iratus est dominus</quote> etc Et licet deus non irascatur <unclear>antropospa?te</unclear> tamen dicitur ira sancti ut 
+              <lb ed="#P"/>sic ratione obiecti et non potentiae talia exprimamus 
+              
+            </p>
+            <p xml:id="ppra-l103-esisid">
+              <pc type="virgula">/</pc> Et post dicitur et <unclear>abhominatus</unclear> est hereditatem suam et 
+              <lb ed="#P"/>reliquit eos in manus alienorum in signum huius detestationis <pc type="pilcrow"/> Ex quibus omnibus apparet quod 
+              <lb ed="#P"/><name>alkindus</name> institu dyaboli suam operabatur scientiam et talibus radiationibus videtur suam operationem 
+              <lb ed="#P"/>velasse
+            </p>
+            <p xml:id="ppra-l103-ssedne">
+              <pc type="pilcrow"/>Item tales radiationes sunt inpertinentes nam caelum sicut dicit continet tales igitur se
+              <lb ed="#P"/>solo producere potest et hoc videtur implicare contra eum
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l103-sqqoed">
+              <pc type="pilcrow"/>Etiam ex alio sequeretur quod omnia de necessitate eveniret 
+              <lb ed="#P"/>et sic non oportet addiscere nec aliis rebus vacare <pc type="punctus"/> quod absit 
+              
+              Ex quibus finaliter concluditur 
+              <lb ed="#P"/>quod tamquam prophanus et sacrilegus magus a recta doctrinae se <unclear>nuta</unclear> deviavit quare <unclear>reppellenda</unclear> 
+              <lb ed="#P"/>sunt eius dicta et non tenenda maxime in ista materia
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l103-Dxxxx1">
+          <head xml:id="ppra-l103-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l103-Xxxxx3">
+            <pc type="pilcrow"/> Secuntur conclusiones supra 
+            <lb ed="#P"/>duas distinctiones <del rend="strikethrough">penultimas</del> <add>scilicet 11a et 12a</add> libri 3ii sententiarum quarum prima in substantia est quod deus secundum quod persona est homo 
+            <lb ed="#P"/>secundum subsistentiam humanitatis intelligitur haec
+          </p>
+          <p xml:id="ppra-l103-Xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio <unclear>salvit</unclear> difficultatem utrum <del rend="strikethrough">de</del> christus sit filius adoptius 
+            <lb ed="#P"/>unde dicitur quod est naturalis <pc type="virgula">/</pc> difficultas tamen de praedestinatione quantum ad haec conclusio ad communicationem ydiomatum vocatur sed 
+            <lb ed="#P"/>est dubium utrum praescitus <pc type="punctus"/> accipiens naturam iudae <pc type="virgula">/</pc> diceretur quod sit non posset sibi communicare quia 
+            <lb ed="#P"/>tale quid includit difformitatem unde consequentia non valet humanitas christi est peccabilis igitur christus est peccabilis quia talia 
+            <lb ed="#P"/>peccata difformia non deo competunt <pc type="punctus"/> Sed ista est bona est praedestinatus igitur etc <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l103-Xxxxx5">
+            <pc type="pilcrow"/> 3a conclusio supra aliam distinctionem  <!-- possible something added here in margin -->
+            <lb ed="#P"/>esse creaturam attribuitur deo secundum nullam assumptam id est nulla assumpta est creatura 
+          </p>
+          <p xml:id="ppra-l103-Xxxxx6">
+            <pc type="pilcrow"/> alia conclusio utrum sit christus <!-- possible something in margin here -->
+            <lb ed="#P"/>factus homo <pc type="punctus"/> dicitur quod ita secundum carnem <pc type="punctus"/> <pc type="punctus"/> temporaliter a matre <pc type="punctus"/> aeternaliter a patre et haec de lectione
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
