@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio104">
+      <head xml:id="ppra-l104-Hldlldl">Lectio 104, de Libertate</head>
+      <div xml:id="ppra-l104-Dd1e109">
+        <head xml:id="ppra-l104-Hppepet">Providentia producit effectos tripliciter</head>
+        <p xml:id="ppra-l104-veqvfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-veqvfc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-veqvfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-ptmpsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-ptmpsa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-ptmpsa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l104-Dd1e121">
+        <head xml:id="ppra-l104-Hcpggem">Propositio: quod miracula non evidens in lumine naturali,
+          sed quod miracula sunt possibilia est probabile</head>
+        <p xml:id="ppra-l104-cpslep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-cpslep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-cpslep"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l104-Dd1e129">
+          <head xml:id="ppra-l104-Hppprra">Probatio primae partis</head>
+          <p xml:id="ppra-l104-ppprae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-ppprae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-ppprae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-spihem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-spihem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-spihem"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break and parallel -->
+          <p xml:id="ppra-l104-eidpsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-eidpsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-eidpsp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-taassl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-taassl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-taassl"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-eqaacm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-eqaacm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-eqaacm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-qeaavn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qeaavn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qeaavn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-qsqcon">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qsqcon"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qsqcon"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-eqaicn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-eqaicn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-eqaicn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-ermihm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-ermihm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-ermihm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-unecpn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-unecpn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-unecpn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l104-Dd1e209">
+          <head xml:id="ppra-l104-Hpsppsp">Probatio secundae partis</head>
+          <p xml:id="ppra-l104-spcifn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-spcifn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-spcifn"/>
+            </assertions>
+          </p>
+          <!-- doesn't seem present 
+              <p xml:id="ppra-l104-selaml">
+              Secundo esse liberum dicit summam perfectionem 
+              et adhuc in lumine naturali, modo deo attribuitur 
+              maxime libertas.
+            </p>-->
+          <p xml:id="ppra-l104-tpaqtc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-tpaqtc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-tpaqtc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-pdmmae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-pdmmae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-pdmmae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-pesndd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-pesndd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-pesndd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-smaosn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-smaosn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-smaosn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-temsus">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-temsus"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-temsus"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-eimpcr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-eimpcr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-eimpcr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-dsivsm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-dsivsm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-dsivsm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-unetem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-unetem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-unetem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-qaless">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qaless"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qaless"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-tseccn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-tseccn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-tseccn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l104-qsqomm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qsqomm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qsqomm"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l104-Dd1e319">
+        <head xml:id="ppra-l104-Hcorria">Corollaria</head>
+        <p xml:id="ppra-l104-pcepnm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-pcepnm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-pcepnm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-scapfr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-scapfr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-scapfr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-tclacs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-tclacs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-tclacs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-qcqacs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qcqacs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qcqacs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-qcscep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-qcscep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-qcscep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-scsvtm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-scsvtm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-scsvtm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l104-acpasm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l104-acpasm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l104-acpasm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l104-Dxxxx1">
+        <head xml:id="ppra-l104-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l104-yxxxx3">
+        </p>
+        <p xml:id="ppra-l104-yxxxx4">
+        </p>
+        <p xml:id="ppra-l104-yxxxx5">
+        </p>
+        <p xml:id="ppra-l104-yxxxx6">
+        </p>
+        <p xml:id="ppra-l104-yxxxx7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 104, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 104. de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-01-02">January 02, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-01-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="104-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio104">
+        <head xml:id="ppra-l104-Hldlldl">Lectio 104, de Libertate</head>
+        <div xml:id="ppra-l104-Dd1e109">
+          <head xml:id="ppra-l104-Hppepet">Providentia producit effectos tripliciter</head>
+          <p xml:id="ppra-l104-veqvfc">
+            <lb ed="#P"/>Consequenter postquam visum fuit de efficientibus caelestibus videndum est ad quod genus causae <unclear>praecisus</unclear>
+            <lb ed="#P"/>reducuntur 
+          </p>
+          <p xml:id="ppra-l104-ptmpsa">
+            Unde advertendum est quod tales effectus ad divinam providentiam reducuntur <pc type="punctus"/> sed tam 
+            <lb ed="#P"/>universales quam particulares Et reducuntur ad tria genera <pc type="virgula">/</pc> primum est miraculosum <pc type="virgula">/</pc> 2m dyabolicum et 3m 
+            <lb ed="#P"/>naturale
+          </p>
+        </div>
+        <div xml:id="ppra-l104-Dd1e121">
+          <head xml:id="ppra-l104-Hcpggem">Propositio: quod miracula non evidens in lumine naturali, sed quod miracula sunt possibilia est probabile</head>
+          <p xml:id="ppra-l104-cpslep">
+            <pc type="pilcrow"/> de primo sit propositio ista Quamvis non sit evidens in puro lumine naturali esse 
+            <lb ed="#P"/>miraculum tamen deum hoc posse facere est in tali lumine naturali <pc type="punctus"/> <del rend="strikethrough">sptur</del>
+          </p> 
+          <div xml:id="ppra-l104-Dd1e129">
+            <head xml:id="ppra-l104-Hppprra">Probatio primae partis</head>
+            <p xml:id="ppra-l104-ppprae">
+              prima pars propositionis est clara 
+              <lb ed="#P"/>de se <add place="above-line">nam non</add> <del rend="strikethrough">et</del> est evidens <del rend="strikethrough">de se 2a probatur</del> quod deus posset agere praeter naturae cursum nec aliter 
+              <lb ed="#P"/>quam 2m institutionem quam experimur <pc type="virgula">/</pc> nam si contrarium fuisset evidens philosophi non tenuisset
+            </p>
+            <p xml:id="ppra-l104-spihem">
+              <pc type="pilcrow"/>2o 
+              <lb ed="#P"/>probatur illa pars eadem ex ista radice <pc type="virgula">/</pc> quia naturae falsitas est ignota igitur in nullo effectu constat 
+              <lb ed="#P"/><unclear>cum</unclear> fiat potestate naturae <pc type="virgula">/</pc> Cuius ignorantia patet ex combinatione infiniti possibilis quae non est scibilis 
+              <lb ed="#P"/>a nobis <!-- possible break point --><pc type="virgula">/</pc> primo per applicationem agentium ad sua passa <pc type="punctus"/> nam sint aliqua agentia 
+              <lb ed="#P"/>sicut magnes quando applicatur ferro attrahit virtute sua ipsa ferrum et etiam aliud agens 
+              <lb ed="#P"/>naturale caeleste <unclear>vel</unclear> aliud attrahit passum supra quod virtutem habet ymmo respectu alterius passi haberet <unclear>virtutem</unclear> 
+              <lb ed="#P"/>operationem <pc type="virgula">/</pc> vel mirabiliorem secundum aliud et aliud  
+            </p>
+            <!-- fuzzy break and parallel -->
+            <p xml:id="ppra-l104-eidpsp">
+              igitur ex parte passorum est impossibilis applicatio
+            </p>
+            <p xml:id="ppra-l104-taassl">
+              <pc type="pilcrow"/> 2o aliquod 
+              <lb ed="#P"/>agens est productum alicuius effectus cum alio et non per se <pc type="punctus"/> sed impossibile est omnia simul combinari 
+              <lb ed="#P"/>igitur latet eorum effectus 
+            </p>
+            <p xml:id="ppra-l104-eqaacm">
+              Et sic impossibile est inquiri et scire effectus naturae potestatem <pc type="punctus"/> unde 
+              <lb ed="#P"/>combinatio agentium facit diversitatem effectuum et hoc potest patere de tyriarca quae quidem 
+              <lb ed="#P"/>propter combinationem diversarum herbarum et specierum diversos operatur effectus <pc type="punctus"/> maxime contra venenum
+            </p>
+            <p xml:id="ppra-l104-qeaavn">
+              <lb ed="#P"/><pc type="pilcrow"/> Item ex diversitate distantiarum aliquod agens producet <unclear>quaequae</unclear> effectum <pc type="virgula">/</pc> alii citra vel etc
+            </p>
+            <p xml:id="ppra-l104-qsqcon">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P"/>ex <unclear>qualitate</unclear> agentium possit effectus diversificari igitur <del rend="strikethrough">consequentia tenet</del> 
+            </p>
+            <p xml:id="ppra-l104-eqaicn">
+              et apparet quod naturae <unclear>falsitas</unclear> est ignota igitur 
+              <lb ed="#P"/>quocumque effectu dato impossibile quin possit fieri per naturam <pc type="punctus"/> <pc type="pilcrow"/> unde iuxta hunc materiam 
+              <lb ed="#P"/><ref xml:id="ppra-l104-Rd1e173"><title>liber de mirabilibus sacrae scripturae</title> qui <name ref="#Augustine">beato augustino</name></ref> attribuitur <pc type="virgula">/</pc> omnia miracula 
+              <lb ed="#P"/>resolvunt ad causas naturales maxime usque ad adventum christi  
+            </p>
+            <p xml:id="ppra-l104-ermihm">
+              <pc type="virgula">/</pc> Et etiam <name ref="#Maimonides">rabbi moyses</name> 
+              <lb ed="#P"/>dicit quod ab initio nulla non fuit ad unum opus instituta ymmo ad diversa id est ad omnes effectus 
+              <lb ed="#P"/>maxime ad varios <pc type="pilcrow"/> unde quando mare stetit fissum in scilicet transitu filio israel dicit idem <name>rabbi mosses</name>
+              <lb ed="#P"/>fuisse naturale nec miraculum Et sic de camino ignis trium puerorum
+            </p>
+            <p xml:id="ppra-l104-unecpn">
+              <pc type="pilcrow"/> unde <unclear>prospi?d?</unclear> 
+              <lb ed="#P"/>advertendo quod haec nullum generat scandalum debitorio intellectum <pc type="punctus"/> nam ymaginatio eorum stat cum hoc 
+              <lb ed="#P"/>quod cum ita sit quod deus sit omni dans cui omnia obediunt et serviunt pro tempore hic est quod natura 
+              <lb ed="#P"/>sibi obedit et sic quicquid facti est naturale <pc type="punctus"/> sit capiendo Et hoc non recedit a fide catholica 
+              <lb ed="#P"/>nam naturalissimum naturae est deo obedire <pc type="punctus"/> Tamen tales operationes non dicuntur naturales secundum communem 
+              <lb ed="#P"/>naturae cursum sed ad sensum tactum <pc type="punctus"/> Et sic pate quod non est evidens saltim adiuto 
+              <lb ed="#P"/>fide quin miracula resolvantur naturaliter minos praeallegato 
+            </p>
+          </div>
+          <div xml:id="ppra-l104-Dd1e209">
+            <head xml:id="ppra-l104-Hpsppsp">Probatio secundae partis</head>
+            <p xml:id="ppra-l104-spcifn">
+              <pc type="pilcrow"/> 2a pars <del>consequentia</del> propositionis scilicet deum posse 
+              <lb ed="#P"/>agere supra naturae cursum sit probabile probatur nam libere agit ad extra et habet infinitam potentiam 
+              <lb ed="#P"/>igitur ponit quemcumque effectum quantumcumque magnum producere consequentia tenet antecedens patet in lumine naturali quia deus 
+              <lb ed="#P"/>est summe perfectus et hoc satis innuit <ref xml:id="ppra-l104-Rd1e218" target="http://scta.info/resource/aristmet-l12"><name ref="#Aristotle">philosophus</name> in 12o <title ref="#Metaphysics">metaphysicae</title></ref> ubi dicit <unclear>nobilissimus</unclear> sive <unclear>simplicissimus</unclear>
+              <pb ed="#P" n="105-r"/>
+              <lb ed="#P"/>sed libere agere dicit dignitatem et perfectionem igitur etc
+            </p>
+            <!-- doesn't seem present 
+              <p xml:id="ppra-l104-selaml">
+              Secundo esse liberum dicit summam perfectionem 
+              et adhuc in lumine naturali, modo deo attribuitur 
+              maxime libertas.
+            </p>-->
+            <p xml:id="ppra-l104-tpaqtc">
+              Item in <ref xml:id="ppra-l104-Rd1e239">4o <title ref="#Physics">physicarum</title></ref> attribuit deo quod supra 
+              <lb ed="#P"/>naturae cursum habet potestatem <pc type="punctus"/> nam ponit quod aer in infinitum potest subtiliari <pc type="punctus"/> et hoc 
+              <lb ed="#P"/>non secundum communem naturae cursum <pc type="punctus"/> igitur per potentiam divinam potest haec fieri Et sic credidit 
+              <lb ed="#P"/>deum esse <pc type="punctus"/> et liberum esse <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l104-pdmmae">
+              <pc type="pilcrow"/> ulterius notandum est quod triplex modus agendi effectus est <unclear>dignotatur</unclear>
+            </p>
+            <p xml:id="ppra-l104-pesndd">
+              <lb ed="#P"/><pc type="pilcrow"/> primus est secundum propriam naturam specificam vel individualem et istae res operantur operationes 
+              <lb ed="#P"/>proprias
+            </p>
+            <p xml:id="ppra-l104-smaosn">
+              <pc type="pilcrow"/> 2us modus est secundum naturam communem et secundum institutum rebus <pc type="punctus"/> Et potest ymaginari 
+              <lb ed="#P"/>una alia natura scilicet respectu effectus sui communis composita ex instinctu quo omnis res appetit Et sic omnis 
+              <lb ed="#P"/>res mundi moveret ut vacuum repleret
+            </p>
+            <p xml:id="ppra-l104-temsus">
+              <pc type="pilcrow"/>3us est secundum obedientiam veri principis 
+              <lb ed="#P"/>et summi extra duos primos modus <pc type="punctus"/> <pc type="virgula">/</pc> cuius mandatum potest esse novum id est potest aliquem effectum 
+              <lb ed="#P"/>velle esse novum <pc type="punctus"/> vel noviter productum <pc type="punctus"/> qui quidem ante non erat <pc type="punctus"/> Et sic est de omnibus 
+              <lb ed="#P"/>effectibus <pc type="punctus"/> Sicut de statione solis tempore <name ref="#Joshua">iosae</name> ad preces suas et non ad vocem suam 
+              <lb ed="#P"/>sed per modum meriti 
+            </p>
+            <p xml:id="ppra-l104-eimpcr">
+              Ad quem nec sol habuit inclinationem nec post <pc type="virgula">/</pc> Et sic de suspensione 
+              <lb ed="#P"/>ignis in camino <unclear>termino</unclear> puerorum
+            </p>
+            <p xml:id="ppra-l104-dsivsm">
+              <pc type="pilcrow"/> Sed utrum talis statio sit naturalis et de <unclear>ca?no</unclear> <unclear>etiam</unclear> <pc type="virgula">/</pc> Respondetur quod difficultas 
+              <lb ed="#P"/>est in vocabulo <pc type="pilcrow"/> unde non est naturale primo modo quia non est ex inclinatione naturali <pc type="punctus"/> nec 2o modo 
+              <lb ed="#P"/>Sed si vocaretur <unclear>potest</unclear> naturale dicitur in prima conlusione <pc type="virgula">/</pc> deo potente super hanc posset bene fieri 
+              <lb ed="#P"/>Et sic salvaretur dictum <name>augustini</name> isto modo sumendo <pc type="virgula">/</pc> et sic totum resolvitur ad immensitatem 
+              <lb ed="#P"/>divinam
+            </p>
+            <p xml:id="ppra-l104-unetem">
+              <pc type="pilcrow"/> Ulterius advertendum est quod effectus in 3o modo positi sunt <unclear>probabiliores</unclear> scilicet 4o species miraculose
+              <lb ed="#P"/><pc type="pilcrow"/> Prima species est quando aliqua causa producit effectum supra causalitatem institutam vel quantum ad speciem 
+              <lb ed="#P"/>vel quantum ad gradum vel quantum ad tempus <pc type="punctus"/> vel quantum ad locum <pc type="punctus"/>
+              <pc type="pilcrow"/> de primo sicut <add place="above=line">supra causam <unclear>sortis</unclear> producitur aliud de 2o sicut</add> si lapide 
+              <lb ed="#P"/>asinus efficeretur vel produceretur et sic ageret <del rend="strikethrough expunctuation">supra causalitatem sibi inditam <pc type="virgula">/</pc> et etiam quantum ad speciem</del> 
+              <lb ed="#P"/>de 3o si de gradu sicut si quantitas ut duo produceret quantitatem ut centum et haec intelligendo de gradu 
+              <lb ed="#P"/>secundum institutum naturae proprium quia aliter non esset miraculum <pc type="virgula">/</pc> De tempore ut causa quae sit productiva alicuius effectus 
+              <lb ed="#P"/>naturaliter in una hora producet in 3a parte vel <unclear>di?dia</unclear> <pc type="pilcrow"/> 
+            </p>
+            <p xml:id="ppra-l104-qaless">
+              de loco ut si res collecetur 
+              <lb ed="#P"/>in aliquo loco et sit in multis ut est de corpore <unclear>veri</unclear> <pc type="punctus"/> quia est aeque bene in quantacumque modica 
+              <lb ed="#P"/>parte ipsius hostiae sacrae sicut in magna <pc type="pilcrow"/> et proportionaliter suo modo potest dici de sub sicut 
+              <lb ed="#P"/>de supra ut si sic homo de aliqua re produceret lapidem Et etiam sic de medio sicut patet de sole 
+              <lb ed="#P"/>Et sic discurrendo per singulam <pc type="punctus"/> et est 2a species 
+            </p>
+            <p xml:id="ppra-l104-tseccn">
+              <pc type="pilcrow"/> 3a species est quando producitur non a causis 
+              <lb ed="#P"/>secundum naturae institutionem producentibus verbi gratia Unde si deus se solo crearet ignem et non a suis 
+              <lb ed="#P"/>causis vel quaecumque alium effectum esset quod miraculosum in ordine ad causas sine quibus 
+              <lb ed="#P"/>naturaliter non produceretur
+            </p>
+            <p xml:id="ppra-l104-qsqomm">
+              <pc type="pilcrow"/> 4a species est quando effectus non productiru positis causis sufficientibus <unclear>re?to</unclear> 
+              <lb ed="#P"/>tamen impedimento praeter dei voluntatem ut in camino ignis ubi 3es pueri erant scilicet <name>daniel</name> qui 
+              <lb ed="#P"/>vocabatur alio nomine unde vocabantur <name>ananias</name> <name>azarias</name> et <name>misael</name> erant ergo tamquam passa 
+              <lb ed="#P"/>et ignis agens erat <pc type="punctus"/> sufficiens tamen ad <unclear>combu?dum</unclear> nisi aliud superfuisset et sic hoc fuit miraculosum 
+              <lb ed="#P"/>modo quo superius est <unclear>misertum</unclear> <pc type="pilcrow"/>Ex quibus concluditur quod omnia miraculosa ad istas 4or 
+              <lb ed="#P"/>species reducunt vel sunt reducibiles sicut de febribus et earum sanatione <pc type="punctus"/> vel de talibus similibus 
+              <lb ed="#P"/>de quibus nihil ad <unclear>praesens</unclear> quia satis sub istis 4or speciebus possunt comprehendi <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l104-Dd1e319">
+          <head xml:id="ppra-l104-Hcorria">Corollaria</head>
+          <p xml:id="ppra-l104-pcepnm">
+            <pc type="pilcrow"/> Ex qua materia 
+            <lb ed="#P"/>secuntur aliqua correlaria quorum primum est ex ignorantia cursus naturalis negauerunt philosophi 
+            <lb ed="#P"/>miracula patet nam si potestas naturae fuisset in hiis nota scivissent aliquam esse notitia 
+            <lb ed="#P"/>quae nesciverunt et concessissent aliqua opera quae non concesserunt <pc type="punctus"/> et fecissent etiam aliqua 
+            <lb ed="#P"/>quae non fecerunt <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l104-scapfr">
+            <pc type="pilcrow"/>2m correlarium ad complete philosophandi requiritur fidei cognitio 
+            <lb ed="#P"/>Et ideo concedit <ref xml:id="ppra-l104-Rd1e331"><name>philosophus</name> in libro de secretis secretorum</ref> quod philosophia fuit revelata
+          </p>
+          <p xml:id="ppra-l104-tclacs">
+            <pc type="pilcrow"/> 3m
+            <lb ed="#P"/>correolarium licet creatio animae sit super naturae facultatem non tamen proprie est miraculum patet quia 
+            <lb ed="#P"/>haec non est respectu divinae potentiae quia haec non agit supra suam potentiam quae sumitur est immensa <pc type="punctus"/> quia in infinitum 
+            <lb ed="#P"/>excedit omnem effectum <pc type="virgula">/</pc> ymmo emanatio termino primarum in divinis est naturalis non 
+            <lb ed="#P"/>tamen naturalitate creata sed increata etima operatio animae non innata est produci a causis et sic de aliis 
+            <lb ed="#P"/>quia supernaturalis et non miraculosa <pc type="punctus"/> <pc type="pilcrow"/> Consimiliter de donis divinis et spiritus sancti gratia 
+            <lb ed="#P"/>quia non habent ordinem ad causas <pc type="punctus"/> 2as sed praeter naturae cursum <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l104-qcqacs">
+            <pc type="pilcrow"/> Ulterius sequitur 
+            <lb ed="#P"/>quod deus producendo animam intellectivam se solo <pc type="virgula">/</pc> non agit miraculose <pc type="punctus"/> et tamen producendo animam 
+            <lb ed="#P"/>asini ageret miraculose scilicet aliam animam quam brutalem <pc type="virgula">/</pc> patet prima pars satis 2a patet quia <unclear>praeter</unclear> 
+            <lb ed="#P"/>naturae cursum hunc produceret igitur miraculose produceret
+          </p>
+          <p xml:id="ppra-l104-qcscep">
+            <lb ed="#P"/><sic>4m</sic> correlarium si sacramenta novae 
+            <lb ed="#P"/>legis efficiunt <unclear>pro figura</unclear> concedit potest quod faciunt miracula <pc type="virgula">/</pc> Unde aliquorum doctorum fuit oppinio 
+            <lb ed="#P"/>quod talia attingant gratiam et faciunt effective <pc type="punctus"/> et sic differunt ab antiquis quia non 
+            <lb ed="#P"/>potest lucide videri <pc type="virgula">/</pc> nam festuca posset concurrere ad cuiuslibet creaturae productionem
+            <pb ed="#P" n="105-v"/>
+            <lb ed="#P"/>deo volente 
+          </p>
+          <p xml:id="ppra-l104-scsvtm">
+            <pc type="virgula">/</pc> Et etiam potestas faciendi miracula esset creaturae communicabilis unde 
+            <lb ed="#P"/>apostolis data est haec potestas eiciendi daemonia scilicet in nomine ihesu <pc type="pilcrow"/> <ref xml:id="ppra-l104-Rd1e365"><name ref="#GregoryGreat">gregorius</name></ref> 
+            <lb ed="#P"/>dicit quod potestate <seg type="correction"><del rend="expunctuation">i</del>creaturae</seg> contingit facere miracula dum tamen aliqua causalitas extendit se supra vel 
+            <lb ed="#P"/>ultra suos limites <pc type="virgula">/</pc> Et sic posset dici quod fides in apostolis erat potestas faciendi 
+            <lb ed="#P"/>miracula Et per hoc salvatur auctoritas <del rend="strikethrough">salt</del> <name>pauli</name> <pc type="punctus"/> ubi dicitur quod fides vigore transferendi 
+            <lb ed="#P"/>montes <!-- http://scta.info/resource/Icor13_2@13-19 -->
+          </p>
+          <p xml:id="ppra-l104-acpasm">
+            <pc type="pilcrow"/> Multa inferrentur correlaria sicut de sanatatione febrium quae satis possunt in praedictis 
+            <lb ed="#P"/>contingeri <pc type="virgula">/</pc> sicut de fide <unclear>firma</unclear> quare etc
+          </p>
+        </div>
+        <div xml:id="ppra-l104-Dxxxx1">
+          <head xml:id="ppra-l104-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l104-yxxxx3">
+            <pc type="pilcrow"/> Secuntur conclusiones supra distinctionem 17am et 18am huius 3ii sententiarum 
+            <lb ed="#P"/>christus ad instanti suae incarnationis perfecte fuit organizatus quo ad membra et ad animam licet 
+            <lb ed="#P"/>non haberet rectam magnitudinem quam habent in aetate <unclear>ven?ra</unclear> et omnem <unclear>do?orum</unclear> plenitudinem et sic <unclear>v?ipes</unclear>
+          </p>
+          <p xml:id="ppra-l104-yxxxx4">
+            <lb ed="#P"/><pc type="pilcrow"/> 2a conclusio quod christus proficiebat sapientia in aetate apud deum et homines quae intelligitur quod ad alios et non 
+            <lb ed="#P"/>ad se vel in se <pc type="punctus"/> quia ab initio habuit <unclear>do?rum</unclear> plenitudinem sed hoc sit intelligitur si quod crescebat sapientia 
+            <lb ed="#P"/>in aliis eos docendo <pc type="punctus"/> vel quantum ad eorum iudicia si apud iudaeos et ceteros <pc type="virgula">/</pc> vel potest dici 
+            <lb ed="#P"/>quantum ad varium modum sicut de speculo sicut patet ymaginati vel crescit quia oculo corporali vidit post 
+            <lb ed="#P"/>quae oculo spirituali et divino ante viderat ymmo ab aeterno <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l104-yxxxx5">
+            <pc type="pilcrow"/> Secuntur aliae conclusiones distinctionis sequitur 
+            <lb ed="#P"/>prima est quod potest non novit omnia quae verbum ex certa tam licita sicut magister tenet Tamen contra haec stat 
+            <lb ed="#P"/>quod non comprehendat deum <pc type="punctus"/> non arguit perfectionem notitiae quia notitia christi est unum accidens 
+            <lb ed="#P"/>et sic non est comprehensiva quam etc
+          </p>
+          <p xml:id="ppra-l104-yxxxx6">
+            <pc type="pilcrow"/> 2a conclusio licet <unclear>deus</unclear> habeat omnem scientiam <pc type="punctus"/> non tamen omnipotentiam 
+            <lb ed="#P"/>exequendi quia denotat quoddam intrinsecum quae fudamento attribuitur intelligendo primo de anima christi
+          </p>
+          <p xml:id="ppra-l104-yxxxx7">
+            <lb ed="#P"/><pc type="pilcrow"/> Auctoritates sunt multae <pc type="punctus"/> ad hoc <pc type="virgula">/</pc> unde plenitudo divitis si capitualiter intelligendo haec nam 
+            <lb ed="#P"/>sicut in capite sunt omnes sensus ita in fundamento scilicet in christo os gratiae quae diversis dantur Et nullus 
+            <lb ed="#P"/>concursus talium datur nisi christo et ergo dictum sit de lectione festo sancti georgii lecta et scripta
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
