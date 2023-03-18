@@ -119,7 +119,7 @@
           <lb ed="#P"/><name>misselath</name>
         </p>
         <!-- in reims and sv "item allegat per se Mesala in libro de sphera mota" should probably go in previous paragraph -->
-        <p xml:id="l78-iapaoi">
+        <p xml:id="ppra-l78-iapaoi">
           <pc type="#pilcrow"/>Et ex hac radice duplicem habent institutum scilicet universalis et particularis pro cuius declaratione advertendum est quod 
           <lb ed="#P"/>providere speciebus pro regimine universi sunt particulares institutus provenientes ex parte naturae <pc type="#punctus"/> <pc type="#pilcrow"/>Primus est appetitus 
           <lb ed="#P"/>aliquid cognoscendum <pc type="virgula">/</pc> unde quia homo non sufficeret se solo vivere <pc type="#punctus"/> natura inclinavit ad civiliter conversandum 
