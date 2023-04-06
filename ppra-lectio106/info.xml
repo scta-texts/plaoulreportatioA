@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio106">
+      <head xml:id="ppra-l106-Hldlldl">Lectio 106, de Libertate</head>
+      <div xml:id="ppra-l106-Dd1e109">
+        <head xml:id="ppra-l106-Hppoppo">Prima propositio</head>
+        <p xml:id="ppra-l106-cmidsr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-cmidsr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-cmidsr"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l106-Dd1e118">
+        <head xml:id="ppra-l106-Hcennpo">Circa explanationes naturales pro occulto</head>
+        <p xml:id="ppra-l106-htmvqq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-htmvqq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-htmvqq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l106-echesm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-echesm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-echesm"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l106-Dd1e143">
+          <head xml:id="ppra-l106-Hpsvsvp">Primo: secundum viam platonicam</head>
+          <p xml:id="ppra-l106-psvphr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-psvphr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-psvphr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e165">
+          <head xml:id="ppra-l106-Hssvsva">Secundo: secundum viam aristotelis</head>
+          <p xml:id="ppra-l106-spsrvs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-spsrvs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-spsrvs"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e192">
+          <head xml:id="ppra-l106-Htvatva">Tertia via</head>
+          <p xml:id="ppra-l106-tvhcvo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tvhcvo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tvhcvo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e217">
+          <head xml:id="ppra-l106-Hqsoogp">Quarto: secundum opinionem Guillelmi Parisiensis</head>
+          <p xml:id="ppra-l106-qpsaeo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-qpsaeo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-qpsaeo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e232">
+          <head xml:id="ppra-l106-Hqqasts">Quinto: quod anima humana sit tanquam speculum</head>
+          <p xml:id="ppra-l106-qpsqrs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-qpsqrs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-qpsqrs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-eisqso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-eisqso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-eisqso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-eiqado">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-eiqado"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-eiqado"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l106-Dd1e257">
+        <head xml:id="ppra-l106-Hd1e259">Secunda propositio</head>
+        <p xml:id="ppra-l106-spmoep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-spmoep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-spmoep"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l106-Dd1e274">
+        <head xml:id="ppra-l106-Hd1e276">Tertia Propositio</head>
+        <p xml:id="ppra-l106-tpmasp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tpmasp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tpmasp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l106-Dd1e284">
+        <head xml:id="ppra-l106-Hqdoiii">Quod daemon operatur quadrupliciter in istis
+          inferioribus.</head>
+        <p xml:id="ppra-l106-ueaiii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-ueaiii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-ueaiii"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l106-Dd1e292">
+          <head xml:id="ppra-l106-Hpmolip">Primus modus operandi</head>
+          <p xml:id="ppra-l106-paclip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-paclip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-paclip"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e301">
+          <head xml:id="ppra-l106-Hsmosmo">Secundus modus operandi</head>
+          <p xml:id="ppra-l106-sdopam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sdopam"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sdopam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-eqatcp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-eqatcp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-eqatcp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e319">
+          <head xml:id="ppra-l106-Htmtmtm">Tertius Modus</head>
+          <p xml:id="ppra-l106-tdoaub">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tdoaub"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tdoaub"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l106-Dd1e327">
+            <head xml:id="ppra-l106-Hqneptc">Quod non est impossibile quin res spiritualis possit
+              trahere corporalem</head>
+            <p xml:id="ppra-l106-rqscsi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l106-rqscsi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-rqscsi"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l106-padcms">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l106-padcms"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-padcms"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l106-svqmcl">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l106-svqmcl"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-svqmcl"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l106-tnaudo">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tnaudo"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tnaudo"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l106-qipmrc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l106-qipmrc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-qipmrc"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l106-Dd1e374">
+          <head xml:id="ppra-l106-Hqmoqmo">Quartus modus operandi</head>
+          <p xml:id="ppra-l106-aegfpg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-aegfpg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-aegfpg"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l106-Dd1e411">
+        <head xml:id="ppra-l106-Hraddqg">Responsio ad difficultates quarti generis</head>
+        <p xml:id="ppra-l106-sareha">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sareha"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sareha"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l106-Dd1e419">
+          <head xml:id="ppra-l106-Hrgprgp">Responsio Guillelmi Parisiensis</head>
+          <p xml:id="ppra-l106-hrseih">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-hrseih"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-hrseih"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-scqigf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-scqigf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-scqigf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-srpsev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-srpsev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-srpsev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-apdcei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-apdcei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-apdcei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sipiet">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sipiet"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sipiet"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-tipnpa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tipnpa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tipnpa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e457">
+          <head xml:id="ppra-l106-Hrpqsrc">Responsio Platonis: quod daemones sunt realiter
+            corporalia</head>
+          <p xml:id="ppra-l106-snepev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-snepev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-snepev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sispfa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sispfa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sispfa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e509">
+          <head xml:id="ppra-l106-Hrqdfnm">Responsio: quod de per se nihil faciunt nisi
+            materialem</head>
+          <p xml:id="ppra-l106-rqdfnm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-rqdfnm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-rqdfnm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-pqaiil">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-pqaiil"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-pqaiil"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sspcpi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sspcpi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sspcpi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-tspdhc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tspdhc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tspdhc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-qpcair">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-qpcair"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-qpcair"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-ebndao">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-ebndao"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-ebndao"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-samavp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-samavp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-samavp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-slcdio">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-samavp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-samavp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-ateqeh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-ateqeh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-ateqeh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-dsedfd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-dsedfd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-dsedfd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-icoeem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-icoeem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-icoeem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-ctifif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-ctifif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-ctifif"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sniras">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sniras"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sniras"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l106-Dd1e599">
+          <head xml:id="ppra-l106-Hqmnndp">Quod magi non deberent permitti </head>
+          <p xml:id="ppra-l106-e6aibp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-e6aibp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-e6aibp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sdqeso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sdqeso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sdqeso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-tdqepo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-tdqepo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-tdqepo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-ifabrp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-ifabrp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-ifabrp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-qifdrr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-qifdrr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-qifdrr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-sdqefv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-sdqefv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-sdqefv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l106-dfafpm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l106-dfafpm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l106-dfafpm"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

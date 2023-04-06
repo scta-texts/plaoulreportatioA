@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio107">
+      <head xml:id="ppra-l107-Hldlldl">Lectio 107, de Libertate</head>
+      <div xml:id="ppra-l107-Dd1e109">
+        <head xml:id="ppra-l107-Hdevdev">De efficacia verborum</head>
+        <p xml:id="ppra-l107-iplsmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-iplsmp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-iplsmp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-caqeim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-caqeim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-caqeim"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-snoaee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-snoaee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-snoaee"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l107-iceeee">
+            <lb ed="#P"/><pc type="pilcrow"/>
+            Item, 
+            capitula 
+            evangelii gestata vel addita vel prolata inveniuntur 
+            profuisse pluribus igitur verbis attribuenda est 
+            <sic>est</sic> efficacia.
+          </p>-->
+        <p xml:id="ppra-l107-qisgaa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qisgaa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qisgaa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-qgplcq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qgplcq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qgplcq"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e155">
+        <head xml:id="ppra-l107-Hdesdes">De efficacia sortis</head>
+        <p xml:id="ppra-l107-daqehe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-daqehe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-daqehe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e205">
+        <head xml:id="ppra-l107-Hdeadea">De efficacia augurio</head>
+        <p xml:id="ppra-l107-daspme">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-daspme"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-daspme"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-idaale">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-idaale"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-idaale"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-udasds">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-udasds"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-udasds"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-icacie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-icacie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-icacie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-iccnpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-iccnpp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-iccnpp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-iplssp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-iplssp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-iplssp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e294">
+        <head xml:id="ppra-l107-Hraadev">Responsio ad argumenta de efficacia verborum</head>
+        <p xml:id="ppra-l107-psihvf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-psihvf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-psihvf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-epmdev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-epmdev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-epmdev"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-smpnes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-smpnes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-smpnes"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-eqamhi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-eqamhi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-eqamhi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-tpivnp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-tpivnp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-tpivnp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-qvhpsr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qvhpsr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qvhpsr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-qpvvhe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qpvvhe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qpvvhe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-sdqeod">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-sdqeod"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-sdqeod"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-sdqsma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-sdqsma"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-sdqsma"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-eqasia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-eqasia"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-eqasia"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e386">
+        <head xml:id="ppra-l107-Hraaads">Responsio ad argumenta de sorte</head>
+        <p xml:id="ppra-l107-saaslu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-saaslu"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-saaslu"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-aesfed">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-aesfed"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-aesfed"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-etnehc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-etnehc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-etnehc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e413">
+        <head xml:id="ppra-l107-Hraaada">Responsio ad argumenta de augirio</head>
+        <p xml:id="ppra-l107-daanos">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-daanos"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-daanos"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-idnerf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-idnerf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-idnerf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-rsueva">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-rsueva"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-rsueva"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-sdasdq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-sdasdq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-sdasdq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-tdqsdq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-tdqsdq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-tdqsdq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-qsassa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qsassa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qsassa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-qdqsaq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qdqsaq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-qdqsaq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-ctmpss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-ctmpss"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-ctmpss"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l107-ueaeai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-ueaeai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-ueaeai"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l107-Dd1e505">
+        <head xml:id="ppra-l107-Hrdordo">Responsio de <unclear>ognimibus</unclear></head>
+        <p xml:id="ppra-l107-rtrvem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-rtrvem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-rtrvem"/>
+          </assertions>
+        </p>
+        <!-- 
+            doesn't seem present 
+            <p xml:id="ppra-l107-sdqleo">
+            Secundo, 
+            dicitur quod per accidens potuit contingere quod aliquod 
+            tale quid sequitur ut effectus esset per accidens si ab 
+            aliqua tali causa contingeret loco effectus oppositi.
+          </p>
+          <p xml:id="ppra-l107-tdqlpn">
+            Tertio, 
+            dicitur quod demeritis exigentibus creatura aliquando illuditur 
+            a diabolo, 
+            ut dicit 
+            <cit>
+              <ref xml:id="ppra-l107-Rd1e526"><name xml:id="ppra-l107-Nd1e530" ref="#JohnOfSalisbury">Salbriensis</name></ref>
+              <bibl>XXX</bibl>
+            </cit>, 
+            tamen divina providentia 
+            ad terrorem peccatorum et ad revocationem ad morum honestatem 
+            consuevit facere signa et prodigia ut 
+            tereantur fideles, 
+            et hoc habetur 
+            <cit>
+              <ref xml:id="ppra-l107-Rd1e536">
+                in libro <name xml:id="ppra-l107-Nd1e541" ref="#JohnOfSalisbury">Salberiensis</name>, 
+                capitulo quarto</ref>
+            </cit> 
+            et allegat ibi <name xml:id="ppra-l107-Nd1e546" ref="#Josephus">Iosephum</name> et specialiter de 
+            hiis quae non possunt fieri per naturam ut de eclipsi 
+            lunae per 12ci noctes.
+          </p>
+          <p xml:id="ppra-l107-udqfad">
+            Ultimo dicitur quod textu 
+            <cit>
+              <ref xml:id="ppra-l107-Rd1e551"><title ref="#Decretals">Decreti</title></ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            condemnatur astrologia, 
+            sed hoc est quantum ad 
+            fabricationem imaginum et ad horas ibidem observatas 
+            et alia superstitiosa quibus homines alios 
+            decipiunt, etiam usus astra labii Reprobatur quantum ad 
+            applicationem cum certa coniuratione, non tamen condemnatur 
+            in praedicto textu scientia astrologiae quantum ad modum 
+            et iudicia de quibus forte deo fauente aliquid dicetur.
+          </p>-->
+      </div>
+    </div>
+  </body>
+</info>
