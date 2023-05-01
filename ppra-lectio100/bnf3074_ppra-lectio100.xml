@@ -52,10 +52,10 @@
         <div xml:id="ppra-l100-Dd1e109">
           <head xml:id="ppra-l100-Hccpccp">Circa corruptelam peccati</head>
           <p xml:id="ppra-l100-apmitd">
-            <lb ed="#P"/>Consequenter circa materiam de responsionem deorum antequam procedatur ulterius aliqualiter oportet insistere circa corruptelam 
-            <lb ed="#P"/>peccati quae est radix haeresum et omnium malorum morum et malarum cogitationum praeter rationes <unclear>inductas</unclear> 
-            <lb ed="#P"/>quia aliquibus non videtur quod ex peccati corruptela creatura incidat in tot errores parvos et malos 
-            <lb ed="#P"/>mores et malas cogitationes et in tot deffectus
+            <lb ed="#P" n="21"/>Consequenter circa materiam de responsionem deorum antequam procedatur ulterius aliqualiter oportet insistere circa corruptelam 
+            <lb ed="#P" n="22"/>peccati quae est radix haeresum et omnium malorum morum et malarum cogitationum praeter rationes <unclear>inductas</unclear> 
+            <lb ed="#P" n="23"/>quia aliquibus non videtur quod ex peccati corruptela creatura incidat in tot errores parvos et malos 
+            <lb ed="#P" n="24"/>mores et malas cogitationes et in tot deffectus
           </p> 
           <div xml:id="ppra-l100-Dd1e117">
             <head xml:id="ppra-l100-Hrqeepc">Rationes quod errores mores ac malas cogitationes ex peccati corruptela</head>
@@ -63,38 +63,38 @@
             <head xml:id="ppra-l100-Hpropro">Prima ratio</head>
               <p xml:id="ppra-l100-eiapep">
                 Et ideo arguitur primo auctoritate scripturae sacrae ubi dicitur 
-                <lb ed="#P"/>Corpus aggravat animam et depravat sensum multa cogitantem per corpus quod aggravat animam intelligitur 
-                <lb ed="#P"/>corpus infectum corruptela culpae originalis et poenae sequentis <pc type="punctus"/> nam ipsum aggravat animam quia sicut 
-                <lb ed="#P"/>sunt quantitates motivae in corporibus ita in spiritualibus Ideo dicit <ref xml:id="ppra-l100-Rzdv3e3" corresp="#l100-Qa3ve3e"><name xml:id="ppra-l100-Nd1e131" ref="#Augustine">augustinus</name> in libro <title ref="#Confessions">confessionum</title></ref> <quote xml:id="ppra-l100-Qa3ve3e" source="http://scta.info/resource/aconf-l13-d1e150">Amor meus pondus meum</quote>
-                <lb ed="#P"/>nam sicut levitas movet corpus sursum et gravitas deorsum ita caritas movet mentem sursum erigendo 
-                <lb ed="#P"/>in deum et cupiditas quae est vitiosa qualitas aggravat animam et movet eam deorsum quia inclinat creaturam 
-                <lb ed="#P"/>ad contrarium sui finis debiti ad <sic>ad</sic> quem caritas ducit Ideo bene dicitur quod cupiditas aggravat animam id est deprimit 
-                <lb ed="#P"/>vires quantum ad potentiam rationalem eam detrudendo in tenebras et deprimit anima quantum ad peccatum et poenam.
+                <lb ed="#P" n="25"/>Corpus aggravat animam et depravat sensum multa cogitantem per corpus quod aggravat animam intelligitur 
+                <lb ed="#P" n="26"/>corpus infectum corruptela culpae originalis et poenae sequentis <pc type="punctus"/> nam ipsum aggravat animam quia sicut 
+                <lb ed="#P" n="27"/>sunt quantitates motivae in corporibus ita in spiritualibus Ideo dicit <ref xml:id="ppra-l100-Rzdv3e3" corresp="#l100-Qa3ve3e"><name xml:id="ppra-l100-Nd1e131" ref="#Augustine">augustinus</name> in libro <title ref="#Confessions">confessionum</title></ref> <quote xml:id="ppra-l100-Qa3ve3e" source="http://scta.info/resource/aconf-l13-d1e150">Amor meus pondus meum</quote>
+                <lb ed="#P" n="28"/>nam sicut levitas movet corpus sursum et gravitas deorsum ita caritas movet mentem sursum erigendo 
+                <lb ed="#P" n="29"/>in deum et cupiditas quae est vitiosa qualitas aggravat animam et movet eam deorsum quia inclinat creaturam 
+                <lb ed="#P" n="30"/>ad contrarium sui finis debiti ad <sic>ad</sic> quem caritas ducit Ideo bene dicitur quod cupiditas aggravat animam id est deprimit 
+                <lb ed="#P" n="31"/>vires quantum ad potentiam rationalem eam detrudendo in tenebras et deprimit anima quantum ad peccatum et poenam.
               </p>
             </div>
             <div xml:id="ppra-l100-Dd1e146">
               <head xml:id="ppra-l100-Hsrosro">Secunda ratio</head>
               <p xml:id="ppra-l100-saeoli">
                 <pc type="pilcrow"/> 2o arguitur ex imaginatione doctorum antiquorum nam anima rationalis creata est in orizonte distinguente lucem 
-                <lb ed="#P"/>a tenebris <pc type="virgula">/</pc> vel in <sic>emisperium</sic> lucis distinguens eam a regione tenebrarum Et virtutes tam morales quam 
-                <lb ed="#P"/>gratuite movent eam ad regionem lucis in qua regione <name xml:id="ppra-l100-Nd1e153" ref="#Adam">adam</name> fuisset semper in statu innocentiae 
-                <lb ed="#P"/>si cupiditas non eum movisset ad regionem tenebrarum inferius et per consequens quantum ad lumen cognoscendae 
-                <lb ed="#P"/>veritatis obtenebratur rationalis potentia in regione tenebrarum ymaginandum est tamen quod anima de se creata est in 
-                <lb ed="#P"/>orizonte distinguente lucem a tenebris <pc type="punctus"/> et ipsa per virtutes movetur in regionem lucis et emisperium rerum 
-                <lb ed="#P"/>spiritualium Et viceversa ipsa movetur per cupiditatem in tenebras <pc type="punctus"/> ubi obfuscatur lumen intelligentiae
+                <lb ed="#P" n="32"/>a tenebris <pc type="virgula">/</pc> vel in <sic>emisperium</sic> lucis distinguens eam a regione tenebrarum Et virtutes tam morales quam 
+                <lb ed="#P" n="33"/>gratuite movent eam ad regionem lucis in qua regione <name xml:id="ppra-l100-Nd1e153" ref="#Adam">adam</name> fuisset semper in statu innocentiae 
+                <lb ed="#P" n="34"/>si cupiditas non eum movisset ad regionem tenebrarum inferius et per consequens quantum ad lumen cognoscendae 
+                <lb ed="#P" n="35"/>veritatis obtenebratur rationalis potentia in regione tenebrarum ymaginandum est tamen quod anima de se creata est in 
+                <lb ed="#P" n="36"/>orizonte distinguente lucem a tenebris <pc type="punctus"/> et ipsa per virtutes movetur in regionem lucis et emisperium rerum 
+                <lb ed="#P" n="37"/>spiritualium Et viceversa ipsa movetur per cupiditatem in tenebras <pc type="punctus"/> ubi obfuscatur lumen intelligentiae
               </p>
             </div>
             <div xml:id="ppra-l100-Dd1e158">
               <head xml:id="ppra-l100-Htrotro">Tertia ratio</head>
               <p xml:id="ppra-l100-taaefc">
                 <pc type="pilcrow"/>3o arguitur auctoritate <name xml:id="ppra-l100-Nd1e165" ref="#Paul">apostoli</name> dicentis quod <quote xml:id="ppra-l100-Qd1e168" source="http://scta.info/resource/IIcor3_5">nihil est nobis tamquam ex nobis</quote> et quantum ad vim rationalem loquitur quia ipse 
-                <lb ed="#P"/>intelligit cognitione igitur quantum ad veritatem caritatis perficit intellectum non sufficientem eam ex nobis adquirere <pc type="punctus"/> sed sufficientia 
-                <lb ed="#P"/>nostra ex deo est igitur anima cupiditati subiecta tendit in errores <pc type="punctus"/> nec sufficit in veritates cognoscendas de 
-                <lb ed="#P"/>sua felicitate aliquid cogitare <pc type="pilcrow"/> unde <name xml:id="ppra-l100-Nd1e171" ref="#Augustine">augustinus</name> contra <name xml:id="ppra-l100-Nd1e174" ref="#Julian">iulianum</name> et <name xml:id="ppra-l100-Nd1e177" ref="#Pelagius">pelagium</name> plura scripsit <pc type="pilcrow"/> Ad istam tamen ymaginationem 
-                <lb ed="#P"/>consonat nam ipse ait quod oportet animam cupiditate vel caritate dirigi nec anima sufficit quantum ad intellectum practicum 
-                <lb ed="#P"/>habere intellectum rectum de agibilibus <pc type="punctus"/> nec bonum effectum in volitionibus rectis sed quicquid elicit deficiendo 
-                <lb ed="#P"/>vult quia semper fruitur creatura et habet creaturam pro obiecto <pc type="punctus"/> nam omnis actio deliberata extra caritatem est mala <pc type="punctus"/> et 
-                <lb ed="#P"/>peccatum et fruitio creaturae
+                <lb ed="#P" n="38"/>intelligit cognitione igitur quantum ad veritatem caritatis perficit intellectum non sufficientem eam ex nobis adquirere <pc type="punctus"/> sed sufficientia 
+                <lb ed="#P" n="39"/>nostra ex deo est igitur anima cupiditati subiecta tendit in errores <pc type="punctus"/> nec sufficit in veritates cognoscendas de 
+                <lb ed="#P" n="40"/>sua felicitate aliquid cogitare <pc type="pilcrow"/> unde <name xml:id="ppra-l100-Nd1e171" ref="#Augustine">augustinus</name> contra <name xml:id="ppra-l100-Nd1e174" ref="#Julian">iulianum</name> et <name xml:id="ppra-l100-Nd1e177" ref="#Pelagius">pelagium</name> plura scripsit <pc type="pilcrow"/> Ad istam tamen ymaginationem 
+                <lb ed="#P" n="41"/>consonat nam ipse ait quod oportet animam cupiditate vel caritate dirigi nec anima sufficit quantum ad intellectum practicum 
+                <lb ed="#P" n="42"/>habere intellectum rectum de agibilibus <pc type="punctus"/> nec bonum effectum in volitionibus rectis sed quicquid elicit deficiendo 
+                <lb ed="#P" n="43"/>vult quia semper fruitur creatura et habet creaturam pro obiecto <pc type="punctus"/> nam omnis actio deliberata extra caritatem est mala <pc type="punctus"/> et 
+                <lb ed="#P" n="44"/>peccatum et fruitio creaturae
               </p>
               <p xml:id="ppra-l100-echded">
                 Et circa hoc sunt multae auctoritates <ref xml:id="ppra-l100-Rd1e188"><name xml:id="ppra-l100-Nd1e190" ref="#Rimini">gregorii</name> in 2o <title>sententiarum</title></ref> ad propositum <unclear>inductae</unclear> 
@@ -105,170 +105,170 @@
               <head xml:id="ppra-l100-Hqroqro">Quarta ratio</head>
               <p xml:id="ppra-l100-qaapvs">
                 <pc type="pilcrow"/> 4o arguitur auctoritate <ref xml:id="ppra-l100-Rd1e216" target="http://scta.info/resource/aristneth-l1"><name xml:id="ppra-l100-Nd1e218" ref="#Aristotle">aristotelis</name> in primo <title ref="#Ethics">ethicorum</title></ref> qui licet sub terminis nostris et theologicis 
-                <lb ed="#P"/>non dicat tamen aequivalenter dicit quod in nobis est aliquid quod adversatur rationi et est quaedam infirmitas naturalis 
-                <lb ed="#P"/>existens in nobis <pc type="virgula">/</pc> cuius cura sanatur per virtutes et componitur creatura talis quod in ea vires inferiores obediunt 
-                <lb ed="#P"/>rationi <pc type="punctus"/> sed semper intellectus obedit sensui nisi per virtutes sanetur
+                <lb ed="#P" n="45"/>non dicat tamen aequivalenter dicit quod in nobis est aliquid quod adversatur rationi et est quaedam infirmitas naturalis 
+                <lb ed="#P" n="46"/>existens in nobis <pc type="virgula">/</pc> cuius cura sanatur per virtutes et componitur creatura talis quod in ea vires inferiores obediunt 
+                <lb ed="#P" n="47"/>rationi <pc type="punctus"/> sed semper intellectus obedit sensui nisi per virtutes sanetur
               </p>
               <p xml:id="ppra-l100-eceppi">
                 <pc type="pilcrow"/> Et confirmatur ex auctoritate <ref xml:id="ppra-l100-Rd1e234"><name xml:id="ppra-l100-Nd1e236" ref="#Cicero">tullii</name> in libro 
-                <lb ed="#P"/><title ref="#TuscanDisputations">de tusculanis quaestionibus</title></ref> dicentis quod a nativitate homo habet quod natura eius sit recta quantum ad primaeva institutionem 
-                <lb ed="#P"/>et tamen contrariae pravis oppinionibus et erroribus inevitabiliter inducitur anima <pc type="virgula">/</pc> et ideo consequenter dicit evidenter fabulas 
-                <lb ed="#P"/>poeticas esse periculosas iuvenibus et esse expellendas a civitatibus <pc type="pilcrow"/> Sed forte ipse capit nomen poetarum 
-                <lb ed="#P"/>pro ioculatoribus
+                <lb ed="#P" n="48"/><title ref="#TuscanDisputations">de tusculanis quaestionibus</title></ref> dicentis quod a nativitate homo habet quod natura eius sit recta quantum ad primaeva institutionem 
+                <lb ed="#P" n="49"/>et tamen contrariae pravis oppinionibus et erroribus inevitabiliter inducitur anima <pc type="virgula">/</pc> et ideo consequenter dicit evidenter fabulas 
+                <lb ed="#P" n="50"/>poeticas esse periculosas iuvenibus et esse expellendas a civitatibus <pc type="pilcrow"/> Sed forte ipse capit nomen poetarum 
+                <lb ed="#P" n="51"/>pro ioculatoribus
               </p>
             </div>
             <div xml:id="ppra-l100-Dd1e253">
               <head xml:id="ppra-l100-Hqnrqnr">Quinta ratio</head>
               <p xml:id="ppra-l100-qaalsp">
                 <pc type="pilcrow"/> 5o arguitur auctoritate platonis secundum quod recitat <ref xml:id="ppra-l100-Rd1e262"><name xml:id="ppra-l100-Nd1e264" ref="#Macrobius">macrobius</name> in <title>de sompnio cypionis</title></ref>
-                <lb ed="#P"/>qui ponit quod anima inhaerendo corpori et coniunctio eius cum ipso est quaedam eius mortificatio non quod anima 
-                <lb ed="#P"/>desinat esse <pc type="punctus"/> sed per unionem ipsius cum corpore privatur a suis operationibus vitalibus <pc type="punctus"/> nam illa unio imponit 
-                <lb ed="#P"/>laesionem animae cum unitur cum corpore quia anima coniuncta corpori indisponitur ad veritatis contemplationem et inclinatur 
-                <lb ed="#P"/>ad falsitatem <pc type="punctus"/> nam corpus vocatur se sepulchrum animae <add place="above-line">infernum animae</add> et animam vocat mortuam Et nedum scriptura concedit corruptelam 
-                <lb ed="#P"/>sed etiam philosophi <pc type="pilcrow"/>Unde secundum <name xml:id="ppra-l100-Nd1e272" ref="#Macrobius">macrobium</name> anima ex communicatione eius cum corpore inebriatur letheo fluvio <pc type="punctus"/> qui fingitur 
-                <lb ed="#P"/>esse fluvius infernalis <pc type="punctus"/> per cuius potationem potantes obliviscuntur suae felicitatis modo letheus fluvius est in corpore 
-                <lb ed="#P"/>quia per communicationem animae cum corpore ipsa anima redditur in humilis ad summi finis consecutionem et caeca atque 
-                <lb ed="#P"/>prona est ad assentiendum falsitatibus et variis erroribus <pc type="punctus"/> et ponit infernales fluvios animam laedentes secundum potentias
+                <lb ed="#P" n="52"/>qui ponit quod anima inhaerendo corpori et coniunctio eius cum ipso est quaedam eius mortificatio non quod anima 
+                <lb ed="#P" n="53"/>desinat esse <pc type="punctus"/> sed per unionem ipsius cum corpore privatur a suis operationibus vitalibus <pc type="punctus"/> nam illa unio imponit 
+                <lb ed="#P" n="54"/>laesionem animae cum unitur cum corpore quia anima coniuncta corpori indisponitur ad veritatis contemplationem et inclinatur 
+                <lb ed="#P" n="55"/>ad falsitatem <pc type="punctus"/> nam corpus vocatur se sepulchrum animae <add place="above-line">infernum animae</add> et animam vocat mortuam Et nedum scriptura concedit corruptelam 
+                <lb ed="#P" n="56"/>sed etiam philosophi <pc type="pilcrow"/>Unde secundum <name xml:id="ppra-l100-Nd1e272" ref="#Macrobius">macrobium</name> anima ex communicatione eius cum corpore inebriatur letheo fluvio <pc type="punctus"/> qui fingitur 
+                <lb ed="#P" n="57"/>esse fluvius infernalis <pc type="punctus"/> per cuius potationem potantes obliviscuntur suae felicitatis modo letheus fluvius est in corpore 
+                <lb ed="#P" n="58"/>quia per communicationem animae cum corpore ipsa anima redditur in humilis ad summi finis consecutionem et caeca atque 
+                <lb ed="#P" n="59"/>prona est ad assentiendum falsitatibus et variis erroribus <pc type="punctus"/> et ponit infernales fluvios animam laedentes secundum potentias
               </p>
             </div>
             <div xml:id="ppra-l100-Dd1e277">
               <head xml:id="ppra-l100-Hsxrsxr">Sexta ratio</head>
               <p xml:id="ppra-l100-seuepo">
                 <pb ed="#P" n="101-v"/>
-                <lb ed="#P"/><pc type="pilcrow"/> 6o et ultimo arguitur quia quilibet experitur pravas operationes
+                <lb ed="#P" n="1"/><pc type="pilcrow"/> 6o et ultimo arguitur quia quilibet experitur pravas operationes
               </p> 
               <p xml:id="ppra-l100-sedrae">
                 <pc type="pilcrow"/> 2o experitur difficultatem et violentiam a principio 
-                <lb ed="#P"/>ad bene operandum quia doctrina est contra eorum inclinationem <pc type="virgula">/</pc> ideo verberibus et terroribus inducuntur pueri 
-                <lb ed="#P"/>ad doctrinam quia magis refugiunt eam et refutant frequentare scolas et tendunt ad contrarium aliud quam deberent tenere 
-                <lb ed="#P"/>modo doctrina est dispositio convenientissima quae tamen ab eis refugitur
+                <lb ed="#P" n="2"/>ad bene operandum quia doctrina est contra eorum inclinationem <pc type="virgula">/</pc> ideo verberibus et terroribus inducuntur pueri 
+                <lb ed="#P" n="3"/>ad doctrinam quia magis refugiunt eam et refutant frequentare scolas et tendunt ad contrarium aliud quam deberent tenere 
+                <lb ed="#P" n="4"/>modo doctrina est dispositio convenientissima quae tamen ab eis refugitur
               </p>
               <p xml:id="ppra-l100-tedehn">
                 <pc type="pilcrow"/> 3o experimur deffectus maiores circa individua 
-                <lb ed="#P"/>humanae speciei <pc type="virgula">/</pc> nam alia animalia statim nata vitari sibi procurant et homo non
+                <lb ed="#P" n="5"/>humanae speciei <pc type="virgula">/</pc> nam alia animalia statim nata vitari sibi procurant et homo non
               </p>
               <p xml:id="ppra-l100-iihaid">
                 Item illa 
-                <lb ed="#P"/>habent prudentiam sufficientem pro vita conservanda sicut <unclear>formata</unclear> quae parvum est animal <pc type="punctus"/> et tamen homo derelictus 
-                <lb ed="#P"/>non haberet aequalem prudentiam bestiis ymmo minorem quia adveniente mala consuetudine creatura 
-                <lb ed="#P"/>efficeretur peior <pc type="pilcrow"/> unde si homo nutriretur inter aliam esset peior animalibus et ideo homo sine virtutibus 
-                <lb ed="#P"/>est animal sceleratissimum secundum <ref xml:id="ppra-l100-Rd1e295"><name xml:id="ppra-l100-Nd1e297" ref="#Aristotle">philosophum</name> in libro <title ref="#Politics">politicarum</title> </ref> Et sic natura humana derelicta tendit de directo in 
-                <lb ed="#P"/>malum <pc type="punctus"/> sed de <unclear>primaria</unclear> sui iustitione non ymmo in bonum summum directa tamen ab agente infallibili 
+                <lb ed="#P" n="6"/>habent prudentiam sufficientem pro vita conservanda sicut <unclear>formata</unclear> quae parvum est animal <pc type="punctus"/> et tamen homo derelictus 
+                <lb ed="#P" n="7"/>non haberet aequalem prudentiam bestiis ymmo minorem quia adveniente mala consuetudine creatura 
+                <lb ed="#P" n="8"/>efficeretur peior <pc type="pilcrow"/> unde si homo nutriretur inter aliam esset peior animalibus et ideo homo sine virtutibus 
+                <lb ed="#P" n="9"/>est animal sceleratissimum secundum <ref xml:id="ppra-l100-Rd1e295"><name xml:id="ppra-l100-Nd1e297" ref="#Aristotle">philosophum</name> in libro <title ref="#Politics">politicarum</title> </ref> Et sic natura humana derelicta tendit de directo in 
+                <lb ed="#P" n="10"/>malum <pc type="punctus"/> sed de <unclear>primaria</unclear> sui iustitione non ymmo in bonum summum directa tamen ab agente infallibili 
               </p>
             </div>
           </div>
           <div xml:id="ppra-l100-Dd1e314">
             <head xml:id="ppra-l100-Hormorm">Opinio Rabbi Moyses</head>
             <p xml:id="ppra-l100-eirsho">
-              <lb ed="#P"/><pc type="pilcrow"/> Ex istis radicibus sequitur <unclear>proba?tas</unclear> vel verisimilitudo illius quod dicit <ref xml:id="ppra-l100-Rd1e323"><name xml:id="ppra-l100-Nd1e325" ref="#Maimonides">rabbi moyses</name> in 3o libro <title ref="#GuideForThePerplexed">de 
-              <lb ed="#P"/>duce dubiorum</title></ref> de gente <unclear>casede</unclear> quae est gens sabiorum credente deum esse creaturam puram corporalem 
-              <lb ed="#P"/>quia caelum vel ignem ponit esse deum et dicit ibi aliqua quae sunt incredibilia sed tamen attenta peccati 
-              <lb ed="#P"/>originalis corruptela est bene credibile nam dicit quod gens huiusmodi concessit <name xml:id="ppra-l100-Nd1e339" ref="#Adam">adam</name> fuisse et esse prophetam lunae 
-              <lb ed="#P"/>et colere lunam qui de terra promissionis veniens attulit arborem auri cum frondibus quae 
-              <lb ed="#P"/>faciunt hominum depravationes ex peccati corruptela et ibi ydolatriam artem ymagini et divinationum 
-              <lb ed="#P"/>et artes sacrilegas habuisse originem
+              <lb ed="#P" n="11"/><pc type="pilcrow"/> Ex istis radicibus sequitur <unclear>proba?tas</unclear> vel verisimilitudo illius quod dicit <ref xml:id="ppra-l100-Rd1e323"><name xml:id="ppra-l100-Nd1e325" ref="#Maimonides">rabbi moyses</name> in 3o libro <title ref="#GuideForThePerplexed">de 
+              <lb ed="#P" n="12"/>duce dubiorum</title></ref> de gente <unclear>casede</unclear> quae est gens sabiorum credente deum esse creaturam puram corporalem 
+              <lb ed="#P" n="13"/>quia caelum vel ignem ponit esse deum et dicit ibi aliqua quae sunt incredibilia sed tamen attenta peccati 
+              <lb ed="#P" n="14"/>originalis corruptela est bene credibile nam dicit quod gens huiusmodi concessit <name xml:id="ppra-l100-Nd1e339" ref="#Adam">adam</name> fuisse et esse prophetam lunae 
+              <lb ed="#P" n="15"/>et colere lunam qui de terra promissionis veniens attulit arborem auri cum frondibus quae 
+              <lb ed="#P" n="16"/>faciunt hominum depravationes ex peccati corruptela et ibi ydolatriam artem ymagini et divinationum 
+              <lb ed="#P" n="17"/>et artes sacrilegas habuisse originem
             </p>
             <p xml:id="ppra-l100-ssqmis">
               <pc type="pilcrow"/> 2o sequitur quod difficultas resistendi dyabolo non oritur 
-              <lb ed="#P"/>ex poteste et magnitudine illius <pc type="punctus"/> sed ex pronitate resistentiae quia tanta facilitas humanae naturae est ad malum 
-              <lb ed="#P"/>quod minimus impulsus sufficeret
+              <lb ed="#P" n="18"/>ex poteste et magnitudine illius <pc type="punctus"/> sed ex pronitate resistentiae quia tanta facilitas humanae naturae est ad malum 
+              <lb ed="#P" n="19"/>quod minimus impulsus sufficeret
             </p>
             <p xml:id="ppra-l100-tscmie">
               <pc type="pilcrow"/> 3o sequitur contra inpugnantis <name xml:id="ppra-l100-Nd1e348" ref="#Bradwardine">brovardin</name> dicentem quod ydolatriae 
-              <lb ed="#P"/>adorabant rem pure corporalem tanquam deum nam aliqui contra hoc dicunt quod numquam fuit tanta deliratio 
-              <lb ed="#P"/>humanae mentis quod iudicaret creaturam corporalem esse deum <pc type="pilcrow"/>Sed oppositum dicitur quod ex corruptela peccati est inclinatio ad 
-              <lb ed="#P"/>sacrilegas falsitates et tanto deteriores <pc type="punctus"/> quanto vehementius mens movetur in eas
+              <lb ed="#P" n="20"/>adorabant rem pure corporalem tanquam deum nam aliqui contra hoc dicunt quod numquam fuit tanta deliratio 
+              <lb ed="#P" n="21"/>humanae mentis quod iudicaret creaturam corporalem esse deum <pc type="pilcrow"/>Sed oppositum dicitur quod ex corruptela peccati est inclinatio ad 
+              <lb ed="#P" n="22"/>sacrilegas falsitates et tanto deteriores <pc type="punctus"/> quanto vehementius mens movetur in eas
             </p>
             <p xml:id="ppra-l100-qspouc">
               <pc type="pilcrow"/> 4o sequitur probabile dicere 
-              <lb ed="#P"/>amarum diligere denarium absque relatione in aliud <pc type="virgula">/</pc> nam secundum institutionem politicam denarius est constitutus et 
-              <lb ed="#P"/>ad procurandum necessaria modo constat aliquem tantum delicare quod denarium ad usum non diligit <pc type="punctus"/> ut 
-              <lb ed="#P"/>apparet experimento quod si aliquis <unclear>habundet</unclear> denariis tantum quod non solum diligat propter usum sed propter formam 
-              <lb ed="#P"/>Eo modo erit avaritia quae recte dicitur ydolorum servitus <pc type="virgula">/</pc> quia stat quod aliquis tanquam pro fine ultimo prostituat sibi 
-              <lb ed="#P"/>divitias omni usu circumscripto
+              <lb ed="#P" n="23"/>amarum diligere denarium absque relatione in aliud <pc type="virgula">/</pc> nam secundum institutionem politicam denarius est constitutus et 
+              <lb ed="#P" n="24"/>ad procurandum necessaria modo constat aliquem tantum delicare quod denarium ad usum non diligit <pc type="punctus"/> ut 
+              <lb ed="#P" n="25"/>apparet experimento quod si aliquis <unclear>habundet</unclear> denariis tantum quod non solum diligat propter usum sed propter formam 
+              <lb ed="#P" n="26"/>Eo modo erit avaritia quae recte dicitur ydolorum servitus <pc type="virgula">/</pc> quia stat quod aliquis tanquam pro fine ultimo prostituat sibi 
+              <lb ed="#P" n="27"/>divitias omni usu circumscripto
             </p>
             <p xml:id="ppra-l100-qspscc">
               <pc type="pilcrow"/> 5o sequitur possibilitas adorationis ignis per <name xml:id="ppra-l100-Nd1e361" ref="#Chaldeans">caldeos</name> unde deus <name xml:id="ppra-l100-Nd1e364" ref="#Abraham">abraham</name> 
-              <lb ed="#P"/>verberavit de <unclear>vi</unclear> <name xml:id="ppra-l100-Nd1e367" ref="#Chaldeans">caldeorum</name> <pc type="punctus"/> nam <name xml:id="ppra-l100-Nd1e370" ref="#Abraham">abraham</name> natus est in <name xml:id="ppra-l100-Nd1e373" type="place">caldea</name> nisi colebatur ignis tanquam 
-              <lb ed="#P"/>deus <pc type="punctus"/> sed quia reprobavit cultum illum ponendo differentiam inter agens principale et eius instrumentum fuit ob <unclear>he?</unclear> 
-              <lb ed="#P"/>in igne positus et deus eum liberavit Et hoc est quod ait <name xml:id="ppra-l100-Nd1e377" ref="#Ezra">esdras</name> <ref><name xml:id="ppra-l100-Nd1e380" ref="#Nehemiah">neemiae</name> 4o capitulo</ref> 
-              <lb ed="#P"/><del rend="strikethrough">abraham</del> faciens orationem suam ait <quote xml:id="ppra-l100-Qd1e385" source="http://scta.info/resource/neh9_7@1-13">tu domine deus qui eripuisti <name xml:id="ppra-l100-Nd1e387" ref="#Abraham">abraham</name> de igne <name xml:id="ppra-l100-Nd1e390" ref="#Chaldeans">caldeorum</name></quote>
-              <lb ed="#P"/>unde tanta potest esse deliratio creaturae quod ipsa adoret corporale tanquam deum <pc type="pilcrow"/> unde sapientiae 13mo scribitur 
-              <lb ed="#P"/><quote xml:id="ppra-l100-Qd1e394" source="http://scta.info/resource/sap13_1">nec operibus attendentes cognoverunt quis esset artifex aut ignem aut lunam aut caelum aut elementum 
-              <lb ed="#P"/>et tales rectores deos putaverunt</quote> et sic creaturam coluerunt
+              <lb ed="#P" n="28"/>verberavit de <unclear>vi</unclear> <name xml:id="ppra-l100-Nd1e367" ref="#Chaldeans">caldeorum</name> <pc type="punctus"/> nam <name xml:id="ppra-l100-Nd1e370" ref="#Abraham">abraham</name> natus est in <name xml:id="ppra-l100-Nd1e373" type="place">caldea</name> nisi colebatur ignis tanquam 
+              <lb ed="#P" n="29"/>deus <pc type="punctus"/> sed quia reprobavit cultum illum ponendo differentiam inter agens principale et eius instrumentum fuit ob <unclear>he?</unclear> 
+              <lb ed="#P" n="30"/>in igne positus et deus eum liberavit Et hoc est quod ait <name xml:id="ppra-l100-Nd1e377" ref="#Ezra">esdras</name> <ref><name xml:id="ppra-l100-Nd1e380" ref="#Nehemiah">neemiae</name> 4o capitulo</ref> 
+              <lb ed="#P" n="31"/><del rend="strikethrough">abraham</del> faciens orationem suam ait <quote xml:id="ppra-l100-Qd1e385" source="http://scta.info/resource/neh9_7@1-13">tu domine deus qui eripuisti <name xml:id="ppra-l100-Nd1e387" ref="#Abraham">abraham</name> de igne <name xml:id="ppra-l100-Nd1e390" ref="#Chaldeans">caldeorum</name></quote>
+              <lb ed="#P" n="32"/>unde tanta potest esse deliratio creaturae quod ipsa adoret corporale tanquam deum <pc type="pilcrow"/> unde sapientiae 13mo scribitur 
+              <lb ed="#P" n="33"/><quote xml:id="ppra-l100-Qd1e394" source="http://scta.info/resource/sap13_1">nec operibus attendentes cognoverunt quis esset artifex aut ignem aut lunam aut caelum aut elementum 
+              <lb ed="#P" n="34"/>et tales rectores deos putaverunt</quote> et sic creaturam coluerunt
             </p>
           </div>
           <div xml:id="ppra-l100-Dd1e400">
             <head xml:id="ppra-l100-Hocecer">Obiecto <unclear>caldaeis[?]</unclear> et responsio</head>
             <p xml:id="ppra-l100-scaavc">
               Sed contra arguitur de <name xml:id="ppra-l100-Nd1e413" ref="#Chaldeans">caldeis</name> quia gens <name xml:id="ppra-l100-Nd1e416" ref="#Chaldeans">caldesim</name> 
-              <lb ed="#P"/>est gens <name xml:id="ppra-l100-Nd1e419" ref="#Chaldeans">caldeica</name> et tamen adoraverunt solem pro deo principali et lunam pro deo minus principali ex eo quod 
-              <lb ed="#P"/>experiebantur nobiles operationes solis et lunae <pc type="punctus"/> tamen scriptura dicit quod <name xml:id="ppra-l100-Nd1e422" rend="#Abraham">abraham</name> est liberatus ab <unclear>vi</unclear> <name xml:id="ppra-l100-Nd1e430" ref="#Chaldeans">cal<lb ed="#P"/>deorum</name>
+              <lb ed="#P" n="35"/>est gens <name xml:id="ppra-l100-Nd1e419" ref="#Chaldeans">caldeica</name> et tamen adoraverunt solem pro deo principali et lunam pro deo minus principali ex eo quod 
+              <lb ed="#P" n="36"/>experiebantur nobiles operationes solis et lunae <pc type="punctus"/> tamen scriptura dicit quod <name xml:id="ppra-l100-Nd1e422" rend="#Abraham">abraham</name> est liberatus ab <unclear>vi</unclear> <name xml:id="ppra-l100-Nd1e430" ref="#Chaldeans">cal<lb ed="#P" break="no" n="37"/>deorum</name>
             </p>
             <p xml:id="ppra-l100-rqcien">
               <pc type="pilcrow"/>Respondetur quod <name xml:id="ppra-l100-Nd1e436" ref="#Chaldeans">caldeorum</name> opinio fuit quod caelum sit de natura ignis <pc type="virgula">/</pc> probatio quod sit ignis nam dicit <ref xml:id="ppra-l100-Rd1e438"><name xml:id="ppra-l100-Nd1e442" rend="#Cicero">tullius</name> 
-              <lb ed="#P"/>in 6o libro <title>de republica</title></ref> hoc sententialiter nam ipse vocat stellas sempiternos ignes scilicet in textu quem exponit 
-              <lb ed="#P"/><name xml:id="ppra-l100-Nd1e452" rend="#Macrobius">macrobius</name> et sic non est discrepantia quod <name xml:id="ppra-l100-Nd1e455" ref="#Chaldeans">caldei</name> colant solem et ignem tanquam deum summum et inter 
-              <lb ed="#P"/>omnes effectus existentes infra concavum orbis lunae ignis est nobilior
+              <lb ed="#P" n="38"/>in 6o libro <title>de republica</title></ref> hoc sententialiter nam ipse vocat stellas sempiternos ignes scilicet in textu quem exponit 
+              <lb ed="#P" n="39"/><name xml:id="ppra-l100-Nd1e452" rend="#Macrobius">macrobius</name> et sic non est discrepantia quod <name xml:id="ppra-l100-Nd1e455" ref="#Chaldeans">caldei</name> colant solem et ignem tanquam deum summum et inter 
+              <lb ed="#P" n="40"/>omnes effectus existentes infra concavum orbis lunae ignis est nobilior
             </p>
             <p xml:id="ppra-l100-siccol">
               <pc type="pilcrow"/>2o ipsi colebant ignem id est 
-              <lb ed="#P"/>nobiliorem creaturam existentem in concavo orbis lunae
+              <lb ed="#P" n="41"/>nobiliorem creaturam existentem in concavo orbis lunae
             </p>
             <p xml:id="ppra-l100-eehhfv">
               Et ex hac peste remanserunt vestigia usque nunc inter 
-              <lb ed="#P"/>christianos <pc type="pilcrow"/>Unde vetulae faciunt ignem superstitiose in certis noctibus et ibi statuunt invocationes 
-              <lb ed="#P"/>superstitiosas et sacrilegas ut evitent mala et maxime laesiones ab igne pro toto anno erunt
-              <lb ed="#P"/>faciunt de ossibus <pc type="punctus"/> nunc de lignis <unclear>cicuiendo</unclear> ignem saltando supra et infra <pc type="punctus"/> et ex ars quae vocatur 
-              <lb ed="#P"/>pyromantia sumpsit originem <pc type="pilcrow"/> Ubi de occultis superstitiosi volunt iudicare de omnibus secundum sonum 
-              <lb ed="#P"/>factum in igne praecipue ad <unclear>haec</unclear> <unclear>facta</unclear> et in certis temporibus anni Et tunc sunt regulae secundum sonos varios 
-              <lb ed="#P"/>ad eliciendum iudicia diversa Et etiam secundum quod flammae variae figurantur <pc type="punctus"/> Et haec omnia sunt vestigia 
-              <lb ed="#P"/>ydolatriae antiquissime Ita quod per fidem christianam non possunt evelli Et ex hoc habuit originem <unclear>cyromantia</unclear> 
-              <lb ed="#P"/>ydromantia <pc type="virgula">/</pc> et geomantia quae adhuc maxime viget quia multi adhuc utuntur ea loco vere astrologiae 
-              <lb ed="#P"/>vel medicinae quaequid ars nullo colore veritatis firmatur sed pure gratuite acceptatur ab anima corrupta 
-              <lb ed="#P"/>labe peccato originali <pc type="pilcrow"/> vel dicitur quod geomantia in proiectione punctorum reducitur ad causas per se nam 
-              <lb ed="#P"/>stat quod si sint diversi proicientes qui faciunt iudicia de omnibus et faciant figuras secundum perietatem et imperitatem 
-              <lb ed="#P"/>et tamen non reducitur secundum eas ad causas per se scilicet caelum et motus caelestes licet appareat sed reducitur ad malum 
-              <lb ed="#P"/>nam stat quod duo proiciant in eadem hora et tamen habebunt figuras varias <pc type="punctus"/>
+              <lb ed="#P" n="42"/>christianos <pc type="pilcrow"/>Unde vetulae faciunt ignem superstitiose in certis noctibus et ibi statuunt invocationes 
+              <lb ed="#P" n="43"/>superstitiosas et sacrilegas ut evitent mala et maxime laesiones ab igne pro toto anno erunt
+              <lb ed="#P" n="44"/>faciunt de ossibus <pc type="punctus"/> nunc de lignis <unclear>cicuiendo</unclear> ignem saltando supra et infra <pc type="punctus"/> et ex ars quae vocatur 
+              <lb ed="#P" n="45"/>pyromantia sumpsit originem <pc type="pilcrow"/> Ubi de occultis superstitiosi volunt iudicare de omnibus secundum sonum 
+              <lb ed="#P" n="46"/>factum in igne praecipue ad <unclear>haec</unclear> <unclear>facta</unclear> et in certis temporibus anni Et tunc sunt regulae secundum sonos varios 
+              <lb ed="#P" n="47"/>ad eliciendum iudicia diversa Et etiam secundum quod flammae variae figurantur <pc type="punctus"/> Et haec omnia sunt vestigia 
+              <lb ed="#P" n="48"/>ydolatriae antiquissime Ita quod per fidem christianam non possunt evelli Et ex hoc habuit originem <unclear>cyromantia</unclear> 
+              <lb ed="#P" n="49"/>ydromantia <pc type="virgula">/</pc> et geomantia quae adhuc maxime viget quia multi adhuc utuntur ea loco vere astrologiae 
+              <lb ed="#P" n="50"/>vel medicinae quaequid ars nullo colore veritatis firmatur sed pure gratuite acceptatur ab anima corrupta 
+              <lb ed="#P" n="51"/>labe peccato originali <pc type="pilcrow"/> vel dicitur quod geomantia in proiectione punctorum reducitur ad causas per se nam 
+              <lb ed="#P" n="52"/>stat quod si sint diversi proicientes qui faciunt iudicia de omnibus et faciant figuras secundum perietatem et imperitatem 
+              <lb ed="#P" n="53"/>et tamen non reducitur secundum eas ad causas per se scilicet caelum et motus caelestes licet appareat sed reducitur ad malum 
+              <lb ed="#P" n="54"/>nam stat quod duo proiciant in eadem hora et tamen habebunt figuras varias <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l100-Dd1e467">
             <head xml:id="ppra-l100-Haoeoer">Alia obiectio et responsio</head>
             <p xml:id="ppra-l100-cdival">
               <pc type="pilcrow"/>Contra dicta inquiritur de 
-              <lb ed="#P"/>dubio praecipue quantum ad corruptelam nam vel corruptela est habitus intellectus vel voluntatis si intellectus igitur non immutat potentias 
-              <lb ed="#P"/>concupiscibiles et irascibiles si voluntatis tunc non immutat immediate potentiam cognitivam et sic nulla est corruptela omnium virium 
-              <lb ed="#P"/>animae laesiva.
+              <lb ed="#P" n="55"/>dubio praecipue quantum ad corruptelam nam vel corruptela est habitus intellectus vel voluntatis si intellectus igitur non immutat potentias 
+              <lb ed="#P" n="56"/>concupiscibiles et irascibiles si voluntatis tunc non immutat immediate potentiam cognitivam et sic nulla est corruptela omnium virium 
+              <lb ed="#P" n="57"/>animae laesiva.
             </p>
             <p xml:id="ppra-l100-rqnneo">
               <pc type="pilcrow"/> Respondetur quod nec iustitia originalis est qualitas <unclear>vera</unclear> nec eius privatio <pc type="pilcrow"/> Sed ymaginandum est sic quod iustitia 
-              <lb ed="#P"/>originalis dicetur esse pro tanto in aliquo quod talis habitudo est in eo <unclear>quod</unclear> vires inferiores obediunt viribus superioribus et paratae 
-              <lb ed="#P"/>sunt semper <unclear>obedire</unclear> ut exteriora elementa vel membra obediant animae et rationi in statu innocentiae et nunc non obediunt et ideo subtractio 
-              <lb ed="#P"/>iustitiae originalis non erit positiva qualitas nec ipsa iustitia maxime sed erit habitudo potentiarum talis quod vires inferiores obediebant 
-              <lb ed="#P"/>rationi in illo statu vel natae erant obedire
+              <lb ed="#P" n="58"/>originalis dicetur esse pro tanto in aliquo quod talis habitudo est in eo <unclear>quod</unclear> vires inferiores obediunt viribus superioribus et paratae 
+              <lb ed="#P" n="59"/>sunt semper <unclear>obedire</unclear> ut exteriora elementa vel membra obediant animae et rationi in statu innocentiae et nunc non obediunt et ideo subtractio 
+              <lb ed="#P" n="60"/>iustitiae originalis non erit positiva qualitas nec ipsa iustitia maxime sed erit habitudo potentiarum talis quod vires inferiores obediebant 
+              <lb ed="#P" n="61"/>rationi in illo statu vel natae erant obedire
             </p>
           </div>
           <div xml:id="ppra-l100-Dd1e482">
             <head xml:id="ppra-l100-Haoraor">Alia obiectio et responsio</head>
             <p xml:id="ppra-l100-scoesi">
               sed consequenter oportet dicere quod privatio iustitiae originalis est dispositio talis quod potentiae sensitivae non obediunt rationi ymmo econverso 
-              <lb ed="#P"/>ratio est subiecta viribus sensitivis et sic potentia rationalis esset nunc laesa <pc type="punctus"/> non quia perdidit aliquam qualitatem <unclear>bonam</unclear> et acquisivit malam <pc type="punctus"/> sed quia ordo alius est quod erat in statu 
-              <lb ed="#P"/>innocentiae.
+              <lb ed="#P" n="62"/>ratio est subiecta viribus sensitivis et sic potentia rationalis esset nunc laesa <pc type="punctus"/> non quia perdidit aliquam qualitatem <unclear>bonam</unclear> et acquisivit malam <pc type="punctus"/> sed quia ordo alius est quod erat in statu 
+              <lb ed="#P" n="63"/>innocentiae.
             </p> 
             <p xml:id="ppra-l100-sdaape">
               <pc type="pilcrow"/> Sed diceret aliquis quod ex hoc non sequitur caecitas intellectus nec sequitur nisi difficultas in exercendo vim imperativam seu exsequendo et ideo praeter 
-              <lb ed="#P"/>hoc additur quod nedum propter culpam originalem sublata est <add place="above-line">obedientia virium inferiorum ad rationem sed etiam sublata est</add> specialis dei assistentia quantum ad potentiae elevationem
+              <lb ed="#P" n="64"/>hoc additur quod nedum propter culpam originalem sublata est <add place="above-line">obedientia virium inferiorum ad rationem sed etiam sublata est</add> specialis dei assistentia quantum ad potentiae elevationem
             </p>
             <p xml:id="ppra-l100-svrrci">
               <pc type="pilcrow"/> 2a via respondendi quod cupiditas est inficiens qualitas 
-              <lb ed="#P"/>totum animae regimen et caecans intellectum et perturbans potentias scilicet rationalem concupiscibilem irascibilem
+              <lb ed="#P" n="65"/>totum animae regimen et caecans intellectum et perturbans potentias scilicet rationalem concupiscibilem irascibilem
             </p>
             <p xml:id="ppra-l100-unebpe">
               sed secundum varios actus diversi nominibus et sic anima quae est unica 
-              <lb ed="#P"/>tripliciter operatur et ita qualitas unica est tripliciter animae immutativa quod sit aliqua dupliciter apparet de fide ut dicunt <name xml:id="ppra-l100-Nd1e501" ref="#WilliamOfParis">guillelmus parisiensis</name> <name xml:id="ppra-l100-Nd1e504" ref="#WilliamOfAuxerre">guillelmus autissiodorensis</name> quia nedum ipsa fides 
-              <lb ed="#P"/>est primae veritatis cognitio sed amor <pc type="virgula">/</pc> et tenet <ref xml:id="ppra-l100-Rd1e506"><name xml:id="ppra-l100-Nd1e510" ref="#Wodeham">adam</name></ref> quod omnis amor est cognitio et sic non repugnat quod cupiditas sit qualitas prava caecans intellectum et se 
-              <lb ed="#P"/>habet per modum habitus continentis totam latitudinem omnium habituum pravorum ut caritas continet omnes habitus virtuosos et omnem latitudinem omnium virtutum Ita de cupiditate 
-              <lb ed="#P"/>dicitur quod ipsa est <unclear>immutativa</unclear> vitiose et erroneae multas nam per eam inclinatur ad assentiendum falso et iste modus respondendi 2us et bene probabilis et sic finis lectionis <unclear>fe pa</unclear>
+              <lb ed="#P" n="66"/>tripliciter operatur et ita qualitas unica est tripliciter animae immutativa quod sit aliqua dupliciter apparet de fide ut dicunt <name xml:id="ppra-l100-Nd1e501" ref="#WilliamOfParis">guillelmus parisiensis</name> <name xml:id="ppra-l100-Nd1e504" ref="#WilliamOfAuxerre">guillelmus autissiodorensis</name> quia nedum ipsa fides 
+              <lb ed="#P" n="67"/>est primae veritatis cognitio sed amor <pc type="virgula">/</pc> et tenet <ref xml:id="ppra-l100-Rd1e506"><name xml:id="ppra-l100-Nd1e510" ref="#Wodeham">adam</name></ref> quod omnis amor est cognitio et sic non repugnat quod cupiditas sit qualitas prava caecans intellectum et se 
+              <lb ed="#P" n="68"/>habet per modum habitus continentis totam latitudinem omnium habituum pravorum ut caritas continet omnes habitus virtuosos et omnem latitudinem omnium virtutum Ita de cupiditate 
+              <lb ed="#P" n="69"/>dicitur quod ipsa est <unclear>immutativa</unclear> vitiose et erroneae multas nam per eam inclinatur ad assentiendum falso et iste modus respondendi 2us et bene probabilis et sic finis lectionis <unclear>fe pa</unclear>
             </p>
           </div>
         </div>

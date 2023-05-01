@@ -52,44 +52,44 @@
         <div xml:id="ppra-l99-Dd1e109">
          <head xml:id="ppra-l99-Hpcppif">Propositiones circa prima principales radix pro inventione fati</head>
           <p xml:id="ppra-l99-deppap">
-            <lb ed="#P"/>Consequenter est videndum de fato nam praetactum est quod originem a vulgo sumpsit et fuerit 
-            <lb ed="#P"/>narrat 3es modi <del rend="strikethrough">p</del> unus fuit ex libidine mentiendi circa quem est advertendum et pro materiae 
-            <lb ed="#P"/>declaratione ponuntur aliquae propositiones
+            <lb ed="#P" n="47"/>Consequenter est videndum de fato nam praetactum est quod originem a vulgo sumpsit et fuerit 
+            <lb ed="#P" n="48"/>narrat 3es modi <del rend="strikethrough">p</del> unus fuit ex libidine mentiendi circa quem est advertendum et pro materiae 
+            <lb ed="#P" n="49"/>declaratione ponuntur aliquae propositiones
           </p>
           <div xml:id="ppra-l99-Dd1e119">
             <head xml:id="ppra-l99-Hppcaor">Prima Propositio</head>
             <head xml:id="ppra-l99-Hd1e124" type="question-title">Creatura rationalis magis inclinant ad malum</head>
             <p xml:id="ppra-l99-pqcihf">
               quarum prima est <pc type="pilcrow"/> Quamvis cuiuslibet creaturae rationalis primaeva et naturalis 
-              <lb ed="#P"/>tendentia semper sit recta <pc type="punctus"/> ex corruptela tamen peccati magis ad contrarium inclinantur humana fragilitas
+              <lb ed="#P" n="50"/>tendentia semper sit recta <pc type="punctus"/> ex corruptela tamen peccati magis ad contrarium inclinantur humana fragilitas
             </p>
             <p xml:id="ppra-l99-ipcafm">
-              <lb ed="#P"/> Ista contingit duas partes satis claras et fuerunt alias in sua potestate licet recitate faciant 
-              <lb ed="#P"/>ad fundamentum materiae
+              <lb ed="#P" n="51"/> Ista contingit duas partes satis claras et fuerunt alias in sua potestate licet recitate faciant 
+              <lb ed="#P" n="52"/>ad fundamentum materiae
             </p>
             <p xml:id="ppra-l99-ppdiab">
               <pc type="virgula">/</pc> prima enim pars dicit quod naturalis tendentia est semper recta ita quod rationalis potentia ex primaeva 
-              <lb ed="#P"/>sua inclinatione fertur in primam veritatem propter se adhaesive vel nata est ferri et in quamlibet aliam veritatem 
-              <lb ed="#P"/>fertur propter primam et in ordinem ad eam sic et potentia concupiscibilis ex primo instinctu fertur 
-              <lb ed="#P"/>in summum bonum propter se <pc type="punctus"/> et irascibilis inclinatur primaeva inclinatione ad diligendum ultimam bonitatem propter se 
-              <lb ed="#P"/>et non diligit nisi in ordine ad ultimam bonitatem Et ita de aggressu <unclear>honorificentiae</unclear> et ex actibus <unclear>exibitur</unclear>
+              <lb ed="#P" n="53"/>sua inclinatione fertur in primam veritatem propter se adhaesive vel nata est ferri et in quamlibet aliam veritatem 
+              <lb ed="#P" n="54"/>fertur propter primam et in ordinem ad eam sic et potentia concupiscibilis ex primo instinctu fertur 
+              <lb ed="#P" n="55"/>in summum bonum propter se <pc type="punctus"/> et irascibilis inclinatur primaeva inclinatione ad diligendum ultimam bonitatem propter se 
+              <lb ed="#P" n="56"/>et non diligit nisi in ordine ad ultimam bonitatem Et ita de aggressu <unclear>honorificentiae</unclear> et ex actibus <unclear>exibitur</unclear>
               <pb ed="#P" n="100-r"/>
-              <lb ed="#P"/>
-              <lb ed="#P"/>divinae <unclear>honorificentiae</unclear> Et ista propositio fundatur in dicto <name ref="#Aristotle">philosophi</name> declarato per <name ref="#Albert">albertum</name> et alios commentatores cum ait <name ref="#Aristotle">aristoteles</name> 
-              <lb ed="#P"/>quod <quote xml:id="ppra-l99-Qobaamt" source="http://scta.info/resource/aristneth-l1">omnia bonum appetunt</quote> quoniam ultimus appetitus creaturae rationalis est semper rectus et bonus 
-              <lb ed="#P"/>ut ait <ref xml:id="ppra-l99-Rd1e154" corresp="#l99-Qd1e163 #l99-Qd1e169"><name ref="#Boethius">boetius</name> 3o <title ref="#Consolation">de consolatione</title></ref> dicens quod <quote xml:id="ppra-l99-Qd1e163" type="paraphrase" source="http://scta.info/resource/hy7y6y-d1e67-d1e176">semper recta est naturalis tendentia et intentio</quote> <pc type="virgula">/</pc> Et ante 
-              <lb ed="#P"/>dicit <quote xml:id="ppra-l99-Qd1e169" source="http://scta.info/resource/hy7y6y-d1e67-d1e155">omnium mortalium <!-- Boethius quote has "mortalium" --> cura ad unum finem beatitudinis nititur pervenire</quote> Et illud idem <ref xml:id="ppra-l99-Rd1e166"> <name ref="#Cicero">tullius</name> 
-              <lb ed="#P"/>declarat in libro <title ref="#TuscanDisputations">de tusculans quaestionibus</title></ref> ubi ponit lumen naturale rectum ymmo <quote xml:id="ppra-l99-Qasddd" type="paraphrase" source="http://scta.info/resource/ctd99a-cuh77a-d1e96@55-64">si permittatur creaturam 
-              <lb ed="#P"/>ducere illam ad beatam duceret vitam</quote> <pc type="punctus"/>
+              <lb ed="#P" n="1"/>
+              <lb ed="#P" n="2"/>divinae <unclear>honorificentiae</unclear> Et ista propositio fundatur in dicto <name ref="#Aristotle">philosophi</name> declarato per <name ref="#Albert">albertum</name> et alios commentatores cum ait <name ref="#Aristotle">aristoteles</name> 
+              <lb ed="#P" n="3"/>quod <quote xml:id="ppra-l99-Qobaamt" source="http://scta.info/resource/aristneth-l1">omnia bonum appetunt</quote> quoniam ultimus appetitus creaturae rationalis est semper rectus et bonus 
+              <lb ed="#P" n="4"/>ut ait <ref xml:id="ppra-l99-Rd1e154" corresp="#l99-Qd1e163 #l99-Qd1e169"><name ref="#Boethius">boetius</name> 3o <title ref="#Consolation">de consolatione</title></ref> dicens quod <quote xml:id="ppra-l99-Qd1e163" type="paraphrase" source="http://scta.info/resource/hy7y6y-d1e67-d1e176">semper recta est naturalis tendentia et intentio</quote> <pc type="virgula">/</pc> Et ante 
+              <lb ed="#P" n="5"/>dicit <quote xml:id="ppra-l99-Qd1e169" source="http://scta.info/resource/hy7y6y-d1e67-d1e155">omnium mortalium <!-- Boethius quote has "mortalium" --> cura ad unum finem beatitudinis nititur pervenire</quote> Et illud idem <ref xml:id="ppra-l99-Rd1e166"> <name ref="#Cicero">tullius</name> 
+              <lb ed="#P" n="6"/>declarat in libro <title ref="#TuscanDisputations">de tusculans quaestionibus</title></ref> ubi ponit lumen naturale rectum ymmo <quote xml:id="ppra-l99-Qasddd" type="paraphrase" source="http://scta.info/resource/ctd99a-cuh77a-d1e96@55-64">si permittatur creaturam 
+              <lb ed="#P" n="7"/>ducere illam ad beatam duceret vitam</quote> <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l99-spdpie">
               <pc type="pilcrow"/> 2a pars dicit quod ex corruptela peccati creatura 
-              <lb ed="#P"/>inclinatur ad contrarium suae salutis <pc type="punctus"/> Ita quod maior est inclinatio prava ad oppositum primae <unclear>ve?tis</unclear> et 
-              <lb ed="#P"/>summae bonitatis quam primaeva et naturalis inclinatio probatur ex scriptura quia natura humana ab adolescentia 
-              <lb ed="#P"/>sua prona est ad malum quod non est intelligendum de naturali et primaeva inclinatione sed de inclinatione 
-              <lb ed="#P"/>secundaria quam prodita est originalis iustitia quod ita fuerit nedum in fragilitatibus et hominibus imperfectis 
-              <lb ed="#P"/>sed etiam in viris perfectis <name ref="#Paul">paulus</name> nobis insinuat qui confessus est se habere legem carnis 
-              <lb ed="#P"/>repugnantem legi mentis suae et multo fortius quam primaeva inclinatio erat <pc type="punctus"/>
+              <lb ed="#P" n="8"/>inclinatur ad contrarium suae salutis <pc type="punctus"/> Ita quod maior est inclinatio prava ad oppositum primae <unclear>ve?tis</unclear> et 
+              <lb ed="#P" n="9"/>summae bonitatis quam primaeva et naturalis inclinatio probatur ex scriptura quia natura humana ab adolescentia 
+              <lb ed="#P" n="10"/>sua prona est ad malum quod non est intelligendum de naturali et primaeva inclinatione sed de inclinatione 
+              <lb ed="#P" n="11"/>secundaria quam prodita est originalis iustitia quod ita fuerit nedum in fragilitatibus et hominibus imperfectis 
+              <lb ed="#P" n="12"/>sed etiam in viris perfectis <name ref="#Paul">paulus</name> nobis insinuat qui confessus est se habere legem carnis 
+              <lb ed="#P" n="13"/>repugnantem legi mentis suae et multo fortius quam primaeva inclinatio erat <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e185">
@@ -97,11 +97,11 @@
             <head xml:id="ppra-l99-Hd1e190" type="question-title">Voluntas magis inclinatur ad malum quam ad bonum</head>
             <p xml:id="ppra-l99-eisued">
               <pc type="pilcrow"/> Ex 
-              <lb ed="#P"/>quo sequitur quod proportionaliter ex cupiditate vel corruptela peccati voluntas magis inclinatur ad malum 
-              <lb ed="#P"/>quam ad bonum et ita rationalis potentia inclinatur licet non sub ratione fati <pc type="punctus"/> nec voluntas inclinatur 
-              <lb ed="#P"/>ad malum sub ratione mali nam istae inclinationes scilicet primaeva et naturalis tendentia et alia inclinatio 
-              <lb ed="#P"/>consurgens ex peccato sic se habent quod 2a inclinatio magis movet ad oppositum naturalis obiecti debiti 
-              <lb ed="#P"/>et ad oppositum salutis igitur naturalis inclinatio semper tenderet in oppositum contrarium fini ultimo et debito
+              <lb ed="#P" n="14"/>quo sequitur quod proportionaliter ex cupiditate vel corruptela peccati voluntas magis inclinatur ad malum 
+              <lb ed="#P" n="15"/>quam ad bonum et ita rationalis potentia inclinatur licet non sub ratione fati <pc type="punctus"/> nec voluntas inclinatur 
+              <lb ed="#P" n="16"/>ad malum sub ratione mali nam istae inclinationes scilicet primaeva et naturalis tendentia et alia inclinatio 
+              <lb ed="#P" n="17"/>consurgens ex peccato sic se habent quod 2a inclinatio magis movet ad oppositum naturalis obiecti debiti 
+              <lb ed="#P" n="18"/>et ad oppositum salutis igitur naturalis inclinatio semper tenderet in oppositum contrarium fini ultimo et debito
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e197">
@@ -109,21 +109,21 @@
             <head xml:id="ppra-l99-Hd1e202" type="question-title">Radix inclinationum ad multas fallibilitates</head>
             <p xml:id="ppra-l99-ssrqpc">
               2o sequitur 
-              <lb ed="#P"/>radix inclinationum intellectus ad multas falsitates Etiam quare creatura rationalis sibi communiter derelicta 
-              <lb ed="#P"/>magis inclinatur ad assentiendum quod habitudo planetarum necessitabit natum ad stuprum <pc type="punctus"/> furtum homicidium 
-              <lb ed="#P"/>et sic de aliis vitiis quae consueverunt dici a delirantibus astrologi quam inclinetur ad assentiendum 
-              <lb ed="#P"/>quod talis sit proportio corporum caelestium inter se et tanta magnitudo et tanta ipsorum distantia a terra 
-              <lb ed="#P"/>nam de corporibus caelestibus sunt demonstratae veritates ut de quantitate solis et de proportione eius ad totam 
-              <lb ed="#P"/>terram <pc type="punctus"/> et de eius distantia ab ea et de proportione ipsius ad alias stellas Et de aliis habitudinibus 
-              <lb ed="#P"/>de quibus habetur scientia demonstrativa quae si praeponerentur vulgo dissentiret Sed si praeponeretur ei 
-              <lb ed="#P"/>veritas sacrilegii <sic>sacrilegii</sic> statim non assentiret videlicet quod <name ref="#Mars">mars</name> existens in tali signo 
-              <lb ed="#P"/>necessitabit natum sub eo ut sit homicida et de aliis falsitatibus quibus vulgus assentiret Tamen 
-              <lb ed="#P"/>veritatibus effectuum illorum planetarum ex suis motibus nullo modo assentiret <pc type="pilcrow"/> Et ex eadem radice apparet 
-              <lb ed="#P"/>causa quare vulgus magis credidit ymagini fabricatae sub certa constellatione 
-              <lb ed="#P"/>quae haberet vim ad curas morborum et ad fortunandum vel ad infortunandum et ad procurandum 
-              <lb ed="#P"/>divitias et honores et ad inimicum prosternendum <pc type="pilcrow"/> Unde magis credidit quod illa <unclear>ymago</unclear> 
-              <lb ed="#P"/>magis conferat ad morbum curandum quam vere medicine quae ad rei veritatem resolvitur et ad 
-              <lb ed="#P"/>naturalia principia <pc type="virgula">/</pc> nam magis credit constellationi quam <sic>prudentum</sic> consilio <pc type="punctus"/>
+              <lb ed="#P" n="19"/>radix inclinationum intellectus ad multas falsitates Etiam quare creatura rationalis sibi communiter derelicta 
+              <lb ed="#P" n="20"/>magis inclinatur ad assentiendum quod habitudo planetarum necessitabit natum ad stuprum <pc type="punctus"/> furtum homicidium 
+              <lb ed="#P" n="21"/>et sic de aliis vitiis quae consueverunt dici a delirantibus astrologi quam inclinetur ad assentiendum 
+              <lb ed="#P" n="22"/>quod talis sit proportio corporum caelestium inter se et tanta magnitudo et tanta ipsorum distantia a terra 
+              <lb ed="#P" n="23"/>nam de corporibus caelestibus sunt demonstratae veritates ut de quantitate solis et de proportione eius ad totam 
+              <lb ed="#P" n="24"/>terram <pc type="punctus"/> et de eius distantia ab ea et de proportione ipsius ad alias stellas Et de aliis habitudinibus 
+              <lb ed="#P" n="25"/>de quibus habetur scientia demonstrativa quae si praeponerentur vulgo dissentiret Sed si praeponeretur ei 
+              <lb ed="#P" n="26"/>veritas sacrilegii <sic>sacrilegii</sic> statim non assentiret videlicet quod <name ref="#Mars">mars</name> existens in tali signo 
+              <lb ed="#P" n="27"/>necessitabit natum sub eo ut sit homicida et de aliis falsitatibus quibus vulgus assentiret Tamen 
+              <lb ed="#P" n="28"/>veritatibus effectuum illorum planetarum ex suis motibus nullo modo assentiret <pc type="pilcrow"/> Et ex eadem radice apparet 
+              <lb ed="#P" n="29"/>causa quare vulgus magis credidit ymagini fabricatae sub certa constellatione 
+              <lb ed="#P" n="30"/>quae haberet vim ad curas morborum et ad fortunandum vel ad infortunandum et ad procurandum 
+              <lb ed="#P" n="31"/>divitias et honores et ad inimicum prosternendum <pc type="pilcrow"/> Unde magis credidit quod illa <unclear>ymago</unclear> 
+              <lb ed="#P" n="32"/>magis conferat ad morbum curandum quam vere medicine quae ad rei veritatem resolvitur et ad 
+              <lb ed="#P" n="33"/>naturalia principia <pc type="virgula">/</pc> nam magis credit constellationi quam <sic>prudentum</sic> consilio <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e222">
@@ -131,84 +131,84 @@
             <head xml:id="ppra-l99-Hd1e227" type="question-title">Radix facilitatis ad credendum contra christi legem</head>
             <p xml:id="ppra-l99-tsricr">
               <pc type="pilcrow"/> 3o sequitur radix 
-              <lb ed="#P"/>facilitatis ad credendum contra christi legem <pc type="punctus"/> nam creatura rationalis ex corruptela peccati inclinatur 
-              <lb ed="#P"/>ad credendum absque ratione <pc type="punctus"/> unde si proponatur quod lex christiana salutaris introducta est in terrorem 
-              <lb ed="#P"/>et poenarum acerbitatem et proportionaliter ut peccato <sic>evittenter</sic> Et ad huiusmodi falsitatem est applausus 
-              <lb ed="#P"/>facilis nisi deus iuvet fides elevet et intellectus a deo illuminetur nam intellectus inclinatur 
-              <lb ed="#P"/>ad falsitates quia videtur ei quod sunt sibi naturales et convenientes et ex hoc consurgit falsa credulitas 
-              <lb ed="#P"/>circa animae immortalitatem et corporum resurrectionem
+              <lb ed="#P" n="34"/>facilitatis ad credendum contra christi legem <pc type="punctus"/> nam creatura rationalis ex corruptela peccati inclinatur 
+              <lb ed="#P" n="35"/>ad credendum absque ratione <pc type="punctus"/> unde si proponatur quod lex christiana salutaris introducta est in terrorem 
+              <lb ed="#P" n="36"/>et poenarum acerbitatem et proportionaliter ut peccato <sic>evittenter</sic> Et ad huiusmodi falsitatem est applausus 
+              <lb ed="#P" n="37"/>facilis nisi deus iuvet fides elevet et intellectus a deo illuminetur nam intellectus inclinatur 
+              <lb ed="#P" n="38"/>ad falsitates quia videtur ei quod sunt sibi naturales et convenientes et ex hoc consurgit falsa credulitas 
+              <lb ed="#P" n="39"/>circa animae immortalitatem et corporum resurrectionem
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e234">
             <head xml:id="ppra-l99-Hqcqsqn">Quartum corollarium: quod idolatria sit quodammodo naturalis</head>
             <p xml:id="ppra-l99-qsqrpf">
               <pc type="pilcrow"/> 4o sequitur quod ydolatria sit quodammodo naturalis vel falsa 
-              <lb ed="#P"/>credulitas et hoc vocando naturale secundum statum naturae nunc currentis ex inclinatione innata ex corruptela 
-              <lb ed="#P"/>peccati <pc type="punctus"/> Et haec deduxit <name ref="#WilliamOfParis">guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de fide et legibus</title> vocando naturale quod competit creaturae 
-              <lb ed="#P"/>secundum statum talem ut ex consuetudine nutritus malo cibo vel veneno quod fit ei conveniens 
-              <lb ed="#P"/>et naturale per consuetudinem Exemplum ponit de quadam muliere quae <unclear>assuefactione</unclear> utebatur veneno 
-              <lb ed="#P"/>et sic secundum consuetudinem venenum quod prius erat sibi innaturale factum est sibi cibus naturalis 
-              <lb ed="#P"/>Ita proportionaliter diceretur de ydolatria quod naturalis fit naturae corruptae secundum suae corruptionis dispositionem 
-              <lb ed="#P"/>et ideo non debet intelligi naturale simpliciter quia primaeva inclinatio est naturalis et semper recta et secundum hoc 
-              <lb ed="#P"/>inducit quod ydolatria sit naturae corrumptae naturalis Et probat 4or rationibus <pc type="punctus"/> primo ex eius 
-              <lb ed="#P"/>universitate nam fere apud omnes viget malus cultus <pc type="virgula">/</pc> nam omnes exercent se quasi ad 
-              <lb ed="#P"/>omnem cultum non debitum et sic fere apud omnes viget idolatria nisi gratia dei specialiter 
-              <lb ed="#P"/>elevaret ad virtutes theologicas et 2m quod fortificaret 3es potentias praedictas et refrenaret ut irascibilis 
-              <lb ed="#P"/>refrenatur per caritatem concupiscibilis per spem et rationalis per fidem
+              <lb ed="#P" n="40"/>credulitas et hoc vocando naturale secundum statum naturae nunc currentis ex inclinatione innata ex corruptela 
+              <lb ed="#P" n="41"/>peccati <pc type="punctus"/> Et haec deduxit <name ref="#WilliamOfParis">guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de fide et legibus</title> vocando naturale quod competit creaturae 
+              <lb ed="#P" n="42"/>secundum statum talem ut ex consuetudine nutritus malo cibo vel veneno quod fit ei conveniens 
+              <lb ed="#P" n="43"/>et naturale per consuetudinem Exemplum ponit de quadam muliere quae <unclear>assuefactione</unclear> utebatur veneno 
+              <lb ed="#P" n="44"/>et sic secundum consuetudinem venenum quod prius erat sibi innaturale factum est sibi cibus naturalis 
+              <lb ed="#P" n="45"/>Ita proportionaliter diceretur de ydolatria quod naturalis fit naturae corruptae secundum suae corruptionis dispositionem 
+              <lb ed="#P" n="46"/>et ideo non debet intelligi naturale simpliciter quia primaeva inclinatio est naturalis et semper recta et secundum hoc 
+              <lb ed="#P" n="47"/>inducit quod ydolatria sit naturae corrumptae naturalis Et probat 4or rationibus <pc type="punctus"/> primo ex eius 
+              <lb ed="#P" n="48"/>universitate nam fere apud omnes viget malus cultus <pc type="virgula">/</pc> nam omnes exercent se quasi ad 
+              <lb ed="#P" n="49"/>omnem cultum non debitum et sic fere apud omnes viget idolatria nisi gratia dei specialiter 
+              <lb ed="#P" n="50"/>elevaret ad virtutes theologicas et 2m quod fortificaret 3es potentias praedictas et refrenaret ut irascibilis 
+              <lb ed="#P" n="51"/>refrenatur per caritatem concupiscibilis per spem et rationalis per fidem
             </p>
             <p xml:id="ppra-l99-spifaq">
               <pc type="pilcrow"/> 2o probatur ydolatriae 
-              <lb ed="#P"/>naturalitas scilicet ex perpetuitate et continuate nam ab initio mundi viguit ydolorum cultus et semper 
-              <lb ed="#P"/>durat igitur cum sit semper videtur quodammodo naturalis secundum conditionem naturae corrumptae et quod perpetuo sit et semper 
-              <lb ed="#P"/>appaeret per sacram bibliam et per hystoriam gentilium ubi ponitur idolorum cultus semper fuisse 
-              <lb ed="#P"/>apud quosdam
+              <lb ed="#P" n="52"/>naturalitas scilicet ex perpetuitate et continuate nam ab initio mundi viguit ydolorum cultus et semper 
+              <lb ed="#P" n="53"/>durat igitur cum sit semper videtur quodammodo naturalis secundum conditionem naturae corrumptae et quod perpetuo sit et semper 
+              <lb ed="#P" n="54"/>appaeret per sacram bibliam et per hystoriam gentilium ubi ponitur idolorum cultus semper fuisse 
+              <lb ed="#P" n="55"/>apud quosdam
             </p>
             <p xml:id="ppra-l99-speapd">
               <pc type="pilcrow"/> 3o probatur ex remotionis difficultate nam superstitio ydolatralis tam difficulter 
-              <lb ed="#P"/>a creatura rationali removetur quod vix potuit populus <name ref="#Israel">israel</name> dilectus a deo quin in ydolatriam prorum<lb ed="#P"/>peret 
+              <lb ed="#P" n="56"/>a creatura rationali removetur quod vix potuit populus <name ref="#Israel">israel</name> dilectus a deo quin in ydolatriam prorum<lb ed="#P" break="no" n="57"/>peret 
               licet specialiter diligeretur a deo et a <name ref="#Moses">moyse</name> igitur difficultas remotionis arguit quamdam naturalitatem per assuefactionem 
               <pb ed="#P" n="100-v"/>
-              <lb ed="#P"/>in disposito ut apparet per exempla veteris testamenti quia <name rend="#Moses">moyse</name> petente legem pro filiis <name ref="Israel">israel</name> 
-              <lb ed="#P"/>propter eius moram in monte fecerunt vitulum conflatilem et adoraverunt scultile 
-              <lb ed="#P"/>et gratiam ei reddebant de beneficiis a deo impensis dicentes <pc type="punctus"/> hii sunt dii tui <name ref="#Israel">israel</name> 
-              <lb ed="#P"/>qui eduxerunt te de terra <name type="place">egipti</name> nam constitutiones et serimoniae quae fuerunt eis datae 
-              <lb ed="#P"/>habuerunt quamdam similitudinem ad ritus ydolorum <pc type="punctus"/> ut de immolatione animalium et de talibus <pc type="punctus"/> nam 
-              <lb ed="#P"/>plures eorum ratione inclinationis pravae nisi habuissent serimonias similes ydolatriae non suscepissent 
-              <lb ed="#P"/>legem Et sic apparet quod vehemens inclinatio est ad falsum dei cultum quae non poterat evelli 
-              <lb ed="#P"/>a populo dei.
+              <lb ed="#P" n="1"/>in disposito ut apparet per exempla veteris testamenti quia <name rend="#Moses">moyse</name> petente legem pro filiis <name ref="Israel">israel</name> 
+              <lb ed="#P" n="2"/>propter eius moram in monte fecerunt vitulum conflatilem et adoraverunt scultile 
+              <lb ed="#P" n="3"/>et gratiam ei reddebant de beneficiis a deo impensis dicentes <pc type="punctus"/> hii sunt dii tui <name ref="#Israel">israel</name> 
+              <lb ed="#P" n="4"/>qui eduxerunt te de terra <name type="place">egipti</name> nam constitutiones et serimoniae quae fuerunt eis datae 
+              <lb ed="#P" n="5"/>habuerunt quamdam similitudinem ad ritus ydolorum <pc type="punctus"/> ut de immolatione animalium et de talibus <pc type="punctus"/> nam 
+              <lb ed="#P" n="6"/>plures eorum ratione inclinationis pravae nisi habuissent serimonias similes ydolatriae non suscepissent 
+              <lb ed="#P" n="7"/>legem Et sic apparet quod vehemens inclinatio est ad falsum dei cultum quae non poterat evelli 
+              <lb ed="#P" n="8"/>a populo dei.
             </p>
             <p xml:id="ppra-l99-eqafar">
               <pc type="pilcrow"/>Ex quo apparet quod multum timenda est originalis peccati corruptela etiam in perfectis viris 
-              <lb ed="#P"/>quantumcumque in gratia <unclear>habundantibus</unclear> quia magna est eius activitas <pc type="virgula">/</pc> quoniam non obstante caritate 
-              <lb ed="#P"/>immittit cogitationes malas contra fidem quae non sunt peccata si per fidem actualiter refrenantur
+              <lb ed="#P" n="9"/>quantumcumque in gratia <unclear>habundantibus</unclear> quia magna est eius activitas <pc type="virgula">/</pc> quoniam non obstante caritate 
+              <lb ed="#P" n="10"/>immittit cogitationes malas contra fidem quae non sunt peccata si per fidem actualiter refrenantur
             </p>
             <p xml:id="ppra-l99-qreecc">
-              <lb ed="#P"/><pc type="pilcrow"/> 4a ratio est ex curialitatis prostitutione experimur enim in nobis quod omnes vires animae <unclear>q</unclear> 
-              <lb ed="#P"/>fornicentur dimisso sponso quia prima veritas est sponsus rationalis potentiae prima bonitas est sponsus potentiae 
-              <lb ed="#P"/>concupiscibilis prima magnificentia seu potestas est sponsus potentiae irascibilis sed circa vanam gloriam rationalis 
-              <lb ed="#P"/>occupatur et concupiscibilis tanto amore in temporalibus occupatur quod non potest evelli nec trahi 
-              <lb ed="#P"/>nisi vix ad amorem dei propter se <pc type="virgula">/</pc> et irascibilis occupatur taliter in temporalibus quod nullo modo poterit 
-              <lb ed="#P"/>evelli quin ea diligat et appetat quae adhaesio seu dilectio si non sit in contemptum 
-              <lb ed="#P"/>dei sic quod non diligat bona temporalia propter se sed propter deum tunc non excludit caritatem <pc type="punctus"/> sed 
-              <lb ed="#P"/>forte si talis dilectio esset in maiori gradu respectu temporalium non esset caritati compossibilis
+              <lb ed="#P" n="11"/><pc type="pilcrow"/> 4a ratio est ex curialitatis prostitutione experimur enim in nobis quod omnes vires animae <unclear>q</unclear> 
+              <lb ed="#P" n="12"/>fornicentur dimisso sponso quia prima veritas est sponsus rationalis potentiae prima bonitas est sponsus potentiae 
+              <lb ed="#P" n="13"/>concupiscibilis prima magnificentia seu potestas est sponsus potentiae irascibilis sed circa vanam gloriam rationalis 
+              <lb ed="#P" n="14"/>occupatur et concupiscibilis tanto amore in temporalibus occupatur quod non potest evelli nec trahi 
+              <lb ed="#P" n="15"/>nisi vix ad amorem dei propter se <pc type="virgula">/</pc> et irascibilis occupatur taliter in temporalibus quod nullo modo poterit 
+              <lb ed="#P" n="16"/>evelli quin ea diligat et appetat quae adhaesio seu dilectio si non sit in contemptum 
+              <lb ed="#P" n="17"/>dei sic quod non diligat bona temporalia propter se sed propter deum tunc non excludit caritatem <pc type="punctus"/> sed 
+              <lb ed="#P" n="18"/>forte si talis dilectio esset in maiori gradu respectu temporalium non esset caritati compossibilis
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e303">
             <head xml:id="ppra-l99-Hqccisa">Quintum corollarium: causa introductionis sacrilegarum artium</head>
             <p xml:id="ppra-l99-eqsils">
               <pc type="pilcrow"/> Ex quo sequitur 
-              <lb ed="#P"/>causa introductionis sacrilegarum artium sine veritate et fundamento seu ratione scilicet quare artes 
-              <lb ed="#P"/>sacrilegae receptae sunt a vulgo <pc type="virgula">/</pc> nam haec est corruptela virium <pc type="virgula">/</pc> primo rationalis magis inclinatur 
-              <lb ed="#P"/>in veritatem sacrilegam et veritatis inpertinentis saluti quam veritatibus ad salutem pertinentibus quibus si assentiat 
-              <lb ed="#P"/>hoc est difficulter et sub istis artibus continetur in geomantia geomantia pedomantia etc 
-              <lb ed="#P"/>quae sunt artes in libris scriptae
+              <lb ed="#P" n="19"/>causa introductionis sacrilegarum artium sine veritate et fundamento seu ratione scilicet quare artes 
+              <lb ed="#P" n="20"/>sacrilegae receptae sunt a vulgo <pc type="virgula">/</pc> nam haec est corruptela virium <pc type="virgula">/</pc> primo rationalis magis inclinatur 
+              <lb ed="#P" n="21"/>in veritatem sacrilegam et veritatis inpertinentis saluti quam veritatibus ad salutem pertinentibus quibus si assentiat 
+              <lb ed="#P" n="22"/>hoc est difficulter et sub istis artibus continetur in geomantia geomantia pedomantia etc 
+              <lb ed="#P" n="23"/>quae sunt artes in libris scriptae
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e315">
             <head xml:id="ppra-l99-Hscqiss">Sextum corollarium: Quare plures student in sanctis <unclear>super[?]</unclear></head>
             <p xml:id="ppra-l99-ehpddf">
               <pc type="virgula">/</pc> Ex hoc patet causa quare plures student in sanctiis <unclear>superbatiis</unclear> posset 
-              <lb ed="#P"/>quam in sapientia nam dicit <name ref="#Virgil">virgilius</name> quod ad indecentius divertimur facilius
+              <lb ed="#P" n="24"/>quam in sapientia nam dicit <name ref="#Virgil">virgilius</name> quod ad indecentius divertimur facilius
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e332">
@@ -216,9 +216,9 @@
             <head xml:id="ppra-l99-Hd1e337" type="question-title">Quare maior est multitudo non tenentium fidem quam tentium</head>
             <p xml:id="ppra-l99-eehsmd">
               <pc type="pilcrow"/> Et ex hoc patet 
-              <lb ed="#P"/>quare maior est multitudo non tenentium fidem quam tenentium quia maxima est inclinatio ad veritates 
-              <lb ed="#P"/>sacrilegas unde plures in talibus falsitatibus prolabuntur et variae quia unicus est modus attingendi 
-              <lb ed="#P"/>signum <pc type="punctus"/> sed infiniti sunt modi defficiendi
+              <lb ed="#P" n="25"/>quare maior est multitudo non tenentium fidem quam tenentium quia maxima est inclinatio ad veritates 
+              <lb ed="#P" n="26"/>sacrilegas unde plures in talibus falsitatibus prolabuntur et variae quia unicus est modus attingendi 
+              <lb ed="#P" n="27"/>signum <pc type="punctus"/> sed infiniti sunt modi defficiendi
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e344">
@@ -226,9 +226,9 @@
             <head xml:id="ppra-l99-Hd1e349" type="question-title">Quare est facilitas introductionis antichristi</head>
             <p xml:id="ppra-l99-eqaela">
               <pc type="pilcrow"/> Ex quibus apparet facilitas introductionis antichristi quia minima ratio movet 
-              <lb ed="#P"/>vulgus ad ea quae sunt contra fidem <pc type="pilcrow"/> Ex quo sequitur maxima legis christi probatio <pc type="virgula">/</pc> quia eius introductio fuit 
-              <lb ed="#P"/>contra inclinationem universalem et corruptam et cum hoc praedicabat christus sobrietatem et veritatem et illa quorum executio 
-              <lb ed="#P"/>est contra corruptelam tam irascibilem quam concupiscibilem et erat contra inclinationem virium corruptarum Et intro<lb ed="#P"/>ducta 
+              <lb ed="#P" n="28"/>vulgus ad ea quae sunt contra fidem <pc type="pilcrow"/> Ex quo sequitur maxima legis christi probatio <pc type="virgula">/</pc> quia eius introductio fuit 
+              <lb ed="#P" n="29"/>contra inclinationem universalem et corruptam et cum hoc praedicabat christus sobrietatem et veritatem et illa quorum executio 
+              <lb ed="#P" n="30"/>est contra corruptelam tam irascibilem quam concupiscibilem et erat contra inclinationem virium corruptarum Et intro<lb ed="#P" break="no" n="31"/>ducta 
               per homines simplicissimos igitur deo operante et legem approbante
             </p>
           </div>
@@ -237,8 +237,8 @@
             <head xml:id="ppra-l99-Hd1e362" type="question-title">Radix facilitatis introductionis de facto mendacii</head>
             <p xml:id="ppra-l99-eeifvi">
               <pc type="pilcrow"/> Et sic ex istis apparet radix 
-              <lb ed="#P"/>facilitatis introductionis de facto mendacii et ipsius receptionis fati sine ratione et fundamento prout apud 
-              <lb ed="#P"/>vetulas <unclear>fata?o</unclear> dicitur praeordinatio necessaria fortunii vel infortunii
+              <lb ed="#P" n="32"/>facilitatis introductionis de facto mendacii et ipsius receptionis fati sine ratione et fundamento prout apud 
+              <lb ed="#P" n="33"/>vetulas <unclear>fata?o</unclear> dicitur praeordinatio necessaria fortunii vel infortunii
             </p>
           </div>
           <div xml:id="ppra-l99-Dd1e372">
@@ -246,19 +246,19 @@
             <head xml:id="ppra-l99-Hd1e377" type="question-title">Quare facilius credit vulgus fortunam esse deam</head>
             <p xml:id="ppra-l99-eehcps">
               <pc type="pilcrow"/> Et ex haec patet quare facilius 
-              <lb ed="#P"/>credit vulgus fortunam esse deam quamdam cuius una facies est pulchra quae denotat prosperitatem et alia 
-              <lb ed="#P"/>obscura denotans adversitatem qua quaelibet vetula credat vel sciat capere distinctionem causarum accidentalium 
-              <lb ed="#P"/>a causis per se <pc type="punctus"/> nam si iste inveniat thesaurum illud debet resolvi ad causas per se <pc type="virgula">/</pc> nam a proposito 
-              <lb ed="#P"/><name ref="#Plato">Plato</name> posuit ibi <del rend="strikethrough">illud</del> illum thesaurum et a proposito <name ref="#Sortes">sortes</name> fodit aegrum igitur ex concursu et combinatione causarum 
-              <lb ed="#P"/>contingit effectus per accidens quae quidem combinatio et concursus nihil aliud sunt quam fortuna <pc type="pilcrow"/> Econverso nota hic ubi scilicet 
-              <lb ed="#P"/>effectus est fortuitus et non intentus <pc type="virgula">/</pc> nam si resolvatur quod fortuna sit divina providentia tunc effectus non erit 
-              <lb ed="#P"/>fortuitus respectu ipsius <pc type="punctus"/> sed quare una domus est fortuita potest reduci ad causas per se
+              <lb ed="#P" n="34"/>credit vulgus fortunam esse deam quamdam cuius una facies est pulchra quae denotat prosperitatem et alia 
+              <lb ed="#P" n="35"/>obscura denotans adversitatem qua quaelibet vetula credat vel sciat capere distinctionem causarum accidentalium 
+              <lb ed="#P" n="36"/>a causis per se <pc type="punctus"/> nam si iste inveniat thesaurum illud debet resolvi ad causas per se <pc type="virgula">/</pc> nam a proposito 
+              <lb ed="#P" n="37"/><name ref="#Plato">Plato</name> posuit ibi <del rend="strikethrough">illud</del> illum thesaurum et a proposito <name ref="#Sortes">sortes</name> fodit aegrum igitur ex concursu et combinatione causarum 
+              <lb ed="#P" n="38"/>contingit effectus per accidens quae quidem combinatio et concursus nihil aliud sunt quam fortuna <pc type="pilcrow"/> Econverso nota hic ubi scilicet 
+              <lb ed="#P" n="39"/>effectus est fortuitus et non intentus <pc type="virgula">/</pc> nam si resolvatur quod fortuna sit divina providentia tunc effectus non erit 
+              <lb ed="#P" n="40"/>fortuitus respectu ipsius <pc type="punctus"/> sed quare una domus est fortuita potest reduci ad causas per se
             </p>
             <p xml:id="ppra-l99-ussetr">
               <pc type="pilcrow"/> Unde si sit 
-              <lb ed="#P"/>aliquis dispositis in domo erit humilior ad operationes suas exercendas quam in alia nec oportet ibi superstitiones 
-              <lb ed="#P"/>fingere Et sic esse fortuitum reducitur ad aliquid per se <pc type="virgula">/</pc> ut vetulae intendunt quod aliquis sit fortuitus 
-              <lb ed="#P"/>et omnium illorum errorum est iam tacta radix
+              <lb ed="#P" n="41"/>aliquis dispositis in domo erit humilior ad operationes suas exercendas quam in alia nec oportet ibi superstitiones 
+              <lb ed="#P" n="42"/>fingere Et sic esse fortuitum reducitur ad aliquid per se <pc type="virgula">/</pc> ut vetulae intendunt quod aliquis sit fortuitus 
+              <lb ed="#P" n="43"/>et omnium illorum errorum est iam tacta radix
             </p>
           </div>
         </div>
@@ -266,55 +266,55 @@
           <head xml:id="ppra-l99-Hsrppif">Secunda radix principalis pro inventione fati</head>
           <p xml:id="ppra-l99-srpdpp">
             <pc type="pilcrow"/> 2a radix principalis quae procedit non ex ignorantia et potuit 
-            <lb ed="#P"/>esse causa inventionis fati <pc type="punctus"/> Et dividitur in plures partes <pc type="virgula">/</pc> nam primo causa quaestus vetulae potuerunt 
-            <lb ed="#P"/>se fingere audisse responsa a deabus prosperitate puerorum <unclear>convenientia</unclear> ut ipse miserrime de parentibus 
-            <lb ed="#P"/>praemiarentur <pc type="punctus"/>
+            <lb ed="#P" n="44"/>esse causa inventionis fati <pc type="punctus"/> Et dividitur in plures partes <pc type="virgula">/</pc> nam primo causa quaestus vetulae potuerunt 
+            <lb ed="#P" n="45"/>se fingere audisse responsa a deabus prosperitate puerorum <unclear>convenientia</unclear> ut ipse miserrime de parentibus 
+            <lb ed="#P" n="46"/>praemiarentur <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l99-riaatd">
             <pc type="pilcrow"/> Unde <name ref="#Apostle">apostolus</name> radix omnium malorum est cupiditas ymmo avaritia est ydolorum servitus 
-            <lb ed="#P"/>et fecit quosdam apostatare <pc type="punctus"/> a fide sicut sergium qui praefixit populo arabico macometi 
-            <lb ed="#P"/>ut legit in historia lungobardus Et sic <unclear>ama?a</unclear> fuit causa aliquorum mendaciorum ideo vetulae potuerunt 
-            <lb ed="#P"/>dicere deas fatales eis praedicere puerorum statum et ordinare propria potestate <pc type="punctus"/> <pc type="pilcrow"/> Alia est causa 
-            <lb ed="#P"/>reducta ad eandem radicem ex appetitu inanis gloriae quo nulla minima persona caret ut ait <name>valerius</name> 
-            <lb ed="#P"/>nam plene sunt historiae <name ref="#Romans">romanarum</name> de simplicibus se fingentibus cum diis conversari ut magis 
-            <lb ed="#P"/>venerarentur <pc type="pilcrow"/> Unde <name ref="#AlexanderTheGreat">magnus alexander</name> dicit se fuisse genitum a <name ref="#Jupiter">iove</name> in specie serpentis <pc type="punctus"/> 
-            <lb ed="#P"/>Et <name ref="#Nebuchadnezzar"><sic>nabugodenosor</sic></name> fecit destrui omnia ydola sui regni et voluit se adorari tanquam deum
+            <lb ed="#P" n="47"/>et fecit quosdam apostatare <pc type="punctus"/> a fide sicut sergium qui praefixit populo arabico macometi 
+            <lb ed="#P" n="48"/>ut legit in historia lungobardus Et sic <unclear>ama?a</unclear> fuit causa aliquorum mendaciorum ideo vetulae potuerunt 
+            <lb ed="#P" n="49"/>dicere deas fatales eis praedicere puerorum statum et ordinare propria potestate <pc type="punctus"/> <pc type="pilcrow"/> Alia est causa 
+            <lb ed="#P" n="50"/>reducta ad eandem radicem ex appetitu inanis gloriae quo nulla minima persona caret ut ait <name>valerius</name> 
+            <lb ed="#P" n="51"/>nam plene sunt historiae <name ref="#Romans">romanarum</name> de simplicibus se fingentibus cum diis conversari ut magis 
+            <lb ed="#P" n="52"/>venerarentur <pc type="pilcrow"/> Unde <name ref="#AlexanderTheGreat">magnus alexander</name> dicit se fuisse genitum a <name ref="#Jupiter">iove</name> in specie serpentis <pc type="punctus"/> 
+            <lb ed="#P" n="53"/>Et <name ref="#Nebuchadnezzar"><sic>nabugodenosor</sic></name> fecit destrui omnia ydola sui regni et voluit se adorari tanquam deum
           </p>
           <p xml:id="ppra-l99-eaphrd">
-            <lb ed="#P"/>Et ad propositum dicitur quod forte aliqui sunt astrologi libros nescientes qui dicunt se esse secretissimos 
-            <lb ed="#P"/>philosophos et astrologos quod tamen non est verum <pc type="virgula">/</pc> Et cum concurrit quaestus ut per mendacia aliquid acquirant 
+            <lb ed="#P" n="54"/>Et ad propositum dicitur quod forte aliqui sunt astrologi libros nescientes qui dicunt se esse secretissimos 
+            <lb ed="#P" n="55"/>philosophos et astrologos quod tamen non est verum <pc type="virgula">/</pc> Et cum concurrit quaestus ut per mendacia aliquid acquirant 
             <pb ed="#P" n="101-r"/>
-            <lb ed="#P"/>sicut multi medianti faciunt etiam Et sic vetulae ut magnificarentur dixerunt se habere responsa deorum
+            <lb ed="#P" n="1"/>sicut multi medianti faciunt etiam Et sic vetulae ut magnificarentur dixerunt se habere responsa deorum
           </p>
         </div>
         <div xml:id="ppra-l99-Dd1e433">
           <head xml:id="ppra-l99-Htrppif">Tertia radix principalis pro inventione fati</head>
           <p xml:id="ppra-l99-amfspt">
-            <lb ed="#P"/><pc type="pilcrow"/> Alius est modus nam per demerita personarum contingit creaturam derelinqui a deo in manibus 
-            <lb ed="#P"/>dyaboli et ita potuit esse quod daemones culpis creaturarum exigentibus multa dixerunt ventura Et huiusmodi 
-            <lb ed="#P"/>dicta et ita potuit esse quod daemones culpis creaturarum exigentibus multa dixerunt <unclear>ven?ra</unclear> Et huiusmodi 
-            <lb ed="#P"/>dicta voverunt fata <pc type="punctus"/> et illae vetulae coluerunt daemones tamquam potestatem temporalem habentes Et sic 
-            <lb ed="#P"/>secundum varia officia et varias indigentias dederunt eis varia nomina quae quid officia exercebant certa 
-            <lb ed="#P"/>homines <pc type="pilcrow"/> Unde et quidam praesidebant toti domini et vocabantur <del rend="strikethrough">penates</del> lares <pc type="punctus"/> Et 
-            <lb ed="#P"/>penates erant dii in secretioribus locis <unclear>positi</unclear> <pc type="pilcrow"/> Iam nos vocabant a <unclear>fatui?te</unclear> gestorum <pc type="punctus"/> Satiros 
-            <lb ed="#P"/>a saltationibus et maxime coram populo <pc type="pilcrow"/> Ioculatores a ioculationibus <pc type="punctus"/> fata deas vocabant quas 
-            <lb ed="#P"/>dicebant in nativitatibus puerorum apparere <pc type="virgula">/</pc> et nedum praedicere prosperitatem sed conferre <pc type="pilcrow"/> <sic>Saciam</sic> a satietate 
-            <lb ed="#P"/>Abundantia ab habundantia et secundum operationes deorum habebant varia nomina <pc type="pilcrow"/> Unde et deam <unclear>cloasinam</unclear> 
-            <lb ed="#P"/>posuerunt infimam deam et posuerunt fatum supremam quae statum prosperitatis tribuebat <pc type="punctus"/>
+            <lb ed="#P" n="2"/><pc type="pilcrow"/> Alius est modus nam per demerita personarum contingit creaturam derelinqui a deo in manibus 
+            <lb ed="#P" n="3"/>dyaboli et ita potuit esse quod daemones culpis creaturarum exigentibus multa dixerunt ventura Et huiusmodi 
+            <lb ed="#P" n="4"/>dicta et ita potuit esse quod daemones culpis creaturarum exigentibus multa dixerunt <unclear>ven?ra</unclear> Et huiusmodi 
+            <lb ed="#P" n="5"/>dicta voverunt fata <pc type="punctus"/> et illae vetulae coluerunt daemones tamquam potestatem temporalem habentes Et sic 
+            <lb ed="#P" n="6"/>secundum varia officia et varias indigentias dederunt eis varia nomina quae quid officia exercebant certa 
+            <lb ed="#P" n="7"/>homines <pc type="pilcrow"/> Unde et quidam praesidebant toti domini et vocabantur <del rend="strikethrough">penates</del> lares <pc type="punctus"/> Et 
+            <lb ed="#P" n="8"/>penates erant dii in secretioribus locis <unclear>positi</unclear> <pc type="pilcrow"/> Iam nos vocabant a <unclear>fatui?te</unclear> gestorum <pc type="punctus"/> Satiros 
+            <lb ed="#P" n="9"/>a saltationibus et maxime coram populo <pc type="pilcrow"/> Ioculatores a ioculationibus <pc type="punctus"/> fata deas vocabant quas 
+            <lb ed="#P" n="10"/>dicebant in nativitatibus puerorum apparere <pc type="virgula">/</pc> et nedum praedicere prosperitatem sed conferre <pc type="pilcrow"/> <sic>Saciam</sic> a satietate 
+            <lb ed="#P" n="11"/>Abundantia ab habundantia et secundum operationes deorum habebant varia nomina <pc type="pilcrow"/> Unde et deam <unclear>cloasinam</unclear> 
+            <lb ed="#P" n="12"/>posuerunt infimam deam et posuerunt fatum supremam quae statum prosperitatis tribuebat <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l99-pqndgd">
             pro quo 
-            <lb ed="#P"/>notandum est quod post ista accesserunt poetae qui fata vulgorum philosophorum et astrologorum et res 
-            <lb ed="#P"/>gestas scilicet moralem philosophiam et astrologiam simul describere voluerunt <pc type="virgula">/</pc> et talia dicta in scriptis 
-            <lb ed="#P"/>suis redegerunt ut vulgus suam fatuitatem legeret <pc type="pilcrow"/> Unde vulgus <unclear>minervam</unclear> vocabat 
-            <lb ed="#P"/>daemonem instruentem et ita de <name ref="#Jupiter">iove</name> Tamen resolvendo ad philosophiam naturalem aliud intelligitur et per astrologiam 
-            <lb ed="#P"/>aliud ut patet in libro <title>de genealogia deorum</title> <pc type="punctus"/>
+            <lb ed="#P" n="13"/>notandum est quod post ista accesserunt poetae qui fata vulgorum philosophorum et astrologorum et res 
+            <lb ed="#P" n="14"/>gestas scilicet moralem philosophiam et astrologiam simul describere voluerunt <pc type="virgula">/</pc> et talia dicta in scriptis 
+            <lb ed="#P" n="15"/>suis redegerunt ut vulgus suam fatuitatem legeret <pc type="pilcrow"/> Unde vulgus <unclear>minervam</unclear> vocabat 
+            <lb ed="#P" n="16"/>daemonem instruentem et ita de <name ref="#Jupiter">iove</name> Tamen resolvendo ad philosophiam naturalem aliud intelligitur et per astrologiam 
+            <lb ed="#P" n="17"/>aliud ut patet in libro <title>de genealogia deorum</title> <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l99-qaildd">
             <pc type="pilcrow"/> Quantum ad istam materiam duo sunt videnda <pc type="virgula">/</pc> unum est 
-            <lb ed="#P"/>de deceptionibus daemonum ubi aliquando creduntur daemones esse et non sunt aliud erit de potestatibus 
-            <lb ed="#P"/>daemonum et de modo eorum quantum ad futura praenuntianda et de istis in alia lectione videbitur 
-            <lb ed="#P"/>deo dante
+            <lb ed="#P" n="18"/>de deceptionibus daemonum ubi aliquando creduntur daemones esse et non sunt aliud erit de potestatibus 
+            <lb ed="#P" n="19"/>daemonum et de modo eorum quantum ad futura praenuntianda et de istis in alia lectione videbitur 
+            <lb ed="#P" n="20"/>deo dante
           </p>
         </div>
       </div>

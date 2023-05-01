@@ -53,7 +53,7 @@
         <head xml:id="ppra-l85-Hpsafir">Prima Solutio ad argumentum quod potest fieri transitus de contradictio in contradictioni sine mutatione facta in re</head>
         <p xml:id="ppra-l85-cmdpas">
           <pb ed="#P" n="86-r"/>
-          <lb ed="#P" n="1"/>Consequenter circa materiam <add place="above-line">caritatis</add> de divina acceptatione restat solvere unum argumentum si de trans<lb ed="#P"/>mutatione 
+          <lb ed="#P" n="1"/>Consequenter circa materiam <add place="above-line">caritatis</add> de divina acceptatione restat solvere unum argumentum si de trans<lb ed="#P" break="no" n="2"/>mutatione 
           contradictorii in aliud contradictorium propter quod ponuntur aliquae propositiones 
         </p> 
         <div xml:id="ppra-l85-Dd1e117">
@@ -62,29 +62,29 @@
             <head xml:id="ppra-l85-Hpsopso">Prima suppositio</head>
             <p xml:id="ppra-l85-peqssm">
               prima est quod sicut 
-              <lb ed="#P"/>consurgit ex immensitate divina uniformiter circa creaturis stat se habere sicut etiam 
-              <lb ed="#P"/>stat erga sortis acceptationem 
+              <lb ed="#P" n="3"/>consurgit ex immensitate divina uniformiter circa creaturis stat se habere sicut etiam 
+              <lb ed="#P" n="4"/>stat erga sortis acceptationem 
             </p>
             <p xml:id="ppra-l85-pparpi">
               <pc type="virgula">/</pc> prima pars satis est manifesta per philosophum quoniam idem in quantum idem semper natum est 
-              <lb ed="#P"/>facere idem 
+              <lb ed="#P" n="5"/>facere idem 
             </p>
             <!-- fuzzy break -->
             <p xml:id="ppra-l85-spaidp">
               et sic ratione immensitatis suae non realiter acceptat noviter sortem licet ante <unclear>acceptat</unclear> 
-              <lb ed="#P"/>nam adaequate deus ante mundi constitutione se habebat ad sortem et asinum igitur
+              <lb ed="#P" n="6"/>nam adaequate deus ante mundi constitutione se habebat ad sortem et asinum igitur
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e143">
             <head xml:id="ppra-l85-Hssosso">Secunda suppositio</head>
             <p xml:id="ppra-l85-spqaad">
               <pc type="pilcrow"/> 2a propositio est 
-              <lb ed="#P"/>quamvis deus posset acceptare aliquem se solo creatura non <unclear>confe?te</unclear> non tamen potest deacceptare 
+              <lb ed="#P" n="7"/>quamvis deus posset acceptare aliquem se solo creatura non <unclear>confe?te</unclear> non tamen potest deacceptare 
             </p> 
             <!-- fuzzy break/parallel -->
             <p xml:id="ppra-l85-ppagbi">
-              <lb ed="#P"/>nam ex sua <sic>liberta</sic> est malum non posse inferre se solo nisi secundum conditionem sive dispositionem 
-              <lb ed="#P"/>recipientis
+              <lb ed="#P" n="8"/>nam ex sua <sic>liberta</sic> est malum non posse inferre se solo nisi secundum conditionem sive dispositionem 
+              <lb ed="#P" n="9"/>recipientis
             </p>
             <!-- doesn't seem present 
               <p xml:id="ppra-l85-spapsd">
@@ -97,23 +97,23 @@
             <head xml:id="ppra-l85-Htsotso">Tertia suppositio</head>
             <p xml:id="ppra-l85-tpetdp">
               <pc type="pilcrow"/> 3a propositio sicut acceptatio alicuius potest esse meritis aliorum exigentibus stante 
-              <lb ed="#P"/>lege nunc currente ita deacceptatio potest esse demeritis aliorum exigentibus
+              <lb ed="#P" n="10"/>lege nunc currente ita deacceptatio potest esse demeritis aliorum exigentibus
             </p>
             <p xml:id="ppra-l85-ppanhe">
               sed ad hoc tamen deserunt 
-              <lb ed="#P"/>ecclesiae preces et iustorum orationes et sic prima pars satis patet
+              <lb ed="#P" n="11"/>ecclesiae preces et iustorum orationes et sic prima pars satis patet
             </p>
             <p xml:id="ppra-l85-spatpa">
               sed 2a probatur nam ex peccato alicuius potest 
-              <lb ed="#P"/>indignificari nedum ipse solus sed alii ab eo <pc type="virgula">/</pc> et hoc patet quia in poenalibus filius bene <unclear>ponat</unclear> 
-              <lb ed="#P"/>iniquitatem propriis ymmo totum genus humanum per adae peccatum est ad penam et laborem obliquatum 
-              <lb ed="#P"/>et etiam per primam invidiam effectu suo remanente in hoc mundo totaliter infectum atque de <unclear>prava?m</unclear> 
-              <lb ed="#P"/>Et sic est causa sufficiens ad deacceptationem totius universi 
+              <lb ed="#P" n="12"/>indignificari nedum ipse solus sed alii ab eo <pc type="virgula">/</pc> et hoc patet quia in poenalibus filius bene <unclear>ponat</unclear> 
+              <lb ed="#P" n="13"/>iniquitatem propriis ymmo totum genus humanum per adae peccatum est ad penam et laborem obliquatum 
+              <lb ed="#P" n="14"/>et etiam per primam invidiam effectu suo remanente in hoc mundo totaliter infectum atque de <unclear>prava?m</unclear> 
+              <lb ed="#P" n="15"/>Et sic est causa sufficiens ad deacceptationem totius universi 
             </p> 
             <p xml:id="ppra-l85-eeiesd">
               <pc type="punctus"/> Et ex ista sequitur probabilis modus 
-              <lb ed="#P"/>peccati originalis principaliter consistere in divina dei deacceptatione quod licet non possit esse prius tempus natura 
-              <lb ed="#P"/>tamen praecedit <unclear>natura</unclear> originalis iustitia et hoc sufficit ad hoc quod deus deacceptet
+              <lb ed="#P" n="16"/>peccati originalis principaliter consistere in divina dei deacceptatione quod licet non possit esse prius tempus natura 
+              <lb ed="#P" n="17"/>tamen praecedit <unclear>natura</unclear> originalis iustitia et hoc sufficit ad hoc quod deus deacceptet
             </p>
           </div>
         </div>
@@ -121,25 +121,25 @@
           <head xml:id="ppra-l85-Hrafafr">Responsio ad formam rationis</head>
           <p xml:id="ppra-l85-rraeim">
             <pc type="pilcrow"/> hiis visis 
-            <lb ed="#P"/>restat respondere ad formam rationis in qua dicebatur de mutatione contradictorii in contradictorium
+            <lb ed="#P" n="18"/>restat respondere ad formam rationis in qua dicebatur de mutatione contradictorii in contradictorium
           </p>
           <p xml:id="ppra-l85-pninsn">
-            <lb ed="#P"/><pc type="pilcrow"/> pro solutione cuius advertendum est quod a doctoribus diversimode glosatur nihilominus multae possunt fieri 
-            <lb ed="#P"/>instante contra eam
+            <lb ed="#P" n="19"/><pc type="pilcrow"/> pro solutione cuius advertendum est quod a doctoribus diversimode glosatur nihilominus multae possunt fieri 
+            <lb ed="#P" n="20"/>instante contra eam
           </p>
           <p xml:id="ppra-l85-pisaev">
             <pc type="virgula">/</pc> Et videtur primo quod non sit necessario concedenda nam capiamus istam propositionem 
-            <lb ed="#P"/>deus incipit producere mundum ista 6a est per remotionem de praesenti et tamen non fuit ante unde 
-            <lb ed="#P"/>eo ipso huic deus assentit et non ante assentivit Ibi videtur esse transitus de contrario in 
-            <lb ed="#P"/>contrarium et tamen nullam fit mutatus et sit sua contradictoria in mente divina <del rend="strikethrough">erit vera</del> ab aeterno <pc type="punctus"/> 
-            <lb ed="#P"/>erit vera
+            <lb ed="#P" n="21"/>deus incipit producere mundum ista 6a est per remotionem de praesenti et tamen non fuit ante unde 
+            <lb ed="#P" n="22"/>eo ipso huic deus assentit et non ante assentivit Ibi videtur esse transitus de contrario in 
+            <lb ed="#P" n="23"/>contrarium et tamen nullam fit mutatus et sit sua contradictoria in mente divina <del rend="strikethrough">erit vera</del> ab aeterno <pc type="punctus"/> 
+            <lb ed="#P" n="24"/>erit vera
           </p> 
           <p xml:id="ppra-l85-sfacma">
             <pc type="virgula">/</pc> Sed diceret aliquis sufficeret quod inciperet esse mutatio 
           </p> 
           <p xml:id="ppra-l85-aippap">
             Sed hoc no valet pro quo ponitur 
-            <lb ed="#P"/>aliquae suppositiones 
+            <lb ed="#P" n="25"/>aliquae suppositiones 
           </p> 
         </div>
         <div xml:id="ppra-l85-Dd1e218">
@@ -148,33 +148,33 @@
             <head xml:id="ppra-l85-prsprs">Prima suppositio</head>
             <p xml:id="ppra-l85-pehahs">
               prima est <pc type="virgula">/</pc> haec consequentia est bona <c>a</c> fuit ante hoc instans igitur necesse est <c>a</c> fuisse <pc type="virgula">/</pc> consequentia tenet 
-              <lb ed="#P"/>per <ref>articulum parisiensem</ref> quia illud quod est praeteritum necesse est esse praeteritum
+              <lb ed="#P" n="26"/>per <ref>articulum parisiensem</ref> quia illud quod est praeteritum necesse est esse praeteritum
             </p>
             <p xml:id="ppra-l85-iieahs">
               <pc type="virgula">/</pc> et haec etiam patet per <ref xml:id="ppra-l85-Rd1e246" target="http://scta.info/resource/aristneth-l10">philosophum 
-              <lb ed="#P"/>2o ethicorum</ref> Ita quod res quae fuit trahit rem sum causam suae praeteritionis
+              <lb ed="#P" n="27"/>2o ethicorum</ref> Ita quod res quae fuit trahit rem sum causam suae praeteritionis
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e261">
             <head xml:id="ppra-l85-Hsassas">Secunda suppositio</head>
             <p xml:id="ppra-l85-ssbqnf">
               <pc type="pilcrow"/> 2a suppositio Ista 
-              <lb ed="#P"/>consequentia est bona <c>a</c> non fuit ante hoc instans igitur necesse est <c>a</c> non fuisse ante hoc instans
+              <lb ed="#P" n="28"/>consequentia est bona <c>a</c> non fuit ante hoc instans igitur necesse est <c>a</c> non fuisse ante hoc instans
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e276">
             <head xml:id="ppra-l85-Htastas">Tertia suppositio</head>
             <p xml:id="ppra-l85-tsarpp">
-              <lb ed="#P"/><pc type="pilcrow"/> 3a suppositio ante mundi constitutionem sive creationem fuit ymaginabilis duratio sive productio <c>a</c> 
-              <lb ed="#P"/>nam sicut nunc ymaginabilis est ita fuit ante inceptionem mundi maxime a deo vel etc
+              <lb ed="#P" n="29"/><pc type="pilcrow"/> 3a suppositio ante mundi constitutionem sive creationem fuit ymaginabilis duratio sive productio <c>a</c> 
+              <lb ed="#P" n="30"/>nam sicut nunc ymaginabilis est ita fuit ante inceptionem mundi maxime a deo vel etc
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e288">
             <head xml:id="ppra-l85-Hqasqas">Quarta suppositio</head>
             <p xml:id="ppra-l85-qsiqei">
               <pc type="pilcrow"/> 4a idem instans 
-              <lb ed="#P"/>non potest ab alio plus veri minus distare verbi gratia sive in tempore 6o sive vero <pc type="virgula">/</pc> sive ymaginabili impossibile est 
-              <lb ed="#P"/>quod fuit sibi magis propinquum vel magis distans
+              <lb ed="#P" n="31"/>non potest ab alio plus veri minus distare verbi gratia sive in tempore 6o sive vero <pc type="virgula">/</pc> sive ymaginabili impossibile est 
+              <lb ed="#P" n="32"/>quod fuit sibi magis propinquum vel magis distans
             </p>
           </div>
         </div>
@@ -184,67 +184,67 @@
             <head xml:id="ppra-l85-Hpriima">Prima</head>
             <p xml:id="ppra-l85-isifii">
               <pc type="pilcrow"/> Istis suppositis inferuntur aliqua carentia 
-              <lb ed="#P"/>unde significando aliquod instand quod praecesserit in sanctas mundi in illo instanti haec est falsa deus potest 
-              <lb ed="#P"/>producere mundum ante haec instans tunc illud vocetur <c>b</c> tunc sit deus producere mundum ante <c>b</c> 
-              <lb ed="#P"/>et tamen ab aeterno fuit vera quia deus posset produxisse ante si voluisset et tamen iam transiit igitur non 
-              <lb ed="#P"/>potest producere modo quia impossibile est per quantamcumque potentiam praeteritum non fuisse praeteritum et tamen nulla 
-              <lb ed="#P"/>mittatur facta est in re <pc type="punctus"/> et tamen in <c>b</c> instanti falsa fuit igitur ante mundi constitutionem si fiat mutatio 
-              <lb ed="#P"/>fuit ante hoc <pc type="pilcrow"/> Ex quo sequitur quod in quolibet instanti deus posset facere mundum ante hoc 
-              <lb ed="#P"/>instans incipit esse falsa in illo
+              <lb ed="#P" n="33"/>unde significando aliquod instand quod praecesserit in sanctas mundi in illo instanti haec est falsa deus potest 
+              <lb ed="#P" n="34"/>producere mundum ante haec instans tunc illud vocetur <c>b</c> tunc sit deus producere mundum ante <c>b</c> 
+              <lb ed="#P" n="35"/>et tamen ab aeterno fuit vera quia deus posset produxisse ante si voluisset et tamen iam transiit igitur non 
+              <lb ed="#P" n="36"/>potest producere modo quia impossibile est per quantamcumque potentiam praeteritum non fuisse praeteritum et tamen nulla 
+              <lb ed="#P" n="37"/>mittatur facta est in re <pc type="punctus"/> et tamen in <c>b</c> instanti falsa fuit igitur ante mundi constitutionem si fiat mutatio 
+              <lb ed="#P" n="38"/>fuit ante hoc <pc type="pilcrow"/> Ex quo sequitur quod in quolibet instanti deus posset facere mundum ante hoc 
+              <lb ed="#P" n="39"/>instans incipit esse falsa in illo
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e319">
             <head xml:id="ppra-l85-Hsecnda">Secunda</head>
             <p xml:id="ppra-l85-ssqena">
               <pc type="pilcrow"/> Sequitur ulterius quod ad verificandum duo contradictoria non requiritur 
-              <lb ed="#P"/>realis successio sicut patet pro praedicta
+              <lb ed="#P" n="40"/>realis successio sicut patet pro praedicta
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e328">
             <head xml:id="ppra-l85-Htertia">Tertia</head>
             <p xml:id="ppra-l85-tsqrae">
               <pc type="pilcrow"/> Sequitur ulterius quod productio personarum ab intra non habet 
-              <lb ed="#P"/>maiorem apparentiam quam primum principium quam habitudo dei ad res ad extra
+              <lb ed="#P" n="41"/>maiorem apparentiam quam primum principium quam habitudo dei ad res ad extra
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e337">
             <head xml:id="ppra-l85-Hquarta">Quarta</head>
             <p xml:id="ppra-l85-qsqedi">
               <pc type="pilcrow"/> Ulterius sequitur quod non oportet priore 
-              <lb ed="#P"/>quod ab aeterno deus acceptaverit creaturam
+              <lb ed="#P" n="42"/>quod ab aeterno deus acceptaverit creaturam
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e347">
             <head xml:id="ppra-l85-Hquinta">Quinta</head>
             <p xml:id="ppra-l85-qsqpsm">
               <pc type="pilcrow"/> Ulterius sequitur quod si esset novitas acceptationis 
-              <lb ed="#P"/>nullam poneret repugnantiam inceptionis acceptandi et sic de per se non arguit mutationem.
+              <lb ed="#P" n="43"/>nullam poneret repugnantiam inceptionis acceptandi et sic de per se non arguit mutationem.
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e360">
             <head xml:id="ppra-l85-Hsexxta">Sexta</head>
             <p xml:id="ppra-l85-ssquaa">
-              <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius quod propter novam acceptationem non oportet fingere novos respectus rerum distinctos 
-              <lb ed="#P"/>a rebus <unclear>praeso?tis</unclear> patet hoc quoniam totum in divinam resolvitur immensitatem 
+              <lb ed="#P" n="44"/><pc type="pilcrow"/> Sequitur ulterius quod propter novam acceptationem non oportet fingere novos respectus rerum distinctos 
+              <lb ed="#P" n="45"/>a rebus <unclear>praeso?tis</unclear> patet hoc quoniam totum in divinam resolvitur immensitatem 
             </p>
           </div>
           <div xml:id="ppra-l85-Dd1e372">
             <head xml:id="ppra-l85-Hsepima">Septima</head>
             <p xml:id="ppra-l85-ipvsec">
               <pc type="pilcrow"/> Ex quo sequitur infinitas 
-              <lb ed="#P"/>rationis ponentium respectus distinctos quos vocant a similes sicut <name>scotus</name> ponit res distinctas 
-              <lb ed="#P"/>a rebus absolutis nam ponit per modum principii quod quando propositio de praesenti verificatur pro rebus 
-              <lb ed="#P"/>tunc datis illis quae non sufficiunt oportet priore alias quae habeant aliam apparentiam vel aliquam 
-              <lb ed="#P"/>aliam rem <pc type="pilcrow"/> Ad propositum dico nam sit deus et sortes et sit haec propositio deus acceptat sortem 
-              <lb ed="#P"/>Ad visionem eius non sufficit deus et sortes solum igitur oportet ponere aliam rem scilicet caritatem creatam 
-              <lb ed="#P"/>vel aliquam rem respectivam mediate qua deus <unclear>se</unclear> habeat ad creaturam quae <unclear><!-- vivificetur-->beatificetur</unclear> pro rebus 
-              <lb ed="#P"/>vel igitur caritas et anima sufficiunt 
+              <lb ed="#P" n="46"/>rationis ponentium respectus distinctos quos vocant a similes sicut <name>scotus</name> ponit res distinctas 
+              <lb ed="#P" n="47"/>a rebus absolutis nam ponit per modum principii quod quando propositio de praesenti verificatur pro rebus 
+              <lb ed="#P" n="48"/>tunc datis illis quae non sufficiunt oportet priore alias quae habeant aliam apparentiam vel aliquam 
+              <lb ed="#P" n="49"/>aliam rem <pc type="pilcrow"/> Ad propositum dico nam sit deus et sortes et sit haec propositio deus acceptat sortem 
+              <lb ed="#P" n="50"/>Ad visionem eius non sufficit deus et sortes solum igitur oportet ponere aliam rem scilicet caritatem creatam 
+              <lb ed="#P" n="51"/>vel aliquam rem respectivam mediate qua deus <unclear>se</unclear> habeat ad creaturam quae <unclear><!-- vivificetur-->beatificetur</unclear> pro rebus 
+              <lb ed="#P" n="52"/>vel igitur caritas et anima sufficiunt 
             </p>
             <!-- fuzzy break / parallel -->
             <p xml:id="ppra-l85-sahpad">
               tunc dat haec adhuc requiritur aliud nam sicut ad conservandum solem 
-              <lb ed="#P"/>non sufficit sol et radius ita respectu causae et effectus requiritur aliquod extremum concurrere et sic praeter res 
-              <lb ed="#P"/>absolutis ponerentur secundum <name>scotum</name> respectus distincti sive res distinctas quoniam aliter non sufficere
+              <lb ed="#P" n="53"/>non sufficit sol et radius ita respectu causae et effectus requiritur aliquod extremum concurrere et sic praeter res 
+              <lb ed="#P" n="54"/>absolutis ponerentur secundum <name>scotum</name> respectus distincti sive res distinctas quoniam aliter non sufficere
             </p>
           </div>
         </div>
@@ -253,82 +253,82 @@
           <head xml:id="ppra-l85-Htsltsl">Tertia solutio</head>
           <p xml:id="ppra-l85-arqprh">
             <pb ed="#P" n="86-v"/>
-            <lb ed="#P"/><pc type="pilcrow"/>Alia radix quia praedicamenta nedum sunt obiectalia sed tamen ista modici coloris est <pc type="pilcrow"/> Advertendum 
-            <lb ed="#P"/>quod dupliciter vel varie 
+            <lb ed="#P" n="1"/><pc type="pilcrow"/>Alia radix quia praedicamenta nedum sunt obiectalia sed tamen ista modici coloris est <pc type="pilcrow"/> Advertendum 
+            <lb ed="#P" n="2"/>quod dupliciter vel varie 
           </p> 
           <p xml:id="ppra-l85-uadaas">
             aliqui quod res <unclear>relativa</unclear> componat cum suo fundamento Ita quod albedo et apparet <unclear>respectu</unclear> 
-            <lb ed="#P"/>constituunt unum terminum relationis
+            <lb ed="#P" n="3"/>constituunt unum terminum relationis
           </p> 
           <p xml:id="ppra-l85-apqnec">
             <pc type="pilcrow"/> Alii dicunt quod res respectiva est distincta ab ipsa prima non 
-            <lb ed="#P"/>stat quia ad aliud non est mutatio vel motus 
+            <lb ed="#P" n="4"/>stat quia ad aliud non est mutatio vel motus 
           </p>
           <p xml:id="ppra-l85-segmbi">
             <pc type="pilcrow"/> unde secundum <name>durandum</name> potest poni quaedam habitudo sicut causa
-            <lb ed="#P"/>ad effectum suum <pc type="pilcrow"/> unde non sufficit materia et forma ad aliquod compositum faciendum sine inhaerentia et sic necessario requiritur 
-            <lb ed="#P"/>inhaerentia
+            <lb ed="#P" n="5"/>ad effectum suum <pc type="pilcrow"/> unde non sufficit materia et forma ad aliquod compositum faciendum sine inhaerentia et sic necessario requiritur 
+            <lb ed="#P" n="6"/>inhaerentia
           </p>
           <p xml:id="ppra-l85-neqdnc">
             <pc type="pilcrow"/> Unde distinguendi sancti gradus entis nam primo videtur ens significare substantiam <pc type="virgula">/</pc> 2o per modum 
-            <lb ed="#P"/>analogiae sicut significat qualitatem quantitatem etc <pc type="virgula">/</pc> 3o per inferiores gradus analogiae significat modos rerum qui 
-            <lb ed="#P"/>quid improprie dicuntur res Sicut non proprie accidentia dicuntur res Et sic ad istum 3m gradum 
-            <lb ed="#P"/>reducuntur respectus rerum Et sic sancti distincti tales modi a rebus extendo large tamen vocantur 
-            <lb ed="#P"/>res <pc type="punctus"/> Sed propter causalitates rerum non est necesse sic ponere <pc type="punctus"/> <pc type="virgula">/</pc> Et sic responderetur ad radicem eorum 
-            <lb ed="#P"/>quando dicunt oportet ponere aliquam rem distinctam
+            <lb ed="#P" n="7"/>analogiae sicut significat qualitatem quantitatem etc <pc type="virgula">/</pc> 3o per inferiores gradus analogiae significat modos rerum qui 
+            <lb ed="#P" n="8"/>quid improprie dicuntur res Sicut non proprie accidentia dicuntur res Et sic ad istum 3m gradum 
+            <lb ed="#P" n="9"/>reducuntur respectus rerum Et sic sancti distincti tales modi a rebus extendo large tamen vocantur 
+            <lb ed="#P" n="10"/>res <pc type="punctus"/> Sed propter causalitates rerum non est necesse sic ponere <pc type="punctus"/> <pc type="virgula">/</pc> Et sic responderetur ad radicem eorum 
+            <lb ed="#P" n="11"/>quando dicunt oportet ponere aliquam rem distinctam
             
             <pc type="pilcrow"/>Respondetur de <unclear>li</unclear> sufficiere distinguendo de eo <pc type="punctus"/> unde 
-            <lb ed="#P"/>si intelligatur quod nulla alia res requiratur conceditur <pc type="punctus"/> sed tamen ipsis positis non verificatur propositio sed si caput 
-            <lb ed="#P"/>quod sunt medium concludendi propositionem etiam <unclear>6am</unclear> tunc dicitur quod non sufficiunt igitur ponere aliud etc negatur consequentia quia 
-            <lb ed="#P"/>non arguitur sufficienter sicut tactum est <pc type="punctus"/> quoniam nulla relatio sine necessitate est ponenda per regulam <name>anselmi</name> non sufficit 
-            <lb ed="#P"/>etiam lapsus temporis
+            <lb ed="#P" n="12"/>si intelligatur quod nulla alia res requiratur conceditur <pc type="punctus"/> sed tamen ipsis positis non verificatur propositio sed si caput 
+            <lb ed="#P" n="13"/>quod sunt medium concludendi propositionem etiam <unclear>6am</unclear> tunc dicitur quod non sufficiunt igitur ponere aliud etc negatur consequentia quia 
+            <lb ed="#P" n="14"/>non arguitur sufficienter sicut tactum est <pc type="punctus"/> quoniam nulla relatio sine necessitate est ponenda per regulam <name>anselmi</name> non sufficit 
+            <lb ed="#P" n="15"/>etiam lapsus temporis
           </p>
           <p xml:id="ppra-l85-eiaara">
             Et sic argumentum de contradictorius in contradictorium non facit qua dicta nec de <unclear>li</unclear> sufficere 
-            <lb ed="#P"/>est ad propositum
+            <lb ed="#P" n="16"/>est ad propositum
           </p>
         </div>
         <div xml:id="ppra-l85-Dzzzz1">
           <head xml:id="ppra-l85-Hzzzz2">Conclusiones</head>
           <p xml:id="ppra-l85-xzzzz3">
             <pc type="pilcrow"/> Secuntur igitur conclusiones temporales <pc type="virgula">/</pc> prima est supra distinctionem 35am 2i et est descriptio peccati 
-            <lb ed="#P"/>commissionis vel obmissionis unde dicunt doctores quod omne peccatum est commissionis vel obmissionis 
-            <lb ed="#P"/>sed dico oppositum nam quoddam <unclear>est</unclear> obmissionis solum et hoc propter actum liberum 
+            <lb ed="#P" n="17"/>commissionis vel obmissionis unde dicunt doctores quod omne peccatum est commissionis vel obmissionis 
+            <lb ed="#P" n="18"/>sed dico oppositum nam quoddam <unclear>est</unclear> obmissionis solum et hoc propter actum liberum 
           </p>
           <p xml:id="ppra-l85-xzzzz4">
             <pc type="pilcrow"/>2a conclusio peccatum est rectitudo alicuius 
-            <lb ed="#P"/><unclear>quo</unclear> iustitia vetat
+            <lb ed="#P" n="19"/><unclear>quo</unclear> iustitia vetat
           </p>
           <p xml:id="ppra-l85-xzzzz5">
             <pc type="pilcrow"/> 3a conclusio peccatum est praevaricatio legis divinae et mandatarum in lege <subst><add>qua</add><del rend="expunctuation">quia</del></subst> omne peccatum 
-            <lb ed="#P"/>est prohibitum Et sic quodlibet peccatum est realiter contra legem non solum divina sed etiam qua rationem
+            <lb ed="#P" n="20"/>est prohibitum Et sic quodlibet peccatum est realiter contra legem non solum divina sed etiam qua rationem
           </p>
           <p xml:id="ppra-l85-xzzzz6">
             <pc type="pilcrow"/> 4a conclusio 
-            <lb ed="#P"/>voluntas est mala in peccatoribus ex eo quod actus interior malus producit actum ad extra imperatum 
-            <lb ed="#P"/><del rend="strikethrough">q</del> malum <pc type="punctus"/>
+            <lb ed="#P" n="21"/>voluntas est mala in peccatoribus ex eo quod actus interior malus producit actum ad extra imperatum 
+            <lb ed="#P" n="22"/><del rend="strikethrough">q</del> malum <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l85-xzzzz7">
             <pc type="pilcrow"/> 5a conclusio actus mali sunt boni naturaliter quia eo ipso quod sunt entia participat summum 
-            <lb ed="#P"/>bonum scilicet deum unde ens et verum convertuntur eo modo
+            <lb ed="#P" n="23"/>bonum scilicet deum unde ens et verum convertuntur eo modo
           </p>
           <p xml:id="ppra-l85-xzzzz8">
             <pc type="pilcrow"/> 6a conclusio omnia subiacent divinae providentiae <pc type="virgula">/</pc> et 
-            <lb ed="#P"/>nihil sit a casu absolute respectu dei <pc type="virgula">/</pc> licet fiat respectu intellectus practici non tamen respectu divinae providentiae
+            <lb ed="#P" n="24"/>nihil sit a casu absolute respectu dei <pc type="virgula">/</pc> licet fiat respectu intellectus practici non tamen respectu divinae providentiae
           </p>
           <p xml:id="ppra-l85-xzzzz9">
             <pc type="pilcrow"/> 7ma conclusio 
-            <lb ed="#P"/>ad <unclear>ulterium</unclear> et homicidia etc in quantum sunt res a deo sunt <pc type="punctus"/> sed in quantum difformitates a deo non sunt 
+            <lb ed="#P" n="25"/>ad <unclear>ulterium</unclear> et homicidia etc in quantum sunt res a deo sunt <pc type="punctus"/> sed in quantum difformitates a deo non sunt 
           </p>
           <p xml:id="ppra-l85-xzzzz10">
-            <lb ed="#P"/><pc type="pilcrow"/> Unde stat valde bene quod duae sunt causae alicuius componit quarum una sit bona et alia mala
+            <lb ed="#P" n="26"/><pc type="pilcrow"/> Unde stat valde bene quod duae sunt causae alicuius componit quarum una sit bona et alia mala
           </p>
           <p xml:id="ppra-l85-xzzzz11">
             <pc type="pilcrow"/> 8va conclusio 
-            <lb ed="#P"/>anima privatur summo bono per peccatum <pc type="virgula">/</pc> cuius causa est quia caritas et gratia non stant cum peccato et sic tollitur dei 
-            <lb ed="#P"/>assistentia <pc type="pilcrow"/> Et etiam quia peccata quaedam caecitates sive obfuscationes quae reprimunt lumen gratiae sicut <unclear>nullam</unclear> 
-            <lb ed="#P"/>solem ne possit ab intuentibus recte videri et sic ex parte affectus minuit peccatum causalitatem bonitatis 
-            <lb ed="#P"/>et per consequens realiter in se fit minus activa et haec de lectione sint dicta die sabbati ante <unclear>achi</unclear> mei etc
+            <lb ed="#P" n="27"/>anima privatur summo bono per peccatum <pc type="virgula">/</pc> cuius causa est quia caritas et gratia non stant cum peccato et sic tollitur dei 
+            <lb ed="#P" n="28"/>assistentia <pc type="pilcrow"/> Et etiam quia peccata quaedam caecitates sive obfuscationes quae reprimunt lumen gratiae sicut <unclear>nullam</unclear> 
+            <lb ed="#P" n="29"/>solem ne possit ab intuentibus recte videri et sic ex parte affectus minuit peccatum causalitatem bonitatis 
+            <lb ed="#P" n="30"/>et per consequens realiter in se fit minus activa et haec de lectione sint dicta die sabbati ante <unclear>achi</unclear> mei etc
           </p>
         </div>
       </div>

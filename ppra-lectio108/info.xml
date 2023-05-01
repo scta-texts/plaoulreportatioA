@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio108">
+      <head xml:id="ppra-l108-Hldlldl">Lectio 108, de Libertate</head>
+      <div xml:id="ppra-l108-Dd1e109">
+        <head xml:id="ppra-l108-Hqeiqpc">Quod esse in homine liberum arbitrium est nedum a catholico
+          fideli et a quolibet philosopho concedendum</head>
+        <p xml:id="ppra-l108-eqpqdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqpqdp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqpqdp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-snssla">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-snssla"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-snssla"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-taeela">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-taeela"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-taeela"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-qeaper">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-qeaper"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-qeaper"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-eqppdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqppdp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqppdp"/>
+          </assertions>
+        </p>
+        <!-- reason for break unclear; combine with above -->
+        <p xml:id="ppra-l108-iinqla">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-iinqla"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-iinqla"/>
+          </assertions>
+        </p>
+        <!-- reason for break unclear; combine with above -->
+        <p xml:id="ppra-l108-eqaetp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqaetp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqaetp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-qaeela">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-qaeela"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-qaeela"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e206">
+        <head xml:id="ppra-l108-Heifeif">Error Iulii Firmici</head>
+        <p xml:id="ppra-l108-eqaece">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqaece"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqaece"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-sqacim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-sqacim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-sqacim"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e230">
+        <head xml:id="ppra-l108-Heraera">Error Alkindi</head>
+        <p xml:id="ppra-l108-saimni">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-saimni"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-saimni"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-eqdnan">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqdnan"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqdnan"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-siqcpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-siqcpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-siqcpa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e279">
+        <head xml:id="ppra-l108-Hecsecs">Error Ciceronis</head>
+        <p xml:id="ppra-l108-sctcao">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-sctcao"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-sctcao"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e295">
+        <head xml:id="ppra-l108-Haeraer">Alia error</head>
+        <p xml:id="ppra-l108-eqpier">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqpier"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqpier"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-eehssm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eehssm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eehssm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e310">
+        <head xml:id="ppra-l108-Haaeaae">Alia error</head>
+        <p xml:id="ppra-l108-sedeaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-sedeaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-sedeaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-sddudp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-sddudp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-sddudp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e328">
+        <head xml:id="ppra-l108-Hepmepm">Error philosophorum</head>
+        <p xml:id="ppra-l108-eqspmi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eqspmi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eqspmi"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l108-sqpiii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-sqpiii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-sqpiii"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dd1e367">
+        <head xml:id="ppra-l108-Hcnocno">Conclusio</head>
+        <p xml:id="ppra-l108-eehede">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-eehede"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-eehede"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l108-netpeb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l108-netpeb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l108-netpeb"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l108-Dxxxx1">
+        <head xml:id="ppra-l108-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l108-xxxxx3">
+        </p>
+        <p xml:id="ppra-l108-xxxxx4">
+        </p>
+        <p xml:id="ppra-l108-xxxxx5">
+        </p>
+        <p xml:id="ppra-l108-xxxxx6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -54,21 +54,21 @@
           <div xml:id="ppra-l82-Dd1e110">
             <head xml:id="ppra-l82-Hpqncal">Primum: quod non stat existentem in gratia ex ignorantia immobili adorare creaturam adoratione <unclear>latriae[?]</unclear></head>
             <p xml:id="ppra-l82-eraial">
-              <lb ed="#P"/>Consequenter circa materiam praetacta de caritate et de eius principiatu inter omnes virtutes viso inferior
+              <lb ed="#P" n="35"/>Consequenter circa materiam praetacta de caritate et de eius principiatu inter omnes virtutes viso inferior
             </p>
             <!-- fuzzy parallel -->
             <p xml:id="ppra-l82-cneeii">
-              <lb ed="#P"/>et haec propositio quod non stat in statu gratiae habentem caritatem adoratione late adorare deum respectu 
-              <lb ed="#P"/>omnium virtutum ut dictum est quia non esset hoc sibi possibile quia hoc fidei repugnat et per consequens sic caritati 
-              <lb ed="#P"/>quia adoratio fieret cum culpa et sic extra caritatem
+              <lb ed="#P" n="36"/>et haec propositio quod non stat in statu gratiae habentem caritatem adoratione late adorare deum respectu 
+              <lb ed="#P" n="37"/>omnium virtutum ut dictum est quia non esset hoc sibi possibile quia hoc fidei repugnat et per consequens sic caritati 
+              <lb ed="#P" n="38"/>quia adoratio fieret cum culpa et sic extra caritatem
             </p>
             <p xml:id="ppra-l82-sqciaa">
               <pc type="pilcrow"/> 2o quia caritas est unctio docens de omnibus <pc type="punctus"/> ideo in  
-              <lb ed="#P"/>illo casu causaret aliquod iudicium rationis <pc type="punctus"/> antequam exiret in actu
+              <lb ed="#P" n="39"/>illo casu causaret aliquod iudicium rationis <pc type="punctus"/> antequam exiret in actu
             </p>
             <p xml:id="ppra-l82-ecreia">
               Conformiter esset dicendum ad omnes de 
-              <lb ed="#P"/>nulla invincibili quia <sic>nonquam</sic> aliter ad oppositum inclinaret 
+              <lb ed="#P" n="40"/>nulla invincibili quia <sic>nonquam</sic> aliter ad oppositum inclinaret 
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e143">
@@ -80,11 +80,11 @@
           <div xml:id="ppra-l82-Dd1e154">
             <head xml:id="ppra-l82-Htqoarc">Tertium: quod omnis dilberata actio contra fidei articulos repugnat caritati</head>
             <p xml:id="ppra-l82-tsqeei">
-              <lb ed="#P"/>ulterius sequitur quod omnis acceptio repugnat caritati nam ipsa est unctio docens de omnibus
+              <lb ed="#P" n="41"/>ulterius sequitur quod omnis acceptio repugnat caritati nam ipsa est unctio docens de omnibus
             </p>
             <p xml:id="ppra-l82-niaass">
               <pc type="pilcrow"/> Item non inclinat 
-              <lb ed="#P"/>ad malum sed sibi repugnat
+              <lb ed="#P" n="42"/>ad malum sed sibi repugnat
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e169">
@@ -93,16 +93,16 @@
             </head>
             <p xml:id="ppra-l82-qscnfs">
               <pc type="pilcrow"/>Ex quo sequitur contra <ref xml:id="ppra-l82-Rd1e178" target="http://scta.info/resource/rh-l1q1-d1e6945"><name>scotum</name><!-- same ref as other editions, but text here says scotus instead of holcot --></ref> qui dicit quod sanctitate vitae stat aliquos errare 
-              <lb ed="#P"/>in fide sicut habemus de <name ref="#Cyprian">cypriano</name> et aliis qui tenuerunt haereses quasdam et tamen sancit fuere
+              <lb ed="#P" n="43"/>in fide sicut habemus de <name ref="#Cyprian">cypriano</name> et aliis qui tenuerunt haereses quasdam et tamen sancit fuere
             </p>
             <p xml:id="ppra-l82-qrqpis">
               unde 
-              <lb ed="#P"/>respondetur quod eo ipso non fuerunt in caritate sed extra Et etiam haec potuit contingere ante sanctitatem 
+              <lb ed="#P" n="44"/>respondetur quod eo ipso non fuerunt in caritate sed extra Et etiam haec potuit contingere ante sanctitatem 
             </p>
             <p xml:id="ppra-l82-spdesi">
-              <lb ed="#P"/>2o potest dici quod non fuit <sic>accersio</sic> deliberata sed sophistica et sicut errabat aliquotiens 
-              <lb ed="#P"/>oppinando <unclear>scit</unclear> etiam quod non erat Et isto modo contingit errare stante in caritate quia talis error non 
-              <lb ed="#P"/>inducit morale turpitudinem sed si alio modo fieret error evidens esset
+              <lb ed="#P" n="45"/>2o potest dici quod non fuit <sic>accersio</sic> deliberata sed sophistica et sicut errabat aliquotiens 
+              <lb ed="#P" n="46"/>oppinando <unclear>scit</unclear> etiam quod non erat Et isto modo contingit errare stante in caritate quia talis error non 
+              <lb ed="#P" n="47"/>inducit morale turpitudinem sed si alio modo fieret error evidens esset
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e213">
@@ -112,83 +112,83 @@
             </head>
             <p xml:id="ppra-l82-qcseia">
               <pc type="pilcrow"/> 5a <!-- sort of looks like 7a --> propositio sicut 
-              <lb ed="#P"/>se habet caritas respectu aliarum virtutum ita se habet spiritus sanctus respectu ipsius caritatis quia sibi est vita actuans 
-              <lb ed="#P"/>et sine ipso non sufficeret exire in actum gratiae igitur requirit necessaria ipsum sicut aliae virtutes influxum 
-              <lb ed="#P"/>requirunt caritas
+              <lb ed="#P" n="48"/>se habet caritas respectu aliarum virtutum ita se habet spiritus sanctus respectu ipsius caritatis quia sibi est vita actuans 
+              <lb ed="#P" n="49"/>et sine ipso non sufficeret exire in actum gratiae igitur requirit necessaria ipsum sicut aliae virtutes influxum 
+              <lb ed="#P" n="50"/>requirunt caritas
             </p>
             <p xml:id="ppra-l82-eipmpa">
               Et hoc potest probari 
             </p>
             <p xml:id="ppra-l82-uassve">
               per <name ref="#Ambrose">beatum ambrosius</name> unde praevidit ante eis in spiritu <unclear>virtute</unclear> 
-              <lb ed="#P"/>et helye 
+              <lb ed="#P" n="51"/>et helye 
             </p>
             <p xml:id="ppra-l82-speeei">
               <pc type="pilcrow"/> Ad idem <name>augustinus</name> in libro de <title ref="#OnNatureAndGrace">de natura et gratia</title> nam different per hoc medicina infirmarum et caritatis 
-              <lb ed="#P"/>nam spiritus sanctus infunditur continue vivificando
+              <lb ed="#P" n="52"/>nam spiritus sanctus infunditur continue vivificando
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e247">
             <head xml:id="ppra-l82-Hsqpmei">Sextum: quod per carentiam assistentiae Spiritus Sanctus caritas redderetur mortua et informis</head>
             <p xml:id="ppra-l82-ssqmei">
               <pc type="pilcrow"/> Unde sequitur propter sancti spiritus absentiam caritas informis redderetur 
-              <lb ed="#P"/>patet per similitudine caritatis ad fidem quia sine gratia spiritus sancti potest operari sicut satis visum est
+              <lb ed="#P" n="53"/>patet per similitudine caritatis ad fidem quia sine gratia spiritus sancti potest operari sicut satis visum est
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e259">
             <head xml:id="ppra-l82-Hsnevda">Septimum: non est impossibile fieri vitiosum de virtuoso absque acquisitione vel deperditione alicuius</head>
             <p xml:id="ppra-l82-eqsbai">
               <pc type="pilcrow"/> Ex quo sequitur 
-              <lb ed="#P"/>dei virtuoso fieri non virtuosum absque habitus acquisitione et deperditione nam per solam absentiam 
-              <lb ed="#P"/>spiritus sancti redderetur caritas mortua et tamen nullus habitus acquiritur nec deperditur et haec posset fieri ratione cupiditatis
+              <lb ed="#P" n="54"/>dei virtuoso fieri non virtuosum absque habitus acquisitione et deperditione nam per solam absentiam 
+              <lb ed="#P" n="55"/>spiritus sancti redderetur caritas mortua et tamen nullus habitus acquiritur nec deperditur et haec posset fieri ratione cupiditatis
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e271">
             <head xml:id="ppra-l82-Hoqcrei">Octavum: quod caritatis essentia non absolute culpae repugnans et incompossibilis</head>
             <p xml:id="ppra-l82-osqnev">
               <pb ed="#P" n="83-v"/>
-              <lb ed="#P"/>Sequitur ulterius caritatis essentiam non esse culpae repugnantem vel incompossibilem patet enim 
-              <lb ed="#P"/>sublata assistentia sancti spiritus repugnat vicio positivo
+              <lb ed="#P" n="1"/>Sequitur ulterius caritatis essentiam non esse culpae repugnantem vel incompossibilem patet enim 
+              <lb ed="#P" n="2"/>sublata assistentia sancti spiritus repugnat vicio positivo
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e282">
             <head xml:id="ppra-l82-Hnqnqqp">Nonum: quod non videtur repugnantia quod caritas semel habitu numquam <unclear>exudat[?]</unclear> quantumcumque quis peccaret</head>
             <p xml:id="ppra-l82-nsqqca">
               <pc type="pilcrow"/> Ulterius sequitur non includere 
-              <lb ed="#P"/>quod caritas semel habita lege intrinseca <sic>nonquam</sic> excidat licet aliter sit de lege statuta Et tamen <name ref="#Bernard">beatus 
-              <lb ed="#P"/>bernardus</name> dicit <name ref="#Peter">petrus</name> negando deum non excidit pro tantae <pc type="punctus"/> sed nihilominus 
-              <lb ed="#P"/>caritas aliqualiter <unclear>sopita</unclear> fuit sive refrigescit quodam modo nec denominabat subiectum totale 
+              <lb ed="#P" n="3"/>quod caritas semel habita lege intrinseca <sic>nonquam</sic> excidat licet aliter sit de lege statuta Et tamen <name ref="#Bernard">beatus 
+              <lb ed="#P" n="4"/>bernardus</name> dicit <name ref="#Peter">petrus</name> negando deum non excidit pro tantae <pc type="punctus"/> sed nihilominus 
+              <lb ed="#P" n="5"/>caritas aliqualiter <unclear>sopita</unclear> fuit sive refrigescit quodam modo nec denominabat subiectum totale 
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e309">
             <head xml:id="ppra-l82-Hdqceei">Decimum: quod caritatem esse intrinsece divisibilem, extensive et intensive</head>
             <p xml:id="ppra-l82-dsqier">
               <pc type="pilcrow"/> Ulterius 
-              <lb ed="#P"/>sequitur caritatem esse intrinsece indivisibile intensive et extensive et hoc est satis <unclear>substi?le</unclear> extensive tamen 
-              <lb ed="#P"/>nam secundum proportione maioris et minoris assistentiae potest in maiorem operationem vel minorem 
-              <lb ed="#P"/><unclear>quo?ii</unclear>
+              <lb ed="#P" n="6"/>sequitur caritatem esse intrinsece indivisibile intensive et extensive et hoc est satis <unclear>substi?le</unclear> extensive tamen 
+              <lb ed="#P" n="7"/>nam secundum proportione maioris et minoris assistentiae potest in maiorem operationem vel minorem 
+              <lb ed="#P" n="8"/><unclear>quo?ii</unclear>
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e319">
             <head xml:id="ppra-l82-Huqqiva">Undecimum: quod quamquam caritas non realiter intendatur vel augeatur...</head>
             <p xml:id="ppra-l82-usqcav">
               <pc type="pilcrow"/> Ulterius sequitur quamvis caritas non intenderetur vel etc redditur tamen virtuosior 
-              <lb ed="#P"/>generalior <pc type="punctus"/> et perfectior respectu alicuius alterius virtutis sicut respect temperantiae nedum respectu eiusdem materiae
+              <lb ed="#P" n="9"/>generalior <pc type="punctus"/> et perfectior respectu alicuius alterius virtutis sicut respect temperantiae nedum respectu eiusdem materiae
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e328">
             <head xml:id="ppra-l82-Hdqefvi">Duodecimo: quod exercendo caritatem circa materiam temperantiae aequaliter proficitur circa materiam fortitudinis vel iustitiae</head>
             <p xml:id="ppra-l82-dsqabo">
-              <lb ed="#P"/><pc type="pilcrow"/> Ex quo sequitur quod exercendo se temperative aequae proficeret circa materiam fortitudinis vel iustitiae patet 
-              <lb ed="#P"/>quia in opere caritatis non proficit in ipsa caritate quae est apta nata reddere omnes virtutes ge?te 
-              <lb ed="#P"/>sui influxus
+              <lb ed="#P" n="10"/><pc type="pilcrow"/> Ex quo sequitur quod exercendo se temperative aequae proficeret circa materiam fortitudinis vel iustitiae patet 
+              <lb ed="#P" n="11"/>quia in opere caritatis non proficit in ipsa caritate quae est apta nata reddere omnes virtutes ge?te 
+              <lb ed="#P" n="12"/>sui influxus
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e337">
             <head xml:id="ppra-l82-Hdqlqio">Decimumtertium: quod licet caritas sit originalis iustitia perfectior, tamen cum influentia generali ipsa caritas minus perficeret potentiam quam iustitia originalis</head>
             <p xml:id="ppra-l82-tsqqio">
               <pc type="pilcrow"/> Ulterius sequitur licet caritas sit originalis iustitia perfectior tamen in generali dei influentia 
-              <lb ed="#P"/>iustitia dei originalis magis perficeret 
+              <lb ed="#P" n="13"/>iustitia dei originalis magis perficeret 
             </p>
             <!--
               doesn't seem present 
@@ -206,24 +206,24 @@
             -->
             <p xml:id="ppra-l82-sppqae">
               probatur quia magis elevat et inclinat inferiores potentias ad <unclear>obediendum</unclear>
-              <lb ed="#P"/>superioribus et reddit etiam subiectum virtuosius et sic refrenaret passiones <pc type="punctus"/> Caritas autem mortua 
-              <lb ed="#P"/>esset nec suam haberet perfectionem quam a spiritu sancto videtur recipere <pc type="punctus"/> si caritas creata <pc type="virgula">/</pc> Et tamen 
-              <lb ed="#P"/>hoc non arguit caritatis imperfectionem sed potius econtra scilicet perfectionem supernaturalem <pc type="punctus"/>
+              <lb ed="#P" n="14"/>superioribus et reddit etiam subiectum virtuosius et sic refrenaret passiones <pc type="punctus"/> Caritas autem mortua 
+              <lb ed="#P" n="15"/>esset nec suam haberet perfectionem quam a spiritu sancto videtur recipere <pc type="punctus"/> si caritas creata <pc type="virgula">/</pc> Et tamen 
+              <lb ed="#P" n="16"/>hoc non arguit caritatis imperfectionem sed potius econtra scilicet perfectionem supernaturalem <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e355">
             <head xml:id="ppra-l82-Hdqeeed">Decimumquartum: quod esse caritatis non est essentialis denominatio</head>
             <p xml:id="ppra-l82-qsqdsc">
               <pc type="pilcrow"/> Ulterius 
-              <lb ed="#P"/>sequitur esse caritatem non est essentialis denominatio patet hoc quoniam spiritu sancto deffi?te sopita esset 
-              <lb ed="#P"/>et deffiniret 
+              <lb ed="#P" n="17"/>sequitur esse caritatem non est essentialis denominatio patet hoc quoniam spiritu sancto deffi?te sopita esset 
+              <lb ed="#P" n="18"/>et deffiniret 
             </p>
           </div>
           <div xml:id="ppra-l82-Dd1e368">
             <head xml:id="ppra-l82-Hdqqecn">Decimumquintum: quod caritas non infert subiectum esse carum necessario</head>
             <p xml:id="ppra-l82-qsqida">
               <pc type="pilcrow"/>Ulterius etiam sequitur quod caritas non infert subiectum etiam quali <pc type="punctus"/> quia non sequitur est carus 
-              <lb ed="#P"/>igitur habent caritatem
+              <lb ed="#P" n="19"/>igitur habent caritatem
             </p>
           </div>
         </div>
@@ -231,54 +231,54 @@
           <head xml:id="ppra-l82-Hcamcam">Positio Petri Aureoli</head>
           <p xml:id="ppra-l82-eehapp">
             <pc type="virgula">/</pc> Et ex hoc infertur contra <name ref="#Aureoli">aureolum</name> qui ponit quod caritas est intrinsece caritas 
-            <lb ed="#P"/>unde dicit deus diligit creaturam igitur creatura habet huiusmodi caritatem consequentia tamen non valet Et hic <unclear>parum</unclear>
-            <lb ed="#P"/>videatur de materia quam tractat <pc type="virgula">//</pc> Reducitur enim ad 2as vel 3es propositiones quarum prima est <pc type="punctus"/>
+            <lb ed="#P" n="20"/>unde dicit deus diligit creaturam igitur creatura habet huiusmodi caritatem consequentia tamen non valet Et hic <unclear>parum</unclear>
+            <lb ed="#P" n="21"/>videatur de materia quam tractat <pc type="virgula">//</pc> Reducitur enim ad 2as vel 3es propositiones quarum prima est <pc type="punctus"/>
           </p>
           <div xml:id="ppra-l82-Dd1e394">
             <head xml:id="ppra-l82-Htpatpa">Tertia propositiones Aureoli</head>
             <p xml:id="ppra-l82-peqsdc">
               <pc type="pilcrow"/> Aliqua est forma 
-              <lb ed="#P"/>creata quae est de nulla rei et de necessitate tali sub dei complacentia 
+              <lb ed="#P" n="22"/>creata quae est de nulla rei et de necessitate tali sub dei complacentia 
             </p>
             <p xml:id="ppra-l82-sefenp">
               <pc type="pilcrow"/> 2a propositio aliqua forma 
-              <lb ed="#P"/>quae deo complacet ostendit sive reddit animam gratam et tamen non procedit recte a re divina
+              <lb ed="#P" n="23"/>quae deo complacet ostendit sive reddit animam gratam et tamen non procedit recte a re divina
             </p>
             <p xml:id="ppra-l82-tpfpna">
-              <lb ed="#P"/><pc type="pilcrow"/> 3a propositio caritas est habitualis dilectio dei quae ex puris naturalis acquiri non potest 
+              <lb ed="#P" n="24"/><pc type="pilcrow"/> 3a propositio caritas est habitualis dilectio dei quae ex puris naturalis acquiri non potest 
             </p>
             <div xml:id="ppra-l82-Dd1e417">
               <head xml:id="ppra-l82-Hppcppc">Probatio primae propositionis</head>
               <p xml:id="ppra-l82-pcsdhc">
                 probat sic 
-                <lb ed="#P"/><name>aureolus</name> primam propositionem <pc type="virgula">/</pc> quoniam actus aeternus non fertur in aliquod obiectum mutabile nisi 
-                <lb ed="#P"/>tale participet rationem aeternaliter igitur non sequitur quod <name>sortes</name> <pc type="punctus"/> non diligatur <add place="above-line">noviter</add> deo nisi in eo deus aeternaliter 
-                <lb ed="#P"/>complacet igitur oportet aliquod noviter <unclear>colla?m</unclear> quod ab aeterno habeat de complacentia
+                <lb ed="#P" n="25"/><name>aureolus</name> primam propositionem <pc type="virgula">/</pc> quoniam actus aeternus non fertur in aliquod obiectum mutabile nisi 
+                <lb ed="#P" n="26"/>tale participet rationem aeternaliter igitur non sequitur quod <name>sortes</name> <pc type="punctus"/> non diligatur <add place="above-line">noviter</add> deo nisi in eo deus aeternaliter 
+                <lb ed="#P" n="27"/>complacet igitur oportet aliquod noviter <unclear>colla?m</unclear> quod ab aeterno habeat de complacentia
               </p>
               <p xml:id="ppra-l82-sdniqd">
                 <pc type="pilcrow"/> 2o arguit sic 
-                <lb ed="#P"/>deus non potest odire aliquem nisi sit positiva ratio displicentia igitur a simili non stat deum diligere 
-                <lb ed="#P"/>aliquem nisi sit in eo gratia <pc type="punctus"/> modo caritas est illud igitur
+                <lb ed="#P" n="28"/>deus non potest odire aliquem nisi sit positiva ratio displicentia igitur a simili non stat deum diligere 
+                <lb ed="#P" n="29"/>aliquem nisi sit in eo gratia <pc type="punctus"/> modo caritas est illud igitur
               </p>
               <!-- fuzzy parallel; but I think correct -->
               <div xml:id="ppra-l82-Dd1e437">
                 <head xml:id="ppra-l82-Hcontio">Confirmatio</head>
                 <p xml:id="ppra-l82-cqdanr">
                   <pc type="pilcrow"/> 3o non diligit nisi sit dispositus 
-                  <lb ed="#P"/>ad hoc sed caritas est actus ad hoc disponens igitur quod autem sic patet <ref xml:id="ppra-l82-Rd1e454" corresp="#ppra-l82-Qdmddmd"><title ref="#prov">proverbiorum</title> <num>8vo</num></ref> <quote xml:id="ppra-l82-Qdmddmd" source="http://scta.info/resource/prov8_17@2-4">diligentes 
-                  <lb ed="#P"/>me diligo</quote> etc sed per caritatem diligitur igitur
+                  <lb ed="#P" n="30"/>ad hoc sed caritas est actus ad hoc disponens igitur quod autem sic patet <ref xml:id="ppra-l82-Rd1e454" corresp="#ppra-l82-Qdmddmd"><title ref="#prov">proverbiorum</title> <num>8vo</num></ref> <quote xml:id="ppra-l82-Qdmddmd" source="http://scta.info/resource/prov8_17@2-4">diligentes 
+                  <lb ed="#P" n="31"/>me diligo</quote> etc sed per caritatem diligitur igitur
                 </p>
                 <p xml:id="ppra-l82-scpied">
                   Confirmatur illud idem in <ref corresp="#ppra-l82-Qsqdmde">evangelio iohannis</ref> <quote xml:id="ppra-l82-Qsqdmde" source="http://scta.info/resource/io14_23@6-12">si quis diligit 
-                  <lb ed="#P"/>me sermonem meum servabit</quote> etc et per hoc autem satis exprimit caritate per dilectionem
+                  <lb ed="#P" n="32"/>me sermonem meum servabit</quote> etc et per hoc autem satis exprimit caritate per dilectionem
                 </p>
                 <p xml:id="ppra-l82-tqsmev">
                   <pc type="pilcrow"/> <sic>4o</sic>
-                  <lb ed="#P"/>sequitur <name ref="#Sortes">sortes</name> vel deus diligit virtutes igitur diligit <unclear>pers?tem</unclear> virtutes
+                  <lb ed="#P" n="33"/>sequitur <name ref="#Sortes">sortes</name> vel deus diligit virtutes igitur diligit <unclear>pers?tem</unclear> virtutes
                 </p>
                 <p xml:id="ppra-l82-aiqdad">
                   <pc type="pilcrow"/> unde ad dilectionem dei requiruntur primo 
-                  <lb ed="#P"/>caritas 2o quod ipsa sic posita
+                  <lb ed="#P" n="34"/>caritas 2o quod ipsa sic posita
                 </p>
               </div>
             </div>
@@ -286,14 +286,14 @@
               <head xml:id="ppra-l82-Hpscpsc">Probatio secundae propositionis</head>
               <p xml:id="ppra-l82-scpicv">
                 <pc type="pilcrow"/> 2a propositio <name>aureoli</name> sic probatur quoniam acceptatio divina est quoddam modo posterior 
-                <lb ed="#P"/>nam a parte obiecti non requiritur quod praesentetur ei sub ratione tali
+                <lb ed="#P" n="35"/>nam a parte obiecti non requiritur quod praesentetur ei sub ratione tali
               </p>
             </div>
             <div xml:id="ppra-l82-Dd1e528">
               <head xml:id="ppra-l82-GHptcptc">Probatio tertiae propositionis</head>
               <p xml:id="ppra-l82-tcpddc">
                 <pc type="pilcrow"/>Alia pars dicit quod procedit effective a deo 
-                <lb ed="#P"/>et per consequens caritas requiritur ad hoc quod quis deo acceptibilis scilicet caritas creata
+                <lb ed="#P" n="36"/>et per consequens caritas requiritur ad hoc quod quis deo acceptibilis scilicet caritas creata
               </p>
             </div>
           </div>
@@ -304,39 +304,39 @@
           </head>
           <p xml:id="ppra-l82-ariedg">
             <pc type="pilcrow"/> Unde <name ref="Wodeham">Adam</name> 
-            <lb ed="#P"/>inducit talem propositione sit igitur <name ref="#Sortes">sortes</name> qui non sit deo gratus in hoc instanti et post hoc <unclear>prae?ss</unclear> 
-            <lb ed="#P"/>fieri gratus tunc ibi erit mutatio in contadictionem absque rei mutatione et patet hoc quia in deo nec 
-            <lb ed="#P"/>in creatura aliquid deperditur <pc type="pilcrow"/> Unde adhuc si esset angelus argumentum fortius haberet colorem <pc type="punctus"/> quoniam utrumque 
-            <lb ed="#P"/>non mutaretur stante casu <pc type="virgula">/</pc> et sic necessaria transiremus in affirmativa quod est contra primum principium
+            <lb ed="#P" n="37"/>inducit talem propositione sit igitur <name ref="#Sortes">sortes</name> qui non sit deo gratus in hoc instanti et post hoc <unclear>prae?ss</unclear> 
+            <lb ed="#P" n="38"/>fieri gratus tunc ibi erit mutatio in contadictionem absque rei mutatione et patet hoc quia in deo nec 
+            <lb ed="#P" n="39"/>in creatura aliquid deperditur <pc type="pilcrow"/> Unde adhuc si esset angelus argumentum fortius haberet colorem <pc type="punctus"/> quoniam utrumque 
+            <lb ed="#P" n="40"/>non mutaretur stante casu <pc type="virgula">/</pc> et sic necessaria transiremus in affirmativa quod est contra primum principium
           </p>
           <!-- fuzzy parallel -->
           <div xml:id="ppra-l82-Dd1e571">
             <head xml:id="ppra-l82-contio">Confirmatio</head>
             <p xml:id="ppra-l82-cepifp">
               <pc type="pilcrow"/> Consequenter arguitur de activitate caritatis et eius influentia respectu aliarum virtutum quoniam si ita esset <pc type="virgula">/</pc> etiam causa 
-              <lb ed="#P"/>prior igitur posset in effectum sine eo inferri sicut <unclear>dicitur</unclear> theologi licet philosophi naturales non <pc type="punctus"/>
+              <lb ed="#P" n="41"/>prior igitur posset in effectum sine eo inferri sicut <unclear>dicitur</unclear> theologi licet philosophi naturales non <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l82-sisnce">
               <pc type="pilcrow"/>Item 
-              <lb ed="#P"/>intendat <name ref="#Sortes">sortem</name> dilectionem sui sive proximi gradu intenso in infinitum videlicet quod tantum et se <unclear>???</unclear> 
-              <lb ed="#P"/>donec pervenit ad gradum quod non poterit plus exire mihil aliquem actum diligendi se <pc type="punctus"/> Tunc eo ipso tu 
-              <lb ed="#P"/>habes ponere quod caritas concurrat cum peccato vel non erat ante in gratia <pc type="punctus"/> et sic caritas non concurrit active 
-              <lb ed="#P"/>ad gratiam quia tunc in illo instanti voluntas non ferebatur in remissiorem igitur nec in intensiorem 
-              <lb ed="#P"/>et sic <sic>nonquam</sic> fuerit ante <unclear>effective</unclear> sed tunc inclinatione
+              <lb ed="#P" n="42"/>intendat <name ref="#Sortes">sortem</name> dilectionem sui sive proximi gradu intenso in infinitum videlicet quod tantum et se <unclear>???</unclear> 
+              <lb ed="#P" n="43"/>donec pervenit ad gradum quod non poterit plus exire mihil aliquem actum diligendi se <pc type="punctus"/> Tunc eo ipso tu 
+              <lb ed="#P" n="44"/>habes ponere quod caritas concurrat cum peccato vel non erat ante in gratia <pc type="punctus"/> et sic caritas non concurrit active 
+              <lb ed="#P" n="45"/>ad gratiam quia tunc in illo instanti voluntas non ferebatur in remissiorem igitur nec in intensiorem 
+              <lb ed="#P" n="46"/>et sic <sic>nonquam</sic> fuerit ante <unclear>effective</unclear> sed tunc inclinatione
             </p>
             <p xml:id="ppra-l82-tssiam">
               <pc type="pilcrow"/> Item si sic <pc type="punctus"/> caritas in actum exiret in carentibus 
-              <lb ed="#P"/>usu rationis modo hoc non videtur veritati consonum igitur 
+              <lb ed="#P" n="47"/>usu rationis modo hoc non videtur veritati consonum igitur 
             </p>
             <p xml:id="ppra-l82-qaquii">
               <pc type="pilcrow"/> Item stante uniformi concursu 
-              <lb ed="#P"/>voluntatis in infinitum augeretur patet quia in eodem instanti gratia pro dictis in infinitum effectum sine actu est 
-              <lb ed="#P"/>quo caritas concurret et sic addendo aliquid haberet causante supra hoc et sic semper producendo in infinitum 
+              <lb ed="#P" n="48"/>voluntatis in infinitum augeretur patet quia in eodem instanti gratia pro dictis in infinitum effectum sine actu est 
+              <lb ed="#P" n="49"/>quo caritas concurret et sic addendo aliquid haberet causante supra hoc et sic semper producendo in infinitum 
             </p>
             <p xml:id="ppra-l82-qacvab">
               <pc type="pilcrow"/> Item 
-              <lb ed="#P"/>caritas maior est activitatis quam cupiditas eius opposita modo cupiditas in infinitum dicit ad terrena 
-              <lb ed="#P"/>et per <unclear>coniug?</unclear> caritas multo magis ad caelestia <pc type="punctus"/>
+              <lb ed="#P" n="50"/>caritas maior est activitatis quam cupiditas eius opposita modo cupiditas in infinitum dicit ad terrena 
+              <lb ed="#P" n="51"/>et per <unclear>coniug?</unclear> caritas multo magis ad caelestia <pc type="punctus"/>
             </p>
           </div>
         </div>
@@ -344,29 +344,29 @@
           <head xml:id="ppra-l82-Hdddaaa">Conclusiones</head>
           <p xml:id="ppra-l82-scj111">
             <pc type="pilcrow"/> <sic>Secuntur</sic> igitur conclusiones textuales supra distinctionem 
-            <lb ed="#P"/>33am 2ae prima est peccatum originale tollitur in esse culpae per baptismi regenerationem non <unclear>tamen</unclear> 
+            <lb ed="#P" n="52"/>33am 2ae prima est peccatum originale tollitur in esse culpae per baptismi regenerationem non <unclear>tamen</unclear> 
             <pb ed="#P" n="84-r"/>
-            <lb ed="#P"/>concupiscentia tollitur sed ante baptismum illa cupiditas carnea est originale peccatum sed post culpatur 
-            <lb ed="#P"/>vocatur et sic baptismus remittit effectum cupiditatis sive concupiscentiae et etiam tollit poenam
+            <lb ed="#P" n="1"/>concupiscentia tollitur sed ante baptismum illa cupiditas carnea est originale peccatum sed post culpatur 
+            <lb ed="#P" n="2"/>vocatur et sic baptismus remittit effectum cupiditatis sive concupiscentiae et etiam tollit poenam
           </p>
           <p xml:id="ppra-l82-scj222">
             <pc type="pilcrow"/> 2a conclusio dicunt quidam quod sicut anima purgatur a reatu <pc type="punctus"/> ita a culpa inmunditiae <pc type="punctus"/> Sed 
-            <lb ed="#P"/>magister haec videtur negare <pc type="punctus"/> dicens quod remanet culpa <pc type="punctus"/> licet caritas ei <unclear>dominetur</unclear>
+            <lb ed="#P" n="3"/>magister haec videtur negare <pc type="punctus"/> dicens quod remanet culpa <pc type="punctus"/> licet caritas ei <unclear>dominetur</unclear>
           </p>
           <p xml:id="ppra-l82-scj333">
-            <pc type="pilcrow"/> 3a ergo concu<lb ed="#P"/>piscentia 
+            <pc type="pilcrow"/> 3a ergo concu<lb ed="#P" break="no" n="4"/>piscentia 
             quae realiter erat culpa non post baptismum nisi poena 
           </p>
           <p xml:id="ppra-l82-scj444">
             <pc type="pilcrow"/> 4a conclusio anima fuit innocens 
-            <lb ed="#P"/>creata <pc type="punctus"/> sicut pulcherimmum pomum <pc type="punctus"/> quod si poneretur in manu immunda labem sortiretur 
-            <lb ed="#P"/>et deturparetur <pc type="punctus"/>
+            <lb ed="#P" n="5"/>creata <pc type="punctus"/> sicut pulcherimmum pomum <pc type="punctus"/> quod si poneretur in manu immunda labem sortiretur 
+            <lb ed="#P" n="6"/>et deturparetur <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l82-scj555">
             <pc type="pilcrow"/> 5 conclusio quod in naturalibus fuit realis et essentialis individuorum perfectio 
-            <lb ed="#P"/>sed nihilominus aliqui dicunt quod in aliquibus animabus datur lux maior sive minor unde 
-            <lb ed="#P"/>per istam lucem intelligimus ingenia sive eorum scientia et in hoc aliqui homines 
-            <lb ed="#P"/>magis apit alteri vera minus ad scientiam acquirendam et haec de ista lectione die <unclear>sabbi deremiscere</unclear>
+            <lb ed="#P" n="7"/>sed nihilominus aliqui dicunt quod in aliquibus animabus datur lux maior sive minor unde 
+            <lb ed="#P" n="8"/>per istam lucem intelligimus ingenia sive eorum scientia et in hoc aliqui homines 
+            <lb ed="#P" n="9"/>magis apit alteri vera minus ad scientiam acquirendam et haec de ista lectione die <unclear>sabbi deremiscere</unclear>
           </p>
         </div>
       </div>

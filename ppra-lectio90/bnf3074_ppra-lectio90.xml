@@ -50,8 +50,8 @@
       <div xml:id="ppra-lectio90">
         <head xml:id="ppra-l90-Hldcldc">Lectio 90, de Caritate</head>
         <p xml:id="ppra-l90-cmcsov">
-          <lb ed="#P"/>Consequenter investigandum est de augmento vel detrimento caritatis secundum graduum 
-          <lb ed="#P"/>additione vel remotione  
+          <lb ed="#P" n="16"/>Consequenter investigandum est de augmento vel detrimento caritatis secundum graduum 
+          <lb ed="#P" n="17"/>additione vel remotione  
         </p>
         <div xml:id="ppra-l90-Dd1e117">
           <head xml:id="ppra-l90-Hostost">
@@ -59,22 +59,22 @@
           </head>
           <p xml:id="ppra-l90-efremf">
             unde de oppinione <ref xml:id="ppra-l90-Rd1e128"><name xml:id="ppra-l90-Nd1e130" ref="#Aquinas">sancti thomae</name></ref> visum fuit <unclear>po?ts</unclear> 
-            <lb ed="#P"/>quod secundum partes <unclear>intenssimme</unclear> se habet caritas
+            <lb ed="#P" n="18"/>quod secundum partes <unclear>intenssimme</unclear> se habet caritas
           </p>
         </div>
         <div xml:id="ppra-l90-Dd1e138">
           <head xml:id="ppra-l90-Haopaop">Secunda opinio: Gualterus Burleus</head>
           <p xml:id="ppra-l90-eaoeqc">
             <pc type="pilcrow"/> Alia tamen oppinio coincidens cum 
-            <lb ed="#P"/>ista est quae dicit quod forma substantialis est similis intensive <pc type="punctus"/> Sed ulterius dicit quod in eadem 
-            <lb ed="#P"/>spiritus sancti diversi gradus sicut in specie caloris datur alius calor remisse operans 
-            <lb ed="#P"/>et in eadem specie alius gradus caloris <pc type="virgula">/</pc> non per additionem alicuius supervenientis 
-            <lb ed="#P"/>activior et nobilior Et iterum salvat quod forma est simplex intellective nec habet gradus 
-            <lb ed="#P"/>ex quibus intensive <unclear>esse</unclear> ponatur
+            <lb ed="#P" n="19"/>ista est quae dicit quod forma substantialis est similis intensive <pc type="punctus"/> Sed ulterius dicit quod in eadem 
+            <lb ed="#P" n="20"/>spiritus sancti diversi gradus sicut in specie caloris datur alius calor remisse operans 
+            <lb ed="#P" n="21"/>et in eadem specie alius gradus caloris <pc type="virgula">/</pc> non per additionem alicuius supervenientis 
+            <lb ed="#P" n="22"/>activior et nobilior Et iterum salvat quod forma est simplex intellective nec habet gradus 
+            <lb ed="#P" n="23"/>ex quibus intensive <unclear>esse</unclear> ponatur
           </p>
           <p xml:id="ppra-l90-Hcopmgb">
             <pc type="pilcrow"/> Et circa istam procedatur sic primo ponenda quod est probabilis 
-            <lb ed="#P"/><unclear>l non cum no co? ela?</unclear> dat et est oppinio <ref xml:id="ppra-l90-Rd1e156"><name xml:id="ppra-l90-Nd1e174" ref="#WalterBurley">burley anglici</name></ref>
+            <lb ed="#P" n="24"/><unclear>l non cum no co? ela?</unclear> dat et est oppinio <ref xml:id="ppra-l90-Rd1e156"><name xml:id="ppra-l90-Nd1e174" ref="#WalterBurley">burley anglici</name></ref>
           </p>
           <div xml:id="ppra-l90-Dd1e167">
             <head xml:id="ppra-l90-Hpmemes">Prima pars</head>
@@ -82,63 +82,63 @@
               <head xml:id="ppra-l90-Hprprpr">Prima ratio</head>
               <p xml:id="ppra-l90-preaaq">
                 <pc type="pilcrow"/> unde dicit 
-                <lb ed="#P"/>capiatur aliquid lucidum et applicetur dyaphano passo luminis receptivo tunc 
-                <lb ed="#P"/>in nullo causabit aliquem gradum luminis secundum distantiam debitam <pc type="pilcrow"/> deinde convenit continue 
-                <lb ed="#P"/>approximando ad lucidum tunc actum est aequae potens et passim quod ad applicationem
-                <lb ed="#P"/>illam in instanti approximationis generebatur lumen maius quod in instanti alterius ergo etc 
-                <lb ed="#P"/>et sic opportebit quod alio <unclear>veniente</unclear> alius corrumpatur sicut patet in rarefactione qua <unclear>?a?</unclear> 
-                <lb ed="#P"/>valet
+                <lb ed="#P" n="25"/>capiatur aliquid lucidum et applicetur dyaphano passo luminis receptivo tunc 
+                <lb ed="#P" n="26"/>in nullo causabit aliquem gradum luminis secundum distantiam debitam <pc type="pilcrow"/> deinde convenit continue 
+                <lb ed="#P" n="27"/>approximando ad lucidum tunc actum est aequae potens et passim quod ad applicationem
+                <lb ed="#P" n="28"/>illam in instanti approximationis generebatur lumen maius quod in instanti alterius ergo etc 
+                <lb ed="#P" n="29"/>et sic opportebit quod alio <unclear>veniente</unclear> alius corrumpatur sicut patet in rarefactione qua <unclear>?a?</unclear> 
+                <lb ed="#P" n="30"/>valet
               </p>
               <p xml:id="ppra-l90-ireasp">
                 ista non impedit ponderis videtur nam si lumen esse naturae permanent lucidum 
-                <lb ed="#P"/>approximato passo <unclear>nonquam</unclear> correspondet maius lumen ipsa parte quam alia quomodo causaret lumen 
-                <lb ed="#P"/>tutum quam tam posset et sic non oportet quod in approximatione esset tactum nam si capiatur 
-                <lb ed="#P"/>aliqua pars medii alia lucido tunc ipsa inveniente lucido <unclear>re?t</unclear> maximum lumen et alia est facta 
-                <lb ed="#P"/>medium gradum totius <unclear>latis?nis</unclear> et sic aliqua pars et dabitur quae non causabit tales lumen 
-                <lb ed="#P"/>sicut alia <pc type="punctus"/> sicut diligenter indaganti potest patere
+                <lb ed="#P" n="31"/>approximato passo <unclear>nonquam</unclear> correspondet maius lumen ipsa parte quam alia quomodo causaret lumen 
+                <lb ed="#P" n="32"/>tutum quam tam posset et sic non oportet quod in approximatione esset tactum nam si capiatur 
+                <lb ed="#P" n="33"/>aliqua pars medii alia lucido tunc ipsa inveniente lucido <unclear>re?t</unclear> maximum lumen et alia est facta 
+                <lb ed="#P" n="34"/>medium gradum totius <unclear>latis?nis</unclear> et sic aliqua pars et dabitur quae non causabit tales lumen 
+                <lb ed="#P" n="35"/>sicut alia <pc type="punctus"/> sicut diligenter indaganti potest patere
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e187">
               <head xml:id="ppra-l90-Hsrosro">Secunda ratio</head>
               <p xml:id="ppra-l90-ssqqqp">
                 <pc type="pilcrow"/> 2a ratio sua stat in 
-                <lb ed="#P"/>hoc nam si sic esset <pc type="virgula">/</pc> idem esset remisse calidum et immense 
+                <lb ed="#P" n="36"/>hoc nam si sic esset <pc type="virgula">/</pc> idem esset remisse calidum et immense 
               </p>
               <p xml:id="ppra-l90-d1e211">
                 sed hoc non quia denominatio 
-                <lb ed="#P"/>formae non est a parte sed a toto <pc type="virgula">/</pc> unde non sequitur sortes habet remissam causalitatem igitur 
-                <lb ed="#P"/>sortes est remisse calidus et similiter de quantitate unde aliqua pars sortis est pedalis igitur sortes 
-                <lb ed="#P"/>est pedalis consequentia non valet et per consequens ratio ista non concludit cum reverentia <name>burley</name>
+                <lb ed="#P" n="37"/>formae non est a parte sed a toto <pc type="virgula">/</pc> unde non sequitur sortes habet remissam causalitatem igitur 
+                <lb ed="#P" n="38"/>sortes est remisse calidus et similiter de quantitate unde aliqua pars sortis est pedalis igitur sortes 
+                <lb ed="#P" n="39"/>est pedalis consequentia non valet et per consequens ratio ista non concludit cum reverentia <name>burley</name>
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e215">
               <head xml:id="ppra-l90-Htrotro">Tertia ratio</head>
               <p xml:id="ppra-l90-trstiq">
-                <lb ed="#P"/><pc type="pilcrow"/>3a ratio <unclear>sumarius</unclear> aliquod activum quod suum contrarium debeat corrumpere 
-                <lb ed="#P"/>et sint duae medietates eiusdem rationis adaequatae tunc eadem ratione qua corrumpet unam et aliam 
-                <lb ed="#P"/>supposito quod agens sit conformiter applicatum
+                <lb ed="#P" n="40"/><pc type="pilcrow"/>3a ratio <unclear>sumarius</unclear> aliquod activum quod suum contrarium debeat corrumpere 
+                <lb ed="#P" n="41"/>et sint duae medietates eiusdem rationis adaequatae tunc eadem ratione qua corrumpet unam et aliam 
+                <lb ed="#P" n="42"/>supposito quod agens sit conformiter applicatum
               </p>
               <p xml:id="ppra-l90-irsiqo">
                 <pc type="pilcrow"/> Tamen ista solvitur ex determinationem causarum 
-                <lb ed="#P"/>2arum per libertatem primae causae Nam prima causa sic se habet quae quaelibet 2a agit ratione 
-                <lb ed="#P"/>ipsius et sic effectus libere per eam limitatur et sic haec reducitur in libertatem ipsius primae causae 
+                <lb ed="#P" n="43"/>2arum per libertatem primae causae Nam prima causa sic se habet quae quaelibet 2a agit ratione 
+                <lb ed="#P" n="44"/>ipsius et sic effectus libere per eam limitatur et sic haec reducitur in libertatem ipsius primae causae 
               </p>
               <p xml:id="ppra-l90-aeifis">
-                <lb ed="#P"/><pc type="pilcrow"/> Alia ymaginatio est quae est alia habitudo partium gradualium alicuius qualitatis ad suum 
-                <lb ed="#P"/>subiectum et licet non situalis tamen intrinseca unde primus gradus primo productus magis distat
+                <lb ed="#P" n="45"/><pc type="pilcrow"/> Alia ymaginatio est quae est alia habitudo partium gradualium alicuius qualitatis ad suum 
+                <lb ed="#P" n="46"/>subiectum et licet non situalis tamen intrinseca unde primus gradus primo productus magis distat
                 <pb ed="#P" n="90-v"/>
-                <lb ed="#P"/>ab activa habitudine ipsius agentis quam ultimo productus et sic salvaretur quod agens applicatum 
-                <lb ed="#P"/>duabus mediantibus <unclear>appliciter</unclear> ageret in unam et non in aliam Et sic respectu 2ae causae solvetur ratio 
+                <lb ed="#P" n="1"/>ab activa habitudine ipsius agentis quam ultimo productus et sic salvaretur quod agens applicatum 
+                <lb ed="#P" n="2"/>duabus mediantibus <unclear>appliciter</unclear> ageret in unam et non in aliam Et sic respectu 2ae causae solvetur ratio 
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e234">
               <head xml:id="ppra-l90-Hqroqro">Quarta ratio</head>
               <p xml:id="ppra-l90-qremdi">
-                <lb ed="#P"/><pc type="pilcrow"/> Alia ratio communis est quae dicit quod nulla forma intenderetur
+                <lb ed="#P" n="3"/><pc type="pilcrow"/> Alia ratio communis est quae dicit quod nulla forma intenderetur
               </p>
               <p xml:id="ppra-l90-d1e261">
                 <pc type="pilcrow"/> Sed videtur quod rationes non 
-                <lb ed="#P"/>concludunt 
+                <lb ed="#P" n="4"/>concludunt 
               </p>
             </div>
           </div>
@@ -148,60 +148,60 @@
               <head xml:id="ppra-l90-Hpoeoer">Prima obiectio et responsio</head>
               <p xml:id="ppra-l90-cipaac">
                 Et primo arguitur nam si sic sequeretur quod esset dare ultimum instans rei 
-                <lb ed="#P"/>permanens in esse consequens falsum probatur tamen consequentia nam sit aliquod <unclear>capiendum</unclear> et sit aliquod activum applicatum 
-                <lb ed="#P"/>uniformiter ad corrumpendum et debetur instans in quo agens incipit nu?tere et sit in eo 
-                <lb ed="#P"/>gradus qualitatis ut x et inmediate post illud instans desinat etiam et sic ipso habebit aequales 
-                <lb ed="#P"/>partes quia igitur ista causalitas ut X habebit ultimum instans permanentis in esse
+                <lb ed="#P" n="5"/>permanens in esse consequens falsum probatur tamen consequentia nam sit aliquod <unclear>capiendum</unclear> et sit aliquod activum applicatum 
+                <lb ed="#P" n="6"/>uniformiter ad corrumpendum et debetur instans in quo agens incipit nu?tere et sit in eo 
+                <lb ed="#P" n="7"/>gradus qualitatis ut x et inmediate post illud instans desinat etiam et sic ipso habebit aequales 
+                <lb ed="#P" n="8"/>partes quia igitur ista causalitas ut X habebit ultimum instans permanentis in esse
               </p>
               <p xml:id="ppra-l90-rahpie">
                 <pc type="pilcrow"/> Respondetur 
-                <lb ed="#P"/>quod nisi applicetur etc salvaretur successive secundum partes quantitativas licet non secundum intensivas 
-                <lb ed="#P"/>sed quia casas fortificatur ponendus quod agens sit aeque applicatum sic in illo casu 
-                <lb ed="#P"/>non esset inconveniens dare ultimum instans rei permanentis in esse <pc type="punctus"/>
+                <lb ed="#P" n="9"/>quod nisi applicetur etc salvaretur successive secundum partes quantitativas licet non secundum intensivas 
+                <lb ed="#P" n="10"/>sed quia casas fortificatur ponendus quod agens sit aeque applicatum sic in illo casu 
+                <lb ed="#P" n="11"/>non esset inconveniens dare ultimum instans rei permanentis in esse <pc type="punctus"/>
               </p>
               <p xml:id="ppra-l90-sivhne">
                 <pc type="pilcrow"/> Et sic applicando 
-                <lb ed="#P"/>ad materiam caritatis videtur ita esse possibile nam ponatur quod sortes sit in caritate modo mihi 
-                <lb ed="#P"/>mediate potest <unclear>hoc</unclear> peccet per remotionem de praesente desit esse in caritate et positive tamen est ipsum
-                <lb ed="#P"/>succcessive peccare igitur dabitur <pc type="virgula">/</pc> ultimum instans
+                <lb ed="#P" n="12"/>ad materiam caritatis videtur ita esse possibile nam ponatur quod sortes sit in caritate modo mihi 
+                <lb ed="#P" n="13"/>mediate potest <unclear>hoc</unclear> peccet per remotionem de praesente desit esse in caritate et positive tamen est ipsum
+                <lb ed="#P" n="14"/>succcessive peccare igitur dabitur <pc type="virgula">/</pc> ultimum instans
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e284">
               <head xml:id="ppra-l90-Hsoeoer">Secunda obiectio et responsio</head>
               <p xml:id="ppra-l90-srcnhp">
                 <pc type="pilcrow"/> 2o arguitur contra positionem
-                <lb ed="#P"/>nam si sic quaelibet forma quae acquiritur tota simul acquireretur et in instanti et cum alteratio sit motus 
-                <lb ed="#P"/>agens esset aequaliter dispositum quaelibet qualitas acquireretur aeque citus et alteratio esset motus 
-                <lb ed="#P"/>subitus et instantaneus
+                <lb ed="#P" n="15"/>nam si sic quaelibet forma quae acquiritur tota simul acquireretur et in instanti et cum alteratio sit motus 
+                <lb ed="#P" n="16"/>agens esset aequaliter dispositum quaelibet qualitas acquireretur aeque citus et alteratio esset motus 
+                <lb ed="#P" n="17"/>subitus et instantaneus
               </p>
               <p xml:id="ppra-l90-rqepsd">
                 <pc type="pilcrow"/> Sed prima responsio quod nonquam agens applicatur aeque cito 
-                <lb ed="#P"/>Sed hoc non videtur facere ad propositum nam ponamus quod agens sit aequaliter applicatum tunc etc 
-                <lb ed="#P"/><pc type="pilcrow"/> Ad hoc diceretur quod acquisitam dupliciter intelligitur
+                <lb ed="#P" n="18"/>Sed hoc non videtur facere ad propositum nam ponamus quod agens sit aequaliter applicatum tunc etc 
+                <lb ed="#P" n="19"/><pc type="pilcrow"/> Ad hoc diceretur quod acquisitam dupliciter intelligitur
               </p>
               <p xml:id="ppra-l90-umpepm">
                 uno modo pro productionem qualitatis acquisito 
-                <lb ed="#P"/>et sic acquisitus non esset motus <del rend="strikethrough">unde aliter accipitur scilicet pro argumento</del> sed productio et productum 
-                <lb ed="#P"/>essent formaliter idem et sic loquendo illa qualitas non esset motus sive illa acquisitus 
+                <lb ed="#P" n="20"/>et sic acquisitus non esset motus <del rend="strikethrough">unde aliter accipitur scilicet pro argumento</del> sed productio et productum 
+                <lb ed="#P" n="21"/>essent formaliter idem et sic loquendo illa qualitas non esset motus sive illa acquisitus 
               </p>
               <p xml:id="ppra-l90-amsppu">
                 Aliter tamen accipitur scilicet pro aggregato ex productione omnium quantum productarum <pc type="virgula">/</pc> et sic esset de 
-                <lb ed="#P"/>rarefactione tenendo quod quantitas sit distincta a re quanta
+                <lb ed="#P" n="22"/>rarefactione tenendo quod quantitas sit distincta a re quanta
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e302">
               <head xml:id="ppra-l90-Htoeoer">Tertio obiectio et responsio</head>
               <p xml:id="ppra-l90-taqvme">
                 <pc type="pilcrow"/> Sed 3o arguitur contra istam positionem 
-                <lb ed="#P"/>nam si sic tunc sit aliquid quod calefiat in ipso caritas produceretur aeque cit modus 
-                <lb ed="#P"/>sicut <unclear>linea</unclear> <unclear>exprimitur</unclear> non potest constitui nec tempus ex instantibus ut dicunt multi sic a simili 
-                <lb ed="#P"/>constituetur talis alteratio nec intendetur sicut puncta nonquam intendunt lineam  
+                <lb ed="#P" n="23"/>nam si sic tunc sit aliquid quod calefiat in ipso caritas produceretur aeque cit modus 
+                <lb ed="#P" n="24"/>sicut <unclear>linea</unclear> <unclear>exprimitur</unclear> non potest constitui nec tempus ex instantibus ut dicunt multi sic a simili 
+                <lb ed="#P" n="25"/>constituetur talis alteratio nec intendetur sicut puncta nonquam intendunt lineam  
               </p>
               <p xml:id="ppra-l90-hpreas">
                 <pc type="virgula">/</pc> Respondetur 
-                <lb ed="#P"/>ad hoc quod licet ex finitis punctis non posset constitui linea tamen de infinitis se cuilibet 
-                <lb ed="#P"/>licet non ex indivisibilibus finitis <pc type="virgula">/</pc> Unde vetere posuerent resolutionem lineae in puncta 
-                <lb ed="#P"/>et sic illa ratio non concludit 
+                <lb ed="#P" n="26"/>ad hoc quod licet ex finitis punctis non posset constitui linea tamen de infinitis se cuilibet 
+                <lb ed="#P" n="27"/>licet non ex indivisibilibus finitis <pc type="virgula">/</pc> Unde vetere posuerent resolutionem lineae in puncta 
+                <lb ed="#P" n="28"/>et sic illa ratio non concludit 
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e333">
@@ -210,38 +210,38 @@
                 <pc type="pilcrow"/> 4o inquiritur a quo remissa caliditas praeexistens corrumpitur 
               </p>
               <p xml:id="ppra-l90-rqiici">
-                <lb ed="#P"/><pc type="pilcrow"/> Respondetur quod a nulla providente quoniam huiusmodi gradus occiosus esset in natura Sed 
-                <lb ed="#P"/>sicut natura evitat vacuum sit materia occiosa subtrahitur
+                <lb ed="#P" n="29"/><pc type="pilcrow"/> Respondetur quod a nulla providente quoniam huiusmodi gradus occiosus esset in natura Sed 
+                <lb ed="#P" n="30"/>sicut natura evitat vacuum sit materia occiosa subtrahitur
               </p> 
             </div>
             <div xml:id="ppra-l90-Dd1e349">
               <head xml:id="ppra-l90-Hqneoer">Quinta obiectio et responsio</head>
               <p xml:id="ppra-l90-qreeae">
                 <pc type="pilcrow"/> Alia est ratio satis 
-                <lb ed="#P"/>apparens de accidendum hostiae post consecrationem 
+                <lb ed="#P" n="31"/>apparens de accidendum hostiae post consecrationem 
               </p>
               <!-- questionable break -->
               <p xml:id="ppra-l90-taqfcc">
                 nam ponamus quod caritas 
-                <lb ed="#P"/>ad tactum maius augeatur accidentia remanent et igitur si sic fit realis intensio et si
-                <lb ed="#P"/>non tunc non essent realia accidentia quod tamen videtur periculose dictum et sic novum <unclear>accidens</unclear>
-                <lb ed="#P"/>introducitur et <unclear>p?i</unclear> defficit igitur etc
+                <lb ed="#P" n="32"/>ad tactum maius augeatur accidentia remanent et igitur si sic fit realis intensio et si
+                <lb ed="#P" n="33"/>non tunc non essent realia accidentia quod tamen videtur periculose dictum et sic novum <unclear>accidens</unclear>
+                <lb ed="#P" n="34"/>introducitur et <unclear>p?i</unclear> defficit igitur etc
               </p>
               <p xml:id="ppra-l90-rqsfse">
                 <pc type="pilcrow"/> unde diceret iste sic quod si fiat intentio vel 
-                <lb ed="#P"/>remissio non esset per remissionem unius ad aliam sed per novam quantitatem unde 
-                <lb ed="#P"/>ad salvandum species esse sacramentales non oportet dicere quod sint eaedem numerales sed eiusdem speciei 
-                <lb ed="#P"/>cum <unclear>primis</unclear>
+                <lb ed="#P" n="35"/>remissio non esset per remissionem unius ad aliam sed per novam quantitatem unde 
+                <lb ed="#P" n="36"/>ad salvandum species esse sacramentales non oportet dicere quod sint eaedem numerales sed eiusdem speciei 
+                <lb ed="#P" n="37"/>cum <unclear>primis</unclear>
               </p>
             </div>
             <div xml:id="ppra-l90-Dd1e364">
               <head xml:id="ppra-l90-Hsxeoer">Sexta obiectio et responsio</head>
               <p xml:id="ppra-l90-sacies">
                 <pc type="pilcrow"/> 6o arguitur causalitas praeexistens remanet cum <del rend="strikethrough">q</del> caritate prius acquisita probatur
-                <lb ed="#P"/>nam sit aliquid merens secundum caritatem et signemus instans in quo mereatur tunc in 
-                <lb ed="#P"/>illo instanti causat actum novum meritorium et sic nova caritas infunditur sorti prima tamen 
-                <lb ed="#P"/>remanente in eodem sorte igitur fit composita ex ipsis et per consequens non semper prima corrumpitur 
-                <lb ed="#P"/>nova adveniente
+                <lb ed="#P" n="38"/>nam sit aliquid merens secundum caritatem et signemus instans in quo mereatur tunc in 
+                <lb ed="#P" n="39"/>illo instanti causat actum novum meritorium et sic nova caritas infunditur sorti prima tamen 
+                <lb ed="#P" n="40"/>remanente in eodem sorte igitur fit composita ex ipsis et per consequens non semper prima corrumpitur 
+                <lb ed="#P" n="41"/>nova adveniente
               </p>
               <!-- doesn't seem present or is somewhere in the above 
               <p xml:id="ppra-l90-rqirnc">
@@ -267,15 +267,15 @@
               </p> -->
               <p xml:id="ppra-l90-asepdi">
                 <pc type="pilcrow"/> Alia solutio posset esse quod caritatem 
-                <lb ed="#P"/>concurrere ad actum intrinsecum potest intelligi dupliciter
+                <lb ed="#P" n="42"/>concurrere ad actum intrinsecum potest intelligi dupliciter
               </p>
               <p xml:id="ppra-l90-umqpam">
                 uno modo quia fecit quidquid requiritur ad actum 
                 <pb ed="#P" n="91-r"/>
-                <lb ed="#P"/>meritorium et sic primo non est sed tunc est caritas nova quam sortes per actum suum 
-                <lb ed="#P"/>moveretur <pc type="virgula">/</pc> nam sint duo passa aequaliter applicata et quod quodlibet sit intensum et 
-                <lb ed="#P"/>habeant duo agentia eis applicata unum <unclear>et</unclear> corruptum in prima hora et in illa 
-                <lb ed="#P"/>in qua corrumpetur aliud aget 
+                <lb ed="#P" n="1"/>meritorium et sic primo non est sed tunc est caritas nova quam sortes per actum suum 
+                <lb ed="#P" n="2"/>moveretur <pc type="virgula">/</pc> nam sint duo passa aequaliter applicata et quod quodlibet sit intensum et 
+                <lb ed="#P" n="3"/>habeant duo agentia eis applicata unum <unclear>et</unclear> corruptum in prima hora et in illa 
+                <lb ed="#P" n="4"/>in qua corrumpetur aliud aget 
               </p>
               <!-- fuzzy parallel -->
               <p xml:id="ppra-l90-chpdil">
@@ -287,19 +287,19 @@
         <div xml:id="ppra-l90-Dxxxx1">
           <head xml:id="ppra-l90-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l90-yxxxx3">
-            <lb ed="#P"/><pc type="pilcrow"/> Secuntur conclusiones textualis <add place="above-line">44ae distinctionis</add> prima est quod omnes actiones et voluntates in fidelium sunt 
-            <lb ed="#P"/>peccata et est oppinio sancti augustini de deliberat operibus intelligendo <pc type="virgula">/</pc> unde si circumstantia 
-            <lb ed="#P"/>caritatis defficiat obmissive peccat Et etiam omnis actio deliberata negandum infidelium 
-            <lb ed="#P"/>sed etiam fidelium vel est ex caritate vel non si primum bona est si 2m sic mala
+            <lb ed="#P" n="5"/><pc type="pilcrow"/> Secuntur conclusiones textualis <add place="above-line">44ae distinctionis</add> prima est quod omnes actiones et voluntates in fidelium sunt 
+            <lb ed="#P" n="6"/>peccata et est oppinio sancti augustini de deliberat operibus intelligendo <pc type="virgula">/</pc> unde si circumstantia 
+            <lb ed="#P" n="7"/>caritatis defficiat obmissive peccat Et etiam omnis actio deliberata negandum infidelium 
+            <lb ed="#P" n="8"/>sed etiam fidelium vel est ex caritate vel non si primum bona est si 2m sic mala
           </p>
           <p xml:id="ppra-l90-yxxxx4">
-            <lb ed="#P"/><pc type="pilcrow"/> 2a consequentia est oppinio dicentium quod opera gentilium quae procedunt ex naturali <unclear>pie?te</unclear> <unclear>sunt</unclear> 
-            <lb ed="#P"/>saltem non mala licet non sint bona similiter
+            <lb ed="#P" n="9"/><pc type="pilcrow"/> 2a consequentia est oppinio dicentium quod opera gentilium quae procedunt ex naturali <unclear>pie?te</unclear> <unclear>sunt</unclear> 
+            <lb ed="#P" n="10"/>saltem non mala licet non sint bona similiter
           </p>
           <p xml:id="ppra-l90-yxxxx5">
             <pc type="pilcrow"/> 3a conclusio omnem peccatum est 
-            <lb ed="#P"/>voluntarium intelligitur non tamen per actum liberum sed deliberatum et sic finis huius lectionis 
-            <lb ed="#P"/>lectae virginia annunciationis divite deo gratias
+            <lb ed="#P" n="11"/>voluntarium intelligitur non tamen per actum liberum sed deliberatum et sic finis huius lectionis 
+            <lb ed="#P" n="12"/>lectae virginia annunciationis divite deo gratias
             
           </p>
         </div>

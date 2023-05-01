@@ -52,48 +52,48 @@
           <div xml:id="ppra-l105-Dd1e109">
             <head xml:id="ppra-l105-Hcodcod">Circa operationem daemonum</head>
             <p xml:id="ppra-l105-sqhatr">
-              <lb ed="#P"/>Consequenter circa materiam praetactam omnia operabilia quae fiunt in isto mundo perceptibiliter reducuntur ad 3es modos
+              <lb ed="#P" n="22"/>Consequenter circa materiam praetactam omnia operabilia quae fiunt in isto mundo perceptibiliter reducuntur ad 3es modos
             </p>
             <p xml:id="ppra-l105-ueoilp">
-              <lb ed="#P"/><pc type="pilcrow"/>Unus est operationum mirabiliorum de quibus dictum est in lectione praecedente
+              <lb ed="#P" n="23"/><pc type="pilcrow"/>Unus est operationum mirabiliorum de quibus dictum est in lectione praecedente
             </p>
             <div xml:id="ppra-l105-Dd1e122">
               <head xml:id="ppra-l105-Hppoppo">Prima propositio</head>
               <p xml:id="ppra-l105-aeopeo">
                 <pc type="pilcrow"/>Alius est operationum daemonum 
-                <lb ed="#P"/>et ideo circa praesentem materiam est notandum quod ex scripturis veteris et novi testamentorum habetur quod sunt spiritus ma<lb ed="#P"/>ligni 
+                <lb ed="#P" n="24"/>et ideo circa praesentem materiam est notandum quod ex scripturis veteris et novi testamentorum habetur quod sunt spiritus ma<lb ed="#P" break="no" n="25"/>ligni 
                 et multa opera exercuerunt circa ceteras creaturas ut apparet de daemonum eiectione a quibusdam
-                <lb ed="#P"/>hominibus per eos obsessis
+                <lb ed="#P" n="26"/>hominibus per eos obsessis
               </p>
               <p xml:id="ppra-l105-ehcanc">
                 Et huic concordant philosophi, nam <name ref="#Plato">plato</name> substantias spirituales divisit in 
-                <lb ed="#P"/>duo genera <pc type="virgula">/</pc> unum bonorum spiritum quos vocavit <sic>calodaemones</sic>, nam <foreign>calo<!--<desc>this is the spelling for the greek workd "kalos"</desc>--></foreign> graece bonum dicitur latine 
-                <lb ed="#P"/>daemon vero sciens interpretatur <pc type="pilcrow"/> 2m genus est aliquorum spirituum quos vocavit caco deamones 
-                <lb ed="#P"/>nam caecos grece malum latine <pc type="punctus"/> dicitur de doctrina eius in <title>tymeo</title> secundum expositionem <unclear>calsid</unclear> posuit 
-                <lb ed="#P"/>malos spiritus in aere nobiscum conversari 
+                <lb ed="#P" n="27"/>duo genera <pc type="virgula">/</pc> unum bonorum spiritum quos vocavit <sic>calodaemones</sic>, nam <foreign>calo<!--<desc>this is the spelling for the greek workd "kalos"</desc>--></foreign> graece bonum dicitur latine 
+                <lb ed="#P" n="28"/>daemon vero sciens interpretatur <pc type="pilcrow"/> 2m genus est aliquorum spirituum quos vocavit caco deamones 
+                <lb ed="#P" n="29"/>nam caecos grece malum latine <pc type="punctus"/> dicitur de doctrina eius in <title>tymeo</title> secundum expositionem <unclear>calsid</unclear> posuit 
+                <lb ed="#P" n="30"/>malos spiritus in aere nobiscum conversari 
                
               </p>
               <p xml:id="ppra-l105-dadmsf">
                 <pc type="pilcrow"/> de <name ref="#Aristotle">aristotele</name> tamen dubium est quod posuerit malignos spiritus 
-                <lb ed="#P"/>non apparet Sed dicit <ref xml:id="ppra-l105-Rd1e160" type="citation"><name ref="#WilliamOfParis">Guillelmus Parisiensis</name> in libro <title ref="#deUniverso">de universo</title></ref> quod <name ref="#Aristotle">aristoteles</name> habuit spiritum familiarem quem credidit 
-                <lb ed="#P"/>bonum esse spiritum vel angelum de caelo missum scilicet de orbe veneris ubi notat praefatus doctor 
-                <lb ed="#P"/>quod realiter fuit daemon qui sub titulo sanctitatis <pc type="punctus"/> <name ref="#Aristotle">aristotelem</name> decepit <pc type="punctus"/> in punctis fidem tangentibus 
-                <lb ed="#P"/>quia ille spiritus dicebat se esse de caelo missum <pc type="punctus"/> ipsum <name>aristotelem</name> instruxit in aliquibus contra 
-                <lb ed="#P"/>fidem <pc type="punctus"/> Credebat tamen <name ref="#Aristotle">aristoteles</name> quod esse <del rend="strikethrough">de</del> calodaemon <pc type="pilcrow"/> Sed <ref xml:id="ppra-l105-Rd1e191"><name>vitulo</name> in libro de natura deorum</ref> 
-                <lb ed="#P"/>dicit <name ref="#Aristotle">aristotelem</name> fecisse librum <title>de genealogia deorum</title> quem dicit fuisse bonum librum licet non reperiatur Tamen 
-                <lb ed="#P"/>in hoc sufficit quod scriptura sacra doceat quod spiritus maligni sunt fugiendi
+                <lb ed="#P" n="31"/>non apparet Sed dicit <ref xml:id="ppra-l105-Rd1e160" type="citation"><name ref="#WilliamOfParis">Guillelmus Parisiensis</name> in libro <title ref="#deUniverso">de universo</title></ref> quod <name ref="#Aristotle">aristoteles</name> habuit spiritum familiarem quem credidit 
+                <lb ed="#P" n="32"/>bonum esse spiritum vel angelum de caelo missum scilicet de orbe veneris ubi notat praefatus doctor 
+                <lb ed="#P" n="33"/>quod realiter fuit daemon qui sub titulo sanctitatis <pc type="punctus"/> <name ref="#Aristotle">aristotelem</name> decepit <pc type="punctus"/> in punctis fidem tangentibus 
+                <lb ed="#P" n="34"/>quia ille spiritus dicebat se esse de caelo missum <pc type="punctus"/> ipsum <name>aristotelem</name> instruxit in aliquibus contra 
+                <lb ed="#P" n="35"/>fidem <pc type="punctus"/> Credebat tamen <name ref="#Aristotle">aristoteles</name> quod esse <del rend="strikethrough">de</del> calodaemon <pc type="pilcrow"/> Sed <ref xml:id="ppra-l105-Rd1e191"><name>vitulo</name> in libro de natura deorum</ref> 
+                <lb ed="#P" n="36"/>dicit <name ref="#Aristotle">aristotelem</name> fecisse librum <title>de genealogia deorum</title> quem dicit fuisse bonum librum licet non reperiatur Tamen 
+                <lb ed="#P" n="37"/>in hoc sufficit quod scriptura sacra doceat quod spiritus maligni sunt fugiendi
               </p>
             </div>
             <div xml:id="ppra-l105-Dd1e209">
               <head xml:id="ppra-l105-Hspospo">Secunda propositio</head>
               <p xml:id="ppra-l105-sdqpcn">
-                <lb ed="#P"/>2o dicitur quod huiusmodi 
-                <lb ed="#P"/>spiritus maligni divina permissione quaedam operantur quod apparet quia extremo odio odiunt genus 
-                <lb ed="#P"/>humanum <pc type="virgula">/</pc> igitur si relinqueretur suae potentiae infinita nocumenta nobis inferret <pc type="virgula">/</pc> nam ipsi refrenantur 
-                <lb ed="#P"/>intantum a bonis a nihil vel a deo quod nihil possunt sine deo specialiter permittente <pc type="virgula">/</pc> nam ut ait <ref xml:id="ppra-l105-Rd1e220"><name ref="#Peter">petrus</name> 
-                <lb ed="#P"/>in sua <title ref="#Ipetr">canonica</title></ref> Ipse <quote xml:id="ppra-l105-Qavtqqd" source="http://scta.info/resource/Ipetr5_8">adversarius vester tamquam leo rugiens et quaerens quem devoret</quote> <pc type="punctus"/> et sic 
-                <lb ed="#P"/>in eo non deest affectus nocendi nam ipsorum potestas est taliter restricta quod nisi 
-                <lb ed="#P"/>deo permittente nihil possunt contra nos <pc type="punctus"/>
+                <lb ed="#P" n="38"/>2o dicitur quod huiusmodi 
+                <lb ed="#P" n="39"/>spiritus maligni divina permissione quaedam operantur quod apparet quia extremo odio odiunt genus 
+                <lb ed="#P" n="40"/>humanum <pc type="virgula">/</pc> igitur si relinqueretur suae potentiae infinita nocumenta nobis inferret <pc type="virgula">/</pc> nam ipsi refrenantur 
+                <lb ed="#P" n="41"/>intantum a bonis a nihil vel a deo quod nihil possunt sine deo specialiter permittente <pc type="virgula">/</pc> nam ut ait <ref xml:id="ppra-l105-Rd1e220"><name ref="#Peter">petrus</name> 
+                <lb ed="#P" n="42"/>in sua <title ref="#Ipetr">canonica</title></ref> Ipse <quote xml:id="ppra-l105-Qavtqqd" source="http://scta.info/resource/Ipetr5_8">adversarius vester tamquam leo rugiens et quaerens quem devoret</quote> <pc type="punctus"/> et sic 
+                <lb ed="#P" n="43"/>in eo non deest affectus nocendi nam ipsorum potestas est taliter restricta quod nisi 
+                <lb ed="#P" n="44"/>deo permittente nihil possunt contra nos <pc type="punctus"/>
               </p>
             </div>
           </div>
@@ -103,165 +103,165 @@
               <head xml:id="ppra-l105-Hpqfoon">Primum: quod familiaritas daemonum est summe fugienda quia extremo odio odiunt nos</head>
               <p xml:id="ppra-l105-eqsmnn">
                 <pc type="pilcrow"/> Ex quo sequitur quod eorum familiaritas est summe fugienda 
-                <lb ed="#P"/>quia extremo odio nos odiunt nos Et ideo ait <ref xml:id="ppra-l105-Rd1e250" corresp="#l105-Qnepqfi"><name ref="#Boethius">Boecius</name> in 3o <title ref="#Consolation">de consolatione</title></ref> quod <quote xml:id="ppra-l105-Qnepqfi" source="http://scta.info/resource/hy7y6y-d1e67-d1e297">nulla est pestis 
-                <lb ed="#P"/>efficacior ad nocendum quod familiaris inimicus</quote> <pc type="virgula">/</pc> nam si daemones permitterentur a deo multipliciter 
-                <lb ed="#P"/>nobis nocerent <pc type="punctus"/>
+                <lb ed="#P" n="45"/>quia extremo odio nos odiunt nos Et ideo ait <ref xml:id="ppra-l105-Rd1e250" corresp="#l105-Qnepqfi"><name ref="#Boethius">Boecius</name> in 3o <title ref="#Consolation">de consolatione</title></ref> quod <quote xml:id="ppra-l105-Qnepqfi" source="http://scta.info/resource/hy7y6y-d1e67-d1e297">nulla est pestis 
+                <lb ed="#P" n="46"/>efficacior ad nocendum quod familiaris inimicus</quote> <pc type="virgula">/</pc> nam si daemones permitterentur a deo multipliciter 
+                <lb ed="#P" n="47"/>nobis nocerent <pc type="punctus"/>
               </p>
             </div>
             <div xml:id="ppra-l105-Dd1e272">
               <head xml:id="ppra-l105-Hsqamne">Secundum: quod ars magica nihil est</head>
               <p xml:id="ppra-l105-ssqsoc">
                 <pc type="pilcrow"/> Secundo sequitur quod ars magica nihil est quia daemones et eorum operationes subiacent 
-                <lb ed="#P"/>divinae providentiae <pc type="pilcrow"/> Ex quo patet quod eorum operationes non subiacent arti nec regulis artis nec verbis 
-                <lb ed="#P"/>nec cogitationibus nec industriis humanitus adinventis <pc type="virgula">/</pc> ymmo quod fortius est nulli creaturae 
-                <lb ed="#P"/>subiacent nisi forte sanctis propter vitae excellentiam qui habuerunt potestatem eos cohercendi 
-                <lb ed="#P"/>et eiciendi a creaturis ut tangit <ref xml:id="ppra-l105-Rd1e279"><name>apostolus</name></ref> <quote xml:id="ppra-l105-Qd1e285" source="http://scta.info/resource/io17_2">dedit nobis potestatem supra omnem carnem</quote>
+                <lb ed="#P" n="48"/>divinae providentiae <pc type="pilcrow"/> Ex quo patet quod eorum operationes non subiacent arti nec regulis artis nec verbis 
+                <lb ed="#P" n="49"/>nec cogitationibus nec industriis humanitus adinventis <pc type="virgula">/</pc> ymmo quod fortius est nulli creaturae 
+                <lb ed="#P" n="50"/>subiacent nisi forte sanctis propter vitae excellentiam qui habuerunt potestatem eos cohercendi 
+                <lb ed="#P" n="51"/>et eiciendi a creaturis ut tangit <ref xml:id="ppra-l105-Rd1e279"><name>apostolus</name></ref> <quote xml:id="ppra-l105-Qd1e285" source="http://scta.info/resource/io17_2">dedit nobis potestatem supra omnem carnem</quote>
               </p>
               <p xml:id="ppra-l105-saqrap">
-                <lb ed="#P"/><pc type="pilcrow"/>Secundo arguitur quia invocatores daemonum sunt homines bestiales fide et virtutibus carentes igitur 
-                <lb ed="#P"/>non sub arte cadit fatuitas magica <pc type="virgula">/</pc> antecedens est notum discurrendo per historias quia malifici 
-                <lb ed="#P"/>fuerunt semper pessimi et villes creaturae Et hoc apparet de illis qui morantur in vallibus 
-                <lb ed="#P"/>scilicet de his <unclear>delvalensibus</unclear>  vel etc ubi reperiuntur invocationes daemonum et tamen illi carent omni 
-                <lb ed="#P"/>arte et fide saltem bona <pc type="punctus"/> Et ex alio unusquisque simplicium alio et alio modo invocat igitur ars magica 
-                <lb ed="#P"/>non cadit sub arte <pc type="punctus"/> nec per modum regularis artis procedit
+                <lb ed="#P" n="52"/><pc type="pilcrow"/>Secundo arguitur quia invocatores daemonum sunt homines bestiales fide et virtutibus carentes igitur 
+                <lb ed="#P" n="53"/>non sub arte cadit fatuitas magica <pc type="virgula">/</pc> antecedens est notum discurrendo per historias quia malifici 
+                <lb ed="#P" n="54"/>fuerunt semper pessimi et villes creaturae Et hoc apparet de illis qui morantur in vallibus 
+                <lb ed="#P" n="55"/>scilicet de his <unclear>delvalensibus</unclear>  vel etc ubi reperiuntur invocationes daemonum et tamen illi carent omni 
+                <lb ed="#P" n="56"/>arte et fide saltem bona <pc type="punctus"/> Et ex alio unusquisque simplicium alio et alio modo invocat igitur ars magica 
+                <lb ed="#P" n="57"/>non cadit sub arte <pc type="punctus"/> nec per modum regularis artis procedit
               </p>
             </div>
             <div xml:id="ppra-l105-Dd1e296">
               <head xml:id="ppra-l105-Htqmiqd">Tertium: quod malefici vi artis magicae nihil aliud operantur nisi deceptiones potentiarum in illis quos decipiunt</head>
               <p xml:id="ppra-l105-stqiqd">
                 <pc type="pilcrow"/> Sequitur 3o quod malefici vi 
-                <lb ed="#P"/>artis magicae nihil aliud operantur quam deceptiones et laesiones potentiarum in illis quos decipiunt
+                <lb ed="#P" n="58"/>artis magicae nihil aliud operantur quam deceptiones et laesiones potentiarum in illis quos decipiunt
               </p>
             </div>
           </div>
         <div xml:id="ppra-l105-Dd1e306">
           <head xml:id="ppra-l105-Hmmdmmd">Multiplex modi deceptionis</head>
           <p xml:id="ppra-l105-ueasde">
-            <lb ed="#P"/><pc type="pilcrow"/> Ubi est advertendum quod prout ad materiam spectat multiplex est deceptio apud tales qui quidem habent pro 
-            <lb ed="#P"/>fine quaestum <pc type="punctus"/> vel inanem gloriam sicut dictum est
+            <lb ed="#P" n="59"/><pc type="pilcrow"/> Ubi est advertendum quod prout ad materiam spectat multiplex est deceptio apud tales qui quidem habent pro 
+            <lb ed="#P" n="60"/>fine quaestum <pc type="punctus"/> vel inanem gloriam sicut dictum est
           </p>
           <div xml:id="ppra-l105-Dd1e314">
             <head xml:id="ppra-l105-Hpmdpmd">Primus modus deceptionis</head>
             <p xml:id="ppra-l105-pgenvl">
               <pc type="virgula">/</pc> primus gradus est quorumdam ex industria 
               <pb ed="#P" n="106-r"/>
-              <lb ed="#P"/>naturali vel alias loquentium interius absque motu aliorum <pc type="punctus"/> et ad facilius decipiendum 
-              <lb ed="#P"/>observatis coniurationibus et verbis ipsi dant responsa decipiendo assistentis <pc type="punctus"/> quia loquitur et non videntur 
-              <lb ed="#P"/>loqui
+              <lb ed="#P" n="1"/>naturali vel alias loquentium interius absque motu aliorum <pc type="punctus"/> et ad facilius decipiendum 
+              <lb ed="#P" n="2"/>observatis coniurationibus et verbis ipsi dant responsa decipiendo assistentis <pc type="punctus"/> quia loquitur et non videntur 
+              <lb ed="#P" n="3"/>loqui
             </p>
           </div>
           <div xml:id="ppra-l105-Dd1e323">
             <head xml:id="ppra-l105-Hsmdsmd">Secundus modus deceptionis</head>
             <p xml:id="ppra-l105-smseda">
               <pc type="pilcrow"/> 2us modus secundum quod tangit <name>bacon</name> est per conventionem ipsorum quia aptatis quibusdam canalibus 
-              <lb ed="#P"/>ipsis habent latentes socios qui per canales locuntur et decipiunt tali modo deceptos audientes
+              <lb ed="#P" n="4"/>ipsis habent latentes socios qui per canales locuntur et decipiunt tali modo deceptos audientes
             </p>
             <p xml:id="ppra-l105-tmdsti">
-              <lb ed="#P"/><pc type="pilcrow"/> 3us modus decipiendi est per terrores <sic>passionare</sic> interius hominem et taliter deturpare seu etiam 
-              <lb ed="#P"/>perturbare potentias interiores ut non sit distinctio inter fantasma et obiectum quo casu stante 
-              <lb ed="#P"/>quicquid interius occurrit per modum fantasmatis indicatur ad extra obiectum praesens qui quidam terminor 
-              <lb ed="#P"/>inducitur ab eis ex causa multiplici <pc type="pilcrow"/>primo ex parte loci <pc type="virgula">/</pc> quia tales magici eligunt loca 
-              <lb ed="#P"/>solitaria quae sunt terrorum inductiva
+              <lb ed="#P" n="5"/><pc type="pilcrow"/> 3us modus decipiendi est per terrores <sic>passionare</sic> interius hominem et taliter deturpare seu etiam 
+              <lb ed="#P" n="6"/>perturbare potentias interiores ut non sit distinctio inter fantasma et obiectum quo casu stante 
+              <lb ed="#P" n="7"/>quicquid interius occurrit per modum fantasmatis indicatur ad extra obiectum praesens qui quidam terminor 
+              <lb ed="#P" n="8"/>inducitur ab eis ex causa multiplici <pc type="pilcrow"/>primo ex parte loci <pc type="virgula">/</pc> quia tales magici eligunt loca 
+              <lb ed="#P" n="9"/>solitaria quae sunt terrorum inductiva
             </p>
             <p xml:id="ppra-l105-sephdf">
               <pc type="pilcrow"/> 2o ex parte temporis nam tempore nocturno et tenebroso ipsi 
-              <lb ed="#P"/>consueverunt homines defraudare
+              <lb ed="#P" n="10"/>consueverunt homines defraudare
             </p>
             <p xml:id="ppra-l105-teplpa">
               <pc type="pilcrow"/> 3o ex parte verborum tamen quia illa verba sunt audientibus ignota tamen 
-              <lb ed="#P"/>quia ex vi suae prolationis sunt terribilia et laesiva <pc type="punctus"/> potentia audientis <pc type="punctus"/>
+              <lb ed="#P" n="11"/>quia ex vi suae prolationis sunt terribilia et laesiva <pc type="punctus"/> potentia audientis <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l105-qefpsp">
               <pc type="pilcrow"/> 4o ex figura nam in praesentia 
-              <lb ed="#P"/>assistentium multa adinvicem applicant quae omnia simul iuncta terrent existentes et reducunt ad talem 
-              <lb ed="#P"/>statum quod vi turbationis et terroris interior <unclear>spirituum</unclear> non distinguunt inter fantasma et obiectum Et 
-              <lb ed="#P"/>quidquid est ante ea impressum et ymaginatum in potentia interiori obicitur per modum rei ad extra in tantum 
-              <lb ed="#P"/>quod sic territi nesciunt distinguere inter fantasma et obiectum Et quicquid concurrit per modum fantasmatis 
-              <lb ed="#P"/>apparet esse obiectum ad extra potentiae sensitivae praesentatum
+              <lb ed="#P" n="12"/>assistentium multa adinvicem applicant quae omnia simul iuncta terrent existentes et reducunt ad talem 
+              <lb ed="#P" n="13"/>statum quod vi turbationis et terroris interior <unclear>spirituum</unclear> non distinguunt inter fantasma et obiectum Et 
+              <lb ed="#P" n="14"/>quidquid est ante ea impressum et ymaginatum in potentia interiori obicitur per modum rei ad extra in tantum 
+              <lb ed="#P" n="15"/>quod sic territi nesciunt distinguere inter fantasma et obiectum Et quicquid concurrit per modum fantasmatis 
+              <lb ed="#P" n="16"/>apparet esse obiectum ad extra potentiae sensitivae praesentatum
             </p>
             <p xml:id="ppra-l105-efaemi">
               Et forte aliqui magici ex suis met operationibus 
-              <lb ed="#P"/>fuerunt decepti <pc type="punctus"/> nam aliqui crediderunt loqui daemonibus qui realiter non loquebantur eis Et 
-              <lb ed="#P"/>in signum huiusmodi narrant aliqui quod huiusmodi assentientes aliquando manent in perpetuum laesi <pc type="punctus"/> sicut 
-              <lb ed="#P"/>ratione mutationum et turbationum interiorum quae sunt nimis excessive sit manent imprudentes 
-              <lb ed="#P"/>male dispositi et male inclinati
+              <lb ed="#P" n="17"/>fuerunt decepti <pc type="punctus"/> nam aliqui crediderunt loqui daemonibus qui realiter non loquebantur eis Et 
+              <lb ed="#P" n="18"/>in signum huiusmodi narrant aliqui quod huiusmodi assentientes aliquando manent in perpetuum laesi <pc type="punctus"/> sicut 
+              <lb ed="#P" n="19"/>ratione mutationum et turbationum interiorum quae sunt nimis excessive sit manent imprudentes 
+              <lb ed="#P" n="20"/>male dispositi et male inclinati
             </p>
           </div>
           <div xml:id="ppra-l105-Dd1e365">
             <head xml:id="ppra-l105-Htmdtmd">Tertius modus deceptionis</head>
             <p xml:id="ppra-l105-aemefm">
               <pc type="pilcrow"/> Alius est modus deceptionis eorum per naturam et per causas naturaliter 
-              <lb ed="#P"/>applicatas fraudulenter <pc type="pilcrow"/> 3us est ex <sic>dempsitate</sic> aeris vel quod ipsi eligant loca quibus sciunt aerem 
-              <lb ed="#P"/>esse <sic>dempsum</sic> qui reflectit aliqualiter species et invalescente frigiditate noctis aer magis <sic>dempsatur</sic> 
-              <lb ed="#P"/>et ideo magis reflectit species in tantum quod homines indicant se videre aliqua corpora in aere <pc type="punctus"/> ubi 
-              <lb ed="#P"/>non vident nisi se tantum et illud habetur 3o <title ref="#Meteorology">metheoricorum</title> de fantasmate quodam scilicet de antifonte qui 
-              <lb ed="#P"/>videbat se in aerem et hoc erat per specierum reflectionem sicut videtur in speculo <pc type="pilcrow"/> Vel etiam potest esse 
-              <lb ed="#P"/>deceptio per applicationem <sic>condempsantis</sic> per hunc salvantur multae apparentiae daemonum 
-              <lb ed="#P"/>ubi aliquis videret solummodo seipsum de nocte et credit se videre daemonem Et ex 
-              <lb ed="#P"/>hoc sequitur turbatio mirabilis et ex consequenti denigratio faciei et aliae infirmitates mirabiles et potest esse ex 
-              <lb ed="#P"/>hoc turbatio in tanto gradu quod inferret mortem vel creaturae dementiam sicut est valde possibile
+              <lb ed="#P" n="21"/>applicatas fraudulenter <pc type="pilcrow"/> 3us est ex <sic>dempsitate</sic> aeris vel quod ipsi eligant loca quibus sciunt aerem 
+              <lb ed="#P" n="22"/>esse <sic>dempsum</sic> qui reflectit aliqualiter species et invalescente frigiditate noctis aer magis <sic>dempsatur</sic> 
+              <lb ed="#P" n="23"/>et ideo magis reflectit species in tantum quod homines indicant se videre aliqua corpora in aere <pc type="punctus"/> ubi 
+              <lb ed="#P" n="24"/>non vident nisi se tantum et illud habetur 3o <title ref="#Meteorology">metheoricorum</title> de fantasmate quodam scilicet de antifonte qui 
+              <lb ed="#P" n="25"/>videbat se in aerem et hoc erat per specierum reflectionem sicut videtur in speculo <pc type="pilcrow"/> Vel etiam potest esse 
+              <lb ed="#P" n="26"/>deceptio per applicationem <sic>condempsantis</sic> per hunc salvantur multae apparentiae daemonum 
+              <lb ed="#P" n="27"/>ubi aliquis videret solummodo seipsum de nocte et credit se videre daemonem Et ex 
+              <lb ed="#P" n="28"/>hoc sequitur turbatio mirabilis et ex consequenti denigratio faciei et aliae infirmitates mirabiles et potest esse ex 
+              <lb ed="#P" n="29"/>hoc turbatio in tanto gradu quod inferret mortem vel creaturae dementiam sicut est valde possibile
             </p>
           </div>
           <div xml:id="ppra-l105-Dd1e381">
             <head xml:id="ppra-l105-Hqmdqmd">Quartus modus deceptionis</head>
             <p xml:id="ppra-l105-qmdrar">
-              <lb ed="#P"/><pc type="pilcrow"/>4us modus deceptionis principalis defectus considerationis rei ad rem
+              <lb ed="#P" n="30"/><pc type="pilcrow"/>4us modus deceptionis principalis defectus considerationis rei ad rem
             </p>
             <p xml:id="ppra-l105-uneoce">
               <pc type="punctus"/> ubi notandum est quod secundum quod res 
-              <lb ed="#P"/>videtur sub maiori angulo secundum hoc iudicatur esse maior <pc type="punctus"/> ceteris paribus <pc type="punctus"/> et sub minori <unclear>vel</unclear> minor 
-              <lb ed="#P"/>et sub aequali aequalis et hoc est demonstratum in 4o libro <title ref="#Perspectiva">perspectivae</title> <pc type="punctus"/> <pc type="pilcrow"/>nam visio fit per pyramidem 
-              <lb ed="#P"/>radiosam cuius conus est in oculo et basis in re visa Et secundum quod res videtur maiori angulo secundum hoc 
-              <lb ed="#P"/>apparet maior iudicando secundum quod apparet Et sic obiectum parvae quantitatis potest apparere aeque magnus sicut <unclear>turris</unclear> 
-              <lb ed="#P"/>altissima ut posito quod homo et <unclear>turris</unclear> elevata videantur sub eodem angelo adaequate et non discernatur 
-              <lb ed="#P"/>de distantia sine dubio iudicabit hominem esse aequalem turri <pc type="punctus"/> Et in isto casu qui frequenter accidit 
-              <lb ed="#P"/>potest occurrere iudicium quod homo est aeque magnus sicut turris <pc type="virgula">/</pc> et ex consequenti iudicatur esse daemonem quia 
-              <lb ed="#P"/>sub illa quantitate qua iudicatur ita magna homo non potest bene naturaliter existere nec suas operationes 
-              <lb ed="#P"/>convenienter exercere <pc type="punctus"/>
+              <lb ed="#P" n="31"/>videtur sub maiori angulo secundum hoc iudicatur esse maior <pc type="punctus"/> ceteris paribus <pc type="punctus"/> et sub minori <unclear>vel</unclear> minor 
+              <lb ed="#P" n="32"/>et sub aequali aequalis et hoc est demonstratum in 4o libro <title ref="#Perspectiva">perspectivae</title> <pc type="punctus"/> <pc type="pilcrow"/>nam visio fit per pyramidem 
+              <lb ed="#P" n="33"/>radiosam cuius conus est in oculo et basis in re visa Et secundum quod res videtur maiori angulo secundum hoc 
+              <lb ed="#P" n="34"/>apparet maior iudicando secundum quod apparet Et sic obiectum parvae quantitatis potest apparere aeque magnus sicut <unclear>turris</unclear> 
+              <lb ed="#P" n="35"/>altissima ut posito quod homo et <unclear>turris</unclear> elevata videantur sub eodem angelo adaequate et non discernatur 
+              <lb ed="#P" n="36"/>de distantia sine dubio iudicabit hominem esse aequalem turri <pc type="punctus"/> Et in isto casu qui frequenter accidit 
+              <lb ed="#P" n="37"/>potest occurrere iudicium quod homo est aeque magnus sicut turris <pc type="virgula">/</pc> et ex consequenti iudicatur esse daemonem quia 
+              <lb ed="#P" n="38"/>sub illa quantitate qua iudicatur ita magna homo non potest bene naturaliter existere nec suas operationes 
+              <lb ed="#P" n="39"/>convenienter exercere <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l105-eivadn">
               <pc type="pilcrow"/> Et ideo vitulo narrat de lupo qui iudicabatur nemori principio adaequari 
-              <lb ed="#P"/>et secundum quod variatur angulus per appropinquationem secundum hoc lupus apparet alterius et alterius quantitatis Et iste 
-              <lb ed="#P"/>est unus modus salvandi apparentias daemonum naturaliter
+              <lb ed="#P" n="40"/>et secundum quod variatur angulus per appropinquationem secundum hoc lupus apparet alterius et alterius quantitatis Et iste 
+              <lb ed="#P" n="41"/>est unus modus salvandi apparentias daemonum naturaliter
             </p>
             <p xml:id="ppra-l105-ueacid">
               <pc type="pilcrow"/> Ubi est advertendum quod ad debite aliquid 
-              <lb ed="#P"/>percipiendum per visum requiruntur octo concurrentia scilicet lux debita distantia situs magnitudo soliditas 
-              <lb ed="#P"/><unclear>dyaphanitas</unclear> tempus conveniens et debita organi disposito Et ista possunt in infinitum 
-              <lb ed="#P"/>variari quia ad variationem unius sequitur deceptio infinita
+              <lb ed="#P" n="42"/>percipiendum per visum requiruntur octo concurrentia scilicet lux debita distantia situs magnitudo soliditas 
+              <lb ed="#P" n="43"/><unclear>dyaphanitas</unclear> tempus conveniens et debita organi disposito Et ista possunt in infinitum 
+              <lb ed="#P" n="44"/>variari quia ad variationem unius sequitur deceptio infinita
             </p>
           </div>
           <div xml:id="ppra-l105-Dd1e409">
             <head xml:id="ppra-l105-qnmqnm">Quintus modus deceptionis</head>
             <p xml:id="ppra-l105-qmiaes">
               <pc type="pilcrow"/> 5us modus illusionis potest esse 
-              <lb ed="#P"/>pertinenter ad praedicta laedendo organi dispositionem assistentis nam sicut torpedo 
-              <lb ed="#P"/>solo tactu stupefacit membra in tantum quod membrum redditur impotens ad sentiendum 
-              <lb ed="#P"/>et adhuc tangendo ipsum cum baculo laedit membra et omnino perturbat <pc type="virgula">/</pc> Ita per applicationem 
-              <lb ed="#P"/>aliquorum potest visus alterari <pc type="virgula">/</pc> cuius applicationis sunt apparentiae variae ubi nullo modo erit daemon 
-              <lb ed="#P"/>et de aliis rebus etiam <pc type="punctus"/>  sicut in ludis iocularum Et ideo ad videndum requiritur conveniens tempus <pc type="punctus"/> nam propter 
-              <lb ed="#P"/>velocitatem motus punctus circulariter revolutus videtur esse circumferentia circuli ymmo realiter circulus ut apparet 
-              <lb ed="#P"/>de baculo inflammato nam propter brevitatem temporis inter instans in quo punctus est sursum et 
-              <lb ed="#P"/>inter instans in quo est deorsum punctus iudicatur esse ubique <pc type="virgula">/</pc> et ita ratione parvitatis temporis res non 
-              <lb ed="#P"/>iudicatur esse ubi est <pc type="virgula">/</pc> Et per istum modum salvantur omnes <unclear>intraiectus</unclear> <pc type="virgula">/</pc> Unde si <name ref="#Sortes">sortes</name> teneat unum 
-              <lb ed="#P"/>denarium in una manu propter brevitatem temporis sensus non sufficiet iudicare si debite et <unclear>citus</unclear> 
-              <lb ed="#P"/>moveat in qua manu erti <pc type="punctus"/> denarius si una manus aliam tetigerit inperceptibiliter quia credit mutationem 
-              <lb ed="#P"/>non esse factam de loco ad locum <pc type="virgula">/</pc> et sic de aliis tragediis possunt esse plures deceptiones quibus utuntur 
-              <lb ed="#P"/>magici ad extorquendum seu decidendum fatuos
+              <lb ed="#P" n="45"/>pertinenter ad praedicta laedendo organi dispositionem assistentis nam sicut torpedo 
+              <lb ed="#P" n="46"/>solo tactu stupefacit membra in tantum quod membrum redditur impotens ad sentiendum 
+              <lb ed="#P" n="47"/>et adhuc tangendo ipsum cum baculo laedit membra et omnino perturbat <pc type="virgula">/</pc> Ita per applicationem 
+              <lb ed="#P" n="48"/>aliquorum potest visus alterari <pc type="virgula">/</pc> cuius applicationis sunt apparentiae variae ubi nullo modo erit daemon 
+              <lb ed="#P" n="49"/>et de aliis rebus etiam <pc type="punctus"/>  sicut in ludis iocularum Et ideo ad videndum requiritur conveniens tempus <pc type="punctus"/> nam propter 
+              <lb ed="#P" n="50"/>velocitatem motus punctus circulariter revolutus videtur esse circumferentia circuli ymmo realiter circulus ut apparet 
+              <lb ed="#P" n="51"/>de baculo inflammato nam propter brevitatem temporis inter instans in quo punctus est sursum et 
+              <lb ed="#P" n="52"/>inter instans in quo est deorsum punctus iudicatur esse ubique <pc type="virgula">/</pc> et ita ratione parvitatis temporis res non 
+              <lb ed="#P" n="53"/>iudicatur esse ubi est <pc type="virgula">/</pc> Et per istum modum salvantur omnes <unclear>intraiectus</unclear> <pc type="virgula">/</pc> Unde si <name ref="#Sortes">sortes</name> teneat unum 
+              <lb ed="#P" n="54"/>denarium in una manu propter brevitatem temporis sensus non sufficiet iudicare si debite et <unclear>citus</unclear> 
+              <lb ed="#P" n="55"/>moveat in qua manu erti <pc type="punctus"/> denarius si una manus aliam tetigerit inperceptibiliter quia credit mutationem 
+              <lb ed="#P" n="56"/>non esse factam de loco ad locum <pc type="virgula">/</pc> et sic de aliis tragediis possunt esse plures deceptiones quibus utuntur 
+              <lb ed="#P" n="57"/>magici ad extorquendum seu decidendum fatuos
             </p>
           </div>
           <div xml:id="ppra-l105-Dd1e421">
             <head xml:id="ppra-l105-Hsxmsxm">Sextus modus deceptionis</head>
             <p xml:id="ppra-l105-smesna">
               <pc type="pilcrow"/> 6us modus est per naturalium causarum applicationem \
-              <lb ed="#P"/>quae tamen ignorantur causae naturales et simplicibus credentibus arte dyabolica talia esse facta <pc type="punctus"/> <pc type="pilcrow"/> Nam 
-              <lb ed="#P"/><ref xml:id="ppra-l105-Rd1e430"><name ref="#WilliamOfParis">magister guillelmus parisiensis</name></ref> dicit quod si ex cera et puluere corii serpentis adusti fiat candela de nocte 
-              <lb ed="#P"/>ardens faciet apparere festucas esse serpentes cuius causa est quia ratione <unclear>corporis</unclear> corii cum cera per mixti
+              <lb ed="#P" n="58"/>quae tamen ignorantur causae naturales et simplicibus credentibus arte dyabolica talia esse facta <pc type="punctus"/> <pc type="pilcrow"/> Nam 
+              <lb ed="#P" n="59"/><ref xml:id="ppra-l105-Rd1e430"><name ref="#WilliamOfParis">magister guillelmus parisiensis</name></ref> dicit quod si ex cera et puluere corii serpentis adusti fiat candela de nocte 
+              <lb ed="#P" n="60"/>ardens faciet apparere festucas esse serpentes cuius causa est quia ratione <unclear>corporis</unclear> corii cum cera per mixti
               <pb ed="#P" n="106-v"/>
-              <lb ed="#P"/>variatur color obiecti visibilis et sic iudicatur proportionaliter talis color sicut corii et ratione luminis apparent 
-              <lb ed="#P"/>festuce vel <unclear>iid?ei</unclear> moveri propter falsa <unclear>?me</unclear> motum in ceram consumendo <pc type="pilcrow"/> Ex alio etiam patet nam folium 
-              <lb ed="#P"/>quercinum ex deffectu luminis apparet esse bufonem Et quantum ad hoc possent infinita ex poni et 
-              <lb ed="#P"/>experientii quae fiunt per causas naturales <pc type="punctus"/> et tamen hoc simplicibus hominibus non apparet <pc type="punctus"/>
+              <lb ed="#P" n="1"/>variatur color obiecti visibilis et sic iudicatur proportionaliter talis color sicut corii et ratione luminis apparent 
+              <lb ed="#P" n="2"/>festuce vel <unclear>iid?ei</unclear> moveri propter falsa <unclear>?me</unclear> motum in ceram consumendo <pc type="pilcrow"/> Ex alio etiam patet nam folium 
+              <lb ed="#P" n="3"/>quercinum ex deffectu luminis apparet esse bufonem Et quantum ad hoc possent infinita ex poni et 
+              <lb ed="#P" n="4"/>experientii quae fiunt per causas naturales <pc type="punctus"/> et tamen hoc simplicibus hominibus non apparet <pc type="punctus"/>
             </p>
           </div>
         </div>
@@ -269,32 +269,32 @@
           <head xml:id="ppra-l105-Hqtmmsp">Quod tales magici nullo modo sunt permittendi</head>
           <p xml:id="ppra-l105-eqqqvc">
             <pc type="pilcrow"/> Ex quibus apparet quod 
-            <lb ed="#P"/>tales magici nullo modo sunt in pollitica permittendi <pc type="punctus"/> quia laedunt et impediunt potentiam ad vere policiendum 
-            <lb ed="#P"/>ex eo quod <unclear>vexater</unclear> creaturas
+            <lb ed="#P" n="5"/>tales magici nullo modo sunt in pollitica permittendi <pc type="punctus"/> quia laedunt et impediunt potentiam ad vere policiendum 
+            <lb ed="#P" n="6"/>ex eo quod <unclear>vexater</unclear> creaturas
           </p>
           <p xml:id="ppra-l105-sfiasd">
-            <lb ed="#P"/>2o faciunt ydolatriae <pc type="punctus"/> et ducunt homines ad sacrificiendum daemonibus 
+            <lb ed="#P" n="7"/>2o faciunt ydolatriae <pc type="punctus"/> et ducunt homines ad sacrificiendum daemonibus 
           </p>
           <p xml:id="ppra-l105-tqntcd">
-            <lb ed="#P"/><pc type="pilcrow"/> 3o quia nihil asserunt nisi fantasticum quia apparentiae in casu illo non sunt nisi secundum quod obicitur 
-            <lb ed="#P"/>fantasma ad intra potentiis interioribus et in illis nihil veritatis repperitur potest tamen altero duorum 
-            <lb ed="#P"/>modorum contingere quod aliquid veritatis in tali casu dicat
+            <lb ed="#P" n="8"/><pc type="pilcrow"/> 3o quia nihil asserunt nisi fantasticum quia apparentiae in casu illo non sunt nisi secundum quod obicitur 
+            <lb ed="#P" n="9"/>fantasma ad intra potentiis interioribus et in illis nihil veritatis repperitur potest tamen altero duorum 
+            <lb ed="#P" n="10"/>modorum contingere quod aliquid veritatis in tali casu dicat
           </p>
           <p xml:id="ppra-l105-umedhi">
             <pc type="pilcrow"/> Unus alius modus est ex culpa et 
-            <lb ed="#P"/>non arte scilicet quando creatura a deo totaliter derelicta et dyaboli dummodo fit subiecta sic deus in poenam 
-            <lb ed="#P"/>peccati promittit eam cum daemone conversari <pc type="virgula">/</pc> non tamen vi alicuius <unclear>argumentis</unclear> sed propter culpam sic demeretur 
-            <lb ed="#P"/>Contingenter tamen quod providentia divina deus non permittit quod dyabolus habeat intentum
+            <lb ed="#P" n="11"/>non arte scilicet quando creatura a deo totaliter derelicta et dyaboli dummodo fit subiecta sic deus in poenam 
+            <lb ed="#P" n="12"/>peccati promittit eam cum daemone conversari <pc type="virgula">/</pc> non tamen vi alicuius <unclear>argumentis</unclear> sed propter culpam sic demeretur 
+            <lb ed="#P" n="13"/>Contingenter tamen quod providentia divina deus non permittit quod dyabolus habeat intentum
           </p>
           <p xml:id="ppra-l105-amedfq">
             <pc type="pilcrow"/> Alius est modus 
-            <lb ed="#P"/>de reprobatione malorum et huiusmodi inquirentibus <pc type="virgula">/</pc> et hoc determinat <ref xml:id="ppra-l105-Rd1e466"><name ref="#JohnOfSalisbury">sabeluensis</name> in <title>somma</title> sua libro 2o 
-            <lb ed="#P"/>capitulo 17mo</ref> et <ref xml:id="ppra-l105-Rd1e481"><name ref="#NicholasOresme">magister nicolaus oresme</name> in 3o libro de figurationibus qualitatum</ref>
+            <lb ed="#P" n="14"/>de reprobatione malorum et huiusmodi inquirentibus <pc type="virgula">/</pc> et hoc determinat <ref xml:id="ppra-l105-Rd1e466"><name ref="#JohnOfSalisbury">sabeluensis</name> in <title>somma</title> sua libro 2o 
+            <lb ed="#P" n="15"/>capitulo 17mo</ref> et <ref xml:id="ppra-l105-Rd1e481"><name ref="#NicholasOresme">magister nicolaus oresme</name> in 3o libro de figurationibus qualitatum</ref>
           </p>
           <p xml:id="ppra-l105-ismtne">
             <pc type="pilcrow"/> Item sunt multae 
-            <lb ed="#P"/>illuminationes quae fiunt sine daemonibus <unclear>ut</unclear> apparet de igne qui apparet aliquando in cimiteriis vel proprie patibula 
-            <lb ed="#P"/>ita quod homines aliquando iudicant ibi esse spiritus quod tamen non est verum et haec de lectione ista
+            <lb ed="#P" n="16"/>illuminationes quae fiunt sine daemonibus <unclear>ut</unclear> apparet de igne qui apparet aliquando in cimiteriis vel proprie patibula 
+            <lb ed="#P" n="17"/>ita quod homines aliquando iudicant ibi esse spiritus quod tamen non est verum et haec de lectione ista
           </p>
         </div>
       </div>

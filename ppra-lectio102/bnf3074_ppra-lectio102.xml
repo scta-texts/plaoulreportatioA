@@ -52,36 +52,36 @@
         <div xml:id="ppra-l102-Dd1e109">
           <head xml:id="ppra-l102-Hoasasa">Opinio Avicennae secundum Albertum</head>
           <p xml:id="ppra-l102-cmince">
-            <lb ed="#P"/>Consequenter circa materiam praetactam de oppinione avicenae ab <ref xml:id="ppra-l102-Rd1e121"><name ref="#Albert">alberto</name> recitatam in libro <title ref="#deSomnoEtVigilia">de 
-            <lb ed="#P"/>somno et vigilia</title> libro 3o qui de divinatione intitulatur</ref>
+            <lb ed="#P" n="25"/>Consequenter circa materiam praetactam de oppinione avicenae ab <ref xml:id="ppra-l102-Rd1e121"><name ref="#Albert">alberto</name> recitatam in libro <title ref="#deSomnoEtVigilia">de 
+            <lb ed="#P" n="26"/>somno et vigilia</title> libro 3o qui de divinatione intitulatur</ref>
           </p> 
           <!-- should this be a para break -->
           <p xml:id="ppra-l102-uiaudi">
             ubi dicens <name ref="#Albert">albertus</name> <name ref="Avicenna">avicennae</name> 
-            <lb ed="#P"/>et <name ref="#Algasar">algazalis</name> oppiniones videtur recitare qui quidem concordes in hoc videntur fuisset <pc type="virgula">/</pc> Et 
+            <lb ed="#P" n="27"/>et <name ref="#Algasar">algazalis</name> oppiniones videtur recitare qui quidem concordes in hoc videntur fuisset <pc type="virgula">/</pc> Et 
             supponunt quod intellectus est in corpore <pc type="virgula">/</pc> sed credo quod realiter non inhaeret corpori Ut substantiae materiales 
-            <lb ed="#P"/>Et iuxta hoc dicunt 2o quod intellectus humanus potest tantum coniungi cum intellectu agente 
-            <lb ed="#P"/>et tantum a corpore separari quod absolute omnia intelliget <pc type="virgula">/</pc> et sic erit tamquam verbum incarnatum ut 
-            <lb ed="#P"/>iam dictum est <pc type="virgula">/</pc> et hoc est suppremus gradus perfectionis <pc type="punctus"/> sed infimus esset intellectus <unclear>cor?i</unclear> 
-            <lb ed="#P"/>immensus nihil intelligens <pc type="punctus"/> et hoc videtur ad experientiam valde possibile <pc type="virgula">/</pc> sicut patet de multis 
-            <lb ed="#P"/>hominibus usu rationis carentibus <pc type="virgula">/</pc> maxime de infantibus et desipientibus propter aetatis minimam 
-            <lb ed="#P"/>plenitudinem 
+            <lb ed="#P" n="28"/>Et iuxta hoc dicunt 2o quod intellectus humanus potest tantum coniungi cum intellectu agente 
+            <lb ed="#P" n="29"/>et tantum a corpore separari quod absolute omnia intelliget <pc type="virgula">/</pc> et sic erit tamquam verbum incarnatum ut 
+            <lb ed="#P" n="30"/>iam dictum est <pc type="virgula">/</pc> et hoc est suppremus gradus perfectionis <pc type="punctus"/> sed infimus esset intellectus <unclear>cor?i</unclear> 
+            <lb ed="#P" n="31"/>immensus nihil intelligens <pc type="punctus"/> et hoc videtur ad experientiam valde possibile <pc type="virgula">/</pc> sicut patet de multis 
+            <lb ed="#P" n="32"/>hominibus usu rationis carentibus <pc type="virgula">/</pc> maxime de infantibus et desipientibus propter aetatis minimam 
+            <lb ed="#P" n="33"/>plenitudinem 
           </p>
           <p xml:id="ppra-l102-darfpp">
             Et sic inter infimum et suppremum essent infiniti gradus possibiles 
             <pc type="pilcrow"/> unde 
-            <lb ed="#P"/>aliqui habent intellectum elevatum alii 6o minus ut nomen est <pc type="pilcrow"/> Et intellectum sit gradus infiniti 
-            <lb ed="#P"/>secundum infinitas operationes nam in suppremo gradu intellectus omnia clare videt et cognoscit 
-            <lb ed="#P"/>secundum eum
+            <lb ed="#P" n="34"/>aliqui habent intellectum elevatum alii 6o minus ut nomen est <pc type="pilcrow"/> Et intellectum sit gradus infiniti 
+            <lb ed="#P" n="35"/>secundum infinitas operationes nam in suppremo gradu intellectus omnia clare videt et cognoscit 
+            <lb ed="#P" n="36"/>secundum eum
           </p>
           <p xml:id="ppra-l102-tdeeme">
             <pc type="pilcrow"/> Et proportionaliter sic diceret de potentia activa <pc type="virgula">/</pc> nam intellectus in suppremo gradu 
-            <lb ed="#P"/>abstractus habet tantam virtutem quod tota materia generalium et corporalium obediunt ei <pc type="punctus"/> et datur contra infinitus
-            <lb ed="#P"/>gradus in quo anima non posset <unclear>con?no?re</unclear> corpus proprium <pc type="virgula">/</pc> et a fortiori materia exterior <pc type="punctus"/> minus sibi 
-            <lb ed="#P"/>obediret <pc type="virgula">/</pc> Et sic extremi gradus essent infiniti possibiles tamen <pc type="punctus"/> secundum quod una creatura potest esse 
-            <lb ed="#P"/>fortior alia <pc type="pilcrow"/> Et ex hoc consurgere facinationes sortilegia et talia <pc type="virgula">/</pc> Ex quo etiam sequitur quod 
-            <lb ed="#P"/>una anima posset causare infirmitates vel sanitas <pc type="virgula">/</pc> Et ad hoc reducit <name ref="#Avicenna">avicenna</name> <unclear>ar?tes</unclear> 
-            <lb ed="#P"/>magicas etc sicut mirabilia
+            <lb ed="#P" n="37"/>abstractus habet tantam virtutem quod tota materia generalium et corporalium obediunt ei <pc type="punctus"/> et datur contra infinitus
+            <lb ed="#P" n="38"/>gradus in quo anima non posset <unclear>con?no?re</unclear> corpus proprium <pc type="virgula">/</pc> et a fortiori materia exterior <pc type="punctus"/> minus sibi 
+            <lb ed="#P" n="39"/>obediret <pc type="virgula">/</pc> Et sic extremi gradus essent infiniti possibiles tamen <pc type="punctus"/> secundum quod una creatura potest esse 
+            <lb ed="#P" n="40"/>fortior alia <pc type="pilcrow"/> Et ex hoc consurgere facinationes sortilegia et talia <pc type="virgula">/</pc> Ex quo etiam sequitur quod 
+            <lb ed="#P" n="41"/>una anima posset causare infirmitates vel sanitas <pc type="virgula">/</pc> Et ad hoc reducit <name ref="#Avicenna">avicenna</name> <unclear>ar?tes</unclear> 
+            <lb ed="#P" n="42"/>magicas etc sicut mirabilia
           </p>
         </div>
         <div xml:id="ppra-l102-Dd1e164">
@@ -90,76 +90,76 @@
             <head xml:id="ppra-l102-Hpriima">Prima</head>
             <p xml:id="ppra-l102-scianc">
               <pc type="pilcrow"/> Sed tamen contra arguitur sic nam talis oppinio 
-              <lb ed="#P"/>est contra sacram scripturam et <unclear>do?nam</unclear> positio et determinationi ecclesie et articulo parisiensi quoniam miracula 
-              <lb ed="#P"/>non sic consurgunt
+              <lb ed="#P" n="43"/>est contra sacram scripturam et <unclear>do?nam</unclear> positio et determinationi ecclesie et articulo parisiensi quoniam miracula 
+              <lb ed="#P" n="44"/>non sic consurgunt
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e178">
             <head xml:id="ppra-l102-Hsecnda">Secunda</head>
             <p xml:id="ppra-l102-sqiqhp">
               <pc type="pilcrow"/>Item negant <quote xml:id="ppra-l102-Qca8ud" source="http://scta.info/resource/z88d99-avn8u2-d1e946@2-5" cert="medium"><!-- source identification is best guess -->animam esse formam</quote> <pc type="virgula">/</pc> quod est articulus condempnatus 
-              <lb ed="#P"/>Et ideo magis auctoritatibus sacrae sanctae ecclesiae et sanctorum dictis est credendum
+              <lb ed="#P" n="45"/>Et ideo magis auctoritatibus sacrae sanctae ecclesiae et sanctorum dictis est credendum
             </p>
             <div xml:id="ppra-l102-Dd1e188">
               <head xml:id="ppra-l102-Hoacefh">Opinio Alberti contra propositionem quod anima non esse formam hominis </head>
               <p xml:id="ppra-l102-ctiusi">
                 <pc type="pilcrow"/> Unde <name ref="#Albert">albertus</name> contra eos 
-                <lb ed="#P"/>scilicet contra <name>avicenam</name> et <name>agazelem</name> <pc type="punctus"/> sic arguit diversitas animarum non provenit ex diversitate corporum 
-                <lb ed="#P"/>patet quia intellectus non est in corpore nec dependet ab ipso igitur non impeditur ab eo vel 
-                <lb ed="#P"/>iuvatur et per consequens haec reducuntur in causas agentes <pc type="punctus"/> Et sic oportet dicere alterum duorum videlicet 
-                <lb ed="#P"/>quod ista diversitas intellectuum procedat ab eadem intelligentia vel a diversis <pc type="virgula">/</pc> non ab eadem <pc type="punctus"/> licet <unclear>am?ia</unclear>
+                <lb ed="#P" n="46"/>scilicet contra <name>avicenam</name> et <name>agazelem</name> <pc type="punctus"/> sic arguit diversitas animarum non provenit ex diversitate corporum 
+                <lb ed="#P" n="47"/>patet quia intellectus non est in corpore nec dependet ab ipso igitur non impeditur ab eo vel 
+                <lb ed="#P" n="48"/>iuvatur et per consequens haec reducuntur in causas agentes <pc type="punctus"/> Et sic oportet dicere alterum duorum videlicet 
+                <lb ed="#P" n="49"/>quod ista diversitas intellectuum procedat ab eadem intelligentia vel a diversis <pc type="virgula">/</pc> non ab eadem <pc type="punctus"/> licet <unclear>am?ia</unclear>
                 <pb ed="#P" n="103-r"/>
-                <lb ed="#P"/>dicat quia non ab eodem principio possunt procedere igitur etc Et tunc vel ergo intellectus eiusdem 
-                <lb ed="#P"/>speciei vel diversarum specierum si primum tunc erit inconveniens quia homines esset aeque <unclear>scientes</unclear> etc 
-                <lb ed="#P"/>conformiter sequeretur inconveniens maximum
+                <lb ed="#P" n="1"/>dicat quia non ab eodem principio possunt procedere igitur etc Et tunc vel ergo intellectus eiusdem 
+                <lb ed="#P" n="2"/>speciei vel diversarum specierum si primum tunc erit inconveniens quia homines esset aeque <unclear>scientes</unclear> etc 
+                <lb ed="#P" n="3"/>conformiter sequeretur inconveniens maximum
               </p>
               <p xml:id="ppra-l102-saaids">
                 <pc type="pilcrow"/> 2o <name ref="#Albert">albertus</name> arguit ratione <name ref="#Averroes">averroys</name> 
-                <lb ed="#P"/>datur duabus animalibus potentiam movendi orbem lumine habentibus tunc adhuc iste <del rend="strikethrough">homines</del> animae 
-                <lb ed="#P"/>eiusdem potentiae quoniam una magis vel minus movebit quam altera
+                <lb ed="#P" n="4"/>datur duabus animalibus potentiam movendi orbem lumine habentibus tunc adhuc iste <del rend="strikethrough">homines</del> animae 
+                <lb ed="#P" n="5"/>eiusdem potentiae quoniam una magis vel minus movebit quam altera
               </p>
               <p xml:id="ppra-l102-tiacsd">
                 <pc type="pilcrow"/> 3o arguit ratione 
-                <lb ed="#P"/><ref xml:id="ppra-l102-Rd1e226"><name ref="#Aristotle">aristotelem</name></ref> ponentem intellectum nedum esse formam hominis <pc type="punctus"/> sed hominem esse intellectum <pc type="virgula">/</pc> et circa 
-                <lb ed="#P"/>fundaverunt se <ref xml:id="ppra-l102-Rd1e241"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> <ref xml:id="ppra-l102-Rd1e251"><name ref="#HughOfStVictor">hugo de sancto victore</name></ref> dicentes quod 3es res in divinis 
-                <lb ed="#P"/>concurrunt ydemptice et tunc intellectus esset forma constituitiva hominis in suo esse
+                <lb ed="#P" n="6"/><ref xml:id="ppra-l102-Rd1e226"><name ref="#Aristotle">aristotelem</name></ref> ponentem intellectum nedum esse formam hominis <pc type="punctus"/> sed hominem esse intellectum <pc type="virgula">/</pc> et circa 
+                <lb ed="#P" n="7"/>fundaverunt se <ref xml:id="ppra-l102-Rd1e241"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> <ref xml:id="ppra-l102-Rd1e251"><name ref="#HughOfStVictor">hugo de sancto victore</name></ref> dicentes quod 3es res in divinis 
+                <lb ed="#P" n="8"/>concurrunt ydemptice et tunc intellectus esset forma constituitiva hominis in suo esse
               </p>
               <p xml:id="ppra-l102-suicih">
                 <pc type="pilcrow"/> Ultra 
-                <lb ed="#P"/>tamen addo duas alias rationes nam secundum hoc intellectus non est forma constituitiva 
-                <lb ed="#P"/>et sic sequeretur quod homo non esset rationalis
+                <lb ed="#P" n="9"/>tamen addo duas alias rationes nam secundum hoc intellectus non est forma constituitiva 
+                <lb ed="#P" n="10"/>et sic sequeretur quod homo non esset rationalis
               </p>
               <p xml:id="ppra-l102-cqespb">
                 <pc type="pilcrow"/> Confirmatur nam ex quo non iniungitur 
-                <lb ed="#P"/>corpori erit aliquod constitutum quod realiter non erit homo nec natura rationalis <pc type="punctus"/> sed brutalis 
+                <lb ed="#P" n="11"/>corpori erit aliquod constitutum quod realiter non erit homo nec natura rationalis <pc type="punctus"/> sed brutalis 
               </p>
               <p xml:id="ppra-l102-shipam">
-                <lb ed="#P"/><pc type="pilcrow"/> 2o huiusmodi intellectus ex quo non est pars constitutiva quaeretur <unclear>qualiter</unclear> homo intelligens de<lb ed="#P"/>nominaretur 
+                <lb ed="#P" n="12"/><pc type="pilcrow"/> 2o huiusmodi intellectus ex quo non est pars constitutiva quaeretur <unclear>qualiter</unclear> homo intelligens de<lb ed="#P" break="no" n="13"/>nominaretur 
                 <pc type="punctus"/> postquam intellectam non inhaeret homini nec immutat sequeretur tunc quod homo nullo modo 
-                <lb ed="#P"/>intelligeret et sic de agendo argueretur nam quantacumque activitas esset in sorte non augeretur 
-                <lb ed="#P"/>nec diminueretur <pc type="virgula">/</pc> et sic inpertinens esset homini postquam non est homo nec eius pars <pc type="pilcrow"/> unde 
-                <lb ed="#P"/>in fine capituli concludet <name>albertus</name> quod expositio huius radicis non haberetur per philosophiam
+                <lb ed="#P" n="14"/>intelligeret et sic de agendo argueretur nam quantacumque activitas esset in sorte non augeretur 
+                <lb ed="#P" n="15"/>nec diminueretur <pc type="virgula">/</pc> et sic inpertinens esset homini postquam non est homo nec eius pars <pc type="pilcrow"/> unde 
+                <lb ed="#P" n="16"/>in fine capituli concludet <name>albertus</name> quod expositio huius radicis non haberetur per philosophiam
               </p>
               <p xml:id="ppra-l102-ueaiam">
-                <lb ed="#P"/>nam anima prius agit in <unclear>sensum</unclear> sibi proportionatum <pc type="virgula">/</pc> deinde in organa <pc type="virgula">/</pc> deinde movet exterius 
-                <lb ed="#P"/>corpus quare etc 
+                <lb ed="#P" n="17"/>nam anima prius agit in <unclear>sensum</unclear> sibi proportionatum <pc type="virgula">/</pc> deinde in organa <pc type="virgula">/</pc> deinde movet exterius 
+                <lb ed="#P" n="18"/>corpus quare etc 
               </p>
               <p xml:id="ppra-l102-ufcsvc">
                 Et concludit finaliter quod fabula videtur dictum <name>avicennae</name> et <name>algazalis</name>
-                <lb ed="#P"/>quia non fundantur ratione nec sua oppinio est consona veritati nec etiam philosophia Ex quo 
-                <lb ed="#P"/>sequitur quod hoc dat vulgo corruptelam
+                <lb ed="#P" n="19"/>quia non fundantur ratione nec sua oppinio est consona veritati nec etiam philosophia Ex quo 
+                <lb ed="#P" n="20"/>sequitur quod hoc dat vulgo corruptelam
               </p> 
               <p xml:id="ppra-l102-unqacp">
                 <pc type="pilcrow"/> Nihilominus advertendum est quod principale motivum earum fuit 
-                <lb ed="#P"/>ad salvandum mirabilia sanctorum quae tempore suo fiebant <pc type="virgula">/</pc> et sic videbantur tenere primam cauam 
-                <lb ed="#P"/>non libere sed naturaliter agere vel <unclear>neces?to</unclear> naturae <pc type="virgula">/</pc> nec potest aliter agere dicerent quin omnia 
-                <lb ed="#P"/>taliter evenirent Et sic a deo effectus non posset impediri quod non verum videtur 
-                <lb ed="#P"/>quare sequitur secundum ipsos hoc ad intellectus excellentiam referri scilicet de mirabilis et talibus 
+                <lb ed="#P" n="21"/>ad salvandum mirabilia sanctorum quae tempore suo fiebant <pc type="virgula">/</pc> et sic videbantur tenere primam cauam 
+                <lb ed="#P" n="22"/>non libere sed naturaliter agere vel <unclear>neces?to</unclear> naturae <pc type="virgula">/</pc> nec potest aliter agere dicerent quin omnia 
+                <lb ed="#P" n="23"/>taliter evenirent Et sic a deo effectus non posset impediri quod non verum videtur 
+                <lb ed="#P" n="24"/>quare sequitur secundum ipsos hoc ad intellectus excellentiam referri scilicet de mirabilis et talibus 
               </p>
               <p xml:id="ppra-l102-ehpioa">
-                <lb ed="#P"/><pc type="pilcrow"/> Sed probabilius est primam causam dicere mere libere agere et non 2a causa indigere 
-                <lb ed="#P"/>ad aliquem effectum producendum et hoc satis videtur tangere incarnationis possibilitatem et 
-                <lb ed="#P"/>multorum aliorum supernaturalium et oppinio <name>avicennae</name> non sic quare etc
+                <lb ed="#P" n="25"/><pc type="pilcrow"/> Sed probabilius est primam causam dicere mere libere agere et non 2a causa indigere 
+                <lb ed="#P" n="26"/>ad aliquem effectum producendum et hoc satis videtur tangere incarnationis possibilitatem et 
+                <lb ed="#P" n="27"/>multorum aliorum supernaturalium et oppinio <name>avicennae</name> non sic quare etc
               </p>
             </div>
           </div>
@@ -167,27 +167,27 @@
             <head xml:id="ppra-l102-Htertia">Tertia</head>
             <p xml:id="ppra-l102-tpaish">
               <pc type="pilcrow"/> Item adhuc 
-              <lb ed="#P"/>contra <name>avicenam</name> quoniam opera magica per animas villisimas efficiuntur et non mundas 
-              <lb ed="#P"/>sive nobiles nobilitate morum et virtutum sed per ydiotas mulieres igitur sua via est facilissima 
-              <lb ed="#P"/>quia ponit quod fuit per animas perfectas et non vicio tactas <pc type="virgula">/</pc> Sed quod fiant per immundas 
-              <lb ed="#P"/>patet quia per miserrimas et vetulas infelicissimas ut patet libro regum de <unclear>phitonissima</unclear> 
-              <lb ed="#P"/>muliere ad <name>saul</name> loquente <pc type="virgula">/</pc> et de multis aliis quare etc
+              <lb ed="#P" n="28"/>contra <name>avicenam</name> quoniam opera magica per animas villisimas efficiuntur et non mundas 
+              <lb ed="#P" n="29"/>sive nobiles nobilitate morum et virtutum sed per ydiotas mulieres igitur sua via est facilissima 
+              <lb ed="#P" n="30"/>quia ponit quod fuit per animas perfectas et non vicio tactas <pc type="virgula">/</pc> Sed quod fiant per immundas 
+              <lb ed="#P" n="31"/>patet quia per miserrimas et vetulas infelicissimas ut patet libro regum de <unclear>phitonissima</unclear> 
+              <lb ed="#P" n="32"/>muliere ad <name>saul</name> loquente <pc type="virgula">/</pc> et de multis aliis quare etc
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e340">
             <head xml:id="ppra-l102-Hquarta">Quarta</head>
             <p xml:id="ppra-l102-qatcmv">
               <pc type="pilcrow"/> Item talia opera 
-              <lb ed="#P"/>sunt pessima igitur non fiunt ab intellectu elemento sed potius depresso et maculato 
+              <lb ed="#P" n="33"/>sunt pessima igitur non fiunt ab intellectu elemento sed potius depresso et maculato 
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e350">
             <head xml:id="ppra-l102-Hquinta">Quinta</head>
             <p xml:id="ppra-l102-qaihpm">
               <pc type="pilcrow"/> Item 
-              <lb ed="#P"/>potest per hoc salvari de sucitatione cororum mororum patet <pc type="virgula">/</pc> quia forma separata non obedit coniuncte 
-              <lb ed="#P"/>nec est sibi subiecta igitur non obediret ad reunionem <pc type="virgula">/</pc> et per consequens sua via falsa 
-              <lb ed="#P"/>sed magis conclusione inconveniens incidit scilicet in corruptelam vetularum <pc type="punctus"/> 
+              <lb ed="#P" n="34"/>potest per hoc salvari de sucitatione cororum mororum patet <pc type="virgula">/</pc> quia forma separata non obedit coniuncte 
+              <lb ed="#P" n="35"/>nec est sibi subiecta igitur non obediret ad reunionem <pc type="virgula">/</pc> et per consequens sua via falsa 
+              <lb ed="#P" n="36"/>sed magis conclusione inconveniens incidit scilicet in corruptelam vetularum <pc type="punctus"/> 
             </p>
           </div>
         </div>
@@ -195,68 +195,68 @@
           <head xml:id="ppra-l102-Hpdadac">Propositiones de activitate causarum</head>
           <p xml:id="ppra-l102-cimcpp">
             <pc type="pilcrow"/> Circa 
-            <lb ed="#P"/>tamen istam materiam de activitate causarum ponuntur aliquae propositiones
+            <lb ed="#P" n="37"/>tamen istam materiam de activitate causarum ponuntur aliquae propositiones
           </p>
           <div xml:id="ppra-l102-Dd1e381">
             <head xml:id="ppra-l102-Hqncend">Quod nulla causa potest libere producere omnes suos effectus nisi deus</head>
             <p xml:id="ppra-l102-pspend">
               quarum prima Sola prima 
-              <lb ed="#P"/>est sui effectus adextra immediate se sola productiva et nulla alia sed talis deus igitur 
+              <lb ed="#P" n="38"/>est sui effectus adextra immediate se sola productiva et nulla alia sed talis deus igitur 
             </p>
             <p xml:id="ppra-l102-ppaifn">
               prima 
-              <lb ed="#P"/>pars patet quia est principium in theologia <pc type="punctus"/> nam quod sit ita excellens tangit immensitate et 
-              <lb ed="#P"/>nobilitatem et perfectionem divinam etiam secundum philosophiam
+              <lb ed="#P" n="39"/>pars patet quia est principium in theologia <pc type="punctus"/> nam quod sit ita excellens tangit immensitate et 
+              <lb ed="#P" n="40"/>nobilitatem et perfectionem divinam etiam secundum philosophiam
             </p>
             <p xml:id="ppra-l102-spasdc">
               <pc type="virgula">/</pc> 2a pars probatur nam generaliter 
-              <lb ed="#P"/>omnis forma substantialis indiget instrumento ad suam operationem exercendam patet quoniam terra 
-              <lb ed="#P"/>sine gratuite non posset descendere et sic de aliis elementis suo modo nec etiam intelligentia 
-              <lb ed="#P"/>movens orbam non agat nisi per motum et lumen et sic a maximo usque ad 
-              <lb ed="#P"/><unclear>minimum</unclear> non invenietur aliquid quin indigeat instrumento <pc type="virgula">/</pc> unde etiam anima non habet libertatem 
-              <lb ed="#P"/>respectu inhaesionis ad materiam <pc type="virgula">/</pc> Et ita proportionaliter pura libertas dicit immensa potentiam et perfectionem 
+              <lb ed="#P" n="41"/>omnis forma substantialis indiget instrumento ad suam operationem exercendam patet quoniam terra 
+              <lb ed="#P" n="42"/>sine gratuite non posset descendere et sic de aliis elementis suo modo nec etiam intelligentia 
+              <lb ed="#P" n="43"/>movens orbam non agat nisi per motum et lumen et sic a maximo usque ad 
+              <lb ed="#P" n="44"/><unclear>minimum</unclear> non invenietur aliquid quin indigeat instrumento <pc type="virgula">/</pc> unde etiam anima non habet libertatem 
+              <lb ed="#P" n="45"/>respectu inhaesionis ad materiam <pc type="virgula">/</pc> Et ita proportionaliter pura libertas dicit immensa potentiam et perfectionem 
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e396">
             <head xml:id="ppra-l102-Hqhiovn">Quod habitudo intelligentiae ad orbem vocatur naturalis</head>
             <p xml:id="ppra-l102-eoiahi">
-              <lb ed="#P"/>Et ita potest ymaginari de intelligentia libera quo ad aliquos actus Et ideo nec libere nec 
-              <lb ed="#P"/>sine instrumento potest intelligentia alterare elementa 
+              <lb ed="#P" n="46"/>Et ita potest ymaginari de intelligentia libera quo ad aliquos actus Et ideo nec libere nec 
+              <lb ed="#P" n="47"/>sine instrumento potest intelligentia alterare elementa 
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e405">
             <head xml:id="ppra-l102-Hqisisl">Qualiter intelligentia sint libera</head>
             <p xml:id="ppra-l102-ehpmii">
               <pc type="virgula">/</pc> Et infertur quod est sic in se libera quod <unclear>potest</unclear> 
-              <lb ed="#P"/><unclear>ma?re</unclear> orbem naturaliter et hoc videtur ponere <name>quidam doctor</name> dicens quod nisi ita esset posset 
-              <lb ed="#P"/>intelligentia retardare vel volicitare modum <pc type="pilcrow"/> Sed ista ratio non valet nam ex libertate intelligentiae 
-              <lb ed="#P"/>non potest retardare quin moveatur orbis <pc type="punctus"/> vel perlata unde ratione congruitatis non possunt 
-              <lb ed="#P"/>tardius vel velocius movere quia sequeretur corruptio vel deordinatio 
+              <lb ed="#P" n="48"/><unclear>ma?re</unclear> orbem naturaliter et hoc videtur ponere <name>quidam doctor</name> dicens quod nisi ita esset posset 
+              <lb ed="#P" n="49"/>intelligentia retardare vel volicitare modum <pc type="pilcrow"/> Sed ista ratio non valet nam ex libertate intelligentiae 
+              <lb ed="#P" n="50"/>non potest retardare quin moveatur orbis <pc type="punctus"/> vel perlata unde ratione congruitatis non possunt 
+              <lb ed="#P" n="51"/>tardius vel velocius movere quia sequeretur corruptio vel deordinatio 
             </p>
             <p xml:id="ppra-l102-eidqae">
               <pc type="virgula">/</pc> Et ideo licet facit intelligentiae 
-              <lb ed="#P"/>libere aliqualiter <pc type="virgula">/</pc> non possunt tamen retardare velocitare orbes quibus sunt applicatae
+              <lb ed="#P" n="52"/>libere aliqualiter <pc type="virgula">/</pc> non possunt tamen retardare velocitare orbes quibus sunt applicatae
               <pb ed="#P" n="103-v"/>
-              <lb ed="#P"/><pc type="pilcrow"/>Alii sunt modi dicendi quorum primus est quod sortes volens <c>a</c> potest velle <c>a</c> et <unclear>tamen</unclear> 
-              <lb ed="#P"/>potest non velle ipsum <c>a</c> et de hoc alias est dictum
+              <lb ed="#P" n="1"/><pc type="pilcrow"/>Alii sunt modi dicendi quorum primus est quod sortes volens <c>a</c> potest velle <c>a</c> et <unclear>tamen</unclear> 
+              <lb ed="#P" n="2"/>potest non velle ipsum <c>a</c> et de hoc alias est dictum
             </p>
             <p xml:id="ppra-l102-sdqoql">
               <pc type="pilcrow"/> Item dicere <quote xml:id="ppra-l102-Qcam9j" source="http://scta.info/resource/z88d99-avn8u2-d1e1845@1-6">quod intelligentia solo voluntatis 
-              <lb ed="#P"/>imperio moveat orbem</quote> est articulus parisius condempnatus
+              <lb ed="#P" n="3"/>imperio moveat orbem</quote> est articulus parisius condempnatus
             </p>
           </div>
           <div xml:id="ppra-l102-Dd1e443">
             <head xml:id="ppra-l102-Hqdsdsl">Qualiter daemones sunt liberi</head>
             <p xml:id="ppra-l102-eqsaml">
               <pc type="pilcrow"/> Consequenter infertur motio 
-              <lb ed="#P"/>lapidum etc quae fiunt per daemones talia non fiunt naturaliter solo voluntatis imperio <pc type="virgula">/</pc> Sed 
-              <lb ed="#P"/>tamen qualiter fiant primus motus est deo specialiter concurrente et ultra dyaboli caliditatem ut deus 
-              <lb ed="#P"/>influat antequam lapis moveat influxu
+              <lb ed="#P" n="4"/>lapidum etc quae fiunt per daemones talia non fiunt naturaliter solo voluntatis imperio <pc type="virgula">/</pc> Sed 
+              <lb ed="#P" n="5"/>tamen qualiter fiant primus motus est deo specialiter concurrente et ultra dyaboli caliditatem ut deus 
+              <lb ed="#P" n="6"/>influat antequam lapis moveat influxu
             </p>
             <p xml:id="ppra-l102-spdscr">
               2us daemonis voluntatis imperium non sufficit 
-              <lb ed="#P"/>sed intimitas dyaboli ad lapidis praesentiam quia non sufficeret movere per se <pc type="punctus"/> Et potest 
-              <lb ed="#P"/>ymaginari medium instrumentio fluens sicut de anima dictum est et de eius actione
+              <lb ed="#P" n="7"/>sed intimitas dyaboli ad lapidis praesentiam quia non sufficeret movere per se <pc type="punctus"/> Et potest 
+              <lb ed="#P" n="8"/>ymaginari medium instrumentio fluens sicut de anima dictum est et de eius actione
             </p>
           </div>
         </div>
@@ -264,29 +264,29 @@
           <head xml:id="ppra-l102-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l102-yxxxx3">
             Secuntur
-            <lb ed="#P"/>ergo distinctiones 2ae <add place="above-line">scilicet 9a et 10a</add> quarum conclusio <sic>primae</sic> est quod divina natura non generatur sine divina essentia quia 
-            <lb ed="#P"/>ratio <unclear>p?e</unclear> generare dicitur <pc type="virgula">/</pc> nec etiam beata virgo genuerit divinam essentiam <pc type="virgula">/</pc> licet genuerit deum et 
-            <lb ed="#P"/>hominem causa est quia divina essentia ut dictum est non generatur <pc type="virgula">/</pc> unde actiones supposito attribuntur 
+            <lb ed="#P" n="9"/>ergo distinctiones 2ae <add place="above-line">scilicet 9a et 10a</add> quarum conclusio <sic>primae</sic> est quod divina natura non generatur sine divina essentia quia 
+            <lb ed="#P" n="10"/>ratio <unclear>p?e</unclear> generare dicitur <pc type="virgula">/</pc> nec etiam beata virgo genuerit divinam essentiam <pc type="virgula">/</pc> licet genuerit deum et 
+            <lb ed="#P" n="11"/>hominem causa est quia divina essentia ut dictum est non generatur <pc type="virgula">/</pc> unde actiones supposito attribuntur 
           </p>
           <p xml:id="ppra-l102-yxxxx4">
-            <lb ed="#P"/><pc type="pilcrow"/> 2a conclusio filius semper genitus nam idem est generari et genitum nec est ponenda diversitas 
+            <lb ed="#P" n="12"/><pc type="pilcrow"/> 2a conclusio filius semper genitus nam idem est generari et genitum nec est ponenda diversitas 
           </p>
           <p xml:id="ppra-l102-yxxxx5">
-            <lb ed="#P"/><pc type="pilcrow"/> prima conclusio alterius distinctionis est de latria quae deo attribuntuitur et dubia homini et si formae 
-            <lb ed="#P"/>creaturae tunc ydolatria dicitur esse <pc type="virgula">/</pc> unde ebrardus <pc type="virgula">/</pc> mortalis dubia latriam dic omnipotentis 
-            <lb ed="#P"/>Alia tamen est quae vocatur <sic>theosobia</sic> quae convertitur cum latria et alia quae vocatur yperdulia quae dulia 
-            <lb ed="#P"/>transcendit
+            <lb ed="#P" n="13"/><pc type="pilcrow"/> prima conclusio alterius distinctionis est de latria quae deo attribuntuitur et dubia homini et si formae 
+            <lb ed="#P" n="14"/>creaturae tunc ydolatria dicitur esse <pc type="virgula">/</pc> unde ebrardus <pc type="virgula">/</pc> mortalis dubia latriam dic omnipotentis 
+            <lb ed="#P" n="15"/>Alia tamen est quae vocatur <sic>theosobia</sic> quae convertitur cum latria et alia quae vocatur yperdulia quae dulia 
+            <lb ed="#P" n="16"/>transcendit
           </p>
           <p xml:id="ppra-l102-yxxxx6">
             <pc type="pilcrow"/> 2a conclusio de adoratione nam dicitur quod caro christi debet eadem adoratione adorari 
-            <lb ed="#P"/>cum deo unde si pro toto corpore capiatur non debetur sibi latria sed potius yperdulia et sic etiam 
-            <lb ed="#P"/>virgo gloriosa debet adorari <pc type="virgula">/</pc> vel potest dici quod primo modo latria adoratur secundum quod caro et theose<lb ed="#P"/>bia 
+            <lb ed="#P" n="17"/>cum deo unde si pro toto corpore capiatur non debetur sibi latria sed potius yperdulia et sic etiam 
+            <lb ed="#P" n="18"/>virgo gloriosa debet adorari <pc type="virgula">/</pc> vel potest dici quod primo modo latria adoratur secundum quod caro et theose<lb ed="#P" break="no" n="19"/>bia 
             secundum quod deus sed istae duae <unclear>communia</unclear> dicunt et non est vis <pc type="virgula">/</pc> tenetur tamen primus modus 
-            <lb ed="#P"/>Quaeeretur tamen quomodo crux debet adorari et dicitur quod crux saepe capiatur pro crucifixo et 
-            <lb ed="#P"/>illo modo adoratur adoratione latere sed prout est pars crucifixionis adoratione yperdulie quia inclinatur 
-            <lb ed="#P"/>in <del rend="strikethrough">ad</del> ea christus ratione cuius adoratur et sibi reverentia debetur quia christum pro obiecto repraesento habet 
-            <lb ed="#P"/>et sic est fruitio dei Et non esset inconveniens dicere quod idem actus esset latria et yperdulia 
-            <lb ed="#P"/><del rend="strikethrough">maxime</del> quare etc
+            <lb ed="#P" n="20"/>Quaeeretur tamen quomodo crux debet adorari et dicitur quod crux saepe capiatur pro crucifixo et 
+            <lb ed="#P" n="21"/>illo modo adoratur adoratione latere sed prout est pars crucifixionis adoratione yperdulie quia inclinatur 
+            <lb ed="#P" n="22"/>in <del rend="strikethrough">ad</del> ea christus ratione cuius adoratur et sibi reverentia debetur quia christum pro obiecto repraesento habet 
+            <lb ed="#P" n="23"/>et sic est fruitio dei Et non esset inconveniens dicere quod idem actus esset latria et yperdulia 
+            <lb ed="#P" n="24"/><del rend="strikethrough">maxime</del> quare etc
           </p>
           <p xml:id="ppra-l102-yxxxx7">
             <pc type="pilcrow"/> Sequitur de materia sortilegiorum et incantationum et cetorum talium
