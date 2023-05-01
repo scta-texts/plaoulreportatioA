@@ -222,8 +222,8 @@
             <!-- not sure p break is needed here -->
             <p xml:id="ppra-l101-asvnpp">
               vel tauri <pc type="virgula">/</pc> et sic de aliis
-              <pc type="pilcrow"/> Ulterius ymaginatur quod ultimo prolatae habent suam efficientiam aliae non nisi pluries 
-              <lb ed="#P" n="14"/>prolatae
+              <lb ed="#P" n="14"/><pc type="pilcrow"/> Ulterius ymaginatur quod ultimo prolatae habent suam efficientiam aliae non nisi pluries 
+              <lb ed="#P" n="15"/>prolatae
             </p>
             <!--
               doesn't seem present 
@@ -234,8 +234,8 @@
             </p>-->
             <p xml:id="ppra-l101-annicc">
               <pc type="virgula">/</pc> Et sic ex istis radicibus solvit sortilegia et sic refertur hoc ad caelum 
-              <lb ed="#P" n="15"/>desiderium et voces expressas <pc type="punctus"/> secundum quod sunt quo ad haec applicatae <pc type="virgula">/</pc> et de ista consideratione 
-              <lb ed="#P" n="16"/>videbitur deo dante in lectione sequente
+              <lb ed="#P" n="16"/>desiderium et voces expressas <pc type="punctus"/> secundum quod sunt quo ad haec applicatae <pc type="virgula">/</pc> et de ista consideratione 
+              <lb ed="#P" n="17"/>videbitur deo dante in lectione sequente
             </p>
           </div>
         </div>
@@ -243,14 +243,14 @@
           <head xml:id="ppra-l101-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l101-xxxxx1">
             <pc type="pilcrow"/> Sequitur 8va distinctio supra 3m librum videlicet quod concedendum est 
-            <lb ed="#P" n="17"/>quod deus factus est homo et homo deus quia una <sic>susistentia</sic> facta est alia utroque tamen remanente termino 
-            <lb ed="#P" n="18"/>nam homo incepti esse deus <pc type="punctus"/> et potest desinere esse deus <pc type="virgula">/</pc> et ex consequenti concedit magister quod 
-            <lb ed="#P" n="19"/>ille homo qui est christus incepit esse et potest <unclear>desineri</unclear> <pc type="virgula">/</pc> et sic ille praedestinatus est ut esset verus 
-            <lb ed="#P" n="20"/>deus <pc type="punctus"/> <pc type="virgula">/</pc> Sed tamen alia oppinio non concederet quod ille huius inciperet esse <pc type="virgula">/</pc> quia supponit pro illo 
-            <lb ed="#P" n="21"/>verbo et est unica susitentia nec est praedestinatus nisi quia habeat nullam praedestinatam <pc type="virgula">/</pc> Et 
-            <lb ed="#P" n="22"/>sic resolutio est quod talis homo sit factus ita quod est deus <pc type="punctus"/> nec possibile est quod duae res concurrentes 
-            <lb ed="#P" n="23"/>ydemptice debetur et sic finis lectionis istius lectae quando recessus a patria <unclear>ma</unclear> die <unclear>mercur</unclear> 
-            <lb ed="#P" n="24"/>post quasi modo geniti etc
+            <lb ed="#P" n="18"/>quod deus factus est homo et homo deus quia una <sic>susistentia</sic> facta est alia utroque tamen remanente termino 
+            <lb ed="#P" n="19"/>nam homo incepti esse deus <pc type="punctus"/> et potest desinere esse deus <pc type="virgula">/</pc> et ex consequenti concedit magister quod 
+            <lb ed="#P" n="20"/>ille homo qui est christus incepit esse et potest <unclear>desineri</unclear> <pc type="virgula">/</pc> et sic ille praedestinatus est ut esset verus 
+            <lb ed="#P" n="21"/>deus <pc type="punctus"/> <pc type="virgula">/</pc> Sed tamen alia oppinio non concederet quod ille huius inciperet esse <pc type="virgula">/</pc> quia supponit pro illo 
+            <lb ed="#P" n="22"/>verbo et est unica susitentia nec est praedestinatus nisi quia habeat nullam praedestinatam <pc type="virgula">/</pc> Et 
+            <lb ed="#P" n="23"/>sic resolutio est quod talis homo sit factus ita quod est deus <pc type="punctus"/> nec possibile est quod duae res concurrentes 
+            <lb ed="#P" n="24"/>ydemptice debetur et sic finis lectionis istius lectae quando recessus a patria <unclear>ma</unclear> die <unclear>mercur</unclear> 
+            <lb ed="#P" n="25"/>post quasi modo geniti etc
           </p>
         </div>
       </div>

@@ -58,49 +58,47 @@
           <p xml:id="ppra-l107-caqeim">
             <lb ed="#P" n="49"/>valet contra quia verba sacramentalia convertunt panem in verum corpus christi et in baptismo inducunt caritatem 
             <lb ed="#P" n="50"/>et gratiam <pc type="punctus"/> quia sacramenta novae legis nedum sunt significativa gratiae sed etiam <unclear>effectiva</unclear> <pc type="virgula">/</pc> et per hoc illa differunt 
-            <lb ed="#P" n="51"/>a sacramentis legis antiquae <pc type="virgula">/</pc> <unclear>eapropter</unclear> verba possunt habere inveniuntur profuisse pluribus igitur verbis 
-            <lb ed="#P" n="52"/>attribuenda est efficaciam 
+            <lb ed="#P" n="51"/>a sacramentis legis antiquae <pc type="virgula">/</pc> <unclear>eapropter</unclear> verba possunt habere multiplicem sive numeralem efficaciam
           </p>
+          
           <p xml:id="ppra-l107-snoaee">
-            <pc type="pilcrow"/> <sic>3o</sic> oratio dominica in collectione herbarum praestat verum curandi morbos igitur etc 
+            <!-- this paragraph appears on line 53, but is inserted here using a metamark -->
+            <add place="in-line"><pc type="pilcrow"/> <sic>3o</sic> oratio dominica in collectione herbarum praestat verum curandi morbos igitur etc</add> 
           </p> 
-          <!--
-            Doesn't seem present 
-            <p xml:id="ppra-l107-iceeee">
-            <lb ed="#P"/><pc type="pilcrow"/>
-            Item, 
-            capitula 
-            evangelii gestata vel addita vel prolata inveniuntur 
-            profuisse pluribus igitur verbis attribuenda est 
-            <sic>est</sic> efficacia.
-          </p>-->
+          <!-- this paragraph appears on above the previous paragraph, but is meant to be placed below using a metamark -->
+          <p xml:id="ppra-l107-iceeee">
+            <pc type="pilcrow"/>Item 
+            <lb ed="#P" n="52"/>capitula evvangelii gestata vel audita sive etiam prolata inveniuntur profuisse pluribus igitur verbis 
+            <lb ed="#P" n="53"/>attribuenda est efficaciam <del><pc type="pilcrow"/> <sic>3o</sic> oratio dominica in collectione herbarum praestat verum curandi morbos igitur etc</del>
+          </p>
+          
           <p xml:id="ppra-l107-qisgaa">
-            <lb ed="#P" n="53"/><pc type="pilcrow"/> Item 4o <name xml:id="ppra-l107-Nd1e135" ref="#JohnOfSalisbury">salberiensis</name> ait quod <choice><orig>cinbolum</orig><reg>symbolum</reg></choice> apostolorum <unclear>demonicum</unclear> curavit gestatum ab aliquibus
+            <lb ed="#P" n="54"/><pc type="pilcrow"/> Item 4o <name xml:id="ppra-l107-Nd1e135" ref="#JohnOfSalisbury">salberiensis</name> ait quod <choice><orig>cinbolum</orig><reg>symbolum</reg></choice> apostolorum <unclear>demonicum</unclear> curavit gestatum ab aliquibus
           </p>
           <p xml:id="ppra-l107-qgplcq">
             <pc type="pilcrow"/> 5o <unclear>gubertus</unclear> 
-            <lb ed="#P" n="54"/>evangelium iohannis approbat infirmis et sanabantur probat recitat <ref xml:id="ppra-l107-Rd1e146"> <title ref="#Policraticus">policraticus</title> libro 2o capitulo 4o</ref>
+            <lb ed="#P" n="55"/>evangelium iohannis approbat infirmis et sanabantur probat recitat <ref xml:id="ppra-l107-Rd1e146"> <title ref="#Policraticus">policraticus</title> libro 2o capitulo 4o</ref>
           </p>
         </div>
         <div xml:id="ppra-l107-Dd1e155">
           <head xml:id="ppra-l107-Hdesdes">De efficacia sortis</head>
           <p xml:id="ppra-l107-daqehe">
-            <pc type="pilcrow"/> Deinde arguitur quod sors et augurium habeant efficaciam de sorte habetur <ref>actuum primo</ref> quod 
-            <lb ed="#P" n="55"/><name xml:id="ppra-l107-Nd1e162" ref="#Apostles">apostoli</name> dederunt sortes eis et sors cecidit super <name xml:id="ppra-l107-Nd1e168" ref="#Matthias">mathiam</name> quia erant duo quorum unus erat 
-            <lb ed="#P" n="56"/>eligendus scilicet <name xml:id="ppra-l107-Nd1e171" ref="#JosephBarsabbas">ioseph</name> quod vocabatur iustus et <name xml:id="ppra-l107-Nd1e174" ref="#Matthias">mathyas</name> sed <name xml:id="ppra-l107-Nd1e178" ref="#Matthias">mathyas</name> fuit electus <del rend="strikethrough">et 
-            <lb ed="#P" n="57"/>cecidit sors super</del> igitur apostoli usi sunt sortibus <pc type="punctus"/> et per consequens sors est licita <pc type="punctus"/> Et in veteri testamento illud 
-            <lb ed="#P" n="58"/>nam habetur iosue 7mo quod furtum <unclear>nachor</unclear> repertum est in sorte <pc type="punctus"/> nam iussu diu miserunt 
-            <lb ed="#P" n="59"/>sortem primo super tribus <pc type="virgula">/</pc> deinde super familias <pc type="punctus"/> deinde supra personas et repertum est quod nachor erat reus 
-            <lb ed="#P" n="60"/>Et de <name xml:id="ppra-l107-Nd1e187" ref="#Jonah">iona</name> <unclear>simuliter</unclear> <del rend="strikethrough">q</del> et <name xml:id="ppra-l107-Nd1e190" ref="#Saul">saul</name> etiam reprehendit <name xml:id="ppra-l107-Nd1e193">ionatham</name> mel comedisse sorte ut apparet <title ref="#Ireg">primi regum</title> 
-            <lb ed="#P" n="61"/>14mo et luce primo <title ref="#Zacharias">zacharias</title> sorte exiit ut poneret incensum <pc type="punctus"/> igitur <unclear>attentes</unclear> homines usi sunt 
-            <lb ed="#P" n="62"/><unclear>sancti</unclear> sortibus ergo sortes licite et habent efficaciam
+            <lb ed="#P" n="56"/><pc type="pilcrow"/> Deinde arguitur quod sors et augurium habeant efficaciam de sorte habetur <ref>actuum primo</ref> quod 
+            <lb ed="#P" n="57"/><name xml:id="ppra-l107-Nd1e162" ref="#Apostles">apostoli</name> dederunt sortes eis et sors cecidit super <name xml:id="ppra-l107-Nd1e168" ref="#Matthias">mathiam</name> quia erant duo quorum unus erat 
+            <lb ed="#P" n="58"/>eligendus scilicet <name xml:id="ppra-l107-Nd1e171" ref="#JosephBarsabbas">ioseph</name> quod vocabatur iustus et <name xml:id="ppra-l107-Nd1e174" ref="#Matthias">mathyas</name> sed <name xml:id="ppra-l107-Nd1e178" ref="#Matthias">mathyas</name> fuit electus <del rend="strikethrough">et 
+            <lb ed="#P" n="59"/>cecidit sors super</del> igitur apostoli usi sunt sortibus <pc type="punctus"/> et per consequens sors est licita <pc type="punctus"/> Et in veteri testamento illud 
+            <lb ed="#P" n="60"/>nam habetur iosue 7mo quod furtum <unclear>nachor</unclear> repertum est in sorte <pc type="punctus"/> nam iussu diu miserunt 
+            <lb ed="#P" n="61"/>sortem primo super tribus <pc type="virgula">/</pc> deinde super familias <pc type="punctus"/> deinde supra personas et repertum est quod nachor erat reus 
+            <lb ed="#P" n="62"/>Et de <name xml:id="ppra-l107-Nd1e187" ref="#Jonah">iona</name> <unclear>simuliter</unclear> <del rend="strikethrough">q</del> et <name xml:id="ppra-l107-Nd1e190" ref="#Saul">saul</name> etiam reprehendit <name xml:id="ppra-l107-Nd1e193">ionatham</name> mel comedisse sorte ut apparet <title ref="#Ireg">primi regum</title> 
+            <lb ed="#P" n="63"/>14mo et luce primo <title ref="#Zacharias">zacharias</title> sorte exiit ut poneret incensum <pc type="punctus"/> igitur <unclear>attentes</unclear> homines usi sunt 
+            <lb ed="#P" n="64"/><unclear>sancti</unclear> sortibus ergo sortes licite et habent efficaciam
           </p>
         </div>
         <div xml:id="ppra-l107-Dd1e205">
           <head xml:id="ppra-l107-Hdeadea">De efficacia augurio</head>
           <p xml:id="ppra-l107-daspme">
             <pc type="pilcrow"/> de augurio scribitur <title ref="#gen">genesis</title> <num>44mo</num> ubi dicitur quod 
-            <lb ed="#P" n="63"/><name xml:id="ppra-l107-Nd1e218" ref="#Joseph">ioseph</name> dicit fratribus suis ait <quote xml:id="ppra-l107-Qaiqias" source="http://scta.info/resource/gen44_15">An ignoratis quod non sit in me in augurando scientia</quote> igitur artem illam vocat scientiam 
+            <lb ed="#P" n="65"/><name xml:id="ppra-l107-Nd1e218" ref="#Joseph">ioseph</name> dicit fratribus suis ait <quote xml:id="ppra-l107-Qaiqias" source="http://scta.info/resource/gen44_15">An ignoratis quod non sit in me in augurando scientia</quote> igitur artem illam vocat scientiam 
             <pb ed="#P" n="108-v"/>
             <lb ed="#P" n="1"/>et per consequens augurium habet efficaciam et sic licitum est <pc type="pilcrow"/> Deinde probatur quod de omnibus est fides quia eventus plures 
             <lb ed="#P" n="2"/>docuerunt aliqua esse bona et aliqua mala ut apparet nam <ref xml:id="ppra-l107-Rd1e236"><name xml:id="ppra-l107-Nd1e238">valerius</name> fecit de hoc titulum in libro suo</ref> et <ref xml:id="ppra-l107-Rd1e245"><title ref="#Policraticus"><unclear>policraticus</unclear></title> 

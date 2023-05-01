@@ -163,12 +163,12 @@
               <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-tsqeer"/>
             </assertions>
           </p>
-          <!--
-              doesn't seem present
-              <p xml:id="ppra-l88-aeiils">
-              <pc type="pilcrow"/> Alia tamen est oppinio <pc type="punctus"/> sed 
-              <lb ed="#P"/><unclear>eam</unclear> pro nunc dimittet
-            </p>-->
+          <p xml:id="ppra-l88-aeiils">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l88-aeiils"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l88-aeiils"/>
+            </assertions>
+          </p>
         </div>
       </div>
       <div xml:id="ppra-l88-Dxxxx1">

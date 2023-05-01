@@ -82,50 +82,50 @@
           </p> 
           <p xml:id="ppra-l96-igpaes">
             <pc type="pilcrow"/> Item 
-            <ref xml:id="ppra-l96-Rd1e156"><name rend="#WilliamOfParis">Guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de fide et legibus</title></ref> dicit quosdam barbaros <unclear>aquilonares</unclear> tamquam deum tonitruum
-            <lb ed="#P" n="28"/>colere propter mirabilitatem effectus illius apud eos ymmo et omnes species ydolatriae et supersti<lb ed="#P" break="no" n="29"/>tionum 
+            <lb ed="#P" n="28"/><ref xml:id="ppra-l96-Rd1e156"><name rend="#WilliamOfParis">Guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de fide et legibus</title></ref> dicit quosdam barbaros <unclear>aquilonares</unclear> tamquam deum tonitruum
+            <lb ed="#P" n="29"/>colere propter mirabilitatem effectus illius apud eos ymmo et omnes species ydolatriae et supersti<lb ed="#P" break="no" n="30"/>tionum 
             a vulgo indocto fide et philosophia carente videtur sumpsisse originem Et ideo 
-            <lb ed="#P" n="30"/>scribitur in <ref xml:id="ppra-l96-Rd1e196"> <title ref="#ps">psalmo</title></ref> <pc type="pilcrow"/> <quote xml:id="ppra-l96-Qmgdvcf" source="http://scta.info/resource/ps105_20">mutaverunt gloriam dei in similitudinem vituli comedentes fenum</quote> psalmo <unclear>cxn?mo 9o</unclear> 
-            <lb ed="#P" n="31"/>Et <ref xml:id="ppra-l96-Rd1e212"> <title ref="#rom">ad romanos</title> primo</ref> <pc type="pilcrow"/><quote xml:id="ppra-l96-Qmgiqes" source="http://scta.info/resource/rom1_23">mutaverunt gloriam incorruptibilem dei in similitudine=m ymaginis corruptibilis hominis et 
-            <lb ed="#P" n="32"/><sic>volucrum</sic> et quadrupedum et serpentum</quote>
+            <lb ed="#P" n="31"/>scribitur in <ref xml:id="ppra-l96-Rd1e196"> <title ref="#ps">psalmo</title></ref> <pc type="pilcrow"/> <quote xml:id="ppra-l96-Qmgdvcf" source="http://scta.info/resource/ps105_20">mutaverunt gloriam dei in similitudinem vituli comedentes fenum</quote> psalmo <unclear>cxn?mo 9o</unclear> 
+            <lb ed="#P" n="32"/>Et <ref xml:id="ppra-l96-Rd1e212"> <title ref="#rom">ad romanos</title> primo</ref> <pc type="pilcrow"/><quote xml:id="ppra-l96-Qmgiqes" source="http://scta.info/resource/rom1_23">mutaverunt gloriam incorruptibilem dei in similitudine=m ymaginis corruptibilis hominis et 
+            <lb ed="#P" n="33"/><sic>volucrum</sic> et quadrupedum et serpentum</quote>
           </p>
           <p xml:id="ppra-l96-enesec">
             <pc type="pilcrow"/>Ubi notandum est quod nedum vulgus indoctus <pc type="punctus"/> sed 
-            <lb ed="#P" n="33"/>in philosophi ratione depressionis ingenii non fuerunt concordes imponendo deum quidam negaverunt 
-            <lb ed="#P" n="34"/>aliquem esse deum nisi praecise sensibilem et corporalem
+            <lb ed="#P" n="34"/>in philosophi ratione depressionis ingenii non fuerunt concordes imponendo deum quidam negaverunt 
+            <lb ed="#P" n="35"/>aliquem esse deum nisi praecise sensibilem et corporalem
           </p>
           <p xml:id="ppra-l96-apdiep">
             alii posuerunt deum <pc type="punctus"/> sed variae <pc type="punctus"/> Et ideo 
-            <lb ed="#P" n="35"/>radix omnium errorum propter laesionem intellectus ratione culpae originalis Et ideo ipse intellectus 
-            <lb ed="#P" n="36"/>non sufficit elevari in illa quae concernunt ultimum finem <pc type="pilcrow"/>ubi est ulterius advertendum quod 
-            <lb ed="#P" n="37"/>subtilius philosophantes posuerunt unum principium et unum deum licet ipsi non convenirent in eius 
-            <lb ed="#P" n="38"/>proprietatibus
+            <lb ed="#P" n="36"/>radix omnium errorum propter laesionem intellectus ratione culpae originalis Et ideo ipse intellectus 
+            <lb ed="#P" n="37"/>non sufficit elevari in illa quae concernunt ultimum finem <pc type="pilcrow"/>ubi est ulterius advertendum quod 
+            <lb ed="#P" n="38"/>subtilius philosophantes posuerunt unum principium et unum deum licet ipsi non convenirent in eius 
+            <lb ed="#P" n="39"/>proprietatibus
           </p>
           <p xml:id="ppra-l96-uneupc">
             <pc type="pilcrow"/>Ubi notandum est quod iuxta fictiones vulgarium et philosophorum inventiones poetae supervenientes 
-            <lb ed="#P" n="39"/>delectationibus carminibus humanas descripserunt proprietates <pc type="pilcrow"/> ubi est advertendum quod ex hoc magnus error 
-            <lb ed="#P" n="40"/>insurrexit apud multos vulgares et literatos Nam ea quae poetae scripta sunt plures 
-            <lb ed="#P" n="41"/>ad litteram receperunt <pc type="punctus"/> Et sic de varietate et pluralitate varii varia scripserunt 
-            <lb ed="#P" n="42"/>Ideo posuerunt unum deum esse primum sequentes doctrinam <name ref="#Parmenides">parmenidis</name> qui posuit aquam esse 
-            <lb ed="#P" n="43"/>deum <pc type="virgula">/</pc> et alii posuerunt unum deum sequendo viam <name ref="#Aristotle">aristotelis</name> ponentis unam primam causam <pc type="punctus"/>
+            <lb ed="#P" n="40"/>delectationibus carminibus humanas descripserunt proprietates <pc type="pilcrow"/> ubi est advertendum quod ex hoc magnus error 
+            <lb ed="#P" n="41"/>insurrexit apud multos vulgares et literatos Nam ea quae poetae scripta sunt plures 
+            <lb ed="#P" n="42"/>ad litteram receperunt <pc type="punctus"/> Et sic de varietate et pluralitate varii varia scripserunt 
+            <lb ed="#P" n="43"/>Ideo posuerunt unum deum esse primum sequentes doctrinam <name ref="#Parmenides">parmenidis</name> qui posuit aquam esse 
+            <lb ed="#P" n="44"/>deum <pc type="virgula">/</pc> et alii posuerunt unum deum sequendo viam <name ref="#Aristotle">aristotelis</name> ponentis unam primam causam <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l96-cqeppd">
-            <lb ed="#P" n="44"/>Circa quod est advertendum quod secundum opinionem vocarii apud probabiliores poetae nominaverunt 
-            <lb ed="#P" n="45"/>primum principium demogorgon <pc type="pilcrow"/> Consequenter dixerunt quod habet chaos sibi coaeternum Et secundum veritatem 
-            <lb ed="#P" n="46"/>philosophiae non est aliud dicere nisi quod deus est simpliciter aeternus et est potentia rerum producibilium obiectiva 
-            <lb ed="#P" n="47"/>coaeterna Ita quod per chaos confusum poetae nihil aliud intellexerunt nisi potentiam obiectivam 
-            <lb ed="#P" n="48"/>rerum producibilium
+            <lb ed="#P" n="45"/>Circa quod est advertendum quod secundum opinionem vocarii apud probabiliores poetae nominaverunt 
+            <lb ed="#P" n="46"/>primum principium demogorgon <pc type="pilcrow"/> Consequenter dixerunt quod habet chaos sibi coaeternum Et secundum veritatem 
+            <lb ed="#P" n="47"/>philosophiae non est aliud dicere nisi quod deus est simpliciter aeternus et est potentia rerum producibilium obiectiva 
+            <lb ed="#P" n="48"/>coaeterna Ita quod per chaos confusum poetae nihil aliud intellexerunt nisi potentiam obiectivam 
+            <lb ed="#P" n="49"/>rerum producibilium
           </p>
           <p xml:id="ppra-l96-dipeqc">
-            <pc type="pilcrow"/>Deinde ipsi ponunt quod demogorgon primo genuit litigium id est po<lb ed="#P" break="no" n="49"/>suit 
+            <pc type="pilcrow"/>Deinde ipsi ponunt quod demogorgon primo genuit litigium id est po<lb ed="#P" break="no" n="50"/>suit 
             ordinem et distinctionem rerum et differentiam essentialem ipsarum <pc type="punctus"/> unde per litigium intelligitur 
-            <lb ed="#P" n="50"/>quaedam rerum imperitas cum actionibus distinctis <pc type="punctus"/> et quandoque contrariis <pc type="pilcrow"/> Consequenter posuerunt 
-            <lb ed="#P" n="51"/>quod demogorgon seu prima causa generat pau sororem litigii per quam intelligitur naturalis rerum 
-            <lb ed="#P" n="52"/>inscitus ad suas operationes exercendas
+            <lb ed="#P" n="51"/>quaedam rerum imperitas cum actionibus distinctis <pc type="punctus"/> et quandoque contrariis <pc type="pilcrow"/> Consequenter posuerunt 
+            <lb ed="#P" n="52"/>quod demogorgon seu prima causa generat pau sororem litigii per quam intelligitur naturalis rerum 
+            <lb ed="#P" n="53"/>inscitus ad suas operationes exercendas
           </p>
           <p xml:id="ppra-l96-tpqecn">
             <pc type="pilcrow"/> 3o posuerunt quod demogorgon generat iterum 3es filias 
-            <lb ed="#P" n="53"/>quas poetae vocant partas et <name ref="#Cicero">tullius</name> vocat eas fata scilicet clotho et atropos 
+            <lb ed="#P" n="54"/>quas poetae vocant partas et <name ref="#Cicero">tullius</name> vocat eas fata scilicet clotho et atropos 
             <pb ed="#P" n="96-r"/>
             <lb ed="#P" n="1"/>per quas intelligitur naturae creatae proprietas et conditio naturalis
           </p>
@@ -145,88 +145,89 @@
             <lb ed="#P" n="10"/>errandi Et sic fatum nedum resolvitur ad causam finalem <pc type="punctus"/> sed reducitur ad genus causae 
             <lb ed="#P" n="11"/>efficientis <pc type="virgula">/</pc> et ad concathenationem causarum efficientium <pc type="punctus"/> Sed de modo concatenationis 
             <lb ed="#P" n="12"/>sunt variae oppiniones secundum quas fatum variae acciperetur nam aliqui resolvunt se ad divinam 
-            providentiam tamquam ad causam principalem quae aliquo modo fatum vocari potest
+            <lb ed="#P" n="13"/>providentiam tamquam ad causam principalem quae aliquo modo fatum vocari potest
           </p> 
           <p xml:id="ppra-l96-arssec">
             <pc type="pilcrow"/>Alii resolvunt se 
-            <lb ed="#P" n="13"/>ad causa secundas divinae providentiae subordinatas et concathenatas
+            <lb ed="#P" n="14"/>ad causa secundas divinae providentiae subordinatas et concathenatas
           </p>
           <p xml:id="ppra-l96-arsapn">
             <pc type="pilcrow"/>Alii resolvunt se mixti 
-            <lb ed="#P" n="14"/>ad divinam providentiam cum concathenatione causarum secundarium Et sic secundum varios modos est 
-            <lb ed="#P" n="15"/>intentio dicere de fato iuxta oppinionem <name ref="#Aristotle">philosophi</name> et <name ref="#Avicenna">avicennae</name> et aliorum philosophorum notabiliorum
+            <lb ed="#P" n="15"/>ad divinam providentiam cum concathenatione causarum secundarium Et sic secundum varios modos est 
+            <lb ed="#P" n="16"/>intentio dicere de fato iuxta oppinionem <name ref="#Aristotle">philosophi</name> et <name ref="#Avicenna">avicennae</name> et aliorum philosophorum notabiliorum
           </p>
         </div>
         <div xml:id="ppra-l96-Dd1e429">
           <head xml:id="ppra-l96-Hsodsrm">Sex opiniones de divina providentiae secundum Rabi Moyses</head>
           <p xml:id="ppra-l96-cmddcs">
-            <lb ed="#P" n="16"/>Consequenter circa materiam divinae providentiae notandum est quod circa divinam providentiam 6 fuerunt opiniones 
-            <lb ed="#P" n="17"/>quas recitat <ref xml:id="ppra-l96-Rd1e290"><name ref="#Maimonides">Rabbi Moyses</name> in 3o libro <title ref="#GuideForThePerplexed">de duce <unclear>neu?orum</unclear> vel dubiorum</title> capitulo 17</ref>
+            <lb ed="#P" n="17"/>Consequenter circa materiam divinae providentiae notandum est quod circa divinam providentiam 6 fuerunt opiniones 
+            <lb ed="#P" n="18"/>quas recitat <ref xml:id="ppra-l96-Rd1e290"><name ref="#Maimonides">Rabbi Moyses</name> in 3o libro <title ref="#GuideForThePerplexed">de duce <unclear>neu?orum</unclear> vel dubiorum</title> capitulo 17</ref>
           </p>
           <div xml:id="ppra-l96-Dd1e457">
             <head xml:id="ppra-l96-Hpoapoa">Prima opinio antiquorum</head>
             <p xml:id="ppra-l96-upoidb">
               <pc type="pilcrow"/>Unde 
-              <lb ed="#P" n="18"/>prima opinio fuit antiquorum incipiens a tempore prophetarum dicentium quod a summo caelorum 
-              <lb ed="#P" n="19"/>usque ad terram quicquid contingit in universo mundo contingit simpliciter a casu <pc type="virgula">/</pc> Ita quod 
-              <lb ed="#P" n="20"/>isti imaginati sunt quod deus in seipso et de seipso sufficienter delectatur nec habet curam de rebus extrinsecis 
-              <lb ed="#P" n="21"/>sed effectus omnes qui fiunt sunt a casu et fiunt secundum causales applicationes rerum <pc type="virgula">/</pc> et isti 
-              <lb ed="#P" n="22"/>se resolvunt ad athomalia quae diverso modo combinata constituunt diversas species rerum 
-              <lb ed="#P" n="23"/>et istam viam dicit <name ref="#Maimonides">rabbi moyses</name> secuti sunt multi de populo <name ref="#Israel">israel</name> deinde blasphemantes
+              <lb ed="#P" n="19"/>prima opinio fuit antiquorum incipiens a tempore prophetarum dicentium quod a summo caelorum 
+              <lb ed="#P" n="20"/>usque ad terram quicquid contingit in universo mundo contingit simpliciter a casu <pc type="virgula">/</pc> Ita quod 
+              <lb ed="#P" n="21"/>isti imaginati sunt quod deus in seipso et de seipso sufficienter delectatur nec habet curam de rebus extrinsecis 
+              <lb ed="#P" n="22"/>sed effectus omnes qui fiunt sunt a casu et fiunt secundum causales applicationes rerum <pc type="virgula">/</pc> et isti 
+              <lb ed="#P" n="23"/>se resolvunt ad athomalia quae diverso modo combinata constituunt diversas species rerum 
+              <lb ed="#P" n="24"/>et istam viam dicit <name ref="#Maimonides">rabbi moyses</name> secuti sunt multi de populo <name ref="#Israel">israel</name> deinde blasphemantes
             </p>
             <p xml:id="ppra-l96-siodid">
               <pc type="pilcrow"/> Sed 
-              <lb ed="#P" n="24"/>ista oppinio nedum est contra sacram scripturam seu doctrinam et fidem orthodoxam verum etiam contra philosophiam 
-              <lb ed="#P" n="25"/>nam quod sit suppremus princeps <pc type="punctus"/> et non curet de regimine pollitiae est veritati atque 
-              <lb ed="#P" n="26"/>sapientiae dissonum Ideo dicebat <ref xml:id="ppra-l96-Rd1e320"><name ref="#Aristotle">aristoteles</name></ref> <quote xml:id="ppra-l96-Qd1e512" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">entia nolunt male regi solus ergo princeps</quote>                
-              <lb ed="#P" n="27"/>Et ista via secutus est epycurus et sui sequaces <pc type="punctus"/> Sed quia posuit felicitatem consistere in 
-              <lb ed="#P" n="28"/>voluptatibus ideo ut voluptatibus locum daret dicit deum non curare de rebus quam oppinionem 
-              <lb ed="#P" n="29"/>impugnat <ref xml:id="ppra-l96-Rd1e340"><name ref="#Lactantius">Latentius</name> in libro super hoc editus <pc type="virgula">/</pc> qui intitulatur <title ref="#OnTheAngerOfGod">liber de ira dei</title></ref>
+              <lb ed="#P" n="25"/>ista oppinio nedum est contra sacram scripturam seu doctrinam et fidem orthodoxam verum etiam contra philosophiam 
+              <lb ed="#P" n="26"/>nam quod sit suppremus princeps <pc type="punctus"/> et non curet de regimine pollitiae est veritati atque 
+              <lb ed="#P" n="27"/>sapientiae dissonum Ideo dicebat <ref xml:id="ppra-l96-Rd1e320"><name ref="#Aristotle">aristoteles</name></ref> <quote xml:id="ppra-l96-Qd1e512" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">entia nolunt male regi solus ergo princeps</quote>                
+              <lb ed="#P" n="28"/>Et ista via secutus est epycurus et sui sequaces <pc type="punctus"/> Sed quia posuit felicitatem consistere in 
+              <lb ed="#P" n="29"/>voluptatibus ideo ut voluptatibus locum daret dicit deum non curare de rebus quam oppinionem 
+              <lb ed="#P" n="30"/>impugnat <ref xml:id="ppra-l96-Rd1e340"><name ref="#Lactantius">Latentius</name> in libro super hoc editus <pc type="virgula">/</pc> qui intitulatur <title ref="#OnTheAngerOfGod">liber de ira dei</title></ref>
             </p>
           </div>
           <div xml:id="ppra-l96-Dd1e540">
             <head xml:id="ppra-l96-Hsoasoa">Secunda opinio Aristotelis</head>
             <p xml:id="ppra-l96-soprup">
-              <lb ed="#P" n="30"/> <pc type="pilcrow"/>Secundam opinionem ponit <name ref="#Maimonides">rabbi moyses</name> fuisse <name ref="#Aristotle">aristotelis</name> quod multi non credunt scilicet quod deus 
-              <lb ed="#P" n="31"/>habet providentiam et curam singularem de tota caelesti essentia vel de 5ta essentia <pc type="virgula">/</pc> unde deus habet 
-              <lb ed="#P" n="32"/>singularem curam de corporibus caelestibus a summo caelo usque ad orbem lunae quantum ad species 
-              <lb ed="#P" n="33"/>et individua operationes et motus ideo illa sunt incorporalia sed infra concavum orbis lunae 
-              <lb ed="#P" n="34"/>scilicet in spera activorum et passivorum deus non habet curam nisi de speciebus quod conserventur et quod fiat 
-              <lb ed="#P" n="35"/>continuatio <pc type="virgula">/</pc> non curat tamen utrum per hoc vel hoc individuum Et propter curam quam habet respectu corporum 
-              <lb ed="#P" n="36"/>caelestium quantum ad species et individua ideo sunt aeterna <pc type="punctus"/> Et cum haec propter immediatam curam dei et quia habet 
-              <lb ed="#P" n="37"/>singularem curam in spera activorum et passivorum circa species ideo dicuntur aeternae <pc type="punctus"/> sed quia non habet 
-              <lb ed="#P" n="38"/>curam individuorum specialem ideo corporalia sunt et hic est ramus radicis de antiquitate mundi apud 
-              <lb ed="#P" n="39"/><name ref="#Aristotle">aristotelem</name> quia de quocumque deus habuit curam in particulari illud semper fuit est et erit nec permitteret deus 
-              <lb ed="#P" n="40"/>illud interire
+              <lb ed="#P" n="31"/> <pc type="pilcrow"/>Secundam opinionem ponit <name ref="#Maimonides">rabbi moyses</name> fuisse <name ref="#Aristotle">aristotelis</name> quod multi non credunt scilicet quod deus 
+              <lb ed="#P" n="32"/>habet providentiam et curam singularem de tota caelesti essentia vel de 5ta essentia <pc type="virgula">/</pc> unde deus habet 
+              <lb ed="#P" n="33"/>singularem curam de corporibus caelestibus a summo caelo usque ad orbem lunae quantum ad species 
+              <lb ed="#P" n="34"/>et individua operationes et motus ideo illa sunt incorporalia sed infra concavum orbis lunae 
+              <lb ed="#P" n="35"/>scilicet in spera activorum et passivorum deus non habet curam nisi de speciebus quod conserventur et quod fiat 
+              <lb ed="#P" n="36"/>continuatio <pc type="virgula">/</pc> non curat tamen utrum per hoc vel hoc individuum Et propter curam quam habet respectu corporum 
+              <lb ed="#P" n="37"/>caelestium quantum ad species et individua ideo sunt aeterna <pc type="punctus"/> Et cum haec propter immediatam curam dei et quia habet 
+              <lb ed="#P" n="38"/>singularem curam in spera activorum et passivorum circa species ideo dicuntur aeternae <pc type="punctus"/> sed quia non habet 
+              <lb ed="#P" n="39"/>curam individuorum specialem ideo corporalia sunt et hic est ramus radicis de antiquitate mundi apud 
+              <lb ed="#P" n="40"/><name ref="#Aristotle">aristotelem</name> quia de quocumque deus habuit curam in particulari illud semper fuit est et erit nec permitteret deus 
+              <lb ed="#P" n="41"/>illud interire
             </p>
             <p xml:id="ppra-l96-seprup">
               <pc type="punctus"/> Sed ex processu <name ref="#Aristotle">aristoteles</name> apparet quod non est verum quod ipse hanc opinionem tenuerit Et probatur ratione
-              <lb ed="#P" n="41"/>quia ut allegatum est in <ref xml:id="ppra-l96-Rd1e383"> 12mo <title ref="#Metaphysics">metaphysicae</title> <name ref="#Aristotle">Aristoteles</name></ref> loquitur dicens <quote xml:id="ppra-l96-Qd1e621" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">Entia nolunt male regi unus ergo princeps</quote>
-              <lb ed="#P" n="42"/>igitur deus est rector universalis pollitiae
+              <lb ed="#P" n="42"/>quia ut allegatum est in <ref xml:id="ppra-l96-Rd1e383"> 12mo <title ref="#Metaphysics">metaphysicae</title> <name ref="#Aristotle">Aristoteles</name></ref> loquitur dicens <quote xml:id="ppra-l96-Qd1e621" source="http://scta.info/resource/aristmet-l12-d1e369@275-287">Entia nolunt male regi unus ergo princeps</quote>
+              <lb ed="#P" n="43"/>igitur deus est rector universalis pollitiae
             </p>
             <p xml:id="ppra-l96-sacsei">
-              <pc type="pilcrow"/>2o arguitur confirmando <pc type="virgula">/</pc> si imaginetur quod maior mundus sit ad modum animalis et species sint membra deus habet curam totius universi igitur habet curam partium 
-              <lb ed="#P" n="43"/>specierum et individuorum
+              <pc type="pilcrow"/>2o arguitur confirmando <pc type="virgula">/</pc> si imaginetur quod maior mundus sit 
+              <lb ed="#P" n="44"/>ad modum animalis et species sint membra deus habet curam totius universi igitur habet curam partium 
+              <lb ed="#P" n="45"/>specierum et individuorum
             </p>
             <p xml:id="ppra-l96-tdpeop">
               <pc type="pilcrow"/> 3o principaliter deus agit respectu cuiuscumque individui ad eius productionem 
-              <lb ed="#P" n="44"/>et conservationem, igitur cognoscit eum <pc type="punctus"/> antecedens apparet quia prima causa respectu cuiuscumque effectus prius influit 
-              <lb ed="#P" n="45"/>Et cum <name ref="#Aristotle">aristoteles</name> ponat primam causam in genere causae efficientis tunc cognoscit individua et non agit a casu quia agit 
-              <lb ed="#P" n="46"/>ut artifex summus igitur individua producit et ordinat principalissime
+              <lb ed="#P" n="46"/>et conservationem, igitur cognoscit eum <pc type="punctus"/> antecedens apparet quia prima causa respectu cuiuscumque effectus prius influit 
+              <lb ed="#P" n="47"/>Et cum <name ref="#Aristotle">aristoteles</name> ponat primam causam in genere causae efficientis tunc cognoscit individua et non agit a casu quia agit 
+              <lb ed="#P" n="48"/>ut artifex summus igitur individua producit et ordinat principalissime
             </p>
             <p xml:id="ppra-l96-qacfnc">
               <pc type="pilcrow"/>4to arguitur confirmando quonaim secundum <name ref="#Aristotle">philosophum</name> 
-              <lb ed="#P" n="47"/>instrumentalia dei regunt mundum inferiorem scilicet caelum intelligentiae et corpora caelestia regunt ista <unclear>inferiora</unclear> 
-              <lb ed="#P" n="48"/>modo cum instrumentum non agat nisi virtute causae cuius est instrumentum sequitur quod deus principaliter ductor instrumenti 
-              <lb ed="#P" n="49"/>quod dirigat caelum et particulariter influat in ista inferiora Et per consequens tollendo providentiam divinam respectu individuorum 
-              <lb ed="#P" n="50"/>secundum opinionem <name ref="#Aristotle">aristotelis</name> esset contra ipsummet quia videtur magis nostrae consonare
+              <lb ed="#P" n="49"/>instrumentalia dei regunt mundum inferiorem scilicet caelum intelligentiae et corpora caelestia regunt ista <unclear>inferiora</unclear> 
+              <lb ed="#P" n="50"/>modo cum instrumentum non agat nisi virtute causae cuius est instrumentum sequitur quod deus principaliter ductor instrumenti 
+              <lb ed="#P" n="51"/>quod dirigat caelum et particulariter influat in ista inferiora Et per consequens tollendo providentiam divinam respectu individuorum 
+              <lb ed="#P" n="52"/>secundum opinionem <name ref="#Aristotle">aristotelis</name> esset contra ipsummet quia videtur magis nostrae consonare
             </p>
           </div>
           <div xml:id="ppra-l96-Dd1e688">
             <head xml:id="ppra-l96-Htoptop">Tertio opinio</head>
             <p xml:id="ppra-l96-toercs">
               <pc type="pilcrow"/>3a opinio est quam <name ref="#Maimonides">rabbi moyses</name> 
-              <lb ed="#P" n="51"/>dicit esse mantorum quos ipse vocat <unclear>sentientes</unclear> et est talis scilicet quod nihil contingit a casu in isto universo nec
+              <lb ed="#P" n="53"/>dicit esse mantorum quos ipse vocat <unclear>sentientes</unclear> et est talis scilicet quod nihil contingit a casu in isto universo nec
               <pb ed="#P" n="96-v"/>
               <lb ed="#P" n="1"/>quantum ad universalia nec quantum ad individua <pc type="punctus"/> et ista positio coincidit cum fide <unclear>materia</unclear> <pc type="virgula">/</pc> quia nihil fit 
               <lb ed="#P" n="2"/>a casu respectu primae causae <pc type="punctus"/> sed tantummodo respectu causarum 2arium
@@ -308,16 +309,17 @@
           <div xml:id="ppra-l96-Dd1e944">
             <head xml:id="ppra-l96-Hqoiquoi">Quinta opinio Iudaeorum</head>
             <p xml:id="ppra-l96-qoesqm">
-              <pc type="pilcrow"/> 5a oppinio est <name ref="#Jews">iudaeorum</name> quae resolvit se ad naturalia cuiuslibet speciei <pc type="punctus"/> Ita quod sicut homo exercet suas operationes 
-              <lb ed="#P" n="45"/>ita aliae species animalium Et videtur dicere ista oppinio quod generaliter providentia omnium est in hac quod deus 
-              <lb ed="#P" n="46"/>reddet unicuique secundum quod meruerit et allegatur in scriptura videlicet super illo passu <quote source="http://scta.info/resource/ps24_10">universae 
-              <lb ed="#P" n="47"/>viae domini iudicia</quote> Et ex hoc dicunt quod deus reddet unicuique iuxta opera sua Et quando 
-              <lb ed="#P" n="48"/>dicitur de innocentibus qui multa mala patiuntur Ista opinio dicit quod deus nonquam faceret 
-              <lb ed="#P" n="49"/>innocentem pati nisi demeruisset <pc type="punctus"/> sed sua demerita latent nos <pc type="punctus"/> <pc type="pilcrow"/>De malis autem qui 
-              <lb ed="#P" n="50"/>exaltantur et habent multa bona temporalia dicit oppinio quod non haberent aliquam prosperitatem 
-              <lb ed="#P" n="51"/>nisi propter sua merita <pc type="punctus"/> sed illa etiam latent nos <pc type="pilcrow"/> unde stat bene illos quos infames 
-              <lb ed="#P" n="52"/>reputamus per sua merita quae sunt nobis ignota exaltari <pc type="pilcrow"/>Sed quicquis ista oppinio non bene 
-              <lb ed="#P" n="53"/>consonat experientiae ut de innocentibus quos fecit <name ref="#Herod">herodes</name> <unclear>aliae?mgenita sive ascalo?ti</unclear> interfici
+              <pc type="pilcrow"/> 5a 
+              <lb ed="#P" n="45"/>oppinio est <name ref="#Jews">iudaeorum</name> quae resolvit se ad naturalia cuiuslibet speciei <pc type="punctus"/> Ita quod sicut homo exercet suas operationes 
+              <lb ed="#P" n="46"/>ita aliae species animalium Et videtur dicere ista oppinio quod generaliter providentia omnium est in hac quod deus 
+              <lb ed="#P" n="47"/>reddet unicuique secundum quod meruerit et allegatur in scriptura videlicet super illo passu <quote source="http://scta.info/resource/ps24_10">universae 
+              <lb ed="#P" n="48"/>viae domini iudicia</quote> Et ex hoc dicunt quod deus reddet unicuique iuxta opera sua Et quando 
+              <lb ed="#P" n="49"/>dicitur de innocentibus qui multa mala patiuntur Ista opinio dicit quod deus nonquam faceret 
+              <lb ed="#P" n="50"/>innocentem pati nisi demeruisset <pc type="punctus"/> sed sua demerita latent nos <pc type="punctus"/> <pc type="pilcrow"/>De malis autem qui 
+              <lb ed="#P" n="51"/>exaltantur et habent multa bona temporalia dicit oppinio quod non haberent aliquam prosperitatem 
+              <lb ed="#P" n="52"/>nisi propter sua merita <pc type="punctus"/> sed illa etiam latent nos <pc type="pilcrow"/> unde stat bene illos quos infames 
+              <lb ed="#P" n="53"/>reputamus per sua merita quae sunt nobis ignota exaltari <pc type="pilcrow"/>Sed quicquis ista oppinio non bene 
+              <lb ed="#P" n="54"/>consonat experientiae ut de innocentibus quos fecit <name ref="#Herod">herodes</name> <unclear>aliae?mgenita sive ascalo?ti</unclear> interfici
               <pb ed="#P" n="97-r"/>
               <lb ed="#P" n="1"/>in nativitate salvatoris christi
             </p>

@@ -23,16 +23,12 @@
             <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-snoaee"/>
           </assertions>
         </p>
-        <!--
-            Doesn't seem present 
-            <p xml:id="ppra-l107-iceeee">
-            <lb ed="#P"/><pc type="pilcrow"/>
-            Item, 
-            capitula 
-            evangelii gestata vel addita vel prolata inveniuntur 
-            profuisse pluribus igitur verbis attribuenda est 
-            <sic>est</sic> efficacia.
-          </p>-->
+        <p xml:id="ppra-l107-iceeee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l107-iceeee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l107-iceeee"/>
+          </assertions>
+        </p>
         <p xml:id="ppra-l107-qisgaa">
           <assertions>
             <assertion property="isRelatedTo" target="http://scta.info/resource/l107-qisgaa"/>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 109, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 109, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-05-01">May 01, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-05-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio109">
+        <head xml:id="ppra-l109-Hldlldl">Lectio 109, de Libertate</head>
+        <div xml:id="ppra-l109-Dd1e109">
+          <head xml:id="ppra-l109-Hrqeecf">Recapitulatio: quattuor errores circa fatum</head>
+          <p xml:id="ppra-l109-eplafm">
+            <lb ed="#P" n="9"/>Consequenter postquam visum est de materia fatorum et de errore gentilium quadruplice quorum primus 
+            <lb ed="#P"/>error fuit de causis superioribus effectus constituere in esse sicut <name>alkindi</name> et <name>iulii</name> <pc type="virgula">/</pc> 2us 
+            <lb ed="#P"/>error dicentium ex immobilitate divinae providentiae <unclear>inevictanter</unclear> omnes effectus evenire <pc type="pilcrow"/> 3us error 
+            <lb ed="#P"/>gentilium <pc type="virgula">/</pc> ex fatalium deorum seminis immutabilibus necessario cuncta evenire <pc type="pilcrow"/> 4us philosophorum resolventium 
+            <lb ed="#P"/>contingentiam ad imperfectionem materiae quae non potest sufficienter immutari primo et semper sicut corporum caelestium 
+          </p>
+          <p xml:id="ppra-l109-eqacla">
+            <lb ed="#P"/>Et sic consequenter tales antiqui philosophi triplicem rerum seriem posuerunt <pc type="punctus"/> nam posuerunt 
+            <lb ed="#P"/>unam intelligentiam quam vocaverunt <unclear>ymermenem</unclear> in qua dicebant esse rerum semina deinde 2o
+            <lb ed="#P"/>in causis subordinantibus vocaverunt necessitatem et in qua res tamquam germeni <pc type="virgula">/</pc> 3o vocaverunt gradum 
+            <lb ed="#P"/>in entibus corruptibilibus et <unclear>mu?bus</unclear> et sic vocaverunt tamquam textura vel ordinem vel amplexum 
+            <lb ed="#P"/>Et sic fixerunt 3es deas quae parce dicuntur apud ipsos videlicet <name xml:id="ppra-l109-Nd1e118">clotho</name> <name xml:id="ppra-l109-Nd1e120">lacensis</name> <name xml:id="ppra-l109-Nd1e122">atropos</name>.
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e136">
+          <head xml:id="ppra-l109-Hqerqer">Quintus error</head>
+          <p xml:id="ppra-l109-htqned">
+            
+            Hiis tamen 
+            quattuor erroribus additur alius error negantium 
+            propter Radicem negationis, nam antiqui philosophorum 
+            ut <name xml:id="ppra-l109-Nd1e133">epicula</name>, <name xml:id="ppra-l109-Nd1e135">anaxagoras</name> negaverunt subordinatione 
+            causarum, et dixerunt omnia in 
+            hoc mundo contingere et nihil necessario evenire, 
+            <pb ed="#SV" n="331-r"/>
+            <cb ed="#SV" n="a"/>
+            ideo fatum nihil esse dicebant.
+          </p>
+          <p xml:id="ppra-l109-eehilp">
+            Et ex hac radice negaverunt fatum, 
+            et licet ista conclusio potest concedi 
+            quantum ad mentem eorum, 
+            nihil tamen eorum radix est erronea. 
+            Dicitur tamen quod nihil est fatum  
+            quia dicit 
+            <cit>
+              <ref xml:id="ppra-l109-Rd1e158">
+                <name xml:id="ppra-l109-Nd1e148" ref="#GregoryGreat">Gregorius</name> in <title>Homelia Epyphaniae</title>
+              </ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            absit a mentibus fidelium quod aliquid esse fatum 
+            dicant intelligitur tamen haec auctoritas secundum modus 
+            prius enumeratos et ad hoc 
+            <ref xml:id="ppra-l109-Rd1e171">
+              <name xml:id="ppra-l109-Nd1e159" ref="#Augustine">Augustinus</name> 
+              quinto 
+              <title ref="#CityOfGod">De civitate Dei</title>
+            </ref> 
+            ait 
+            <cit>
+              <quote xml:id="ppra-l109-Qd1e182" source="http://scta.info/resource/adcd-l5-d1e664@52-70">
+                si quis potestatem vel virtutem dei nomine 
+                fati appellet sententiam teneat et linguam corrigat
+              </quote>
+              <bibl>
+                <name>Augustinus</name>,
+                <title>De civitate Dei</title>, 
+                V, 1, 1
+              </bibl>
+            </cit> 
+            Et si fiat instantia
+            quia usus est 
+            <cit>
+              <ref xml:id="ppra-l109-Rd1e197">
+                <name xml:id="ppra-l109-Nd1e183" ref="#Boethius">Boetius</name>
+                ut ipse ait in 
+                Vo <title ref="#Consolation">de consolatione</title>, 
+                prosa sexta
+              </ref>
+            </cit>, 
+            hic dicitur quod 
+            <name xml:id="ppra-l109-Nd1e191" ref="#Boethius">Boecius</name> usus est poetico more 
+            quia ibi loquitur 
+            poetice.
+          </p>
+          <p xml:id="ppra-l109-sdqnep">
+            Secundo dicitur quod licet apud vulgus et 
+            simplices usus fati sit periculosus ne coincident 
+            cum sententiis gentilium Inter cum litteratos et doctos 
+            nullum est periculum.
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e215">
+          <head xml:id="ppra-l109-Hqfmibs">Quod fatum multipliciter potest accipi in bona significatione</head>
+          <p xml:id="ppra-l109-uneibs">
+            Ubi notandum est quod fatum multipliciter 
+            potest accipi in bona significatione.
+          </p> 
+          <div xml:id="ppra-l109-Dd1e223">
+            <head xml:id="ppra-l109-Hpafpaf">Prima acceptatio fati</head>
+            <p xml:id="ppra-l109-uugsdf">
+              Unde ut 
+              <ref xml:id="ppra-l109-Rd1e230">
+                <name xml:id="ppra-l109-Nd1e216" ref="#WilliamOfParis">Guillelmus Parisiensis</name>
+              </ref> 
+              ait 
+              <cit>
+                <quote xml:id="ppra-l109-Qd1e238">fatum dicitur a for faris</quote>
+                <bibl>XXX</bibl>
+              </cit>. 
+              Et isto modo 
+              potest dici de deo quia summe competit ei etiam verbum omnium 
+              expressivum verbum quid essentiale conveniens toti 
+              trinitati verbum <unclear>nocionale</unclear> quod convenit filio et 
+              sic tota divina essentia posset dici fatum omnia exprimens 
+              et finis. 
+              Unde in 
+              <ref xml:id="ppra-l109-Rd1e248">
+                <title ref="#ps">Psalmo</title>
+              </ref>
+              habetur 
+              <cit>
+                <quote xml:id="ppra-l109-Qslesle" source="http://scta.info/resource/ps61_12">
+                  semel locutus est
+                </quote>
+              </cit> 
+              in sancto, nam appropriate convenit filio. 
+              Unde 
+              <ref xml:id="ppra-l109-Rd1e261">
+                <title ref="#io">Ioannes</title> primo
+              </ref>
+              <cit>
+                <quote xml:id="ppra-l109-Qpqoofs" source="http://scta.info/resource/io1_3">
+                  per quem omnia facta sunt
+                </quote>
+              </cit>, 
+              et 
+              <ref xml:id="ppra-l109-Rd1e273">
+                <title ref="#hebr">Ad Hebraeos</title> 
+                primo
+              </ref>
+              <cit>
+                <quote xml:id="ppra-l109-Qpqffes" source="http://scta.info/resource/hebr1_2">
+                  per quem fecit et saecula
+                </quote>
+              </cit> 
+              nam maxime filio attribuitur 
+              rerum executio ad extra 
+              et sic dicitur fatum.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e287">
+            <head xml:id="ppra-l109-Hsafsaf">Secunda acceptatio fidei</head>
+            <p xml:id="ppra-l109-smsdcd">
+              Secundo modo 
+              sumitur factum pro divina providentia 
+              quae est rerum in summum finem directiva 
+              ut tangit 
+              <cit>
+                <ref xml:id="ppra-l109-Rd1e296">
+                  <name xml:id="ppra-l109-Nd1e280" ref="#Augustine">Augustinus</name> 
+                  in quinto <title ref="#CityOfGod">De civitate Dei</title>
+                </ref>
+                <bibl>XXX</bibl>
+              </cit>.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e311">
+            <head xml:id="ppra-l109-Htaftaf">Tertia acceptatio fati</head>
+            <p xml:id="ppra-l109-tmstou">
+              Tertio modo sumitur pro <unclear>e?u[?]</unclear> divinae providentiae 
+              vel executione. unde imaginandum quod divina providentia 
+              est seculum intelligibile et <unclear>mondus[?]</unclear> archetypus omnes 
+              effectus Repraesentans et in quo Relucet totus <unclear>mondus[?]</unclear> 
+              et totus ordo universi.
+            </p>
+            <p xml:id="ppra-l109-ciecap">
+              Consequenter imaginandum 
+              est quod huiusmodi ars explicatur successive ad extra 
+              secundum varia tempora et loca, et secundum hoc divina 
+              providentia est quasi artificatum, nam Res quae producuntur 
+              eo ordine producitur quo conceptae sunt in mente divina 
+              nam Rerum explicatio vocatur isto modo executio 
+              divinae providentiae ad extra quae est Rerum mutabilium se 
+              ipsa immutabili explicatio et effectuum omnium 
+              ad extra provida executio. 
+              Unde 
+              <ref xml:id="ppra-l109-Rd1e330" corresp="#l109-Qfeirmd">
+                <name xml:id="ppra-l109-Nd1e310" ref="#Boethius">Boetius</name> describit 
+                fatum in quarto <title ref="#Consolation">de consolatione</title></ref> 
+              nisi allegatum est 
+              <cit>
+                <quote xml:id="ppra-l109-Qfeirmd" source="http://scta.info/resource/hy7y6y-d1e75-d1e625">
+                  fatum 
+                  est inhaerens rebus mobilibus dispositio per quam 
+                  providentia suis quaeque nectit ordinibus
+                </quote>
+                <bibl>XXX <!-- Boethius, de Consolatio IV --></bibl>
+              </cit>,
+              non quod sit 
+              dispositio superaddita, 
+              sed est dispositio per quam ipsa res 
+              <cb ed="#SV" n="b"/><!--SV331rb-->
+              sic disposita quidquid contingit esse optime ordinat 
+              licet relatio non sit nobis nota. Unde licet quod deus aliquando 
+              utatur peccatis meliora eliciendo non <unclear>promo?do[?]</unclear> 
+              vel incitando creaturam ad peccatum.
+            </p>
+            <p xml:id="ppra-l109-eisois">
+              Et ideo secundum 
+              hanc acceptationem tota latitudo omnium operationum quae fiunt 
+              diceretur esse fatum et sic temporalis explicatio Rerum 
+              ad extra diceretur esse fatum et non esset aliud 
+              nisi res sic ordinante inter se.
+            </p>
+            <p xml:id="ppra-l109-eihevf">
+              Et iuxta hanc 
+              acceptationem non stat aliquid fieri et non fieri a 
+              fato hoc modo quia si fiat a divina providentia, tunc 
+              fiat a fato et adhuc praeter omnes Res quae 
+              producitur vocaretur fatum illud quod fit secundum debitum 
+              ordinem ad suas causas et sic possibile est quod aliquid 
+              evadat ordinationem divinae providentiae quantum ad hoc et 
+              quandoque causae sic ordinatae respectu effectus vocantur fatum.
+            </p>
+            <p xml:id="ppra-l109-scsenl">
+              Secunda conclusio stat aliquid fieri contra fatum Recipiendo 
+              fatum tertio modo. patet quia aliquis erit effectus divinae 
+              providentiae qui potest non fore igitur stat aliquid fieri 
+              contra fatum secundo modo captum, nam sortes potest non facere 
+              illud quod fatatum est ei fieri et hoc est clarum ut 
+              sicut diceretur ordinatum esse quod <name xml:id="ppra-l109-Nd1e341" ref="#Sortes">Sortes</name> levaret festucam 
+              nam certum est quod sortes potest levare et non levare.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e370">
+            <head xml:id="ppra-l109-Hqafqaf">Quarta acceptatio fati</head>
+            <p xml:id="ppra-l109-qaensf">
+              Quarta acceptatio est ut fatum dicatur explicatio 
+              divinae providentiae circa Res tempori subiectas et ista 
+              acceptio est strictior quam praecedens. nam hoc modo 
+              illa quae subiacent aevo non subiacent fato et 
+              illo modo capit 
+              <ref xml:id="ppra-l109-Rd1e377">
+                <name xml:id="ppra-l109-Nd1e356" ref="#Boethius">Boecius</name>
+              </ref> 
+              ubi dictum est dicens in 
+              hanc modum superne menti <unclear>haberit</unclear> firmitate motu 
+              carens fati quoque superegreditur necessitate de differentiis 
+              Rerum dicitur quod aliqua res est aeternitas alia temporalis 
+              alia participans utrumque unde 
+              <name xml:id="ppra-l109-Nd1e362" ref="#Boethius">Boecius</name> 
+              imaginatur quod deus 
+              potest comparari centro quod immobile quantumcumque velociter 
+              circa ipsum orbis movetur, 
+              remanet tamen esse 
+              totum immobile, et eodem modo posset deus comparari 
+              possibilis deinde orbis descripti supra centrum partis 
+              a centro magis distantes velocius moventur 
+              et partes minus distantes tardius moventur. unde 
+              ipse imaginatur quod posset dari latitudo distantiae 
+              a centro ultra quam quidquid est temporale et est tantae 
+              subiectione subiectum quod quidquid est ibi temporale 
+              et temporaliter mutabile et ita quanto signarent partes orbis 
+              magis distantes a centro tanto esset 
+              mutabiliores, et quanto aliquae partes magis accedunt 
+              ad centrum tanto magis respiciunt immobilitatem et nobilitatem ut apparet in exemplo 
+              Rotae, nam eius extremitates distantes a centro 
+              sunt magis mutabiles et minus distantes 
+              minus mutabiles. unde darentur partes Rotae quae mediae 
+              <pb ed="#SV" n="331-v"/>
+              <cb ed="#SV" n="a"/>
+              distinguentis mutabilia ab aeternis. unde partes appropinquantes 
+              centro dicuntur aeternae et non subiacent 
+              fato.
+            </p>
+            <p xml:id="ppra-l109-esines">
+              Et secundum illum modum Recipiendi fatum, sit 
+              ista propositio stat quod liberum arbitrium non subiaceat 
+              fato patet quia si superne menti haeserit etc., igitur stat 
+              aliquem se absolvere a temporalibus et quod huiusmodi 
+              a motibus communibus se alienet et quod nullo modo motus temporalis experiatur et talis sit absolutus 
+              a temporalibus habet vitam quietativa propter inhaesionem 
+              ad centrum et ad immobile bonum propinquitatem, iuxta 
+              hoc intelligitur dictum <name xml:id="ppra-l109-Nd1e372" ref="#Virgil">virgilii</name> in libro <title>de Iurgiis</title> 
+              felix qui potuit Rerum cognoscere causas, ad 
+              motus bonos mutabile fatum subiecit pedibus 
+              et secundum hoc <name xml:id="ppra-l109-Nd1e377" ref="#Aristotle">philosophus</name> dicit quod fatum non imponit necessitatem 
+              licet sit exorabile quantum ad causas naturales 
+              et quantum ad hoc salvantur poetae dicentes quod fata 
+              necessitatis id est, quantum ad operationes causarum naturalium 
+              cum hoc non stat quod intellectus supra agentia naturalia elevetur 
+              nec eis subicitur.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e407">
+            <head xml:id="ppra-l109-Hqnfqnf">Quinta acceptatio fati</head>
+            <p xml:id="ppra-l109-xxxyyy">
+              Quinta acceptio fati est 
+              quia accipitur pro naturali causarum influxu et earum necessaria 
+              convexione inter se et ad <unclear>exemplum</unclear> necessitate naturae quantum 
+              est ex parte huiusmodi agentium in quarum causarum 
+              consideratione est maxima intellectus perfectio.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e419">
+            <head xml:id="ppra-l109-Hsxfsxf">Sexta acceptatio fati</head>
+            <p xml:id="ppra-l109-saecvf">
+              Sexta acceptio 
+              est iuxta <unclear>perpareterum</unclear> acceptationem ut ait 
+              quid nomine 
+              <name xml:id="ppra-l109-Nd1e402" ref="#AlexanderAphrodisias">Alexander Afrigeseus</name> 
+              non vocant 
+              fatum naturale Rei dispositione quantum ad effectus de 
+              per se consequendos vel nati consequi fatales 
+              appellantur ut ex naturali dispositione alicuius nati 
+              et ex <unclear>completione[?]</unclear> periodus suae vitae est tanta quod durabit 
+              usque ad instans <c>a</c> et quod colericus ipse incitabitur 
+              ad iram et ex naturali dispositione inclinabitur 
+              ad iracundiam et talem inclinationem vocant 
+              fatum et effectus inde consequentes vocantur 
+              fatales.
+            </p>
+            <p xml:id="ppra-l109-hteacv">
+              Hic tamen est notandum quod fatum non est 
+              causa necessaria effectus fatalis, immo contingenter 
+              procedit a fato et haec apparet tam ex parte corporis 
+              quam ex parte animae, nam ex naturali dispositione <name xml:id="ppra-l109-Nd1e412" ref="#Sortes">sortis</name> 
+              et corporis <unclear>completione[?]</unclear> ipse deberet vivere per decem 
+              annos poterit tamen malum Regimen elicere in tantum 
+              quod abbreviabit suam periodum vel poterit ex bono 
+              consilio meliorem vitam elicere et inde prorogare 
+              vitam suam et periodum, vel licet a natura sit colericus 
+              et incitabilis ad iram possibile est quod ex conversatione 
+              <cb ed="#SV" n="331vb"/>cum bonis hominibus ad contrarium habitaretur et quod efficiatur 
+              mansuetus, et sic effectus fatalis contingenter procedit 
+              a fato, ex dictis apparet in exemplo de <name xml:id="ppra-l109-Nd1e419" ref="#Socrates">socrate</name> qui erat 
+              male inclinatus et ei fuit dictum qui tamen Respondit 
+              quod fato verum erat quia nisi per virtutes correxisset 
+              erat ad malum inclinatus et allegat <name xml:id="ppra-l109-Nd1e422" ref="#Aristotle">aristotelem</name> 
+              in primo <title ref="#Meteorology">metheologicorum</title> secundum aliam translationem quam illa de 
+              praesenti, nam dicit quod <unclear>hyereius[?]</unclear> debet esse fundenda secundum fatata 
+              tempora, id est, secundum temporum naturalem dispositionem. secundo in libro <title>de 
+                auditu</title> qui vocatur liber quintus <title ref="#Physics">physicarum</title>, quia liber auditus secundum 
+              antiquos vocatur liber <title ref="#Physics">physicarum</title>, dicit ibi <name xml:id="ppra-l109-Nd1e439" ref="#Aristotle">aristoteles</name> 
+              quod generationes violente non sunt fatatae et sic secundum 
+              illum <name xml:id="ppra-l109-Nd1e443" ref="#AlexanderAphrodisias">alexandrum</name> apparet quod fatum est naturalis dispositio hominis 
+              tam ex parte corporis quam ex parte animae, quia ad dispositionem 
+              corporis bonam secundum communem cursum sequitur bona 
+              dispositio animae et ista acceptio non est fidei dissona, 
+              immo aliqualiter consonare videtur.
+            </p>
+            <p xml:id="ppra-l109-shfpds">
+              Sed huic fit 
+              additio quod fatum est inclinatio quae esset secundum institutum 
+              naturae communis, et secundum hoc salvarentur multa dicta poetarum 
+              et vulgarium quia provisione divina specialis 
+              est cura naturae communi praeter specialem curam quae esset de 
+              conservatione principum ad corrigendum defectus 
+              in <unclear>macoesmo[?]</unclear> et hanc <unclear>solicitationem[?]</unclear> habet natura particularum 
+              respectu suarum partium quia insurgente morbo statim concurrit 
+              ad providendum de sanitate.
+            </p>
+            <p xml:id="ppra-l109-udcevf">
+              Unde de <name xml:id="ppra-l109-Nd1e456" ref="#JuliusCaesar">cesare</name> legitur 
+              quod pauper eius <unclear>avuclas[?]</unclear> <unclear>formiendo[?]</unclear> valde propter procellas 
+              maris agitantes nauem in qua cum <name xml:id="ppra-l109-Nd1e463" ref="#JuliusCaesar">Caesare</name> erat dicebat, <name xml:id="ppra-l109-Nd1e466" ref="#JuliusCaesar">Caesarem</name> vehis  quasi diceret 
+              quod sollicitudo est naturae ad <name xml:id="ppra-l109-Nd1e470" ref="#JuliusCaesar">Caesaris</name> proservationem, 
+              et sic solvuntur effectus mirabiles qui vocantur 
+              fatales ut de equo <name xml:id="ppra-l109-Nd1e473" ref="#JuliusCaesar">Iulii Caesaris</name> et <unclear>ense[?]</unclear> qui 
+              sunt reducibiles ad naturam communem et isti effectus vocantur 
+              fatales.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e517">
+            <head xml:id="ppra-l109-Hspfspf">Septima acceptatio fati</head>
+            <p xml:id="ppra-l109-ssfsfr">
+              Septimo sumitur fatum pro conditionibus 
+              rerum naturalium et suis proprietatibus intrinsecis de quibus est 
+              dictum quod rerum productarum conditio naturalis est quod habeat 
+              termen a quo cum producuntur de non esse ad esse et 
+              medium quo perveniant ad finem vitae et termen 
+              ad quem qui est corruptio rei et illud aptatur tribus 
+              partis <name xml:id="ppra-l109-Nd1e487" ref="#Clotho">Cloto</name> correspondet terminus a quo, 
+              <name xml:id="ppra-l109-Nd1e490" ref="#Lachesis">Lcesi</name> correspondet medium, 
+              <name xml:id="ppra-l109-Nd1e493" ref="#Atropos">Autropos</name> correspondet corporo seu finis rei.
+            </p>
+          </div>
+          <div xml:id="ppra-l109-Dd1e535">
+            <head xml:id="ppra-l109-Hoafoaf">Octava acceptatio fati</head>
+            <p xml:id="ppra-l109-ocfccl">
+              Octavo, 
+              capitur fatum prout est dispositiones rerum et hoc secundum 
+              scripturae testimonium quod creatura producta sit in numero 
+              et mensura et pondere, in numero quantum ad substantiam 
+              <pb ed="#SV" n="332-r"/>
+              <cb ed="#SV" n="a"/>
+              et speciem et huic correspondent <name xml:id="ppra-l109-Nd1e509" ref="#Clotho">Cloto</name>. 
+              Deinde quantum ad mensuram 
+              durationis et huic correspondet <name xml:id="ppra-l109-Nd1e512" ref="#Lachesis">Lacesis.</name> 
+              Deinde quantum 
+              ad pondus finis et corruptionis et huic correspondent 
+              <name xml:id="ppra-l109-Nd1e515" ref="#Atropos">Autropos</name> 
+              secundum hoc posset Reduci ad tria principia Rerum naturalium 
+              ut apparet in 
+              <cit>
+                <ref xml:id="ppra-l109-Rd1e558">
+                  primo 
+                  <title ref="#Physics">Physicarum</title>
+                </ref>
+                <bibl>XXX</bibl>
+              </cit>. 
+              tertio posset reduci ad certum 
+              statum et declinationem correspondenter ad tres parcas. quarto hoc 
+              posset Reduci ad tres dementiones ut primae corresponderent 
+              longitudo, secundae latitudo tertiae profunditas, et ideo philosophi dixerunt 
+              omnes effectus Reduci in dimentiones et conformiter 
+              poetae haec innuerunt et dixerunt. quinto hoc posset 
+              Reduci in numeros cubicos ubi Radix protracta producit 
+              quadratum. deinde producit cubum et ultra non est aliud 
+              et sic est 
+              <name xml:id="ppra-l109-Nd1e530" ref="#Atropos">Autropos</name> 
+              et quadrato correspondent 
+              <name xml:id="ppra-l109-Nd1e533" ref="#Clotho">Cloco</name> 
+              et cubo correspondent 
+              <name xml:id="ppra-l109-Nd1e536" ref="#Lachesis">Lacesis</name>.
+            </p> 
+            <p xml:id="ppra-l109-arhiev">
+              Aliae rerum habitudines possent applicari 
+              hic et maxime illae quae concernunt philosophiam quae sub 
+              illis vocabulis describerentur. 
+              Sed vulgus non capiens 
+              horum intellectum et sententiam cecidit in errores varios.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+    </body>
+  </text>
+</TEI>
