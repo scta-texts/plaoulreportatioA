@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio109">
+      <head xml:id="ppra-l109-Hldlldl">Lectio 109, de Libertate</head>
+      <div xml:id="ppra-l109-Dd1e109">
+        <head xml:id="ppra-l109-Hrqeecf">Recapitulatio: quattuor errores circa fatum</head>
+        <p xml:id="ppra-l109-eplafm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-eplafm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-eplafm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l109-eqacla">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-eqacla"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-eqacla"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l109-Dd1e136">
+        <head xml:id="ppra-l109-Hqerqer">Quintus error</head>
+        <p xml:id="ppra-l109-htqned">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-htqned"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-htqned"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l109-eehilp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-eehilp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-eehilp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l109-sdqnep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-sdqnep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-sdqnep"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l109-Dd1e215">
+        <head xml:id="ppra-l109-Hqfmibs">Quod fatum multipliciter potest accipi in bona
+          significatione</head>
+        <p xml:id="ppra-l109-uneibs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l109-uneibs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-uneibs"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l109-Dd1e223">
+          <head xml:id="ppra-l109-Hpafpaf">Prima acceptatio fati</head>
+          <p xml:id="ppra-l109-uugsdf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-uugsdf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-uugsdf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e287">
+          <head xml:id="ppra-l109-Hsafsaf">Secunda acceptatio fidei</head>
+          <p xml:id="ppra-l109-smsdcd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-smsdcd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-smsdcd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e311">
+          <head xml:id="ppra-l109-Htaftaf">Tertia acceptatio fati</head>
+          <p xml:id="ppra-l109-tmstou">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-tmstou"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-tmstou"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-ciecap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-ciecap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-ciecap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-eisois">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-eisois"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-eisois"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-eihevf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-eihevf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-eihevf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-scsenl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-scsenl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-scsenl"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e370">
+          <head xml:id="ppra-l109-Hqafqaf">Quarta acceptatio fati</head>
+          <p xml:id="ppra-l109-qaensf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-qaensf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-qaensf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-esines">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-esines"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-esines"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e407">
+          <head xml:id="ppra-l109-Hqnfqnf">Quinta acceptatio fati</head>
+          <p xml:id="ppra-l109-xxxyyy">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-xxxyyy"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-xxxyyy"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e419">
+          <head xml:id="ppra-l109-Hsxfsxf">Sexta acceptatio fati</head>
+          <p xml:id="ppra-l109-saecvf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-saecvf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-saecvf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-hteacv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-hteacv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-hteacv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-shfpds">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-shfpds"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-shfpds"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-shfpds">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-shfpds"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-shfpds"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e517">
+          <head xml:id="ppra-l109-Hspfspf">Septima acceptatio fati</head>
+          <p xml:id="ppra-l109-ssfsfr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-ssfsfr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-ssfsfr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l109-Dd1e535">
+          <head xml:id="ppra-l109-Hoafoaf">Octava acceptatio fati</head>
+          <p xml:id="ppra-l109-ocfccl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-ocfccl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-ocfccl"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l109-arhiev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l109-arhiev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l109-arhiev"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l109-Dxxxx1">
+        <head xml:id="ppra-l109-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l109-yxxxx3">
+        </p>
+        <p xml:id="ppra-l109-yxxxx4">
+        </p>
+        <p xml:id="ppra-l109-yxxxx5">
+        </p>
+        <p xml:id="ppra-l109-yxxxx6">
+        </p>
+        <p xml:id="ppra-l109-yxxxx7">
+        </p>
+        <p xml:id="ppra-l109-yxxxx8">
+        </p>
+        <p xml:id="ppra-l109-yxxxx9">
+        </p>
+        <p xml:id="ppra-l109-yxxxx10">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
