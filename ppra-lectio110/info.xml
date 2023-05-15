@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio110">
+      <head xml:id="ppra-l110-Hldlldl">Lectio 110, de Libertate</head>
+      <div xml:id="ppra-l110-Dd1e109">
+        <head xml:id="ppra-l110-Hcqaqaf">Circa quintam acceptationem fati</head>
+        <p xml:id="ppra-l110-cqausa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l110-cqausa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-cqausa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l110-dtegec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l110-dtegec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-dtegec"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l110-qdqsam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l110-qdqsam"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-qdqsam"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l110-tctaen">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l110-tctaen"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-tctaen"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l110-Dd1e166">
+        <head xml:id="ppra-l110-Hqepped">Quod executio providentiae est duplex</head>
+        <p xml:id="ppra-l110-pdtcpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l110-pdtcpp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-pdtcpp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l110-Dd1e175">
+        <head xml:id="ppra-l110-Hpcppep">Propositiones circa prima executio providentiae</head>
+        <div xml:id="ppra-l110-Dd1e180">
+          <head xml:id="ppra-l110-Hppoppo">Prima propositio</head>
+          <p xml:id="ppra-l110-peipcn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-peipcn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-peipcn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-eiaqfd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-eiaqfd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-eiaqfd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-diigla">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-diigla"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-diigla"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l110-sciraa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-sciraa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-sciraa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e202">
+          <head xml:id="ppra-l110-Hspospo">Secunda propositio</head>
+          <p xml:id="ppra-l110-spsmfc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-spsmfc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-spsmfc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e211">
+          <head xml:id="ppra-l110-Htpotpo">Tertia propositio</head>
+          <p xml:id="ppra-l110-tpimeo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-tpimeo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-tpimeo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-ppaicu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-ppaicu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-ppaicu"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-spducc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-spducc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-spducc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e240">
+          <head xml:id="ppra-l110-Hqpoqpo">Quarta propositio</head>
+          <p xml:id="ppra-l110-qpqeie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-qpqeie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-qpqeie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e250">
+          <head xml:id="ppra-l110-qnpqnp">Quinta propositio</head>
+          <p xml:id="ppra-l110-qpaeen">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-qpaeen"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-qpaeen"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l110-Dd1e263">
+        <head xml:id="ppra-l110-Hcascas">Corollaria (sequentes ex quinta propositione?)</head>
+        <div xml:id="ppra-l110-Dd1e268">
+          <head xml:id="ppra-l110-Hpcmpcm">Primum corollarium</head>
+          <p xml:id="ppra-l110-eqsvec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-eqsvec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-eqsvec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-eqapmn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-eqapmn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-eqapmn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e282">
+          <head xml:id="ppra-l110-Hscmscm">Secundum corollarium</head>
+          <p xml:id="ppra-l110-ssqcso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-ssqcso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-ssqcso"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e294">
+          <head xml:id="ppra-l110-Htcmtcm">Tertium corollarium</head>
+          <p xml:id="ppra-l110-tsqiem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-tsqiem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-tsqiem"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e303">
+          <head xml:id="ppra-l110-qcmqcm">Quartum corollarium</head>
+          <p xml:id="ppra-l110-sqqmqm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-sqqmqm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-sqqmqm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e313">
+          <head xml:id="ppra-l110-Hqncqnc">Quintum corollarium</head>
+          <p xml:id="ppra-l110-qsqeoe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-qsqeoe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-qsqeoe"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e322">
+          <head xml:id="ppra-l110-Hsxcsxc">Sextum corollarium</head>
+          <p xml:id="ppra-l110-ssqiee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-ssqiee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-ssqiee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e338">
+          <head xml:id="ppra-l110-Hspcspc">Septimum corollarium</head>
+          <p xml:id="ppra-l110-ssqesf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-ssqesf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-ssqesf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e347">
+          <head xml:id="ppra-l110-Hc11ss">Octavum corollarium</head>
+          <p xml:id="ppra-l110-oscuid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-oscuid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-oscuid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e362">
+          <head xml:id="ppra-l110-Hncmncm">Nonum corollarium</head>
+          <p xml:id="ppra-l110-nseucs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-nseucs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-nseucs"/>
+            </assertions>
+          </p>
+          <!--very fuzzy parallel-->
+          <p xml:id="ppra-l110-pheqef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-pheqef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-pheqef"/>
+            </assertions>
+          </p>
+          <!--very fuzzy parallel-->
+          <p xml:id="ppra-l110-sinsio">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-sinsio"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-sinsio"/>
+            </assertions>
+          </p>
+          <!--very fuzzy parallel-->
+          <p xml:id="ppra-l110-tnddno">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-tnddno"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-tnddno"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l110-qspiao">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-qspiao"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-qspiao"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e389">
+          <head xml:id="ppra-l110-Hdcmdcm">Decimum corollarium</head>
+          <p xml:id="ppra-l110-dsomis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-dsomis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-dsomis"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e403">
+          <head xml:id="ppra-l110-Hudcudc">Undecimum corollarium</head>
+          <p xml:id="ppra-l110-xy38aa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l110-xy38aa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l110-xy38aa"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l110-Dxxxx1">
+        <head xml:id="ppra-l110-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l110-xxxxx3">
+        </p>
+        <p xml:id="ppra-l110-xxxxx4">
+        </p>
+        <p xml:id="ppra-l110-xxxxx5">
+        </p>
+        <p xml:id="ppra-l110-xxxxx6">
+        </p>
+        <p xml:id="ppra-l110-xxxxx7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

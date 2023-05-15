@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 110, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 110, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-05-12">May 12, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-05-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio110">
+      <head xml:id="ppra-l110-Hldlldl">Lectio 110, de Libertate</head>
+        <div xml:id="ppra-l110-Dd1e109">
+          <head xml:id="ppra-l110-Hcqaqaf">Circa quintam acceptationem fati</head>
+          <p xml:id="ppra-l110-cqausa">
+            <lb ed="#P"/>Consequenter circa residuum de ordinis causarum acceptatione est videndum videlicet quod nulla 
+            <lb ed="#P"/><unclear>ti</unclear> de necessitate subordinatis 
+          </p>
+          <p xml:id="ppra-l110-dtegec">
+            Et de fato ut est executio divinae providentiae a causis 
+            <lb ed="#P"/>naturaliter concurrentibus vel efficientibus dependet et haec quo ad causas <unclear>quas</unclear> Unde huiusmodi executionem
+            <lb ed="#P"/>tangit boetius secundum varias oppiniones dicens <pc type="pilcrow"/> sine igitur famulantibus quibusdam divinis speciebus 
+            <lb ed="#P"/>fatum exerceatur seu tota in serviente nulla seu celestibus intelligentiis seu angelica virtute seu daemonum 
+            <lb ed="#P"/>varia solertia seu aliqua istorum per se seu omnibus simul fatum est executio divinae providentiae quo<lb ed="#P"/>ad 
+            effectus naturales maxime quantum ad causas secundarias naturaliter agentes Ita quod sive deus subordinet 
+            <lb ed="#P"/>aliquas intelligentias sive animam si mundi de qua quidem anima mundi variae fuerunt oppiniones
+            <pb ed="#P" n="110-v"/>
+            <lb ed="#P"/>nam prima dicit quod ipse deus vel tota agregatio <del rend="strikethrough">vel</del> intelligentiarum infra concavum orbis lunae 
+            <lb ed="#P"/>vel extra dicitur anima mundi unde res actuans excitans et vivificans anima mundi dicitur 
+          </p>
+        <!-- fuzzy parallel -->
+          <p xml:id="ppra-l110-qdqsam">
+            <lb ed="#P"/><pc type="pilcrow"/>Alia est quod intelligentia orbis lunae actuat et vifificat omnia infra concavum orbis ipsius <unclear>concepta</unclear>
+            <lb ed="#P"/><del rend="strikethrough">Alia quod sicut</del> unde ymaginati sunt quod sicut concavum orbis lunae habet intelligentiam ab intra <pc type="punctus"/> ita ad 
+            <lb ed="#P"/>extra habet aliam intelligentiam mediate qua actuatur et vivificatur
+          </p>
+          <p xml:id="ppra-l110-tctaen">
+            <pc type="pilcrow"/> Unde <ref xml:id="ppra-l110-Rd1e137"><name ref="#Virgil">virgilius</name> in <title ref="#Eneads">eneyd</title></ref> <quote xml:id="ppra-l110-Qd1e148">spiritus 
+            <lb ed="#P"/>incusant</quote> scilicet ad suas operationes exercendas Vel total in serviente nulla Et breviter per totam nullam intelligitur 
+            <lb ed="#P"/>anima mundi scilicet combinationem omnium causarum superiorum ad regimen universi concurrentium <pc type="pilcrow"/> Aliae particulae 
+            <lb ed="#P"/>satis sunt clare scilicet de motibus caelestibus <pc type="punctus"/> Sed de varia daemonum solertia <unclear>plato</unclear> posuit daemones 
+            <lb ed="#P"/>concurrere circa <unclear>octiam</unclear> infra concavum orbis <unclear>lunae</unclear> <unclear>ex?ia</unclear> <pc type="pilcrow"/> Unde si fatum sit exerceatur dicit <name ref="#Boethius">boetius</name> haec converso 
+            <lb ed="#P"/>ad extra excludendo actus liberos
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e166">
+          <head xml:id="ppra-l110-Hqepped">Quod executio providentiae est duplex</head>
+          <p xml:id="ppra-l110-pdtcpp">
+            <pc type="pilcrow"/> Unde notandum est quod duplex est modus executionis divinae providentiae et ita voluerunt re<lb ed="#P"/>ducere 
+            effectum ad causas naturales <pc type="virgula">/</pc> Et de primo ponuntur aliquae propositiones  
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e175">
+          <head xml:id="ppra-l110-Hpcppep">Propositiones circa prima executio providentiae</head>
+          <div xml:id="ppra-l110-Dd1e180">
+            <head xml:id="ppra-l110-Hppoppo">Prima propositio</head>
+            <p xml:id="ppra-l110-peipcn">
+              quarum prima <sic><pc type="pilcrow"/></sic> prima 
+              <lb ed="#P"/>intelligentia non est naturaliter suae providentiae explicativa ad extra patet <pc type="virgula">/</pc> quia non potest agere nisi per intellectum et 
+              <lb ed="#P"/>voluntatem et pure libere igitur non stat concurrere quin libere quia quicquid agit libere agit 
+              <lb ed="#P"/>et non naturaliter <pc type="virgula">/</pc> et sic ab intra non potest modo naturali concurrere <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l110-eiaqfd">
+              <pc type="pilcrow"/> Ex quo patet falsitas <unclear>oppinionum</unclear> quorumdam 
+              <lb ed="#P"/>dicentium quod respectu aliquarum operationum mere naturaliter concurrit ad extra et respectu aliorum mere libere <pc type="pilcrow"/> unde respectu orbis 
+              <lb ed="#P"/>primi habet uniri dicunt ipsis naturaliter et influentia et pure naturalis producta ab haec sed respectu causarum 
+              <lb ed="#P"/>natarum deus libere concurrit <pc type="pilcrow"/> unde ymaginatur concathenationes duarum rerum scilicet causarum naturalium et in 
+              <lb ed="#P"/>illo genere ponunt deum naturaliter concurrere et non est in potestate sua quin concurrat naturaliter <unclear>A simili</unclear> 
+              <lb ed="#P"/>de anima nostra nam cibo applicato vel <unclear>nuttrito</unclear> impossibile est quin operetur digestionem si sit debite 
+              <lb ed="#P"/>disposita 
+            </p>
+            <p xml:id="ppra-l110-diigla">
+              <pc type="virgula">/</pc> deinde ymaginatur quod est alius modus concursus ad extra libere concurrendi in illo genere 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l110-sciraa">
+              <lb ed="#P"/>Sed istum correllarium sequens est huic deo oppositum quoniam respectu cuiuscumque effectus deus ad extra libere agit
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e202">
+            <head xml:id="ppra-l110-Hspospo">Secunda propositio</head>
+            <p xml:id="ppra-l110-spsmfc">
+              <lb ed="#P"/><pc type="pilcrow"/> 2a propositio sequens in ordine <pc type="punctus"/> sola infima intelligentia inter omnes est naturaliter per unionem constitutivam 
+              <lb ed="#P"/>divinae providentiae est executiva patet nam ipsa non est aperta natat exercere suas operationes nisi <unclear>con</unclear> 
+              <lb ed="#P"/>coniuncta modo intelligentiae non ponuntur alicuius constituit igitur licet uniatur non tamen uniuntur per modum 
+              <lb ed="#P"/>formae constitutivae
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e211">
+            <head xml:id="ppra-l110-Htpotpo">Tertia propositio</head>
+            <p xml:id="ppra-l110-tpimeo">
+              <pc type="pilcrow"/> 3a propositio in latitudine media datur portio naturaliter et corporaliter executiva et alia a corpore 
+              <lb ed="#P"/>separata <pc type="punctus"/> et ipsa mere libere sic agit quod non posset naturaliter concurrere ad aliquam operationem naturalam nisi 
+              <lb ed="#P"/>corpori coniuncta. Et sic ista loquitur de intelligentiis mediis et ponit duas latitudines quarum 
+              <lb ed="#P"/>prima non est executiva divinae providentiae nisi corpori coniuncta <pc type="punctus"/> Et datur alia portio sive corpore executiva 
+              <lb ed="#P"/>vel sine assistentia tali quae requiritur inter motorem et suos orbes 
+            </p> 
+            <p xml:id="ppra-l110-ppaicu">
+              <pc type="virgula">/</pc> prima pars patet de infimis 
+              <lb ed="#P"/>intelligentiis quae orbibus indigent coniungi <pc type="punctus"/> licet non infereret ad effectus suos producendos Et sicut 
+              <lb ed="#P"/>patet prima pars satis manifeste
+            </p> 
+            <p xml:id="ppra-l110-spducc">
+              <pc type="pilcrow"/> Secunda portio datur intelligentiarum <unclear>dmnino</unclear> separatarum <pc type="pilcrow"/> unde <sic>gerarchiae</sic> 
+              <lb ed="#P"/>multae ponuntur quae non movent orbes <pc type="punctus"/> quoniam officium suum non est corporale <pc type="virgula">/</pc> ymmo effectum eset 
+              <lb ed="#P"/>divina maiestatem contemplari et suos effectus in dei laudem omnes reducere <pc type="virgula">/</pc> sicut patet de 
+              <lb ed="#P"/>seraphin qui interpretatur ardens devotio caritatis et de cherubin sic suo modo diceretur 
+              <lb ed="#P"/>Et per consequens inter supremam et infimam darentur duo genera intelligentiarum separatarum a materia 
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e240">
+            <head xml:id="ppra-l110-Hqpoqpo">Quarta propositio</head>
+            <p xml:id="ppra-l110-qpqeie">
+              <pc type="pilcrow"/> Ex 
+              <lb ed="#P"/>quibus sequitur 4a propositio quod in latitudine naturalium intellectuum requiritur latitudo cubica secundum oppinionem platonica
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e250">
+            <head xml:id="ppra-l110-qnpqnp">Quinta propositio</head>
+            <p xml:id="ppra-l110-qpaeen">
+              <pc type="pilcrow"/>5a propositio angeli moventes orbes in constituunt 
+              <lb ed="#P"/>aliquid vivens ex eorum unione et hoc contra oppinionem platonicam unde oppinanbatur philosophi quod <unclear>caelum</unclear> esset 
+              <lb ed="#P"/>vivens actuatione vivificante et sic de planetis <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l110-Dd1e263">
+          <head xml:id="ppra-l110-Hcascas">Corollaria (sequentes ex quinta propositione?)</head>
+          <div xml:id="ppra-l110-Dd1e268">
+            <head xml:id="ppra-l110-Hpcmpcm">Primum corollarium</head>
+            <p xml:id="ppra-l110-eqsvec">
+              <pc type="pilcrow"/> Ulterius sequitur quod licet motores sint 
+              <lb ed="#P"/>substantiae executivae eorum tamen unio non est per modum voluntatis et intellectus <pc type="virgula">/</pc> Et consequenter dicitur 
+              <lb ed="#P"/>de executive talis operationis <pc type="virgula">/</pc> et hoc satis de anima nostra potest experiri <pc type="virgula">/</pc> nam licet sit intellectiva 
+              <lb ed="#P"/>non tamen eius operatio est volitiva vel etc Et sic de operatione angeli <pc type="virgula">/</pc> unitae igitur orbi sunt purae naturales 
+              <lb ed="#P"/>licet fiat a causis aliis <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l110-eqapmn">
+              <pc type="pilcrow"/> Ex quo patet quod divinae providentiae executio per angelum potest dici pure naturalis 
+              <lb ed="#P"/>licet fiat a causis aliis
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e282">
+            <head xml:id="ppra-l110-Hscmscm">Secundum corollarium</head>
+            <p xml:id="ppra-l110-ssqcso">
+              <pc type="pilcrow"/> Sequitur ulterius quod destructis orbibus omnibus motores 
+              <lb ed="#P"/>orbium inquietarentur ad <unclear>res mononem</unclear> cum suis orbibus 
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e294">
+            <head xml:id="ppra-l110-Htcmtcm">Tertium corollarium</head>
+            <p xml:id="ppra-l110-tsqiem">
+              <pc type="virgula">/</pc> unde sequitur quod quibus appetit speciem 
+              <lb ed="#P"/>orbis sibi proportionata
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e303">
+          <head xml:id="ppra-l110-qcmqcm">Quartum corollarium</head>
+          <p xml:id="ppra-l110-sqqmqm">
+            <pc type="pilcrow"/> Ex quo sequitur quod orbos habent rationem materiae et partim formae <pc type="punctus"/> <pc type="virgula">/</pc> materiae non 
+            <lb ed="#P"/>quod <unclear>sint</unclear> subiectum <pc type="virgula">/</pc> sed sicut forma non potest nisi mediate materia <pc type="virgula">/</pc> ita intelligentia nisi orbe coniuncta <pc type="punctus"/> licet 
+            <lb ed="#P"/>ad haec non requiratur coniunctio proprie dicta <pc type="virgula">//</pc> partim <pc type="punctus"/> formae dicitur quia gradus formales videntur orbes 
+            <lb ed="#P"/><unclear>habere</unclear>
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e313">
+          <head xml:id="ppra-l110-Hqncqnc">Quintum corollarium</head>
+          <p xml:id="ppra-l110-qsqeoe">
+            <pc type="pilcrow"/> Sequitur ulterius quod ex specificis conditionibus correspondent sibi mutuo uniones 
+            <lb ed="#P"/>et operationum explicationes orbium ad intelligentias <unclear>aut</unclear> econtra
+          </p>
+        </div>
+        <div xml:id="ppra-l110-Dd1e322">
+          <head xml:id="ppra-l110-Hsxcsxc">Sextum corollarium</head>
+          <p xml:id="ppra-l110-ssqiee">
+            <pc type="pilcrow"/> Sequitur ulterius quod idem angelus 
+            <lb ed="#P"/>non potest pluribus orbibus uniri nec pleno angeli eidem orbi <pc type="punctus"/> patet nam ex natura specifica 
+            <lb ed="#P"/>requirit talem orbem talis speciei sibi uniri et alter orbis alterius speciei esset disconveniens 
+            <lb ed="#P"/>sibi igitur unus non potest pluribus nec econtra et haec secundum naturalem constitutionem 
+          </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e338">
+            <head xml:id="ppra-l110-Hspcspc">Septimum corollarium</head>
+            <p xml:id="ppra-l110-ssqesf">
+              <pc type="pilcrow"/> Sequitur ulterius quod motores 
+              <lb ed="#P"/>orbium non possunt naturaliter a suis orbibus separari patet nam tanta est inhaesio sicut formae ad materiam
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e347">
+            <head xml:id="ppra-l110-Hc11ss">Octavum corollarium</head>
+            <p xml:id="ppra-l110-oscuid">
+              <pb ed="#P" n="111-r"/>
+              <lb ed="#P"/><pc type="pilcrow"/> Ex quo sequitur error credentium motores orbium ymagines inhabitare in certa con<lb ed="#P"/>stellatione 
+              <unclear>fabricate</unclear> scilicet quod intelligentia orbis in tali ymaginatione inhabitat quod videtur falsissimum 
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e362">
+            <head xml:id="ppra-l110-Hncmncm">Nonum corollarium</head>
+            <p xml:id="ppra-l110-nseucs">
+              <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius error dicentium daemones esse orbium motores
+            </p>
+            <!--very fuzzy parallel-->
+            <p xml:id="ppra-l110-pheqef">
+              sed hoc non videtur 
+              <lb ed="#P"/>posse stare
+            </p>
+            <!--very fuzzy parallel-->
+            <p xml:id="ppra-l110-sinsio">
+              tum quia non sunt ad hoc deputat
+            </p>
+            <!--very fuzzy parallel-->
+            <p xml:id="ppra-l110-tnddno">
+              tum quia non sunt sufficientes nec ydonei quoad 
+              <lb ed="#P"/>hoc ministri <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l110-qspiao">
+              <pc type="pilcrow"/> Item motores orbium movent gratia primi motoris modo 
+              <lb ed="#P"/>constat daemones non esse in gratia dei ymmo ab ipsa ceciderunt <pc type="virgula">/</pc> et etiam <sic>odiunt</sic> deum
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e389">
+            <head xml:id="ppra-l110-Hdcmdcm">Decimum corollarium</head>
+            <p xml:id="ppra-l110-dsomis">
+              <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius falsitas dicentium quod quilibet orbis superior habet intelligentiam propriam 
+              <lb ed="#P"/>et omnibus communem sicut ultime et unitur tamquam motor tot unibili deinde alia tamquam communis <pc type="virgula">/</pc> Sed haec 
+              <lb ed="#P"/>videtur falsum <pc type="virgula">/</pc> ex nulla specifica enim sicut dictum est consurgit et tamen per haec voluerunt salvare superstitiosa 
+              <lb ed="#P"/>et dicebat mundum esse diis plenum
+            </p>
+          </div>
+          <div xml:id="ppra-l110-Dd1e403">
+            <head xml:id="ppra-l110-Hudcudc">Undecimum corollarium</head>
+            <p xml:id="ppra-l110-xy38aa"> <!-- id change needed -->
+              <pc type="pilcrow"/> Ex quibus patet quod oppinio <name ref="#Aristotle">aristoteles</name> quantum ad intelligentias 
+              <lb ed="#P"/>et motores orbium non repugnat fidei quo ad speculationem unde secundum <name ref="#Albert">albertum</name> <name ref="#Aristotle">aristoteles</name> posuit 
+              <lb ed="#P"/>unam intelligentiam unicam non unione constitutiva sed media <pc type="virgula">/</pc> et talem vocavit animam <unclear>ce?</unclear>
+              <lb ed="#P"/>aliam posuit separata influere per modum doctrinae et hoc videtur ponere <name ref="#Dionysius">beatus dyonisius</name> 
+              <lb ed="#P"/><pc type="virgula">/</pc> Et ex istis potest descendi ad gerarchias secundum numerum intelligentiarum <pc type="punctus"/> Et sic ponerentur 
+              <lb ed="#P"/>32ae secundum <name ref="#Ptolemy">ptolomeum</name> quare oporteret ponere 32os orbes saltim si ponantur 10 <sic>sperae</sic> quia quilibet 
+              <lb ed="#P"/>planeta habentem 4or orbes quod concentricos et <unclear>essenticos</unclear> et epicyclum unum praeter solem qui non habet epicyclis 
+              <lb ed="#P"/>In mercurio antem oportet ponere 5 <unclear>essenticos</unclear> et duos orbes <pc type="virgula">/</pc> et sic habebimus concathenationem 
+              <lb ed="#P"/>naturalium operationum et effectuum caelestium et de hoc <name>albertus</name> et <name>guillemus parisiensis</name> eleganissime tractat 
+              <lb ed="#P"/>sed nihil plus pro nunc
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l110-Dxxxx1">
+          <head xml:id="ppra-l110-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l110-xxxxx3">
+            <pc type="pilcrow"/> Sequitur distinctio 23a libri 3ii cuius prima conclusio est fides est rerum operationum aliter 
+            <lb ed="#P"/>non esset <unclear>noto?a</unclear> <pc type="virgula">/</pc> sed tamen utrum aliquis habeat fidem et evidentiam de eodem adaequate respondetur quod 
+            <lb ed="#P"/>haec non est inconveniens per lumen naturale adiutum per fidem <pc type="virgula">/</pc> Et si dicatur oppositum conclusionis valeret 
+            <lb ed="#P"/>quoniam staret quod sortes videret in verbo et videret in homine dicitur quod non repugnat 
+          </p>
+          <p xml:id="ppra-l110-xxxxx4">
+            <lb ed="#P"/>2a conclusio 
+            <lb ed="#P"/>tangit de fide informi et formata unde quidam ymaginatur quod anima informata sit tamquam regens 
+            <lb ed="#P"/>sed indiget caritate per quam fides exit in actum bonum qua remota non exiret debite 
+          </p>
+          <p xml:id="ppra-l110-xxxxx5">
+            <lb ed="#P"/><pc type="pilcrow"/> Alii dicunt quod fides formata est quaedam qualitas quae tollitur per peccatum <pc type="virgula">/</pc> sed fides informis non et eius 
+            <lb ed="#P"/>actus eest meritorius
+          </p>
+          <p xml:id="ppra-l110-xxxxx6">
+            <pc type="pilcrow"/> Distinctio 24a cuius conclusio prima est quod de fide et <unclear>composite</unclear> cum evidentia in christi passione 
+            <lb ed="#P"/>et de apostolis utrum habuerunt fidem de christi passione
+          </p>
+          <p xml:id="ppra-l110-xxxxx7">
+            <pc type="pilcrow"/> Respondetur quod non quod hic pateretur sed erat 
+            <lb ed="#P"/>evidens ad oculum quod hic homo patiebatur Tamen est dubium utrum sit evidens christus patitur 
+            <lb ed="#P"/>vel iste patitur sed ista redemptor humani generis patitur non est dicendum et haec de lectione 
+            <lb ed="#P"/>lecta beati iohannis evangelistae vigilia maii die 5ta
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
