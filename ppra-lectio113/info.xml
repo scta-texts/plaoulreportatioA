@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio113">
+      <head xml:id="ppra-l113-Hldlldl">Lectio 113, de Libertate</head>
+      <div xml:id="ppra-l113-Dd1e109">
+        <head xml:id="ppra-l113-Hrdledc"> Recapitulatio: de liberate voluntati creatae et divina
+          concurrentia </head>
+        <p xml:id="ppra-l113-eplgna">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-eplgna"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-eplgna"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-enqram">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-enqram"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-enqram"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-sednna">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-sednna"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-sednna"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-echcqp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-echcqp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-echcqp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l113-Dd1e132">
+        <head xml:id="ppra-l113-corria">Corollarium: quod esse aliquam necessitans antecedentem est
+          impossibilem</head>
+        <p xml:id="ppra-l113-eciaei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-eciaei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-eciaei"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-epdivd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-epdivd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-epdivd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-eqaavd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-eqaavd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-eqaavd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-ssqcsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-ssqcsa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-ssqcsa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-tsqdar">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-tsqdar"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-tsqdar"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l113-Dd1e188">
+        <head xml:id="ppra-l113-Hrbirbi">Rationes Bradwardini</head>
+        <p xml:id="ppra-l113-peqsdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-peqsdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-peqsdc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-srdena">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-srdena"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-srdena"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-tasaap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-tasaap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-tasaap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-qqpisa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-qqpisa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-qqpisa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-qadaap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-qadaap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-qadaap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-saqneo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-saqneo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-saqneo"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-savqav">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-savqav"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-savqav"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-cdbroe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-cdbroe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-cdbroe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-oaocab">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-oaocab"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-oaocab"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-nadden">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-nadden"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-nadden"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-daersa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-daersa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-daersa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-uadnee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-uadnee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-uadnee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l113-caeils">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l113-caeils"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l113-caeils"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l113-Dxxxx1">
+        <head xml:id="ppra-l113-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l113-xxxxx3">
+        </p>
+        <p xml:id="ppra-l113-xxxxx4">
+        </p>
+        <p xml:id="ppra-l113-xxxxx5">
+        </p>
+        <p xml:id="ppra-l113-xxxxx6">
+        </p>
+        <p xml:id="ppra-l113-xxxxx7">
+        </p>
+        <p xml:id="ppra-l113-xxxxx8">
+        </p>
+        <p xml:id="ppra-l113-xxxxx9">
+        </p>
+        <p xml:id="ppra-l113-xxxxx10">
+        </p>
+        <p xml:id="ppra-l113-xxxxx11">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
