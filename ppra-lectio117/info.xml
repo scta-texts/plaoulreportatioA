@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio117">
+      <head xml:id="ppra-l117-Hldlldl">Lectio 117, de Libertate</head>
+      <div xml:id="ppra-l117-Dd1e109">
+        <head xml:id="ppra-l117-Htpotpo">Tertio propositio</head>
+        <p xml:id="ppra-l117-tpndne">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tpndne"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tpndne"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-eivibf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-eivibf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-eivibf"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l117-Dd1e157">
+          <head xml:id="ppra-l117-Hrpcost">Rationes pro conclusione et contra opinionem Sancti
+            Thomae</head>
+          <p xml:id="ppra-l117-pcpeii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-pcpeii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-pcpeii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-sahenc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sahenc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sahenc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-tapqac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tapqac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tapqac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-qapqap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qapqap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qapqap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-qaascc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qaascc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qaascc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l117-Dd1e240">
+          <head xml:id="ppra-l117-Hraoaob">Responsio ad opinionem Boetii</head>
+          <p xml:id="ppra-l117-eqahme">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-eqahme"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-eqahme"/>
+            </assertions>
+          </p>
+          <!-- why break here -->
+          <p xml:id="ppra-l117-dnnemg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-dnnemg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-dnnemg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-chcfif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-chcfif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-chcfif"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-snefef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-snefef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-snefef"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l117-Dd1e324">
+        <head xml:id="ppra-l117-Hqpoqpo">Quarta propositio</head>
+        <p xml:id="ppra-l117-qpeido">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qpeido"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qpeido"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-ptaido">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-ptaido"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-ptaido"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-prnprn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-prnprn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-prnprn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-ssieec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-ssieec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-ssieec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-tsqqic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tsqqic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tsqqic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-qaddfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qaddfc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qaddfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-qavnam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qavnam"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qavnam"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-svdiip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-svdiip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-svdiip"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l117-Dd1e399">
+        <head xml:id="ppra-l117-Hqnoqno">Quinta propositio</head>
+        <p xml:id="ppra-l117-qpnvvf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qpnvvf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qpnvvf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-ssevsf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-ssevsf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-ssevsf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-tsqcui">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tsqcui"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tsqcui"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l117-qqnrec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l117-qqnrec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-qqnrec"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l117-Dd1e435">
+          <head xml:id="ppra-l117-Hobines">Obiectiones</head>
+          <p xml:id="ppra-l117-ctprps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-ctprps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-ctprps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-peqcnc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-peqcnc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-peqcnc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-sreuin">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sreuin"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sreuin"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-sapsis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sapsis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sapsis"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l117-soefne">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l117-soefne"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-soefne"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l117-Dd1e495">
+          <head xml:id="ppra-l117-Hresnes">Responsiones</head>
+          <div xml:id="ppra-l117-Dd1e500">
+            <head xml:id="ppra-l117-Hardrdi">Ad rationes de immutabilitate</head>
+            <p xml:id="ppra-l117-airpsc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-airpsc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-airpsc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-sdqrie">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sdqrie"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sdqrie"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-tdqpsc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tdqpsc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tdqpsc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-potaff">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-potaff"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-potaff"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-sphief">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sphief"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sphief"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-tphpfc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-tphpfc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-tphpfc"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l117-Dd1e531">
+            <head xml:id="ppra-l117-Haraara">Ad rationes aristotelis</head>
+            <p xml:id="ppra-l117-arapqp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-arapqp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-arapqp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-sdpnsp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-sdpnsp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-sdpnsp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-etaaev">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-etaaev"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-etaaev"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-asrsde">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-asrsde"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-asrsde"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l117-atqeas">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l117-atqeas"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l117-atqeas"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l117-Dxxxx1">
+        <head xml:id="ppra-l117-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l117-xxxxx3">
+        </p>
+        <p xml:id="ppra-l117-xxxxx4">
+        </p>
+        <p xml:id="ppra-l117-xxxxx5">
+        </p>
+        <p xml:id="ppra-l117-xxxxx6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

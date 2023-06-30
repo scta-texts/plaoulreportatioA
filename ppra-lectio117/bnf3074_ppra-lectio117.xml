@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 117, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 117, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-06-29">June 29, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-06-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="116-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio117">
+        <head xml:id="ppra-l117-Hldlldl">Lectio 117, de Libertate</head>
+        <div xml:id="ppra-l117-Dd1e109">
+          <head xml:id="ppra-l117-Htpotpo">Tertio propositio</head>
+          <p xml:id="ppra-l117-tpndne">
+            <lb ed="#P"/>Consequenter circa materiam restabant adhuc aliquae propositiones faciendae et sequitur 3a in ordine et est quod non est ponendum 
+            <lb ed="#P"/>futura in se intrinsece esse contingentia et necessaria relata tamen ad divinum intuitum <pc type="pilcrow"/> unde aliqui ymaginatur 
+            <lb ed="#P"/>quod futura in se considerata sunt contingentia 
+          </p> 
+          <p xml:id="ppra-l117-eivibf">
+            et istam viam tenuit <name ref="#Aquinas">sanctus thomas</name> fultus auctoritate <ref xml:id="ppra-l117-Rd1e127"><name ref="#Boethius">boetii</name></ref>
+            <pb ed="#P" n="117-r"/>
+            <lb ed="#P"/>in qua dicitur <quote xml:id="ppra-l117-Qd1e138" source="http://scta.info/resource/hy7y6y-d1e83"> <!-- reference to book 5 -->fatebor rem quamdam solidissimae veritatis sed cui vix aliquis nisi divini speculator 
+            <lb ed="#P"/>accesserit Respondebo namque idem futurum cum ad divinam notionem refertur necessariam cum <unclear>vero</unclear> in 
+            <lb ed="#P"/>sua natura perpenditur <pc type="punctus"/> verbum atque absolutum prorsus videri <pc type="punctus"/></quote>
+          </p>
+        <div xml:id="ppra-l117-Dd1e157">
+          <head xml:id="ppra-l117-Hrpcost">Rationes pro conclusione et contra opinionem Sancti Thomae</head>
+          <p xml:id="ppra-l117-pcpeii">
+            <pc type="pilcrow"/> pono tamen propositionem pro modum conclusio non 
+            <lb ed="#P"/>oppositae quoniam si sic sequeretur quod deus necessario produceret mundum consequens est absurdum antecedens tamen probatur 
+            <lb ed="#P"/>nam ante mundi constitutionem mundus erat producibilis in relatione ad divinam voluntatem praecise poterat 
+            <lb ed="#P"/>contingenter produci vel necessario et tunc sequitur consequens illativum
+          </p>
+          <p xml:id="ppra-l117-sahenc">
+            <pc type="pilcrow"/> Pono tamen propositionem pro modum conclusio non 
+            <lb ed="#P"/>oppositae quoniam si sic sequeretur quod deus necessario produceret mundum consequens est absurdum antecedens tamen probatur 
+            <lb ed="#P"/>nam ante mundi constitutionem mundus erat producibilis in relatione ad divinam voluntatem praecise poterat 
+            <lb ed="#P"/>ab aliquo igitur habet necessitatem <pc type="virgula">/</pc> unde cumque ipsa recipiat ergo si effectus capiat a deo necessitatem est necessarias 
+            <lb ed="#P"/>et per consequens non contingens
+          </p> 
+          <p xml:id="ppra-l117-tapqac">
+            <pc type="pilcrow"/> 3o <ref xml:id="ppra-l117-Rd1e188"><title ref="#ArticlesOfParis">articulus parisiensis</title></ref> est quod <add place="above-line">dicere</add> <quote xml:id="ppra-l117-Qd1e196">nihil contingenter eveniat ponendo omnes causas 
+            <lb ed="#P"/>ad hoc requisitas error</quote> ergo etc
+          </p>
+          <p xml:id="ppra-l117-qapqap">
+            <pc type="pilcrow"/> 4o vel deus in se est determinatus sic ad effectus productionis
+            <lb ed="#P"/>in nullius potestate est quin producatur ergo effectus inevitabiliter eveniet vel non est sic in se determinatus 
+            <lb ed="#P"/>et tunc contingenter se habet respectu effectuum provenientem
+          </p>
+          <p xml:id="ppra-l117-qaascc">
+            <pc type="pilcrow"/> 5o <c>a</c> praescitur a deo fore ergo <c>a</c> erit antecedens 
+            <lb ed="#P"/>est necessariam pro ipso deo et tamen consequentia est necessaria et per consequens videtur quod positio ista quae superius est posita non valeat 
+          </p>
+        </div>
+        <div xml:id="ppra-l117-Dd1e240">
+          <head xml:id="ppra-l117-Hraoaob">Responsio ad opinionem Boetii</head>
+          <p xml:id="ppra-l117-eqahme">
+            <lb ed="#P"/><pc type="pilcrow"/> Tunc ergo restat respondere ad auctoritatem <name ref="#Boethius">boetii</name> <pc type="virgula">/</pc> Ad quam dicitur quod in 5o de consolatione
+            <lb ed="#P"/>causalis finali duplicem distinguit necessitatem talibus verbis <pc type="punctus"/> <quote xml:id="ppra-l117-Qd1e255" source="http://scta.info/resource/hy7y6y-d1e83">duae et enim sunt necessitates simplex 
+            <lb ed="#P"/>una veluti quod necesse est omnes homines esse mortales</quote>
+          </p>
+          <!-- why break here -->
+          <p xml:id="ppra-l117-dnnemg">
+            <quote xml:id="ppra-l117-Qd1e271" source="http://scta.info/resource/hy7y6y-d1e83">Altera conditionis ut si aliquem 
+            <lb ed="#P"/>ambulare scias eum ambulare necesse est</quote> Quod enim quisque novit id aliter esse ac notum est 
+            <lb ed="#P"/>nequit <pc type="punctus"/> sed haec conditio minime secum illam simplicem trahit <pc type="pilcrow"/> Subdit post hanc necessitatem 
+            <lb ed="#P"/>non propria facit natura <pc type="virgula">/</pc> sed conditionis adiectio <!-- quote might end here --><pc type="punctus"/> haec ille loco et capitulo praeallegatis Et sic diceretur quod 
+            <lb ed="#P"/>in se considerata est simplex et absoluta <pc type="virgula">/</pc> alio modo non nisi necessitate conditionis Si autem <name rend="#Aquinas">sanctus thomas</name> 
+            <lb ed="#P"/>istum intellectum habuerit bene <pc type="punctus"/> si non male
+          </p> 
+          <p xml:id="ppra-l117-chcfif">
+            <pc type="pilcrow"/> Advertendum est tamen quod <name ref="#Augustine">augustinus</name> <name ref="#Anselm">ancelmus</name> multique 
+            <lb ed="#P"/>alii dicunt omne futurum necesse esse futurum sed hoc est intelligendo necessitate conditionali et non simplici
+            <lb ed="#P"/>Et etiam auctoritates aliorum doctorum debent similiter intelligi de necessitate conditionali si <c>a</c> sit futurum quod ergo sic 
+            <lb ed="#P"/>scilicet necessitate conditionali quia potest non esse nam deus posset suspendere actum essendi <pc type="punctus"/> et nedum illum verum etiam 
+            <lb ed="#P"/>actum beatorum annihilare
+          </p>
+          <p xml:id="ppra-l117-snefef">
+            <pc type="pilcrow"/> Advertendum est super hoc quod <name ref="Anselm">ancelmus</name> dicit omne futurum necesse esse futurum sicut 
+            <lb ed="#P"/>patet <del rend="strikethrough">demonstrando antichristum</del> dicendo antichristus erit et tamen dicit non necesse est hoc est futuram <pc type="pilcrow"/> Et ad hoc respondet 
+            <lb ed="#P"/><name ref="#Wodeham">adam</name> quod <name ref="#Anselm">ancelmus</name> posuit differentiam inter propositiones ubi idem praedicatur de seipso et inter propositiones 
+            <lb ed="#P"/>ubi non et ideo concedit unam et negat aliam unde recitat omnes in qua idem praedicatur de se ipso 
+            <lb ed="#P"/>tamquam necessitas ut si haec erit hoc futurum erit futurum et non istam futurum erit futurum <pc type="pilcrow"/> Sed melius 
+            <lb ed="#P"/>resolvetur ad hoc quod aliqui reputaverunt propositiones necessitas ubi idem praedicatur de se ipso sicut ista homo
+            <lb ed="#P"/>est homo <pc type="punctus"/> hic <name>sortes</name> est <name>sortes</name> <pc type="pilcrow"/> In scolis tamen non debent concedi necesse est futurum esse futurum <unclear>licet vero</unclear>
+          </p>
+        </div>
+        </div>
+        <div xml:id="ppra-l117-Dd1e324">
+          <head xml:id="ppra-l117-Hqpoqpo">Quarta propositio</head>
+          <p xml:id="ppra-l117-qpeido">
+            <lb ed="#P"/><pc type="pilcrow"/> 4a propositio negativa contra <ref xml:id="ppra-l117-Rd1e333"><name ref="#HenryOfGhent">henricum de <sic>gandaco</sic></name></ref> et <ref xml:id="ppra-l117-Rd1e345"><name ref="#Scotus">scotum</name></ref> <pc type="punctus"/> <pc type="pilcrow"/> deus non congoscit futura 
+            <lb ed="#P"/>contingentia per determinationem suae voluntatis quam materiam <name>doctor sollmenis</name> magis particularizat <pc type="pilcrow"/> Unde 
+            <lb ed="#P"/>ymaginatur quod divina essentia primo comprehendit res apprehensive et praesentat eas sub habitudinibus suis absque 
+            <lb ed="#P"/>assensu et tunc intellectus divinus praesentat ipsas res voluntati divinae deinde voluntas ipsa praesentatione facta se 
+            <lb ed="#P"/>determinat ad id vel illud quod intellectum praesentatur et isto modo voluntas exit in assensum et elicit quod <c>a</c> 
+            <lb ed="#P"/>erit vel non erit etc sequitur quod assensus scientificus nullam rebus imponit necessitatem sequendo voluntatem liberam 
+            <lb ed="#P"/>non tamen quod ibi successio et ista est <unclear>grata</unclear> ymaginatio 
+          </p>
+          <p xml:id="ppra-l117-ptaido">
+            <pc type="pilcrow"/>Teneo tamen contrarium
+          </p>
+          <p xml:id="ppra-l117-prnprn">
+            nam intellectus 
+            <lb ed="#P"/>ordine naturali est prior voluntate adhuc consequens suos actus producendos igitur ordine quo actus intelligi non sequitur 
+            <lb ed="#P"/>voluntatem liberam
+          </p>
+          <p xml:id="ppra-l117-ssieec">
+            <pc type="pilcrow"/> 2o intellectus huiusmodi habet aliquorum scientiam ad quae non praecedit divina voluntas 
+            <lb ed="#P"/>vel eius determinatio probatur antecedens maxime de culpis et motibus viciis de quibus intellectus habet 
+            <lb ed="#P"/>determinata scientiam quae tamen divina voluntas non vult
+          </p>
+          <p xml:id="ppra-l117-tsqqic">
+            <pc type="pilcrow"/> 3o non evadit difficultatem nam aequalis difficultatis 
+            <lb ed="#P"/>est de concordia divinae voluntatis cum futuris contingentibus sicut de scientia illa ergo etc consequentia tenet et antecedens patet 
+            <lb ed="#P"/>quia aeque est aeterna nam eius determinatio ab aeterno fuit et aeque mirabilis fuit sicut et alia igitur ex 
+            <lb ed="#P"/>ea aequaliter concluditur necessitas futurum quia non plus potest mutari in sua volitione quam cognitione
+          </p>
+          <p xml:id="ppra-l117-qaddfc">
+            <lb ed="#P"/><pc type="pilcrow"/> 4o decreto divinae voluntatis si aliquid debeat sufferri ponetur libera et indifferens ad sui 
+            <lb ed="#P"/>effectus productionem sicut tactum est igitur haec erit quia divina voluntas erit ad utrumlibet igitur intellectus divinus non 
+            <lb ed="#P"/>poterit per voluntatem determinari ad effectuum productionem <pc type="virgula">/</pc> nec poterit iudicium elicere de contingentibus
+          </p>
+          <p xml:id="ppra-l117-qavnam">
+            <lb ed="#P"/><pc type="pilcrow"/> 5o voluntas divina est summe rationalis igitur non est nata exire in actum nisi dictamine 
+            <lb ed="#P"/>rationis sibi coaevo <pc type="punctus"/> igitur iudicium tale non sequitur determinet futurum contingentium
+          </p>
+          <p xml:id="ppra-l117-svdiip">
+            <pc type="pilcrow"/> 6o voluntas divina 
+            <lb ed="#P"/>determinata est ad aliquem effectum <del rend="strikethrough">prost</del> producendum et summe actuata et in ultima sui perfectione 
+            <lb ed="#P"/>igitur in illo priori potest exire in actum <pc type="punctus"/> etc sequitur altum inconvenientem vel quod agit non assentiendo 
+            <lb ed="#P"/>vel quod intellectus non praevenit eam
+          </p>
+        </div>
+        <div xml:id="ppra-l117-Dd1e399">
+          <head xml:id="ppra-l117-Hqnoqno">Quinta propositio</head>
+          <p xml:id="ppra-l117-qpnvvf">
+            <pc type="pilcrow"/> 5a propositio negativa futurum contingens non est determinate verum vel 
+            <lb ed="#P"/>confertur ad divinam praescientiam cum futura contingentia ergo etc <!-- possible break point --> <pc type="pilcrow"/> Ad salvandum hoc dixerunt aliqui quod 
+            <lb ed="#P"/>propositiones de futuro contingenti nec sunt vere nec <unclear>f?e</unclear> <pc type="virgula">/</pc> sed hoc non videtur valere <pc type="virgula">/</pc> non volo
+            <lb ed="#P"/>tamen negare quin deus <unclear>indi?rit</unclear> apud se an antichristus erit vel non <pc type="punctus"/> <pc type="virgula">/</pc> Et de hoc facio quadam 
+            <lb ed="#P"/>rationes <pc type="punctus"/> et signo istam antichristus erit haec propositio est vera vel falsa
+          </p>
+          <p xml:id="ppra-l117-ssevsf">
+            <pc type="pilcrow"/>2o ex descriptione propositionis falsae et
+            <pb ed="#P" n="117-v"/>
+            <lb ed="#P"/>significat aliquid esse vel fore qualiter non erit <pc type="pilcrow"/> Item arguitur ipsa est de fore igitur non simpliciter vera et per 3s 
+            <lb ed="#P"/>fides non obligat ad credendum quod non est verum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l117-tsqcui">
+            <pc type="pilcrow"/> Item sequeretur ultimum iudicium non esse verum 
+            <lb ed="#P"/>patet quia illa propositio est de futuro ultimum iudicium erit et sci est de fore modo fides non obligatur ad haec
+          </p>
+          <p xml:id="ppra-l117-qqnrec">
+            <lb ed="#P"/><pc type="pilcrow"/> Item nullus deberet timere poenam peccatorum nec iudicium si sic esset ergo etc Et sic 
+            <lb ed="#P"/>secundum istam positionem multa sequerentur talia quae <ref xml:id="ppra-l117-Rd1e417"><name>bradouardin</name> recitat <pc type="punctus"/> in 3a parte summae suae 
+            <lb ed="#P"/>a duodecimo libro usque versus finem</ref> et ibi recitat quod nihil est futurum et hoc sortitur ratione <unclear>antiquae</unclear> 
+            <lb ed="#P"/><unclear>lo?ce</unclear> quia non ponitt <unclear>amplicationem</unclear> in illo termino <mentioned>futurum</mentioned> <pc type="virgula">/</pc> quapropter plumeton ponit istam esse falsam 
+            <lb ed="#P"/>antichristus est futurus
+          </p>
+          <div xml:id="ppra-l117-Dd1e435">
+            <head xml:id="ppra-l117-Hobines">Obiectiones</head>
+            <p xml:id="ppra-l117-ctprps">
+              <pc type="pilcrow"/> Circa tamen positionem negantem propositiones de contingenti esse veras vel falsas 
+              <lb ed="#P"/>sunt duae rationes ponendae 
+            </p>
+            <p xml:id="ppra-l117-peqcnc">
+              prima est Si propositio de futuro contingenti esset vera sequeretur quod eius veritas esset 
+              <lb ed="#P"/>immutabilis nam signata veritate huius propositionis antichristus erit <pc type="virgula">/</pc> pro toto tempore ante positionem in esse fuit 
+              <lb ed="#P"/>vera si fuisset formata et non poterat pro toto tempore ergo necessaria et per consequens non contingens
+            </p>
+            <p xml:id="ppra-l117-sreuin">
+              <pc type="pilcrow"/> 2o ratio 
+              <lb ed="#P"/>est <ref xml:id="ppra-l117-Rd1e454"><name ref="#Aristotle">philosophi</name> in primo <title ref="#Perihermenias">peryarmenias</title></ref> ubi dicit quod qualitercumque propositio significat ita inesse <unclear>enim</unclear> esse scilicet propositio de praesenti 
+              <lb ed="#P"/>de praeterito et de inesse <pc type="punctus"/> et in futuris de singularibus non sic <pc type="virgula">/</pc> nam data propositione quaecumque sit illa 
+              <lb ed="#P"/>oportet quod ita sit sicut per eam significatur et per consequens non contingens ymmo necessaria 
+            </p>
+            <p xml:id="ppra-l117-sapsis">
+              <pc type="pilcrow"/>2o dicit <name ref="#Aristotle">philosophus</name> si aliqua
+              <lb ed="#P"/>talis esset <del rend="strikethrough">sm</del> semper sic fuisset vera ergo sequitur quod veritas ipsius sit immutabilis et per consequens necesse est eam 
+              <lb ed="#P"/>sic fore <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l117-soefne">
+              <pc type="pilcrow"/> 3o orationes et propositiones se habent proportionaliter ad significata sed significata sunt ad utrumlibet 
+              <lb ed="#P"/>igitur orationes et propositiones sunt ad utrumlibet <pc type="punctus"/> igitur non sunt plus verae quam falsae
+            </p>
+          </div>
+          <div xml:id="ppra-l117-Dd1e495">
+            <head xml:id="ppra-l117-Hresnes">Responsiones</head>
+            <div xml:id="ppra-l117-Dd1e500">
+              <head xml:id="ppra-l117-Hardrdi">Ad rationes de immutabilitate</head>
+              <p xml:id="ppra-l117-airpsc">
+                <pc type="pilcrow"/> Hic respondeo 
+                <lb ed="#P"/>et dico primo quod veritas huiusmodi de futuro non debet dici immutabilis 
+              </p> 
+              <p xml:id="ppra-l117-sdqrie">
+                pro quo 2o dico quod talis 
+                <lb ed="#P"/>licet sic non est immutabilis ymmo mutabilis quia in instanti suae positionis in esse potest transire 
+                <lb ed="#P"/>sic sicut dictum est <pc type="punctus"/>
+              </p> 
+              <p xml:id="ppra-l117-tdqpsc">
+                <pc type="pilcrow"/> 3o dico quod ante positionem rei in esse potuit esse falsa ergo etc 
+              </p> 
+              <p xml:id="ppra-l117-potaff">
+                unde tales 
+                <lb ed="#P"/>sunt concedendae ante instans rei positionem in esse talis propositio potest esse falsa in quolibet instans ulteriori 
+                <lb ed="#P"/>et tamen in nullo instans priori impossibile est eam esse falsam
+              </p>
+              <p xml:id="ppra-l117-sphief">
+                <pc type="pilcrow"/> 2a propositio talis veritas non est falsa et tamen potest 
+                <lb ed="#P"/>esse falsa et tamen non potest esse in aliquo instans falsa scilicet illius temporis
+              </p>
+              <p xml:id="ppra-l117-tphpfc">
+                <pc type="pilcrow"/>3a propositio talis propositio potest esse vera et falsa 
+                <lb ed="#P"/>in illo instans et tamen nec simul nec successive in illo eodem totali tempore <pc type="punctus"/> licet bene in alio
+                <!-- possible break point --> <pc type="pilcrow"/> Ubi 
+                <lb ed="#P"/>advertendum est quod istud consurgit ex modo enunciandi et non ex necessitate rei <pc type="virgula">/</pc> Et ista materia 
+                <lb ed="#P"/>satis confertur ad intellectum praescientiae divinae cum futuris contingentibus si bene inspiciatur <pc type="virgula">/</pc> unde dicitur 
+                <lb ed="#P"/>quod deus ratione continentiae enuntiantis continet omnes modos enuntiandi Et ergo patet de ratione 
+                <lb ed="#P"/>prius facta quod nihil concludit contra dicta de dei praescientia
+              </p>
+            </div>
+            <div xml:id="ppra-l117-Dd1e531">
+              <head xml:id="ppra-l117-Haraara">Ad rationes aristotelis</head>
+              <p xml:id="ppra-l117-arapqp">
+                <pc type="pilcrow"/> Nunc autem veniendum est ad rationem 
+                <lb ed="#P"/><name ref="#Aristotle">Aristotelis</name> et breviter aliqui doctores dubitant utrum illam auctoritatem de futuris contingentibus non 
+                <lb ed="#P"/>est determinata veritas pro intellexerit de contingentibus Tamen dicit <name>doctor subtilis</name> quod hoc non est 
+                <lb ed="#P"/>revocandum in dubium <pc type="virgula">/</pc> Et respondet sic <name>doctor subtilis</name> quod differentia magna est inter propositiones 
+                <lb ed="#P"/>de praesenti et praeterito ex una parte et de futuro ex alia nam illae de praesenti causam habent suae verificationis
+                <lb ed="#P"/>et de praeterito irrevocabiliter si sint mere de praeterito quoniam necesse est suam causam fuisse positam 
+                <lb ed="#P"/>sicut est de ista <name>adam</name> fuit <pc type="punctus"/> non est in potestate aliqua tollere causam suae veritatis vel positionis 
+                <lb ed="#P"/>tenendo proportionaliter quod omne dum est quando est necesse est esse 
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l117-sdpnsp">
+                <pc type="punctus"/> unde ista consequentia est bona <unclear>A</unclear> est <unclear>ergo antecedentem</unclear> est 
+                <lb ed="#P"/>esse vel fuisse <pc type="pilcrow"/> Sed de futuro non est sic nam capiamus istam antichristus erit effectus istius ponetur 
+                <lb ed="#P"/>et tamen potest non poni <pc type="punctus"/> Et ergo est in potestate creaturae verificare tales propositiones vel falsificare quia 
+                <lb ed="#P"/>causa suarum verificationum non est necessaria 
+              </p>
+              <p xml:id="ppra-l117-etaaev">
+                <pc type="pilcrow"/> Et tunc ad rationem si talis esset vera esset 
+                <lb ed="#P"/>determinante veritatis dicitur hic si li determinante sumatur pro necessitate non est hoc verum sed alio modo etc Et quando dicitur 
+                <lb ed="#P"/>ultra sicut propositio de praesenti et de praeterito requirunt verificationem ita de futuro dico quod non est simile sicut tactum est
+              </p>
+              <p xml:id="ppra-l117-asrsde">
+                <lb ed="#P"/><pc type="pilcrow"/> Ad 2am propositionem est iam soluta
+              </p>
+              <p xml:id="ppra-l117-atqeas">
+                <pc type="pilcrow"/>Ad 3am sicut a parte est quod effectus ponatur vel non etc conceditur 
+                <lb ed="#P"/>consequens et totum et quod se habuit propositiones proportionaliter ad res unde aeque bene potest esse vera sicut falsa licet 
+                <lb ed="#P"/>in mente divina stet eius determinatio et ista satis confertur ad materiam praescientiae divinae <unclear>confirmatur</unclear> contingenitubs 
+                <lb ed="#P"/>nam homines decipiuntur propter veritatem de futuro credentes quod sit ac si iam esset versa in <unclear>praedicatum</unclear>
+                <lb ed="#P"/>et in praescientia divina quod quasi esset in praeteritum lapsus Et haec proventi ex deffectu <unclear>logicae</unclear> <unclear>considerandi</unclear>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l117-Dxxxx1">
+          <head xml:id="ppra-l117-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l117-xxxxx3">
+            <lb ed="#P"/><pc type="pilcrow"/>Secuntur ergo conclusiones ultimarum distinctionum libri 3ii sententiarum <pc type="pilcrow"/> prima conclusio de periurio 
+            <lb ed="#P"/>nam omne periurium est fugiendum patet quia includit mendacium et nedum <pc type="punctus"/> sed blasphemiam contra 
+            <lb ed="#P"/>deum et primam voluntatem vel quia creatura est quoddam vestigium dei et sic inducere creaturam ad iudicandum 
+            <lb ed="#P"/>non est bonum
+          </p>
+          <p xml:id="ppra-l117-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio diversa sunt iuramentorum genera Aliqua sunt licita alia illicita <pc type="virgula">/</pc> et hoc 
+            <lb ed="#P"/>erat in antiqua lege inductum ut <unclear>iurare</unclear> per ydola tolleretur <pc type="virgula">/</pc> sed in nostra lege <unclear>materia</unclear> magis 
+            <lb ed="#P"/>prohibitum <pc type="virgula">/</pc> Advertendum est tamen quod aliquod iuramentum quod non est adimplendum In aliis adimplendus est 
+          </p>
+          <p xml:id="ppra-l117-xxxxx5">
+            <pc type="pilcrow"/> Alia distinctio et ultima totius liberi cuius conclusio prima quod 9m praeceptum decalogum <pc type="virgula">/</pc> non concupiscens 
+            <lb ed="#P"/>uxorem proximi <unclear>cui</unclear> unde antiqua prohibeat actus exteriores sed et nostra interiores et exteriores 
+            <lb ed="#P"/>quia nostra est civilis civilitate superna et ideo deffendit utroque
+          </p>
+          <p xml:id="ppra-l117-xxxxx6">
+            <pc type="pilcrow"/> 2a et ultima <pc type="virgula">/</pc> littera dicitur 
+            <lb ed="#P"/>occidere spiritus autem <unclear>vivificare</unclear> quae intelligitur quod <unclear>legimatur</unclear> ad litteram conservata non sufficiunt ad gratiam sed novae de se sunt <unclear>collativa quod est immen et sic fit</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
