@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio119">
+      <head xml:id="ppra-l119-Hldlldl">Lectio 119, de Libertate</head>
+      <div xml:id="ppra-l119-Dd1e109">
+        <head xml:id="ppra-l119-Hrepafc">Recapitulatio et plures vias solvendi difficultatem de
+          concordia praescientiae ad futura contingentia</head>
+        <p xml:id="ppra-l119-eqveai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-eqveai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-eqveai"/>
+          </assertions>
+        </p>
+        <!--
+            does NOT seem present 
+            <div xml:id="ppra-l119-Dd1e117">
+            <head xml:id="ppra-l119-Htvatva">Tertia via</head>
+            <p xml:id="ppra-l119-eicqdi">
+              Et ideo 
+              circa 
+              <cit>
+                <ref xml:id="ppra-l119-Rd1e126" target="http://scta.info/resource/l118-tvipac">primam</ref>
+              </cit> 
+              est advertendum 
+              quod per eam salvatur 
+              quod deus contraria 
+              potest scire sine sui mutatione. 
+              Et haec est una de arduissimis difficultatibus 
+              in ista materia, 
+              scilicet quod deus sciat antichristum fore 
+              et nunquam sciverit absque sui mutatione, 
+              haec autem salvatur 
+              per hanc viam evidenter, 
+              scilicet ratione perfectionis divinae notitiae. 
+              Et unico suo simplici intuitu non compositiva nec divisiva, 
+              non tamen volo negare compositionem realem ad extra 
+              sed negatur compositio et divisio in deo 
+              propter similitudinem quamdam in nobis repertis 
+              quae denotat imperfectionem.
+            </p>
+            <p xml:id="ppra-l119-sdceop">
+              Sed divina cognitio debet resolvi 
+              ad primum nostrum modum considerandi 
+              et concipiendi secludendo illam imperfectionem 
+              quia notitia divina repraesentat res pure comprehensive 
+              secundum omnes habitudines intrinsecas et extrinsecas rerum 
+              et in nobis est imperfectio 
+              quia concipimus res compositive 
+              vel divisive nam simplex intelligentia in nobis 
+              numquam potest esse falsa, 
+              et ita dicitur quod in deo simplex 
+              intelligentia est respectu utriusque partis contradictionis comprehensiva 
+              etiam immensa notitia et sive eveniat hoc 
+              vel illud nulla arguitur in deo mutatio. 
+              Unde si deus cognoscit evidenter antichristum fore 
+              et ponatur quod non erit per hanc viam 
+              salvatur quod, 
+              si non erit, 
+              tunc deus cognoscet eum non fore 
+              qui eodem intuitu adaequate 
+              deus cognoscit utrumque oppositorum.
+            </p>
+            <p xml:id="ppra-l119-ehveop">
+              Et hanc viam tenet 
+              <cit>
+                <ref xml:id="ppra-l119-Rd1e138">
+                  <name ref="#AlexanderOfHales">Alexander de Halis</name> 
+                  in primo ubi movet istam quaestionem 
+                  utrum scientia dei possit esse oppositorum
+                </ref>
+                <bibl>XXX</bibl>
+              </cit>, 
+              et breviter respondet quod sic. 
+              Sed ipse arguit contra ipsummet 
+              quia si sic, 
+              sequitur quod deus sciret utrumque oppositorum esse verum, 
+              igitur opposita essent simul vera. 
+              Ipse respondet distinguendo 
+              de li <mentioned>simul</mentioned> 
+              quando proponitur talis propositio 
+              <mentioned>deus scit simul opposita esse vera</mentioned> 
+              quia vel li <mentioned>simul</mentioned> determinat 
+              li <mentioned>scit</mentioned> 
+              vel li <mentioned>scire</mentioned> imponatur in propositione de possibili, 
+              et tunc conceditur quod deus simul scit utrumque oppositorum esse verum. 
+              Si li <mentioned>simul</mentioned> determinet li <mentioned>oppositorum</mentioned> 
+              vel hoc complexum 
+              <mentioned>
+                utrumque oppositorum esse verum ut sit sensus 
+                quod deus scit utrumque esse verum simul
+              </mentioned> 
+              <cb ed="#SV" n="b"/><!-\-346rb-\->
+              et isto modo propositio esset neganda, 
+              et sic sine mutatione divinae praescientiae 
+              stat futurum contingentia cum praescientia divina, 
+              et eodem intuitu deus est oppositorum praescientia.
+            </p>
+          </div>
+          <div xml:id="ppra-l119-Dd1e178">
+            <head xml:id="ppra-l119-Hqvaqva">Quarta via</head>
+            <p xml:id="ppra-l119-qvpqie">
+              <cit>
+                <ref xml:id="ppra-l119-Rd1e187" target="http://scta.info/resource/l118-qvscdc">quarta via</ref>
+                <!-\-\-dbcheck: <note type="editorialNote">See quarta via above, <ref target="lectio118.xml#l118-qvscdc" type="crossReference">lectio 116, n.</ref></note> -\->
+              </cit>
+              posuit quod sicut 
+              homo de contingentibus et singularibus invenit sibi modum 
+              enunciandi certitudinaliter demonstrative vel universaliter 
+              per terminos universales universaliter enunciando 
+              ut omnes triangulus habet tres angulos aequales duobus rectis, 
+              haec propositio est scita ab homine, 
+              quae tamen nihil significat praeter contingentia et mutabilia, 
+              etiam homo invenit sibi modum certitudinaliter demonstrative ex singularibus, 
+              ut dicendo <name ref="#Sortes">Sortes</name> erit vel non erit 
+              et hiis modis includitur imperfectio quo ad nos 
+              quia per universalem cognitionem confuse cognoscimus 
+              per demonstrativam confuse etiam cognoscimus cum nesciamus 
+              quae illarum contradictoriarum sit vera, 
+              et sic modus universaliter seu demonstrative enunciandi 
+              non est sine confusione. 
+              Sed imaginatur quod in divina notitia 
+              remaneat certitudo cognoscendi 
+              et abstrahatur illud 
+              quod dicit imperfectionem in nobis, 
+              tunc habebitur quod deus distinctione 
+              cognoscit et concipit res certitudinaliter et sine confusione, 
+              nam aeque certe cognoscit, 
+              immo certius de quolibet futuro contingenti, 
+              sicut homo cognoscit de duobus contradictoriis propositis <unclear>demonstrative</unclear> 
+              quam alterum illorum est verum, 
+              nescit tamen determinate quod illorum est.
+            </p>
+          </div>
+          <div xml:id="ppra-l119-Dd1e201">
+            <head xml:id="ppra-l119-Hqnaqna">Quinta via</head>
+            <p xml:id="ppra-l119-qvpmsh">
+              <cit>
+                <ref xml:id="ppra-l119-Rd1e210" target="http://scta.info/resource/l118-qvqrcf">quinta via</ref>
+                <!-\- <note type="editorialNote">See above, "quinta via" <ref target="lectio118.xml#l118-qvqrcf" type="crossReference">lectio 116, n.</ref></note> -\->
+              </cit>
+              ponebat 
+              quod intellectus divinus practicus in cognoscendum veritatis 
+              contingentis se habet libere non quod sit necessarium 
+              quod ista sit vera et quod ista sit vera sed cognoscit 
+              vere istam vel istam esse veram nam scit determinate 
+              quae illarum est vera demonstratis duobus contradictoriis 
+              contingentibus, nam voluntas divina eadem existens adaequate 
+              est causa ponendi <c>a</c> in esse et uniformiter 
+              se habens in causa huiusmodi destructionis, hoc vocatur 
+              in divina natura libertas, nam deus nunc est scientia 
+              quod antichristus erit in quando erit deus erit scientia quod 
+              ipse est, et postquam erit destructus deus erit scientia 
+              huiusmodi quod antichristus non est et quod antichristus 
+              non erit, et talis conditio Reperitur in homine, quia 
+              positis quibuscumque causis Requisitis ad alicuius effectus 
+              productionem voluntas eodem modo se habens adaequate 
+              potest producere effectum, vel potest non producere, nam 
+              voluntas humana ex eo quod producit formaliter 
+               non Recipit aliquid quia habitudo effective 
+              <pb ed="#SV" n="346-v"/>
+              <cb ed="#SV" n="a"/>
+              causalitatis est prior quam habitudo ad actus productionem seu 
+              inceptionem et si nihil voluntas in se haberet ante 
+              productionem actus et post eodem modo se haberet.</p>
+          </div>
+          -->
+        <div xml:id="ppra-l119-Dd1e226">
+          <head xml:id="ppra-l119-Hsxvsxv">Sexta via</head>
+          <p xml:id="ppra-l119-svssea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-svssea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-svssea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l119-eivsea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-eivsea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-eivsea"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l119-Dd1e261">
+          <head xml:id="ppra-l119-Hsvasva">Septima via</head>
+          <p xml:id="ppra-l119-svecoc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-svecoc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-svecoc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l119-Hssqqep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-Hssqqep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-Hssqqep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l119-tdqpdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-tdqpdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-tdqpdp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l119-Dd1e292">
+          <head xml:id="ppra-l119-Hovaova">Octava via</head>
+          <p xml:id="ppra-l119-ovqeed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l119-ovqeed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-ovqeed"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l119-Dd1e305">
+        <head xml:id="ppra-l119-Hprones">Propositiones</head>
+        <p xml:id="ppra-l119-iimdpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-iimdpp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-iimdpp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-penlvc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-penlvc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-penlvc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-spdsfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-spdsfc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-spdsfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-tnfcns">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-tnfcns"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-tnfcns"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-qoqnef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-qoqnef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-qoqnef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-qldanf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-qldanf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-qldanf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-scdced">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-scdced"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-scdced"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-amsame">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-amsame"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-amsame"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l119-Dd1e368">
+        <head xml:id="ppra-l119-Hrpacfc">Rationes pro apparentia contra possibilitatem divinae
+          praescientiae cum futuris contingentibus</head>
+        <p xml:id="ppra-l119-eincfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-eincfc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-eincfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-pceide">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-pceide"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-pceide"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-sceeie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-sceeie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-sceeie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-tceccp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-tceccp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-tceccp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-qceime">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-qceime"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-qceime"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-qcepsn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-qcepsn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-qcepsn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-scemtf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-scemtf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-scemtf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l119-Dd1e441">
+        <head xml:id="ppra-l119-Hdmeafc">Dua manuductiones de concordia ad futura
+          contingentia</head>
+        <p xml:id="ppra-l119-iiivlo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-iiivlo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-iiivlo"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l119-eispvd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-eispvd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-eispvd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-svsnin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-svsnin"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-svsnin"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l119-eaheee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l119-eaheee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l119-eaheee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l119-Dxxxx1">
+        <head xml:id="ppra-l119-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l119-xxxxx3">
+        </p>
+        <p xml:id="ppra-l119-xxxxx4">
+        </p>
+        <p xml:id="ppra-l119-xxxxx5">
+        </p>
+        <p xml:id="ppra-l119-xxxxx6">
+        </p>
+        <p xml:id="ppra-l119-xxxxx7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
