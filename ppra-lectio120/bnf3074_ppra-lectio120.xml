@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 120, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 120, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-04">July 04, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="119-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio120">
+      <head xml:id="ppra-l120-Hldlldl">Lectio 120, de Libertate</head>
+        <div xml:id="ppra-l120-Dd1e109">
+          <head xml:id="ppra-l120-Hrectio">Recapitulatio</head>
+          <p xml:id="ppra-l120-ipvacv">
+            <pc type="pilcrow"/> De praescientia 
+            <lb ed="#P"/>Consequenter adhuc circa materiam de praescientia divina cum futuris contingentibus stat quod nullam rebus 
+            <lb ed="#P"/>imponit necessitatem sed cum ipsarum contingentia stat quia ipsarum nullas non <unclear>nuct</unclear> nec etiam effectum 
+            <lb ed="#P"/>libere productum a causa voluntaria 
+          </p> 
+          <p xml:id="ppra-l120-eivhqi">
+            et ista est satis bona manuductio quoniam revera divina praescientia 
+            <lb ed="#P"/>videt eas secundum quod sunt si sint futurae et cum aliis temporis differentiis <pc type="punctus"/>
+          </p> 
+          <!-- doesn't seem present 
+            <p xml:id="ppra-l120-eiapcb">
+            Et inter alias vias, 
+            ista est facilior ad concipiendum, 
+            et alias vias non prosequor causa brevitatis.
+          </p>--> 
+        </div>
+        <div xml:id="ppra-l120-Dd1e127">
+          <head xml:id="ppra-l120-Hddpper">Difficultas de praedestinatione et reprobatione</head>
+          <p xml:id="ppra-l120-srdped">
+            <pc type="pilcrow"/> Sed tamen restat maior 
+            <lb ed="#P"/>difficultas de praedestinatione et reprobatione nam intra veritatis conditionem praedestinatus videtur dicere actum 
+            <lb ed="#P"/>voluntatis divinae et determinationem quae habet determinationem sive ratione effectuum <pc type="virgula">/</pc> et cum tamen praescientia divina non rebus 
+            <lb ed="#P"/>imponat necessitatem praedestinatio videtur imponere vel etiam reprobatio
+          </p>
+        </div>
+        <div xml:id="ppra-l120-Dd1e140">
+          <head xml:id="ppra-l120-Hpropsl">Propositio: Quilibet qui est viator potest esse praedestinatus stante lege</head>
+          <p xml:id="ppra-l120-pdmepa">
+            <pc type="pilcrow"/> Pro cuius declaratione et evidentia po<lb ed="#P"/>nuntur 
+            aliquales propositiones quarum prima <pc type="virgula">/</pc> Quilibet viator potest esse praedestinatus stante 
+            <lb ed="#P"/>lege ut nunc <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> nam quilibet potest facere quod in se est ad sui finis consecutionem qua 
+            <lb ed="#P"/>lege stante exibit ad gratiam si faciat si non ad dampnationem et reprobationem ergo est in 
+            <lb ed="#P"/>sua potestate salvari vel non salvari <pc type="punctus"/> <pc type="virgula">/</pc> quare sequitur quod stante lege sine miraculo potest quis 
+            <lb ed="#P"/><del rend="strikethrough">salvari</del> esse vel etiam quilibet praedestinatus aequaliter
+          </p> 
+          <p xml:id="ppra-l120-ueaqid">
+            <pc type="pilcrow"/> Ubi debemus advertere quod si divina praescientia nullam 
+            <lb ed="#P"/>imponat veritatibus necessitatem nec divina voluntas cuius intrinseca conditio vel causalitas est <unclear>nde</unclear> intrinseca 
+            <lb ed="#P"/>libera et magis habet rationem libertatis quam intellectus <pc type="virgula">//</pc> Ex quo patet quod praedestinatio ratione voluntatis 
+            <lb ed="#P"/>nullum habet difficultatis gradum vel respectu ipsius nec est color ad necessitatem inducendum <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> haec 
+            <lb ed="#P"/>ex radice iam tacta <pc type="punctus"/> quia intrinsece est libera ergo etc <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l120-eqaeid">
+            <pc type="pilcrow"/> Ex quo patet contra <ref xml:id="ppra-l120-Rd1e155"><name ref="#Aureoli">aureolum</name></ref> quod haec 
+            <lb ed="#P"/>consequentia non valet voluntas divina est ab aeterno determinata per velle ad producendum <c>a</c> effectum futurum ergo necesse 
+            <lb ed="#P"/>est eam sic fuisse determinatam respectu illius effectus <del rend="strikethrough">consequentia</del> antecedens est verum et tamen consequens contra fidei veritatem 
+            <lb ed="#P"/><pc type="pilcrow"/> unde idem <name ref="#Aureoli">aureolus</name> deffecit non considerando de ratione libertatis divinae respectu effectus quae quidam est idem 
+            <lb ed="#P"/>cum intellectu divino adaequate <pc type="punctus"/> sic quod possit agere vel non <pc type="virgula">/</pc> et hoc experimur in nobis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l120-eqspsr">
+            <lb ed="#P"/><pc type="pilcrow"/> Ex quo sequitiur quod deus magis potestate concedit ad praedestinationem quam ad reprobationem <del rend="strikethrough">sed</del> scilicet utrobique 
+            <lb ed="#P"/>et aeque contingenter quo ad primum patet quia deus respectu operationis elicite a viatore concurrit praemovendo
+            <pb ed="#P" n="120-r"/>
+            <lb ed="#P"/>et specialiter dirigendo in gloriam conferendo gratiam in praesenti <pc type="virgula">/</pc> non sic autem in opere reprobati 
+            <lb ed="#P"/>nec deus specialiter vult suum finem ultimum videlicet aeternam dampnationem <pc type="pilcrow"/> unde probabiliter 
+            <lb ed="#P"/>potest dici quod deus se habet privative vel negative respectu praesciti vel dampnati ubi se 
+            <lb ed="#P"/>habet positive in praedestinato 
+          </p> 
+          <p xml:id="ppra-l120-ssqtee">
+            <pc type="pilcrow"/>Sequitur ulterius quod licet non steterit de lege nunc ordinata cum 
+            <lb ed="#P"/>praedestinato nec staret ex <unclear>ypothesy</unclear> posse esse praescitum non tamen econtra 
+          </p>
+        </div>
+        <div xml:id="ppra-l120-Dd1e186">
+          <head xml:id="ppra-l120-Hqdgdgp">Quod duplex gradus <unclear>praedestinationis[?]</unclear></head>
+          <p xml:id="ppra-l120-pcdfam">
+            <pc type="virgula">/</pc> Pro cuius evidentia 
+            <lb ed="#P"/>est videndum quod duplex est praedestinatorum gradus primus est generalis de quibus constat divino 
+            <lb ed="#P"/>intellectui quod voluntas est contingenter determinata scilicet divina ad futura gloriam suam concedendam scilicet in alia vita 
+            <lb ed="#P"/>haec autem est generalis praedestinatio cum qua stat non agere sic quod sit praevolitum est a deo 
+            <lb ed="#P"/>ymmo contingenter voluntas divina faciet actum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l120-aemipv">
+            <pc type="pilcrow"/> Alius est modus specialis dictus omni 
+            <lb ed="#P"/>confirmatione et <sic>impossibilitatione</sic> respectu creaturae de carentia finalis perseverantiae <pc type="pilcrow"/> unde aliqui praede<lb ed="#P"/>stinarum 
+            fuerunt sic praedestinati quod non fuit in eorum potestate non fuisse <del rend="expunctuation">non</del> praedestinati de quibus 
+            <lb ed="#P"/>verum est tamen deum eos in gratia confirmasse quare stante lege non est possibile eos 
+            <lb ed="#P"/>esse praescitos <pc type="virgula">/</pc> sicut de <name>iohanne baptista</name> et <name>beata virgine</name> licet deus potuisset eos omnino deserere 
+            <lb ed="#P"/><pc type="pilcrow"/> de praescitis autem habentibus usum rationis non sic quia non potest eos obstinere in via
+          </p>
+          <p xml:id="ppra-l120-cqerom">
+            <pc type="virgula">/</pc> Circa 
+            <lb ed="#P"/>quod advertendum est quod doctores et sacramenta scriptura volunt quod electi dei non possunt cadere 
+            <lb ed="#P"/>intelligendum tamen est hoc secundum 2am acceptationem praedictam <pc type="punctus"/> unde electi cum sumpto influentiae 
+            <lb ed="#P"/>quod non permittat cadere non est in eorum potestate ut sint praesciti nec etiam possibile est 
+            <lb ed="#P"/>quod dampnentur capiendo <mentioned>adhuc</mentioned> in sensu diviso <pc type="virgula">/</pc> quoniam non possunt a gratia cadere nec 
+            <lb ed="#P"/>finaliter eam perdere <pc type="punctus"/> et haec de confirmatis est sic intelligendum <pc type="virgula">/</pc> de reprobatis autem et praescitis non 
+            <lb ed="#P"/>sic quia divinae voluntatis est <unclear>impossibilitate</unclear> ad malum <pc type="punctus"/> sed ad bonum esset contra deum <pc type="punctus"/> Et sic 
+            <lb ed="#P"/>differenter deus se habet et diversimode respectu horum et illorum non obstante sua benignissima misericordia
+          </p>
+          <div xml:id="ppra-l120-Dd1e231">
+            <head xml:id="ppra-l120-Hpdgdgp">Propositiones de gradu <unclear>praedestinationis[?]</unclear></head>
+            <p xml:id="ppra-l120-padmpp">
+              <lb ed="#P"/><pc type="pilcrow"/> pro cuius declaratione maiori ponuntur aliquae propositiones prima est quod praedestinatio primo modo accepta 
+              <lb ed="#P"/>nullum tribuit intrinsece praedestinato gradum dignitatis nec reprobatio indignitatis patet nam cum 
+              <lb ed="#P"/>aeterna dei praedestinatione stat <unclear>quantumlibet<!-- possible correction here --></unclear> gradus malitiae intensus <pc type="punctus"/> et de reprobato stat 
+              <lb ed="#P"/><unclear>quantumlibet</unclear> gradum perfectionis nam potest recipere ipsum gradum patet quoniam in baptismate aequaliter praescitus 
+              <lb ed="#P"/>et praedestinatus recipiunt gratiam et alia dona caritatis et sic ab intra correspondet idem perfectionis 
+              <lb ed="#P"/>gradus
+            </p>
+            <p xml:id="ppra-l120-pepaad">
+              <pc type="pilcrow"/> Ex quo patet quod divina acceptatio in via quo ad creaturas denotatur grata et 
+              <lb ed="#P"/>vita aeterna digna <pc type="virgula">/</pc> nam potest esse respectu praesciti sic <pc type="virgula">/</pc> ut patet in puero noviter baptismato 
+              <lb ed="#P"/>quia acceptatio est secundum gradum caritatis mediante acceptatione divina aliter non sufficeret
+            </p>
+            <p xml:id="ppra-l120-sprvdc">
+              <pc type="pilcrow"/> Item praede<lb ed="#P"/>stinatio respectu divinarum actuum denotat cognitionem felicitatis futurae deinde proportionalem volitionem 
+              <lb ed="#P"/>Sed constat quod determinatio divinae voluntatis independentis a voluntate humana respectu ipsius voluntatis de pendenter 
+              <lb ed="#P"/>ipsa voluntas dependens nullam dicit perfectionem nisi <unclear>referendus</unclear> ad divinam et sic non debet de 
+              <lb ed="#P"/>hoc laudari neque vituperari
+            </p>
+            <p xml:id="ppra-l120-eqsqdp">
+              <pc type="pilcrow"/> Ulterius sequitur quod dictum scripturae de <name ref="#Jacob">iacob</name> et <name ref="#Esau">esau</name> 
+              <lb ed="#P"/>potest intelligi secundum allegoriam ut <name ref="#Jacob">iuacob</name> figuret ecclesiam et <name ref="#Esau">esau</name> synagogam <pc type="punctus"/> Et 
+              <lb ed="#P"/>sic idem dictum est <unclear>personale</unclear>
+            </p>
+            <p xml:id="ppra-l120-sprqnh">
+              2o potest intelligi de speciali electione scilicet <name ref="#Jacob">iacob</name> dilexerit 
+              <lb ed="#P"/>dilectione cum ipso tamen cadente <pc type="punctus"/> et ista vocatur gratia cadens <pc type="punctus"/> <pc type="virgula">/</pc> sed alia est specialis 
+            </p>
+            <p xml:id="ppra-l120-uenpep">
+              <pc type="virgula">/</pc> ubi 
+              <lb ed="#P"/>advertendum est quod aliquorum fuit oppinio quod praedestinatio respectu creaturae causat necessitatem 
+              <lb ed="#P"/>unde licet concedant possibilitatem ad contrarium dicunt tamen de revelatis sed gentiles omnes 
+              <lb ed="#P"/>hoc videntur evitare <pc type="punctus"/> <pc type="virgula">/</pc> nam etiam isto modo daretur ignorantia negligendi salutem <pc type="punctus"/> <pc type="pilcrow"/> Nihilominus 
+              <lb ed="#P"/>est dicere tutius quod quilibet contingenter salvabitur nec praescientia praedestinatio etc plus ponunt 
+              <lb ed="#P"/>necessitatem quam si non essent
+            </p>
+            <p xml:id="ppra-l120-eqssps">
+              <pc type="pilcrow"/> Ex quo sequitur quod nulli praescito repugnat habere gratiam 
+              <lb ed="#P"/>et divinam acceptationem et ista sufficiunt in uno sicut in reliquo <pc type="pilcrow"/> Ex quo patet quod aequaliter 
+              <lb ed="#P"/>reperitur dignitas tam in praescito quam <del rend="strikethrough">in praescito</del> <sic>quam</sic> praedestinato Et sic nihil se habet re<lb ed="#P"/>pugnans 
+              in praedestinato ad mortem vel culpam <pc type="pilcrow"/> Ex quo sequitur esse falsum quod omne meritum 
+              <lb ed="#P"/>est effectus divinae praedestinationis patet <pc type="virgula">/</pc> quoniam stat sortem actualiter mereri et tamen non salvari 
+              <lb ed="#P"/><pc type="pilcrow"/> Unde <name ref="#Peter">petrus</name> peccaverit et aeterna morte eo ipso dignus et tamen erat praedestinatus <pc type="pilcrow"/> Ex 
+              <lb ed="#P"/>alio patet nam quicumque servat mandata dei dignus est vita aeterna et tamen stat aliquem praescientem 
+              <lb ed="#P"/>ipsa servare ergo merebitur vitam aeternam <!-- good break point --> <pc type="pilcrow"/> Ultimo advertendum est quod tenendo aliam viam 
+              <lb ed="#P"/>non est alia resolutio nisi quod divina immensitas est ultima respectu iustitiae cui standum est 
+              <lb ed="#P"/><pc type="pilcrow"/> unde nec ratio naturalis nec iudicium est regula sufficines ad concludendum hoc est iustum vel non 
+              <lb ed="#P"/><pc type="pilcrow"/> unde diceretur quod libertate sublata oculto iudicio deus iustissime faceret quod unum eligeret 
+              <lb ed="#P"/>et aliam dereliqueret non respiciendo ad merita <pc type="virgula">/</pc> Et ideo secundum <name rend="#Paul">apostolum</name> apparet hoc nam dicit <ref xml:id="ppra-l120-Rd1e309"><name>apostolus</name></ref>
+              <lb ed="#P"/><quote xml:id="ppra-l120-Qd1e317" source="http://scta.info/resource/rom9_21">figulus facit unum vas in contumeliam fungens et ex eadem materia aliud reparans sive reordinans</quote>
+              <lb ed="#P"/>Ita de deo diceretur <pc type="virgula">/</pc> Et sic <unclear>tenat</unclear> quam viam voluerit prima tamen tutor unde licet haec consequentia sit 
+              <lb ed="#P"/><unclear>?Va</unclear> praedestinatus est ergo salvabitur nihilominus daret aliqualiter occasionem peccandi adhuc <unclear>positionem</unclear> et hoc consurgit 
+              <lb ed="#P"/>ex negligentia et ignorantia intellectus <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l120-Dxxxx1">
+          <head xml:id="ppra-l120-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l120-xxxxx3">
+            <pc type="pilcrow"/>Secuntur distinctiones primo 3a 4ti cuius conclusio prima de baptismo <pc type="virgula">/</pc> verum 
+            <pb ed="#P" n="120-v"/>
+            <lb ed="#P"/>materia baptismi est elementarum aqua et hoc est ad removendum alios liquores <pc type="punctus"/> sed forma sacramenti 
+            <lb ed="#P"/>constat in verbis quae talis est ego baptizo te in nomine patris et filii et spiritus sancti unde sciendum est 
+            <lb ed="#P"/>quod in homine qui sufficienter fidem haberet sufficeret solum illa <unclear>calu?la</unclear> in nomine patris etc sicut in 
+            <lb ed="#P"/>multis sanctis facit in alio autem non sicut in pueris et infantalis 
+          </p>
+          <p xml:id="ppra-l120-xxxxx4">
+            <pc type="virgula">/</pc> Circa 2m punctum baptismus 
+            <lb ed="#P"/>fuit circa tempus iohannis et ille filia nostri fuit vel etiam circumcisio <pc type="punctus"/> tamen baptisma iohannis futi in aqua solum 
+            <lb ed="#P"/>et vocabatur baptisma et poenitentiae quia idem 1o praedicabat poenitentiam agite appropinquatis regnum caelorum
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

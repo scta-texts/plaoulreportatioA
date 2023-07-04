@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio120">
+      <head xml:id="ppra-l120-Hldlldl">Lectio 120, de Libertate</head>
+      <div xml:id="ppra-l120-Dd1e109">
+        <head xml:id="ppra-l120-Hrectio">Recapitulatio</head>
+        <p xml:id="ppra-l120-ipvacv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-ipvacv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-ipvacv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-eivhqi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-eivhqi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-eivhqi"/>
+          </assertions>
+        </p>
+        <!-- doesn't seem present 
+            <p xml:id="ppra-l120-eiapcb">
+            Et inter alias vias, 
+            ista est facilior ad concipiendum, 
+            et alias vias non prosequor causa brevitatis.
+          </p>-->
+      </div>
+      <div xml:id="ppra-l120-Dd1e127">
+        <head xml:id="ppra-l120-Hddpper">Difficultas de praedestinatione et reprobatione</head>
+        <p xml:id="ppra-l120-srdped">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-srdped"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-srdped"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l120-Dd1e140">
+        <head xml:id="ppra-l120-Hpropsl">Propositio: Quilibet qui est viator potest esse
+          praedestinatus stante lege</head>
+        <p xml:id="ppra-l120-pdmepa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-pdmepa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-pdmepa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-ueaqid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-ueaqid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-ueaqid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-eqaeid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-eqaeid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-eqaeid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-eqspsr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-eqspsr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-eqspsr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-ssqtee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-ssqtee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-ssqtee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l120-Dd1e186">
+        <head xml:id="ppra-l120-Hqdgdgp">Quod duplex gradus
+          <unclear>praedestinationis</unclear></head>
+        <p xml:id="ppra-l120-pcdfam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-pcdfam"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-pcdfam"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-aemipv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-aemipv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-aemipv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l120-cqerom">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l120-cqerom"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-cqerom"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l120-Dd1e231">
+          <head xml:id="ppra-l120-Hpdgdgp">Propositiones de gradu
+              <unclear>praedestinationis</unclear></head>
+          <p xml:id="ppra-l120-padmpp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-padmpp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-padmpp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-pepaad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-pepaad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-pepaad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-sprvdc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-sprvdc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-sprvdc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-eqsqdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-eqsqdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-eqsqdp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-sprqnh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-sprqnh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-sprqnh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-uenpep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-uenpep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-uenpep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l120-eqssps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l120-eqssps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l120-eqssps"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l120-Dxxxx1">
+        <head xml:id="ppra-l120-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l120-xxxxx3">
+        </p>
+        <p xml:id="ppra-l120-xxxxx4">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
