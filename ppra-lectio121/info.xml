@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio121">
+      <head xml:id="ppra-l121-Hldlldl">Lectio 121, de Libertate</head>
+      <div xml:id="ppra-l121-Dd1e109">
+        <head xml:id="ppra-l121-Hrarrar">Responsio ad rationes</head>
+        <div xml:id="ppra-l121-Dd1e114">
+          <head xml:id="ppra-l121-arbarb">Ad primam et secundam rationes Boetii</head>
+          <p xml:id="ppra-l121-readpv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-readpv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-readpv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-prqpcl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-prqpcl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-prqpcl"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-pcdsqo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-pcdsqo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-pcdsqo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-espeid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-espeid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-espeid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-espiip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-espiip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-espiip"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-eqatad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eqatad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eqatad"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l121-eqahqf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eqahqf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eqahqf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-iedfie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-iedfie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-iedfie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-eqoeap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eqoeap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eqoeap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-eihpep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eihpep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eihpep"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present  
+              <p xml:id="ppra-l121-sempic">
+              <cb ed="#SV" n="b"/><!-\-SV349vb-\->
+              secundo eodem modo se habens adaequate potest in contraria.
+            </p>-->
+          <p xml:id="ppra-l121-tpisid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-tpisid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-tpisid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-eihupc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eihupc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eihupc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-eqstqp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-eqstqp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-eqstqp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-cqssdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-cqssdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-cqssdp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-sarapr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-sarapr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-sarapr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-rqhish">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-rqhish"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-rqhish"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e295">
+          <head xml:id="ppra-l121-Haqranr">Ad quintam rationem</head>
+          <p xml:id="ppra-l121-tarish">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-tarish"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-tarish"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-esasfc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-esasfc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-esasfc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-sevsfc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-sevsfc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-sevsfc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-arafec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-arafec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-arafec"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e353">
+          <head xml:id="ppra-l121-Haaraar">Ad sextam rationem</head>
+          <p xml:id="ppra-l121-aarnep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-aarnep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-aarnep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-sdqsdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-sdqsdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-sdqsdp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-tddtcg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-tddtcg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-tddtcg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l121-qdqcnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-qdqcnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-qdqcnd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e391">
+          <head xml:id="ppra-l121-arfarf">Ad septimam rationem FitzRalph</head>
+          <p xml:id="ppra-l121-arfavc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-arfavc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-arfavc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e418">
+          <head xml:id="ppra-l121-Harriae">Ad octavam rationem Rodington</head>
+          <p xml:id="ppra-l121-arriae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-arriae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-arriae"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e436">
+          <head xml:id="ppra-l121-Haarsed">Ad nonam rationem Rodington</head>
+          <p xml:id="ppra-l121-aarsed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-aarsed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-aarsed"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e451">
+          <head xml:id="ppra-l121-aaraar">Ad undecimam rationem</head>
+          <p xml:id="ppra-l121-arddar">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l121-arddar"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l121-arddar"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l121-Dxxxx1">
+        <head xml:id="ppra-l121-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l121-xxxxx3">
+        </p>
+        <p xml:id="ppra-l121-xxxxx4">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

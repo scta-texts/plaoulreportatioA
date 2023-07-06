@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 121, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 121, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-04">July 04, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="120-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio121">
+      <head xml:id="ppra-l121-Hldlldl">Lectio 121, de Libertate</head>
+        <div xml:id="ppra-l121-Dd1e109">
+          <head xml:id="ppra-l121-Hrarrar">Responsio ad rationes</head>
+          <div xml:id="ppra-l121-Dd1e114">
+            <head xml:id="ppra-l121-arbarb">Ad primam et secundam rationes Boetii</head>
+            <p xml:id="ppra-l121-readpv">
+              <lb ed="#P"/>Consequenter circa materiam de praedestinatione restant aliquae rationes solvendae. Et primo <ref xml:id="ppra-l121-Rd1e123">ad rationem 
+              <lb ed="#P"/><name ref="#Boethius">boetii</name></ref> quae stat in hoc quod deus cuncta conspicit igitur necessario cognoscit vel scit evenire sic debent 
+              <lb ed="#P"/>Et confirmatur si ita futura sint quod evenire debeat etc
+            </p>
+            <p xml:id="ppra-l121-prqpcl">
+              <pc type="pilcrow"/> Breviter respondetur quod <name ref="#Boethius">boecius</name> 
+              <lb ed="#P"/>intellexit de necessitate conditionata vel <unclear>commune</unclear> intendo istam consequentiam esse bonam videlicet deus noverit ita 
+              <lb ed="#P"/>fore igitur sic erit vel conditionalis ex ea cmposita erit vera scilicet haec si deus noverit ita fore ita erit 
+              <lb ed="#P"/>Et sic in hoc est finalis solutio <pc type="pilcrow"/> Sed quia non plene evacuatur difficultas ideo ut videtur 
+              <lb ed="#P"/>redibit ridiculum <name ref="#Tiresias">tyrisie</name> nisi divina notitia sit indivisibiliter ad aliqua limitata 
+            </p>
+            <p xml:id="ppra-l121-pcdsqo">
+              <pc type="virgula">/</pc> Pro 
+              <lb ed="#P"/>cuius aliquali declaratione praemittit idem <name ref="#Boethius">boetius</name> quod sunt plures gradus cognoscendi quorum superior <unclear>regit</unclear> 
+              <lb ed="#P"/>semper inferiorem et hoc patet in eodem supposito sicut in homine <pc type="punctus"/> nam sensus tactus et visus 
+              <lb ed="#P"/>sunt in homine cum aliis sensibus et tamen sensus visus melius iudicat de quantitate rei quam tactus 
+              <lb ed="#P"/><pc type="pilcrow"/> Item sensus communis tertius nobilius et melius iudicat quam aliquis sensus particularis Et ita vis 
+              <lb ed="#P"/>est imaginativa iudicat de hiis de quibus non potest sensus <del rend="strikethrough">communis</del> et intellectiva de quibus aestimativa 
+              <lb ed="#P"/>non potest et sic ascendendo usque ad gradum suppremum habet alium et alium cognoscendi modum <pc type="punctus"/> Et 
+              <lb ed="#P"/>in hoc evacuatur praesens difficultas quia tanta est dei immensitas quod non potest <unclear>enarrari</unclear> <pc type="pilcrow"/> Pro satisfactione 
+              <lb ed="#P"/>cum advertendum est quod quaelibet 6 viarum praetactarum posset ad quodlibet argumentum applicari <pc type="punctus"/> sed 
+              <lb ed="#P"/>via est quam magis reputo probabilem quod divina notitia se habet per modum potentiae libere respectu 
+              <lb ed="#P"/>veritatum contingentium Ita quod sicut divina voluntas dicitur ex eo libera quod uniformiter et intrinsece se 
+              <lb ed="#P"/>habet nunc agendo nunc non Ita de cognitione divina quia nunc scientia alicuius et post nunc scientia oppositi 
+              <lb ed="#P"/>Nam sicut per eamdem volitionem adaequate vult aliquid esse productum per illam eamdem vult illud esse 
+              <lb ed="#P"/>destructum ita divina notitia sive cognitio divina respectu unius <unclear>ven?tis</unclear> est assensus et illa eadem sui 
+              <lb ed="#P"/>contrarii assensus eodem modo consideratus <pc type="punctus"/> 
+            </p> 
+            <p xml:id="ppra-l121-espeid">
+              <pc type="pilcrow"/> Et similiter sicut divina voluntas eadem existens adaequate <unclear>divinorum</unclear> 
+              <lb ed="#P"/>effectuum est productiva sive volitiva Ita per eandem assensus asserit deus quod antichristus erit <del rend="strikethrough">vel non erit</del> 
+              <lb ed="#P"/>et quod <name>adam</name> non est 
+            </p> 
+            <p xml:id="ppra-l121-espiip">
+              <pc type="virgula">/</pc> nam per eandem rationem causalem exit voluntas divina in actum 
+              <lb ed="#P"/>Ita quod non sint rationes causales ab intra distincte ut superius visum fuit <pc type="virgula">/</pc> et sic 
+              <lb ed="#P"/>est differentia inter theologia et philosophia nam philosophus ponit quod idem inquantum idem semper natum est faciendum 
+              <lb ed="#P"/>Theologus vero dicit oppositum videlicet quod idem bene natum est facere diversa <pc type="virgula">/</pc> nam assensus 
+              <lb ed="#P"/>divinus formaliter asseruit huic quod antichristus erit scilicet veritatis contingentis et per eundum assensum quod non erit 
+              <lb ed="#P"/>vel quod est contingens ipsum antichristum fore <pc type="punctus"/>
+            </p> 
+            <p xml:id="ppra-l121-eqatad">
+              <pc type="pilcrow"/> Unde patet hanc consequentiam non valere <pc type="virgula">/</pc> aeternum dei 
+              <lb ed="#P"/>exemplar adaequatur <c>a</c> exemplato <pc type="punctus"/> adaequativo simplicis veritatis et <c>b</c> similiter ergo <c>a</c> et <c>b</c> inter se 
+              <lb ed="#P"/>adaequantur <pc type="pilcrow"/> Pro quo advertendum est quod secundum doctores veritas creata consistit in quadam 
+              <lb ed="#P"/>adaequatione ipsius exemplati ad exemplar productivum modo haec consequentia non valet <c>b</c> effectus adaequatur 
+              <lb ed="#P"/>suo exemplari et <c>c</c> adaequatur eidem ergo adaequantur inter se <pc type="virgula">/</pc> quia in eis reservata habitudine exemplaris 
+              <lb ed="#P"/>ad exemplatum stat diversitas in eis <pc type="punctus"/> Et sic omnes veritates creatae <unclear>assistantur</unclear> exemplari et tamen non 
+              <lb ed="#P"/>inter se Et hoc habet locum in obiectis assensibus <pc type="virgula">/</pc> nam idem est assensus quod antichristus erit qui potest stare 
+              <lb ed="#P"/>quod antichristus non erit sicut dictum est 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l121-eqahqf">
+              <pc type="punctus"/> et hoc potest conferre huic scilicet quod deus de novo incipiat 
+              <lb ed="#P"/>scire aliquam propositionem <pc type="virgula">/</pc> patet enim similem consequentiam extra materiam praesentem non valere sumendo quod unum 
+              <lb ed="#P"/>infinitum non sit maius alio et quod finiti ad finitum non sit certa proportio tunc 
+              <lb ed="#P"/>stat quod tempus infinitum si daretur actualiter haberet eamdem proportionem ad annum sicut ad diem 
+              <lb ed="#P"/>ergo duratio temporis est aequalis et tamen dies et annus non adaequentur
+            </p> 
+            <p xml:id="ppra-l121-iedfie">
+              Et ad tollendum 
+              <lb ed="#P"/>talem assensum non experimur in nobis <pc type="pilcrow"/> Ita etiam potest exemplificari de corpore infinito <pc type="pilcrow"/> Sed 
+              <lb ed="#P"/>hoc certissime non est mirandum divina immensitate considerata nam ratione ipsius provenit 
+              <lb ed="#P"/>utraque pars contradictionis Et ergo quantum est ex parte divini assensus haec etiam est sibi propositum <pc type="pilcrow"/> Sed quia 
+              <lb ed="#P"/>pura veritas quae falso repugnat non concedit <unclear>o?nter</unclear> quod <unclear>asserat</unclear> duobus contradictoriis 
+              <lb ed="#P"/>licet eamdem notitiam habeat amborum contradictorum 
+            </p>
+            <p xml:id="ppra-l121-eqoeap">
+              Ideo sequitur incompossibilitas sui assensus cum nostro et 
+              <lb ed="#P"/>immutabilitas eius cum mutabilitate scibilium nostrorum a suis <pc type="pilcrow"/> Ex quo sequitur quod pro tanto aliquid in eo 
+              <lb ed="#P"/>non mutatur <pc type="virgula">/</pc> nam per idem velle producit <name>sortem</name> et destruit quia uniformiter in hoc se 
+              <lb ed="#P"/>habet et antequam sortes <pc type="punctus"/> esset se habebat 
+            </p>
+            <p xml:id="ppra-l121-eihpep">
+              <pc type="virgula">/</pc> et haec conditio est propria voluntati libere et nedum circa 
+              <lb ed="#P"/>voluntatem divinam sed etiam circa voluntatem creatam <pc type="virgula">/</pc> nam stat bene quod voluntas nostra exeat 
+              <lb ed="#P"/>in actum aliquem vel non <pc type="punctus"/> absque tamen vitali commutatione
+            </p>
+            <!--
+              Doesn't seem present  
+              <p xml:id="ppra-l121-sempic">
+              <cb ed="#SV" n="b"/><!-\-SV349vb-\->
+              secundo eodem modo se habens adaequate potest in contraria.
+            </p>-->
+            <p xml:id="ppra-l121-tpisid">
+              <pc type="pilcrow"/> Item etiam quoad diversitatem proposito 
+              <lb ed="#P"/>sibi obiecto potest elicere quod vult ergo si reperiamus effectus oppositos <unclear>nimirum</unclear> quia in hoc
+              <pb ed="#P" n="121-r"/>
+              <lb ed="#P"/>non cadit aliqua dei mutatio Et sic non est inconveniens quod divina notitia se habet respectu 
+              <lb ed="#P"/>futurum contingentium <pc type="virgula">/</pc> unde idem est velle et scire in deo
+              
+            </p>
+            <p xml:id="ppra-l121-eihupc">
+              <pc type="virgula">/</pc> Et in hoc potest glosari <name>boetius</name>
+              <lb ed="#P"/>qui dicit quod futura in se considerata sunt con?tta relata autem ad deum sunt necessaria 
+              <lb ed="#P"/>per quod non videtur capere notitiam conditionalem sive necessitatem conditionalem <pc type="pilcrow"/> unde <name>boetius</name> repraesentavit 
+              <lb ed="#P"/>hoc non posse capi ad plenum quia semper uniformis est ipsa notitia et ratione suae immensitatis 
+              <lb ed="#P"/>provenit utramque partem contradictionis 
+            </p> 
+            <p xml:id="ppra-l121-eqstqp">
+              <pc type="punctus"/> <pc type="pilcrow"/> Ex quo sequitur ulterius quod magis provenit ex modo 
+              <lb ed="#P"/>enuntiandi quam ex alio <pc type="pilcrow"/> unde si deus quid scivit ab aeterno illud scivit sicut patet de illa antichristus erit 
+              <lb ed="#P"/>nec deo repugnat quid scire de novo <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l121-cqssdp">
+              <pc type="pilcrow"/> Confirmatur nam sicut ratione immensitatis 
+              <lb ed="#P"/>non repugnat acceptare <name>sortem</name> sic non repugnat ipsum deacceptare vel etc igitur non 
+              <lb ed="#P"/>cadit repugnantia ex parte divinae scientiae <pc type="pilcrow"/> Et miror vlade quin consideratur habitudo dei ad res 
+              <lb ed="#P"/>certissime videre modo ista materia bene resoluta maiorem difficultatem includeret 
+              <lb ed="#P"/>quam materia de praedestinatione vel saltim aeque magna <pc type="punctus"/> 
+            </p> 
+            <p xml:id="ppra-l121-sarapr">
+              <pc type="pilcrow"/> Sed tamen restat dubium utrum 
+              <lb ed="#P"/>deus sit respectu utriusque partis contradictionis videlicet unde consurgit quod magis 
+              <lb ed="#P"/>assentiat huic quam sit nam videtur prima facie quod si eius assensus sit plus ad unum quam 
+              <lb ed="#P"/>ad alium videtur esse mutabilis
+            </p>
+            <p xml:id="ppra-l121-rqhish">
+              <pc type="pilcrow"/>Respondetur ad hoc quod totum hoc ex immensitate sua consurgit 
+              <lb ed="#P"/>et de habitudine quam habet ad res resolvendum etiam est ad divinae perfectionis immensitatem et hoc sufficit 
+              <lb ed="#P"/>sic resolvere et hoc de rationibus <add>boetii</add> sufficiat 
+            </p> 
+          </div>
+          <div xml:id="ppra-l121-Dd1e295">
+            <head xml:id="ppra-l121-Haqranr">Ad quintam rationem</head>
+            <p xml:id="ppra-l121-tarish">
+              <pc type="pilcrow"/> <ref xml:id="ppra-l121-Rd1e304" target="http://scta.info/resource/ppra-l118-iatnts">Ad rationes <name>altissiod<del rend="expunctuation">i</del>orensis</name></ref> 
+              <lb ed="#P"/>patet nam arguit sic homo praescivit <c>a</c> fore ergo necessario scit <c>a</c> fore <pc type="virgula">/</pc> dicitur quod prima consequentia conceditur
+            </p>
+            <p xml:id="ppra-l121-esasfc">
+              <lb ed="#P"/>sed si arguatur de deo a simili negatur similitudo quia naturaliter scientia futurum contingentium non est in nobis 
+              <lb ed="#P"/>in deo autem
+            </p> 
+            <p xml:id="ppra-l121-sevsfc">
+              Item etiam ex varia habitudine scibilis ad scibilie nam scientia nostra deppendet 
+              <lb ed="#P"/>a necessariis causali <pc type="virgula">/</pc> scientia vero dei est indeppendens et ergo si concludatur ex nostra non sequitur 
+              <lb ed="#P"/><unclear>si?do</unclear> ad scientiam divinam
+            </p> 
+            <p xml:id="ppra-l121-arafec">
+              <pc type="pilcrow"/> Aliter tamen respondet <name>altissiodorensis</name> dicit quod scientia dei quantum ad infal<lb ed="#P"/>libilitatem 
+              respectu futurum contingentium est nostra certior <pc type="punctus"/> sed quantum ad rei fixionem nostra est certior 
+              <lb ed="#P"/>quia dei scientia obiectum fixibile non habet <pc type="punctus"/> nostra autem habet
+            </p>
+          </div>
+        <div xml:id="ppra-l121-Dd1e353">
+          <head xml:id="ppra-l121-Haaraar">Ad sextam rationem</head>
+          <p xml:id="ppra-l121-aarnep">
+            <pc type="pilcrow"/><ref xml:id="ppra-l121-Rd1e362" target="http://scta.info/resource/ppra-l118-siaemi">Ad aliam</ref> numerus praedestinatarum est 
+            <lb ed="#P"/>inchoatus et implicat contradictionem quod propter eius remaneat incompletus etc dicitur quod implicat 
+            <lb ed="#P"/>contradictionem numerum praedestinatarum non compleri dato quod finitus
+          </p>
+          <p xml:id="ppra-l121-sdqsdp">
+            <pc type="pilcrow"/> 2o dicitur quod quilibet numerus potest esse maximus praedestinatorum 
+            <lb ed="#P"/>absolute et minus quia deus posset facere quod non essent nisi duo praedestinati
+          </p>
+          <p xml:id="ppra-l121-tddtcg">
+            <pc type="pilcrow"/> 3o dato quod ex 
+            <lb ed="#P"/>lege taxaretur adhuc quilibet praedestinatus posset facere quod non esset de numero illorum <pc type="virgula">/</pc> et quilibet praedestinatus 
+            <lb ed="#P"/>quod esset de numero illorum unde si faciat primum habebit 2m 
+          </p>
+          <p xml:id="ppra-l121-qdqcnd">
+            <pc type="virgula">/</pc> 4o et ultimo dicitur quod licet sit in potestate 
+            <lb ed="#P"/>cuiuslibet viatoris privati tamen quod non sit numerus maior vel minor <pc type="virgula">/</pc> bene stat quod sit aliqua 
+            <lb ed="#P"/>dispositio communis quae non sit in potestate sortis et tamen dependet a tota multitudine <pc type="virgula">/</pc> sicut patet 
+            <lb ed="#P"/>de scandalo nullus viatorum potest evitare quin sit scandalum <pc type="virgula">/</pc> et haec respectu aliorum <pc type="virgula">/</pc> licet conclusio 
+            <lb ed="#P"/>ad se bene si vellet et per hoc possit multa circa quae circa istam materiam fieri sunt solita 
+            <lb ed="#P"/><pc type="pilcrow"/> Verum est tamen quod communiter dicitur necesse est sic evenire sed necessitas capitur pro infallibilitate 
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e391">
+          <head xml:id="ppra-l121-arfarf">Ad septimam rationem FitzRalph</head>
+          <p xml:id="ppra-l121-arfavc">
+            <lb ed="#P"/><pc type="pilcrow"/><ref xml:id="ppra-l121-Rd1e400">Ad rationem <name>ybernici</name></ref> scientia divina repraesentat antichristum evenire necessario ergo etc dicitur quod verum eset 
+            <lb ed="#P"/>contingenter vel dicitur quod mere libere et contingenter repraesentat 
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e418">
+          <head xml:id="ppra-l121-Harriae">Ad octavam rationem Rodington</head>
+          <p xml:id="ppra-l121-arriae">
+            <pc type="pilcrow"/> Ad rationem <name ref="#JohnOfRodington">roginton</name> 
+            <lb ed="#P"/>dicitur quod ipsa est pro dictis sed quicquid <name>adam</name> dicat contra nunc supersedeo
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e436">
+          <head xml:id="ppra-l121-Haarsed">Ad nonam rationem Rodington</head>
+          <p xml:id="ppra-l121-aarsed">
+            <pc type="pilcrow"/> <ref xml:id="ppra-l121-Rd1e445" target="http://scta.info/resource/ppra-l118-naiaoh">Ad aliam</ref> tunc si sic esset 
+            <lb ed="#P"/>quilibet posset se salvare vel non <pc type="virgula">/</pc> de ista dictum est satis
+          </p>
+        </div>
+        <div xml:id="ppra-l121-Dd1e451">
+          <head xml:id="ppra-l121-aaraar">Ad undecimam rationem</head>
+          <p xml:id="ppra-l121-arddar">
+            <pc type="pilcrow"/>Ad aliam de maximo et minimo 
+            <lb ed="#P"/>dicitur quod est dare minimum per quod antichristus esset futurus quia potest non esse quare etc <pc type="punctus"/> Et sic 
+            <lb ed="#P"/>dictum sit de ista materia praescientiae et praedestinationis <pc type="virgula">/</pc> Sequitur ulterius in alia lectione deo concedente 
+            <lb ed="#P"/>de revelatione
+          </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l121-Dxxxx1">
+          <head xml:id="ppra-l121-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l121-xxxxx3">
+            <pc type="pilcrow"/> Supra <del rend="strikethrough">per</del> distinctionem 4am 4ti sententiarum sequitur prima conclusio Aliqui recipiunt sacramentum 
+            <lb ed="#P"/>alii rem sacramentalem unde <unclear>parvuli</unclear> sacramentum et rem <pc type="punctus"/> sed differenter electi ad saeculum alii non <pc type="virgula">/</pc> Sed haec 
+            <lb ed="#P"/>sane debet intelligi nam credo quod et praesciti recipiat ad saeculum <pc type="virgula">/</pc> sed haec non est ad salutem 
+            <lb ed="#P"/>gratifficantem vel gratiae consecutivam
+          </p>
+          <p xml:id="ppra-l121-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio alii recipiunt sacramentum et non rem sacramenti 
+            <lb ed="#P"/>unde notandum est quod res sacramenti est gratia gratifficans ipsius dei <pc type="punctus"/> sacramentum vero est verborum ordinatio 
+            <lb ed="#P"/>Sed de auctoritate illa qua dicitur Nisi qui renatus fuerit ex aqua et spiritu etc debet intelligi 
+            <lb ed="#P"/>ceteris paribus <pc type="punctus"/> quia quidam in sanguinem baptismati sicut innocentes alii in confessione <unclear>vere fidei</unclear> 
+            <lb ed="#P"/>alii etc et sic intelligitur etiam ubi contemptus erit et non interior iustificatio quoad intra quantum etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
