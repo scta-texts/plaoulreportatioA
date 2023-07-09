@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio122">
+      <head xml:id="ppra-l122-Hldlldl">Lectio 122, de Libertate</head>
+      <div xml:id="ppra-l122-Dd1e109">
+        <head xml:id="ppra-l122-Hdcrcdq">De concordiae revelationum cum contingentia: divisio
+          quaestionis</head>
+        <p xml:id="ppra-l122-pmcmdv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l122-pmcmdv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-pmcmdv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l122-Dd1e118">
+        <head xml:id="ppra-l122-Hprgprg">Primum: responsio generalis</head>
+        <p xml:id="ppra-l122-qapnae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l122-qapnae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-qapnae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l122-cqaeqr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l122-cqaeqr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-cqaeqr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l122-saqfsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l122-saqfsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-saqfsp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l122-tcdssc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l122-tcdssc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-tcdssc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l122-Dd1e155">
+        <head xml:id="ppra-l122-Hsdoocc">Secundum: Decima obiectiones contra conclusio</head>
+        <div xml:id="ppra-l122-Dd1e160">
+          <head xml:id="ppra-l122-Hpoopoo">Prima obiectio</head>
+          <p xml:id="ppra-l122-sumdsd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-sumdsd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-sumdsd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l122-saqpcf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-saqpcf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-saqpcf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e183">
+          <head xml:id="ppra-l122-Hsoosoo">Secunda obiectio</head>
+          <p xml:id="ppra-l122-sscpdd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-sscpdd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-sscpdd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e234">
+          <head xml:id="ppra-l122-Htootoo">Tertia obiectio</head>
+          <p xml:id="ppra-l122-taqnss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-taqnss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-taqnss"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e247">
+          <head xml:id="ppra-l122-Hqooqoo">Quarta obiectio</head>
+          <p xml:id="ppra-l122-qasdnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-qasdnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-qasdnd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e268">
+          <head xml:id="ppra-l122-Hqnoqno">Quinta obiectio</head>
+          <p xml:id="ppra-l122-qcfqac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-qcfqac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-qcfqac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e283">
+          <head xml:id="ppra-l122-Hsxosxo">Sexta obiectio</head>
+          <p xml:id="ppra-l122-sanvaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-sanvaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-sanvaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l122-cqonsq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-cqonsq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-cqonsq"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e301">
+          <head xml:id="ppra-l122-Hspospo">Septima obiectio</head>
+          <p xml:id="ppra-l122-sapnsc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-sapnsc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-sapnsc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e330">
+          <head xml:id="ppra-l122-Hocooco">Octava obiectio</head>
+          <p xml:id="ppra-l122-oaqcno">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-oaqcno"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-oaqcno"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e339">
+          <head xml:id="ppra-l122-Hnoonoo">Nona obiectio</head>
+          <p xml:id="ppra-l122-naavrc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-naavrc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-naavrc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e348">
+          <head xml:id="ppra-l122-Hdoodoo">Decima obiectio</head>
+          <p xml:id="ppra-l122-dacqin">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l122-dacqin"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l122-dacqin"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l122-Dxxxx1">
+        <head xml:id="ppra-l122-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l122-xxxxx3">
+        </p>
+        <p xml:id="ppra-l122-xxxxx4">
+        </p>
+        <p xml:id="ppra-l122-xxxxx5">
+        </p>
+        <p xml:id="ppra-l122-xxxxx6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 122, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 122, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-07">July 07, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="121-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio122">
+        <head xml:id="ppra-l122-Hldlldl">Lectio 122, de Libertate</head>
+        <div xml:id="ppra-l122-Dd1e109">
+          <head xml:id="ppra-l122-Hdcrcdq">De concordiae revelationum cum contingentia: divisio quaestionis</head>
+          <p xml:id="ppra-l122-pmcmdv">
+            <lb ed="#P"/>Consequenter expedita materia de praescientia divina cum futuris contingentibus et de praedestinatione etiam insistendum 
+            <lb ed="#P"/>est materiae de revelationibus cum contingentia futurum sicut in quaestionis decisione promittebatur et hoc est 
+            <lb ed="#P"/>difficilius vel aeque difficile sicut de praescientia etc <pc type="pilcrow"/> Circa quam materiam tria faciam primo dabo responsionem in 
+            <lb ed="#P"/>generali <pc type="pilcrow"/> 2o inducentur obiectiones <pc type="virgula">/</pc> 3o descendetur ad particulares difficultates secundum quod deus ministra<lb ed="#P"/>bit <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e118">
+          <head xml:id="ppra-l122-Hprgprg">Primum: responsio generalis</head>
+          <p xml:id="ppra-l122-qapnae">
+            <pc type="pilcrow"/> Quantum ad primum ponitur primo ocnclusio responsiva et certa <pc type="punctus"/> videlicet quod tenendum est quod revelatio facta creaturae 
+            <lb ed="#P"/>nullam imponit necessitatem futuris evenientibus nec <pc type="virgula">/</pc> probatur primo conclusio quia omnia futura contingentia fuerunt animae 
+            <lb ed="#P"/>christi revelata et tamen non propter hoc tollitur libertas arbitrii in actibus quos exprimitur et 
+            <lb ed="#P"/>aliis advenientibus <pc type="virgula">/</pc> antecedens autem est <name>magister</name> qui dicit quod anima christi noverit omnia quae verbum igitur et omnia futura 
+            <pb ed="#P" n="121-v"/>
+            <lb ed="#P"/>contingentia
+          </p>
+          <p xml:id="ppra-l122-cqaeqr">
+            <pc type="pilcrow"/> Confirmatur nam anima christi vel christus secundum quod homo cognoscit futurum iudicium et tamen illud potest non esse 
+            <lb ed="#P"/>et <unclear>quod hoc sit<!-- possible corrected? --></unclear> per <del rend="strikethrough">fit</del> alias patet executor est illius iudicii et sic non latet eum igitur 
+            <lb ed="#P"/>ea <unclear>cognovit quam</unclear> sit in suo regimine
+          </p>
+          <p xml:id="ppra-l122-saqfsp">
+            <pc type="pilcrow"/> Item prophetae habuerunt revelationem de futuris contingentibus ut 
+            <lb ed="#P"/>nomen est <sic>da</sic> dicendum et <name>ysaya</name> etc igitur 
+          </p> 
+          <p xml:id="ppra-l122-tcdssc">
+            <pc type="pilcrow"/> Item de fide probatur tam actuali quam habituali quae reducitur ad idem 
+            <lb ed="#P"/>genus supernaturalium conditionum <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l122-Dd1e155">
+          <head xml:id="ppra-l122-Hsdoocc">Secundum: Decima obiectiones contra conclusio</head>
+          <div xml:id="ppra-l122-Dd1e160">
+            <head xml:id="ppra-l122-Hpoopoo">Prima obiectio</head>
+            <p xml:id="ppra-l122-sumdsd">
+              <pc type="pilcrow"/>Sed tamen ut particularius materia aperiatur <pc type="virgula">/</pc> arguitur consequentia conclusionem posita 
+              <lb ed="#P"/>primo sic nam si ipsa esset vera sequeretur quod in potestate nostra esset decipere christum consequens est falsum quia deo 
+              <lb ed="#P"/>repugnat quod decipiatur quoniam omnisciens et omnipotens <pc type="virgula">/</pc> sed per communicationem ydiotatum si anima christi deciperetur 
+              <lb ed="#P"/>christus deciperetur modo a doctoribus tenetur oppositum quia sequeretur quod christus erraret vel peccaret quod non est dicendum
+            </p>
+            <p xml:id="ppra-l122-saqpcf">
+              <lb ed="#P"/>probatur alio modo quia nullum bonum possum decipere eo quod in potestate mea non est facere ipsum a beatitudine 
+              <lb ed="#P"/>sua cadere <pc type="punctus"/> igitur a fortiori nec christum possum decipere <pc type="virgula">/</pc> consequentia probatur nam dato actu contingenter a me pro<lb ed="#P"/>ducibili 
+              per adversarium anima christi scivit huiusmodi actu ab instanti suae creationis <pc type="virgula">/</pc> consequens tamen impossibile quia iam 
+              <lb ed="#P"/>transivit in praeteritum quapropter possum decipere christum et facere errare <pc type="virgula">/</pc> et sic negandum erit quod possit cognoscere futura 
+            </p> 
+          </div>
+          <div xml:id="ppra-l122-Dd1e183">
+            <head xml:id="ppra-l122-Hsoosoo">Secunda obiectio</head>
+            <p xml:id="ppra-l122-sscpdd">
+              <lb ed="#P"/><pc type="pilcrow"/> 2o sequeretur quod aliquis posset salvari ex errore et mala electione <pc type="virgula">/</pc> et aliquis dampnari 
+              <lb ed="#P"/>ex bona <pc type="virgula">/</pc> modo consequens est absurdum et contra divinum misericordiam et consequentia probatur ponendo casum quod deus 
+              <lb ed="#P"/>revelet <name>sorti</name> quod <name>plato</name> peccabit cras et praecipit sibi quod hoc credat <pc type="virgula">/</pc> et quod eius
+              <lb ed="#P"/>donum vel bona temporalia propter hoc aufferat sibi propter peccatum <name>platonis</name> <pc type="virgula">/</pc> quo casu stante credat 
+              <lb ed="#P"/><name>sortes</name> conformiter ad revelationem et destruat donum ante eius adventum <pc type="punctus"/> et ponamus quod non 
+              <lb ed="#P"/>peccet <name>sorte</name> iam deffuncto tunc sortes evolaverit iam ad caelum quia praeceptum dei adimplevit 
+              <lb ed="#P"/>et tamen res sic non eveniet et sic <name>sortes</name> ex mala electione regnum meruit quia non erat 
+              <lb ed="#P"/>licitum destruere donum <pc type="punctus"/> nisi propter culpam futuram <pc type="punctus"/> igitur secutus est salutem propter culpam
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e234">
+            <head xml:id="ppra-l122-Htootoo">Tertia obiectio</head>
+            <p xml:id="ppra-l122-taqnss">
+              <pc type="pilcrow"/> 3o 
+              <lb ed="#P"/>sequeretur quod aliquis licite posset desperare de salute et velle non salvari modo consequens est inconveniens 
+              <lb ed="#P"/>quia haec est contra spiritum sanctum et peccatum inremissibile circa quod non versatur dispensatio et consequentia 
+              <lb ed="#P"/>probatur nam in casu quod praescito revelaretur veritas sui status futuri scilicet simul penitentia et futura 
+              <lb ed="#P"/>dampnatio <pc type="punctus"/> et perpetue beatitudinis carentia <pc type="virgula">/</pc> in quo casu divinae revelationi assentiendo desperabit 
+              <lb ed="#P"/>et sic nollet suam salutem <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e247">
+            <head xml:id="ppra-l122-Hqooqoo">Quarta obiectio</head>
+            <p xml:id="ppra-l122-qasdnd">
+              <pc type="pilcrow"/> 4o staret quod aliquis obligaretur ad peccandum <pc type="virgula">/</pc> consequens 
+              <lb ed="#P"/>implicat et divinae bonitati repugnat nam ipse deus peccaret quod non est dicendum <pc type="virgula">/</pc> sed tamen exequendo 
+              <lb ed="#P"/>mandatum dei peccaret <pc type="punctus"/> et si non faceret praeceptum etiam igitur data ypothesi necessitatur ad peccandum 
+              <lb ed="#P"/>consequentia probatur <pc type="virgula">/</pc> ponendo casum quod deus revelet <name>sorti</name> quod aliquis est cras peccaturus et ille solus est salvandus 
+              <lb ed="#P"/>tunc isto casu posito sortes credit per revelationem quod si non sit ille dampnabitur igitur si 
+              <lb ed="#P"/>sortes velit salvari <del rend="strikethrough">d</del> peccabit <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e268">
+            <head xml:id="ppra-l122-Hqnoqno">Quinta obiectio</head>
+            <p xml:id="ppra-l122-qcfqac">
+              <pc type="pilcrow"/> 5o sic cognitio futurum contingentium principue 
+              <lb ed="#P"/>clara est divinae essentiae igitur nulli creaturae communicabilis est <pc type="virgula">/</pc> consequentia tenet <pc type="punctus"/> et <unclear>consequens<!-- could be antecedens --></unclear> patet quia talis cognitio 
+              <lb ed="#P"/>consurgit ex aeternitate potentiae cognoscendi <unclear>concta</unclear> et eius actus <pc type="punctus"/> per haec enim in esse cognitio sunt omnes 
+              <lb ed="#P"/>effectus praesenti et futuri aeque praesentes <pc type="virgula">/</pc> modo haec nulli creaturae est communicabile et per consequens nullo modo subiacet 
+              <lb ed="#P"/>potentiae creatae <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e283">
+            <head xml:id="ppra-l122-Hsxosxo">Sexta obiectio</head>
+            <p xml:id="ppra-l122-sanvaa">
+              <pc type="pilcrow"/> item sic nulla revelatio est certa facta creaturae igitur conclusio proprius posita falsa 
+              <lb ed="#P"/>antecedens probatur quia nulla talis potest evidenter sciri a deo <pc type="punctus"/> igitur semper habet creatura dubitare <pc type="virgula">/</pc> an sit illusio 
+              <lb ed="#P"/>consequentia satis patet et antecedens probatur nam quicquid requiritur ad causandum revelationem in creatura potest superiori 
+              <lb ed="#P"/>in fieri a causa creata <pc type="virgula">/</pc> deo solum generaliter concurrente igitur a daemone potest fieri <pc type="punctus"/> et per consequens 
+              <lb ed="#P"/>de qualibet stat quod sit illusio vel deceptio Et sic nec erit certum habendi aliquam revelationem 
+              <lb ed="#P"/>certum a deo <pc type="punctus"/> quia nec per actum reflexum <pc type="punctus"/> nec directum potest certifficari <pc type="punctus"/> et sic remanet in se dubia 
+            </p>
+            <p xml:id="ppra-l122-cqonsq">
+              <lb ed="#P"/><pc type="pilcrow"/>Confirmatur nam omnis revelatio facta est talis quod cum illata aeque evidens iudicium de possibilitate 
+              <lb ed="#P"/>ad contrariam ergo nulla certitudo potest esse per revelationem Et ex hoc posset introduci de animalis 
+              <lb ed="#P"/>quod non possit in beatitudine quietari <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e301">
+            <head xml:id="ppra-l122-Hspospo">Septima obiectio</head>
+            <p xml:id="ppra-l122-sapnsc">
+              <pc type="pilcrow"/> 7mo posito quod per revelationem assenserit per revelationem 
+              <lb ed="#P"/>consequentia tenet et antecedens est necessariam igitur et consequens <pc type="punctus"/> et quod ita sit patet quia sortes operabitur in praeterito et sic transivit 
+              <lb ed="#P"/>igitur necesse est eum sic <unclear>assensisse</unclear> et ergo irrevocabile est hoc 
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e330">
+            <head xml:id="ppra-l122-Hocooco">Octava obiectio</head>
+            <p xml:id="ppra-l122-oaqcno">
+              <pc type="pilcrow"/>8vo sequeretur quod illud quod esset iam praeteritum 
+              <lb ed="#P"/>posset <sic>nonquam</sic> fuisse modo consequens est falsum et tamen antecedens probatur <pc type="virgula">/</pc> recipiendo haec quod christus oravit 
+              <lb ed="#P"/>ut calix id est passio transiret ab ipso si possibile erat <pc type="punctus"/> <pc type="virgula">/</pc> vel ergo illa passio potuerit non fore <pc type="punctus"/> et sic 
+              <lb ed="#P"/>sic praeteritum potuerit non fore et per consequens si causa sit a mota et effectus amovebitur 
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e339">
+            <head xml:id="ppra-l122-Hnoonoo">Nona obiectio</head>
+            <p xml:id="ppra-l122-naavrc">
+              <pc type="pilcrow"/> 9no sic 
+              <lb ed="#P"/>aliquae sunt veritates realiter de praesenti quae non possunt revelari saltem possibiles ergo nec de futuro consequentia tenet 
+              <lb ed="#P"/>quia videtur quod minus repugnaret et antecedens patet de multis ut de hac propositione nihil est revelatum creaturae 
+            </p>
+          </div>
+          <div xml:id="ppra-l122-Dd1e348">
+            <head xml:id="ppra-l122-Hdoodoo">Decima obiectio</head>
+            <p xml:id="ppra-l122-dacqin">
+              <lb ed="#P"/><pc type="pilcrow"/> 10mo et ultimo arguitur contra totalem latitudinem quod non sit certitudo probatur maxime per sacros canones 
+              <lb ed="#P"/>nam legimus multas revelationes quae nullum effectum habuerunt sicut de minue quae facta fuit 
+              <lb ed="#P"/><name>ionae prophetae</name> <pc type="punctus"/> et nedum effectum immo actualem incertitudinem Et ideo <name>ionas</name> verecundatus est 
+              <lb ed="#P"/>viso prophetia sua non evenisse <pc type="punctus"/> igitur sequitur ex omnibus istis quod revelationibus non sit insistendum 
+              <lb ed="#P"/>nihilominus doctores quasi omnes concordant in puncto praescientiae divinae de ipsis revelationibus <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l122-Dxxxx1">
+          <head xml:id="ppra-l122-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l122-xxxxx3">
+            <pc type="pilcrow"/> Sequitur 
+            <lb ed="#P"/>distinctio 7m et <add place="above-line">8va</add> 4ti sententiarum cuius conclusio prima quod sacramentum a bonis et malis presbyteris potest dari sicut et a bonis 
+            <lb ed="#P"/>et malis <unclear>sumi</unclear> <pc type="punctus"/> <pc type="virgula">/</pc> nec sacramentum acquirit bonitatem vel malitiam a bono presbytero nec a malo <pc type="virgula">/</pc> licet de bono 
+            <lb ed="#P"/>sacerdote plus valeat in millecuplo suffragia orationes et talia quam de malo <pc type="virgula">/</pc> quoniam 
+            <lb ed="#P"/>revera nihil vel paritur valent de malo <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l122-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio recipiens sacramentum in haeresi vel in
+            <pb ed="#P" n="122-r"/>
+            <lb ed="#P"/>scismate non est postea rebaptizandus <pc type="punctus"/> quantumcumque existeret in peccato <pc type="punctus"/> licet <unclear>cor?dus</unclear> 
+            <lb ed="#P"/>esset secundum debitam penitentiam unde in ipsa poenitentia reciperet gratiam <pc type="punctus"/> peccaret tamen ubi 
+            <lb ed="#P"/>sciret
+          </p>
+          <p xml:id="ppra-l122-xxxxx5">
+            <pc type="pilcrow"/> 3a conclusio ministri non habent proprie concedendi potestatem effectum baptismi quia solius christi est 
+            <lb ed="#P"/>ut dicit <name>magister</name> <pc type="punctus"/> sed in hoc communiter non tenetur et ad hoc potest dici quod non habent potestatem 
+            <lb ed="#P"/>conferendi gratiam
+          </p>
+          <p xml:id="ppra-l122-xxxxx6">
+            <pc type="pilcrow"/> 4a conclusio quod de possibili posset communicari ministro quod conferret gratiam creatam 
+            <lb ed="#P"/>sed creare est aequivocum <pc type="virgula">/</pc> nam creare non est <unclear>aliquam</unclear> aliquid causare sine indigentia alicuius causae et 
+            <lb ed="#P"/>soli deo competit <pc type="punctus"/> sed utrum absque indigentia causae materialis tenet <name>adam</name> quod non <pc type="virgula">/</pc> sed alii oppositum sic 
+            <lb ed="#P"/>intelligendum est de gratia <pc type="punctus"/> <pc type="pilcrow"/> Unde certe requiritur immensus concursus nec inferior creatura 
+            <lb ed="#P"/>potest tollere offensam divinam et haec de lectione dicta trinitatis vigilia <unclear>magno</unclear> calore tunc currente
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
