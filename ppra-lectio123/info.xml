@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio123">
+      <head xml:id="ppra-l123-Hldlldl">Lectio 123, de Libertate</head>
+      <div xml:id="ppra-l123-Dd1e109">
+        <head xml:id="ppra-l123-Htmvtmr">Tertia modi visionis et tres modis revelationum</head>
+        <p xml:id="ppra-l123-aamtmr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l123-aamtmr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-aamtmr"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l123-Dd1e137">
+          <head xml:id="ppra-l123-Hpmspms">Primus modus</head>
+          <p xml:id="ppra-l123-uested">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-uested"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-uested"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e165">
+          <head xml:id="ppra-l123-Hsmssms">Secundus modus</head>
+          <p xml:id="ppra-l123-shigpd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-shigpd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-shigpd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-cqeese">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-cqeese"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-cqeese"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e220">
+          <head xml:id="ppra-l123-Htmstms">Tertius modus</head>
+          <p xml:id="ppra-l123-temsdv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-temsdv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-temsdv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-ueamrc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-ueamrc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-ueamrc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l123-Dd1e240">
+        <head xml:id="ppra-l123-Hccdipg">Conclusio <unclear>contradictoriam[?]</unclear> de
+          revelatio tertii generis in primo gradu</head>
+        <p xml:id="ppra-l123-sqpcfr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l123-sqpcfr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-sqpcfr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l123-eqivmf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l123-eqivmf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-eqivmf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l123-Dd1e258">
+        <head xml:id="ppra-l123-Hrpcpcc">Rationes pro conclusio
+            <unclear>contradictoriam[?]</unclear></head>
+        <p xml:id="ppra-l123-ipctie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l123-ipctie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-ipctie"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l123-Dd1e268">
+          <head xml:id="ppra-l123-Hpropro">Prima ratio</head>
+          <p xml:id="ppra-l123-pqtdqr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-pqtdqr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-pqtdqr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-cqnenc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-cqnenc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-cqnenc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e284">
+          <head xml:id="ppra-l123-Hsrosro">Secunda ratio</head>
+          <p xml:id="ppra-l123-sasefn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-sasefn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-sasefn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e296">
+          <head xml:id="ppra-l123-Htrotro">Tertia ratio</head>
+          <p xml:id="ppra-l123-tadcci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-tadcci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-tadcci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-cqsdpv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-cqsdpv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-cqsdpv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e318">
+          <head xml:id="ppra-l123-Hqrrqrr">Quarta ratio</head>
+          <p xml:id="ppra-l123-qaqnic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-qaqnic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-qaqnic"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e342">
+          <head xml:id="ppra-l123-Hqnoqno">Quinta ratio</head>
+          <p xml:id="ppra-l123-qaspvd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-qaspvd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-qaspvd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-cqsinn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-cqsinn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-cqsinn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l123-scqnps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-scqnps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-scqnps"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l123-Dd1e383">
+          <head xml:id="ppra-l123-Hsxrsxr">Sexta ratio</head>
+          <p xml:id="ppra-l123-suacre">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l123-suacre"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-suacre"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l123-Dd1e393">
+        <head xml:id="ppra-l123-Hcorium">Corollarium</head>
+        <p xml:id="ppra-l123-iiened">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l123-iiened"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l123-iiened"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l123-Dxxxx1">
+        <head xml:id="ppra-l123-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l123-xxxxx3">
+        </p>
+        <p xml:id="ppra-l123-xxxxx4">
+        </p>
+        <p xml:id="ppra-l123-xxxxx5">
+        </p>
+        <p xml:id="ppra-l123-xxxxx6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
