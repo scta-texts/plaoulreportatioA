@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio124">
+      <head xml:id="ppra-l124-Hldlldl">Lectio 124, de Libertate</head>
+      <div xml:id="ppra-l124-Dd1e109">
+        <head xml:id="ppra-l124-Hoqpnen">Opinio quod praeteritum non est necessarium</head>
+        <p xml:id="ppra-l124-ipliep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-ipliep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-ipliep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-cfpeef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-cfpeef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-cfpeef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-uapsdm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-uapsdm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-uapsdm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-pqdqap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-pqdqap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-pqdqap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-adqppa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-adqppa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-adqppa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-chihdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-chihdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-chihdc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-rndepd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-rndepd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-rndepd"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-l124-sclsif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sclsif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sclsif"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l124-Dd1e210">
+        <head xml:id="ppra-l124-Hrconen">Rationes contra opinionem quod praeteritum non est
+          necessarium</head>
+        <p xml:id="ppra-l124-shepif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-shepif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-shepif"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-sdqnde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sdqnde"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sdqnde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-esbeah">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-esbeah"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-esbeah"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-spqhee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-spqhee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-spqhee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-saipnf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-saipnf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-saipnf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-taenfg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-taenfg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-taenfg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-qhpast">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-qhpast"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-qhpast"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-arppnf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-arppnf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-arppnf"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break and parallel -->
+        <p xml:id="ppra-l124-amspim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-amspim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-amspim"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l124-Dd1e287">
+        <head xml:id="ppra-l124-Htpeeef">Tertia positio erronea: quod de re quae transivit in
+          praeteritum quod necesse est eam fuisse</head>
+        <p xml:id="ppra-l124-stpnsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-stpnsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-stpnsc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-ipqdnp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-ipqdnp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-ipqdnp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-peqfni">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-peqfni"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-peqfni"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l124-sidinc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sidinc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sidinc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l124-eeiiqf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-eeiiqf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-eeiiqf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l124-Dd1e343">
+        <head xml:id="ppra-l124-Hciocio">Contra istam opinionem</head>
+        <p xml:id="ppra-l124-sipais">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sipais"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sipais"/>
+          </assertions>
+        </p>
+        <!-- 
+            doesn't seem present 
+          <p xml:id="ppra-l124-semqen">
+            Secundo eodem modo 
+            argueretur de operationibus ipsius voluntatis divinae praeteritis 
+            quae possent non fuisse quod est nefarium.
+          </p>
+          -->
+        <p xml:id="ppra-l124-tgqaic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-tgqaic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-tgqaic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l124-qnscpc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-qnscpc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-qnscpc"/>
+          </assertions>
+        </p>
+        <!-- should this be quarta positione and new section -->
+        <p xml:id="ppra-l124-tpecpc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l124-tpecpc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-tpecpc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l124-Dd1e391">
+          <head xml:id="ppra-l124-Hcqmcqm">Contra quartam</head>
+          <p xml:id="ppra-l124-sippcp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sippcp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sippcp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l124-saciii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l124-saciii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-saciii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l124-tbhcfi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l124-tbhcfi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-tbhcfi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l124-qfenve">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l124-qfenve"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-qfenve"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l124-qpqpac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l124-qpqpac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-qpqpac"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l124-Dd1e427">
+            <head xml:id="ppra-l124-Hcqrcqr">Contra quintam rationem</head>
+            <p xml:id="ppra-l124-uipsde">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l124-uipsde"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-uipsde"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l124-sipmic">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sipmic"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sipmic"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l124-sipnha">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l124-sipnha"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-sipnha"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l124-eiipst">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l124-eiipst"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l124-eiipst"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l124-Dxxxx1">
+        <head xml:id="ppra-l124-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l124-xxxxx3">
+        </p>
+        <p xml:id="ppra-l124-xxxxx4">
+        </p>
+        <p xml:id="ppra-l124-xxxxx5">
+        </p>
+        <p xml:id="ppra-l124-xxxxx6">
+        </p>
+        <p xml:id="ppra-l124-xxxxx7">
+        </p>
+        <p xml:id="ppra-l124-xxxxx8">
+        </p>
+        <p xml:id="ppra-l124-xxxxx9">
+        </p>
+        <p xml:id="ppra-l124-xxxxx10">
+        </p>
+        <p xml:id="ppra-l124-xxxxx11">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
