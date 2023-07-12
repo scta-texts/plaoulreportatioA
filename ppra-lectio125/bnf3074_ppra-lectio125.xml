@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 125, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 125, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-11">July 11, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="123-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio125">
+      <head xml:id="ppra-l125-Hldlldl">Lectio 125, de Libertate</head>
+        <div xml:id="ppra-l125-Dd1e109">
+          <head xml:id="ppra-l125-Haeqpef">Alia error: quod revelatio de futuro contingenti potest esse falsa</head>
+          <p xml:id="ppra-l125-davstc">
+            <lb ed="#P"/>Consequenter circa materiam de revelationibus cum futuris contingentibus restat ponere aliquas 
+            <lb ed="#P"/>oppiniones sicut <name>okam</name> vel <name>oco</name> et <name>almachani</name> prima est quae salvat possibilitatem futurum contingentium 
+            <lb ed="#P"/>cum revelationibus <pc type="virgula">/</pc> probat enim sit <pc type="virgula">/</pc> quoniam possibile est revelationem de contingenti fore falsam unde 
+            <lb ed="#P"/>facta revelatione et ipsa lapsa in praeteritum necesse est sic hominem assensisse et quia oppositum eius potest contingere <unclear>ideo</unclear> 
+            <lb ed="#P"/>possibile est quod talis homo facta revelatione sibi <pc type="punctus"/> sit deceptus <pc type="punctus"/> <pc type="virgula">/</pc> Et iuxta haec salvant contingentiam quia cum 
+            <lb ed="#P"/>aliquis aliquid credidit haec est necessariam quod non asserit sed remanet contingentia 
+          </p>
+          <!-- review para break here ?? -->
+          <p xml:id="ppra-l125-qqhced">
+            <pc type="virgula">/</pc> Et quamvis haec positio 
+            <lb ed="#P"/>sit salvabilis vel factibilis ad sustinendum obviat tamen articulis parisiensibus <pc type="punctus"/> nam ex ipsa sequitur quod christus po<lb ed="#P"/>test 
+            decipi nam sibi facta revelatione de futurio iudicio concederet ista positio quod necesse est christum 
+            <lb ed="#P"/>sic credidisse <pc type="virgula">/</pc> et tunc si non sic fuerit <pc type="virgula">/</pc> deceptus est 
+          </p>
+          <p xml:id="ppra-l125-eic">
+            <pc type="punctus"/> Et <name>okam</name> vel <name>oco</name> concedit <unclear>apparet</unclear> secundum 
+            <lb ed="#P"/>communicationem ydiomatum <pc type="pilcrow"/><name>Adam</name> tamen concedit quod anima christi potuit decipi sed tamen non christus quo 
+            <lb ed="#P"/>casu stante bene concedit de humanitate sed negat de supposto Et causa est quia per iudicium superius et enuntius 
+            <lb ed="#P"/>ipse christi est iudicium infallibile quia immensa veritas <pc type="pilcrow"/> Si autem accidat error non denotatur 
+            <lb ed="#P"/>pro tanto deffectiva <pc type="virgula">/</pc> sicut ratio in nobis deffectiva iudicat solem esse maiorem tota terra et tamen 
+            <lb ed="#P"/>sensus communis totum iudicat oppositum <pc type="pilcrow"/> In proposito sic dico <pc type="virgula">/</pc> cuius causa est quia ipse christus ut dictum est est summa 
+            <lb ed="#P"/>veritas nonquam tamen concederetur christum false iudicare <pc type="virgula">/</pc> sic propter deffectum praedictum non iudicaretur 
+            <lb ed="#P"/>homo deceptus totaliter <pc type="punctus"/> scilicet propter quantitatem solis 
+          </p> 
+          <p xml:id="ppra-l125-sipvsd">
+            <pc type="pilcrow"/> Sed tamen utraque positio est contra parisienses 
+            <lb ed="#P"/>articulos quia non consonat doctrinae sacrae quare etc
+          </p>
+        </div>
+        <div xml:id="ppra-l125-Dd1e160">
+          <head xml:id="ppra-l125-Hddcddc">De divina concurrentia</head>
+          <p xml:id="ppra-l125-samoes">
+            <pc type="pilcrow"/> Alii enim sunt plures modi quos 
+            <lb ed="#P"/>pertranseo <pc type="pilcrow"/> Venio igitur ad modum probabiliorem supponendo aliqua primo enim suppono 
+            <lb ed="#P"/>quod respectu revelationis concurrat deus duplici genere concursus <pc type="punctus"/> si effective et generaliter <pc type="punctus"/> et 2o obiective 
+            <lb ed="#P"/>et specialiter
+          </p>
+          <p xml:id="ppra-l125-snqesc">
+            <pc type="pilcrow"/> Ulterius dicitur quod licet concursus dei effectivus in praeceptum lapsus sit <pc type="virgula">/</pc> sequitur tamen 
+            <lb ed="#P"/>deus fecit sive concurrit igitur etc <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l125-atcfif">
+            <pc type="pilcrow"/> Alius concursus est obiectivus qui quidam non infert necessitatem  
+            <lb ed="#P"/>unde non sed haec consequentia <pc type="virgula">/</pc> deus concurrit in praeterito igitur necesse est eum sic concurrisse <pc type="punctus"/> Et sic 
+            <lb ed="#P"/><sic>futurum</sic> <sic>contingentia</sic> cum revelationibus cuius causa est quia non contrahit necessitatem ex sua praeteritione quare contingentia remanet 
+            <lb ed="#P"/>videlicet ut non potuit esse revelatum <pc type="pilcrow"/> Et tunc si deus <name>gabrieli</name> revelavit iudicium futurum 
+            <lb ed="#P"/>hoc est sic quod semper remanet contingentia quia potest esse sic quod non erit Et sic diceretur quod deus non puta 
+            <lb ed="#P"/>revelaverit <del>nec effective</del> nec obiectiva concurret ad hoc 
+          </p> 
+          <p xml:id="ppra-l125-elieoc">
+            <pc type="virgula">/</pc> sed hoc non sufficit quod non satis est 
+            <lb ed="#P"/>generalis ex eo quod non salvat de revelationibus intuitivis in verbo obiective immediate concurrente
+          </p> 
+          <!--
+            Does not seem present 
+            <p xml:id="ppra-l125-sipdrp">
+            Secundo ista positio 
+            non salvaretur de revelatione prophetica.
+          </p>
+          -->
+          <p xml:id="ppra-l125-tnsqid">
+            <lb ed="#P"/><pc type="pilcrow"/> 2o non salvat quin anima christi possit decipi coniuncta verbo quia realiter assentit quod futurum
+            <lb ed="#P"/>iudicium et non tollit quin assenserit et tamen non ex casu possibili igitur decepta esset quare etc
+          </p>
+        </div>
+        <div xml:id="ppra-l125-Dd1e202">
+          <head xml:id="ppra-l125-Hsupnes">Suppositiones</head>
+          <p xml:id="ppra-l125-sptips">
+            <lb ed="#P"/><pc type="pilcrow"/> Sequitur oppinio tenenda in hac materia pro radice cuius intelligenda ponuntur aliquae suppositiones 
+          </p>
+          <p xml:id="ppra-l125-petsvg">
+            <lb ed="#P"/>quarum prima <pc type="virgula">/</pc> Tota latitudo assensuum revelatorum est supra et alterius generis ab assensibus naturalibus 
+            <lb ed="#P"/>Ita quod tota ipsa est supernaturalis et hoc sive terminentur huiusmodi assensus ad verbum immediate sive 
+            <lb ed="#P"/>sit aenigmatici sive ascendendo sive descendendo
+          </p>
+          <p xml:id="ppra-l125-ssapec">
+            <pc type="pilcrow"/> 2a suppositio aliam habitudinem habent huiusmodi 
+            <lb ed="#P"/>assensus ad sua <unclear>assensibilia</unclear> quam cognitiones naturaliter deppendentes vel sequentes ad effectus sic habere 
+            <lb ed="#P"/>in re <pc type="punctus"/> Et causa est quia assensus naturaliter causati sunt quasi effectus rerum vel sic esse sive sicut per eos 
+            <lb ed="#P"/>continentur
+          </p>
+          <p xml:id="ppra-l125-tsvqie">
+            <pc type="pilcrow"/> 3a suppositio veritas assensuum revelatorum magis respicit veritas ad iudicium divinum 
+            <lb ed="#P"/>quam ad sic esse quod ad assensum creatum signatur a parte rei <pc type="pilcrow"/> unde dato tali assensu <pc type="virgula">/</pc> iudicium futurum 
+            <lb ed="#P"/>erit quia ad eius veritatem non requiritur quod ita erit 
+          </p>
+          <p xml:id="ppra-l125-qshade">
+            <pc type="pilcrow"/> 4a suppositio habitudo assensuum revelatorum 
+            <lb ed="#P"/>ad divinum assensum relata est pure essentialis et intrinseca <pc type="virgula">/</pc> sicut patet de assensu huius propositionis <unclear>me?lis</unclear>
+            <lb ed="#P"/>antichristus erit <pc type="virgula">/</pc> nam potest non esse assensus respectu ipsius sed divinus est illius quaedam conformitas 
+            <lb ed="#P"/>ad divinum sive futurum iudicium et repugnat quin habeat <pc type="punctus"/> Et ideo in esse tali est essentialis conformitas 
+            <lb ed="#P"/>Et ideo ymaginandum est quod essentialis dependentia sit in esse tali
+          </p>
+        </div>
+        <div xml:id="ppra-l125-Dd1e234">
+          <head xml:id="ppra-l125-Hcorria">Corollaria</head>
+          <p xml:id="ppra-l125-eqscsc">
+            <pc type="pilcrow"/> Ex quo sequitur primo quod nullus talis 
+            <lb ed="#P"/>assensus possit esse falsus <pc type="punctus"/> patet ex praedictis <pc type="virgula">/</pc> quia huiusmodi assensus est insolubilis igitur <pc type="virgula">/</pc> nam dependet 
+            <lb ed="#P"/>ab assensu divino sicut eius entitas <pc type="punctus"/> 
+            
+            
+            <pc type="pilcrow"/> Ex quo sequitur 2o quod talis assensus non potest esse falsus 
+            <lb ed="#P"/>patet quia conformis est divino assensui <pc type="punctus"/> sed non stat ipsum esse falsum ergo <pc type="virgula">/</pc>
+            
+            <pc type="pilcrow"/> unde advertendum 
+            <lb ed="#P"/>quod per evidentiam non potest sic probari materia ista <pc type="punctus"/> ideo sufficit probabilia ad ipsam probandam 
+            <lb ed="#P"/>declarando ad ducere <pc type="punctus"/> <pc type="pilcrow"/> Ex quibus patet quod nullus assensus talis potest esse falsus <pc type="punctus"/> quia 
+            <lb ed="#P"/>in esse tali a deo dependet <pc type="punctus"/>
+            
+            Ex quo sequitur 
+            quod nullus talis assensus creatus potest esse falsus. 
+            Patet ex suppositionibus 
+            quia intrinseca eius habitudo conformitatis 
+            ad assensum divinum est insolubilis, 
+            igitur non stant ipsum remanere 
+            in esse assensus et non conformari veritati divinae, 
+            et eodem modo imaginatur, 
+            sicut entitas creata dependet ab entitate increata 
+            insolubili dependentia utraque entitate existente, 
+            et sic patet 
+            quia talis assensus non potest esse falsus 
+            quia semper est conformis divino <unclear>assenui <!--assensui--></unclear>, 
+            sed nullo modo stat assensum divinum posse esse falsum, 
+            igitur nec illum qui insolubili conformitate sibi connectitur.
+          </p>
+          <p xml:id="ppra-l125-neqssm">
+            Notandum est quod in introductione huiusmodi 
+            materiae non possum ponere rationem ipsum probantis nisi 
+            evitando inconvenientia in quibus alii modi incidunt 
+            nec possunt evitare. et ideo dicitur, quod nullus huiusmodi 
+            assensus potest esset falsus quia semper est conformis speculo sive 
+            macula.
+          </p>
+          <p xml:id="ppra-l125-sneida">
+            Secundo, 
+            notandum est quod sicut verbum contingenter 
+            est iudicium quod antichristus erit ita assensus Revelatus 
+            est contingenter iudicium illius, patet quia insolubilis est habitudo 
+            conformitatis iudicii creati ad divinum Iudicium 
+            igitur si unum est contingens respectu illius vere Revelationis antichristus 
+            erit est aliud modo illud de divino Iudicio est 
+            notorium igitur de alio.
+          </p>
+          <!-- 2 -->
+          <p xml:id="ppra-l125-eqscar">
+            <pc type="pilcrow"/> 3o sequitur quod omnis assensus per revelationem factus de illo genere participat modalem per<lb ed="#P"/>fectionem 
+            infinitae nobilitatis <pc type="virgula">/</pc> licet inferior species debeat competere vel subiacere superiori nihilominus 
+            <lb ed="#P"/>non sic est in modalibus perfectionibus sicut patet de simplicitate nam ipsa competit animae non tamen 
+            <lb ed="#P"/>compositus
+            
+            Ex quo sequitur 
+            quod omnis revelatio facta vel assensus talis 
+            participat moralem perfectionem 
+            <pb ed="#SV" n="354-v"/>
+            <cb ed="#SV" n="a"/>
+            infinitae nobilitatis, 
+            et licet perfectio pure <unclear>teu?alis</unclear> 
+            non possit competere inferiori speciei 
+            quin etiam competat superiori, 
+            nihilominus tamen de moralibus perfectionibus non est neccessarium, 
+            immo perfectio moralis infinita poterit competere rei <unclear>finite<!--finitae--></unclear> 
+            ut apparet clare de simplicitate 
+            quae dicit per se moralem 
+            quae convenit animae intellectivae, 
+            non tamen conveniret composito ex suprema intelligentia 
+            et materia prima secundo accidentibus convenit 
+            quod sint simplicia, 
+            et tamen illud non convenit substantiis materialibus et compositis ut homini, 
+            hoc est tamen in proposito 
+            quod esse certitudinem inaequabile est moralis perfectio 
+            intrinsece competens cuilibet assensui revelato.
+          </p>
+          <p xml:id="ppra-l125-sciiar">
+            Sed convenit intrinsece assensui divino ex natura propria 
+            quod sit assensus <unclear>inobliquabilis</unclear>, 
+            et quod possit esse contradictorum assensus. 
+            Assensui autem creato convenit 
+            iste modus per participationem 
+            quia si divinis assensus est 
+            simpliciter <unclear>inobliquabilis</unclear>, 
+            igitur assensus revelatus nec poterit esse falsus, 
+            et sicut divinus assensus idem manens formaliter 
+            potest esse oppositorum uniformiter se habendo, 
+            ita assensus revelatus.
+          </p>
+          <p xml:id="ppra-l125-sdqapi">
+            <pc type="pilcrow"/> 4o sequitur quod quilibet assensus revelatus habet quodammodo libertatis modum instrumentaliter non transeundo 
+            <lb ed="#P"/>in praeteritum non respectu sui enuntiabilis nec vitalis immutationis potentiae pro eodem enuntabili patet <pc type="virgula">/</pc> quia assensus 
+            <lb ed="#P"/>respectu huius propositionis iudicium futurum erit potest esse non futurum et sic res respectu obiectorum potest esse et non esse <pc type="virgula">/</pc> et sic est <unclear>quidam modus</unclear>
+            <pb ed="#P" n="124-r"/>
+            <lb ed="#P"/>modo sic est de quolibet assensu tali uniformiter se habet quod potest non esse assensus illius <pc type="virgula">/</pc> et sic respectu 
+            <lb ed="#P"/>sui enuntiabilis habet modum causae libere <pc type="punctus"/> quia potest esse et potest non esse nec transit in praeteritum 
+            <lb ed="#P"/>respectu eiusdem nam antecedens est verum et consequens falsum
+          </p>
+          <!-- 3? -->
+          <p xml:id="ppra-l125-epihvh">
+            <pc type="pilcrow"/> Ex quo infertur quod revelatio facta respectu futuri 
+            <lb ed="#P"/>contingenter est quodam modo necessaria licet futurum maneat contingens Et causa est propter contingentem habitudinem reve<lb ed="#P"/>lationis 
+            ad suum enuntiable <pc type="virgula">/</pc> et sic remanet sibi necessitas suae verificationis ad divinam veritatem 
+            <lb ed="#P"/>contingenter 
+          </p> 
+          <p xml:id="ppra-l125-eehpmc">
+            <pc type="pilcrow"/> Ex quo patet quod ex tali assensu non sequitur propositio alia naturaliter formata qua enunciatur idem 
+            <lb ed="#P"/>patet nam prima sic in se considerata est necessaria et si sumeretur per se esset pure contingens a 
+            <lb ed="#P"/>nobis
+          </p> 
+          <p xml:id="ppra-l125-eqacer">
+            <pc type="pilcrow"/> 6to patet qualiter nec anima christi prophetae nec aliqui sancti potest decipi per revelationem 
+            <lb ed="#P"/>sic factam assentiendo futuris contingentibus <pc type="virgula">/</pc> quia tota latitudo revelationum quae est supra habitudinem totalem 
+            <lb ed="#P"/>assensum est in olbica <pc type="punctus"/> <pc type="virgula">/</pc> et quia tales sunt spirituales ideo non est mirandum si habeat proprietates mirabiles 
+          </p>
+          <p xml:id="ppra-l125-epccer">
+            <lb ed="#P"/><pc type="pilcrow"/> 7mo sequitur quod <name ref="#Jonah">ionas</name> propheta credens minime subverti a seipso locutus <pc type="punctus"/> et non divinae
+            <lb ed="#P"/>sed <unclear>capitis</unclear> proprii iudicio et sic propositionem assumpsit ex qua intulit consequentiam esse veram cum tamen <unclear>toto</unclear> 
+            <lb ed="#P"/>ita non fuerit et ideo peccavit quia naturaliter fuit vel etc
+          </p>
+          <p xml:id="ppra-l125-opssar">
+            <pc type="pilcrow"/> Sequitur 8vo quod absolute quaelibet revelatio 
+            <lb ed="#P"/>est certissima patet quia non contingit per revelationem assentem decipi ergo iste assensus videtur de 
+            <lb ed="#P"/>potioribus <pc type="virgula">/</pc> dico tamen quod non capitur haec certitudo per actum reflexum <unclear>sive</unclear> assensum revelatum  
+          </p>
+          <p xml:id="ppra-l125-eqipse">
+            <lb ed="#P"/><pc type="pilcrow"/> Ex quo infero ultimo quod stat aliquem certissimum esse de aliqua veritate et tamen non posse 
+            <lb ed="#P"/>naturaliter se scire esse certum <pc type="punctus"/> patet de assensu futuri contingentis <pc type="pilcrow"/> Unde circa hoc 
+            <lb ed="#P"/>ut magis habeatur ymaginatio possumus ymaginari quod revelatio se habeat sicut radius 
+            <lb ed="#P"/>proveniens a luce essentialiter et sicut potest esse quin dependeat a luce in esse lucis 
+            <lb ed="#P"/>ita dicta quod revelatio dependet a luce prima ut est lux vera <pc type="virgula">/</pc> et correspondenter sicut de 
+            <lb ed="#P"/>radio ad lucem sic de assensu divino respective ad revelationem <pc type="punctus"/> vel econtra scilicet de revelatione 
+            <lb ed="#P"/>facta ad assensum divinum <pc type="pilcrow"/> Et sic ista via salvaret quod anima christi non potest decipi <pc type="virgula">/</pc> quoniam sunt 
+            <lb ed="#P"/>assensus semper erit verus <pc type="punctus"/> et dependet in esse tali <pc type="punctus"/> et istam viam tetigi in principio lecturae 
+            <lb ed="#P"/>in materia de fide <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l125-Dxxxx1">
+          <head xml:id="ppra-l125-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l125-xxxxx3">
+            <pc type="pilcrow"/> Secuntur 3es distinctiones 4ti scilicet 1oma <unclear>undecima</unclear> et 12ma et <unclear>primae</unclear> conclusio prima 
+            <lb ed="#P"/>sequitur videlicet quod conversio sacramenti non est formalis quoad hoc
+          </p>
+          <p xml:id="ppra-l125-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio est de propositionibus quae debent concedi 
+            <lb ed="#P"/>circa materiam unde aliqui non concedunt quod panis sit corpus christi sed dicunt quod corpus christi fit panem 
+            <lb ed="#P"/>et tamen panis desinitis esse et corpus christi incipit esse et de novo incipet esse nisi 
+            <lb ed="#P"/>alium de haberet esse <pc type="punctus"/> unde de si?m?s panis incipit corpus christi esse
+          </p>
+          <p xml:id="ppra-l125-xxxxx5">
+            <pc type="pilcrow"/> 3a conclusio sicut deus ex sua 
+            <lb ed="#P"/>immensitate est ubique et tamen per hoc non infertur quod multiplicetur sic de corpore christ nam 
+            <lb ed="#P"/>licet conficiatur in ista ecclesai et in ista et in illa tamen solus deus manet sicut de anima nostra 
+            <lb ed="#P"/>nam licet multiplicetur secundum potentias suas manet tamen eadem etiam in qualibet parte hostiae est corpus 
+            <lb ed="#P"/>christi et ubique se habet <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l125-xxxxx6">
+            <pc type="pilcrow"/> 4a conclusio christus tradidit corpus suum sub specie panis ut <unclear>crederemus</unclear> 
+            <lb ed="#P"/>per hoc sacramentum licet sensus sint in contrarium sed quia fides non habet meritum ubi humana ratio praebet 
+            <lb ed="#P"/>experitum ideo nos firma fide debemus credere <pc type="virgula">/</pc> nam ex alio potest dici quod sub specie panis et
+            <lb ed="#P"/>vini conficitur et manet sapor ne horrorem gustandi carnem vel sanguinem haberemus 
+          </p>
+          <p xml:id="ppra-l125-xxxxx7">
+            <pc type="pilcrow"/> 5a conlusio sub utraque specie continetur patet quia corpus a sanguine non distingutiru vel dividitur <pc type="virgula">/</pc> unde 
+            <lb ed="#P"/>notandum est quod vi verborum ex transubstantione non sequitur nisi corpus sed consurgit ex alio alia Et sic 
+            <lb ed="#P"/>fit secundum antiquos per concomitantiam quandam <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l125-xxxxx8">
+            <pc type="pilcrow"/> 6ta conclusio de obmissione aquae unde quaeritur 
+            <lb ed="#P"/>si aqua abmittere utrum sacramentum habebit efficaciam dicitur quod habebit efficaciam nisi efficiatur haec 
+            <lb ed="#P"/>per malitiam Sed tamen ex ignorantia graviter debet puniri
+          </p>
+          <p xml:id="ppra-l125-xxxxx9">
+            <pc type="pilcrow"/> 11ma distinctio cuius prima conclusio quod accidentia 
+            <lb ed="#P"/>remanet in corpore christi sive subiecto unde substantia et aliae qualitates sed deus ordinavit sic quod si 
+            <lb ed="#P"/>species applicarentur alicui suo obiecto remitterentur vel putrefierent <pc type="punctus"/> unde sanguinis <sic>nuttrit</sic> sicut 
+            <lb ed="#P"/>faceret vel vinum sed haec est ut suppleatur fides
+          </p>
+          <p xml:id="ppra-l125-xxxx10">
+            <pc type="pilcrow"/> 2a conclusio manducantes non frangunt corpus 
+            <lb ed="#P"/>christi ymmo eius integritas remanet et ideo etiam in fractione non frangitur corpus christi nec mensurare 
+            <lb ed="#P"/>correspondet speciebus
+          </p>
+          <p xml:id="ppra-l125-xxxx11">
+            <pc type="pilcrow"/> 3a conclusio de modo sumendi unde magister inducit augustinum dicentem 
+            <lb ed="#P"/>quod omni die <unclear>su?re</unclear> non laudat nec vituperat <pc type="punctus"/> tamen si debite sumat non est dubium 
+            <lb ed="#P"/>quod multum laudandus est
+          </p>
+          <p xml:id="ppra-l125-xxxx12">
+            <pc type="pilcrow"/> 12ma distinctio huius 4ti cuius prima conclusio quod mali corpus christi vel sacramenta 
+            <lb ed="#P"/>non diminuit nec boni augent quia suam efficaciam ab alio non habet quam a deo nec praevitas 
+            <lb ed="#P"/>aut malitia sacerdotis ipsum impeiorat nec ex bono melioratur
+          </p>
+          <p xml:id="ppra-l125-xxxx13">
+            <pc type="pilcrow"/> 2a conclusio excommunicati 
+            <lb ed="#P"/>vel simoniaci sive haeretic non conficiunt sacramentum id sicut dicit <name>magister</name> <pc type="punctus"/> sed tamen in nhoc non 
+            <lb ed="#P"/>tenetur <pc type="virgula">/</pc> quoniam sicut dictum est malitia vel bonitas nihil aufferunt vel apponunt in hoc <pc type="punctus"/> Tamen 
+            <lb ed="#P"/>obsecrationes et orationes boni <unclear>presbyteri</unclear> valent multum mali vero parum vel nihil <pc type="pilcrow"/> unde 
+            <lb ed="#P"/><name>plaoust</name> dicebat quod licet haereticus adhuc non intenderet quod sacramentum efficaciam haberet <pc type="punctus"/> et di<lb ed="#P"/>cebat 
+            etiam quod si semper scisma <unclear>du?ret</unclear> sacramentum etiam a malis presbyiteris et irregulantibus conficeretur 
+            <lb ed="#P"/>licet tamen effectus sacramenti praecise consequeretur
+          </p>
+          <p xml:id="ppra-l125-xxxx14">
+            <pc type="pilcrow"/> 3a et ultima est descriptio haeresis unde haeresis 
+            <lb ed="#P"/>est finitio falsitatum <unclear>perti?rium</unclear> commissiva <pc type="punctus"/> et ista descriptio non est proprie propria quare etc et sic 
+            <lb ed="#P"/>finis est lectionis deo gratia <unclear>allam</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio125">
+      <head xml:id="ppra-l125-Hldlldl">Lectio 125, de Libertate</head>
+      <div xml:id="ppra-l125-Dd1e109">
+        <head xml:id="ppra-l125-Haeqpef">Alia error: quod revelatio de futuro contingenti potest
+          esse falsa</head>
+        <p xml:id="ppra-l125-davstc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-davstc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-davstc"/>
+          </assertions>
+        </p>
+        <!-- review para break here ?? -->
+        <p xml:id="ppra-l125-qqhced">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-qqhced"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-qqhced"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-eic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-sipvsd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-sipvsd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-sipvsd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l125-Dd1e160">
+        <head xml:id="ppra-l125-Hddcddc">De divina concurrentia</head>
+        <p xml:id="ppra-l125-samoes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-samoes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-samoes"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-snqesc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-snqesc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-snqesc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-atcfif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-atcfif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-atcfif"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-elieoc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-elieoc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-elieoc"/>
+          </assertions>
+        </p>
+        <!--
+            Does not seem present 
+            <p xml:id="ppra-l125-sipdrp">
+            Secundo ista positio 
+            non salvaretur de revelatione prophetica.
+          </p>
+          -->
+        <p xml:id="ppra-l125-tnsqid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-tnsqid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-tnsqid"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l125-Dd1e202">
+        <head xml:id="ppra-l125-Hsupnes">Suppositiones</head>
+        <p xml:id="ppra-l125-sptips">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-sptips"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-sptips"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-petsvg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-petsvg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-petsvg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-ssapec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-ssapec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-ssapec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-tsvqie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-tsvqie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-tsvqie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-qshade">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-qshade"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-qshade"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l125-Dd1e234">
+        <head xml:id="ppra-l125-Hcorria">Corollaria</head>
+        <p xml:id="ppra-l125-eqscsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eqscsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eqscsc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-neqssm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-neqssm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-neqssm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-sneida">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-sneida"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-sneida"/>
+          </assertions>
+        </p>
+        <!-- 2 -->
+        <p xml:id="ppra-l125-eqscar">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eqscar"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eqscar"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-sciiar">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-sciiar"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-sciiar"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-sdqapi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-sdqapi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-sdqapi"/>
+          </assertions>
+        </p>
+        <!-- 3? -->
+        <p xml:id="ppra-l125-epihvh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-epihvh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-epihvh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-eehpmc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eehpmc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eehpmc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-eqacer">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eqacer"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eqacer"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-epccer">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-epccer"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-epccer"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-opssar">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-opssar"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-opssar"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l125-eqipse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l125-eqipse"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l125-eqipse"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l125-Dxxxx1">
+        <head xml:id="ppra-l125-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l125-xxxxx3">
+        </p>
+        <p xml:id="ppra-l125-xxxxx4">
+        </p>
+        <p xml:id="ppra-l125-xxxxx5">
+        </p>
+        <p xml:id="ppra-l125-xxxxx6">
+        </p>
+        <p xml:id="ppra-l125-xxxxx7">
+        </p>
+        <p xml:id="ppra-l125-xxxxx8">
+        </p>
+        <p xml:id="ppra-l125-xxxxx9">
+        </p>
+        <p xml:id="ppra-l125-xxxx10">
+        </p>
+        <p xml:id="ppra-l125-xxxx11">
+        </p>
+        <p xml:id="ppra-l125-xxxx12">
+        </p>
+        <p xml:id="ppra-l125-xxxx13">
+        </p>
+        <p xml:id="ppra-l125-xxxx14">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
