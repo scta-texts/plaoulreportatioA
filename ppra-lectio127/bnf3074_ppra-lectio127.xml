@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 127, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 127, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-14">July 14, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="125-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio127">
+        <head xml:id="ppra-l127-Hldlldl">Lectio 127, de Libertate</head>
+        <div xml:id="ppra-l127-Dd1e109">
+          <head xml:id="ppra-l127-Hdlaais">De liber arbitrio in se</head>
+          <div xml:id="ppra-l127-Dd1e114">
+            <head xml:id="ppra-l127-Hqapdee">Quod a parte rei eadem est potentia adaequate quae est consiliativa discursiva et electiva</head>
+            <p xml:id="ppra-l127-radops">
+              <lb ed="#P"/> Consequenter est de materia libertatis tractandum scilicet de libero arbitrio in se considerato 
+              <lb ed="#P"/>unde primitus advertendum est quod libertas voluntatis est eadem potentiae quae est consiliativa <sic>desiderativa <add place="above-line">vel disursiva</add> <!-- scribe might be indicating undertaint about reading here --></sic> et volitiva 
+              <lb ed="#P"/>patet <pc type="virgula">/</pc> quia frustra sine necessitate multiplicarentur entia <pc type="punctus"/> ubi per unam rem salvari possent
+            </p>
+            <p xml:id="ppra-l127-sseapd">
+              <pc type="pilcrow"/> 2o nam si potentia volitiva consiliativa et discretiva distinguerentur ab anima tunc ponatur quod distingantur 
+              <lb ed="#P"/>realiter inter se quo dato anima tunc non erit rationalis et sic rationale non esset animae intrinsecum igitur etc
+            </p>
+            <p xml:id="ppra-l127-tiprnv">
+              <lb ed="#P"/><pc type="pilcrow"/> Item sic se haberent quod una esset rationalis et alia elecitiva et tunc ergo si sic essent substantiae illae 
+              <lb ed="#P"/>substantiae et per consequens beatificabiles aut dampnabiles et sic de aliis potentiis ymmo nobiliores essent ipsa anima 
+              <lb ed="#P"/>patet quoniam esse reale est nobilius quam non rationale <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l127-qhpqef">
+              <pc type="pilcrow"/> Item talia ponuntur apud aliquos 
+              <lb ed="#P"/>accidentia <pc type="virgula">/</pc> modo quod aliquod accidens sit potentia volitiva vel etc non est necessariam ymmo non potest eis competere 
+              <lb ed="#P"/>quia sunt denominationes concreativae
+            </p>
+          </div>
+          <div xml:id="ppra-l127-Dd1e138">
+            <head xml:id="ppra-l127-Hcorria">Corollaria</head>
+            <p xml:id="ppra-l127-svfnev">
+              <pc type="pilcrow"/> Ex quo sequitur vanitas fingentium liberum arbitrium esse compositum ex intellectu 
+              <lb ed="#P"/>et voluntate <pc type="pilcrow"/> unde ymaginantur quod liberum arbitrium exprimitur per duo vocabula et ideo debet dici arbitrium 
+              <lb ed="#P"/>liberum <pc type="punctus"/> ut sit potentia resultans ex elicitiva et volitiva <pc type="virgula">/</pc> Sed defficit in hoc quod praesupponit quod 
+              <lb ed="#P"/>sit dispositio a parte rei cum tamen non <pc type="virgula">/</pc> et sic ymaginatur falsum
+            </p>
+            <p xml:id="ppra-l127-sqriaa">
+              <pc type="pilcrow"/> Item sequeretur quod eadem ratione componeretur 
+              <lb ed="#P"/>ex 3a et 4a et sic in infinitum ut sic arguit <ref xml:id="ppra-l127-Rd1e153"><name ref="#WilliamOfAuxerre">altissiodorensis</name></ref>
+            </p>
+            <p xml:id="ppra-l127-eqscdi">
+              <pc type="pilcrow"/> Ex quo sequitur quod nihil est quaerere
+              <lb ed="#P"/>utrum intellectus sit liber vel voluntas et utrum a parte rei consistat voluntas et intellectus quia eadem aedequate 
+              <lb ed="#P"/>sunt <pc type="punctus"/> <pc type="virgula">/</pc> et sic difficultas debet resolvi <pc type="punctus"/> ad actus animae <pc type="punctus"/> qui quidam producuntur libere <unclear>2a</unclear> necessario <pc type="punctus"/> Et sic 
+              <lb ed="#P"/>de actibus debet quaeri qui sunt liberi et naturaliter producti 
+              <pc type="pilcrow"/> Circa quod est oppinio <ref xml:id="ppra-l127-Rd1e172"><name ref="#WilliamOfAuxerre">altissiodorensis</name></ref> expresse 
+              <lb ed="#P"/>tenentis quod actus elicitus est iudicium diffusivam ultimatum ipsius voluntatis et ex consequenti ponit libertatem 
+              <lb ed="#P"/>esse in intellectu vel ratione <pc type="punctus"/> 
+              <pc type="pilcrow"/> unde ymaginatur idem doctor quod in operantibus motibus concurrit duplex iudicium 
+            </p>
+            <p xml:id="ppra-l127-uedefm">
+              unum 
+              <lb ed="#P"/><sic>unum</sic> deliberativum et <del rend="expunctuation">ad</del> consiliativum quo intellectus elicit vel iudicat quod haec est faciendum vel non faciendum et illud 
+              <lb ed="#P"/>nec est meritum nec demeritum <pc type="punctus"/> exitus quando fit ex fide scilicet in iudicando
+            </p>
+            <p xml:id="ppra-l127-aeicmt">
+              <pc type="pilcrow"/> Aliud est sententiativum <unclear>diffinitionum</unclear> 
+              <lb ed="#P"/>et imperativum et executivum <pc type="virgula">/</pc> et istud iudicium est ipse intellectus vel consensus quo consensu acceptatur 
+              <lb ed="#P"/>et iudicatur ultimate quod iudicatur in intellectu <pc type="virgula">/</pc> et hoc ultimum ponit esse liberum <pc type="virgula">/</pc> Et ideo potentia huiusmodi 
+              <lb ed="#P"/>actus vocatur liberum arbitrium capiendo pro potentia iudicativa  quia actus eius est iudicativus <pc type="virgula">/</pc> et vocatur liber et non 
+              <lb ed="#P"/>proprie in appetitu licet <ref><name>aristoteles</name> in <title>ethicis</title></ref> aliter dicit
+            </p>
+          </div>
+          <div xml:id="ppra-l127-Dd1e211">
+            <head xml:id="ppra-l127-Hnotlia">Notabilia</head>
+            <p xml:id="ppra-l127-aecdee">
+              <pc type="pilcrow"/> unde advertendum est quod resolutio <sic>ultimata</sic> 
+              <lb ed="#P"/>istius doctoris stat in hac utrum actus elicitivus sit magis appetitivus quam cognoscitivus <pc type="virgula">/</pc> quia pluries
+              <lb ed="#P"/>dictum est quod multi actus sunt in anima qui sunt realiter idem sicut visum fuit in materia de fide 
+              <lb ed="#P"/>Et ideo data electione <pc type="virgula">/</pc> tale iudicium vocatur discretionis <pc type="punctus"/> sed ultimum vocatur electionis vel cognitionis <pc type="punctus"/> 
+              <lb ed="#P"/>licet habeat utramque conditionem <pc type="punctus"/> <pc type="virgula">/</pc> et sic vocatur actus rationis 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l127-ediuch">
+              <pc type="pilcrow"/> Sed quia communis oppinio est ad contrarium 
+              <lb ed="#P"/>vocatur magis appetituvs
+            </p>
+            <p xml:id="ppra-l127-senges">
+              <pc type="pilcrow"/> ulterius est advertendum quod alii doctores vocant liberum arbitrium gratia 
+              <lb ed="#P"/>sui in ordine ad actus animae <pc type="virgula">/</pc> et quia in contemplatione primae veritatis consistit principalis animae nostra felicitas 
+              <lb ed="#P"/>ideo voluntatis actus in ipsum oordinantur <pc type="virgula">/</pc> quia ipsa veritas prima est gratia cuius sunt omnes actus ipsius animae 
+              <lb ed="#P"/>Et sic ponunt quod in intellectu ponitur et consistit <del rend="strikethrough">veritas</del> libertas
+            </p>
+            <p xml:id="ppra-l127-siqirl">
+              <pc type="pilcrow"/> 2o ymaginatur quod intellectus 
+              <lb ed="#P"/>est principalis modo regno animae quia se habet non per modum consulentis <pc type="punctus"/> sed per modum <del rend="strikethrough">si</del> diffinientis et 
+              <lb ed="#P"/>operantis voluntas autem per modum exequentis <pc type="virgula">/</pc> Et ad hoc resolvit libertatem
+            </p>
+            <p xml:id="ppra-l127-tendma">
+              <pc type="pilcrow"/> unde advertendum 
+              <lb ed="#P"/>quod non discrepant de intellectu cum oppinione <name>altissiodorensis</name> quantum ad libertatem contradictionis quae stat sic 
+              <lb ed="#P"/>quod concurrentibus quibuscumque causis ad actus elicitivi productionem <pc type="virgula">/</pc> est tamen in potentiae animae illis stantibus 
+              <lb ed="#P"/>exire vel non exire in actu <pc type="punctus"/> <pc type="virgula">/</pc> posito saltim obiecto et hoc absque adiutorio alicuius alterius causae 
+              <lb ed="#P"/>Et in hoc stat libertas contradictionis Et sic non dependet pro tunc sua actio maxime ab aliqua 
+              <lb ed="#P"/>particulari causa <pc type="punctus"/> <!-- possible break point --> <pc type="pilcrow"/> Sed ut materia magis in particulari discutiatur introducuntur aliquae rationes 
+            </p>
+          </div>
+          <div xml:id="ppra-l127-Dd1e242">
+            <head xml:id="ppra-l127-Hqvnnsl">Quod voluntas non sit libera</head>
+            <p xml:id="ppra-l127-eipoea">
+              <pc type="punctus"/> quarum 
+              <lb ed="#P"/>prima Arguitur enim sic quod voluntas non sit libera <pc type="virgula">/</pc> nam proposito quocumque obiecto <pc type="punctus"/> voluntas necessario 
+              <lb ed="#P"/>habet aliquem actum ergo non est libera <pc type="virgula">/</pc> consequentia nota antecedens probatur <pc type="virgula">/</pc> nam proposito obiecto ratione boni movet veritatem 
+              <lb ed="#P"/>ad ipsius prosecutionem <pc type="punctus"/> etc vel elicit velle ut nolle vel resistit <pc type="virgula">/</pc> si primum habetur 
+              <lb ed="#P"/>intentum si 2m tunc necessario elicit actum igitur non est libera 
+            </p>
+          </div>
+          <div xml:id="ppra-l127-Dd1e252">
+            <head xml:id="ppra-l127-obitio">Obiectio</head>
+            <p xml:id="ppra-l127-sfdsom">
+              <pc type="virgula">/</pc> Et forte aliquis diceret quod resistet 
+              <lb ed="#P"/>per se non sequendo obiecti motionem 
+            </p>
+          </div>
+          <div xml:id="ppra-l127-Dd1e261">
+          <head xml:id="ppra-l127-Hraorao">Responsio ad obiectionem</head>
+            <p xml:id="ppra-l127-caqhaa">
+              <pc type="pilcrow"/> Sed contra hoc apparenter arguitur sic nam voluntas ex resistentiis 
+              <lb ed="#P"/>talibus pluries iteratis facilitatur igitur in ea acquiritur <del rend="strikethrough">habitus vel</del> actus <pc type="punctus"/> resistendi 
+            </p>
+            <p xml:id="ppra-l127-eqappc">
+              et sic per actus 
+              <lb ed="#P"/>resistet ergo etc <pc type="punctus"/> Et haec est ratio <ref xml:id="ppra-l127-Rd1e280"><name ref="#Ripa">magistri iohannis de rippa</name></ref> <pc type="punctus"/> et <name>adam</name> etiam in 4to
+            </p>
+            <p xml:id="ppra-l127-sqsnvv">
+              <pc type="pilcrow"/> 2o arguitur 
+              <lb ed="#P"/>nam si voluntas esset libera produceret actum suum subitus vel successive <pc type="virgula">/</pc> non primum quia in aliquo 
+              <lb ed="#P"/>tempore dato intenderet actum usque ad gradum infinitum patet quoniam in quolibet instanti aequalem 
+              <lb ed="#P"/>gradum producet <pc type="punctus"/> ergo in infinitum intensive <pc type="virgula">/</pc> nec 2m potest dici quia non habet resistentiam respectu <unclear>productionis</unclear> 
+              <lb ed="#P"/>sui actus ex eo quod non agit successive <pc type="virgula">/</pc> antecedens enim patet quia possset augeri resistentia ad aequalitatem 
+              <lb ed="#P"/>activitatis voluntatis quo dato impossibilitaur voluntas ad suos actus <pc type="punctus"/> et per consequens non esset libera
+            </p>
+            <p xml:id="ppra-l127-taeiea">
+              <lb ed="#P"/><pc type="pilcrow"/> 3o arguitur per <ref xml:id="ppra-l127-Rd1e303" target="http://scta.info/resource/aristneth-l7"><name ref="#Aristotle">philosophum</name> 7mo <title ref="#Ethics">ethicorum</title></ref> ubi comparat sillogismum practicum et speculativum ad animam
+              <pb ed="#P" n="126-r"/>
+              <lb ed="#P"/>ponendo convenientiam et disconvenientiam <pc type="virgula">/</pc> disconvenientia talis est quia conclusio sillogismi speculativi facit scire potissime 
+              <lb ed="#P"/>non sic est de practico quia conclusio quae necessaria operatur et anima <del rend="strikethrough">post cum</del> et ita se habet sicut per ipsam conclusionem practici 
+              <lb ed="#P"/>significatur ut sit conclusio practici quod omne dulce est gustandum et occurrat aliquod aliud particulare <pc type="punctus"/> In sillogismo aut 
+              <lb ed="#P"/>speculativo consistit in necessitate ad operationem ipsius practici
+            </p>
+            <p xml:id="ppra-l127-qahhss">
+              <pc type="pilcrow"/> 4o habitus exit in act absque 
+              <lb ed="#P"/>concursu libero et modo naturali patet in singulis habitibus scientiis igitur actus voluntatis qui non est 
+              <lb ed="#P"/><unclear>m?ris</unclear> activitatis exiet in actu quia non est suspensus
+            </p>
+            <p xml:id="ppra-l127-chnah">
+              <pc type="pilcrow"/> Confirmatur quoniam habitus in aliquo 
+              <lb ed="#P"/>gradu movet voluntatem ad actus productionem igitur necessabit voluntatem ad <del rend="strikethrough">actus productionem</del> sui 
+              <lb ed="#P"/>consecutionem
+            </p> 
+            <p xml:id="ppra-l127-qvcctn">
+              <pc type="pilcrow"/> 5o voluntas <sic>neccessitatur</sic> <sic>saltim</sic> carens gratia a temporibus illicitis igitur non est libera 
+              <lb ed="#P"/>consequentia tenet antecedens patet quia ipsa sic carens gratia non potest temptationibus resistere sicut dicit <ref xml:id="ppra-l127-Rd1e334"><name ref="#Augustine">beatus augustinus</name></ref> 
+              <lb ed="#P"/>quia alio modo dicere esset <name>pelagii</name> error et haec patet quoniam sine gratia non potest superare temptationes 
+            </p>
+            <p xml:id="ppra-l127-svvpac">
+              <pc type="pilcrow"/> 6to 
+              <lb ed="#P"/>vel voluntas se haberet pure passive <pc type="virgula">/</pc> vel active <pc type="punctus"/> sed nullum istorum potest dici igitur consequentia tenet et 
+              <lb ed="#P"/>antecedens patet prima non primum quia non esset libera eo quod actus producibilis non est in potentia passiva 
+              <lb ed="#P"/>sed praecise in potentiae agentis <pc type="virgula">/</pc> et sic sequeretur quod obiectum necessitaret voluntatem ad sui executionem 
+              <lb ed="#P"/>Sed quod non se habeat active maxime respectu actuum intellectivorum patet quia non se potest habere respectu 
+              <lb ed="#P"/>habitus quia tantae activitatis est quod <quote xml:id="ppra-l127-Qd1e373" source="http://scta.info/resource/aristneth-l1" type="paraphrase">per ipsam agonizantes coronantur</quote>
+            </p>
+            <p xml:id="ppra-l127-cqraab">
+              <pc type="pilcrow"/> Confirmatur nam respectu actus 
+              <lb ed="#P"/>beatifici sed habet pure passive igitur non est libera <pc type="punctus"/> sed quod nec sic se habeat patet <pc type="virgula">/</pc> quia non potest caritatem 
+              <lb ed="#P"/>producere quoniam excederet vires animae igitur non potest ad actum beatificum <pc type="virgula">/</pc> quia nobilior est
+            </p>
+            <p xml:id="ppra-l127-svnpie">
+              <lb ed="#P"/><pc type="pilcrow"/> arguitur voluntas nonquam libere vult igitur non potest esse libera vel libere velle consequentia tenet <del rend="strikethrough">et antecedens patet</del> 
+              <lb ed="#P"/>quia quandocumque vult <pc type="virgula">/</pc> suus actus continuatur in ea ergo necessitatur ad velle et antecedens probatur quia non 
+              <lb ed="#P"/>datur ultimum instans rei permanentis in esse et per consequens necessitatur ad volendum quod fuit declarandum 
+            </p>
+            <p xml:id="ppra-l127-cqsvsn">
+              <lb ed="#P"/><pc type="pilcrow"/> Confirmatur <pc type="virgula">/</pc> quoniam si sic esset <pc type="punctus"/> tunc esset libera antequam actus produceretur sed haec non potest dici 
+              <lb ed="#P"/>quod patet <pc type="virgula">/</pc> quoniam in instanti productionis actus non est in potestate voluntatis quin velit igitur semper necessitatur
+            </p>
+            <p xml:id="ppra-l127-oeusis">
+              <pc type="pilcrow"/> 8vo 
+              <lb ed="#P"/>arguitur inquirendo de voluntatis determinatione ad suum actum <pc type="virgula">/</pc> tunc vel ipsa voluntas agit determinate vel indeterminate 
+              <lb ed="#P"/>vel per actum liberum vel naturalem <pc type="virgula">/</pc> si per naturalem tunc necessitatur <pc type="virgula">/</pc> si de libero <pc type="punctus"/> iterum de eo quaeritur 
+              <lb ed="#P"/>quid per eum determinetur sed nihil et tunc si per nullum nulla ratio potest dari quare plus producat in 
+              <lb ed="#P"/>prima parte istius horae quam in 2a Tunc arguitur in prima hora non est voluntas determinata ad producendum 
+              <lb ed="#P"/>suum actum igitur nec in 2a igitur ipsa non est libera <pc type="punctus"/> et hoc de argumentis pro praesenti sufficiat
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l127-Dxxxx1">
+          <head xml:id="ppra-l127-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l127-xxxxx3">
+            <lb ed="#P"/><pc type="pilcrow"/> Secuntur distinctiones 18va et 19va 4ti sententiarum conclusio prima est quod claves summis sacrdotibus 
+            <lb ed="#P"/>concedendae sunt id est absolvendi et ligam dei potestatem habent quod designatur per claves nam sicut 
+            <lb ed="#P"/>clavis firmat et defirmat ita et ipsi
+          </p>
+          <p xml:id="ppra-l127-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio est una oppinio quod peccator per 
+            <lb ed="#P"/>peccatum duplici ligamine ligatur scilicet macula et <subst><del rend="strikethrough">culpae</del> <add place="above-line">poenae</add></subst> obligatione unde oppinio fuit quod deus se 
+            <lb ed="#P"/>solo tollit culpam et ligamen culpae <pc type="punctus"/> et sacerdos solummmodo ligamen
+          </p>
+          <p xml:id="ppra-l127-xxxxx5">
+            <pc type="pilcrow"/> Sed <ref><name>hugo de sancto 
+            <lb ed="#P"/>victore</name> in libro de sacramentis</ref> dicit quod confessio est necessaria viatori quare si sit necessaria sumitur tollit 
+            <lb ed="#P"/>ergo aeternam poenam et per consequens sacerdos absolvens tollit viatori aeternam dampnationem
+          </p>
+          <p xml:id="ppra-l127-xxxxx6">
+            <pc type="pilcrow"/> Unde advertendum 
+            <lb ed="#P"/>quod clavis non capitur per cognitione morbi spiritualis discernendi sed sumitur pro auctoritate discernendi <pc type="virgula">/</pc> Theologicus 
+            <lb ed="#P"/>autem <pc type="punctus"/> licet habeat cognitionem morbi et scientiam nihilominus non habet auctoritatem nisi ordines sibi 
+            <lb ed="#P"/>conferantur
+          </p>
+          <p xml:id="ppra-l127-xxxxx7">
+            <pc type="pilcrow"/> Utrum autem possit applicari ad quamlibet materiam est dubium quidam dicunt pro sic 
+            <lb ed="#P"/>sed tamen dico quod istud est quodam modo <unclear>iuridicium</unclear> habet enim aliquid de iure positivo id est <sic>pollitico</sic> et ideo 
+            <lb ed="#P"/>deus reliquit iudici ad hoc sufficienter de <unclear>pu?to</unclear> scilicet vel episcopo vel sacramenti vel alteri quo sublato 
+            <lb ed="#P"/>confessio non haberet efficaciam
+          </p>
+          <p xml:id="ppra-l127-xxxxx8">
+            <pc type="pilcrow"/>Alia distinctio cuius conclusio prima claves recipiuntur a sacramento <pc type="virgula">/</pc> sed 
+            <lb ed="#P"/>utrum sit idem praeter caracterem ordinis <pc type="virgula">/</pc> dicitur quod caracter potest capi secundum duas claves <pc type="punctus"/> sed 
+            <lb ed="#P"/>illa potestas non est aliquid positivum
+          </p>
+          <p xml:id="ppra-l127-xxxxx9">
+            <pc type="pilcrow"/> 2a conclusio quae recitat oppinionem unam quae tenet quod nullus tenet 
+            <lb ed="#P"/>claves nisi tenuerit ritum et ordinem apostolorum Ad quod dicitur quod malitia sacerdotis 
+            <lb ed="#P"/>non malitia sacramentum confessionum vel <sic>claves</sic> <pc type="punctus"/> licet non ydoneae conferat vel sanctae <pc type="punctus"/> et haec de lectione
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
