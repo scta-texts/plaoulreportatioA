@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio129">
+      <head xml:id="ppra-l129-Hldlldl">Lectio 129, de Libertate</head>
+      <div xml:id="ppra-l129-Dd1e109">
+        <head xml:id="ppra-l129-Hchdchd">Contra heri dictam</head>
+        <p xml:id="ppra-l129-ichsef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-ichsef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-ichsef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-epsnmr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-epsnmr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-epsnmr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-airqir">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-airqir"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-airqir"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-sacimr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-sacimr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-sacimr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-rncpsm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-rncpsm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-rncpsm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l129-Dd1e143">
+        <head xml:id="ppra-l129-Hdiftas">Difficultas</head>
+        <p xml:id="ppra-l129-sciaav">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-sciaav"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-sciaav"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-eqapen">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-eqapen"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-eqapen"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-sdsqep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-sdsqep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-sdsqep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-schpsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-schpsi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-schpsi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-tseeem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-tseeem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-tseeem"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-rqtapv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-rqtapv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-rqtapv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-cauipr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-cauipr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-cauipr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-cranrv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-cranrv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-cranrv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-thplvi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-thplvi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-thplvi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-saclen">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-saclen"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-saclen"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-taealv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-taealv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-taealv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l129-Dd1e208">
+        <head xml:id="ppra-l129-Hqapapp">Quantum ad principalem propositionis</head>
+        <p xml:id="ppra-l129-qapsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-qapsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-qapsda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-sained">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-sained"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-sained"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-tadnes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-tadnes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-tadnes"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l129-Dd1e244">
+        <head xml:id="ppra-l129-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l129-Dd1e249">
+          <head xml:id="ppra-l129-Hpcmpcm">Primum corollarium</head>
+          <p xml:id="ppra-l129-eqsiam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-eqsiam"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-eqsiam"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e258">
+          <head xml:id="ppra-l129-Hscmscm">Secundum corollarium</head>
+          <p xml:id="ppra-l129-ssqraa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-ssqraa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-ssqraa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e333">
+          <head xml:id="ppra-l129-Htcmtcm">Tertium corollarium</head>
+          <p xml:id="ppra-l129-taqnee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-taqnee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-taqnee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l129-eianip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-eianip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-eianip"/>
+            </assertions>
+          </p>
+          <!-- consider moving last sentence into next paragraph -->
+          <p xml:id="ppra-l129-rqiedf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e402">
+          <head xml:id="ppra-l129-Hqcmqcm">Quartum corollarium</head>
+          <p xml:id="ppra-l129-sqqeig">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-sqqeig"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-sqqeig"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l129-shhphp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-shhphp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-shhphp"/>
+            </assertions>
+          </p>
+          <!-- break perhaps not necessary here -->
+          <!-- Doesn't seem present 
+              <p xml:id="ppra-l129-sfdhep">
+              Sed forte diceretur quod 
+              esset dare ultimum instans rei in esse tali et non in 
+              esse substantiae eius et hoc est probabile.
+            </p>-->
+          <p xml:id="ppra-l129-tqiqim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-tqiqim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-tqiqim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l129-qdceum">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-qdceum"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-qdceum"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l129-qdnpii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-qdnpii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-qdnpii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l129-ssaelp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l129-ssaelp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-ssaelp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l129-Dd1e446">
+        <head xml:id="ppra-l129-Hsaaaaa">Solutio ad argumentum Altissidorensis</head>
+        <p xml:id="ppra-l129-eiiinp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-eiiinp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-eiiinp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-rediph">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-rediph"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-rediph"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l129-iqdfim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l129-iqdfim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l129-iqdfim"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l129-Dxxxx1">
+        <head xml:id="ppra-l129-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l129-xxxxx3">
+        </p>
+        <p xml:id="ppra-l129-xxxxx4">
+        </p>
+        <p xml:id="ppra-l129-xxxxx5">
+        </p>
+        <p xml:id="ppra-l129-xxxxx6">
+        </p>
+        <p xml:id="ppra-l129-xxxxx7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

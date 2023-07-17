@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 129, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 129, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-17">July 15, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="126-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio129">
+      <head xml:id="ppra-l129-Hldlldl">Lectio 129, de Libertate</head>
+        <div xml:id="ppra-l129-Dd1e109">
+          <head xml:id="ppra-l129-Hchdchd">Contra heri dictam</head>
+          <p xml:id="ppra-l129-ichsef">
+            <lb ed="#P"/>Consequenter et ultimo circa materiam de libertate in se considerata moventur aliquae rationes contra heri 
+            <lb ed="#P"/>dicta 
+          </p>
+          <p xml:id="ppra-l129-epsnmr">
+            <pc type="punctus"/> Si positi praefatata esset vera sequeretur quod sine actu voluntas esset indifferens 
+            <lb ed="#P"/>igitur non diceretur in se libera
+          </p>
+          <p xml:id="ppra-l129-airqir">
+            <pc type="pilcrow"/> Respondetur ad hoc de differenia voluntatis nam si intelligatur sic esse 
+            <lb ed="#P"/>indifferens quod non poteset esse in unum vel rectum tunc absolute negandum est cum <del rend="strikethrough">adhuc</del> voluntas sit libera 
+            <lb ed="#P"/>non obstante obiecto praesente ipsam voluntatem alliciento <pc type="virgula">/</pc> si autem pro ratione intrinseca non est aliud quam 
+            <lb ed="#P"/>habere intrinsecam libertatem et ad hoc exire in actum tenetur quod est indifferens 
+          </p>
+          <p xml:id="ppra-l129-sacimr">
+            <pc type="pilcrow"/> 2o arguitur si ita 
+            <lb ed="#P"/>esset sequeretur quod voluntas infinite modice consequens est falsum ergo falsus consequenter patet nam resistendo positive 
+            <lb ed="#P"/>per aliquod actum resisteret <pc type="punctus"/> Sed quod infinite modice resisteret patet nam per actum positivum resisteret
+            <lb ed="#P"/>intensivus et per ipsum tamen potest non resistere infinite
+          </p>
+          <p xml:id="ppra-l129-rncpsm">
+            <pc type="pilcrow"/>Ad hoc respondetur quod hoc non sequitur et ergo consequentia negatur 
+            <lb ed="#P"/>et etiam consequens et dicendum est nec plus nec minus tamen quod si resistat quod sit aliqu gradu positivo et tunc 
+            <lb ed="#P"/>ulterius si sic tunc in duplo minus <pc type="virgula">/</pc> negatur hoc quia non subduplatur tota resistentia sed illa 
+            <lb ed="#P"/>quae est in actu <pc type="punctus"/> 
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e143">
+          <head xml:id="ppra-l129-Hdiftas">Difficultas</head>
+          <p xml:id="ppra-l129-sciaav">
+            <pc type="pilcrow"/> Sed circa hoc restat maior difficultas <pc type="virgula">/</pc> nam ratio voluntatis est intrinsece 
+            <lb ed="#P"/>finita et motivitas obiectalis potest habere subduplam proportionem et tunc sit illa proportio ut 4or 
+            <lb ed="#P"/>tunc ponam quod motivitas obiecti subdupletur et tunc erit aequalitas et iterum augeatur erit proportio 
+            <lb ed="#P"/>maioris inaequalitatis ad resistentiam ipsius voluntatis ergo obiectum necessitabit ipsam voluntatem et sic inevitabiliter 
+            <lb ed="#P"/>fiet actus <pc type="virgula">/</pc> et sic dabitur aliqua pro alio illicita tantum movens voluntatem quod necessitabit eam ergo non 
+            <lb ed="#P"/>erit simpliciter libera <pc type="pilcrow"/> Plures solutiones possent dari in hac materia sed pro nunc potest dici quod 
+            <lb ed="#P"/>licet obiectum moveat voluntatem scilicet per <unclear>primos</unclear> motus ipsos causando <pc type="punctus"/> nihilominus ad actum liberum nec cognitio 
+            <lb ed="#P"/>nec obiectum concurrunt accidenter
+          </p>
+          <p xml:id="ppra-l129-eqapen">
+            Et ideo in voluntate minimus gradus resistentiae sufficeret <pc type="pilcrow"/> Unde dicitur quod <unclear>po?us</unclear> 
+            <lb ed="#P"/>notitia <unclear>causae</unclear> concurrit praecise in genere causae exemplaris essendi quam causando actum liberum <pc type="punctus"/> Ita quod productio 
+            <lb ed="#P"/>actus liberi est in voluntate quare sequitur quod voluntas quantum ad actum liberum nullo modo potest difficultari <pc type="punctus"/>
+            <lb ed="#P"/><pc type="pilcrow"/> Sed tamen difficultas <del rend="strikethrough">restat</del> est propter potentias sensitivas quae non obediunt prompte voluntati 
+            <lb ed="#P"/>in eligendo ardua <pc type="punctus"/> et fugiendo nociva <pc type="punctus"/> Et cum sic dicentibus me teneo <pc type="punctus"/> quia dictum illud 
+            <lb ed="#P"/>est magis practicum et morale
+          </p>
+          <p xml:id="ppra-l129-sdsqep">
+            <pc type="pilcrow"/> Alia via respondendi distinguendo de perceptiva potentia ipsius 
+            <lb ed="#P"/>voluntatis et de activa unde considerando voluntatem sic ipsa est magis activa quam pssiva 
+            <lb ed="#P"/>vel perceptiva unde denominationes perfectionales sic se habent quod priores perfectiori modo 
+            <lb ed="#P"/>correspondent quam posteriores id est in maiori gradu <pc type="punctus"/> ut esse activum vel activa est denominatio prior et sic 
+            <lb ed="#P"/>altior gradus est quam perceptiva
+          </p>
+          <p xml:id="ppra-l129-schpsi">
+            <pc type="pilcrow"/> Et ergo sic considerando voluntas est activa sui actus liberi et per idem 
+            <lb ed="#P"/>perceptiva et per idem suspensivus vel resistentiva ad ipsius effectus productionem <pc type="virgula">/</pc> et quia minus est receptiva 
+            <lb ed="#P"/>quam activa non ergo potest tantum percipere quantum potest resistere <pc type="punctus"/> <pc type="pilcrow"/> unde motio eius non potest esse tanta sicut 
+            <lb ed="#P"/>eius activitas Et sic ista ymaginatio solvit rationem prius inductam <pc type="virgula">/</pc> quia obiectum non movet 
+            <lb ed="#P"/>voluntatem nisi perceptive et quantumcumque infinitaretur non sequeretur intentum <pc type="punctus"/> cuius causa est
+            <pb ed="#P" n="128-r"/>
+            <lb ed="#P"/>quia maior est activitas quam resistentia
+          </p>
+          <p xml:id="ppra-l129-tseeem">
+            <pc type="pilcrow"/> 3a solutio potest dari ymaginando quod motio obiectalis 
+            <lb ed="#P"/>consurgit ex quadam habitudine vel proportionem convenientiae obiecti ad potentiam <pc type="virgula">/</pc> et quia illa datur maxima possibilis 
+            <lb ed="#P"/>inter hanc potentiam et hoc obiectum <pc type="punctus"/> et etiam convenientissima proportio est dabilis secundum quam movetur potentia <pc type="virgula">/</pc> et licet 
+            <lb ed="#P"/>moveatur minus quam sit eius intrinseca resistentia 
+          </p>
+          <p xml:id="ppra-l129-rqtapv">
+            <pc type="pilcrow"/> Si dicatur quod dupletur obiectum <pc type="virgula">/</pc> respondetur 
+            <lb ed="#P"/>quod minus movebit quia minorem proportionem habebit ratione influxus obiectalis <pc type="punctus"/> et sic 
+            <lb ed="#P"/>minus voluntatem talem obiectum alliceret ad illecebras <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l129-cauipr">
+            <pc type="pilcrow"/> Consequenter arguebat una ratio quoniam 
+            <lb ed="#P"/>si voluntas se sola sufficeret etc Respondetur quod ratio non concludit <pc type="virgula">/</pc> quia per virtutes morales 
+            <lb ed="#P"/>resistit <pc type="punctus"/> licet voluntas pro se sufficeret <pc type="punctus"/> quia actus morales reddunt eam tutam et cum habentibus finis 
+            <lb ed="#P"/>semper resistit 
+          </p>
+          <p xml:id="ppra-l129-cranrv">
+            <pc type="pilcrow"/> Consequenter ad 2m argumentum principale videlicet <del rend="strikethrough">vi</del> voluntas subito vel successive agat 
+            <lb ed="#P"/>Et pro isto sit prima propositio voluntas subito potest producere suum actum et in instanti et supponit ratio quod voluntas 
+            <lb ed="#P"/>se habeat active respectu sui actus <pc type="punctus"/> Et ad hoc sunt innumerales auctoritates sanctorum <pc type="punctus"/> et <unclear>rationum</unclear> 
+            <lb ed="#P"/>nam potentia passiva non habet actum in sua potestate igitur non est libera <pc type="virgula">/</pc> antecedens patet quia actus 
+            <lb ed="#P"/>potentiae passive est in facultate agentis et per consequens agens naturale applicatur ad passum ut agat
+          </p>
+          <p xml:id="ppra-l129-thplvi">
+            <lb ed="#P"/><pc type="pilcrow"/> Sed tamen circa hoc cavillosa potest esse responsio dicendo quod non salvaretur libertas passiva 
+            <lb ed="#P"/>per talem modum <add place="above-line">quia</add> in facultate voluntatis est actum recipere quia eius causalitas differt ab activa 
+            <lb ed="#P"/>et sic diceretur quod potentia passiva esset alterius speciei quam activa <pc type="punctus"/> <pc type="virgula">/</pc> nam applicato agente <pc type="punctus"/> est in voluntatis 
+            <lb ed="#P"/>potestate recipere actum vel non recipere <pc type="punctus"/> <pc type="pilcrow"/> Et quamvis ista positio non multum bene posset improbari 
+            <lb ed="#P"/>evidenter <pc type="punctus"/> licet non bene fundata sit ratione latitudinis causalitatis activae quae videtur super latitudinem 
+            <lb ed="#P"/>causalitatis passivae <pc type="virgula">/</pc> quia prima scilicet activa nobilior et perfectior <pc type="punctus"/> est quare etc <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l129-saclen">
+            <pc type="pilcrow"/> Item causalitas libera est 
+            <lb ed="#P"/>nobilissima causalitatum nam deo pure competit <pc type="punctus"/> passiva autem non <pc type="punctus"/> nec sibi potest competere <pc type="punctus"/> 
+            <lb ed="#P"/>igitur ipsa erit effectiva et non passiva <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l129-taealv">
+            <pc type="pilcrow"/> Item fortius arguitur dato eodem agente ad actus liberi 
+            <lb ed="#P"/>productionem voluntas poterit oppositos effectus elicere <del rend="expunctuation">quo</del> dato obiecto movente et alliciente ad prosecutionem 
+            <lb ed="#P"/>potest elicere velle vel nolle <pc type="punctus"/> sed diversitas effectuum non potest ab eadem causa totali <add place="above-line">naturali<!-- possible meant as a replacement for "totali" --></add> immediate produci 
+            <lb ed="#P"/>respectu eiusdem passi <pc type="punctus"/> igitur reducendum est ad actum <pc type="virgula">/</pc> et haec secundum ad suppositum rationis 
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e208">
+          <head xml:id="ppra-l129-Hqapapp">Quantum ad principalem propositionis</head>
+          <p xml:id="ppra-l129-qapsda">
+            <pc type="virgula">/</pc> Sed aliud principale probatur 
+            <lb ed="#P"/>quia agens naturale potest subito suum effectum producere igitur et voluntas consequentia tenet quia velocitas dicit perfectionem 
+            <lb ed="#P"/>et magnitudinem potentiae et ergo si agenti competat haec conditio <pc type="punctus"/> competit et nobiliori causae 
+            <lb ed="#P"/>antecedens patet <pc type="punctus"/> de lucido quoniam si applicetur <del rend="strikethrough">sibi lumen</del><!-- possibly something added above line --> causabit lumen
+          </p>
+          <p xml:id="ppra-l129-sained">
+            <pc type="pilcrow"/> 2o probatur in actionibus 
+            <lb ed="#P"/>naturalibus secundum proportionem agentis ad resistentiam passi augetur velocitas ergo per diminutionem resistentiae 
+            <lb ed="#P"/>anugebitur velocitas et si tota a movea erit infinita velocitas quare sequitur quod sic subito poterti 
+            <lb ed="#P"/>produci effectus ab agente <pc type="punctus"/> et hoc est satis clarum
+          </p>
+          <p xml:id="ppra-l129-tadnes">
+            <pc type="pilcrow"/> Item de facto ita fuit de accidentibus 
+            <lb ed="#P"/>animae christi nam in primo instanti producit bonos actus voluntas eius
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dd1e244">
+          <head xml:id="ppra-l129-Hcorria">Corollaria</head>
+          <div xml:id="ppra-l129-Dd1e249">
+            <head xml:id="ppra-l129-Hpcmpcm">Primum corollarium</head>
+            <p xml:id="ppra-l129-eqsiam">
+              <pc type="pilcrow"/> Ex quo sequitur quam repugnat angelo in prima 
+              <lb ed="#P"/>sui productione mereri vitam etiam nam <pc type="virgula">/</pc> quia deus potest creare eum voluntate sua mediate producendo actum et sic tamen 
+              <lb ed="#P"/>non repugnat in illo eodem instanti quin agat meritoriam actionem
+            </p>
+          </div>
+          <div xml:id="ppra-l129-Dd1e258">
+            <head xml:id="ppra-l129-Hscmscm">Secundum corollarium</head>
+            <p xml:id="ppra-l129-ssqraa">
+              <pc type="pilcrow"/> 2o sequitur quod si res in primo instanti 
+              <lb ed="#P"/>suae productionis non trahat necessitatem suae praeteritionis licet res iam sit ut <name>gregorius</name> dicit tunc 
+              <lb ed="#P"/>angelus in primo instanti suae creationis potuit peccare scilicet <name>lucifer</name> et hoc mortaliter <pc type="punctus"/> patet quia potuit habere 
+              <lb ed="#P"/>praecepta quoniam deus in illo primo instanti potuit sibi sua praecepta revelare quibus revelatis 
+              <lb ed="#P"/>tenebatur observare <pc type="punctus"/> et mereri eo ipso et per obmissionem ergo poterat sic demereri et hoc 
+              <lb ed="#P"/>videtur <ref xml:id="ppra-l129-Rd1e289" target="http://scta.info/resource/adcd-l11-d1e1597"><name>augustinus</name> aliqualiter tangere undecimo de civitate dei</ref> <pc type="pilcrow"/> unde dicit quod non fuit creatus 
+              <lb ed="#P"/>malus quia si deus hunc malum creasset videretur deus esse <seg type="correction">a<del rend="expunctuation">u</del>ctor</seg> mali quod obsit <pc type="pilcrow"/> unde 
+              <lb ed="#P"/>si teneatur quod ista consequentia sit bona <c>a</c> est ergo necesse est ipsum esse vel fuisse tenendo regulam <name>aristotelis</name> Omne 
+              <lb ed="#P"/>quod est dum est necesse est esse diceretur quod angelus primus non potuit peccare in primo instanti suae 
+              <lb ed="#P"/>productionis quia tunc non libere sed necessario peccasset <pc type="punctus"/> licet tamen <ref xml:id="ppra-l129-Rd1e316"><name ref="#Wodeham">adam</name></ref> dicat quod haec copulativa 
+              <lb ed="#P"/>omne quod est dum est etc nihilominus voluntas contradictorie libera producit suum actum <pc type="punctus"/> sed nihil est edictum 
+              <lb ed="#P"/>quia non est in potestate voluntatis falsificare consequens propositionis praedicere quia non est prioritas quae sufficiat 
+              <lb ed="#P"/>ad hoc
+            </p>
+          </div>
+          <div xml:id="ppra-l129-Dd1e333">
+            <head xml:id="ppra-l129-Htcmtcm">Tertium corollarium</head>
+            <p xml:id="ppra-l129-taqnee">
+              <pc type="pilcrow"/> 3o adiungo quod licet non potuit peccare in primo instanti suae creationis videlicet in illo 
+              <lb ed="#P"/>eodem tamen potuit incipere peccare <pc type="punctus"/> probatur hoc <pc type="punctus"/> nam potuit habere a deo praeceptum quod non 
+              <lb ed="#P"/>successive <del rend="strikethrough">peccaret</del> produceret <c>a</c> actum quo stante concederetur quod inciperet producere successive 
+              <lb ed="#P"/>et sic diceretur peccare quia contra dei praeceptum ageret <pc type="pilcrow"/> Unde consequentia non valet sortes non tenetur inclinare 
+              <lb ed="#P"/>peccare <pc type="punctus"/> et incipit ergo peccat in illo instanti quia transgressor est praecepti divini <pc type="pilcrow"/> Breviter 
+              <lb ed="#P"/>dicitur quod consequentia non valet 
+            </p>
+            <p xml:id="ppra-l129-eianip">
+              Ex quo patet solutio rationis solitae fieri scilicet ponendo casum quod deus praecipiat 
+              <lb ed="#P"/><name>sorti</name> non producere <c>a</c> actum <pc type="punctus"/> et incipiat producere <c>a</c> per remotionem de praesenti et ponere de futuro dicitur 
+              <lb ed="#P"/>quod sortes non potest transgredi unde in <c>a</c> tenetur non incipere et incipit in <c>a</c> ergo peccat in <c>a</c> 
+              <lb ed="#P"/>unde concedi potest per remotionem de praesenti 
+            </p>
+          <!-- consider moving last sentence into next paragraph -->
+            <p xml:id="ppra-l129-rqiedf">
+              <pc type="pilcrow"/> Sed contra quia peccat in <c>a</c> et ultra ergo transcendit 
+              <lb ed="#P"/>vel transgreditur praeceptum dei dico quod consequentia non valet <pc type="punctus"/> sed leve sequitur igitur peccat quia oportet arguere <pc type="punctus"/> per 
+              <lb ed="#P"/>propositiones de futuro et non de praesenti <pc type="punctus"/> quia illa propositio est partim de futuro et non simpliciter de praesenti
+            </p>
+          </div>
+          <div xml:id="ppra-l129-Dd1e402">
+            <head xml:id="ppra-l129-Hqcmqcm">Quartum corollarium</head>
+            <p xml:id="ppra-l129-sqqeig">
+              <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius quod non implicat dare primum instans rei permanentis in esse patet <pc type="virgula">/</pc> quia voluntas 
+              <lb ed="#P"/>existens in gratia <pc type="punctus"/> potest incipere in illo primo instanti peccare
+            </p>
+            <p xml:id="ppra-l129-shhphp">
+              <pc type="pilcrow"/> Item haec habet concedere qui ponit aliquem 
+              <lb ed="#P"/>successive peccare et per hoc datur ultimum instans quia tunc non est in gratia quando incipit peccare <pc type="punctus"/>
+            </p>
+            <!-- break perhaps not necessary here -->
+            <!-- Doesn't seem present 
+              <p xml:id="ppra-l129-sfdhep">
+              Sed forte diceretur quod 
+              esset dare ultimum instans rei in esse tali et non in 
+              esse substantiae eius et hoc est probabile.
+            </p>-->
+            <p xml:id="ppra-l129-tqiqim">
+              <pb ed="#P" n="128-v"/>
+              <lb ed="#P"/><pc type="pilcrow"/> Item quod sit possibile probatur <pc type="virgula">/</pc> tenendo quod quantitas sit distincta a re quanta nam in rarefactione 
+              <lb ed="#P"/>datur ultimum instans
+            </p>
+            <p xml:id="ppra-l129-qdceum">
+              <pc type="pilcrow"/> 2o probatur nam deus conservat mundum mere libere igitur potest velle non 
+              <lb ed="#P"/>fieri creatura quo dato sequitur dare ultimum instans <del rend="strikethrough">12</del> creaturae
+            </p>
+            <p xml:id="ppra-l129-qdnpii">
+              <pc type="pilcrow"/> 2o deus nunc non producit <c>a</c> effectum 
+              <lb ed="#P"/>successive et tamen potest illud producere immediate mediantis horae <pc type="punctus"/> et sic descendendo per mediantem mediantis tandem 
+              <lb ed="#P"/>devenimus ad ultimum instans suae non productionis <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l129-ssaelp">
+              <pc type="pilcrow"/> Item sit aliquod obstantem inter 
+              <lb ed="#P"/>obiectum vel agens naturale producens lumen <pc type="punctus"/> tunc in illo instanti non est lux inmediante sed post hoc erit 
+              <lb ed="#P"/>ergo stat quod non solum a deo ymmo et ab agente naturali potest hoc fieri
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l129-Dd1e446">
+          <head xml:id="ppra-l129-Hsaaaaa">Solutio ad argumentum Altissidorensis</head>
+          <p xml:id="ppra-l129-eiiinp">
+            <pc type="pilcrow"/> Unde sic 
+            <lb ed="#P"/>salvaretur casus <ref xml:id="ppra-l129-Rd1e455"><name ref="#WilliamOfAuxerre">altissiodorensis</name></ref> de actus productione sicut si deus praecipiat sorti producere 
+            <lb ed="#P"/><c>a</c> actum etc dicitur quod sortes immediate ante haec peccavit et tamen in nullo instanti illius horae 
+            <lb ed="#P"/>peccavit <pc type="virgula">/</pc> sicut si deus non momdo creare <c>a</c> angelum et inmediate post haec crearet tunc angelus ille 
+            <lb ed="#P"/>sic se haberet ut dictum est <pc type="virgula">/</pc> Et sic respondendum est ad propositum quod nullum <unclear>fuit instans</unclear> quin fuerit in gratia 
+            <lb ed="#P"/><pc type="pilcrow"/><name>Altissiodorensis</name> dicit quod non peccavit in <c>a</c> hora <pc type="punctus"/> sed in peccato est in instans sui non esse 
+            <lb ed="#P"/>et si dicatur contra quia tunc non est in via igitur non peccat <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l129-rediph">
+            <pc type="pilcrow"/> Respondetur quod si peccare 
+            <lb ed="#P"/>accipiatur pro aliqualiter se habere tunc isto modo non peccat <pc type="punctus"/> sed si pro alio quia aliqualiter se habuit 
+            <lb ed="#P"/>sumendo peccare pro contrahendo peccatum extra viam non est inconveniens <pc type="pilcrow"/> Aliter dicit <name>adam</name> 
+            <lb ed="#P"/>quod realiter peccat ante finem horae quia noster intellectus est limitata ad partes temporis 
+            <lb ed="#P"/>discernendas licet sit adhuc minima particula <pc type="pilcrow"/> Sed ista solutio non videtur valere <pc type="virgula">/</pc> si sumueretur 
+            <lb ed="#P"/>infinita intelligentia 
+          </p>
+          <p xml:id="ppra-l129-iqdfim">
+            Ideo datur alia et conceditur quod duo contradictoria possunt adinvicem et immediate 
+            <lb ed="#P"/>ante hoc instans fuisse vere <pc type="punctus"/> <pc type="pilcrow"/> De aliis rationibus primo factis non possum plus prosequi 
+            <lb ed="#P"/>propter temporis brevitatem quae quidam sunt 8 in numero cum confirmantibus aliquibus <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l129-Dxxxx1">
+          <head xml:id="ppra-l129-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l129-xxxxx3">
+            <pc type="pilcrow"/> Secuntur distinctiones 
+            <lb ed="#P"/>conclusio primae est de violentia quae tollit coniungium
+          </p>
+          <p xml:id="ppra-l129-xxxxx4">
+            <pc type="pilcrow"/> 2a conclusio si coacti consentiunt conversatio eorum 
+            <lb ed="#P"/><sic>rattificat</sic> et facit coniugium <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l129-xxxxx5">
+            <pc type="pilcrow"/> 3a filius vel filia nubere volentibus patre et matre parentibus 
+            <lb ed="#P"/>nihil in hac dicentibus coniugium firmatur et si post non valet quia tacet satis consentire videtur
+          </p>
+          <p xml:id="ppra-l129-xxxxx6">
+            <pc type="pilcrow"/> Alia distinctio cuius conclusio prima quod multiplex est error scilicet per se <pc type="punctus"/> et cum divinis formatione et qualitatis duo primi 
+            <lb ed="#P"/>impediunt coniugium alii non <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l129-xxxxx7">
+            <pc type="pilcrow"/> 2a conclusio huius distinctionis coniugium inter materiam et ideo 
+            <lb ed="#P"/><unclear>sepli</unclear> fuit licitum nam et si deus virgini praecepisset <name>ioseph</name> copulasse tam devote 
+            <lb ed="#P"/>obediens erat quod ad dei nutum fecisset <pc type="punctus"/> sed sic oportuit necessario pro salute generis 
+            <lb ed="#P"/>humani esse scilicet quod virgo pareret et virgo remaneret 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
