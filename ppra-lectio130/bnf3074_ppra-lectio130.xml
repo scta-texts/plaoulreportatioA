@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 130, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 130, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-18">July 18, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="126-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio130">
+      <head xml:id="ppra-l130-Hldildi">Lectio 130, de Incarnatione</head>
+        <div xml:id="ppra-l130-Dd1e109">
+          <head xml:id="ppra-l130-Husphsu">Utrum secunda persona in divinis naturam humana hypostatice sibi univerit</head>
+          <p xml:id="ppra-l130-cimhsu">
+            <lb ed="#P"/>Consequenter circa <sic>ministerium</sic> incarnationis christi quod tractatur in 3o sententiarum 
+            <lb ed="#P"/>circa unionem ypostaticam ipsius incarnati verbi movetur talis questio 
+            <lb ed="#P"/>Utrum 2a persona in divinis naturam humanam ypostatice sibi viverit 
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e118">
+          <head xml:id="ppra-l130-Hrpsrps">Rationes principales</head>
+          <p xml:id="ppra-l130-eapaar">
+            et arguitur primo quod non 
+            <lb ed="#P"/>nam ista unio repugnat philosophiae principiis et cuilibet secte ergo non est possibilis consequentia tenet et alias
+            <lb ed="#P"/>patet quo ad sui primam partem nam sequeretur ex illa quod deus esset mortalis corruptibilis et sic <unclear><del rend="strikethrough">s</del></unclear> <unclear>de talibus</unclear> 
+            <lb ed="#P"/>quae aeternitati praecise repugnat et absolute 
+          </p> 
+          <p xml:id="ppra-l130-spepvr">
+            <pc type="virgula">/</pc> Etiam sequeretur quod homo ab aeterno fuit ymmo sic quod deus 
+            <lb ed="#P"/>possit esse asinus vel lapis <pc type="punctus"/> nam quia ratione <unclear>uniuit</unclear> sibi unam creaturam eadem ratione 
+            <lb ed="#P"/>et aliam et sic deus esset asinus <pc type="punctus"/> ymmo quod plus est quod pater per aeternam generationem asinum produceret 
+            <lb ed="#P"/>et sic de aliis inconvenientibus quae videntur toti philosophiae repugnare <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l130-tcqcsr">
+            <pc type="pilcrow"/> Confirmatur adhuc 
+            <lb ed="#P"/>nam eadem ratione qua conceditur quod aeternitas est mutabilis illo modo eadem ratio esset quod bonitas summa esset 
+            <lb ed="#P"/>peccabilis probatur consequentia nam tanta est repugnantia divinae aeternitatis ad mutabilitatem quanta est divinae voluntatis ad 
+            <lb ed="#P"/>malitia ergo si unio conceditur et relicum ergo <unclear>hac<!-- hoc --></unclear> stante deus esset miserimus quod absit 
+            <!-- break point -->
+            <lb ed="#P"/><pc type="pilcrow"/> 2a pars antecedentis videlicet quod omni sectae repugnet incarnatio verbi primo de secta iudaeorum quia 
+            <lb ed="#P"/>negant trinitatem et per consequens incarnationem quia christum esse deum <pc type="virgula">/</pc> Et ad idem est doctrina sive 
+            <lb ed="#P"/>fallacia <name>macometi</name> ut patet per traditionem almakani in alchorano in quo tractatur de <unclear><name>macometo</name></unclear> 
+            <lb ed="#P"/>unde ipse <name>macometus</name> negabit christum esse deum
+          </p>
+          <p xml:id="ppra-l130-cdinqp">
+            <pc type="pilcrow"/> Confirmatur de iudaeis qui messyiam
+            <lb ed="#P"/>expectant tamquam regem temporalem regnum iudaeorum restiturum <pc type="punctus"/> Et hoc enim nedum de 
+            <lb ed="#P"/>iudaeis dicitur sed etiam de nostrae filiorum <name>zebedei</name> fuit nam et ipsa christo dixit <pc type="virgula">/</pc> <quote xml:id="l130-Qxyxyz" source="http://scta.info/resource/mt20_21@8-25">dic ut hii duo 
+            <lb ed="#P"/>filii mei unus sedeat a dextris in regno et alius a sinistris</quote> introducta tamen a beato 
+            <lb ed="#P"/>iohanne evangelista ut dicunt quidam <pc type="virgula">/</pc> Cui respondit christus <quote xml:id="ppra-l130-Qxyxy2" source="http://scta.info/resource/mt20_22@5-7">nescitis quid petatis</quote> non nostri 
+            <lb ed="#P"/>solum dicit sed filiis quoniam <unclear>urre?m</unclear> introduxerat ad haec
+          </p>
+          <p xml:id="ppra-l130-sdqrtc">
+            <pc type="pilcrow"/> Item ex alio patet de discipulis in emaux
+            <lb ed="#P"/>euntibus dicentibus christo eis loquente sperabamus quod esset redempturus israel scilicet a <unclear>servitute</unclear> et reddere in 
+            <lb ed="#P"/><unclear>abertatem<!-- "ubertatem??--></unclear> <add place="above-line">scilicet</add> temporalem <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l130-saoefc">
+            <pc type="pilcrow"/> 2o principaliter arguitur opera trinitatis sunt indistincta et tamen pater non est incarnatus 
+            <lb ed="#P"/>igitur nec filius consequentia patet ex suppositione <del rend="strikethrough">iam in titulo quaestionis</del> et antecedens est fides catholica
+          </p>
+          <p xml:id="ppra-l130-cqhqeh">
+            <pc type="pilcrow"/> Confirmatur 
+            <lb ed="#P"/>nam haec unio si daretur ad essentiam <!-- possible something between lines here --> terminaretur eo quod ratio personalis ut sic non est 
+            <pb ed="#P" n="129-r"/>
+            <lb ed="#P"/>unibilis nisi <unclear>inquantum</unclear> ydemptica essentiae ergo in eo habet essentiam pro eo et per consequens quaelibet persona est 
+            <lb ed="#P"/>unita in ipsa unione ypostatica
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e182">
+          <head xml:id="ppra-l130-Hscasca">Sed contra</head>
+          <p xml:id="ppra-l130-aoehfe">
+            <pc type="pilcrow"/> Ad oppositum evangelicum verbum <ref xml:id="ppra-l130-Rd1e189" corresp="#ppra-l130-vcfcfe"> <title ref="#io">iohannis</title> primo</ref> 
+            <lb ed="#P"/>ubi dicitur <pc type="pilcrow"/> <quote xml:id="ppra-l130-vcfcfe" source="http://scta.info/resource/io1_14">verbum caro factum est et habitavit in nobis</quote> scilicet in istis inferioribus sicut <unclear>frater</unclear> et 
+            <lb ed="#P"/>Etiam patet per <ref>cimbolum</ref> patreum <quote>Et homo factus est</quote>
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e204">
+          <head xml:id="ppra-l130-Hdqsdqs">Divisio quaestionis</head>
+          <p xml:id="ppra-l130-iimssc">
+            <pc type="pilcrow"/> In questione ista quae est 
+            <lb ed="#P"/>lecture huius ultima ponentur 3es articuli et patres si tempus pateretur In primo ergo videbitur de 
+            <lb ed="#P"/>prima ratione facta <pc type="punctus"/> <pc type="virgula">/</pc> In 2o declarabitur materia et modus sustinendi incarnationem et eius unionem 
+            <lb ed="#P"/>In 3o videbitur de habitudine ipsius ypostatice unionis ad virginem gloriosam <pc type="punctus"/> secundum quod hoc sacramentum 
+            <lb ed="#P"/>celebratum est spiritu sancto cooperante <unclear>specialiter<!-- spiritualiter --></unclear>
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e214">
+          <head xml:id="ppra-l130-Hprones">Propositiones</head>
+          <p xml:id="ppra-l130-eppnsr">
+            <pc type="pilcrow"/> Quantum ergo ad primum sit haec prima propositio quod ad hanc 
+            <lb ed="#P"/>unionem nullam sequitur repugnantia <pc type="virgula">/</pc> probabitur in terminis claris <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l130-spuemd">
+            <pc type="pilcrow"/> 2a proposito haec unio sufficienter 
+            <lb ed="#P"/>sua detur ex misterii decentia <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l130-tpiaer">
+            <pc type="pilcrow"/> 3a propositio insolubiliter apud quodcumque bene dispositum concluditur 
+            <lb ed="#P"/>ex iudeorum et sarracenorum legis continentia <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e235">
+          <head xml:id="ppra-l130-Hpprprp">Probatio primae propositionis</head>
+          <p xml:id="ppra-l130-pppisc">
+            <pc type="pilcrow"/> Prima ergo propositio ut probatur non repugnat 
+            <lb ed="#P"/>ex parte divinae omnipotentiae quia respectu nullius est repugnantia respectu divinae omnipotentiae sed bene est ex incompossibilitate 
+            <lb ed="#P"/>effectuum <pc type="punctus"/> quia quod deus non possit facere lapideitatem esse humanitatem non est repugnantia 
+            <lb ed="#P"/>ex parte eius omnipotentiae nec ex parte effectus in se  
+          </p>
+          <p xml:id="ppra-l130-pscrri">
+            quod patet satisfaciendo cuilibet philosopho 
+            <lb ed="#P"/>conveniunt impugnanti unionem ypostaticam esse <seg type="correction"><del rend="strikethrough">im</del>possibilem<!-- correction a little fuzzy --></seg>
+          </p>
+          <p xml:id="ppra-l130-spimem">
+            <pc type="pilcrow"/> 2o philosophi posuerunt in lumine naturali 
+            <lb ed="#P"/>aeque difficilia ad salvandum ut de materia ydearum quae quidam materia bene in se resoluta ponit 
+            <lb ed="#P"/>res ydemptice deo uniri et sit haberet concedere quod deus intrinsece licet sit immutabilis esset tamen 
+            <lb ed="#P"/>res quae esset mutabilis et per consequens oporteret concedere quod esset mortalis et tamen incorporalis
+          </p>
+          <p xml:id="ppra-l130-tscdpc">
+            <pc type="pilcrow"/> 3o si caluderet 
+            <lb ed="#P"/>distantiam haec videretur propter repugnantiam infinita extremorum <pc type="virgula">/</pc> quoniam prima assumens et assumpta infinitam
+            <lb ed="#P"/>haberet distantiam sed haec non convenit sicut patet de habitudine dei ut est causa finalis ad omnem creaturam cuius ut 
+            <lb ed="#P"/>finis est quaedam unio ad quamlibet creaturam <pc type="punctus"/> et tamen extrema maxime distat secundum rationem ratione 
+            <lb ed="#P"/>diversitas nam per <unclear>hoc<!-- TODO: abbrev for "hoc" and "haec" ambiguous; needs review throughout --></unclear> primum habet rationem finis mobilis <del rend="strikethrough">ad</del> aliud habet rationem de directo contrariam <pc type="pilcrow"/> <unclear>Simile</unclear> est 
+            <lb ed="#P"/>de unione ypostatica nam inmense et infinite est unibilis essentiae quod concesserunt philosophi potestates 
+            <lb ed="#P"/>felicitatem obiective esse in deo
+          </p>
+          <p xml:id="ppra-l130-qehnhu">
+            <pc type="pilcrow"/> 3o vel 4o ex hac ratione non sequitur mutatio in deo patet nam 
+            <lb ed="#P"/>aeque bene salvatur sicut de noviter influere tam effective quam obiective quam finaliter Ita quod ex novo 
+            <lb ed="#P"/>dei influxu non arguitur mutatio igitur nec ex habitudine naturae non mutatur intrinsece
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e269">
+          <head xml:id="ppra-l130-Hpsppsp">Probatio secundae propositionis</head>
+          <p xml:id="ppra-l130-spseoc">
+            <pc type="pilcrow"/> 2a propositio 
+            <lb ed="#P"/>persuadetur ostendendo decentiam unionis <pc type="punctus"/> primo enim patet de regimine naturali nam sicut in ipso deo 
+            <lb ed="#P"/>propter suam bonitatem assumit causas 2as in quibus communicat secum coexistere <pc type="punctus"/> ita se solo potest in gratuito 
+            <lb ed="#P"/>regimen ipsam decet ipsam regalitatem summam sumere creaturam et gratuite influere in fideles <pc type="punctus"/>
+            <lb ed="#P"/>consequentia patet <pc type="virgula">/</pc> quia magis debet relucere quam in eadem
+            <!-- possible break point --> 
+            <pc type="pilcrow"/> 2o ad complectivam universi congruit 
+            <lb ed="#P"/>haec unio <pc type="virgula">/</pc> quod patet ex eo quod per hanc quaelibet creatura in se vel suo simili deo coniungitur et per hanc 
+            <lb ed="#P"/>coniunctionem reformatur ut patet per <ref xml:id="ppra-l130-Rd1e276">omeliam <name ref="#GregoryGreat">gregorii</name></ref> ubi dicitur ratione animae participat homo 
+            <lb ed="#P"/>cum deo unde habet homo sentire cum breviter vegetari cum plantis ratiocinari cum angelis etc 
+            <lb ed="#P"/>Et sic quodam modo videtur homo omnis creatura 
+          </p>
+          <p xml:id="ppra-l130-tiuhia">
+            <pc type="pilcrow"/> 3o decuit ut divina potentia magis manifestarentur nam opera 
+            <lb ed="#P"/><del rend="strikethrough">divina</del> naturae sunt divinae potentiae et naturae communia <pc type="punctus"/> quoniam talia super leges naturae fuerunt Ideo iudeis 
+            <lb ed="#P"/>interrogantibus <quote xml:id="ppra-l130-Qteqaae" source="http://scta.info/resource/mt11_3@3-10">Tu qui es an alium expectamus</quote> Respondit eis dicite iohanni <quote xml:id="ppra-l130-Qcveeca" source="http://scta.info/resource/mt11_5@1-6">caeci vident claudi 
+            <lb ed="#P"/>ambulant</quote> etc et haec dicebat ad potentiae infinitae ostensionem in christo infinite et intrinsece existentis quodam 
+            <lb ed="#P"/>patet nam licet alii fecerint miracula non tamen virtute propria sed suis orationibus impuetrando a deo 
+            <lb ed="#P"/>christus autem nedum auctoritate vel virtute propria sed aliis dedit potestatem et eius auctoritate miracula 
+            <lb ed="#P"/>faciebant <pc type="punctus"/> Et nedum christus fecit circa naturam humanam sed spiritum sanctum in corda fidelium 
+            <lb ed="#P"/>immittendo perfudit <pc type="virgula">/</pc> Ex qua quaedam missione ydiotae facti sunt sapientes sine doctrina 
+            <lb ed="#P"/>humana praemia loquentes dei magnalia sicut patet de beato iohanne evangelista petro et <unclear>amd?ae</unclear>
+            <lb ed="#P"/>qui piscatores fuerunt et alii apostoli quasi pro maiori parte <pc type="punctus"/> quibus concluditur 2a propositio praelibata 
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dd1e296">
+          <head xml:id="ppra-l130-Hptpptp">Probatio tertiae propositionis</head>
+          <p xml:id="ppra-l130-tppacp">
+            <pc type="pilcrow"/> 2a <del>propositio probatur pars</del> propositionis probatur videlicet quod ex dictis iudaeorum et paganorum continentur incarnationis 
+            <lb ed="#P"/>misterium nam circa hoc <ref xml:id="ppra-l130-Rd1e309"><name ref="#Bede">venerabilis beda</name> in libro suo <title ref="#OnTimeBede">de temporibus</title> capitulo 8vo</ref> deducit ex prophetia 
+            <lb ed="#P"/><name ref="#Daniel">danielis</name> <pc type="punctus"/> praecise tempus incarnationis et passionis christi <pc type="punctus"/> saltem sine notabili differentia <pc type="virgula">/</pc> unde 
+            <lb ed="#P"/><ref><title ref="#dan">danielis</title> 9no</ref> scribitur <quote xml:id="ppra-l130-Qd1e327" source="http://scta.info/resource/dan9_24">septuaginta ebdomades <sic>agregatae</sic> sunt super populum tuum et urbem tuam staret 
+            <lb ed="#P"/>iherusalem</quote> et ubi <name ref="#Bede">beda</name> dicit non esse ducendum quin illa verba denotent incarnationis <unclear>unctionis</unclear> 
+            <lb ed="#P"/>et passionis misterium <pc type="pilcrow"/> Unde etiam notat ibi quod narrate <name>esdra</name> <name>neemias</name> erat picerna
+            <lb ed="#P"/>regis personarum scilicet <name>atharxersis</name> qui <add place="above-line"><unclear>ne?us</unclear></add> 2omo anno sui regni mense musam impetravit muros 
+            <lb ed="#P"/>iherusalem restaurari permittente <name>cyro rege</name> <pc type="punctus"/> sed nondum reperati erat totaliter <pc type="virgula">/</pc> Et tunc incipiendo 
+            <lb ed="#P"/>a 20mo anno regni ipsius atharxersis reperiemus septuaginta <sic>enbdomades</sic> usque ad christi incarnationem 
+            <lb ed="#P"/>secundum <name>danielis</name> prophetiam
+          </p>
+          <p xml:id="ppra-l130-aetssv">
+            <pc type="pilcrow"/> Advertendo tamen quod diversitas in haec videtur propter annum lunarem et solarem 
+            <lb ed="#P"/>sed quantum ad hoc non sit nobis cura quia non est notabilis differentia <pc type="punctus"/> Et sic oportuit ante hoc 
+            <lb ed="#P"/>hanc prophetiam debere compleri
+          </p>
+          <p xml:id="ppra-l130-aetdda">
+            <pc type="pilcrow"/> Unde advertendum est quod enbdomades capiuntur pro annis sicut in 
+            <lb ed="#P"/>scriptura alibi reperitur Et hoc videtur <name ref="NicholasOfLyra">magister nicolaus de lira</name> dicere quod pro una enbodomade acci<lb ed="#P"/>piuntur 
+            7 anni et sic multiplicatis 7lis per 7 habebitis annos fluentes usque ad christi incarnationem 
+            <lb ed="#P"/>unde <name>beda</name> distinctione resoluvit <pc type="virgula">/</pc> unde videamus quot anni fluxerunt a 20mo anno regni 
+            <lb ed="#P"/>atharxersis usque ad 17m <name>tyberii</name> sub quo passus est christus <pc type="pilcrow"/> Ubi tamen advertendum est quod ab illo 20mo anno 
+            <pb ed="#P" n="129-v"/>
+            <lb ed="#P"/>secundum <unclear>cro?cas</unclear> usque ad darii mortem fluxerunt centum et 7 anni et post hoc macedoni 
+            <lb ed="#P"/><unclear>divinum</unclear> haberunt supra personas <pc type="pilcrow"/> A morte autem <name>darii</name> usque ad mortem <name>cleopatrae</name> et 
+            <lb ed="#P"/><name>cleopatras</name> usque ad octavanum <unclear>ccc?tis</unclear> et quadringentis 16 annis durant quo tunc romani 
+            <lb ed="#P"/>monarchiam suspenserunt scilicet supra personas Et ab eius morte scilicet ab <name>octoviano</name> duravit 
+            <lb ed="#P"/>monarchia 59 annis Et ergo annis calculatis et simul sumptis numerum annorum praedictorum 
+            <lb ed="#P"/>habebitis <pc type="punctus"/> et addantur supra quadringentos et 16 numeris aliquantulum erit maior 
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l130-sdlnss">
+            ut dicit <name>de lyra</name> <sic>et</sic> 
+            <lb ed="#P"/>Et ergo talis annorum agregatio prophetiae <name>danielis</name> correspondebit Sed quicquid sit de illo numero 
+            <lb ed="#P"/>tempus prophetiae iam lapsum est quare sufficit haec satis catholicus
+          </p>
+          <p xml:id="ppra-l130-sateer">
+            <pc type="pilcrow"/> Item a fortiori contra 
+            <lb ed="#P"/>iudaeos arguitur nam a tempore damnos legis iudaeorum <pc type="punctus"/> in legis probatione habuerunt miracula semper et tamen 
+            <lb ed="#P"/>primus christi incarnationem cessaverunt <pc type="virgula">/</pc> unde ad apostolos et alios sanctos translata fuerunt <pc type="punctus"/> et sic patet 
+            <lb ed="#P"/>quod sua lex fuit nostrae legis figura
+          </p>
+          <p xml:id="ppra-l130-taartp">
+            <pc type="pilcrow"/> Item alias nonquam permissi sunt passionem 
+            <lb ed="#P"/>gravem nisi propter peccatum unibile nunc autem patiuntur <unclear>peccato</unclear> <pc type="virgula">/</pc> nec liberantur ergo videtur 
+            <lb ed="#P"/>quod causa habeant assignare propter quam sic tenentur et non aliam quam propter christi crucifixionem 
+            <lb ed="#P"/>et sic inexcusabiles redducuntur nec quaerunt remedium negantes christi mortem <pc type="pilcrow"/>Contra 
+            <lb ed="#P"/>quos <ref><name>almachanus</name> in alchorano capitulo 9no</ref> dicitur quod hunc habuit recipere et habebat tamquam 
+            <lb ed="#P"/>verum messyani <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l130-cqahic">
+            <pc type="pilcrow"/>Ultimo quantum ad legem <name>macometi</name> dicit idem <name>almachanus</name> 
+            <lb ed="#P"/>in alchorano quod <name>macometus</name> approbat moysem et christum esse mangum prophetiam et etiam 
+            <lb ed="#P"/>alios prophetas dicens quod christus habuit spiritum dei et <ref xml:id="ppra-l130-Rd1e469">hoc libro decimo octavo capitulo undecimo<!-- ref to Koran? --></ref> 
+            <lb ed="#P"/>Et sequenti inducit de <name>macometo</name> quomodo <name>iohannem baptistam</name> approbavit sed tamen 
+            <lb ed="#P"/>constat quod fuit <unclear>preco</unclear> salvatoris nam ipse dicit quod procubens non erat dignus 
+            <lb ed="#P"/>solum est corrigiam calciamentorum eius <pc type="punctus"/> si christi in quo denotatur incarnationis misterium <pc type="virgula">/</pc> Et breviter 
+            <lb ed="#P"/>haec omnia inducuntur ut goliad proprio gladio feriatur scilicet iudea secta per suas scripturas 
+            <lb ed="#P"/>pro rea dicatum <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l130-Dxxxx1">
+          <head xml:id="ppra-l130-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l130-xxxxx3">
+            <pc type="pilcrow"/> Secuntur distinctiones <pc type="virgula">/</pc> conclusio primae distinctionis in ordine et est de matrimonio 
+            <lb ed="#P"/>fide et prole 
+          </p>
+          <p xml:id="ppra-l130-xxxxx4">
+            <pc type="pilcrow"/> alio conclusio quod neuter eorum potest abstinere uno invito 
+          </p>
+          <p xml:id="ppra-l130-xxxxx5">
+            <pc type="pilcrow"/> 3a de maleficiatis 
+            <lb ed="#P"/>non potentibus exercere actus generationis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l130-xxxxx6">
+            <pc type="pilcrow"/> 4a a muliere <unclear>notarie</unclear> formicaria potest quis 
+            <lb ed="#P"/>separari
+          </p>
+          <p xml:id="ppra-l130-xxxxx7">
+            <pc type="pilcrow"/> Alia distinctio <pc type="virgula">/</pc> cuius conclusio minores ordines non impediunt matrimonium 
+          </p>
+          <p xml:id="ppra-l130-xxxxx8">
+            <pc type="pilcrow"/> Alia 
+            <lb ed="#P"/>distinctio cuius conclusio est de voto
+          </p>
+          <p xml:id="ppra-l130-xxxxx9">
+            <pc type="pilcrow"/> 2a conclusio disparatas leges impedit matrimonium
+          </p>
+          <p xml:id="ppra-l130-xxxx10">
+            <pc type="pilcrow"/> 3a conclusio 
+            <lb ed="#P"/>matrimonium impeditur propter affinitatem et cognationem spiritualem
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
