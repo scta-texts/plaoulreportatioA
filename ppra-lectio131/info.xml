@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio131">
+      <head xml:id="ppra-l131-Hldildi">Lectio 131, de Incarnatione</head>
+      <div xml:id="ppra-l131-Dd1e109">
+        <head xml:id="ppra-l131-Hprotio">Propositio</head>
+        <p xml:id="ppra-l131-ppcmpm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l131-ppcmpm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-ppcmpm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l131-picepg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l131-picepg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-picepg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l131-aipdfa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l131-aipdfa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-aipdfa"/>
+          </assertions>
+        </p>
+        <!-- should this be a paragraph break? -->
+        <p xml:id="ppra-l131-iaoaca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l131-iaoaca"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-iaoaca"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l131-Dd1e264">
+        <head xml:id="ppra-l131-Hccecce">Corollaria: contra errores</head>
+        <div xml:id="ppra-l131-Dd1e269">
+          <head xml:id="ppra-l131-Hpceehp">Primum: contra errorem assentium christum esse hominem
+            purum</head>
+          <p xml:id="ppra-l131-eqagap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-eqagap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-eqagap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-iivgap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-iivgap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-iivgap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-ianphp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-ianphp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-ianphp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e365">
+          <head xml:id="ppra-l131-Hscmscm">Secundum: contra Manichaeos</head>
+          <p xml:id="ppra-l131-sicqef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sicqef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sicqef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-schhvc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-schhvc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-schhvc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e392">
+          <head xml:id="ppra-l131-Htcecsa">Tertium: contra errorem quod christus corpus caeleste
+            sibi assumpsit</head>
+          <p xml:id="ppra-l131-taessa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-taessa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-taessa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e460">
+          <head xml:id="ppra-l131-Hqcesva">Quartum: contra errorem antiquorum dicentium deitatem
+            supplere vicem animae</head>
+          <p xml:id="ppra-l131-sqesgf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sqesgf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sqesgf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e470">
+          <head xml:id="ppra-l131-Hqceten">Quintum: contra errorem <unclear>Theodori[?]</unclear> et
+            Nestorii</head>
+          <p xml:id="ppra-l131-pqeesc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-pqeesc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-pqeesc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e503">
+          <head xml:id="ppra-l131-Hscednc">Sextum: contra errorem quod christus non in duabus
+            naturis consistit</head>
+          <p xml:id="ppra-l131-sseevh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sseevh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sseevh"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e521">
+          <head xml:id="ppra-l131-Hscehis">Septimum: contra errorem quod filius dei assumpsit sibi
+            hominem identitatum sibi</head>
+          <p xml:id="ppra-l131-safems">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-safems"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-safems"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-ehvaee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-ehvaee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-ehvaee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-scipdc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-scipdc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-scipdc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-ssqdpa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-ssqdpa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-ssqdpa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-tsdned">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-tsdned"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-tsdned"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-qsidha">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-qsidha"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-qsidha"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-spdrur">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-spdrur"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-spdrur"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break and parallel -->
+          <p xml:id="ppra-l131-pqdinc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-pqdinc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-pqdinc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e595">
+          <head xml:id="ppra-l131-Hoceiup">Octavum: contra errorem quod natura divina et natura
+            humana identice concurrunt in unam personam</head>
+          <p xml:id="ppra-l131-sofupe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sofupe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sofupe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-aisnea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-aisnea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-aisnea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-schqeh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-schqeh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-schqeh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-snphrt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-snphrt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-snphrt"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-tmppna">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-tmppna"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-tmppna"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-qsqefr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-qsqefr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-qsqefr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e642">
+          <head xml:id="ppra-l131-Hncefeh">Nonum: contra errorem quod natura assumpta est realiter
+            deus et sic deus factus est homo</head>
+          <p xml:id="ppra-l131-sncaaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sncaaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sncaaa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e651">
+          <head xml:id="ppra-l131-Hdceeup">Decimum: contra errorem quod in christo sunt duae sumpta
+            et unita persona</head>
+          <p xml:id="ppra-l131-dopads">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-dopads"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-dopads"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-sqdqic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sqdqic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sqdqic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-sipcnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sipcnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sipcnd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l131-sieqea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l131-sieqea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l131-sieqea"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l131-Dxxyy1">
+        <head xml:id="ppra-l131-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l131-xxxyy3">
+        </p>
+        <p xml:id="ppra-l131-xxxyy4">
+        </p>
+        <p xml:id="ppra-l131-xxxyy5">
+        </p>
+        <p xml:id="ppra-l131-xxxyy6">
+        </p>
+        <p xml:id="ppra-l131-xxxyy7">
+        </p>
+        <p xml:id="ppra-l131-xxxyy8">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

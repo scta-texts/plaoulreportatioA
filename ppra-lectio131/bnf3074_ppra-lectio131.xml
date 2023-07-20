@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 131, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 131, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-18">July 18, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="129-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio131">
+        <head xml:id="ppra-l131-Hldildi">Lectio 131, de Incarnatione</head>
+        <div xml:id="ppra-l131-Dd1e109">
+          <head xml:id="ppra-l131-Hprotio">Propositio</head>
+          <p xml:id="ppra-l131-ppcmpm">
+            <lb ed="#P"/>Consequenter circa materiam incarnationis verbi poneretur conclusio fidei deinde contra iudaeos inferetur
+            <lb ed="#P"/>recipiendo post haec errores loquentium in hoc misterio <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l131-picepg">
+            Et tunc sit fidei propositio quod sicut 
+            <lb ed="#P"/>christus dei verus filius a patre per generationem procedit aeternaliter sic idem dei filius de maria 
+            <lb ed="#P"/>matre virgine processit <add place="above-line">per generationem</add> temporaliter 
+          </p>
+          <p xml:id="ppra-l131-aipdfa">
+            <pc type="punctus"/> propositio ista duas habet particulas de prima patet satis per evangelicum 
+            <lb ed="#P"/>verbum <title ref="#io">ioannis</title> primo quod aeternaliter a patre per generationem patet nam dicit in principio erat verbum etc <pc type="virgula">/</pc> deinde 
+            <lb ed="#P"/>subdit parum post <quote xml:id="ppra-l131-Qopiifs" source="http://scta.info/resource/io1_3">omnia per ipsum facta sunt</quote> <pc type="virgula">/</pc> <del rend="strikethrough">in</del> sed patet satis de temporali generatione sive processione 
+            <lb ed="#P"/>patet ibi Et <quote xml:id="ppra-l131-Qvcfcfv" source="http://scta.info/resource/io1_14">verbum caro factum est</quote> <pc type="virgula">/</pc> quam quidam generationem <ref xml:id="ppra-l131-Rd1e156"><title ref="#is">ysaias</title></ref> inenarrabilem 
+            <lb ed="#P"/>reputavit dicens <quote xml:id="ppra-l131-Qd1e168" source="http://scta.info/resource/is53_8">generationem eius quis enarrabit</quote> videlicet <pc type="virgula">/</pc> tam ab intra quam ad extra nam 
+            <lb ed="#P"/>ipsa non videtur humana sed spiritu sancto revelate facta <pc type="punctus"/> <pc type="virgula">/</pc> Confessus enim est <name ref="#Peter">petrus</name> dicens <quote xml:id="ppra-l131-Qd1e180" source="http://scta.info/resource/mt26_63 http://scta.info/resource/io6_70">Tu 
+            <lb ed="#P"/>es christus filius dei</quote> etc <!-- break point --> <pc type="pilcrow"/> Quantum ad 2m dicit apostolus <quote xml:id="ppra-l131-Qciffdm" source="http://scta.info/resource/phil2_6 http://scta.info/resource/phil2_7">non rapinam arbitratus ostendat se 
+            <lb ed="#P"/>esse aequalem deo</quote> <pc type="punctus"/> etc <pc type="virgula">/</pc> hoc idem ostendit quantum ad generationem 2am unde ipse christus dicit <quote xml:id="ppra-l131-Qd1e213" source="http://scta.info/resource/io14_28">pater maior 
+            <lb ed="#P"/>me est</quote> <pc type="punctus"/> <pc type="pilcrow"/> Item ibi <quote xml:id="ppra-l131-Qd1e219" source="http://scta.info/resource/mt26_38 http://scta.info/resource/mc14_34">Tristis est anima mea</quote> <pc type="virgula">/</pc> quae quidam omnia sibi competunt secundum naturam assumptam 
+            <lb ed="#P"/>Sed quantum ad divinitatis naturam ostendit dicens <quote xml:id="ppra-l131-Qd1e226" source="http://scta.info/resource/io10_30">Ego et pater unum sumus</quote> <pc type="punctus"/> <pc type="virgula">/</pc>  et alibi <pc type="virgula">/</pc> <quote xml:id="ppra-l131-Qd1e237" source="http://scta.info/resource/io14_9">phillipe
+            <lb ed="#P"/>qui me videt <sic>videt</sic> et patrem></quote> <pc type="virgula">/</pc> Et haec propter haereticos dicentes christum esse filium dei adoptivum 
+            <lb ed="#P"/>praecise <pc type="punctus"/>
+          </p>
+          <!-- should this be a paragraph break? -->
+          <p xml:id="ppra-l131-iaoaca">
+            <pc type="pilcrow"/>Item patet alibi <quote xml:id="ppra-l131-Qd1e256" source="http://scta.info/resource/io16_15">omnia quae habet pater mea sunt</quote> <pc type="pilcrow"/> Item ex operatione malorum et remissione 
+            <lb ed="#P"/>peccatorum et sancti spiritus missione quae quidam non possunt a creatura pura fieri <pc type="punctus"/> <pc type="pilcrow"/> Item ex resurrectione 
+            <lb ed="#P"/>et ascensione
+          </p>
+        </div>
+        <div xml:id="ppra-l131-Dd1e264">
+          <head xml:id="ppra-l131-Hccecce">Corollaria: contra errores</head>
+          <div xml:id="ppra-l131-Dd1e269">
+            <head xml:id="ppra-l131-Hpceehp">Primum: contra errorem assentium christum esse hominem purum</head>
+            <p xml:id="ppra-l131-eqagap">
+              <pc type="pilcrow"/> Ex quilibet patet haeresis hebionis et paul psalmozitani haereticorum 
+              <lb ed="#P"/>asserentium christum esse homine purum <pc type="punctus"/> sed participatione gratiae et gloriae denominabatur esse deus et 
+              <lb ed="#P"/>hoc more philosophorum antiquorum dicentium dii est omnis <pc type="pilcrow"/>  Unde apud gentiles dicit <name ref="#Homer">omerus</name> 
+              <lb ed="#P"/>filium <name ref="#Priam">priami</name> scilicet <name ref="#Hector">hectorem</name> esse quasi dei filium propter sui virtutem et excellentiam 
+              <lb ed="#P"/>ymmo et heroyci vocabantur dii ut patet <ref xml:id="ppra-l131-Rd1e301">7mo <title ref="#Ethics">ethicorum</title></ref> 
+              
+              <pc type="pilcrow"/>Sed <unclear>exprobratur</unclear> haeresis 
+              <lb ed="#P"/>ista pescifera <pc type="virgula">/</pc> primo nam christus dicit <quote xml:id="ppra-l131-Qd1e319" source="http://scta.info/resource/io16_28@1-7">Exivi a patre et veni in mundum</quote> <pc type="virgula">/</pc> et si dicatur quod 
+              <lb ed="#P"/>temporaliter habetur contra nam dicit <quote xml:id="ppra-l131-Qd1e329" source="http://scta.info/resource/io8_58">antequam <name>abraham</name> fieret ego sum</quote> 
+            </p> 
+            <p xml:id="ppra-l131-iivgap">
+              <pc type="pilcrow"/> Item dicit <quote xml:id="ppra-l131-Qvaeqmm" source="http://scta.info/resource/io16_5">vado ad eum qui 
+              <lb ed="#P"/>me misit</quote> quod quidam de aeterna generatione intelligitur
+            </p>
+            <p xml:id="ppra-l131-ianphp">
+              <pc type="pilcrow"/> Item <quote xml:id="ppra-l131-Qd1e359" source="http://scta.info/resource/io3_13">nemo ascendit in caelum nisi 
+              <lb ed="#P"/>qui de caelo descendit <pc type="punctus"/> filius hominis qui est in caelo</quote> non tamen per motum localem sed per aeternam 
+              <lb ed="#P"/>generationem
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e365">
+            <head xml:id="ppra-l131-Hscmscm">Secundum: contra Manichaeos</head>
+            <p xml:id="ppra-l131-sicqef">
+              <pc type="pilcrow"/> 2us error fuit manichaeorum dicentium quod christus non assumpsit corpus 
+              <lb ed="#P"/>verum sed fantasticum id est apparens et non existens <pc type="punctus"/> Sed haec esset contra scriptura iam inductam 
+              <lb ed="#P"/>nisi quod dicerent quod locuntur secundum morem antiquorum dicentium quod christus vocatur leo <pc type="punctus"/> etc et sic pari modo 
+              <lb ed="#P"/>vocaretur homo <pc type="punctus"/> <pc type="virgula">/</pc> sed hoc non valet quia sacra scriptura nonquam utitur quod sit homo eo modo nec quod 
+              <pb ed="#P" n="130-r"/>
+              <lb ed="#P"/>hoc sit figurative sumendo ut etiam patet de tribus viris <name>abrahe</name> apparentibus quorum unum 
+              <lb ed="#P"/>adoravit <pc type="virgula">/</pc> Ex quo licet sub aliqua spe apparavit immutatio per hoc quod unum adoravit patet 
+              <lb ed="#P"/>satis incarnatio
+            </p>
+            <p xml:id="ppra-l131-schhvc">
+              <pc type="pilcrow"/> Item contra hunc errorem nepham <unclear>dissensum</unclear> est fidei testimonium luce 
+              <lb ed="#P"/><quote xml:id="ppra-l131-Qd1e386" source="http://scta.info/resource/lc24_39@12-17">videte quoniam spiritus non habet carnem nec ossa</quote> <pc type="pilcrow"/> Ex quo sequitur evidenter contra ipsos <unclear>manichaeos</unclear>
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e392">
+            <head xml:id="ppra-l131-Htcecsa">Tertium: contra errorem quod christus corpus caeleste sibi assumpsit</head>
+            <p xml:id="ppra-l131-taessa">
+              <lb ed="#P"/><pc type="pilcrow"/> 3us error est <name ref="#Valentius">valeciam</name> dicentis quod corpus caleste iohannes assumpsit et non 
+              <lb ed="#P"/>ex virgine et hic error ex praetacta radice causatur nam dixerunt <del rend="strikethrough">quod omnis creatura cuiuslibet
+              <lb ed="#P"/>rei</del> sunt duo principia scilicet bonorum et malorum unum supra concavum orbis lunae bonum 
+              <lb ed="#P"/>et aliud infra concavum orbis lunae unde dixerunt quod omnia infra concavum ipsius existentia 
+              <lb ed="#P"/>sunt mala sicut <unclear>elementa</unclear> et alia et hoc quia contrariatur et intrinsece habent effectus malus et ergo non 
+              <lb ed="#P"/>congruum erat dicunt ipsi quod christus hic misceretur Et haec oppinio reffellitur ex sacra 
+              <lb ed="#P"/>doctrina <pc type="pilcrow"/> Unde <ref xml:id="ppra-l131-Rd1e409"><title ref="#rom">ad romanos</title> <num>primo</num></ref> <quote xml:id="ppra-l131-Qcfedsc" source="http://scta.info/resource/rom1_3">christus factus est ex semine <name ref="#David">david</name> secundum carnem</quote> ergo communicative
+              <lb ed="#P"/>cor eiusdem speciei <pc type="pilcrow"/> Item vocat eum <quote xml:id="ppra-l131-QBfemfem" source="http://scta.info/resource/gal4_4">factum ex muliere</quote> ergo de virgine sumpsit <pc type="pilcrow"/> Item 
+              <lb ed="#P"/>ad romanos <quote xml:id="ppra-l131-Qanassa" source="http://scta.info/resource/hebr2_16">angelos nusquam apprehendit sed <name>abrahae</name> semen</quote>
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e460">
+            <head xml:id="ppra-l131-Hqcesva">Quartum: contra errorem antiquorum dicentium deitatem supplere vicem animae</head>
+            <p xml:id="ppra-l131-sqesgf">
+              <pc type="pilcrow"/> 4us error <pc type="punctus"/>
+              <lb ed="#P"/>arrianorum dicentium deitatem supplere vicem animae sed hoc non valet
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e470">
+            <head xml:id="ppra-l131-Hqceten">Quintum: contra errorem <unclear>Theodori[?]</unclear> et Nestorii</head>
+            <p xml:id="ppra-l131-pqeesc">
+              <lb ed="#P"/><pc type="pilcrow"/> 5us error <name>theodorii</name> et <name>nestorii</name>  sectatoris eius et demonestii dicentium christum realiter 
+              <lb ed="#P"/>esse homine sed conceditur esse deus quia realiter dei templum in quo tota deitas habitat 
+              <lb ed="#P"/>Et dicunt consequenter quod vera virgo non dicitur proprie mater dei <pc type="punctus"/> sed hominis <pc type="virgula">/</pc> quoniam licet praedicata deo 
+              <lb ed="#P"/>competentia sint aliqua non tamen subiciunt in propositione vera et affirmativa pro eodem <pc type="punctus"/> sicut patet de 
+              <lb ed="#P"/>ista deus est homo <pc type="punctus"/> non sequitur econtra homo est deus nam ipsi arriani bene concedunt quod christus est <unclear>domus</unclear>
+              <lb ed="#P"/>gloriae et sanctus sanctorum et talia huiusmodi non tamen econtra <pc type="punctus"/> videlicet etiam quam sit passus vel de virgine natus 
+              <lb ed="#P"/><pc type="pilcrow"/> Contra quos processit <name>cryinus alexandrinus episcopus</name> qui fecit consilium congregati 
+              <lb ed="#P"/>in quo determinantium fuit quod virgo gloriosa est realiter mater dei <pc type="punctus"/> et quod ipsum deum genuit 
+              <lb ed="#P"/>et quod persona hominis et dei sunt unica persona ypostatice unita <pc type="virgula">/</pc> Et sic nedum ex scriptura sacra sed per 
+              <lb ed="#P"/>ecclesiae determinationem habemus super misterio certitudinem <pc type="punctus"/> quilibet convincitur <name>nestorius</name> et sui 
+              <lb ed="#P"/>sequaces <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e503">
+            <head xml:id="ppra-l131-Hscednc">Sextum: contra errorem quod christus non in duabus naturis consistit</head>
+            <p xml:id="ppra-l131-sseevh">
+              <pc type="pilcrow"/> 6tus error fuit <sic>titii</sic> ex karateribus litterarum ponentis quod licet christus ex duabus 
+              <lb ed="#P"/>naturis in una persona existat non tamen in duabus <pc type="pilcrow"/> Contra quem <name>boetius</name> in libro de duabus 
+              <lb ed="#P"/>personis ymaginatur ad salvandum unitatem naturae scilicet quod duae naturae concurrat ydemptice unde 
+              <lb ed="#P"/>dicit quod <unclear>contrarium</unclear> eset verum nam si dictum illius esset verum sequitur tunc deus non esset homo nisi habere naturam 
+              <lb ed="#P"/>humanam
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e521">
+            <head xml:id="ppra-l131-Hscehis">Septimum: contra errorem quod filius dei assumpsit sibi hominem identitatum sibi</head>
+            <p xml:id="ppra-l131-safems">
+              <pc type="pilcrow"/> 7mus error est dicentium quod deus assumpsit homine sibi ydempticum et ista 
+              <lb ed="#P"/>non ponitur inter haeresis sed est modernalis licet falsa  
+            </p>
+            <p xml:id="ppra-l131-ehvaee">
+              unde <ref xml:id="ppra-l131-Rd1e537"><name ref="#WilliamOfAuxerre">altissiodorensis</name></ref> recitat 
+              <lb ed="#P"/>episcopum cenonensis hunc tenuisse <pc type="virgula">/</pc> cuius ymaginatio quod realiter est homo et quod humanitas christi 
+              <lb ed="#P"/>realiter sit homo vel persona <pc type="punctus"/> deinde quod verbum in divinis uniuit taliter quod una et eadem 
+              <lb ed="#P"/>persona fuere ydemptice
+            </p>
+            <p xml:id="ppra-l131-scipdc">
+              <pc type="pilcrow"/> Sed contra hoc arguitur sic nam ista via data sequeretur quod quaelibet 
+              <lb ed="#P"/>creatura posset incipere esse deus nam qua ratione ydemptificavit unam et aliam posset quo 
+              <lb ed="#P"/>facto quaelibet creatura posset esse deus et sic posset esse immense beata et similiter materia prima <pc type="virgula">/</pc> Et 
+              <lb ed="#P"/>consequenter quod omnia praedicata perfectionalia de deo dicibilia cuilibet individuo essent communicabilia quod 
+              <lb ed="#P"/>est falsissimum
+            </p>
+            <p xml:id="ppra-l131-ssqdpa">
+              <pc type="pilcrow"/> Item sequeretur quod deus esset annihilabilis patet nam homo christus est realiter annihilabilis vel fuit 
+              <lb ed="#P"/>et tamen est deus ergo dicitur est anihilabilis
+            </p>
+            <p xml:id="ppra-l131-tsdned">
+              <pc type="pilcrow"/> Item sequeretur quod posset peccare et inferretur quod esset 
+              <lb ed="#P"/>miserrimus quod est absurdum
+            </p>
+            <p xml:id="ppra-l131-qsidha">
+              <pc type="pilcrow"/> Item si sicut nulla esset differentia essentialis nec aliqua 
+              <lb ed="#P"/>diffinitio essentialis quia cuilibet competerent nam eadem ratione qua ydemptificaretur unam 
+              <lb ed="#P"/>creaturam sibi eadem et aliam quod est falsum <!-- possible break point --> <pc type="pilcrow"/> Unde haec positio pro sui declaratione concedit 
+              <lb ed="#P"/>consequenter istas propositiones quod sicut deus incipit esse homo ita homo incipit esse deus Et si conceditur 
+              <lb ed="#P"/>quod aliqua res potest esse noviter deus patet de homine assumpto
+            </p>
+            <p xml:id="ppra-l131-spdrur">
+              <pc type="pilcrow"/> Item dato quod praesisteret non 
+              <lb ed="#P"/>repugnaret quin prius fuisset homo et tamen inciperet esse deus <pc type="virgula">/</pc> et concedit quod deus assumpsit 
+              <lb ed="#P"/>hominem et consequenter quod idem est assumens et assmptus et consequenter quod homo assumpsit homine et quod 
+              <lb ed="#P"/>deus est assumptus quia homo qui est idem cum deo <pc type="punctus"/> <pc type="pilcrow"/> Sed ex ista positione secuntur inconvenientia 
+              <lb ed="#P"/>iam dicta <pc type="virgula">/</pc> licet et ad hoc sunt multae sanctorum auctoritates <!-- possible small interlinear addition --> Unde factus est homo deus <pc type="pilcrow"/> Sed quantum 
+              <lb ed="#P"/>ad tales auctoritates dicitur quod facile est ipsas solvere exponendo de ista homo incipit esse 
+              <lb ed="#P"/>deus ipsa tamen et similes de vi vocis est falsa 
+            </p>
+            <!-- fuzzy break and parallel -->
+            <p xml:id="ppra-l131-pqdinc">
+              <pc type="punctus"/> quia nec christus incipit esse deus quia in separabiliter 
+              <lb ed="#P"/>est deus quia semper emanat a patre et emanabit et tunc intelligitur sic <pc type="punctus"/> homo incipit esse deus 
+              <lb ed="#P"/>id est sicut incipit esse quod homo est deus <pc type="punctus"/> <pc type="virgula">/</pc> vel talis propositio incipit esse homo eset deus et iste est sensus 
+              <lb ed="#P"/>ad quem debent resolvi <pc type="punctus"/> tales propositiones Et si arguatur quod aliquis potest incipere esse <pc type="punctus"/> vel desinere esse deus 
+              <lb ed="#P"/>nam sit ergo de dimissionem habuit christi <pc type="virgula">/</pc> tunc homo non est deus et immediate in erat deus ergo desinit esse deus
+              <lb ed="#P"/>et ista est facilis omnia satis nam in terminis <sic>conotativis</sic> demonstratur absolute <unclear>sine cono?ne illius</unclear>
+              <lb ed="#P"/>pro quo subiectum supponit patet faciliter demonstrando personam dei nam <unclear>illa</unclear> est falsa hoc non est deus etc
+              <lb ed="#P"/>ista sunt logicalia <!-- possible break point --> <pc type="pilcrow"/> 2o dicitur quod propositio de praeterito debet praecedere et illa de praesenti debet sequi cum pro nomine 
+              <lb ed="#P"/>relativo ut ista christus desinit esse deus <pc type="punctus"/> exponitur sic christus immediate ante hoc fuit deus et immediate post hoc 
+              <lb ed="#P"/>non est deus ergo modo 2a est falsa <pc type="punctus"/> Ex quo patet quod instantia data non concludit contradicta
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e595">
+            <head xml:id="ppra-l131-Hoceiup">Octavum: contra errorem quod natura divina et natura humana identice concurrunt in unam personam</head>
+            <p xml:id="ppra-l131-sofupe">
+              <lb ed="#P"/><pc type="pilcrow"/> <sic>9nus</sic> error vel falsitas oppinionis dicentium quod licet natura humana et divina concurrant ydemptice 
+              <pb ed="#P" n="130-v"/>
+              <lb ed="#P"/>sunt tamen unum suppositum licet sint 3es naturae unde ymaginantur quod sicut anima et natura 
+              <lb ed="#P"/>humana sunt una persona dici quod ipsa anima est eadem persona sicut dicit <ref xml:id="ppra-l131-Rd1e605"><name ref="#HughOfStVictor">hugo de sancto victore</name></ref>
+              <lb ed="#P"/>dicit quod realiter sit vere homo et anima et corpus eadem persona humana et hanc viam tenuit 
+              <lb ed="#P"/><ref xml:id="ppra-l131-Rd1e612"><name ref="#WilliamOfParis">guillemus parisiensis</name></ref> et aliquis alii <pc type="punctus"/> sed <name>adam</name> inpugnat valde bene
+            </p>
+            <p xml:id="ppra-l131-aisnea">
+              <pc type="pilcrow"/> 10mus error sine modus 
+              <lb ed="#P"/>dicendi quorumdam fuit nam dato asino si anima humana informaret compositum tunc 
+              <lb ed="#P"/>resultans ex hoc esset asinus et homo et sic plures naturae concurrrunt ydemptice sic proportionaliter 
+              <lb ed="#P"/>diceretur de personis in divinis <pc type="pilcrow"/> Contra quam positionem licet <ref xml:id="ppra-l131-Rd1e619"><name>beatus bernardus</name> in 
+              <lb ed="#P"/>libro de <del rend="strikethrough">sub</del> laudibus virginis gloriosae</ref> dicens quod licet natura divina sit 3es personae quarum una 
+              <lb ed="#P"/>non est alia ita christus est 3es naturae quarum una distinguitur ab alia 
+            </p>
+            <p xml:id="ppra-l131-schqeh">
+              <pc type="pilcrow"/> Sed contra arguitur sic nam 
+              <lb ed="#P"/>ex ista sequeretur multitudo rerum esset deus intrinsece et essentialiter distinctarum patet <pc type="virgula">/</pc> quia christus sic esset 
+              <lb ed="#P"/>3es res quod immensae simplicitati repugnat
+            </p>
+            <p xml:id="ppra-l131-snphrt">
+              <pc type="pilcrow"/> Item nulla pars multitudinis 
+              <lb ed="#P"/>essentialiter distinctarum est <sic>agregatum</sic> ex omnibus simul sumptis ergo sequitur quod christus est pars illius multitudinis 
+              <lb ed="#P"/>modo nulla pars est tota multitudo ergo christus habens rationem partis non potest habere rationem totius 
+            </p>
+            <p xml:id="ppra-l131-tmppna">
+              <lb ed="#P"/><pc type="pilcrow"/>Item maior pars est creata et dependens ergo deus est dependens consequens est falsum <del rend="strikethrough">igitur et antecedens</del>
+              <lb ed="#P"/>probatur tamen consequentia quoniam quia a maiori debet fieri denominatio et si fiat cum deus sit maior ergo etc
+            </p>
+            <p xml:id="ppra-l131-qsqefr">
+              <lb ed="#P"/><pc type="pilcrow"/> Item 4o sequeretur quod creatura esset ab aeterno patet nam christus fuit ab aeterno ymmo <add place="above-line">et quod</add> haec multitudo 
+              <lb ed="#P"/>quae est christus et etiam anima christi quod haereticum est dicere ergo haec positio tamquam pro nihilo reputabitur
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e642">
+            <head xml:id="ppra-l131-Hncefeh">Nonum: contra errorem quod natura assumpta est realiter deus et sic deus factus est homo</head>
+            <p xml:id="ppra-l131-sncaaa">
+              <lb ed="#P"/><pc type="pilcrow"/> 11mus error sive modus est quod natura assumpta realiter est deus <pc type="punctus"/> sed haec via 
+              <lb ed="#P"/>defficit quia per intrinsecam actuationem suppositibilem debet creaturae communicari et per informantionem cuius 
+              <lb ed="#P"/>contrarium <del rend="strikethrough">facit</del> deductum <pc type="pilcrow"/> 2o defficit quia dato quod humanitas christi esset deus 
+              <lb ed="#P"/>non salvat unitatem humanitatis ad personam assumentem et sic non dicit aliquid <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l131-Dd1e651">
+            <head xml:id="ppra-l131-Hdceeup">Decimum: contra errorem quod in christo sunt duae sumpta et unita persona</head>
+            <p xml:id="ppra-l131-dopads">
+              <pc type="pilcrow"/> ultima 
+              <lb ed="#P"/>et duodecima via sive modus erroris quod in christo sunt realiter duo supposita et unica 
+              <lb ed="#P"/>persona <pc type="pilcrow"/> unde ymaginatur quod humanitas assumpta fuit distincta a divino supposito
+            </p>
+            <p xml:id="ppra-l131-sqdqic">
+              2o ymaginatur 
+              <lb ed="#P"/>quod sit de dignitate ipsius personae habere suppremam dignitatem modo natura divina dignior est humana 
+              <lb ed="#P"/>ergo
+            </p> 
+            <p xml:id="ppra-l131-sipcnd">
+              <pc type="pilcrow"/> Sed ista valde defficit et incidit in errorem nestarianum quae habet concedere 
+              <lb ed="#P"/>quod homo non est realiter deus
+            </p> 
+            <p xml:id="ppra-l131-sieqea">
+              <pc type="pilcrow"/> Item dicitur ulterius et ultimo quod in unione ypostatica 
+              <lb ed="#P"/>idem est formaliter in homine persona et ypostasis <pc type="virgula">/</pc> quia nihil aliud est quam eius subsistentia <pc type="virgula">/</pc> ymmo 
+              <lb ed="#P"/>persona est generale ad omnem subsistentiam et sic in divinis ponuntur tria supposita quare 
+              <lb ed="#P"/>opportebit dicere quod homo fuisset natus de virgine et non deus et sic patet de viis 
+              <lb ed="#P"/>circa materiam incarnationis
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l131-Dxxyy1">
+          <head xml:id="ppra-l131-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l131-xxxyy3">
+            <pc type="pilcrow"/> Secuntur distinctiones consequentia primae est quod christianus non habet 
+            <lb ed="#P"/>ambigere de futura resurrectione patet per <ref xml:id="ppra-l131-Rxxyy9" corresp="#ppra-l131-Qxxy10">cimbolum <name>anastasii</name></ref> ubi dicit <quote xml:id="ppra-l131-Qxxy10" source="http://scta.info/resource/acnkop-c1c1c1-d1e470@1-3">Ad cuius adventum</quote> 
+            <lb ed="#P"/><del rend="strikethrough">ho</del> etc unde notandum est quod omnes resurgent in aetate christi quam habuit quando passus est Sed 
+            <lb ed="#P"/>restat difficultas de suffocatis in ventre et <unclear>devorater alumpe</unclear> et caeteris animabus <pc type="virgula">/</pc> Respondetur 
+            <lb ed="#P"/>breviter quod si anima fuerit in ipsis infusa resurgent sicut et alii
+          </p>
+          <p xml:id="ppra-l131-xxxyy4">
+            <pc type="pilcrow"/> Alia distinctio <del rend="strikethrough"><unclear>christus</unclear></del>
+            <lb ed="#P"/>cuius conclusio quod christus erit iudex et angeli aderunt
+          </p>
+          <p xml:id="ppra-l131-xxxyy5">
+            <pc type="pilcrow"/> Consequenter dicit quod peccata malorum videbuntur 
+          </p>
+          <p xml:id="ppra-l131-xxxyy6">
+            <lb ed="#P"/><pc type="pilcrow"/> De electis autem dubitatur utrum peccata quae fecerint videbuntur <pc type="virgula">/</pc> dicitur quod potest esse quod sic et quod 
+            <lb ed="#P"/>non erit ad sui confusionem sed potius confessi fuerint ad sui laudationem
+          </p>
+          <p xml:id="ppra-l131-xxxyy7">
+            <lb ed="#P"/><pc type="pilcrow"/> Alia conclusio beati recipientur in paradiso iuxta sui meriti rationem vel quantitatem
+          </p>
+          <p xml:id="ppra-l131-xxxyy8">
+            <pc type="pilcrow"/> Alia 
+            <lb ed="#P"/>mali cruciabuntur nedum in corpore sed in anima et corpore simul <pc type="virgula">/</pc> et mediante <unclear>caliditate</unclear> causabitur 
+            <lb ed="#P"/>dolor et displicentia quae erit <unclear>ei<del rend="strikethrough">u</del></unclear> poenalissima quare etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
