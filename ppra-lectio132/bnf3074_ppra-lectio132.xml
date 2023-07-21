@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 132, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 132, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-20">July 20, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="130-v"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio132">
+      <head xml:id="ppra-l132-HldIld">Lectio 132, de Incarnatione</head>
+        <div xml:id="ppra-l132-Dd1e109">
+          <head xml:id="ppra-l132-Hnotnda">Notanda</head>
+          <div xml:id="ppra-l132-Dd1e114">
+            <head xml:id="ppra-l132-Hpnmpnm">Primum notandum</head>
+            <p xml:id="ppra-l132-pdpvaa">
+              <lb ed="#P"/>Consequenter circa materiam incarnationis verbi adhuc ulterius procedendo magis materiam 
+              <lb ed="#P"/>eluciendo videnda sunt aliqua materiae declarativa <pc type="pilcrow"/> Unde primo videndum est quid sit sumptum 
+              <lb ed="#P"/>Suppositum est ultimata alicuius naturae subsistentia sed quia difficultas est ad hoc suppositum 
+              <lb ed="#P"/>intelligendum ideo notandum est quod ordo tendentiarum uni rei ad alteram reperitur multiplex 
+            </p>
+            <div xml:id="ppra-l132-Dd1e128">
+              <head xml:id="ppra-l132-Hqqtqqt">Quinque tendentia</head>
+              <p xml:id="ppra-l132-petacp">
+                <lb ed="#P"/>prima est <add place="above-line">formae</add> <unclear>quo</unclear> ad suum subiectum <seg type="correction">sive<del rend="strikethrough">ie</del></seg> est forma substantialis <pc type="indent"/> alia accidentalis <pc type="pilcrow"/> Et dividitur quia quaedam est habitualis
+                <lb ed="#P"/>prima nota est ut est tendentia animae separatae ad suum corpus proprium
+              </p> 
+              <p xml:id="ppra-l132-seteec">
+                <pc type="pilcrow"/> 2a est partis ad partem
+                <lb ed="#P"/>in ordine ad suum totum constitutive Et ista consurgit ex hoc quod <unclear>contentum</unclear> tendit ad aliud respectu cuius 
+                <lb ed="#P"/>fuit unio
+              </p>
+              <p xml:id="ppra-l132-tetlen">
+                <pc type="pilcrow"/> 3a est locati ad suum locum naturalem et hac tendit ignis ad concavum orbis 
+                <lb ed="#P"/>lunae quia quidam sibi locus est naturalis
+              </p>
+              <p xml:id="ppra-l132-qtempd">
+                <pc type="pilcrow"/> 4a est naturaliter coexistentium seclusis habitis prioribus 
+                <lb ed="#P"/>Et isto modo intelligentia tendit ad orbis praesentiam et econtra nam se non habet ut inhaerens 
+                <lb ed="#P"/>forma nec aliquo praedictorum modorum
+              </p>
+              <p xml:id="ppra-l132-qetasf">
+                <pc type="pilcrow"/>5a tendentia est rei circa ultimum finem vel in sui 
+                <lb ed="#P"/>causam conservantem <pc type="punctus"/> et isto modo cuiuslibet creaturae circa deum est insolubilis tendentia <pc type="virgula">/</pc> quoniam sicut 
+                <lb ed="#P"/>creatura sine prima causa nihil producere potest sic nec conservari in habitudine ad suum finem
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l132-Dd1e154">
+            <head xml:id="ppra-l132-Hsnmsnm">Secundum notandum</head>
+            <p xml:id="ppra-l132-snqitc">
+              <pc type="pilcrow"/> unde 
+              <lb ed="#P"/>advertendum est quod praeter has quinque tendentias est alia scilicet cuiuslibet rei ad seipsam <pc type="virgula">/</pc> vel ad sui subsi<lb ed="#P"/>stentiam 
+              si nata sit subsistere <pc type="punctus"/> vel in alterius <pc type="punctus"/> si non sit nata subsistere in se vel in alio 
+              <lb ed="#P"/>tanquam in quodam termino habente rationem quietis <pc type="virgula">/</pc> licet non ultimate quantum ad creaturas <pc type="punctus"/>
+              <pb ed="#P" n="131-r"/>
+              <lb ed="#P"/>et hic terminus vocatur subsistentia Iuxta quem modum quodlibet compositum substantiale sibi et suae naturae 
+              <lb ed="#P"/>derelictum tendit in seipsum tanquam in se <pc type="punctus"/> deinde omnia accidentia et suae partes 
+              <lb ed="#P"/>tendunt subsistere <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e169">
+            <head xml:id="ppra-l132-Htnmtnm">Tertium notandum</head>
+            <p xml:id="ppra-l132-tenadc">
+              <pc type="pilcrow"/> 3o notandum est quod denominationes concretive omnium tendentium in aliquid 
+              <lb ed="#P"/>tamquam in subsistentiam suam vel in illud in quo subsistunt communicantur ipsi substantiae <pc type="pilcrow"/> unde et accidentia 
+              <lb ed="#P"/>in toto composito naturali sive inhaereat materiae sive non <pc type="virgula">/</pc> denominationes concretivis communicant <pc type="punctus"/> 
+              <lb ed="#P"/>scilicet subsistentiae principalis <pc type="pilcrow"/> unde caritas quaquam inhaereat alicui subiecto non pro tanto denominat 
+              <lb ed="#P"/>compositum <unclear>causandum</unclear> ita est in proposito de subsistentia
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e178">
+            <head xml:id="ppra-l132-Hqnmqnm">Quartum notandum</head>
+            <p xml:id="ppra-l132-qnebdv">
+              <pc type="pilcrow"/> 4o notandum est quod tendentia creaturarum subiacet 
+              <lb ed="#P"/>divinae omnipotentiae et libero dei decreto sic quod omnes creaturae sunt subdite naturali ad taliter tendendum <pc type="punctus"/>  
+              <lb ed="#P"/>iuxta omnipotentiam divinae voluntatis 
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e188">
+            <head xml:id="ppra-l132-Hcdtdtc">Corollaria de tendentia creaturarum</head>
+            <p xml:id="ppra-l132-csqiic">
+              <pc type="pilcrow"/> Consequenter sequitur quod tales creaturae variabiles sunt secundum <del rend="strikethrough">cursum</del> 
+              <lb ed="#P"/>beneplacitum divinae voluntatis sicut alias visum est de tendentia ignis ad concavum orbis lunae 
+              <lb ed="#P"/>qui sic ipsi concavo subiacet quod <subst><del rend="strikethrough">non</del> <add place="above-line">tamen</add></subst> potest dorsum tendere et ad hoc naturaliter quietari 
+            </p>
+            <p xml:id="ppra-l132-ehseps">
+              <lb ed="#P"/><pc type="pilcrow"/> Ex quo sequitur quod licet quodlibet compositum substantiale suae naturae derelictum tendat in 
+              <lb ed="#P"/>propria subsistentiam potest tamen non tendere et hoc secundum communem naturae cursum
+            </p> 
+            <p xml:id="ppra-l132-eqsrht">
+              <pc type="pilcrow"/> Ex quo sequitur 
+              <lb ed="#P"/>quod quodlibet compositum substantiale est substantia vel ypostasis patet ex radice iam tacta nam 
+              <lb ed="#P"/>tendentia creaturae ad se vel ad aliud est variabilis igitur deus potest subspendere eam tamquam in propria 
+              <lb ed="#P"/><sic>susistentiam</sic> <pc type="pilcrow"/> Sequitur ulterius quod quaelibet creatura potest in deum tendere tamquam in subsistentiam 
+              <lb ed="#P"/>ultimatam Ita quod actualiter appetat in deum subsistere <pc type="virgula">/</pc> Et quia divinae potentiae non repugnat 
+              <lb ed="#P"/>hanc terminare
+            </p>
+            <p xml:id="ppra-l132-isqqci">
+              sequitur quod potest esse ypostasis <pc type="virgula">/</pc> vel terminus cuiuslibet creaturae ad quem creatura inclinatur 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l132-Dd1e222">
+          <head xml:id="ppra-l132-Hcqssid">Conclusio quod stat naturam humanam non tendere in se vel ad eius subsistentiam propriam sed in Deum</head>
+          <p xml:id="ppra-l132-ehrdet">
+            <lb ed="#P"/>Et hic materiae difficultas radicatur <pc type="punctus"/> Nam ex hac concluditur quod stat naturam humanam 
+            <lb ed="#P"/>tendere ad se tamquam ad subsistentiam et tamen non repugnat quod illa tendentia esset aliquid 
+            <lb ed="#P"/>quod non in sui subsistentiam propria terminetur
+          </p>
+        </div>
+        <div xml:id="ppra-l132-Dd1e231">
+          <head xml:id="ppra-l132-Hcorria">Corollaria</head>
+          <p xml:id="ppra-l132-Heehies">
+            <pc type="virgula">/</pc> <del rend="strikethrough">et sic ex 2o</del> ex primo notabili et deus erit huius naturae suppositum
+            <lb ed="#P"/>vel ypostasis ex 2o <pc type="virgula">/</pc> Et ex 3a notabili sequitur quod deus sic recipiat realiter denominationes 
+            <lb ed="#P"/>concretivas tam substantiis quam accidentibus naturae competentibus 
+          </p>
+          <p xml:id="ppra-l132-sspgvd">
+            <pc type="pilcrow"/>Ulterius quod verbum recitat <unclear>quod</unclear> sub?tat 
+            <lb ed="#P"/>scilicet talia praedictat unde salvabitur quod verbum est risibile vel etc <pc type="virgula">/</pc> Et ista est manuductio clarissima 
+            <lb ed="#P"/>quo ad hoc <pc type="punctus"/> licet diffinitionum sit clare de hac materia persuadere <pc type="punctus"/> teste <ref xml:id="ppra-l132-Rabcd2" corresp="#ppra-l132-Qabcd1"><name>ysaya propheta</name></ref>
+            <lb ed="#P"/><quote xml:id="ppra-l132-Qabcd1" source="http://scta.info/resource/is53_8@8-12">generationem eius quis enarrabit</quote> <pc type="virgula">/</pc> quasi vellet dicere nullus
+          </p>
+          <p xml:id="ppra-l132-Heqsiea">
+            <pc type="pilcrow"/> Ex praedictis igitur sequitur 
+            <lb ed="#P"/>quod nulla natura est essentialiter suppositum vel subsistentia nisi realiter sit tria supposita vel 
+            <lb ed="#P"/>3es subsistentiae <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> ex deductione prima nam quaelibet creatura tendit tendentia contingenti et 
+            <lb ed="#P"/>ab ea removibilis est <pc type="virgula">/</pc> igitur non in se et intrinsece unica ideo sola natura divina natura est in se 
+            <lb ed="#P"/>intrinsece et essentialiter <sic>suppositari</sic> et non aliqua alia natura quin possit de <sic>suppositari</sic> 
+            <lb ed="#P"/>sola autem divina non quia intrinsece ad suas ypostases immutabilis est et invariabilis
+          </p>
+          <p xml:id="ppra-l132-sqqdvv">
+            <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius quod quaelibet subsistentia potest desinere esse subsistentia absque hoc quod aliqua 
+            <lb ed="#P"/>res desinat esse <pc type="punctus"/> patet per tendentiam rei in suam subsistentiam 
+          </p>
+          <p xml:id="ppra-l132-udqiea">
+            et tamen nulla creatura 
+            <lb ed="#P"/>desineret esse creatura nec aliquid a parte rei desineret esse <pc type="punctus"/> et cum hoc staret quod aliqua res 
+            <lb ed="#P"/>desineret esse homo et aliqua inciperet esse asinus vel lapidis <pc type="punctus"/> Et non sequitur <c>a</c> incipit esse asinus 
+            <lb ed="#P"/>igitur <c>a</c> incipit esse <pc type="punctus"/> nec etiam sequitur de desinit <pc type="punctus"/> quia deus inciperet esse homo et tamen non inci<lb ed="#P"/>peret 
+            esse aliquid etc
+          </p> 
+          <p xml:id="ppra-l132-siatsv">
+            <pc type="pilcrow"/> Item in alio casu non supernaturali <pc type="punctus"/> sed naturali stat quod aliquid incipit esse homo 
+            <lb ed="#P"/>et tamen non incipit esse aliquid <pc type="punctus"/> patet <pc type="virgula">/</pc> nam signata ultima parte hominis praeter brachium <pc type="punctus"/> tunc 
+            <lb ed="#P"/>illa res non est suppositum vel ypostasis <pc type="punctus"/> et tamen per sublationem brachii <c>a</c> inciperet esse 
+            <lb ed="#P"/>homo et haberet subsistentiam hominis <pc type="punctus"/>
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Ex quibus patet quod praedicta concretiva 
+            <lb ed="#P"/>suppositalia contingenter competunt creaturis sicut esse hominem contingenter isto modo de natura 
+            <lb ed="#P"/>humana diceretur ex eo quod ratione tendentiae possunt talia praedicata a natura propria remotiori 
+            <lb ed="#P"/>quia ad nutum dei est variabilis ipsa natura
+          </p>
+          <p xml:id="ppra-l132-eqsuti">
+            <pc type="pilcrow"/> Sequitur ulterius quod omnis res mundi 
+            <lb ed="#P"/>potest deo denominationes concretivas communicare patet quia potest deo subsistere ergo consequentia patet quia de 
+            <lb ed="#P"/>ratione subsistentiae est esse communicabilis 
+          </p>
+        </div>
+        <div xml:id="ppra-l132-Dd1e292">
+          <head xml:id="ppra-l132-Hdduads">Dubium de unione</head>
+          <head xml:id="ppra-l132-Hd1e297" type="question-title">Utrum quaelibet res sit a deo <unclear>supposibilis</unclear></head>
+          <p xml:id="ppra-l132-chnvsu">
+            <pc type="pilcrow"/> unde circa hoc advertendum est quod dubium est inter doctores 
+            <lb ed="#P"/>utrum quaelibet res sit deo unibilis 
+          </p>
+          <p xml:id="ppra-l132-epepsu">
+            et est quaedam oppinio dicens quod non nisi sit innata 
+            <lb ed="#P"/>subsistere subsistentia propria <pc type="virgula">/</pc> quoniam accidentia non possunt in se subsistere nec esse intrinsece 
+            <lb ed="#P"/>sua subsistentia sive partes essentiales non possunt subsistere per se <pc type="punctus"/> ideo non possunt uniri
+          </p>
+          <p xml:id="ppra-l132-adqicc">
+            <pc type="pilcrow"/><lb ed="#P"/> Alii dicunt quod immo possunt <pc type="punctus"/> et sic difficultas est vocalis et non realis <pc type="punctus"/> nam 
+            <lb ed="#P"/>si per subsistere intelligatur esse suppositum alicuius rei prima oppinio haberet veritatem <pc type="pilcrow"/> Sed si 
+            <lb ed="#P"/>intelligatur subsistere esse subsistentia alicuius tunc deus potest esse cuiuslibet subsistentia vel suppositum 
+            <lb ed="#P"/>et quamlibet rem sibi unire suppositaliter Et iste modus et magis tendendus quam primus 
+            <lb ed="#P"/>verbum recipit denominationes concretivas sic iacere in sepulchro <pc type="virgula">/</pc> quod quid non posset esse 
+            <pb ed="#P" n="131-v"/>
+            <lb ed="#P"/>nisi competeret sibi ratione naturae assumptae <pc type="virgula">/</pc> Et simile est de anima quae fuit realiter unica 
+            <lb ed="#P"/>in triduo <pc type="punctus"/> nam christus descendit ad inferos <pc type="punctus"/> hoc enim esse non posset <pc type="punctus"/> nisi christus esset 
+            <lb ed="#P"/>respectu cuiuslibet creaturae potest habere habitudinem talem qua consurget ydiomatum communicatio quia potest esse cuiuslibet 
+            <lb ed="#P"/>creaturae subsistentia ergo potest recipiere denominationes concretivas
+          </p>
+          <p xml:id="ppra-l132-pcdsaf">
+            <pc type="pilcrow"/> pro quo est advertendum quod ydos 
+            <lb ed="#P"/>vocabulum est graecum a quo ydyoma dicitur et <del rend="strikethrough">ydo</del> onoma quod est nomen quam nomen formale 
+            <lb ed="#P"/>vel proprium ipsius rei <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l132-snenpe">
+            <pc type="pilcrow"/> 2o notandum est quod naturae creatae duplex competit ydioma id est praedicatum 
+            <lb ed="#P"/>explicans rei proprietatem <pc type="punctus"/> quodam proprium et intrinsecum et inseparabile ut humanitati competit esse humanam 
+            <lb ed="#P"/>intrinsece etc similiter animae competit esse volibilem
+          </p>
+          <p xml:id="ppra-l132-sensed">
+            <pc type="pilcrow"/> Alia autem sunt praedicata quae non competit inseparabiliter 
+            <lb ed="#P"/>naturaliter sicut esse hominem <pc type="virgula">/</pc> et sic de talibus quae quidam concretive sumpta supponunt pro 
+            <lb ed="#P"/>humanitate naturaliter tamen possunt separabiliter probari et remobilia sunt a subsistentia quia possunt non subsistere 
+            <lb ed="#P"/>et talia et consimilia vocantur <unclear>ydiomabilia</unclear> vel ydiomata natura  experimentia sive forma <pc type="pilcrow"/> Unde notandum est 
+            <lb ed="#P"/>quod talia possunt communicari subsistentiae qua naturae est subsistibilis unde vi unionis humanitatis ad verbum 
+            <lb ed="#P"/>non communicat sibi praedicata scilicet quod verbum sit humanitas vel naturalitas <pc type="pilcrow"/> Alia autem quae sunt concretiva 
+            <lb ed="#P"/>sunt remobilia sicut et subsistentia Et ideo sicut <subst><add place="above-line">deus</add> <del rend="strikethrough">analogus</del></subst> potest esse creatura subsistentia potest denominari 
+            <lb ed="#P"/>concretive quod est corpus sicut verbum <pc type="pilcrow"/> Verum est tamen quod nomina generis sumuntur potest concretive nunc 
+            <lb ed="#P"/>denominative
+          </p>
+          <p xml:id="ppra-l132-eppatc">
+            <pc type="pilcrow"/> Ex prioribus patet quod unio ypostatica est unio virtute cuius natura <subst><add>divina</add> <del rend="strikethrough">humana</del></subst> sit humanae 
+            <lb ed="#P"/>subsistentia <pc type="virgula">/</pc> Ita quod tota ymaginatio tendentia creaturarum ad bene placitum est divinae voluntatis deinde 
+            <lb ed="#P"/>quod deus subsistet et terminetur subsistentiam <pc type="pilcrow"/> Sed quia doctores utuntur terminis armatis ideo non possunt 
+            <lb ed="#P"/>sanctores a parte comprehendere
+          </p>
+          <div xml:id="ppra-l132-Dd1e393">
+            <head xml:id="ppra-l132-Hqhuass">Quod haec unio est similis unioni accidentis ad suum subiectum</head>
+            <p xml:id="ppra-l132-ptmsnh">
+              <pc type="pilcrow"/> Unde pro maiori declaratione est ymaginandum iuxta <ref xml:id="ppra-l132-Rd1e402">dictum <name ref="#Scotus">doctoris 
+              <lb ed="#P"/>subtilis</name></ref> quod haec unio est valde similis accidenti ad suum subiectum unde quantum ad aliquid dissimilitudo 
+              <lb ed="#P"/>nam accidens informat subiectum realiter <pc type="punctus"/> sed hoc debet tolli <add place="above-line"><unclear>a hac unione</unclear></add> ex eo quod verbum dei non posset informative 
+              <lb ed="#P"/>nam hoc tolleret sibi perfectione suam vel etc <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l132-aehehr">
+              <pc type="pilcrow"/> Alia est quia subiectum est subsistentia accidentis et hoc 
+              <lb ed="#P"/>dicit perfectionem in subiecto esse alterius subsistentiam nam haec habet rationem finis conservantis <pc type="punctus"/> Et sic 
+              <lb ed="#P"/>ex hoc consurgit denominatio concretiva <pc type="pilcrow"/> Nunc ad propositum circumscribendo communem talem <del rend="strikethrough">ymaginationem</del> 
+              <lb ed="#P"/>habitudinem ymaginantur aliam habitudinem ad verbum virtute cuius denotat denominationes concretivas sicut albedinus 
+              <lb ed="#P"/>ad suum subiectum ita etiam de unione ad suum subiectum unibile tunc semper denominationes concretivas recipiet 
+              <lb ed="#P"/>Et sic totum attribuitur verbo sicut mori vel pati etc Et sic intelligitur fieri communicatio ydiomatum 
+              <lb ed="#P"/>ut conceditur quod ipse deus est homo immensus quod creavit caelum quod est fons omnium bonorum Talia enim 
+              <lb ed="#P"/>praedicata deo attribuuntur et sic praedicata humana huic subiecto attribuuntur scilicet homo etc
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e423">
+            <head xml:id="ppra-l132-Hnqdduc">Notanda: qualiter deus utitur creatura</head>
+            <p xml:id="ppra-l132-ptpude">
+              <pc type="pilcrow"/> Ultimo 
+              <lb ed="#P"/>advertendum est quod deus utitur creatura generaliter tamquam instrumento et praecipue in bonis operationibus 
+              <lb ed="#P"/>licet servetur libertas
+            </p>
+            <p xml:id="ppra-l132-snepoe">
+              <pc type="pilcrow"/> 2o dicitur quod deus potest duplici modo specialiter uti instrumento uno modo ipsum 
+              <lb ed="#P"/>movendo ad operationes speciales exercentes secundum influxum naturae <pc type="pilcrow"/> 2o modo speciali modo tamquam simpliciter <unclear>extrinseco</unclear> 
+              <lb ed="#P"/>ut verbi gratia anima potest uti extrinseco et intrinseco Et sic ymaginandum est quod verbum utitur humanitate 
+              <lb ed="#P"/>specialiori modo ipsam elegendo ad operationes exercentes <pc type="pilcrow"/> alio modo tamquam proprio instrumento ad operationes proprias 
+              <lb ed="#P"/>exercendas <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e436">
+            <head xml:id="ppra-l132-Hocnocn">Opinio Chatton</head>
+            <p xml:id="ppra-l132-eihppu">
+              <pc type="pilcrow"/> unde pro maiori declaratione sequar viam istam <pc type="virgula">/</pc> videlicet <pc type="virgula">/</pc> quod tanta est unio verbi 
+              <lb ed="#P"/>ad humanam naturam quod verbum sit sic humanitati illapsum quod sit sua volitio idem nam eadem est comparatio 
+              <lb ed="#P"/>dei et humanitatis assumptae <pc type="pilcrow"/> Et sic deus humanitatem sibi rapuit cum tanta intimitate quod omnis 
+              <lb ed="#P"/>operatio quae est executiva ad extra <pc type="virgula">/</pc> animae christi realiter competit <pc type="punctus"/> <pc type="pilcrow"/> Unde ex hoc consurgit quod 
+              <lb ed="#P"/>humanitas non per se subsistat sed divina subsistentia <pc type="pilcrow"/> Ex quo consurgit quod sibi compe<lb ed="#P"/>tunt 
+              denominationes concretive <pc type="virgula">/</pc> et hanc ponit <name>sanctus thomas</name> <pc type="punctus"/> sed <name>chaton</name> magis declarat <pc type="virgula">/</pc> unde 
+              <lb ed="#P"/>talis est sensus quod naturam humanam elevavit <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l132-pedcvv">
+              <pc type="pilcrow"/> Ex quo infertur quod <del>caa christi</del> humanitas christi 
+              <lb ed="#P"/>nullo modo est peccabilis Et hoc patet ex duplici radice tum quia omnis sua operatio est supra seipsum 
+              <lb ed="#P"/>et speciali dei motione quare non potest exiret in malum <pc type="punctus"/> tum quia omnis divina cognitio vel volitio est 
+              <lb ed="#P"/>sua cognitio vel volitio
+            </p>
+            <p xml:id="ppra-l132-siquei">
+              <pc type="pilcrow"/> 2o sequitur <sic>correlarie</sic> quod haec unio est summa rectitudo patet per correlarium praedicens 
+            </p>
+            <p xml:id="ppra-l132-tsqmeb">
+              <lb ed="#P"/><pc type="pilcrow"/> 3o sequitur quod haec est formalis beatitudo patet <pc type="virgula">/</pc> quia est summus gradus attingendi summum bonum ergo 
+            </p>
+            <p xml:id="ppra-l132-qsqebs">
+              <pc type="pilcrow"/><lb ed="#P"/> 4o haec beatitudo non dependet ab anima aliquo modo immo potius econtra scilicet a sua beatitudine 
+              <lb ed="#P"/>et in ea subsistat et sui subsistentia est beatifica
+            </p>
+            <p xml:id="ppra-l132-qsqoep">
+              <pc type="pilcrow"/> 5o sequitr quod vi unionis huius est potens 
+              <lb ed="#P"/>ad cuiuslibet effectus productionem quia sic in deum rapta est quod omnis dei cognitio et volitio est sibi 
+              <lb ed="#P"/>cognitio <pc type="pilcrow"/> Ex quo patet quod tam regiminis spiritualis in ecclesia militante quam naturalis in orbe caelesti 
+              <lb ed="#P"/>est causa unibilis immediate subordinata ad omnem effectuum productionem
+            </p>
+            <p xml:id="ppra-l132-eqpedh">
+              <pc type="pilcrow"/> Ex quo patet etiam quod in primo instanti 
+              <lb ed="#P"/>suae conceptionis habuit divinum super omnia astra et suppremum gradum influentiae et supra totam 
+              <lb ed="#P"/>curiam angelorum patet quia omnium quae deus cognoscit cognoscit est bene <pc type="punctus"/> sicut dicunt quasi omnes doctores <unclear>maxime</unclear> 
+              <lb ed="#P"/><ref xml:id="ppra-l132-Rd1e497"><name ref="#RichardOfStVictor">ricardus de sancto victore</name></ref> <pc type="virgula">/</pc> quia sua potentia est per velle imperativum quod est velle divinum 
+              <lb ed="#P"/>tale est infrustrabile Et ex hoc salvabitur quod si ultima intelligentia daretur non posset ad gradum 
+              <lb ed="#P"/>verbi pertingere nisi per unionem ypostaticam patet quia iste est suppremus gradus est et in hoc 
+              <lb ed="#P"/>concordat <name ref="#Augustine">augustinus</name> dicens <quote xml:id="ppra-l132-Qxayb1" source="http://scta.info/resource/adt-l13-d1e1507@1-10">In rebus per tempus ortis nullam maior gratia</quote>
+            </p> 
+            <p xml:id="ppra-l132-eehaee">
+              <pc type="pilcrow"/> Et ex hoc 
+              <lb ed="#P"/>salvatur quod beata virgo habuit suppremum gloriae gradum et tamen non est ita beata sicut anima christi 
+              <lb ed="#P"/>Et tunc <del rend="strikethrough">quia</del> dicitur esse plena gratia quaeritur quo modo adaequabitur christo nam si gloria christi esset creata
+              <lb ed="#P"/><del rend="strikethrough">adaequaeretur</del> salvaretur quod anima christi beatorum esset licet sit plena omni gratia <pc type="virgula">/</pc> et istud misterium debet 
+              <pb ed="#P" n="132-r"/>
+              <lb ed="#P"/>a doctoribus resolvi <pc type="punctus"/>  
+            </p>
+          </div>
+          <div xml:id="ppra-l132-Dd1e525">
+            <head xml:id="ppra-l132-Hosiosi">Opinio Scoti</head>
+            <p xml:id="ppra-l132-cthsvs">
+              <pc type="pilcrow"/> Sed contra hoc arguit <ref xml:id="ppra-l132-Rd1e534"><name ref="#Scotus">scotus</name></ref> <pc type="virgula">/</pc> nam communis oppinio tenet quod unio 
+              <lb ed="#P"/>ypostatica non facit nisi supplere vicem suppositi et verbum nullam gratiam confert naturae 
+              <lb ed="#P"/>eo modo <pc type="punctus"/> Et dicunt quod posset in puris naturalibus <unclear>substentare</unclear> naturam <pc type="pilcrow"/> Unde <name>scotus</name> 
+              <lb ed="#P"/>arguit nam natura per prius subsistit in se quam exeat in actum <pc type="punctus"/> quia actiones 
+              <lb ed="#P"/>sunt suppositorum et actus primus ergo etc 
+            </p>
+            <p xml:id="ppra-l132-airlps">
+              <pc type="virgula">/</pc> consequentia tamen sua neganda est quoniam non potest esse subsistentia 
+              <lb ed="#P"/>aliena nisi verbum dei concurrit 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l132-scasnc">
+              alio modo nam materia <unclear>congita</unclear> immutat animam meam vitaliter 
+              <lb ed="#P"/>secus autem est de alia quare tunc oportet ponere influxum respectu <unclear>patientis</unclear> si recipientis <pc type="punctus"/> Et sic 
+              <lb ed="#P"/>oppinio <ref xml:id="ppra-l132-Rd1e553"><name>scoti</name></ref> non esset vera 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l132-Dxxyy1">
+          <head xml:id="ppra-l132-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l132-xxxyy3">
+            <pc type="pilcrow"/> Secuntur distinctiones textuales conclusio prima distinctionis primae quae est de 
+            <lb ed="#P"/>iudicio et iudicatis et est dubium utrum deus exerceat equaliter iudicium secundum misericordiam et iustitiam 
+            <lb ed="#P"/>Ad quod respondetur quod ita <pc type="punctus"/> unde poenam quam malus sive dampnatus non dicitur sibi 
+            <lb ed="#P"/>mala nec inducit in deum malefacere cuius causa est quoniam melius est deampnato ut sic 
+            <lb ed="#P"/>affligatur quam si non nam mediate ipsa poena aliqualiter reordinatur quare potius sibi poena 
+            <lb ed="#P"/>est eligenda quam fugienda
+          </p>
+          <p xml:id="ppra-l132-xxxyy4">
+            <pc type="pilcrow"/> Quantum tamen ad notitiam sensualem sit laesiva <pc type="punctus"/> hoc non obstante 
+            <lb ed="#P"/>adhuc deus exercet suam misericordiam <pc type="punctus"/> nam quodlibet peccatum dignum est infinita poena igitur deus 
+            <lb ed="#P"/>faciendo poenam finitam misericorditer agit <pc type="punctus"/> et hoc non est mirandum ratione divinae immensitatis 
+          </p>
+          <p xml:id="ppra-l132-xxxyy5">
+            <pc type="pilcrow"/> Quantum 
+            <lb ed="#P"/>ad iudices dicitur quod christus iudicabit in forma servi ut sit in poena dampnatorum bonus autem 
+            <lb ed="#P"/>apparabit in specie glorificat <pc type="punctus"/> nec mali sic ipsum videbunt 
+          </p>
+          <p xml:id="ppra-l132-xxxyy6">
+            <pc type="pilcrow"/> Deinde apostoli iudicabunt 
+            <lb ed="#P"/>iuxta hoc sedebit super sedes 12 iudicantes 12 tribus israhel <pc type="punctus"/> allam <pc type="punctus"/>s
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
