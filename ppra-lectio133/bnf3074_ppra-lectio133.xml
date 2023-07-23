@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 133, de Libertate [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 133, de Libertate [Bnf 3074 Transcription]</title>
+          <date when="2023-07-22">July 22, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="132-r"/> 
+      </div>
+    </front>
+    <body>
+      
+      <div xml:id="ppra-lectio133">
+      <head xml:id="ppra-l133-Hldildi">Lectio 133, de Incarnatione</head>
+        <div>
+          <head xml:id="ppra-l133-Hcqchvc">Conclusio: quod christi humanitas non sit homo nec humanitas et verbum simul sunt homo vel christus</head>
+          <p xml:id="ppra-l133-edasfd">
+            <lb ed="#P"/>Consequenter circa materiam praetactam de ypostatica unione qua inferebatur quod <del rend="strikethrough">b</del> christus non 
+            <lb ed="#P"/>erat homo nec humanitas sed <del rend="strikethrough">homo</del> est illa simplissima 2a persona <pc type="punctus"/> Ita quod christus supponit pro illa 
+            <lb ed="#P"/>quae quidam aeternaliter a patre processit <pc type="punctus"/> nec est <sic>agregatum</sic> ex duabus naturis nec aliquis est filius 
+            <lb ed="#P"/>hominis quin sit filius dei
+          </p> 
+          <p xml:id="ppra-l133-eqsnfh">
+            <pc type="pilcrow"/> Ex quo sequitur tales propositiones esse possibiles aliquis homo fuit ab aeterno 
+            <lb ed="#P"/>et tamen nonquam fuit homo <pc type="punctus"/> <pc type="virgula">/</pc> 
+          </p> 
+          <p xml:id="ppra-l133-acspeh">
+            <pc type="pilcrow"/> 2a propositio stat quod humanitas eius nonquam fuit patet sumendo primum instans incarnationis 
+            <lb ed="#P"/>spiritus sancti <pc type="punctus"/> tamen in hoc spiritus sanctus est homo et ille homo est ab aeterno fuit et tamen ante hoc non fuit homo et tamen 
+            <lb ed="#P"/>sequitur iste homo ab aeterno fuit patet hoc manifeste quia res est coaeva patri et tamen nonquam fuit homo
+          </p>
+          <p xml:id="ppra-l133-saqset">
+            <pc type="pilcrow"/> 3a 
+            <lb ed="#P"/>humanitas eius nonquam fuit <pc type="virgula">/</pc> Similiter aliquis homo fuit ab aeterno et ille idem est aeternaliter homo et tamen 
+            <lb ed="#P"/>non habentem nec habebit <pc type="virgula">/</pc> patet hoc in casu in quo instans incarnationis eius esset unicum instans durationis 
+            <lb ed="#P"/>tunc sequitur ut prius <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l133-sieset">
+            <pc type="pilcrow"/> Similiter sequitur aliquis homo creavit animam suam et corpus sibi univit 
+            <lb ed="#P"/>organizavit etc talia <pc type="punctus"/> patet <pc type="virgula">/</pc> quia verbum dei est <quote xml:id="ppra-l133-Qpqoofs" source="http://scta.info/resource/io1_3">per quod omnia facta sunt</quote> potest <unclear>hoc</unclear> <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l133-sahios">
+            Similiter sequitur quod aliquis homo creavit nostrem suam ex qua humanitatem sumpsit <pc type="punctus"/> Ista nempe sunt clarissima <pc type="pilcrow"/> Unde pro 
+            <lb ed="#P"/>regula dicendum est quod de unione ipsius verbi dei conformiter est ymaginandum sicut de substantia respectu albedinis nam 
+            <lb ed="#P"/>sicut substantia non est <sic>agregatum</sic> vel compositum ex subiecto et accidente sed subsistentia unita <pc type="punctus"/> ita christus 
+            <lb ed="#P"/>non est <unclear>agregatum</unclear> est humanitate et natura <pc type="punctus"/> sed est cui unita est natura humana <pc type="punctus"/> sicut patet de albo quod 
+            <lb ed="#P"/>fuit antiquam fuerit albedinem de christo dicitur ita quod fuit antequam fuit homo 
+          </p> 
+          <p xml:id="ppra-l133-emdhua">
+            <pc type="punctus"/> Et ista via probabilior et facilior 
+            <lb ed="#P"/>est ad subsistendum non tamen dicitur quod per modum accidentis inhaereat quia non est ibi forma passiva <pc type="punctus"/> sed habet 
+            <lb ed="#P"/>similitudines ad substantiam respectu accidentis et in hoc consistit ratio denominativum concretivarum <pc type="punctus"/> vel consur<lb ed="#P"/>git 
+            ex hoc <pc type="punctus"/> non tamen propter hoc vocatur haec unio accidentalis nec proprie essentialis 
+          </p> 
+          <p xml:id="ppra-l133-tddios">
+            sed se habet per 
+            <lb ed="#P"/>modum insertionis sicut ramus inseritur trunco <pc type="punctus"/> sicut ait <name>gerardus</name> taliter tamen quod remanet 
+            <lb ed="#P"/>naturarum distinctio et unica subsistentia facilior tamen modus cognoscendi est sicut accidentaliter ad suum subiectum 
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-l133-Hprones">Propositiones</head>
+          <p xml:id="ppra-l133-dammpp">
+            <lb ed="#P"/><pc type="pilcrow"/> Descendendo igitur ad materiam aperiendam ponuntur aliquae propositiones 
+          </p>
+          <p xml:id="ppra-l133-peneai">
+            quarum prima non stat sine 
+            <lb ed="#P"/>cum hoc in alio sine sui multiplicatione patet hoc nam in se subsistere privat vel negat 
+            <lb ed="#P"/>in aliam subsistentiam subsistere secundum doctores igitur non stat ut supra
+            
+          </p>
+          <p xml:id="ppra-l133-spnpss">
+            <pc type="pilcrow"/>2a propositio non videtur 
+            <lb ed="#P"/>implicare quod in duobus <add place="above-line"><unclear>harum</unclear></add> eadem natura posita sic quod imitatur rei alteri et per consequens per multitudinem 
+            <lb ed="#P"/>unius naturae in diversis sitibus non videtur talis repugnantia quo dato staret humanitatem christi 
+            <lb ed="#P"/>in caelo esse in verbo unito <pc type="punctus"/> et haec propositio supposito <del rend="strikethrough">inniti</del> subsistere <pc type="punctus"/> et sibi inniti
+          </p>
+          <p xml:id="ppra-l133-tpnhia">
+            <pc type="pilcrow"/> 3a propositio 
+            <lb ed="#P"/>non videtur implicare quod per replicationem nature in eodem situ adaequato subsistat in proprio 
+            <lb ed="#P"/>supposito et innitatur alieno <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l133-qpqips">
+            <pc type="pilcrow"/> 4a propositio quamvis propriis ypostasibus subsistere sit proprium 
+            <lb ed="#P"/>divinae naturae pluribus tamen non repugnat creaturae subsistere realiter distinctis non tamen 
+            <lb ed="#P"/>sibi propriis 
+          </p>
+          <p xml:id="ppra-l133-ppqits">
+            <pc type="virgula">/</pc> prima pars propositionis patet nam divina essentia consistit sive subsistit in tribus 
+            <lb ed="#P"/>suppositis modo nulla creatura est reperibilis quae sit trina suppositaliter et una essentialiter igitur 
+            <lb ed="#P"/>solum competit secundum naturam propriam divinae naturae
+          </p>
+          <p xml:id="ppra-l133-sppdqc">
+            <pc type="pilcrow"/> 2a pars propositionis declatur nam sicut filius terminat 
+            <lb ed="#P"/>dependentiam naturae humanae <pc type="punctus"/> ita non videtur quod habeat ad patrem in divinis eamdem habitudinem 
+            <lb ed="#P"/>Et sic eadem natura esset assumpta a 3bus personis in divinis et hanc conclusionem concedunt 
+            <lb ed="#P"/>doctores concorditer
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-l133-corria">Corollaria</head>
+          <p xml:id="ppra-l133-eqsdss">
+            <pc type="pilcrow"/> Ex quo sequitur primo quod staret multiplicari homines absque nova rei productione 
+            <lb ed="#P"/>patet <pc type="virgula">/</pc> nam data natura assumpta sine nova productione stat quod pater assumat eam conclusio dato 
+            <lb ed="#P"/>pater erit homo <pc type="punctus"/> et ita de spiritu sancto 
+          </p> 
+          <p xml:id="ppra-l133-eqaqeh">
+            <pc type="punctus"/> et sic erunt 3es homines <pc type="punctus"/> et tamen non erit aliquid de novo genitum 
+            <pb ed="#P" n="132-v"/>
+            <lb ed="#P"/>non ponendo unionem distinctam ab extremis unibilibus
+          </p> 
+          <p xml:id="ppra-l133-csqema">
+            <pc type="pilcrow"/> consimiliter stat fieri plures 
+            <lb ed="#P"/>homines absque hoc quod sint plures animae et hoc patet sicut prius <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l133-cehteh">
+            <pc type="pilcrow"/> Consequenter sequitur ex ypothesi data 
+            <lb ed="#P"/>quod angelus posset naturam humanam suppositare de quo dubium non modica videtur esse inter 
+            <lb ed="#P"/>doctores <pc type="pilcrow"/> Ex quo sequeretur etiam infinitos fieri homines in ipsa unione absque nova rei multitudine 
+            <lb ed="#P"/>sive productione
+          </p>
+          <p xml:id="ppra-l133-ssqaof">
+            <pc type="pilcrow"/> Ex quo sequitur quod virgo gloriosa unica generatione qua genuit ihesum adaequate 
+            <lb ed="#P"/>potuit generare particulares filios patet <pc type="virgula">/</pc> nam si in eodem supposito formaliter ipsa concurrente <add place="above-line">uniformiter se habendo</add> potuisset
+            <lb ed="#P"/>3es filios generasse 
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-l133-eqaaof">
+            ymmo et potuit infinitos etiam absque hoc quod aliter causaliter concurrisset <pc type="punctus"/> patet 
+            <lb ed="#P"/>nam ex multitudine subsistentiarum arguitur multiplicatio hominum <pc type="punctus"/> <pc type="pilcrow"/> Sed utrum creatura posset eam suppositare 
+            <lb ed="#P"/>non habemus hoc ex fide <pc type="punctus"/> licet <unclear>probabile</unclear> forte esset ponere arguitive
+          </p> 
+        </div>
+        <div>
+          <head xml:id="ppra-l133-Hdeiftas">Difficultas</head>
+          <p xml:id="ppra-l133-ctpthu">
+            <pc type="pilcrow"/> Unde circa praesentem materiam 
+            <lb ed="#P"/>plures occurrunt difficultates una est utrum essentia possit esse terminus essentialis huius unionis ad 
+            <lb ed="#P"/>talem sensum quod si distinguerentur <pc type="virgula">/</pc> essentia esset terminus essentialis dicitur tamen quod non 
+          </p>
+          <p xml:id="ppra-l133-adqnep">
+            <pc type="punctus"/> licet aliqui dicant oppositum 
+            <lb ed="#P"/>nam terminare dependentiam alicuius non est proprietas personalis <pc type="punctus"/> non reducibilis ad genus 
+            <lb ed="#P"/>causae efficientis vel finalis <pc type="virgula">/</pc> nam si reduceretur esset habitudo distincta <pc type="virgula">/</pc> modo trinitatis 
+            <lb ed="#P"/>opera sunt indistincta <pc type="virgula">/</pc> unde si hoc esset conclusio pater esset incarnatus sicut filius quod est contra fidem 
+            <lb ed="#P"/>ergo essentia non potest competere nisi in esse personali et secundum aliquam suarum subsistentiarum 
+            <lb ed="#P"/>sic quod trium personarum est unica essentia <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l133-shehel">
+            <pc type="pilcrow"/> Sunt et aliae difficultates una est utrum idem sumptum 
+            <lb ed="#P"/>possit esse subsistentia diversarum personarum <pc type="virgula">/</pc> Et respondetur quantum ad hoc quod sic sicut doctores 
+            <lb ed="#P"/>tenent Ita quod sicut verbum divinum est subsistentia naturae humanae <pc type="punctus"/> ita naturae angelicae 
+            <lb ed="#P"/>Et sic haberemus concedere quod angelus potest esse lapis et homo asinus quo posito verbum 
+            <lb ed="#P"/>esset asinus substendendo <add place="above-line">naturam asinam</add> et idem substendendum naturam humanam esset homo <pc type="punctus"/> <pc type="virgula">/</pc> et sic isto modo ista esset possibilis homo
+            <lb ed="#P"/>est lapis homo est asinus <pc type="punctus"/> nec aliqua eo modo esset impossibilis 
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-l133-svrsvr">Suppositiones vel regulae</head>
+          <p xml:id="ppra-l133-uamsvr">
+            <pc type="pilcrow"/> Ulterius igitur ad magis materiam 
+            <lb ed="#P"/>particularizandum videndo quae praedicata competant supposito divino notavi propositiones aliquas michi 
+            <lb ed="#P"/>fore ponendas licet aliqui magistrorum nostrorum ymmo communiter nulli faciunt de hiis mentionem 
+            <lb ed="#P"/>quae per iuvenibus pono per modum regularum ut melius unioni ypostatice materiam percipiat 
+          </p>
+          <p xml:id="ppra-l133-prepim">
+            <lb ed="#P"/><pc type="pilcrow"/>Prima igitur regula est nullum praedicatum importans deformitatem vel culpam potest vi unionis doe 
+            <lb ed="#P"/>competere <pc type="punctus"/> patet <pc type="virgula">/</pc> quia nephas esset dicere quod deus peccaret <pc type="punctus"/> quoniam ex intimitatem dei ad naturam 
+            <lb ed="#P"/>assumptam redditur inpeccabilis quia talis natura non agit nisi a deo mota <pc type="punctus"/> modo certum est
+            <lb ed="#P"/>quod operationes dei non possunt esse nisi recte <pc type="punctus"/> iuste et sancte <pc type="virgula">/</pc> nec creatura dirigitur ab eo <pc type="punctus"/> nisi <unclear>iste</unclear> 
+            <lb ed="#P"/>recte et sancte <pc type="virgula">/</pc> aliter non esset perfectus
+          </p>
+          <p xml:id="ppra-l133-srpamc">
+            <pc type="pilcrow"/> 2a regula praedicata denotantia deffectus <pc type="punctus"/> si essent in 
+            <lb ed="#P"/>statu innocentiae non possunt communicari ut sunt primi motus pravi vel mali quiquid non sunt 
+            <lb ed="#P"/>in nostra potestate <pc type="punctus"/> qui etiam in statu innocentiae fuissent mortales immo et veniales essent 
+            <lb ed="#P"/>morales sed ratione nostrae fragilitatis non imputantur nobis ad poenam vel culpam
+          </p>
+          <p xml:id="ppra-l133-treqeh">
+            <pc type="pilcrow"/> 3a regula praedicata 
+            <lb ed="#P"/>quae naturae <add place="above-line"><unclear>humanae</unclear></add> sunt propria et inseparabilia non possunt supposito communicari sicut esse humanitatem vel animalitatem <pc type="virgula">/</pc> et sic 
+            <lb ed="#P"/>de aliis essentialibus et propriis naturae humane <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l133-qrosps">
+            <pc type="pilcrow"/> 4a regula omnia praedicata de praesenti concretiva competunt 
+            <lb ed="#P"/>naturae humanae si in proprio supposito subsistenti licet ut bibere comedere et talia huiusmodi et talia sunt verbo dei communicativa 
+            <lb ed="#P"/>eo modo <pc type="virgula">/</pc> Ex quo <pc type="virgula">/</pc> apparet de hoc quod dicitur in sacra scriptura quod verbum comedebat bibebat etc
+          </p>
+          <p xml:id="ppra-l133-qriahp">
+            <lb ed="#P"/><pc type="pilcrow"/> 5a regula illa praedicata concretiva quae dicerentur de illa natura tempore coniunctionis ad ipsum verbum etiam 
+            <lb ed="#P"/>dicerentur de verbo et competunt supposito assumenti
+          </p>
+          <p xml:id="ppra-l133-srieup">
+            <pc type="pilcrow"/> 6a regula illa praedicata quae dicuntur de illa 
+            <lb ed="#P"/>natura in praeterito vel futuro ante coniunctionem vel unionem non communicantur supposito assumpti 
+            <lb ed="#P"/>verbi gratia sit ita quod naturam <name ref="#Lucifer">luciferi</name> assumat verbum sicut de potentia dei absoluta potest esse 
+            <lb ed="#P"/>tunc de praeterito enunciatur concretive quod haec natura fuit mala et tamen haec natura est verbum ergo 
+            <lb ed="#P"/>sequeretur verbum esse malum <pc type="pilcrow"/> Ita de futuro diceretur suo modo <pc type="punctus"/> nam si verbum assumeret 
+            <lb ed="#P"/>naturam antichristi ante peccatum peccabit quod tamen non attribuitur supposito assumenti quia <unclear>erat</unclear> 
+            <lb ed="#P"/>pro tempore conclusio non erat illa natura coniuncta <pc type="punctus"/> Ideo non sequitur haec natura peccabit demonstrando 
+            <lb ed="#P"/>antichristum ergo hoc suppositum peccabit
+          </p>
+          <p xml:id="ppra-l133-srnucv">
+            <pc type="pilcrow"/> 7ma regula non oportet quod illa praedicata concretiva quae competunt 
+            <lb ed="#P"/>de possibili naturae assumptae competant verbo nisi competant tempore conclusio assumpta est 
+            <lb ed="#P"/>unio illa verba gratia humanitas christi est peccabilis absolute loquendo et tamen verbum non potest peccare quia <unclear>li</unclear> 
+            <lb ed="#P"/>peccabile non sibi competit in unione scilicet christo licet humanitati ipsius ante unionem competeret <pc type="punctus"/> quia talis 
+            <lb ed="#P"/><subst><del rend="strikethrough">praedicatum</del> <add place="above-line">humanitas</add></subst> non est tempore unionis <del rend="strikethrough">reducibilis actum</del> ad actum reducibilis scilicet tempore unionis verbi assumentis
+            <lb ed="#P"/><pc type="pilcrow"/> Ex quo patet quod haec consequentia non valet christus assumit naturam praescitam ergo christus est praescitus 
+            <lb ed="#P"/>quia natura non dicitur praescita quantum ad praesens nec potest verificari stante unione quia staret 
+            <lb ed="#P"/>quod peccaret coniuncta verbo quod non est dicendum 
+          </p>
+          <p xml:id="ppra-l133-ocpaac">
+            <pc type="pilcrow"/> 8va et ultima regula data per modum 
+            <lb ed="#P"/>doctrinae quo ad me propositiones per ecclesiam et sacram scripturam vel doctores sacros approbatae 
+            <lb ed="#P"/>concorditer debet conformiter concedi <pc type="pilcrow"/> unde se reperiatur quod christus sit creatura datur haec 
+            <lb ed="#P"/>regula resolvendi <pc type="punctus"/> videlicet ad talem sensum dicitur deus est creatura id est deus est habens naturam 
+            <lb ed="#P"/>creatam <pc type="virgula">/</pc> Et si sit negativa sicut de multis sensus est quod non habet naturam talem vi cuius non incepit 
+            <lb ed="#P"/>est passibilis dicitur quod resolvendae sunt christus habens naturam passibilem est passibilis <pc type="virgula">/</pc> et alia christus habens natura impassibilem 
+            <lb ed="#P"/>est in passibilis <pc type="punctus"/> et sic resolute non contradicunt <pc type="pilcrow"/> Et ad hunc sensum loquitur doctores variosus sumendo terminos
+            <pb ed="#P" n="133-r"/>
+            <lb ed="#P"/>Et sic ergo debet exponi ad sensum praetactum scilicet ecclesiae sacrae scripturae et doctorum 
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-l133-Hcorria">Corollaria</head>
+          <p xml:id="ppra-l133-sednph">
+            <pc type="pilcrow"/> Sequitur 
+            <lb ed="#P"/>consequenter ex dictis quod humanitas dimissa non esset <name ref="#Jesus">ihesus</name> <pc type="punctus"/> licet illud dimissum esset homo patet quia 
+            <lb ed="#P"/>christus est verbum dei et non supponit pro humanitate praecise
+          </p>
+          <p xml:id="ppra-l133-peuues">
+            <pc type="pilcrow"/> Ulterius sequitur quod humanitate dimissa verbum 
+            <lb ed="#P"/>desineret esse filius virginis <pc type="punctus"/> quia denominatio concretiva non sibi eo modo competeret quare 
+            <lb ed="#P"/>tunc non haberet matrem <pc type="virgula">/</pc> sed tamen haberet semper patrem <pc type="punctus"/> <pc type="pilcrow"/> Consequenter diceretur quod homo dimissa 
+            <lb ed="#P"/>humanitate non esset <unclear>homo</unclear>
+          </p>
+          <p xml:id="ppra-l133-sancis">
+            <pc type="pilcrow"/> Item sequitur quod assumpta natura cum cicatricibus vulnerum <pc type="punctus"/> non sequitur 
+            <lb ed="#P"/>iste homo fuit passus in cruce <pc type="virgula">/</pc> patet quia natura <add place="above-line">divina</add> non subsistit et sic suppositum non fuit 
+            <lb ed="#P"/>passum
+          </p>
+          <p xml:id="ppra-l133-eqsqmc">
+            <pc type="pilcrow"/> Ulterius sequitur quod si verbum assumeret natura sortis in matre sortis non propter hoc esset filius 
+            <lb ed="#P"/>matris sortis patet quia est aliud suppositum et in praeterito erat in alio supposito <pc type="pilcrow"/> Sed si 
+            <lb ed="#P"/>quaeratur quam habitudinem habebit ad matrem sortis et quaeratur utrum eo modo lege stante posset 
+            <lb ed="#P"/>matrimonium cum ea contrahere quia non attinet ei in aliquo gradu <pc type="punctus"/> <pc type="pilcrow"/> Respondetur ad hoc quod 
+            <lb ed="#P"/>non obstante quod non sibi attineat nihilominus non potest cum ea matrimonium contrahere <pc type="virgula">/</pc> ratione 
+            <lb ed="#P"/>legis et licet non sit affinitas generis tamen est naturae <pc type="punctus"/> et non suppositi <pc type="virgula">/</pc> et ista est ratio quare 
+            <lb ed="#P"/>prohibetur affinitas in aliquibus matrimoniis
+          </p>
+          <!--
+            doesn't seem present (although its fuzzy)
+            <p xml:id="ppra-l133-cqqaud">
+            Consequenter, 
+            infero quod non sequitur 
+            verbum assumpsit naturam triginta annorum, 
+            igitur verbum est triginta annorum, 
+            nam si assumpserit naturam triginta annorum heri, 
+            tunc verbum est aetatis unius diei.
+          </p>-->
+          <p xml:id="ppra-l133-schpta">
+            <pc type="pilcrow"/> Ex quo infertur quod haec consequentia non valet christus 
+            <lb ed="#P"/>assumit natura 30ta annorum ergo christus 30 annorum <pc type="virgula">/</pc> et causa est quia denominatio competens naturae in praeterito 
+            <lb ed="#P"/>non competit in praesenti <pc type="punctus"/> Et ideo non sequitur haec natura est 30ta annorum ergo etc quoniam licet appareat de 
+            <lb ed="#P"/>praesenti ipsa est potius de praeterito quare consequentia non valet
+          </p>
+          <p xml:id="ppra-l133-ascmpd">
+            <pc type="virgula">/</pc> Et de tali materia loquitur <ref><name ref="#NicholasOresme">venerabilis 
+            <lb ed="#P"/>doctor magister nicholaus oresme</name> in tractatu suo <title>de communicatione ydiomatum</title></ref> ad quem 
+            <lb ed="#P"/>studere hoc volentes remitto <pc type="punctus"/> et hoc de isto <pc type="virgula">/</pc> Sequitur de unione ypostatica respectu virginis gloriosae 
+            <lb ed="#P"/>sicut promisit magister pro ultima lectione
+          </p>
+        </div>
+        <div xml:id="ppra-l133-Dxxzz1">
+          <head xml:id="ppra-l133-Hxxzz2">Conclusiones</head>
+          <p xml:id="ppra-l133-yxxzz3">
+            <pc type="pilcrow"/> Secuntur distinctiones conclusio primae qua quaeritur utrum mali 
+            <lb ed="#P"/>semper peccabunt quamdiu in inferno erunt <pc type="punctus"/> Ad quod respondetur quod dampnati et daemones 
+            <lb ed="#P"/>peccant saepe et continue et tamen non demerentur <pc type="virgula">/</pc> unde mandatum est in lege <pc type="punctus"/> dili<lb ed="#P"/>gere 
+            dominum et proximum modo certum est quod non diligunt deum nec proximum quare sequitur quod tamquam legis transgressorem 
+            <lb ed="#P"/>peccant <pc type="punctus"/> sed habitus suae malitiae non crescit licet non excuset suam malitiam
+          </p>
+          <p xml:id="ppra-l133-yxxzz4">
+            <pc type="pilcrow"/> Quantum 
+            <lb ed="#P"/>ad 2m non demerentur quia status meriti est mihi via <pc type="virgula">/</pc> modo tales non sunt in via
+          </p>
+          <p xml:id="ppra-l133-yxxzz5">
+            <pc type="pilcrow"/> Consequenter 
+            <lb ed="#P"/>exponit quid vocentur tenebrae exteriores et dicit quod est status dampnatorum ubi privatur omni bono <pc type="virgula">/</pc> 
+            <lb ed="#P"/>Sed sequebatur ante ista <unclear>conclusio</unclear> quae est penultima respectu praecedentis quae quidam est de mansionibus <pc type="punctus"/> unde 
+            <lb ed="#P"/>mansiones multae sunt scilicet gradus exaltarum vel meritorum cum quibus beati in via decessrunt 
+            <lb ed="#P"/>quare perceptio suae gloriae secundum ipsos gradus erit Et ita de dampnatis gradualis poena 
+            <lb ed="#P"/>quia qui plus peccaverit plus de poena capiet <pc type="virgula">/</pc> unde potentes <unclear>pote?r?<!-- corrected above line somehow --></unclear> tormenta patientur
+            <lb ed="#P"/><del rend="strikethrough">et hoc secundum gratiae vel demeriti gradum</del>
+          </p>
+          <p xml:id="ppra-l133-yxxzz6">
+            <lb ed="#P"/> <pc type="pilcrow"/> de alio poena infligitur secundum quantitatem peccati unde si graviora 
+            <lb ed="#P"/>peccata et poenas graviores patientur ut iam dictum est <pc type="punctus"/> Est una in inferno <unclear>generalis</unclear> poena <pc type="punctus"/> 
+            <lb ed="#P"/>videlicet privatio visionis dei <pc type="punctus"/> alia sunt multa poenarum genera <pc type="punctus"/> de parvulis tamen eis carentia divinae 
+            <lb ed="#P"/>gloriae nec patiuntur aliud ut dicunt doctores intelligendo de morientibus non baptizantis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
