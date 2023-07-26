@@ -224,20 +224,20 @@
                <lb ed="#P" n="11"/>fidem et sic non esset fidelis nec tamen haberet habitum oppositum infidelitatis
              </p> 
              <p xml:id="ppra-l1-qqsdai">
-               <lb ed="#P" n="12"/> 5o quia sunt manuductive 
-               <lb ed="#P" n="13"/>ad fidem aliqualiter et dispositive ad ipsam <pc type="punctus"/> 
+               <pc type="pilcrow"/> 5o quia sunt manuductive 
+               <lb ed="#P" n="12"/>ad fidem aliqualiter et dispositive ad ipsam <pc type="punctus"/> 
              </p> 
              <p xml:id="ppra-l1-spciaf">
                <pc type="pilcrow"/> 6o pie credendo verisimile est quod deus suppleat 
-               <lb ed="#P" n="14"/>residuum <pc type="punctus"/> ex quo homo facit diligentiam in acquirendo fidem
+               <lb ed="#P" n="13"/>residuum <pc type="punctus"/> ex quo homo facit diligentiam in acquirendo fidem
              </p>
              <p xml:id="ppra-l1-ssqfes">
                <pc type="pilcrow"/> 7m staret quod quis crederet propter 
-               <lb ed="#P" n="15"/>rationem <pc type="punctus"/> post ea pro fidem sicut stat quod aliquis incipiat aliquid habendo respectu ad malum finem 
-               <lb ed="#P" n="16"/>et tandem habendo respectum ad bonum finem <pc type="punctus"/> illam operationem continuet <pc type="punctus"/> sicut patet de eunte ad ecclesiam 
-               <lb ed="#P" n="17"/>pro lucrando distributiones qui post <unclear>ea</unclear> et est in devotione propter deum <pc type="virgula">/</pc> sicut etiam de pagano <pc type="punctus"/> 
-               <lb ed="#P" n="18"/>qui convertitur ad fidem <del rend="strikethrough">xut<!-- possibly something added above? --></del> propter aliquod bonum spirituale <pc type="virgula">/</pc> et posteam deo credit propter ipsum <pc type="pilcrow"/>unde <name>altissiodorensis</name>
-               <lb ed="#P" n="19"/>dicit quod <quote>propter bona temporalia promoventur simplices ad veram dei dilectionem</quote>
+               <lb ed="#P" n="14"/>rationem <pc type="punctus"/> post ea pro fidem sicut stat quod aliquis incipiat aliquid habendo respectu ad malum finem 
+               <lb ed="#P" n="15"/>et tandem habendo respectum ad bonum finem <pc type="punctus"/> illam operationem continuet <pc type="punctus"/> sicut patet de eunte ad ecclesiam 
+               <lb ed="#P" n="16"/>pro lucrando distributiones qui post <unclear>ea</unclear> et est in devotione propter deum <pc type="virgula">/</pc> sicut etiam de pagano <pc type="punctus"/> 
+               <lb ed="#P" n="17"/>qui convertitur ad fidem <del rend="strikethrough">xut<!-- possibly something added above? --></del> propter aliquod bonum spirituale <pc type="virgula">/</pc> et posteam deo credit propter ipsum <pc type="pilcrow"/>unde <name>altissiodorensis</name>
+               <lb ed="#P" n="18"/>dicit quod <quote>propter bona temporalia promoventur simplices ad veram dei dilectionem</quote>
                
              </p>
              <!-- doesn't seem to be present 
@@ -253,8 +253,8 @@
              -->
              <p xml:id="ppra-l1-pirfes">
                <pc type="pilcrow"/> Propter praedictas rationes 
-               <lb ed="#P" n="20"/>ergo non immerito praecipit <ref xml:id="ppra-l1-Rd1e2153" corresp="#ppra-l1-Qpsofes"><name ref="#Paul">apostolus petrus</name></ref> specialiter praelatis ut <quote xml:id="ppra-l1-Qpsofes" source="http://scta.info/resource/Ipetr3_15@8-22">parati sint omni poscenti reddere 
-               <lb ed="#P" n="21"/>rationem de eis quae in eis sunt fide et spe</quote> 
+               <lb ed="#P" n="19"/>ergo non immerito praecipit <ref xml:id="ppra-l1-Rd1e2153" corresp="#ppra-l1-Qpsofes"><name ref="#Paul">apostolus petrus</name></ref> specialiter praelatis ut <quote xml:id="ppra-l1-Qpsofes" source="http://scta.info/resource/Ipetr3_15@8-22">parati sint omni poscenti reddere 
+               <lb ed="#P" n="20"/>rationem de eis quae in eis sunt fide et spe</quote> 
              </p>
            </div>
            <div xml:id="ppra-l1-Dd1e2180">
@@ -266,12 +266,12 @@
                  <supplied>Prima conclusio</supplied>
                </head>
                <p xml:id="ppra-l1-equeri">
-                 <lb ed="#P" n="22"/>Ex quibus ultra sequitur quod fides est proprie sanitas 
-                 <lb ed="#P" n="23"/>intellectus <pc type="punctus"/> sicut peccatum fuit ipsius morbus <pc type="punctus"/> <pc type="pilcrow"/> nam per peccatum fuit non solum voluntas vulnerata 
-                 <lb ed="#P" n="24"/>sed etiam intellectus <pc type="punctus"/> per fidem autem sanatur sicut voluntas per caritatem illuminatur Ideo dura est a principio 
-                 <lb ed="#P" n="25"/><pc type="pilcrow"/> Unde et <name>apostolous</name> <pc type="punctus"/> dura fuit <pc type="punctus"/> dicebat enim <pc type="pilcrow"/> <quote>durus est hic sermo et quis potest eum audire</quote>
-                 <lb ed="#P" n="26"/>Ratio est quia dividit anima a carnalibus elongendo eam usque ad contemptum sui <pc type="pilcrow"/> unde 
-                 <lb ed="#P" n="27"/><ref xml:id="ppra-l1-Rd1e2279"><name ref="#Paul">apostolus</name></ref> <quote xml:id="ppra-l1-Qveeoga" source="http://scta.info/resource/hebr4_12">vivus et efficax est sermo dei <pc type="punctus"/> et penetrabilior omni gladio ancipiti</quote> 
+                 <pc type="pilcrow"/> Ex quibus ultra sequitur quod fides est proprie sanitas 
+                 <lb ed="#P" n="21"/>intellectus <pc type="punctus"/> sicut peccatum fuit ipsius morbus <pc type="punctus"/> <pc type="pilcrow"/> nam per peccatum fuit non solum voluntas vulnerata 
+                 <lb ed="#P" n="22"/>sed etiam intellectus <pc type="punctus"/> per fidem autem sanatur sicut voluntas per caritatem illuminatur Ideo dura est a principio 
+                 <lb ed="#P" n="23"/><pc type="pilcrow"/> Unde et <name>apostolous</name> <pc type="punctus"/> dura fuit <pc type="punctus"/> dicebat enim <pc type="pilcrow"/> <quote>durus est hic sermo et quis potest eum audire</quote>
+                 <lb ed="#P" n="24"/>Ratio est quia dividit anima a carnalibus elongendo eam usque ad contemptum sui <pc type="pilcrow"/> unde 
+                 <lb ed="#P" n="25"/><ref xml:id="ppra-l1-Rd1e2279"><name ref="#Paul">apostolus</name></ref> <quote xml:id="ppra-l1-Qveeoga" source="http://scta.info/resource/hebr4_12">vivus et efficax est sermo dei <pc type="punctus"/> et penetrabilior omni gladio ancipiti</quote> 
                </p>
              </div>
              <div xml:id="ppra-l1-Dd1e2330">
@@ -280,23 +280,23 @@
                </head>
                <p xml:id="ppra-l1-acfefv">
                  <pc type="pilcrow"/> Alia conclusio 
-                 <lb ed="#P" n="28"/>non solum fides est meritoria ymmo formaliter est meritum <pc type="punctus"/> quod autem sit meritoria ab 
-                 <lb ed="#P" n="29"/>omnibus conceditur sed quod sit meritum patet per apostolum <quote xml:id="ppra-l1-Qacesai" source="http://scta.info/resource/rom4_3"><name ref="#Abraham">abraham</name> credidit et reputatum est illi ad iustitiam</quote>
-                 <lb ed="#P" n="30"/>Et <ref xml:id="ppra-l1-Rd1e2413" corresp="#l1-Qiefefv"><title ref="#hab">abacuch</title></ref> <quote xml:id="ppra-l1-Qiefefv" source="http://scta.info/resource/hab2_4">Iustus ex fide vivit</quote>
+                 <lb ed="#P" n="26"/>non solum fides est meritoria ymmo formaliter est meritum <pc type="punctus"/> quod autem sit meritoria ab 
+                 <lb ed="#P" n="27"/>omnibus conceditur sed quod sit meritum patet per apostolum <quote xml:id="ppra-l1-Qacesai" source="http://scta.info/resource/rom4_3"><name ref="#Abraham">abraham</name> credidit et reputatum est illi ad iustitiam</quote>
+                 <lb ed="#P" n="28"/>Et <ref xml:id="ppra-l1-Rd1e2413" corresp="#l1-Qiefefv"><title ref="#hab">abacuch</title></ref> <quote xml:id="ppra-l1-Qiefefv" source="http://scta.info/resource/hab2_4">Iustus ex fide vivit</quote>
                </p>
                <p xml:id="ppra-l1-pqeqra">
                  <pc type="pilcrow"/>Pro quo notandum quod cum eadem res sit intellectus et voluntas 
-                 <lb ed="#P" n="31"/>omnino <pc type="punctus"/> tamen alius est actus per quem anima dicitur intellectus scilicet intellectio et alius per quem dicitur voluntas 
-                 <lb ed="#P" n="32"/>scilicet volitio <pc type="punctus"/> Ideo 3es possunt distingui actus <pc type="punctus"/> in anima <pc type="punctus"/> nam quidam sunt cognosci solum ut intellectus 
-                 <lb ed="#P" n="33"/>quidam apprehensivi solum ut volitio <pc type="punctus"/> Quidam vero mixti sunt ex praedictis sicut fides <pc type="punctus"/> spes et 
-                 <lb ed="#P" n="34"/>caritas <pc type="punctus"/> et eorum actus <pc type="punctus"/>
+                 <lb ed="#P" n="29"/>omnino <pc type="punctus"/> tamen alius est actus per quem anima dicitur intellectus scilicet intellectio et alius per quem dicitur voluntas 
+                 <lb ed="#P" n="30"/>scilicet volitio <pc type="punctus"/> Ideo 3es possunt distingui actus <pc type="punctus"/> in anima <pc type="punctus"/> nam quidam sunt cognosci solum ut intellectus 
+                 <lb ed="#P" n="31"/>quidam apprehensivi solum ut volitio <pc type="punctus"/> Quidam vero mixti sunt ex praedictis sicut fides <pc type="punctus"/> spes et 
+                 <lb ed="#P" n="32"/>caritas <pc type="punctus"/> et eorum actus <pc type="punctus"/>
                  
                  <pc type="pilcrow"/> unde sicut actus caritatis est actus voluntatis et tamen est quaedam perfectio 
-                 <lb ed="#P" n="35"/>obiecti et sic pertinet ad intellectum <pc type="punctus"/> principalius tamen ad voluntatem sic econverso fidem principalius est actus intellectus 
-                 <lb ed="#P" n="36"/>partim tamen etiam ad voluntatem Et ideo sicut creatura obligatur ad actus caritatis ita ad actus fidei 
-                 <lb ed="#P" n="37"/>et sicut per diligere debito modo meretur super credere <pc type="punctus"/> Et hoc concordat dictis <ref xml:id="ppra-l1-Rd1e2497" corresp="#ppra-l1-Qcphcnv"><name>augustini</name></ref> dicentis
-                 <lb ed="#P" n="38"/><quote xml:id="ppra-l1-Qcphcnv">cetera potest homo <pc type="punctus"/> nolens credere autem non nisi volens <pc type="pilcrow"/> Item sicut unum crescit et <unclear>re?cum</unclear> <del rend="strikethrough">dr</del> 
-                 <lb ed="#P" n="39"/>videtur plus repugnare augmentatio intensiva respectu huius quam respectu alterius</quote>
+                 <lb ed="#P" n="33"/>obiecti et sic pertinet ad intellectum <pc type="punctus"/> principalius tamen ad voluntatem sic econverso fidem principalius est actus intellectus 
+                 <lb ed="#P" n="34"/>partim tamen etiam ad voluntatem Et ideo sicut creatura obligatur ad actus caritatis ita ad actus fidei 
+                 <lb ed="#P" n="35"/>et sicut per diligere debito modo meretur super credere <pc type="punctus"/> Et hoc concordat dictis <ref xml:id="ppra-l1-Rd1e2497" corresp="#ppra-l1-Qcphcnv"><name>augustini</name></ref> dicentis
+                 <lb ed="#P" n="36"/><quote xml:id="ppra-l1-Qcphcnv">cetera potest homo <pc type="punctus"/> nolens credere autem non nisi volens <pc type="pilcrow"/> Item sicut unum crescit et <unclear>re?cum</unclear> <del rend="strikethrough">dr</del> 
+                 <lb ed="#P" n="37"/>videtur plus repugnare augmentatio intensiva respectu huius quam respectu alterius</quote>
                </p>
                <div xml:id="ppra-l1-Dd1e2535"> 
                  <head xml:id="ppra-l1-Hoatcer">
@@ -304,26 +304,26 @@
                  </head>
                  <p xml:id="ppra-l1-scosec">
                    Sed contra dicta obiceretur unde appareat
-                   <lb ed="#P" n="40"/>quod in daemonibus sit fides <pc type="virgula">/</pc> quia <quote xml:id="ppra-l1-Qceccec" source="http://scta.info/resource/iac2_19">credunt et contremescunt</quote> et tamen non habent caritatem ergo <pc type="pilcrow"/> Item 
-                   <lb ed="#P" n="41"/><ref xml:id="ppra-l1-Rd1e2574" corresp="#ppra-l1-Qfsoome"><name ref="#James">iacobus</name></ref> <quote xml:id="ppra-l1-Qfsoome" source="http://scta.info/resource/iac2_17">fides sine bonis operibus mortua est</quote> Item <ref xml:id="ppra-l1-Rd1e2601" corresp="#ppra-l1-Qshohns"><name ref="#Paul">apostolus</name></ref> <quote xml:id="ppra-l1-Qshohns" source="http://scta.info/resource/Icor13_2">si habuero fidem ita ut montes 
-                   <lb ed="#P" n="42"/>transferam <pc type="punctus"/> caritatem autem non habeam <pc type="punctus"/> nihil sum</quote> ergo contra dictam.
+                   <lb ed="#P" n="38"/>quod in daemonibus sit fides <pc type="virgula">/</pc> quia <quote xml:id="ppra-l1-Qceccec" source="http://scta.info/resource/iac2_19">credunt et contremescunt</quote> et tamen non habent caritatem ergo <pc type="pilcrow"/> Item 
+                   <lb ed="#P" n="39"/><ref xml:id="ppra-l1-Rd1e2574" corresp="#ppra-l1-Qfsoome"><name ref="#James">iacobus</name></ref> <quote xml:id="ppra-l1-Qfsoome" source="http://scta.info/resource/iac2_17">fides sine bonis operibus mortua est</quote> Item <ref xml:id="ppra-l1-Rd1e2601" corresp="#ppra-l1-Qshohns"><name ref="#Paul">apostolus</name></ref> <quote xml:id="ppra-l1-Qshohns" source="http://scta.info/resource/Icor13_2">si habuero fidem ita ut montes 
+                   <lb ed="#P" n="40"/>transferam <pc type="punctus"/> caritatem autem non habeam <pc type="punctus"/> nihil sum</quote> ergo contra dictam.
                  </p> 
                  <p xml:id="ppra-l1-airqip">
                    <pc type="pilcrow"/> Ad ista respondetur sine 
-                   <lb ed="#P" n="43"/>temeraria assertione <pc type="pilcrow"/> Primo ymaginando duplicem fidem unam scilicet acquisitiam per rationes suas vel forte 
-                   <lb ed="#P" n="44"/>derelicta ex actibus credendi <pc type="punctus"/> et ista staret cum peccato <pc type="punctus"/> <pc type="virgula">/</pc> sicut in simili ponimus de caritate acquisita 
-                   <lb ed="#P" n="45"/>cum enim quis peccat et prius dilexerit deum sentit se pronum ad diligendum adhuc deum <pc type="punctus"/> et ista 
-                   <lb ed="#P" n="46"/>pronitas ex caritate ex caritate infusa non provenit quia non stat cum peccato <pc type="punctus"/> sed ex caritate acquisita 
-                   <lb ed="#P" n="47"/>talis fides est bene in daemonibus et de ista possunt intelligi auctoritates praedictae <pc type="punctus"/> <pc type="pilcrow"/> Aliae est fides 
-                   <lb ed="#P" n="48"/>infusa de qua intelligebatur praedicta
+                   <lb ed="#P" n="41"/>temeraria assertione <pc type="pilcrow"/> Primo ymaginando duplicem fidem unam scilicet acquisitiam per rationes suas vel forte 
+                   <lb ed="#P" n="42"/>derelicta ex actibus credendi <pc type="punctus"/> et ista staret cum peccato <pc type="punctus"/> <pc type="virgula">/</pc> sicut in simili ponimus de caritate acquisita 
+                   <lb ed="#P" n="43"/>cum enim quis peccat et prius dilexerit deum sentit se pronum ad diligendum adhuc deum <pc type="punctus"/> et ista 
+                   <lb ed="#P" n="44"/>pronitas ex caritate ex caritate infusa non provenit quia non stat cum peccato <pc type="punctus"/> sed ex caritate acquisita 
+                   <lb ed="#P" n="45"/>talis fides est bene in daemonibus et de ista possunt intelligi auctoritates praedictae <pc type="punctus"/> <pc type="pilcrow"/> Aliae est fides 
+                   <lb ed="#P" n="46"/>infusa de qua intelligebatur praedicta
                  </p>
                  <p xml:id="ppra-l1-ampeno">
                    <pc type="pilcrow"/> Alio modo potest responderi ymaginando quod fides multiplicem 
-                   <lb ed="#P" n="49"/>habeat habitudinem <pc type="punctus"/> unam ad substantiam afficiendi et aliam repraesentandi <pc type="virgula">/</pc> Et tunc diceretur quod possibile est 
-                   <lb ed="#P" n="50"/>absolute stare primam habitudinem aliis duabus substractis <pc type="virgula">/</pc> quia diceretur quod deus ratione indignitatis creaturae 
-                   <lb ed="#P" n="51"/>auffert duas habitudines et non primam et sic fides illa mortua est quia non exit in operationes 
-                   <lb ed="#P" n="52"/>sibi proprias Res autem dicitur mortua quando in proprias operationes exire non potest Ita quod deus 
-                   <lb ed="#P" n="53"/>non vellet concurrere ad tales operationes
+                   <lb ed="#P" n="47"/>habeat habitudinem <pc type="punctus"/> unam ad substantiam afficiendi et aliam repraesentandi <pc type="virgula">/</pc> Et tunc diceretur quod possibile est 
+                   <lb ed="#P" n="48"/>absolute stare primam habitudinem aliis duabus substractis <pc type="virgula">/</pc> quia diceretur quod deus ratione indignitatis creaturae 
+                   <lb ed="#P" n="49"/>auffert duas habitudines et non primam et sic fides illa mortua est quia non exit in operationes 
+                   <lb ed="#P" n="50"/>sibi proprias Res autem dicitur mortua quando in proprias operationes exire non potest Ita quod deus 
+                   <lb ed="#P" n="51"/>non vellet concurrere ad tales operationes
                  </p> 
                </div>
                <div xml:id="ppra-l1-Dd1e2805">
@@ -332,20 +332,20 @@
                  </head>
                  <p xml:id="ppra-l1-strefm">
                    <pc type="pilcrow"/> Sed tunc restat difficultas quia obiectum intellectus 
-                   <lb ed="#P" n="54"/>est verum apparere ergo non fertur nisi in tale <pc type="pilcrow"/> 2o intellectus realiter non est libere <pc type="punctus"/> vel saltem operatio 
-                   <lb ed="#P" n="55"/>eius non est inmediate libera ergo non est formaliter meritum
+                   <lb ed="#P" n="52"/>est verum apparere ergo non fertur nisi in tale <pc type="pilcrow"/> 2o intellectus realiter non est libere <pc type="punctus"/> vel saltem operatio 
+                   <lb ed="#P" n="53"/>eius non est inmediate libera ergo non est formaliter meritum
                  </p> 
                  <p xml:id="ppra-l1-qailaa">
                    <pc type="pilcrow"/> Quantum tamen ad istud 2m de libertate non 
-                   <lb ed="#P" n="56"/>esset impossibile quia agentia naturalia habent instinctum naturalem libertatis excepta cognitione <pc type="pilcrow"/> Unde de igne 
-                   <lb ed="#P" n="57"/>respectu stupe potest deus instituere quod omnibus extrinsicis eodem modo se habentibus potest comburere scupum 
-                   <lb ed="#P" n="58"/>vel non <pc type="punctus"/> <pc type="pilcrow"/> Alio modo diceretur quod actus qui est simul cognitio est quaedam affectio et potest produci 
-                   <lb ed="#P" n="59"/>libere ab anima <pc type="punctus"/>
+                   <lb ed="#P" n="54"/>esset impossibile quia agentia naturalia habent instinctum naturalem libertatis excepta cognitione <pc type="pilcrow"/> Unde de igne 
+                   <lb ed="#P" n="55"/>respectu stupe potest deus instituere quod omnibus extrinsicis eodem modo se habentibus potest comburere scupum 
+                   <lb ed="#P" n="56"/>vel non <pc type="punctus"/> <pc type="pilcrow"/> Alio modo diceretur quod actus qui est simul cognitio est quaedam affectio et potest produci 
+                   <lb ed="#P" n="57"/>libere ab anima <pc type="punctus"/>
                  </p> 
                  <p xml:id="ppra-l1-apaeis">
                    <pc type="pilcrow"/> Ad primum ergo argumentum quod tangit de apparaentia obiecti respectu intellectus in quo 
-                   <lb ed="#P" n="60"/>est difficultas <pc type="pilcrow"/> Dicendum est quod habitus fidei nedum elevat potentiam intellectivam ad credendum sed multipliciter 
-                   <lb ed="#P" n="61"/>fortificat ipsam respectu quarumcumque veritatum quia cum potentia habet dispositionem convenientissimam redditur fortior 
+                   <lb ed="#P" n="58"/>est difficultas <pc type="pilcrow"/> Dicendum est quod habitus fidei nedum elevat potentiam intellectivam ad credendum sed multipliciter 
+                   <lb ed="#P" n="59"/>fortificat ipsam respectu quarumcumque veritatum quia cum potentia habet dispositionem convenientissimam redditur fortior 
                    <pb ed="#P" n="27-r"/>
                    <lb ed="#P" n="1"/>ad suas operationes exercendas <pc type="punctus"/> sicut videmus in elementis et aliis entibus naturalibus <pc type="virgula">/</pc> modo fides 
                    <lb ed="#P" n="2"/>est convenientissima ipsi intellectui <pc type="punctus"/> et tollit dispositionem contrariam <pc type="punctus"/> ideo per fidem intellectus est 
