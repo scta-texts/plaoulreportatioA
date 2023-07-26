@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio1">
+      <head xml:id="ppra-l1-Hd1e123">Lectio 1, de Fide</head>
+      <div xml:id="ppra-l1-Dd1e126">
+        <head xml:id="ppra-l1-Hquipfs">
+          <supplied>Quaestio</supplied>
+        </head>
+        <head type="question-title">
+          <supplied> Utrum in causa iudiciali fidei contra traditionem pure humanitus adinventam
+            iudex idoneus ferret pro fide sententiam </supplied>
+        </head>
+        <p xml:id="ppra-l1-cpspfs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l1-cpspfs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-cpspfs"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l1-Dd1e207">
+        <head xml:id="ppra-l1-Hcccccc">
+          <supplied>Conclusio</supplied>
+        </head>
+        <p xml:id="ppra-l1-eipdlt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l1-eipdlt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-eipdlt"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l1-Dd1e339">
+        <head xml:id="ppra-l1-Hdcfdcf">
+          <supplied>Difficultates circa fidem</supplied>
+        </head>
+        <p xml:id="ppra-l1-shoatd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l1-shoatd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l1-usaafe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l1-usaafe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-usaafe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l1-uaqriv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l1-uaqriv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-uaqriv"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l1-Dd1e825">
+          <head xml:id="ppra-l1-Hpvcfpa">
+            <supplied>Argumenta pro prima via ad imaginandum fidem</supplied>
+          </head>
+          <!-- Doesn't seem present (also omitted in vat) 
+               <p xml:id="ppra-l1-pveain">
+               <app xml:id="ppra-l1-Ainnnob">
+                 <lem>Prima via est 
+                   <name ref="#WilliamOfAuxerre">Altissiodorensis</name> ponentis 
+                   quod intellectus adiutus lumine fidei potest assensum articulorum in se causare 
+                   sine aliqua apparentia extrinseca vel ratione suadente vel inductiva, 
+                   immo ipsum lumen fidei et intellectus sufficiunt 
+                   ad causandum assensum articulorum in nobis</lem>
+               </app>. 
+             </p>-->
+          <p xml:id="ppra-l1-pivqep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-pivqep"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-eqsqre">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-eqsqre"/>
+              
+            </assertions>
+          </p>
+          <div xml:id="ppra-l1-Dd1e1098">
+            <head xml:id="ppra-l1-Hcorria">
+              <supplied>Corollaria primae viae</supplied>
+            </head>
+            <p xml:id="ppra-l1-eqsfss">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-eqsfss"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-ssqsdd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-ssqsdd"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-tsqnee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-tsqnee"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-scoesi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-scoesi"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-qsqfrf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qsqfrf"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-eqsosp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-eqsosp"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-ssqper">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-ssqper"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-osqrnr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-osqrnr"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l1-Dd1e1605">
+          <head xml:id="ppra-l1-Hoapaer">
+            <supplied>Obiectio ad primam viam ad imaginandum fidem et responsio Petri
+              Plaoul</supplied>
+          </head>
+          <p xml:id="ppra-l1-ctindr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-ctindr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-ctindr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-rahrah">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-rahrah"/>
+              
+            </assertions>
+          </p>
+          <!-- reconsider para break -->
+          <p xml:id="ppra-l1-qrpcdi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qrpcdi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-qrpcdi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-senpht">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-senpht"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-tvaaec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-tvaaec"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-qpehio">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qpehio"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-qqsdai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qqsdai"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-spciaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-spciaf"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l1-ssqfes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-ssqfes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-ssqfes"/>
+            </assertions>
+          </p>
+          <!-- doesn't seem to be present 
+             <p xml:id="ppra-l1-ivafes"> 
+               <app xml:id="ppra-l1-Alumsup">
+                <lem>Item, <supplied>octavo</supplied>, 
+                  valent ad infirmitatem humani ingenii sanandam 
+                  quod quid ingenium propter peccatum culpae originalis depressum est et volneratum; 
+                  et roborandum relevandum est per luminem supernaturale</lem>
+                 
+               </app>. 
+             </p>
+             -->
+          <p xml:id="ppra-l1-pirfes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l1-pirfes"/>
+              
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l1-Dd1e2180">
+          <head xml:id="ppra-l1-Hacacac">
+            <supplied>Aliqua conclusiones</supplied>
+          </head>
+          <div xml:id="ppra-l1-Dd1e2188">
+            <head xml:id="ppra-l1-Hpcpcpc">
+              <supplied>Prima conclusio</supplied>
+            </head>
+            <p xml:id="ppra-l1-equeri">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-equeri"/>
+                
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l1-Dd1e2330">
+            <head xml:id="ppra-l1-Hscscsc">
+              <supplied>Secunda conclusio</supplied>
+            </head>
+            <p xml:id="ppra-l1-acfefv">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-acfefv"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-acfefv"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-pqeqra">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-pqeqra"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-pqeqra"/>
+              </assertions>
+            </p>
+            <div xml:id="ppra-l1-Dd1e2535">
+              <head xml:id="ppra-l1-Hoatcer">
+                <supplied>Obiectio et responsio</supplied>
+              </head>
+              <p xml:id="ppra-l1-scosec">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-scosec"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-scosec"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l1-airqip">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-airqip"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-airqip"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l1-ampeno">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-ampeno"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-ampeno"/>
+                </assertions>
+              </p>
+            </div>
+            <div xml:id="ppra-l1-Dd1e2805">
+              <head xml:id="ppra-l1-Hdddddd">
+                <supplied>Duas difficultates de merito fidei</supplied>
+              </head>
+              <p xml:id="ppra-l1-strefm">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-strefm"/>
+                  
+                </assertions>
+              </p>
+              <p xml:id="ppra-l1-qailaa">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qailaa"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-qailaa"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l1-apaeis">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l1-apaeis"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-apaeis"/>
+                </assertions>
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l1-Dd1e2951">
+            <head xml:id="ppra-l1-Hacfacf">
+              <supplied>Aliqua conclusiones finales</supplied>
+            </head>
+            <p xml:id="ppra-l1-itfeii">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-itfeii"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-eehnhf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-eehnhf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-eehnhf"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l1-qeeppn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l1-qeeppn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l1-qeeppn"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
