@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 2 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 2 [Bnf 3074 Transcription]</title>
+          <date when="2023-07-24">June 26, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-07-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="27-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio2">
+        <head xml:id="ppra-l2-Hlprlpr">Lectio 2, de Fide</head>
+        <div xml:id="ppra-l2-Dd1e122">
+          <head xml:id="ppra-l2-Hdgadga">
+            <supplied>Duo genera assensus</supplied>
+          </head>
+          <div xml:id="ppra-l2-Dd1e130">
+            <head xml:id="ppra-l2-Hpgapga">
+              <supplied>Primum genus assensus</supplied>
+            </head>
+            <p xml:id="ppra-l2-idsadf">
+              <lb ed="#P" n="24"/>Consequenter circa materiam praetactam de fide videndum est de assensibus habitis per rationes <pc type="virgula">/</pc> et dicitur quod non sufficiunt 
+              <lb ed="#P" n="25"/>ad causandum vel habendum fidei seu catholice assentiendum patet quia per tales habitus <del rend="strikethrough">credultatis</del> non crederet illa 
+              <lb ed="#P" n="26"/>specie credulitatis quam oportet habere ad fidem 
+            </p>
+            <div xml:id="ppra-l2-Dd1e239">
+              <head xml:id="ppra-l2-Hacsapa">
+                <supplied>Aliquae corollaria sequentes ab primo genere assensu</supplied>
+              </head>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l2-eisaef">
+                <pc type="punctus"/> utrum tamen esset infidelis distinguendum esset et dicitur quod sic quia 
+                <lb ed="#P" n="27"/>tenetur ad habendum fidem et non haberet 
+              </p>
+              <p xml:id="ppra-l2-sddfne">
+                <pc type="pilcrow"/> Ex quo patet quod staret quod communis assentiet 
+                <lb ed="#P" n="28"/>omnibus articulis fidei et esset infidelis et tali habitui potest subesse falsum ut si quis credat iudicium futurum 
+                <lb ed="#P" n="29"/>et assensus quem habet poterit esse falsus <pc type="virgula">/</pc> ut si crederet per rationem probabilem et deus sic ordinet 
+                <lb ed="#P" n="30"/>quod iudicium non erit quia iste assensus non est consimilis habitui fidei infuso et sic assentiendo 
+                <lb ed="#P" n="31"/>si non eveniret deciperetur
+              </p>
+              <p xml:id="ppra-l2-tdqeha">
+                <pc type="pilcrow"/> 2o dicitur quod huiusmodi assensus acquisitus multipliciter secundum multiplicationem 
+                <lb ed="#P" n="32"/>enuntiationum sue obiectorum diversmode repraesentarum Et etiam secundum hoc causant diversos habitus <pc type="punctus"/> Et omnes huiusmodi 
+                <lb ed="#P" n="33"/>assensus <del rend="strikethrough">qui non sunt posteriores</del> acquisiti posteriores rebus a quibus causantur <unclear>enuntiatibus</unclear> 
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l2-Dd1e312">
+            <head xml:id="ppra-l2-Hsgasga">
+              <supplied>Secundum genus assensus</supplied>
+            </head>
+            <p xml:id="ppra-l2-asaeid">
+              <pc type="pilcrow"/> Alia est evidentia 
+              <lb ed="#P" n="34"/>seu assensus qui non sunt posteriores <unclear>enuntiatibus</unclear> et omne divinum iudicium est huiusmodi <pc type="punctus"/> quia nullo modo 
+              <lb ed="#P" n="35"/>dependet a futuro sed est prior <pc type="virgula">/</pc> et habet magis rationem causae quam effectus vel posteriores <pc type="punctus"/> et 
+              <lb ed="#P" n="36"/>hoc testatur et <ref xml:id="ppra-l2-Rcomtor"><name ref="#Averroes">commentator</name> 12o <title>metaphysicae</title></ref>
+            </p>
+            <div xml:id="ppra-l2-Dd1e389">
+              <head xml:id="ppra-l2-Hacssga">
+                <supplied>Aliquae corollaria sequentes ab secundo genere assensu et fide</supplied>
+              </head>
+              <p xml:id="ppra-l2-pvaaqh">
+                <pc type="pilcrow"/> Nunc vero dicitur quod fides non est posterior sed prior 
+                <lb ed="#P" n="37"/>veritati a parte rei <pc type="punctus"/> se tenenti ex parte enuntiabilis sicut assensus dei quem habet respectu istius 
+                <lb ed="#P" n="38"/>Iudicium erit nullo modo dependet a futuro nec eius veritas ex dependentia naturali <pc type="punctus"/> ymmo nec in esse 
+                <lb ed="#P" n="39"/>veri <pc type="punctus"/> et sic nec quo ad esse verum vel apparens dependent <pc type="punctus"/> nec ex rationibus naturalibus alias non esset 
+                <lb ed="#P" n="40"/>vera fides <pc type="punctus"/> Et ergo fides catholica tam actus quam habitus imitatur dictum <pc type="punctus"/> quia sunt priores rationibus 
+                <lb ed="#P" n="41"/>pro illa parte
+              </p>
+              <p xml:id="ppra-l2-sdqven">
+                <pc type="pilcrow"/> 2o dicitur quod talis habitus non dependet ab articulis ideo non multiplicatur secundum multitudinem 
+                <lb ed="#P" n="42"/>articulorum <pc type="punctus"/> sed est eadem fidem respectu omnium articulorum cum non dependeat a rationibus vel articulis 
+                <lb ed="#P" n="43"/>ideo dicendum est quod unica est fides inclinans ad trinitatis articulum et ad alios articulos contingenter et ita 
+                <lb ed="#P" n="44"/>bene fertur in futurum contingens sine deceptione sicut in praeteritum 
+              </p>
+              <p xml:id="ppra-l2-tdqsef">
+                <pc type="pilcrow"/> 3a conditio quod fidei nullo modo 
+                <lb ed="#P" n="45"/>potest subesse falsum et istud specialius inter deo duce tractabitur 
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l2-Dd1e481">
+          <head xml:id="ppra-l2-Hdgvdgv">
+            <supplied>Diversa genera veritatis</supplied>
+          </head>
+          <p xml:id="ppra-l2-eamtsh">
+            <pc type="pilcrow"/> Ad magis apperiendum 
+            <lb ed="#P" n="46"/>materiam et veritatem deordinem veritatum multiplex repritur veritas prima est divina iudicium quod non potest 
+            <lb ed="#P" n="47"/>esse falsum et est veritas immensa <pc type="punctus"/> et infallibilissima pro complexa veritate capiendo <pc type="virgula">/</pc> quia aliter non possumus 
+            <lb ed="#P" n="48"/>explicare divinam tamen essentia ut existens <unclear>imitatur</unclear> vocatur simpliciter <pc type="punctus"/> et incomplexa et ad veritatem complexam factam 
+            <lb ed="#P" n="49"/>res existens considerata in habitudine ad divinum exemplar vocatur veritas 
+            <!-- possible break point -->
+            <pc type="pilcrow"/> 2o modo veritas complexa in rebus est quaedam 
+            <lb ed="#P" n="50"/>conformitas in obiecto causata a divino iudicio sicut <name>sortem</name> currere est veritas derivata a prima veritate quia 
+            <lb ed="#P" n="51"/>deus iudicat sortem currere <pc type="punctus"/> quae est veritas et sic causat in sorte verum <pc type="virgula">/</pc> et iste veritates complexe utrum 
+            <lb ed="#P" n="52"/>sint complexe significabilia <pc type="virgula">/</pc> et posset dici quod non est complexe significabile distinctum a rebus <pc type="virgula">/</pc> sed ipsa res sit 
+            <lb ed="#P" n="53"/>considerata vocatur complexe significabile ut puta secundum illam rationem secundum quam sit localiter vel aliter 
+            <lb ed="#P" n="54"/>movetur sub ista consideratione potest vocari veritas complexa a divino iudicio iudicante ipsam currere 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l2-eqstgv">
+            <pc type="punctus"/> et sic veritas 
+            <lb ed="#P" n="55"/>a parte rei <pc type="punctus"/> prior est <unclear>veritate</unclear> existente in intellectu nostro <pc type="punctus"/> quia veritas intellectus est iudicium conformae veritati 
+            <pb ed="#P" n="27-v"/>
+            <lb ed="#P" n="1"/>et est quasi posterior <unclear>denominatione</unclear> est in re <pc type="punctus"/> 
+            <!-- possible break point -->
+            <pc type="pilcrow"/> 3o est veritas intellectus quasi a veritate rei causata 
+            <lb ed="#P" n="2"/>et introducitur ut fides ponatur in 3o ordine veritatum quia omnes veritates apparentes sunt in 3o gradu 
+            <lb ed="#P" n="3"/>descendendo a prima veritate et fides non habet cum istis connexionem magis tamen discurrendo esset 
+            <lb ed="#P" n="4"/>difficultas tangenda <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l2-Dd1e660">
+          <head xml:id="ppra-l2-Hpbpbpb">
+            <supplied>Propositiones Bradwardini</supplied>
+          </head>
+          <p xml:id="ppra-l2-veqqad">
+            <pc type="pilcrow"/> Unde <ref xml:id="ppra-l2-Rbisbis"><name ref="#Bradwardine">bradouardin</name></ref> ponit ibi aliqua sed alias videbuntur quoniam videtur 
+            <lb ed="#P" n="5"/>incidere in errorem <pc type="punctus"/> <pc type="pilcrow"/> Nichilominus aliquae suarum propositionum ponuntur 
+          </p>
+          <p xml:id="ppra-l2-ppqesp">
+            <!-- possibly here http://scta.info/resource/dcn2br-e27222-d1e127@63-95 -->
+            una est <pc type="virgula">/</pc> quod sicut primum 
+            <lb ed="#P" n="6"/>principium maximum est deus ita primum principium in ordine veritatum complexarum de deo est prima veritas <pc type="punctus"/> ymmo 
+            <lb ed="#P" n="7"/>deum esse est prima veritas Et oportet ut dicit in quolibet genere esse ubi est ordo devenire ad aliquod primum 
+            <lb ed="#P" n="8"/>quod sit causa aliorum illius generis et ita in tota latitudine veritatum complexarum oportet deum primam veritatem 
+            <lb ed="#P" n="9"/>respondere quae est causa veritatum eiusdem generis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l2-iqespi">
+            <pc type="pilcrow"/> Item quantum est de veris contingentibus non est dubium 
+            <lb ed="#P" n="10"/>quin prima veritas sit causa illorum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l2-iiqvee">
+            <pc type="pilcrow"/> Item quod potest esse uni sine alio videtur esse prior illis 
+            <lb ed="#P" n="11"/>modo deum esse seu illa veritas potest esse absque alio <pc type="virgula">/</pc> etiam ergo ex quo non habet dependentiam 
+            <lb ed="#P" n="12"/>debet poni in suppremo gradu <pc type="virgula">/</pc> et quod alia ab alia dependeat notissimum est apud nos 
+            <lb ed="#P" n="13"/>vocamus enim primum principium 
+          </p>
+          <p xml:id="ppra-l2-iiqmee">
+            <!-- possibly connection here: http://scta.info/resource/dcn2br-e27222-d1e127@486-493 -->
+            <pc type="virgula">/</pc> modo illum quod est notissimum naturae est notissimum simpliciter et illud conclusio <unclear>deest</unclear> 
+            <lb ed="#P" n="14"/>primum est sic quod potest esse quocumque alio non existente <pc type="pilcrow"/> unde dicit <ref xml:id="ppra-l2-Rimecae" corresp="#ppra-l2-Qxuiyu"><name>aristoteles</name> in <unclear>prohemio</unclear> metaphysicae</ref> <quote xml:id="ppra-l2-Qxuiyu" source="http://scta.info/resource/aristmet-l2-d1e109@125-147">sicut oculi 
+            <lb ed="#P" n="15"/>nictricoratis se habent ad lumen solis <pc type="punctus"/> ita oculus noster vel intellectus ad illa quae sunt manifestissima in natura</quote> 
+            <lb ed="#P" n="16"/>et haec est propter visus <unclear>debitatem</unclear> <pc type="virgula">/</pc> et ergo si deus sit principium notissimum in natura <pc type="punctus"/> debet dici nomen 
+            <lb ed="#P" n="17"/>simpliciter et sic illud quod est notissimum in cognitione dicitur primum principium
+          </p>
+          <p xml:id="ppra-l2-ippesf">
+            <pc type="pilcrow"/> Item primum principium est firmissimum 
+            <lb ed="#P" n="18"/>et dictum esse est firmissimum 
+          </p>
+          <p xml:id="ppra-l2-iioeee">
+            <pc type="pilcrow"/> Item in ordine verorum non est processus ergo est unum verum 
+            <lb ed="#P" n="19"/>quod est causa aliorum ergo illud est deus <pc type="punctus"/> cum deus non habeat causa 
+          </p>
+          <p xml:id="ppra-l2-iaeoav">
+            <pc type="pilcrow"/> Item <ref xml:id="ppra-l2-Ritanet"><name ref="#Anselm">anselmus</name></ref> et 
+            <lb ed="#P" n="20"/><ref xml:id="ppra-l2-Retauin"><name ref="#Augustine">augustinus</name></ref> videntur dicere quod aliae veritates a prima sunt veritates a prima veritate et ista sunt <unclear>transibilia</unclear> 
+          </p>
+        </div>
+        <div xml:id="ppra-l2-Dd1e958">
+          <head xml:id="ppra-l2-Hcorria">
+            <supplied>Corollaria</supplied>
+          </head>
+          <p xml:id="ppra-l2-eiiiac">
+            Ex 
+            <lb ed="#P" n="21"/>istis infert idem <name>bradowuardin</name> 
+          </p>
+          <p xml:id="ppra-l2-peaies">
+            <quote xml:id="ppra-l2-Qxoiuy" source="http://scta.info/resource/dcn2br-e27800-d1e131@2-13">actum esse priorem potentia immobilibus <pc type="punctus"/> et non temporalibus et aeternis</quote>
+          </p>
+          <!-- break is justified in other edition, but seems possibly wrong; the suggesition of this ms to keep paragraph together and recognize corrolary 2 in the following paragraph might be better -->
+          <p xml:id="ppra-l2-scasic">
+            <lb ed="#P" n="22"/><quote xml:id="ppra-l2-Qoiuew" source="http://scta.info/resource/dcn2br-e27800-d1e131@14-53">actus est prior potentia sive in deo sive in creatura et hoc loquendo de primo actu simpliciter qui est 
+            <lb ed="#P" n="23"/>prima essentia divina quia ab illa <unclear>pululatis</unclear> attributa divina quae ergo <unclear>minuant</unclear> cetera</quote> et <unclear>habent</unclear> ymaginationem 
+            <lb ed="#P" n="24"/>profundam unde ymaginatur quod esse dei debet poni ordo qui realiter debet dici primus quam sit 
+            <lb ed="#P" n="25"/>posse et quod esse dei est tantae excellentiae quod est causa omnium quae reperiuntur sive in deo sive in 
+            <lb ed="#P" n="26"/>aliis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l2-tcepip">
+            <pc type="pilcrow"/> <sic>2m</sic> correlarium <quote xml:id="ppra-l2-Qcnada" source="http://scta.info/resource/dcn2br-e27800-d1e192@4-11">esse est prius quam non esse</quote> <pc type="punctus"/> quia primum esse est causa qualitercumque non exeundi 
+            <lb ed="#P" n="27"/>vel exeundi post ea <pc type="punctus"/> patet per <ref xml:id="ppra-l2-Aappper"><name ref="#Averroes">commentatorem</name> 9o <title ref="#MetaphysicsCommentary">metaphysicae</title></ref> dicentem quod <quote>potentia est non esse <pc type="punctus"/> et actus esse</quote> <!-- see bradwardine here: http://scta.info/resource/dcn2br-e27800-d1e192@22-36 --> <pc type="punctus"/> 
+            <lb ed="#P" n="28"/>modo actus prior est potentia ymmo et <quote>affirmativa prior negativa<!-- see bradwardine: http://scta.info/resource/dcn2br-e27800-d1e192@81-84 --></quote> ut dicit <ref xml:id="ppra-l2-Aetpper"><name ref="#Aristotle">aristoteles</name> primo <title ref="#PosteriorAnalytics">posteriorum</title></ref>
+          </p>
+          <p xml:id="ppra-l2-qcniec">
+            <pc type="pilcrow"/>3m corollarium 
+            <lb ed="#P" n="29"/><quote xml:id="ppra-l2-Qvbrhy" source="http://scta.info/resource/dcn2br-e27800-d1e220@6-9">necessariam est prius possibili</quote> quia prius potest esse ergo
+          </p>
+          <p xml:id="ppra-l2-qcevpe">
+            <pc type="pilcrow"/> 4m <sic>correlarium</sic> <quote xml:id="ppra-l2-Quh5hv" source="http://scta.info/resource/dcn2br-e27800-d1e266@8-11">necessariam est prius impossibili</quote> 
+            <lb ed="#P" n="30"/>et ymaginatur quod nullo modo potest esse verum vel falsum possibile vel impossibile quin prius reducantur in primam 
+            <lb ed="#P" n="31"/>veritatem causaliter <pc type="punctus"/> <pc type="virgula">/</pc> contingens <sic>contingens</sic> <pc type="punctus"/> falsum <sic>falsum</sic> <pc type="virgula">/</pc> Ita quod est causa quare est contingens vel quare est falsum <pc type="virgula">/</pc> nec 
+            <lb ed="#P" n="32"/>vult deus quod aliqua potentia faciat hoc <pc type="punctus"/> Sed istam materiam dimitto quia forte deo 
+            <lb ed="#P" n="33"/><unclear>ministrante</unclear> alibi tractabitur
+          </p>
+        </div>
+        <div xml:id="ppra-l2-Dd1e1133">
+          <head xml:id="ppra-l2-Hconnes">
+            <supplied>Conclusiones</supplied>
+          </head>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l2-eqisde">
+            <pc type="pilcrow"/> Dico tamen quantum spectat ad suam ymaginationem quod 
+            <lb ed="#P" n="34"/>deum esse est fons et origo omnium aliorum et infertur quod si per ymaginationem deus non esset 
+            <lb ed="#P" n="35"/>haberemus concedere quod primum principium non esset ymmo quod nec deus non esset et ista sunt difficilia 
+            <lb ed="#P" n="36"/>ad ostendendum quia aliqua sunt evidentia quae non dependent a rebus nec iudicia divina a rebus dependent 
+            <lb ed="#P" n="37"/>sed habent rationem prioritatis omnium modorum se habendi <pc type="punctus"/> in aliis rebus <pc type="virgula">/</pc> Et hoc positum est ad ostendendum 
+            <lb ed="#P" n="38"/>quod fides non dependent ab articulo nec a ratione
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l2-eqpnqh">
+            <pc type="pilcrow"/> Ideo merito dicebat <name>apostolus</name> <quote>fide 
+            <lb ed="#P" n="39"/>est non apparentium</quote> <pc type="virgula">/</pc> et sic prius est deum scire <pc type="punctus"/> et antichristum fore quam quod antichristus sit futurus 
+            <lb ed="#P" n="40"/>et quod primum est simpliciter intrinsecum et quomodo salvabitur contingentia alias videbitur
+            <!-- possible break point here ? -->
+            <pc type="pilcrow"/> Ulterius sequitur quod si per 
+            <lb ed="#P" n="41"/>impossibile deus non esset nihil esset bonum licet per ymaginationem creaturae remanerent quia habent habitudinem 
+            <lb ed="#P" n="42"/>ad ipsum deum tamquam ad causam denominantem creaturam <pc type="punctus"/> et quia ista habitudo convenit fidei prius 
+            <lb ed="#P" n="43"/>est vera fides de contingens quam quod illud futurum contingens sit verum et sic sive sit erit sive non semper fides <unclear>remanet</unclear> 
+            <lb ed="#P" n="44"/>vera et sic patet quod est assensus infallibilis immo est securus <pc type="punctus"/> nec stati fideliter assentientem decipi 
+            <lb ed="#P" n="45"/>quia assensus fidei est de se rectus <pc type="punctus"/> ymmo deus non potest facere sortem decipi <pc type="punctus"/> seu quod 
+            <lb ed="#P" n="46"/>per habitu fidei quis deciperetur quia est propria conditio talis assensus et naturalis qua remanente 
+            <lb ed="#P" n="47"/>non posset facere quod deciperetur creatura in sic assentiendo nisi mutaret causalitatem rerum et 
+            <lb ed="#P" n="48"/>ordinem iam infinitum
+          </p>
+          <p xml:id="ppra-l2-suqpef">
+            <pc type="pilcrow"/> Ulterius sequitur quod assensus fidei potest vocari necessarius respectu cuiuscumque obiecti 
+            <lb ed="#P" n="49"/>licet non sit necessarias ut assensus futuri huius antichristus erit vel sua propositio mentalis potest vocari 
+            <lb ed="#P" n="50"/>necessaria quia non potest esse falsa qualitercumque eveniat semper est vera sicut divinum iudicium non potest decipi iuvando 
+            <lb ed="#P" n="51"/>eo quod non dependet a veritate ad extra et ita de fide quia non dependet ab obiecto ideo antichristus 
+            <lb ed="#P" n="52"/>non erit adhuc assensus ille erit verus quia non potest esse falsus <pc type="punctus"/> et necesse est sic esse <del rend="strikethrough">sicut per ipsum 
+            <lb ed="#P" n="53"/>iudicatur est necessariam <pc type="pilcrow"/> ulterius sequitur quod aliqua denominatio perfectionis communicata est fidei quae non</del> Ideo potest 
+            <lb ed="#P" n="54"/>esse necessarius assensus respectu obiecti <pc type="punctus"/> <unclear>esse</unclear> contingenter 
+          </p>
+          <p xml:id="ppra-l2-eqsceb">
+            <pc type="pilcrow"/> Ex quo sequitur quod iudicium creatum de futuro est necessarium <pc type="pilcrow"/> Ulterius 
+            <lb ed="#P" n="55"/>sequitur <del rend="strikethrough">quod aliqua denominatio perfectionis</del> consequentia ista non valet hoc iudicium est necessarium ergo <del rend="strikethrough">oportet</del> sic esse sicut per ipsum 
+            <lb ed="#P" n="56"/>iudicatur est necessarium
+          </p>
+          <p xml:id="ppra-l2-suqaef">
+            <pc type="pilcrow"/> Ulterius sequitur quod aliqua denominatio perfectionis communicata est fidei quae non est alicui 
+            <lb ed="#P" n="57"/>creaturae rationali communicata quia esse sic iudicium infallibile est denominatio magnae perfectionis et istam 
+            <lb ed="#P" n="58"/>denominationem sortitur fides et dato quod creatura una nobilis intelligentia esset infallibilis licet esse sibi iudicium 
+            <pb ed="#P" n="28-r"/>
+            <lb ed="#P" n="1"/>et notitia <pc type="virgula">/</pc> tamen non est <unclear>da?m</unclear> nisi beatitudo Ideo omnes revelationes <del rend="strikethrough">a deo factae</del> habent istam conditionem <pc type="punctus"/> licet 
+            <lb ed="#P" n="2"/>possit non evenire quod per eas significatur 
+          </p>
+          <!-- ppr para only; fuzzy-->
+          <p xml:id="ppra-l2-sqscss">
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Ex quo patet quod statu quod denominatio <unclear>mobilis</unclear> competit 
+            <lb ed="#P" n="3"/>speciei inferiori scilicet accidenti et non communicatur superiori
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Tamen difficultas est quia denominatio ista esse notitia
+            <lb ed="#P" n="4"/>infallibilem est communicabilis et esse suam vitam <pc type="punctus"/> et poterit facere creaturam deus <pc type="punctus"/> cui competant 
+          </p>
+          <!-- ppr para only; fuzzy-->
+          <p xml:id="ppra-l2-inqiei">
+            <pc type="virgula">/</pc> Et si 
+            <lb ed="#P" n="5"/>esset una creatura quae haberet ista <pc type="punctus"/> nullo modo posset decipi <pc type="punctus"/> quia sibi repugnaret deffectus iudicio 
+            <lb ed="#P" n="6"/>ex quo esset rectitudo essentialis <pc type="punctus"/> sicut dilectio essentialis posset sibi communicari <pc type="punctus"/> et esset inpeccabilis <add place="margin-right"><unclear>hoc per?ram</unclear></add>
+            <lb ed="#P" n="7"/>sed hoc non est propositum 
+          </p>
+          <!-- ppr para only; fuzzy-->
+          <p xml:id="ppra-l2-ampdhe">
+            <pc type="virgula">/</pc> Etiam posset esse impeccabilis per naturam quia deus posset statuere quod aliqua 
+            <lb ed="#P" n="8"/>qualitas esset innata alicui quae tantum faceret secundum se sicut caritas <pc type="punctus"/> tamen absolute non esset impecabilis 
+            <lb ed="#P" n="9"/>quia posset status eius mutari 
+          </p>
+          <!-- ppr para only; fuzzy-->
+          <p xml:id="ppra-l2-isdopv">
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Alii sunt modi de inpeccabilitate quia posset communicari intellectus 
+            <lb ed="#P" n="10"/>sine alio et sic non esset peccabilis quia non esset libera Et licet talis esset libera <pc type="punctus"/> tamen esset debilis 
+            <lb ed="#P" n="11"/>intelligentiae <pc type="punctus"/> sic quod non esset capax praeceptorum moralium 
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Sed adhuc esset difficultas utrum esset 
+            <lb ed="#P" n="12"/>aliqua creatura cui communicaretur habitus fidei cum conditione caritatis et utrum esset impeccabilis <pc type="virgula">/</pc> Et de hoc 
+            <lb ed="#P" n="13"/>in lectione sequenti deo dante videbitur
+            
+            
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio2">
+      <head xml:id="ppra-l2-Hlprlpr">Lectio 2, de Fide</head>
+      <div xml:id="ppra-l2-Dd1e122">
+        <head xml:id="ppra-l2-Hdgadga">
+          <supplied>Duo genera assensus</supplied>
+        </head>
+        <div xml:id="ppra-l2-Dd1e130">
+          <head xml:id="ppra-l2-Hpgapga">
+            <supplied>Primum genus assensus</supplied>
+          </head>
+          <p xml:id="ppra-l2-idsadf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l2-idsadf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-idsadf"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l2-Dd1e239">
+            <head xml:id="ppra-l2-Hacsapa">
+              <supplied>Aliquae corollaria sequentes ab primo genere assensu</supplied>
+            </head>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l2-eisaef">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eisaef"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l2-sddfne">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-sddfne"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l2-tdqeha">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-tdqeha"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l2-Dd1e312">
+          <head xml:id="ppra-l2-Hsgasga">
+            <supplied>Secundum genus assensus</supplied>
+          </head>
+          <p xml:id="ppra-l2-asaeid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l2-asaeid"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l2-Dd1e389">
+            <head xml:id="ppra-l2-Hacssga">
+              <supplied>Aliquae corollaria sequentes ab secundo genere assensu et fide</supplied>
+            </head>
+            <p xml:id="ppra-l2-pvaaqh">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-pvaaqh"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l2-sdqven">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-sdqven"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l2-tdqsef">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l2-tdqsef"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l2-Dd1e481">
+        <head xml:id="ppra-l2-Hdgvdgv">
+          <supplied>Diversa genera veritatis</supplied>
+        </head>
+        <p xml:id="ppra-l2-eamtsh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eamtsh"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l2-eqstgv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eqstgv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l2-Dd1e660">
+        <head xml:id="ppra-l2-Hpbpbpb">
+          <supplied>Propositiones Bradwardini</supplied>
+        </head>
+        <p xml:id="ppra-l2-veqqad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-veqqad"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-ppqesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-ppqesp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-ppqesp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-iqespi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-iqespi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-iiqvee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-iqespi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-iiqmee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-iiqmee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-iiqmee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-ippesf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-ippesf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-iioeee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-iioeee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-iaeoav">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-iaeoav"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-iaeoav"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l2-Dd1e958">
+        <head xml:id="ppra-l2-Hcorria">
+          <supplied>Corollaria</supplied>
+        </head>
+        <p xml:id="ppra-l2-eiiiac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eiiiac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-peaies">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-peaies"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-peaies"/>
+          </assertions>
+        </p>
+        <!-- break is justified in other edition, but seems possibly wrong; the suggesition of this ms to keep paragraph together and recognize corrolary 2 in the following paragraph might be better -->
+        <p xml:id="ppra-l2-scasic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-scasic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-tcepip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-tcepip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-tcepip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-qcniec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-qcniec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-qcniec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-qcevpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-qcevpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-qcevpe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l2-Dd1e1133">
+        <head xml:id="ppra-l2-Hconnes">
+          <supplied>Conclusiones</supplied>
+        </head>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l2-eqisde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eqisde"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l2-eqpnqh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eqpnqh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-suqpef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-suqpef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-suqpef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-eqsceb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-eqsceb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l2-suqaef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l2-suqaef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-suqaef"/>
+          </assertions>
+        </p>
+        <!-- ppr para only; fuzzy-->
+        <p xml:id="ppra-l2-sqscss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-sqscss"/>
+          </assertions>
+        </p>
+        <!-- ppr para only; fuzzy-->
+        <p xml:id="ppra-l2-inqiei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-inqiei"/>
+          </assertions>
+        </p>
+        <!-- ppr para only; fuzzy-->
+        <p xml:id="ppra-l2-inqiei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-inqiei"/>
+          </assertions>
+        </p>
+        <!-- ppr para only; fuzzy-->
+        <p xml:id="ppra-l2-ampdhe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-ampdhe"/>
+          </assertions>
+        </p>
+        <!-- ppr para only; fuzzy-->
+        <p xml:id="ppra-l2-isdopv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l2-isdopv"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
