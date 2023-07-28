@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio3">
+      <head xml:id="ppra-l3-Hd1e119">Lectio 3, De fide</head>
+      <div xml:id="ppra-l3-Dd1e122">
+        <head xml:id="ppra-l3-Hd1e124">
+          <supplied>Conclusiones circa fidem</supplied>
+        </head>
+        <p xml:id="ppra-l3-seqiaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l3-seqiaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-seqiaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l3-iiqead">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l3-iiqead"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-iiqead"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l3-ieqeqm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l3-ieqeqm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-ieqeqm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l3-Dd1e466">
+        <head xml:id="ppra-l3-Hd1e468">
+          <supplied>Objectio contra illas conclusiones</supplied>
+        </head>
+        <!-- doesn't seem present; but break should be reviewed 
+          <p xml:id="ppra-l3-veqaep">
+            Verum est quod ista positio habet aliquas difficultates, 
+            ita quod
+            arguitur
+            quod quacumque creatura
+            intellectiva, 
+            data quantumcumque perfecta,
+            adhuc
+            esset peccabilis.
+          </p>
+          -->
+        <div xml:id="ppra-l3-Dd1e502">
+          <head xml:id="ppra-l3-Hd1e504">
+            <supplied>Prima ratio</supplied>
+          </head>
+          <p xml:id="ppra-l3-apqpep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-apqpep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-apqpep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e564">
+          <head xml:id="ppra-l3-Hd1e566">
+            <supplied>Secunda ratio</supplied>
+          </head>
+          <p xml:id="ppra-l3-saqsie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-saqsie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-saqsie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e647">
+          <head xml:id="ppra-l3-Hd1e649">
+            <supplied>Tertia ratio</supplied>
+          </head>
+          <p xml:id="ppra-l3-tsdimp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-tsdimp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-tsdimp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e722">
+          <head xml:id="ppra-l3-Hd1e724">
+            <supplied>Quarta ratio</supplied>
+          </head>
+          <p xml:id="ppra-l3-qqdnrp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-qqdnrp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-qqdnrp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e763">
+          <head xml:id="ppra-l3-Hd1e765">
+            <supplied>Quinta ratio</supplied>
+          </head>
+          <p xml:id="ppra-l3-ipqptc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-ipqptc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-ipqptc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l3-Dd1e801">
+        <head xml:id="ppra-l3-Hrararp">
+          <supplied>Responsio ad rationes praedictas</supplied>
+        </head>
+        <p xml:id="ppra-l3-deaarp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l3-deaarp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l3-Dd1e812">
+          <head xml:id="ppra-l3-Hd1e814">
+            <supplied>Ad primam</supplied>
+          </head>
+          <p xml:id="ppra-l3-apqdve">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-apqdve"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-apqdve"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-edsnfa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-edsnfa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-edsnfa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-cpanip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-cpanip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-cpanip"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-aidsac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-aidsac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e1332">
+          <head xml:id="ppra-l3-Hasasas">
+            <supplied>Ad secundam</supplied>
+          </head>
+          <p xml:id="ppra-l3-asrcof">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-asrcof"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-asrcof"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e1411">
+          <head xml:id="ppra-l3-Hatatat">
+            <supplied>Ad tertium</supplied>
+          </head>
+          <p xml:id="ppra-l3-atrnes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-atrnes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-atrnes"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-iciaam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-iciaam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-idbnad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-idbnad"/>
+              
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-itdadm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-itdadm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l3-qdeaam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-qdeaam"/>
+            </assertions>
+          </p>
+        </div>
+        <!-- review break -->
+        <div xml:id="ppra-l3-Dd1e1776">
+          <head xml:id="ppra-l3-Haqaqaq">
+            <supplied>Ad quartam</supplied>
+          </head>
+          <p xml:id="ppra-l3-acdeso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-acdeso"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l3-Dd1e1827">
+          <head xml:id="ppra-l3-Haqnaqn">
+            <supplied>Ad quintam</supplied>
+          </head>
+          <p xml:id="ppra-l3-aaqcdi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l3-aaqcdi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l3-aaqcdi"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
