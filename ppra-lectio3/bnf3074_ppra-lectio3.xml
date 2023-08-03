@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lectio 2 [Bnf 3074 Transcription]</title>
+        <title>Lectio 3 [Bnf 3074 Transcription]</title>
         <author xml:id="PP">Petrus Plaoul</author>
         <editor xml:id="JW">Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Lectio 2 [Bnf 3074 Transcription]</title>
+          <title>Lectio 3 [Bnf 3074 Transcription]</title>
           <date when="2023-07-27">July 27, 2023</date>
         </edition>
       </editionStmt>

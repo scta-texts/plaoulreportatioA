@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio4">
+      <head xml:id="ppra-l4-Hd1e119">Lectio 4, De fide</head>
+      <div xml:id="ppra-l4-Dd1e122">
+        <head xml:id="ppra-l4-Hfecami">
+          <supplied>Fides est conformis divino iudicio: solutiones ad multas instantias</supplied>
+        </head>
+        <p xml:id="ppra-l4-seqtoa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-seqtoa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-seqtoa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e134">
+        <head xml:id="ppra-l4-Hpipipi">
+          <supplied>Prima instantia</supplied>
+        </head>
+        <p xml:id="ppra-l4-upaneu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-upaneu"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-upaneu"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e232">
+        <head xml:id="ppra-l4-Hrapapi">
+          <supplied>Responsio ad prima instantia</supplied>
+        </head>
+        <p xml:id="ppra-l4-beiqnv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-beiqnv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-beiqnv"/>
+          </assertions>
+        </p>
+        <!-- might not be present -->
+        <!--<p xml:id="ppra-l4-dtqsni">
+                Dico tamen quod ille habitus potest non esse simpliciter, sed non stat talem
+                habitum in animam et voluntatem, et quis per eum assentiat falso, immo dico quod
+                habitui tali vel fidei non potest sub esse falsum, nec per quamcumque potentiam ipso
+                habitu remanente secundum suam naturalem inclinationem
+          </p>-->
+        <!-- fuzzy fuzyy parallel -->
+        <p xml:id="ppra-l4-udqapv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-udqapv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e385">
+        <head xml:id="ppra-l4-Hsieier">
+          <supplied>Secunda instantia et rationes</supplied>
+        </head>
+        <p xml:id="ppra-l4-ptqsef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-ptqsef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-ptqsef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-pqdpem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-pqdpem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-pqdpem"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-cqpcrc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-cqpcrc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-cqpcrc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-tcaiaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-tcaiaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-tcaiaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-qdaeam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-qdaeam"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-qdaeam"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-qaacep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-qaacep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-qaacep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-ssffee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-ssffee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-ssffee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e702">
+        <head xml:id="ppra-l4-Hohohoh">
+          <supplied>Opinio Holcot</supplied>
+        </head>
+        <!--NOT present 
+            
+            <p xml:id="ppra-l4-ariqth">
+              <ref xml:id="ppra-l4-Ralrain">Alias</ref>
+              rationes inducam postea et solvam. 
+              Sed ante hoc, notanda sunt aliqua, 
+              quae tangit 
+              <ref xml:id="ppra-l4-Rd1e723"><name ref="#Holcot">Holcot</name></ref>
+            .
+          </p>-->
+        <p xml:id="ppra-l4-ucdnmh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-ucdnmh"/>
+            
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-nchqhi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-nchqhi"/>
+            
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-idfeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-idfeip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-iupvat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-iupvat"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e1048">
+        <head xml:id="ppra-l4-Hrdhrdh">Rationes de Holcot</head>
+        <p xml:id="ppra-l4-otrree">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-otrree"/>
+            
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-iqtvvf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-iqtvvf"/>
+            
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l4-Dd1e1245">
+        <head xml:id="ppra-l4-Hrarrdh">
+          <supplied>Responsio ad rationes de Holcot</supplied>
+        </head>
+        <p xml:id="ppra-l4-aehrma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-aehrma"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-aehrma"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l4-iiasei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l4-epheda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-epheda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-epheda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l4-eaease">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l4-eaease"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l4-eaease"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
