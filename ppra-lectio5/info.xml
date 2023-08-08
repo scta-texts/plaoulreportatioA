@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio5">
+      <head xml:id="ppra-l5-Hd1e102">Lectio 5, de Fide</head>
+      <div xml:id="ppra-l5-Dd1e105">
+        <head xml:id="ppra-l5-Hprpier">
+          <supplied>Plus rationes pro secunda instantia et responsiones</supplied>
+        </head>
+        <div xml:id="ppra-l5-Dd1e113">
+          <head xml:id="ppra-l5-Htrtrtr">
+            <supplied>Tres rationes</supplied>
+          </head>
+          <p xml:id="ppra-l5-caqsef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-caqsef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-caqsef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-psppim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-psppim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-psppim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-usapce">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-usapce"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-usapce"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-idpeli">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-idpeli"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-idpeli"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l5-Dd1e458">
+          <head xml:id="ppra-l5-Hrrrrrr">Responsio</head>
+          <p xml:id="ppra-l5-iurdii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-iurdii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-iurdii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-qediis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-qediis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-qediis"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-qedehd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-qedehd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-qedehd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-sdqdie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-sdqdie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-sdqdie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-qatafc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-qatafc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-qatafc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-sadpnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-sadpnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-sadpnd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l5-Dd1e1189">
+          <head xml:id="ppra-l5-Harpier">Alia ratio pro secunda instantia et responsio</head>
+          <p xml:id="ppra-l5-strvaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-strvaf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-strvaf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-reqdnf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-reqdnf"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel; parallel here is only approximate -->
+          <p xml:id="ppra-l5-ipupad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-ipupad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-trechd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-trechd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-trechd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-asassp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-asassp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-asassp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l5-aaqica">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l5-aaqica"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-aaqica"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l5-Dd1e1669">
+        <head xml:id="ppra-l5-Hrarpsi">
+          <supplied>Responsio ad rationes pro secunda instantia</supplied>
+        </head>
+        <p xml:id="ppra-l5-trrrpf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l5-trrrpf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-trrrpf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l5-apdiav">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l5-apdiav"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-apdiav"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l5-asreif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l5-asreif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-asreif"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l5-atdmip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l5-atdmip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l5-atdmip"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
