@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 6 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 6 [Bnf 3074 Transcription]</title>
+          <date when="2023-08-10">August 10, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-08-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="30-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio6">
+        <head xml:id="ppra-l6-Hd1e102">Lectio 6, De fide</head>
+        <div xml:id="ppra-l6-Dd1e105">
+          <head xml:id="ppra-l6-Hrclclp">
+            <supplied>Recapitulatio conclusionis lectionis praecedentis</supplied>
+          </head>
+          <p xml:id="ppra-l6-seqqfs">
+            <pc type="pilcrow"/> Tamen contra istud fiunt rationes solvendae 
+            <lb ed="#P"/>Tamen ista materia supponit de praescientia die de qua supponitur <pc type="virgula">/</pc> et quia tactae fuerunt rationes quod 
+            <lb ed="#P"/>fidei potest subesse falsum
+          </p>
+        </div>
+        <div xml:id="ppra-l6-Dd1e199">
+          <head xml:id="ppra-l6-Hnraslp">
+            <supplied>Novae responsiones ad primam et secundam rationes instantiae secundae
+              lectionis praecedentis</supplied>
+          </head>
+          <div xml:id="ppra-l6-Dd1e207">
+            <head xml:id="ppra-l6-Hapapap">Ad primam</head>
+            <p xml:id="ppra-l6-apdcef">
+              <pc type="pilcrow"/> Prima erat quod fidei potest subesse falsum ergo et fidei <pc type="punctus"/> 
+              <lb ed="#P"/>Responsio fuit data negando antecedens et ad probationem de praescito dictum est quod praescitus potest 
+              <lb ed="#P"/>habere duplicem assensum de habendo vitam aeternam scilicet unum <unclear>cathegoricum</unclear> qui est praesumptuosus 
+              <lb ed="#P"/>nec procedit a spe 
+              
+              
+              <pc type="punctus"/> sed assensus spei debet esse equipolenter conditionalis <pc type="punctus"/> ut sit sensus si perservere 
+              <lb ed="#P"/>in gratia salvabor vel habebo vitam aeternam si decedo in gratiam <pc type="punctus"/> Ideo si habeatur 
+              <lb ed="#P"/>assensus <unclear>cathegoricus</unclear> non est assensus virtuosus 
+              
+              <pc type="pilcrow"/> Aliter potest responderi concedo 
+              <lb ed="#P"/>antecedens et negando consequentiam ubi est advertendum quod spes habitus partim cognoscitivus et partim volitivus 
+              <lb ed="#P"/>patet ad experientiam quia habet spem desiderat et credit illud habere <pc type="punctus"/> et ita de fide et caritate 
+              <lb ed="#P"/>Ita quod caritas est unctio docens de omnibus <pc type="virgula">/</pc> et facit habitum virtuosum <pc type="virgula">/</pc> et supplet virtutem 
+              <lb ed="#P"/>providentiae 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l6-dsqsbe">
+              Et ergo supponendo quod sint simul cognitio et affectio est magis affectio quam cognitio <pc type="punctus"/> Et fides 
+              <lb ed="#P"/>est principaliter cognitio et minus possunt affectio <pc type="virgula">/</pc> sed quia spes habet obiectum bonum ideo est penes con<lb ed="#P"/>formitatem 
+              <lb ed="#P"/>bonitatis Etiam caritas potest esse respectu falsi <pc type="pilcrow"/> Item <name>augustinus</name> dicit quod bonus 
+              <lb ed="#P"/>filius vult caritative patrem suum non mori <pc type="punctus"/> et deus vult eum mori Ita rectitudo 
+              <lb ed="#P"/>spei attenditur penes conformitatem ad legem nobis positam et est actus meritorius 
+              <lb ed="#P"/>licet falsus <pc type="punctus"/> et per hoc potest calorari quod spei possit subesse falsum et non fidei <pc type="punctus"/> nec 
+              <lb ed="#P"/>per hoc habet minorem nobilitatem quia attenditur in ordine ad conformitatem divinorum 
+              <lb ed="#P"/>praeceptorum <pc type="punctus"/> et ergo potest negari consequentia
+            </p>
+          </div>
+          <div xml:id="ppra-l6-Dd1e438">
+            <head xml:id="ppra-l6-Hasasas">Ad secundam</head>
+            <p xml:id="ppra-l6-asrpis">
+              <pc type="pilcrow"/> Ad 2m argumentum quod tangebat materiam de corpore christi 
+              <lb ed="#P"/>scilicet de casu in quo sacerdos non consecraret et infirmus peteret etc Responsum fuit 
+              <lb ed="#P"/>quod assensus fidei non est quod ibi sit corpus christi absolute seu <unclear>cathegorice</unclear> sed debere habere 
+              <lb ed="#P"/>aliam credulitatem scilicet quod ex institutione dei quotiens debite consecraretur <pc type="virgula">/</pc> ibi esset corpus christi
+              <lb ed="#P"/>et ista ordinatio est credita <pc type="virgula">/</pc> Si autem aliam habeat credulitatem hoc non erit ex fide <pc type="pilcrow"/> unde 
+              <lb ed="#P"/>circa istud tangebantur aliqua <pc type="virgula">/</pc> quia possibile est quod credat se credere ex fide quod ibi sit 
+              <lb ed="#P"/>verum corpus christi et tamen non est quia sacerdos deffecit in consecratione iste ergo satis experitur 
+              <lb ed="#P"/>credulitatem se habere et tamen non habet medium distinguendi istam credulitatem a credulitate fidei 
+              <lb ed="#P"/>quia difficile est habere notitiam actuum suorum et praecipue in homine simplici ymmo secundum <name>autissiodorensis</name> 
+              <lb ed="#P"/>et in prophetis <pc type="punctus"/> ut quod habita revelatione respectu futuri formabat alios actus <pc type="punctus"/> quos credebant 
+              <lb ed="#P"/>esse a spiritu sancto <pc type="virgula">/</pc> et sic accidit de <name>iona</name> quia credidit quod ninive subverteretur et hoc 
+              <lb ed="#P"/>a seipso <pc type="punctus"/> et credebat quod esset prophitum <pc type="punctus"/> et hoc non <pc type="virgula">/</pc> qui hoc conditionale erat et sic 
+              <lb ed="#P"/>decipiebatur credendo quod non fuit nam credebat quod esset assensus revelationis sibi factae et tamen 
+              <lb ed="#P"/>non 
+              
+              <pc type="punctus"/> Ideo non est mirum si simplices semper non potuerunt ponere differentiam inter revelationem 
+              <lb ed="#P"/>et actus formatos ex revelatione cum prophete non potuerint 
+              
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l6-Dd1e617">
+          <head xml:id="ppra-l6-Hucepis">
+            <supplied>Utrum credulitatis est periculosa in simplici</supplied>
+          </head>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l6-duqude">
+            <pc type="virgula">/</pc> Etiam dicitur quod hoc credere non est
+            <pb ed="#P" n="30-v"/>
+            <lb ed="#P"/>pernitiosum nec periculosa credulitas multum <pc type="punctus"/> et dico quod veraciter credimus quod ipse veraciter 
+            <lb ed="#P"/>celebret
+          </p>
+          <div xml:id="ppra-l6-Dd1e655">
+            <head xml:id="ppra-l6-Hvqeemp">
+              <supplied>Videtur quod est multum periculosa</supplied>
+            </head>
+            <p xml:id="ppra-l6-schspm">
+              <pc type="pilcrow"/> Sed ostenditur quod est periculosa credulitas quia facit credentem ydolatrizare <pc type="virgula">/</pc> quia adorat 
+              <lb ed="#P"/>creatura pro corpore christi <pc type="punctus"/> et <add place="above-line">hoc</add> per talem assensum in se formatum deferendo <sic>genuuflexionem</sic> et huiusmodi 
+              <lb ed="#P"/>Et si dicatur quod per ignorantia excusatur Sed replicatur contra sicut de vetula de qua superius ratio 
+              <lb ed="#P"/>facta fuit si assentiret praelato errorem praedicant ipsa peccaret Et tunc similiter diceretur in casu 
+              <lb ed="#P"/>praedicto 
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l6-istimd">
+              Sed tamen dicitur quod <del rend="strikethrough">causa</del> assensus non esset multum perniciosus
+            </p>
+          </div>
+          <div xml:id="ppra-l6-Dd1e827">
+            <head xml:id="ppra-l6-Hraprap">
+              <supplied>Responsio ad primam</supplied>
+            </head>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l6-qapeip">
+              <pc type="punctus"/> Etiam licitum esset credere 
+              <lb ed="#P"/>angelum malum transfiguratum in angelum lucis esse deum <pc type="punctus"/> et hoc esset ydolatrare <pc type="punctus"/> <pc type="pilcrow"/> Unde notandum 
+              <lb ed="#P"/>quod cum isto assensu stat assensus fidei conditionalis equipolenter modo possibile est quod assensus 
+              <lb ed="#P"/>fidei sit in ipso homine et assensus ex seipso causatus sicut de assensus ione
+            </p>
+            <p xml:id="ppra-l6-araune">
+              <pc type="pilcrow"/> Et tunc 
+              <lb ed="#P"/>ad rationes in oppositum quando dicebatur quod per hoc indubitatur ad ydolatriam <pc type="punctus"/> dicitur quod lata est differentia inter 
+              <lb ed="#P"/>adorare in sacramento altaris et adorare malum angelum transformatum in christum et causae 
+              <lb ed="#P"/>sunt multae prima est quia adorare in casu illo est repraesentare deum esse hoc scilicet aliquod malum 
+              <lb ed="#P"/>quia iste est malus <pc type="punctus"/> <pc type="virgula">/</pc> Etiam exibere sibi reverentiam est nephas quia creaturae attribuere 
+              <lb ed="#P"/>probatum quod soli deo convenit est malum non sic est hic quia homo non adorat hostiam sed corpus 
+              <lb ed="#P"/>christi <pc type="punctus"/> unde dicere quod corpus christi hic est et non est hic non est deo dicere blaphementiam sed dicere 
+              <lb ed="#P"/>quod est hoc est magnam ignominiam <pc type="pilcrow"/> Ideo diceretur quod in illo casu non ydolatraret quia haberet 
+              <lb ed="#P"/>mentem ad corpus christi et nihil conciperet nisi christum seu corpus eius <pc type="punctus"/> non sic de alio et praecise decipitur 
+              <lb ed="#P"/>ratione loci
+            </p>
+            <p xml:id="ppra-l6-dsqpsi">
+              <pc type="pilcrow"/> Dico 2o quod sicut tactum est iste posset habere actum fidei et adorationem proportionalem 
+              <lb ed="#P"/>a fide causatam <pc type="punctus"/> si et inquantum est et si debite celebraverit <pc type="virgula">/</pc> Et sic ex ista credulitate non de per se 
+              <lb ed="#P"/>generatur ydolatria 
+            </p>
+            <p xml:id="ppra-l6-tdqpcs">
+              Etiam si ydolatret hoc est ex culpa sua non proveniente ab habitu fidei
+            </p>
+            <p xml:id="ppra-l6-qdqcda">
+              <pc type="pilcrow"/> <sic>3o</sic> 
+              <lb ed="#P"/>dico quod iterum ex deffectu aliunde potest contingere <unclear>ydolatre</unclear> scilicet ex hoc quod forte unatur species 
+              <lb ed="#P"/>et hoc dubitatur et indistincte quoniam aliqui terminant orationem ad ymaginem et haec est ydolatria 
+              <lb ed="#P"/>et provenit ex indiscretione adorantis <pc type="punctus"/> Etiam possibile est quod peccet credendo species illas esse 
+              <lb ed="#P"/>corpus christi <pc type="punctus"/> tamen si esset corpus christi species deberent adorari scilicet adoratione qua vasa 
+              <lb ed="#P"/>sacra et reliquie adorantur quia ibi est maior causa adorationis qua sit in cruce Tamen 
+              <lb ed="#P"/>quantum est ex parte iudicii nullam sequitur ydolatria et si sequatur hoc est ex negligentia hominis <pc type="punctus"/> licet non de 
+              <lb ed="#P"/>per se scilicet per huiusmodi habitum <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l6-Dd1e1272">
+          <head xml:id="ppra-l6-Hdcfcfv">Difficultates circa fidem vetulae</head>
+          <p xml:id="ppra-l6-cdvmpd">
+            <pc type="pilcrow"/> Consequenter de illa vetula est difficultas aliqualis casus 
+            <lb ed="#P"/>ponebatur quod praedicator praedicaret contra fidei articulum etc et dictum fuit in casu quod vetula
+            <lb ed="#P"/>non debet credere <pc type="virgula">/</pc> quia ut dixi innatum est vetulae deum esse <pc type="punctus"/> Ideo debet deum <unclear>bene?ri</unclear> et supplicare 
+            <lb ed="#P"/>quod non permittat eam peccare <pc type="punctus"/> et sic aperit os et intrat <pc type="virgula">/</pc> Iuxta quod in apocalipsis dicitur <quote xml:id="ppra-l6-Qd1e1359" source="http://scta.info/resource/ap3_20">Sto
+            <lb ed="#P"/>ad hostium et pulso et si quis aperierit intrabo</quote> <pc type="virgula">/</pc> Et apocalypsis 3o dicitur quod semper <del rend="strikethrough">vitam</del> a deo 
+            <lb ed="#P"/>habemus <pc type="punctus"/> unam assistentiam specialem modi nos <pc type="punctus"/> sed mali non percipiunt propter assuefactionem 
+            <lb ed="#P"/>ad oppositum <pc type="virgula">/</pc> Et dicitur quod creatura non deciperetur et quod deus revelaret sibi iuxta <ref xml:id="ppra-l6-Rd1e1375" corresp="#l6-Qaqmmpd">psalmiste</ref> 
+            <lb ed="#P"/><quote xml:id="ppra-l6-Qaqmmpd" source="http://scta.info/resource/ps84_9">Audiam loquatur in me deus</quote> <pc type="virgula">/</pc> Ex quo patet quod fides sit per auditum in tali vetula 
+          </p>
+          <p xml:id="ppra-l6-seqsss">
+            <lb ed="#P"/><pc type="pilcrow"/> Sed hic sunt difficultates videlicet utrum illa vetula teneatur ad credendum illum articulum 
+            <lb ed="#P"/>quod pater et filius sunt aequales <pc type="virgula">/</pc> unde advertendum est quod illa quae dixi intelligo de illis quae sunt 
+            <lb ed="#P"/>in latitudine credulitatis suae sed utrum ille articulus de aequalitate pertineat sibi non discutitur pro nunc 
+            <lb ed="#P"/>Unde dico quod si dissentiat ab articulo peccat quia si poneret se in bono statu et faceret 
+            <lb ed="#P"/>quod in se est crederet bene per deum revelatum Sed utrum sit licitum sibi credere oppositum articuli 
+            <lb ed="#P"/>qui quidam non pertinent sibi <name ref="#WilliamOfAuxerre">Guillems parisiensis</name> videtur tenere quod omne credere contra fidem 
+            <lb ed="#P"/>est peccatum sicut affectus peccaret faciendo contra caritatem <pc type="virgula">/</pc> dicit consequenter quod <quote xml:id="ppra-l6-Qd1e1521" source="http://scta.info/resource/ps144_20">deus custodi diligentes se</quote> 
+            <lb ed="#P"/><ref xml:id="ppra-l6-Rd1e1529">proverbiorum 3o<!-- actually psalm 144:20--></ref> quia si homo non ponat obicem <pc type="virgula">/</pc> deus convertit se ad creaturam quia maiorem habet curam 
+            <lb ed="#P"/>de fine hominis quam de aliis animalibus ad suum finem <pc type="virgula">/</pc> et in aliis tamen providet otpime et 
+            <lb ed="#P"/>creatura non posset de se acquirere dona spiritualia quae non sunt in nostra potestate Ideo ordinavit deus 
+            <lb ed="#P"/>certam dispositionem quae est in potestate creaturae qua habita deus residuum supplebit 
+          </p>
+        </div>
+        <div xml:id="ppra-l6-Dd1e1589">
+          <head xml:id="ppra-l6-Hcorria">
+            <supplied>Corollaria</supplied>
+          </head>
+          <p xml:id="ppra-l6-eiiimc">
+            <pc type="pilcrow"/> Unde 
+            <lb ed="#P"/>praefatus doctorum <name>guillelmus parisiensis</name> infert multa correllaria 
+          </p>
+          <div xml:id="ppra-l6-Dd1e1629">
+            <head xml:id="ppra-l6-Huhpuce">
+              <supplied>Utrum homo peccaret, qui, circa qui sit propria eius uxor, confusus
+                esset</supplied>
+            </head>
+            <p xml:id="ppra-l6-ucecup">
+              Quis de nocte credens uxorem reperire 
+              <lb ed="#P"/>et non reperiens franget matrimonium quia ad aliam accedet et tunc dicit si tunc illam repertam cognoscit 
+              <lb ed="#P"/>peccat  
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l6-qnqvua">
+              Quomodo igitur faciet
+            </p>
+            <div xml:id="ppra-l6-Dd1e1663">
+              <head xml:id="ppra-l6-Hressio">
+                <supplied>Responsio</supplied>
+              </head>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l6-brqais">
+                <pc type="punctus"/> Respondet per illam dei provisionem vel infringendo se
+              </p>
+              <p xml:id="ppra-l6-iqsude">
+                <pc type="pilcrow"/> Item nos habemus assistentiam angelorum et sicut mali invitat ad malum Ita et boni 
+                <lb ed="#P"/>magis <pc type="virgula">/</pc> Ideo si iste esset innocens non permitteret deus ipsum cadere in peccatum nam habemus 
+                <lb ed="#P"/>michaelem ministrum specialiorem nobis ad nostri custodiam deputatum et sic per hoc solvetur de dyabolo 
+                <lb ed="#P"/>quia deus nonquam permitteret ipsum adorare angelum malum si innocens esset quia vel daret cognitionem 
+                <lb ed="#P"/>vel aliqua alia propter quae non adoraret
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l6-Dd1e1818">
+            <head xml:id="ppra-l6-Huscfep">
+              <supplied>Utrum sancti circa fidem errare possunt</supplied>
+            </head>
+            <p xml:id="ppra-l6-aeudcl">
+              <pc type="pilcrow"/> Tamen adhuc de ista vetula est difficultas 
+              <lb ed="#P"/>et videtur quod doctores erraverunt <pc type="punctus"/> unde <name>origenes</name> posuit perpetuitatem angelorum 
+              <pb ed="#P" n="31-r"/>
+              <lb ed="#P"/>et etiam redemptionem malorum angelorum <pc type="pilcrow"/> Item <ref xml:id="ppra-l6-Rd1e1891"><name ref="#RichardOfStVictor">richardus de sancto victore</name></ref> tenuit quod essentia 
+              <lb ed="#P"/>generat essentiam et istud est contra fidem <pc type="virgula">/</pc> unde ista determinatio non fuit nisi quia erat contra 
+              <lb ed="#P"/>fidem et tenuerit contra ergo blaphemavit <pc type="punctus"/> <pc type="pilcrow"/> Item <ref xml:id="ppra-l6-Rd1e1919"><name ref="#Augustine">augustinus</name></ref> contradixit <name ref="#Jerome">ieronimo</name> ad galatham 6to
+            </p>
+            <div xml:id="ppra-l6-Dd1e1951">
+              <head xml:id="ppra-l6-Hrespio">
+                <supplied>Responsio</supplied>
+              </head>
+              <p xml:id="ppra-l6-aigien">
+                <lb ed="#P"/><ref xml:id="ppra-l6-Rd1e1963"><name ref="#WilliamOfAuxerre">Guillelmus parisiensis</name></ref> ponit etiam aliqua <pc type="pilcrow"/> Ex quibus pono conclusionem talem <pc type="virgula">/</pc> quod non licet assentire contra fidem 
+                <lb ed="#P"/>quantumcumque sit <unclear>re?ta</unclear> conclusio a principiis <pc type="punctus"/> <pc type="pilcrow"/> <ref xml:id="ppra-l6-Rd1e2009"><name ref="#WilliamOfParis">Guillelmus autissiodorensis</name></ref> in primo dicitu quod in materia trinitatis on licet 
+                <lb ed="#P"/>contraria asserere <pc type="punctus"/> quia detrahere vel attribuere quod sibi competit diceret blasphemiam et assertio 
+                <lb ed="#P"/>fidei esset talis quia detraheret suam perfectionem vel attribueret quod non esset attribuendum
+              </p>
+              <p xml:id="ppra-l6-sdqirv">
+                <lb ed="#P"/><pc type="pilcrow"/> 2o dicitur quod causa veritatis reperiendae licet bene contraria oppinari in materia fidei et hoc sub quadam 
+                <lb ed="#P"/>implicita conditione non simpliciter assentiendo quia istud facit ad <unclear>elucidationem</unclear> scripturae et tandem 
+                <lb ed="#P"/>reperitur veritas per dispositionem vel rationem efficacem
+              </p>
+              <p xml:id="ppra-l6-tdqvsd">
+                <pc type="pilcrow"/> 3o dico quod in pure positivis quorum 
+                <lb ed="#P"/>num non tangit credenda nec fidem licet contraria oppinari sicut de creatione rerum in principio 
+                <lb ed="#P"/>quia tenet <ref xml:id="ppra-l6-Rd1e2126"><name>augustinus</name></ref> quod omnes res fuerunt simul creatae et allegat illud <quote xml:id="ppra-l6-Qcoscos" source="http://scta.info/resource/sir18_1">qui vivit in aeternum 
+                <lb ed="#P"/>creavit omnia simul</quote>
+              </p>
+              <p xml:id="ppra-l6-atoaac">
+                Alii tenent oppositum et tamen nulla istarum oppinionum est periculosa <pc type="punctus"/> nec propter hoc 
+                <lb ed="#P"/>discredendum ubi esset credendum quia istud non interimit aliquod praeceptum legis <pc type="punctus"/>
+              </p>
+              <p xml:id="ppra-l6-qdqoqp">
+                <pc type="pilcrow"/> Ulterius dicitur 
+                <lb ed="#P"/>quod quaedam sunt speculabilia quae sunt ad mores impertinencia vel credenda et iterum in talibus licet 
+                <lb ed="#P"/>tenere quacumque partem ymmo et asserere assertione quaedam sed in materia fidei in talibus non licet 
+                <lb ed="#P"/>asserere
+              </p>
+            </div>
+            <div xml:id="ppra-l6-Dd1e2283">
+              <head xml:id="ppra-l6-Hrarrar">
+                <supplied>Responsio ad rationes</supplied>
+              </head>
+              <p xml:id="ppra-l6-trrdsv">
+                <pc type="pilcrow"/> Et tunc respondetur de <name ref="#RichardOfStVictor">ricardo </name>et <name ref="#Augustine">beato augustino</name>  
+              </p>
+              <p xml:id="ppra-l6-dadicl">
+                Et primo de <name>augustino</name> quod retractat 
+                <lb ed="#P"/>ita tamquam non esse periculosum dicere et licet retractaverit hoc non esset quod prius assensit Etiam 
+                <lb ed="#P"/>non est inconveniens concedere quod <name>augustinus</name> peccaverit si assenserit alicui quod esset contra fidem <pc type="punctus"/> 
+              </p>
+              <p xml:id="ppra-l6-cdddie">
+                Et 
+                <lb ed="#P"/>conformiter de <name ref="#RichardOfStVictor">ricardo</name> diceretur Et si dicatur contra non erat deteminatum oppositum dicitur tamen quod licet minus 
+                <lb ed="#P"/>nihilominus peccavit quia non erat extra latitudinem credibilium Non enim licet aliquid asserere 
+                <lb ed="#P"/>quod repugnet fidei <pc type="virgula">/</pc> propter tamen suam reverentiam dico quod hoc tenuit disputative 
+                <lb ed="#P"/>et sic non peccavit <pc type="punctus"/> sed fuit causa movens reperiendi veritatem Et sic in hoc meruit
+                <!-- break point -->
+                <lb ed="#P"/><pc type="pilcrow"/>De angelo dictum est quod deus non permitteret <pc type="punctus"/> sed de casu assensus casus fidei si <name>abraham</name> cre<lb ed="#P"/>diderit 
+                quod christus incarnabitur <pc type="virgula">/</pc> et ponatur quod non incarnabitur <pc type="virgula">/</pc> tunc decipitur <pc type="pilcrow"/> <name>Guillelmus pariesiensis</name> respondet 
+                <lb ed="#P"/>quod <name>abraham</name> bene credidit Et potest dici quod assensus fidei potest etc Unde ponitur una 
+                <lb ed="#P"/>difficultas nam ponatur quod quis ante incarnationem credidit quod christus incarnabitur et tamen fidei potest subesse 
+                <lb ed="#P"/>falsum quia poterit continuari de hoc fuit dictum <pc type="pilcrow"/> Sed tamen aliter dicitur quod ille qui credebat ex 
+                <lb ed="#P"/>fide quod christus incarnabitur <pc type="virgula">/</pc> adveniente tempore in quo non potuit habere apparentiam quod christus incarnaretur 
+                <lb ed="#P"/>habitus fidei inclinabat ad assensum respectu disiunctive <pc type="pilcrow"/> Sed dubium est utrum ille idem assensus 
+                <lb ed="#P"/>qui fuit assensus respectu futuri <pc type="punctus"/> post hoc sit assensus disiuncti <pc type="virgula">/</pc> dicitur quod sic <pc type="punctus"/> quia assensus 
+                <lb ed="#P"/>debet continuari usque ad tempus in quo non constat et quod ille assensus possit esse respectu istius 
+                <lb ed="#P"/>christus incarnabitur <pc type="virgula">/</pc> quia sequitur divinum iudicium <pc type="virgula">/</pc> et quod iste assensus tempus incarnationis erit respectu huius christus incarnatur 
+                <lb ed="#P"/>sicut et divinum de iudicium Ita quod statim quod <del rend="strikethrough">christus</del> ipse assentit quod christus incarnatur sicut fides inclinebat 
+                <lb ed="#P"/>quia insequitur iudicium illud statim tunc inclinabat ad sic assentiendum ut potest patere <pc type="punctus"/> 
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
