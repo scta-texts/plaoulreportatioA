@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio7">
+      <head xml:id="ppra-l7-Hd1e102">Lectio 7, de Fide</head>
+      <div xml:id="ppra-l7-Dd1e105">
+        <head xml:id="ppra-l7-Hraccpc">Recapitulatio argumenti circa periculum credulitatis</head>
+        <p xml:id="ppra-l7-seqgpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-seqgpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-seqgpe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l7-Dd1e198">
+        <head xml:id="ppra-l7-Hramdcf">Redeundo ad materiam de certitudinem fidei</head>
+        <p xml:id="ppra-l7-cmisir">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-cmisir"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-cmisir"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l7-sdiqpr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-sdiqpr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-sdiqpr"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l7-Dd1e330">
+        <head xml:id="ppra-l7-Hratpii">Responsio ad tertiam rationem secundae instantiae: circa
+          continuationem fidei post instans incarnationis</head>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l7-urefie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-urefie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-urefie"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l7-Dd1e374">
+          <head xml:id="ppra-l7-Hd1e376">Prima responsio possibilis: responsio Guillelmi
+            Altissiodorensis</head>
+          <p xml:id="ppra-l7-gaapap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-gaapap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-gaapap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-peqces">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-peqces"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-peqces"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-sppadd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-sppadd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-sppadd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-tpqpci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-tpqpci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-tpqpci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-apevie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-apevie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-apevie"/>
+            </assertions>
+          </p>
+          <!-- reconsider break -->
+          <p xml:id="ppra-l7-ehhppi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-ehhppi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-ehhppi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-suqedp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-suqedp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-suqedp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-apipci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-apipci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-apeiii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-apeiii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-apeiii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-suqivi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-suqivi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-suqivi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-suqead">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-suqead"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-suqead"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l7-usqoga">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-usqoga"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-usqoga"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l7-Dd1e1207">
+          <head xml:id="ppra-l7-Hsrpsrp">Secunda responsio possibilis</head>
+          <p xml:id="ppra-l7-atppce">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-atppce"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-atppce"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l7-Dd1e1329">
+          <head xml:id="ppra-l7-Htrptrp">Tertia responsio possibilis</head>
+          <p xml:id="ppra-l7-aveiie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l7-aveiie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-aveiie"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l7-Dd1e1472">
+            <head xml:id="ppra-l7-Hoatatr">Obiectio ad tertiam responsionem</head>
+            <p xml:id="ppra-l7-eqpfee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-eqpfee"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-eqpfee"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l7-Dd1e1516">
+            <head xml:id="ppra-l7-Hraorao">Responsio ad obiectionem</head>
+            <p xml:id="ppra-l7-ddqdam">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-ddqdam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-ddqdam"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l7-depnif">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-depnif"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-depnif"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l7-unepig">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-unepig"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-unepig"/>
+              </assertions>
+            </p>
+            <div xml:id="ppra-l7-Dd1e1683">
+              <head xml:id="ppra-l7-Hoarrer">Obiectio ad responsionem et responsio</head>
+              <p xml:id="ppra-l7-esdadc">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-esdadc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-esdadc"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-apdafe">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-apdafe"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-apdafe"/>
+                </assertions>
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l7-Dd1e1876">
+            <head xml:id="ppra-l7-Hd1e1878">Alia responsio ad obiectionem</head>
+            <p xml:id="ppra-l7-aunfci">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-aunfci"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-aunfci"/>
+              </assertions>
+            </p>
+            <!-- consider revising break point -->
+            <p xml:id="ppra-l7-qtacsd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-qtacsd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-qtacsd"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l7-Dd1e2028">
+            <head xml:id="ppra-l7-Hsoainc">
+              <supplied>Secunda obiectio ad tertiam responsionem: utrum aliqui damnabitur qui, ante
+                incarnationem, non credidit?</supplied>
+            </head>
+            <p xml:id="ppra-l7-aceeud">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-aceeud"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-aceeud"/>
+              </assertions>
+            </p>
+            <!-- reconsider break -->
+            <p xml:id="ppra-l7-vqncee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l7-vqncee"/>
+              </assertions>
+            </p>
+            <div xml:id="ppra-l7-Dd1e2162">
+              <head xml:id="ppra-l7-Hrasaso">Responsio ad secundam obiectionem</head>
+              <p xml:id="ppra-l7-epresi">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-epresi"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-epresi"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-veqdgb">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-veqdgb"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-veqdgb"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-idtoac">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-idtoac"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-idtoac"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-tdqihs">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-tdqihs"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-tdqihs"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-sapaoa">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-sapaoa"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-sapaoa"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-eqseih">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-eqseih"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-eqseih"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-suqmpc">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-suqmpc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-suqmpc"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l7-suqnsa">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l7-suqnsa"/>
+                </assertions>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l7-Dd1e2721">
+        <head xml:id="ppra-l7-Hraqcaf">Responsio ad quartam rationem secundae instantiae: utrum
+          Abraham credidit aliquid falsum?</head>
+        <p xml:id="ppra-l7-arfdmf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-arfdmf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-arfdmf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-iphfcf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-duqsfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-esdntf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-esdntf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-esdntf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-veqins">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-veqins"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-veqins"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l7-Dd1e3175">
+        <head xml:id="ppra-l7-Hd1e3177">Responsio ad quintam rationem secundae instantia: utrum
+          Spiritus Sanctus potest concurrere ad causandum assensum falsum?</head>
+        <p xml:id="ppra-l7-aafnaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-aafnaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-aafnaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-acqlec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-acqlec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l7-aacapf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l7-aacapf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l7-aacapf"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
