@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio8">
+      <head xml:id="ppra-l8-Hd1e102">Lectio 8, de Fide</head>
+      <div xml:id="ppra-l8-Dd1e105">
+        <head xml:id="ppra-l8-Hcaqaqo">
+          <supplied>Conclusio ad questionem originalem</supplied>
+        </head>
+        <p xml:id="ppra-l8-seqses">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-seqses"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-seqses"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l8-Dd1e184">
+        <head xml:id="ppra-l8-Hncefea">Nova conclusio et rationes: quod fides elevat animam</head>
+        <p xml:id="ppra-l8-eqpscv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eqpscv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eqpscv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-aiaesa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-aiaesa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-aiaesa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-ifeqqa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-ifeqqa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-ifeqqa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-ifaaid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-ifaaid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-ifaaid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-iftete">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-iftete"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-iftete"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-qacfcp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-qacfcp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-qacfcp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l8-Dd1e585">
+        <head xml:id="ppra-l8-Hlalala">
+          <supplied>Languores animae</supplied>
+        </head>
+        <p xml:id="ppra-l8-cvqrpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-cvqrpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-cvqrpa"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l8-Dd1e658">
+          <head xml:id="ppra-l8-Hplddid">
+            <supplied>Primus languor: deformatio imaginis Dei</supplied>
+          </head>
+          <p xml:id="ppra-l8-pelmis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-pelmis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-pelmis"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l8-pelrdt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-pelrdt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-pelrdt"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l8-slvaot">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-slvaot"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-slvaot"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l8-itaqat">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-itaqat"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-itaqat"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l8-Dd1e1108">
+          <head xml:id="ppra-l8-Hslslsl">
+            <supplied>Secundus languor</supplied>
+          </head>
+          <p xml:id="ppra-l8-spissd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-spissd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-spissd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l8-eihsis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eihsis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eihsis"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l8-Dd1e1331">
+            <head xml:id="ppra-l8-Hapapap">
+              <supplied>Aliquae propositiones</supplied>
+            </head>
+            <p xml:id="ppra-l8-uchqav">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l8-uchqav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-uchqav"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l8-eirsci">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eirsci"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eirsci"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l8-eqpsec">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eqpsec"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eqpsec"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l8-Dd1e1710">
+        <head xml:id="ppra-l8-Htltltl">
+          <supplied>Tertius languor</supplied>
+        </head>
+        <p xml:id="ppra-l8-tlarqa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-tlarqa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-tlarqa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l8-Dd1e2023">
+        <head xml:id="ppra-l8-Hd1e2025">Quartus languor</head>
+        <p xml:id="ppra-l8-qianem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-qianem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-qianem"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l8-Dd1e2155">
+        <head xml:id="ppra-l8-Hacacac">
+          <supplied>Aliquae conclusiones</supplied>
+        </head>
+        <p xml:id="ppra-l8-ipsdda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-ipsdda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-ipsdda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-scamic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-scamic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-scamic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-eqssda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eqssda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eqssda"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l8-eqsdaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-eqsdaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-eqsdaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-uhivms">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-uhivms"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-uhivms"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l8-duqipi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l8-duqipi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l8-duqipi"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
