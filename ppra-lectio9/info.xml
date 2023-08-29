@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio9">
+      <head xml:id="ppra-l9-Hd1e3488">Lectio 9, Prologus</head>
+      <div xml:id="ppra-l9-Dd1e3491">
+        <head xml:id="ppra-l9-Hrlprlp">[Recapitulatio lectionis praecedentis]</head>
+        <p xml:id="ppra-l9-seqcpt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-seqcpt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-seqcpt"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l9-Dd1e3729">
+          <head xml:id="ppra-l9-Hcercer">
+            <supplied>Conclusio ex recapitulatione</supplied>
+          </head>
+          <p xml:id="ppra-l9-eiefhs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-eiefhs"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l9-Dd1e3770">
+        <head xml:id="ppra-l9-Hpipipi">
+          <supplied>Plures infirmitates</supplied>
+        </head>
+        <p xml:id="ppra-l9-pisiid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-pisiid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-pisiid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-eetsiv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-eetsiv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-eetsiv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l9-Dd1e3902">
+        <head xml:id="ppra-l9-Hdpdpdp">
+          <supplied>Duae propositiones</supplied>
+        </head>
+        <p xml:id="ppra-l9-epiaca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-epiaca"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-epiaca"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-cimnei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-cimnei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-cimnei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l9-Dd1e4202">
+        <head xml:id="ppra-l9-Hapapap">
+          <supplied>Aliquae propositiones</supplied>
+        </head>
+        <p xml:id="ppra-l9-edeaap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-edeaap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-peqsdd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-peqsdd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-peqsdd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-suqads">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-suqads"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-suqads"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-suqetc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-suqetc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-suqetc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-stqfad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-stqfad"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-stqfad"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l9-suqeoc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-suqeoc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-suqeoc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallels; review breaks -->
+        <p xml:id="ppra-l9-suqnhl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-suqnhl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-suqnhl"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallels; review breaks -->
+        <p xml:id="ppra-l9-seqnff">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-seqnff"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-seqnff"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallels; review breaks -->
+        <p xml:id="ppra-l9-suqhne">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l9-suqhne"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-suqhne"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l9-Dd1e4625">
+          <head xml:id="ppra-l9-Hoauper">
+            <supplied>Obiecto ad ultimam propositionem et responsiones</supplied>
+          </head>
+          <p xml:id="ppra-l9-stdcsd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-stdcsd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-stdcsd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l9-rncesi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-rncesi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-rncesi"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel; needs review -->
+          <p xml:id="ppra-l9-scseec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-scseec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-scseec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l9-ruedss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-ruedss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-ruedss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l9-srpivi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l9-srpivi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l9-srpivi"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
