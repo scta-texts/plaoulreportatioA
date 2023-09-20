@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio10">
+      <head xml:id="ppra-l10-Hlpslps">Lectio 10, De fide</head>
+      <div xml:id="ppra-l10-Dd1e105">
+        <head xml:id="ppra-l10-Hpedddi">
+          <supplied>Plus evidentia de debilitate intellectus</supplied>
+        </head>
+        <p xml:id="ppra-l10-cmdetm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-cmdetm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-spqacm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-spqacm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-esieco">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-esieco"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-aedasb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-aedasb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-aedasb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-ciassc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-ciassc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-ciassc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l10-Dd1e409">
+        <head xml:id="ppra-l10-Hapsaps">
+          <supplied>Aliquae propositiones sequentes</supplied>
+        </head>
+        <p xml:id="ppra-l10-seasgd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-seasgd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-seasgd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-ehsssg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-ehsssg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-eqstre">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-eqstre"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-eqstre"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-eqshna">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-eqshna"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-eqshna"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-suqsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-suqsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-suqsda"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l10-Dd1e610">
+        <head xml:id="ppra-l10-Hupcdaf">
+          <supplied>Utrum philosophi cognoverint de articulis fide</supplied>
+        </head>
+        <p xml:id="ppra-l10-suqsic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-suqsic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-suqsic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-sdadfd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-sdadfd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-sdadfd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-scpimc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-scpimc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-scpimc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-cdqavi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-cdqavi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-cdqavi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l10-amsvpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l10-amsvpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l10-amsvpe"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
