@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio11">
+      <head xml:id="ppra-l11-Hd1e102">Lectio 11, De fide</head>
+      <div xml:id="ppra-l11-Dd1e105">
+        <head xml:id="ppra-l11-Hcddcaf">
+          <supplied>Conclusio de debilitate intellectus: nihil concludere potest contra articulos
+            fidei</supplied>
+        </head>
+        <p xml:id="ppra-l11-cmdcaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-cmdcaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-cmdcaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-pphbea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-pphbea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-pphbea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-spcsss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-spcsss"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-spcsss"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l11-Dd1e383">
+        <head xml:id="ppra-l11-Hacacac">
+          <supplied>Aliqua corollaria</supplied>
+        </head>
+        <p xml:id="ppra-l11-eiiovc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-eiiovc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-eiiovc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-sccepi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-sccepi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-sccepi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-suqovc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-suqovc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-suqovc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-suqsld">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-suqsld"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-suqsld"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l11-uvihsv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-uvihsv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-uvihsv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-suqqcr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-suqqcr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-suqqcr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-suqets">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-suqets"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-suqets"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-suqpmc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-suqpmc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-suqpmc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l11-Dd1e748">
+          <head xml:id="ppra-l11-Hslnsln">
+            <supplied>Significatio legis naturalis</supplied>
+          </head>
+          <p xml:id="ppra-l11-pcilhp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l11-pcilhp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-pcilhp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l11-viisaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l11-viisaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-viisaa"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l11-Dd1e978">
+        <head xml:id="ppra-l11-Hrpepni">
+          <supplied>Rationes pro erroribus de miraculis in processu naturalis
+            investigationis</supplied>
+        </head>
+        <p xml:id="ppra-l11-eppiea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-eppiea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-eppiea"/>
+          </assertions>
+        </p>
+        <!-- EXTREMELY fuzzy parallell; needs review -->
+        <p xml:id="ppra-l11-idqphf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-idqphf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-idqphf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-ipnmvp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-ipnmvp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-ipnmvp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l11-aehapn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-aehapn"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l11-Dd1e1347">
+        <head xml:id="ppra-l11-Hcdpcdp">
+          <supplied>Conclusiones de philosophia</supplied>
+        </head>
+        <p xml:id="ppra-l11-eppeiq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-eppeiq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-eppeiq"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel and break -->
+        <p xml:id="ppra-l11-sfqevp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l11-sfqevp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l11-sfqevp"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
