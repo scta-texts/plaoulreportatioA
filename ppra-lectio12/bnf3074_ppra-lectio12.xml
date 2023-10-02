@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 12 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 12 [Bnf 3074 Transcription]</title>
+          <date when="2023-09-28">September 28, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-09-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="35-r"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio12">
+        <head xml:id="ppra-l12-Hd1e87">Lectio 12, De fide</head>
+        <div xml:id="ppra-l12-Dd1e90">
+          <head xml:id="ppra-l12-Hd1e92">
+            <supplied>Conclusio</supplied>
+          </head>
+          <p xml:id="ppra-l12-sfqpqs">
+            <lb ed="#P"/>Consequenter ad vere philosophandum maxime requiritur theologia  
+          </p>
+          <p xml:id="ppra-l12-dipvas">
+            unde <ref xml:id="ppra-l12-Rd1e129"><name ref="#Augustine">augustinus</name> decimonono de civitate dei <title ref="#CityOfGod">de civitate dei</title></ref>
+            <lb ed="#P"/><name>varronem</name> recitasse <quote xml:id="ppra-l12-Qd1e166" source="http://scta.info/resource/adcd-l19-d1e3039" type="paraphrase">100 octoginta sectas de felicitate humana</quote> <pc type="punctus"/> et istud provenit ex debite 
+            <lb ed="#P"/>intellectus 
+          </p>
+          <p xml:id="ppra-l12-qaepdd">
+            quantum ad intellectum speculativum sicut dicit <ref xml:id="ppra-l12-Rd1e180"><name ref="#Aquinas">sanctus thomas</name> <pc type="punctus"/> </ref> primi philosophantes de natura rerum non poterat 
+            <lb ed="#P"/>concludere aliquod incorporale <pc type="virgula">/</pc> unde prima principia posuerunt corporea <pc type="punctus"/> et illa vocabant deum vel deos 
+            <lb ed="#P"/>ut aquam et poetae et diversis nominibus vocant et nominant unde tales <name ref="#Melissus">millessius</name> primum 
+            <lb ed="#P"/>principium posuit aquam et poetae occeanum <pc type="virgula">/</pc> alii thetim <pc type="virgula">/</pc> alii aerem etc etc quasi in finita 
+            <lb ed="#P"/>essent prima principia quae posuerunt <name>democritus</name> et <name>anaxagoras</name> esse <name>heraclitus</name> et <name ref="#Empedocles">empedocles</name> 4or 
+            <lb ed="#P"/>elementa unde isti philosophi ista de causa in multos inciderunt errores <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l12-Dd1e370">
+          <head xml:id="ppra-l12-Hd1e372">[Alia conclusio]</head>
+          <p xml:id="ppra-l12-echseh">
+            <pc type="pilcrow"/> Circa tamen haec investi<lb ed="#P"/>gatio 
+            <lb ed="#P"/>humana est conclusio non tamen deducta fideli auctoritate vel consuetudine vel gratia speciali non 
+            <lb ed="#P"/>concluderet ultra corporale aliquid existere <pc type="punctus"/> Ista conclusio sequitur ex praedictis 
+          </p>
+        </div>
+        <div xml:id="ppra-l12-Dd1e452">
+          <head xml:id="ppra-l12-Hd1e454">[Objectio]</head>
+          <p xml:id="ppra-l12-sciuip">
+            <pc type="pilcrow"/> Sed obicitur contra eam de <name ref="#Socrates">socrate</name> 
+            <lb ed="#P"/>et <name ref="#Aristotle">aristotele</name> qui humanam investigationem sequendo posuerunt unicum deum <pc type="punctus"/> ymmo et ipse <name>socrate</name> 
+            <lb ed="#P"/>propter hoc quasi martir mortuus est quia in hoc reprehendebat <sic>hathenienses</sic> ex 
+            <lb ed="#P"/>eo quod adorabant ydola <pc type="punctus"/> <pc type="pilcrow"/> Item <name>plato</name> naturali processu posuit unicum suum ut 
+            <lb ed="#P"/>patet in <title>tymeo</title> suo <pc type="punctus"/> <pc type="pilcrow"/> Item <name>aristoteles</name> 12 metaphysicae ponit unicum principium et ergo unum deum
+          </p>
+        </div>
+        <div xml:id="ppra-l12-Dd1e582">
+          <head xml:id="ppra-l12-Hd1e584">
+            <supplied>Responsio</supplied>
+          </head>
+          <p xml:id="ppra-l12-retuds">
+            <lb ed="#P"/><pc type="pilcrow"/> Respondendum est tenendo conclusionem ut prius pro quo notandum sicut dicit <ref xml:id="ppra-l12-Rd1e609"><name ref="#Josephus">iosephus</name> in libro <title ref="#Antiquities">antiquitatum</title></ref>
+            <lb ed="#P"/><quote xml:id="ppra-l12-QJcegppd">Caldaei et gentiles in principio non cognoverunt nisi creaturas</quote> ideo nec adorabant pro deo nisi creaturas 
+            <lb ed="#P"/>licet lex non esset data <pc type="punctus"/> tamen quilibet concludebat aliqualiter deum esse <pc type="virgula">/</pc> Ideo ymaginandum est quod illie qui fuerunt 
+            <lb ed="#P"/>derelicti non posuerunt nisi deum creaturam esse Sed tamen filii adae coluerunt verum deum <del rend="strikethrough"><pc type="pilcrow"/> 2o ymaginandum est</del> 
+            <lb ed="#P"/>quia introduci <pc type="pilcrow"/> Similiter <name>abraham</name> qui vidit caldeos esse deceptos <pc type="punctus"/> praedicavit eis esse unicum 
+            <lb ed="#P"/>deum et fuit positus ab ipsis in ignem <pc type="punctus"/> et liberatus est ab videtur caldeorum <pc type="virgula">/</pc> et est unus modus 
+            <lb ed="#P"/>quod ex consuetudine cum prophetia iudaei inclinanti fuerunt ponere unum deum  
+          </p>
+          <p xml:id="ppra-l12-snqabc">
+            <pc type="pilcrow"/> 2o ymaginandum est quod notandum 
+            <lb ed="#P"/>ex consuetudine audiendi sed ex scriptura quia nedum praedicatum est sed scriptum <pc type="punctus"/> Ita quod multi libri antequam 
+            <pb ed="#P" n="35-v"/>
+            <lb ed="#P"/>biblia esset in quibus aliqua erant scriptura de cultu unius dei <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l12-tpqidg">
+            <pc type="pilcrow"/> 3o dicitur quod per quamdam 
+            <lb ed="#P"/>necessitatem deus voluit concurrere cum philosophis ut unum deum praedicaret et hoc reducitur 
+            <lb ed="#P"/>ad gratiam specialem Et sic tam ex consuetudine tam auctoritate quam gratia speciali philosophi potuerunt habere 
+            <lb ed="#P"/>notitiam unius dei non tamen ex sola inclinatione naturali 
+          </p>
+          <p xml:id="ppra-l12-efnefs">
+            <pc type="virgula">/</pc> et nedum forte habuerunt ista secundum fidem 
+            <lb ed="#P"/>quod notat <ref xml:id="ppra-l12-Rd1e843"><name ref="#NicholasOfLyra">de lyra</name> ad <title ref="#rom">ad hebreos 41o</title></ref> quia ante adventum christi sufficiebat credere 
+            <lb ed="#P"/>duobus articulis scilicet deum esse et humano generi providere <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l12-eqogsd">
+            <pc type="pilcrow"/> Et quando obicitur quod <quote xml:id="ppra-l12-Qnusdus">nullus unquam salvabitur 
+            <lb ed="#P"/>vel salvabatur nisi in fide mediatoris</quote> <pc type="punctus"/> dicitur quod non oportuit expresse gentiles 
+            <lb ed="#P"/>habere specialiter articulum incarnationis <pc type="punctus"/> sed sufficiebat quod haberent generalem articulum 
+            <lb ed="#P"/>sub quo ille specialis continebatur <pc type="virgula">/</pc> et sic verissimile esset quod fuisset salvat <pc type="punctus"/> unde non est 
+            <lb ed="#P"/>credendum quod socrates qui vir tantae perfectionis fuit quod fuisset derelictus a deo ymmo si <sic>si</sic>
+            <lb ed="#P"/>habuit fidem et alii et vixerunt ut tradiderunt salvati fuerunt ymmo et potuerunt 
+            <lb ed="#P"/>venire ad multas particulares notitias
+          </p>
+          <p xml:id="l12esdaos">
+            <pc type="pilcrow"/> Et si dicatur erraverunt in aliquibus articulis dicitur 
+            <lb ed="#P"/>etiam ita faciunt christiani <pc type="virgula">/</pc> quia aliquibus articulis quandoque contradicunt <pc type="punctus"/> <ref xml:id="ppra-l12-Rd1e1009"><name ref="#Maimonides">rabi moses</name></ref> dicit 
+            <lb ed="#P"/>quod <quote xml:id="ppra-l12-QManhsso"><name ref="#Aristotle">aristoteles</name> de aeternitate mundi non habuit nisi oppinionem</quote> <pc type="punctus"/> nam dicit in <ref xml:id="ppra-l12-Rd1e1035">in libro <title ref="#Topics">thopicorum</title></ref>
+            <lb ed="#P"/>quod est probleuma <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l12-neqefs">
+            <pc type="pilcrow"/> Etiam narratur de <name ref="#Socrates">socrate</name> quod spiritum habuit familiarem <pc type="virgula">/</pc> Et <name ref="#Aristotle">aristoteles</name> secundum 
+            <lb ed="#P"/>expositionem <ref xml:id="ppra-l12-Rd1e1101"><name ref="#Albert">alberti</name> et <name ref="#Averroes">commentatoris</name> 3o <title>de anima</title></ref> et <ref xml:id="ppra-l12-Rd1e1110" source="http://scta.info/resource/aristmet-l12"> 12o <title ref="#Metaphysics">metaphysicae</title></ref> <pc type="pilcrow"/> ymaginatur primo unum modum considerandi 
+            <lb ed="#P"/>per sensum <pc type="pilcrow"/> Alius est modus per elevationem intellectus et fit per irradiationem primi 
+            <lb ed="#P"/>agentis ad intellectum nostrum <pc type="punctus"/> Ita quod deus est vitalis immutatio <pc type="virgula">/</pc> et quod ita sit videtur hoc 
+            <lb ed="#P"/>velle <ref xml:id="ppra-l12-Rd1e1153"><name>commentator</name> 3o de anima</ref> et <ref xml:id="ppra-l12-Rd1e1159"><name>albertus</name></ref> dicit quod intentio <ref xml:id="ppra-l12-Rd1e1175">aristotelis 10 ethicorum</ref> fuit quod in hoc 
+            <lb ed="#P"/>considerabat felicitatem et <unclear>augustinus</unclear> proportionale de ipso videtur dicere <pc type="punctus"/> et sic videtur quod habuit 
+            <lb ed="#P"/>coniunctionem intellectus sui ad intellectum agentem <pc type="pilcrow"/> Et sic potest salvari quod philosophi fuerunt 
+            <lb ed="#P"/>ducti non solum gratia speciali sicut dicit conclusio sed et secundum fidem quia mirum est quod posuisset applicationem 
+            <lb ed="#P"/>intellectus agentis ad intellectum nostrum nisi ita fuisset
+          </p>
+        </div>
+        <div xml:id="ppra-l12-Dd1e1238">
+          <head xml:id="ppra-l12-Hd1e1240">[Corollaria]</head>
+          <p xml:id="ppra-l12-sepear">
+            <pc type="pilcrow"/> Ex quo patet quod ab initio fidem 
+            <lb ed="#P"/>fuit inventionis humanae directivam <pc type="punctus"/> et quod sine ea non fuisset aliquid habitum de rebus arduis 
+          </p>
+          <p xml:id="ppra-l12-equami">
+            <lb ed="#P"/><pc type="pilcrow"/> Ex quo etiam patet quod fidei debet subesse et subiacere humana investigatio per modum servi 
+            <lb ed="#P"/>et <quote xml:id="ppra-l12-Qdesssc" source="http://scta.info/resource/aristpoli-l1">duae sunt conditiones</quote> secundum <ref xml:id="ppra-l12-Rd1e1313" corresp="#ppra-l12-Qdesssc"><name ref="#Aristotle">aristotelem</name> primo <title ref="#Politics">politicae</title></ref> <pc type="pilcrow"/> prima quod servus non sufficit sibi quia si 
+            <lb ed="#P"/>sibi delinqueretur erraret <pc type="punctus"/> <pc type="pilcrow"/> 2a est quod debet obedire <pc type="pilcrow"/> proportionaliter humana investigatio debet esse 
+            <lb ed="#P"/>subdita fidei <pc type="punctus"/> aliter deciperetur et directa fide sufficit quare et cetera
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

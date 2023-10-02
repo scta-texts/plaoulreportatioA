@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio12">
+      <head xml:id="ppra-l12-Hd1e87">Lectio 12, De fide</head>
+      <div xml:id="ppra-l12-Dd1e90">
+        <head xml:id="ppra-l12-Hd1e92">
+          <supplied>Conclusio</supplied>
+        </head>
+        <p xml:id="ppra-l12-sfqpqs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-sfqpqs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-sfqpqs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-dipvas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-dipvas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-dipvas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-qaepdd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-qaepdd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-qaepdd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l12-Dd1e370">
+        <head xml:id="ppra-l12-Hd1e372">[Alia conclusio]</head>
+        <p xml:id="ppra-l12-echseh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-echseh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-echseh"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l12-Dd1e452">
+        <head xml:id="ppra-l12-Hd1e454">[Objectio]</head>
+        <p xml:id="ppra-l12-sciuip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-sciuip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-sciuip"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l12-Dd1e582">
+        <head xml:id="ppra-l12-Hd1e584">
+          <supplied>Responsio</supplied>
+        </head>
+        <p xml:id="ppra-l12-retuds">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-retuds"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-retuds"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-snqabc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-snqabc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-snqabc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-tpqidg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-tpqidg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-tpqidg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-efnefs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-efnefs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-efnefs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-eqogsd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-eqogsd"/>
+          </assertions>
+        </p>
+        <p xml:id="l12esdaos">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12esdaos"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-neqefs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-neqefs"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l12-Dd1e1238">
+        <head xml:id="ppra-l12-Hd1e1240">[Corollaria]</head>
+        <p xml:id="ppra-l12-sepear">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-sepear"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-sepear"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l12-equami">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l12-equami"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l12-equami"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
