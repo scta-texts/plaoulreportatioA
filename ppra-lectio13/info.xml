@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio13">
+      <head xml:id="ppra-l13-Hd1e102">Lectio 13, De fide</head>
+      <div xml:id="ppra-l13-Dd1e105">
+        <head xml:id="ppra-l13-Hqfeeia">
+          <supplied>Qualiter fides est curativa potentiarum et infirmitatum animae</supplied>
+        </head>
+        <p xml:id="ppra-l13-ipvias">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-ipvias"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-ipvias"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l13-Dd1e230">
+          <head xml:id="pl2Hcppdid">
+            <supplied>Circa primum partem: deformitas imaginis Dei</supplied>
+          </head>
+          <div xml:id="ppra-l13-Dd1e237">
+            <head xml:id="ppra-l13-Hppippi">
+              <supplied>Prima pars imaginis</supplied>
+            </head>
+            <p xml:id="ppra-l13-qeaimf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-qeaimf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-qeaimf"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l13-cqffav">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-cqffav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-cqffav"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l13-dtsafm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-cqffav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-dtsafm"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l13-incvvs">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-incvvs"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-incvvs"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l13-Dd1e870">
+            <head xml:id="ppra-l13-Hspispi">
+              <supplied>Secunda pars imaginis</supplied>
+            </head>
+            <p xml:id="ppra-l13-qasope">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-qasope"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-qasope"/>
+              </assertions>
+            </p>
+          </div>
+          <!-- reason for break is fuzzy; review -->
+          <div xml:id="ppra-l13-Dd1e931">
+            <head xml:id="ppra-l13-Htptptp">
+              <supplied>Tertia pars</supplied>
+            </head>
+            <p xml:id="ppra-l13-pseiab">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l13-pseiab"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-pseiab"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l13-Dd1e963">
+        <head xml:id="ppra-l13-Hacacac">
+          <supplied>Aliqua corollaria</supplied>
+        </head>
+        <p xml:id="ppra-l13-hpiseh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-hpiseh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-scqnda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-scqnda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-scqnda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-suqiip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-suqiip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-suqiip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-suqiel">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-suqiel"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-suqiel"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-usqeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-usqeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-usqeip"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l13-Dd1e1465">
+          <head xml:id="ppra-l13-Hierier">
+            <supplied>Instantia et responsio</supplied>
+          </head>
+          <p xml:id="ppra-l13-itacee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-itacee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-itacee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-rcacai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-rcacai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-rcacai"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l13-Dd1e1529">
+        <head xml:id="ppra-l13-Hdtdtdt">[Definitio theologiae]</head>
+        <p xml:id="ppra-l13-epifvt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-epifvt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-epifvt"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l13-Dd1e1572">
+        <head xml:id="ppra-l13-Hutsssf">
+          <supplied>Utrum theologia sit superior fide?</supplied>
+        </head>
+        <p xml:id="ppra-l13-eehtep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-eehtep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-eehtep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-pppabt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-pppabt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-pppabt"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l13-ssqpat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l13-ssqpat"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-ssqpat"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l13-Dd1e1635">
+          <head xml:id="ppra-l13-Hpoeipi">[Prima objectio et responsio: quomodo habitus fidei
+            infusus potest intendi]</head>
+          <p xml:id="ppra-l13-sqqemd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-sqqemd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-sqqemd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-ripeaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-ripeaf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-ripeaf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l13-Dd1e1739">
+          <head xml:id="ppra-l13-Hsoedgd">
+            <supplied> Secunda objectio et responsio: quomodo contingentes propositiones ex
+              principiis naturalibus possunt deduci, duo genera deductionis </supplied>
+          </head>
+          <p xml:id="ppra-l13-stqntn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-stqntn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-stqntn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-rhnecp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-rhnecp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-rhnecp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-pqnibc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-pqnibc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-pqnibc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-etdils">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-etdils"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-etdils"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l13-hunvmp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l13-hunvmp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l13-hunvmp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

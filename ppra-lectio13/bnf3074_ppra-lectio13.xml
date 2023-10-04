@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 13 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 13 [Bnf 3074 Transcription]</title>
+          <date when="2023-10-03">October 03, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="36-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio13">
+        <head xml:id="ppra-l13-Hd1e102">Lectio 13, De fide</head>
+        <div xml:id="ppra-l13-Dd1e105">
+          <head xml:id="ppra-l13-Hqfeeia">
+            <supplied>Qualiter fides est curativa potentiarum et infirmitatum animae</supplied>
+          </head>
+          <p xml:id="ppra-l13-ipvias">
+            <lb ed="#P"/>Consequenter nunc venio ad ostendendum quod fides est animae sanativa <pc type="punctus"/> unde partis ymaginis ut dicetur 
+            <lb ed="#P"/>sunt deterupate <pc type="punctus"/> et in tantum quod ratio efficitur subiecta sensui <pc type="punctus"/> et intelligibilia caeca <pc type="punctus"/> et affectio de 
+            <lb ed="#P"/>pravata <pc type="pilcrow"/> contra primum fidem auget realiter causalitatem et reliquit ipsum victorio <unclear>sui</unclear> <pc type="virgula">/</pc> contra 
+            <lb ed="#P"/>2m confert intellectum lumen <pc type="virgula">/</pc> et quantum ad 3m tollit affectionem temporalium et inducit et 
+            <lb ed="#P"/>inducit affectionem spiritualium quia credit illa esse noxia ad propria perfectionem acquirendam <pc type="virgula">/</pc> ideo docet 
+            <lb ed="#P"/>illa esse fugienda
+          </p>
+          <div xml:id="ppra-l13-Dd1e230">
+            <head xml:id="pl2Hcppdid"><supplied>Circa primum partem: deformitas imaginis
+                Dei</supplied>
+            </head>
+            <div xml:id="ppra-l13-Dd1e237">
+              <head xml:id="ppra-l13-Hppippi"><supplied>Prima pars imaginis</supplied></head>
+              <p xml:id="ppra-l13-qeaimf">
+                <pc type="pilcrow"/> Quantum ad primum quod auget potentiam patet primo quia ipsa fidem est supprema dispositio 
+                <lb ed="#P"/>intellectus hic in via ergo per eam intellectus redditur fortissimus <pc type="virgula">/</pc> sicut per causalitatem ignis redditur 
+                <lb ed="#P"/>aqua potens <unclear>scaturizare</unclear> valide et per eius subtractionem impotens sic de fide 
+                <lb ed="#P"/>respectu intellectus <pc type="punctus"/> quia convenit sibi secundum suppremum sui gradum
+              </p>
+              <p xml:id="ppra-l13-cqffav">
+                <pc type="pilcrow"/> Confirmatur quia fides facit 
+                <lb ed="#P"/>exire intellectum in actum credendi respectu non apparentis et hoc est maxime virtutis 
+                <lb ed="#P"/>et vigoris <pc type="pilcrow"/> Item sicut caritas se habet ad voluntatem ita fides ad intellectum sed caritas reddit 
+                <lb ed="#P"/>voluntatem potentiorem ergo et fides intellectum <pc type="pilcrow"/> Unde posset huic addi quod fides est tantae potentiae 
+                <lb ed="#P"/>quod sibi annectitur virtus faciendi miracula quantum esset ex prima sui derivatione ymmo posset dici 
+                <lb ed="#P"/>virtus faciendi miracula Et christus hoc testari videtur nam dicit <quote xml:id="ppra-l13-Qd1e414" source="http://scta.info/resource/mt17_19">si habueritis fidem</quote> etc ymmo et 
+                <lb ed="#P"/>per fidem obediret corporalis creatura Et notandum est quod non dico creaturam habere vim faciendi 
+                <lb ed="#P"/>miracula ex se <pc type="pilcrow"/> utrum tamen vis miracularum sit communicabilis creaturae alias deo iuvante videbitur
+              </p>
+              <p xml:id="ppra-l13-dtsafm"> 
+                <pc type="pilcrow"/> dicitur 
+                <lb ed="#P"/>tamen ulterius quod potentia creativa est vis faciendi miracula <del rend="strikethrough">communicata</del> unde secundum <name>gregorium</name> dedit eis 
+                <lb ed="#P"/>partem faciendi miracula <pc type="virgula">/</pc> unde virtus faciendi miracula communicata creaturae potest vocari fides <pc type="punctus"/> 
+                <lb ed="#P"/>Et nota quod fides fuit virtus faciendi miracula quousque lex esset magis divulgata 
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l13-incvvs"> 
+                <lb ed="#P"/><pc type="pilcrow"/>3o dicitur quod huiusmodi vigore remansit sibi quantum oportuit scilicet quantum ad maiorem promulgationem 
+                <lb ed="#P"/>et tunc non oportuit postea fieri non oportet tamen negare quin fidem concurrat ad miracula facienda 
+                <lb ed="#P"/>et quin habeat propriam habitudinem in aliquo gradu <pc type="punctus"/> Ita quod daretur fides sub tali gradu 
+                <lb ed="#P"/>quod esset virtus faciendi miracula saltem aptitudinaliter et istud consonat sacrae scripturae 
+                <lb ed="#P"/><pc type="pilcrow"/> Et sic ergo patet quod vis talis debet attribui fidei <pc type="punctus"/> <pc type="virgula">/</pc> et confert intellectui activitatem et <unclear>dominium</unclear> 
+                <lb ed="#P"/>quia ex fide <del>intellectus</del> videtur obedire creatura et si non extra se <pc type="punctus"/> tamen intra se <pc type="punctus"/> Et per hoc solvitur 
+                <lb ed="#P"/>ratio a servitute <pc type="virgula">/</pc> et per fidem etiam intellectus efficitur victor dyaboli quoniam apostolus ait <quote xml:id="ppra-l13-Qd1e718" source="http://scta.info/resource/Iio5_4">haec est victoria quae vincit 
+                <lb ed="#P"/><sic>mondum</sic> fides vestra</quote> et alibi <quote xml:id="ppra-l13-Qcrffif">cui resistite fortes in fide</quote> <pc type="punctus"/> et <ref xml:id="ppra-l13-Rd1e752"><title ref="#hebr">ad hebraeos</title> 11mo </ref> <quote xml:id="ppra-l13-Qspffvr" source="http://scta.info/resource/hebr11_33">Sancti 
+                <lb ed="#P"/>per fidem vixerunt regna</quote> <pc type="punctus"/> quia revera nisi fides esset sensualitas supra rationem divinum haberet 
+                <lb ed="#P"/>sed fides restituit rationem in suo domino <pc type="punctus"/> et subicit sensum
+              </p>
+            </div>
+            <div xml:id="ppra-l13-Dd1e870">
+              <head xml:id="ppra-l13-Hspispi"><supplied>Secunda pars imaginis</supplied></head>
+              <p xml:id="ppra-l13-qasope"> 
+                <pc type="pilcrow"/>Quantum ad partem intelligentiae 
+                <lb ed="#P"/>confert lumen <pc type="punctus"/> quia rpugnat seu reppellit apparentias quae videntur contra fidem 
+              </p>
+            </div>
+            <!-- reason for break is fuzzy; review -->
+            <div xml:id="ppra-l13-Dd1e931">
+              <head xml:id="ppra-l13-Htptptp"><supplied>Tertia pars</supplied></head>
+              <p xml:id="ppra-l13-pseiab">
+                <pc type="pilcrow"/>
+                et ultra sequitur quod 
+                <pb ed="#P" n="36-v"/>
+                <lb ed="#P"/>tollit affectiones malas
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l13-Dd1e963">
+          <head xml:id="ppra-l13-Hacacac"><supplied>Aliqua corollaria</supplied></head>
+          <p xml:id="ppra-l13-hpiseh">
+            <pc type="pilcrow"/> Ex quo inferuntur aliqua <pc type="pilcrow"/> primo sequitur qualiter fides valet ad 
+            <lb ed="#P"/>resistendum temptationibus contra machinationes et qualiter non subicitur influentiis nec
+            <lb ed="#P"/>ymaginibus et ceteris huiusmodi 
+          </p>
+          <p xml:id="ppra-l13-scqnda">
+            <pc type="pilcrow"/> ulterius sequitur qualiter describitur quod lex christi non potuit ex celsis 
+            <lb ed="#P"/>ignoscentes ita deturpatur dicentes aliquid ibidem competere quae non competunt
+          </p>
+          <p xml:id="ppra-l13-suqiip">
+            <pc type="pilcrow"/> Ulterius 
+            <lb ed="#P"/>sequitur quod ratio probabilis vigore fidei efficitur scientifica et hoc dupliciter primo <pc type="virgula">/</pc> quia intellectus vigorimus est 
+            <lb ed="#P"/>ideo ratio quae prius non erat demonstrativa quibus erit sicut si capiamus quod aliquis non sit capax demonstrationis 
+            <lb ed="#P"/><c>a</c> non capiet rationem tamquam demonstrationem et alter magis caperet Capiamus ergo gradum 
+            <lb ed="#P"/>excessus istius non adiutus fide <pc type="virgula">/</pc> et excessum fidei <pc type="virgula">/</pc> tunc iste excessus est maior <pc type="punctus"/> 
+            <lb ed="#P"/><pc type="pilcrow"/> unde fides reddit intellectum magis activum et illuminativum
+          </p>
+          <p xml:id="ppra-l13-suqiel">
+            <pc type="pilcrow"/> Ulterius sequitur quod fidem tantum potest 
+            <lb ed="#P"/>augeri quod vigorabit intellectum proprie elevationem status innocentiae quantum ad vigorem non nego 
+            <lb ed="#P"/>tamen quin sint aliquae perturbationes <pc type="punctus"/> patet conclusio quia ex fide habet augere intellectum et ideo videtur 
+            <lb ed="#P"/>si gradus duplex addatur quin in <sic>dupplo</sic> vigorizet
+          </p>
+          <p xml:id="ppra-l13-usqeip">
+            <pc type="pilcrow"/> Ulterius sequitur etiam quod per adiutorium fidei 
+            <lb ed="#P"/>deducuntur articuli fidei in lumine naturali <pc type="virgula">/</pc> quia in lumine naturali possunt fieri rationes ad probandum quod deus est  
+            <lb ed="#P"/>ymmo et lumen naturale continet articulos fidei necessarios scilicet quod deus est trinus et unus <pc type="virgula">/</pc> tamen deductio latet
+            <lb ed="#P"/>propter nimiam distantiam conclusionis a principiis <pc type="pilcrow"/> Et ex quo articulus est quod deus est trinus sequitur ex principiis 
+            <lb ed="#P"/>luminis naturalis <pc type="virgula">/</pc> et non restat difficultas nisi ex parte deductionis <pc type="punctus"/> et fides potest fortificare 
+            <lb ed="#P"/>intellectum non videtur inconveniens quin per adiutorium fidei et specialiter per intentionem fidei demonstrari 
+            <lb ed="#P"/>possit deum esse trinum
+          </p>
+          <div xml:id="ppra-l13-Dd1e1465">
+            <head xml:id="ppra-l13-Hierier"><supplied>Instantia et responsio</supplied></head>
+            <p xml:id="ppra-l13-itacee">
+              <pc type="pilcrow"/> Sed diceret quis quod fides non intenditur <pc type="virgula">/</pc> quia ita firmiter credit 
+              <lb ed="#P"/>vetula sicut theologus 
+            </p>
+            <p xml:id="ppra-l13-rcacai">
+              <pc type="virgula">/</pc> negatur antecedens et de quod firmitas fidei attenditur per hoc quod omnem 
+              <lb ed="#P"/>rationem abnegat quantumcumque sit evidens ratio talis <pc type="punctus"/> et quia quilibet gradus fidei facit hoc ideo 
+              <lb ed="#P"/>firmiter non capit latitudinem ideo non intenditur fidem in esse firmitatis sed intenditur in esse 
+              <lb ed="#P"/>vigoris <pc type="punctus"/> et luminositatis quia reddit intellectum potentiorem et sic intellectus posset tantum elevari 
+              <lb ed="#P"/>quod elevatur ad tantam cognitionem sicut esse cognitio angeli <pc type="punctus"/> et hic deo iuvante intendo describere 
+              <lb ed="#P"/>quod elevatur ad tantam cognitionem sicut esset cognitio angeli <pc type="punctus"/> et hic deo iuvante intendo describere 
+              <lb ed="#P"/>theologiam
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l13-Dd1e1529">
+          <head xml:id="ppra-l13-Hdtdtdt">[Definitio theologiae]</head>
+          <p xml:id="ppra-l13-epifvt"> 
+            <pc type="pilcrow"/> Unde theologiam voco notitiam articulorum fidei in lumine naturali deductorum per 
+            <lb ed="#P"/>iuvamen fidei cum vigore intellectus 
+          </p>
+        </div>
+        <div xml:id="ppra-l13-Dd1e1572">
+          <head xml:id="ppra-l13-Hutsssf"><supplied>Utrum theologia sit superior fide?</supplied></head>
+          <p xml:id="ppra-l13-eehtep">
+            <pc type="pilcrow"/> Ex quo infero quod theologia non est superior fide <pc type="punctus"/> 
+            <lb ed="#P"/>quia licet theologia sit clarior et delectatior non tamen est perfectior
+          </p>
+          <p xml:id="ppra-l13-pppabt"> 
+            prima pars huius correlarii patet quia licet fides de se 
+            <lb ed="#P"/>sit luminosa tamen habet enigma <pc type="virgula">/</pc> theologia vero non <pc type="punctus"/> et nihilominus fidem est speciei nobilioris <pc type="punctus"/> <pc type="pilcrow"/> ulterius 
+            <lb ed="#P"/>sequitur quod ad <unclear>prosequendum</unclear> theologice expedit proficere maxime in fide <pc type="punctus"/> quia fidem est causa necessaria requisita ad bene 
+            <lb ed="#P"/>theologizandum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l13-ssqpat">
+            <pc type="pilcrow"/> Item sequitur quod secundum proportionem augmenti fidei <pc type="punctus"/> potest augmentari theologia ceteris paribus
+          </p>
+          <div xml:id="ppra-l13-Dd1e1635">
+            <head xml:id="ppra-l13-Hpoeipi">[Prima objectio et responsio: quomodo habitus fidei infusus potest intendi]</head>
+            <p xml:id="ppra-l13-sqqemd">
+              <lb ed="#P"/><pc type="pilcrow"/> Sed quaeret quis quo modo potest intendi habitus 
+            </p>
+            <p xml:id="ppra-l13-ripeaf"> 
+              <pc type="pilcrow"/> unde ymaginor quod proportionaliter sicut 
+              <lb ed="#P"/>de caritate scilicet quando occurrit materia de diligendo deum et proximum tunc tales actus sunt meritorii caritatis et 
+              <lb ed="#P"/>augetur habitus <pc type="punctus"/> Ita etiam per exitum intellectus in fidem frequenter augetur fidem et debet <unclear>tantum</unclear>
+              <lb ed="#P"/>facere quod si possit <sic>exeat</sic> in actum fidei sine ratione
+            </p>
+          </div>
+          <div xml:id="ppra-l13-Dd1e1739">
+            <head xml:id="ppra-l13-Hsoedgd">
+              <supplied> Secunda objectio et responsio: quomodo contingentes propositiones ex principiis naturalibus possunt deduci, duo genera deductionis </supplied>
+            </head>
+            <p xml:id="ppra-l13-stqntn">
+              <pc type="pilcrow"/> Sed quaeretur de articulis fidei 
+              <lb ed="#P"/>contingentibus quo modo possunt deduci in lumine naturali quia articulis incarnationis non videtur habere 
+              <lb ed="#P"/>habitudinem ad lumen naturale <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l13-rhnecp">
+              <pc type="pilcrow"/> Respondeo considerando quod aliqui sunt articuli qui 
+              <lb ed="#P"/>quidam habitudinem habent ad creaturam et tunc huiusmodi articuli possunt deduci per media intrinseca 
+              <lb ed="#P"/>id est per propria principia <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l13-pqnibc">
+              <pc type="pilcrow"/> Unde circa hoc est advertendum quod duplex potest esse deductio veritatis una per principia 
+              <lb ed="#P"/>intrinsece sicut gemoetria <pc type="punctus"/> quia super <del>angelum</del> recta litteram datam contingit <sic>3angulum</sic> <unclear>aequivalatum callo?re</unclear>
+              <lb ed="#P"/>Alia per media extrinseca suadendo vel rethorice vel etc <pc type="punctus"/> sicut quod <sic>3angulus</sic> habet 3es etc vel stat quod 
+              <lb ed="#P"/>sortes recordetur se scivisse aliquam propositionem licet nunc nesciret naturalibus
+            </p>
+            <p xml:id="ppra-l13-etdils"> 
+              <pc type="punctus"/> potest tamen deduci per extrinseca 
+              <lb ed="#P"/>et hoc per rationes quae consueverunt fieri ad probandum fidem <pc type="punctus"/> tamen non debet <del rend="strikethrough">de</del> induci ut credatur 
+              <lb ed="#P"/>sed probari ut probabilitas eius ostendatur adversariis
+              
+              <pc type="pilcrow"/> Quantum est de extrinsecis deo dante dicetur in 
+              <lb ed="#P"/>alia lectione <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l13-hunvmp">
+              <!--not really part of the text, more like a marginal note -->
+              <pc type="pilcrow"/>hoc usque non incepit reapportare <pc type="punctus"/> sed subsequentia reaportavi primo 
+              <lb ed="#P"/>in tabulis <pc type="punctus"/> ut verius post hoc ponerem redigendo in istis scriptis quae satis cito 
+              <lb ed="#P"/><unclear>broillavi</unclear> ut <sic>ut</sic> videre manifeste potestis <!-- in line marginal note: "incepit hic Ricardus reaportare de se -->
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
