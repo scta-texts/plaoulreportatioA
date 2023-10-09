@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 15 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 15 [Bnf 3074 Transcription]</title>
+          <date when="2023-10-09">October 09, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-10-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="38-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio15">
+        <head xml:id="ppra-l15-Hd1e102">Lectio 15, De fide</head>
+        <!-- not really present
+          <div xml:id="ppra-l15-Dd1e105">
+          <head xml:id="ppra-l15-Hrdpdpc">
+            <supplied>Recapitulatio duarum praedictarum conclusionum</supplied>
+          </head>
+          <p xml:id="ppra-l15-seqapd">
+            
+            Sciendum est quod in
+              praecedenti
+            lectione positae fuerunt duae conclusiones.
+            Una fuit quod actus sciendi et actus fidei
+            de eodem sunt compossibiles.
+            Secunda fuit quod lumen naturale in infinitum ascendit per
+            latitudinem veritatum a principiis distantium.
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e139">
+          <head xml:id="ppra-l15-Hcpcnsc">
+            <supplied>Circa primam conclusionem: opinio quod actus fidei actus scientificus non sunt
+              compossibiles</supplied>
+          </head>
+          <p xml:id="ppra-l15-ecppss">
+            Et
+              circa
+            primam conclusionem fuit tacta opinio
+              communis
+             quod: actus fidei et actus scientificus
+              respectu eiusdem non possunt simul stare
+            .
+          </p>
+        </div>-->
+        <div xml:id="ppra-l15-Dd1e179">
+          <head xml:id="ppra-l15-Hopdpdc">
+            <supplied>Opinio Petri de Candia</supplied>
+          </head>
+          <p xml:id="ppra-l15-ncmani">
+            <lb ed="#P"/>Consequenter circa materiam <add place="above-line">praedictam</add> <name ref="#Candia">de candia</name> ponit istam conclusionem videlicet quod actus credendi et sciendi
+            <lb ed="#P"/>sunt compossibiles quantum ad habitudinem subiectivam <pc type="virgula">/</pc> non tamen sic quod uterque immutet potentiam
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e328">
+          <head xml:id="ppra-l15-Hrapcrc">
+            <supplied>Responsio ad opinionem Petri de Candia: quattuor conclusiones circa rationem
+              cognitionis</supplied>
+          </head>
+          <p xml:id="ppra-l15-cicimc">
+            <lb ed="#P"/><pc type="pilcrow"/> pro cuius declaratione ymaginatur quod possibile esset quod tales duo actus essent in potentia non tamen quilibet 
+            <lb ed="#P"/>immutaret sed solum unus <pc type="punctus"/> <pc type="pilcrow"/> pro cuius evidentia ponuntur aliqua in generali
+          </p>
+          <div xml:id="ppra-l15-Dd1e374">
+            <head xml:id="ppra-l15-Hpccdce">
+              <supplied>Prima conclusio: cognitio non dicitur "cognitio" essentialiter</supplied>
+            </head>
+            <p xml:id="ppra-l15-pdenep">
+              primum est quod cognitio 
+              <lb ed="#P"/>non dicitur intrinsece et essentialiter cognitio <pc type="virgula">/</pc> probatur quia circumscriptis potentia et obiecto non remaneret ocgnitio 
+              <lb ed="#P"/>ergo non est intrinsece cognitio quia illud quod est intrinsece aliquale manet tale vel <pc type="virgula">/</pc> circumscriptis 
+              <lb ed="#P"/>antecedens patet <pc type="virgula">/</pc> quia nisi esset cognitio nullius etc <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l15-spcsqq">
+              <pc type="pilcrow"/> Item si cognitio esset intrinsece cognitio cum omnis 
+              <lb ed="#P"/>gradus repositus in latitudine <unclear>cognitiorum</unclear> sit in latitudine vitae sequitur quod cognitio viveret <pc type="pilcrow"/> Etiam 
+              <lb ed="#P"/>sequeretur quod cognitio esset vita intrinsece et sic esset perfectior quam concederetur
+            </p>
+            <p xml:id="ppra-l15-taippp">
+              <pc type="pilcrow"/> 3o quia cognitio esset 
+              <lb ed="#P"/>intrinsece cognitio et poneretur in lapide denominari lapidem intrinsece cognoscentem consequens est falsum 
+              <lb ed="#P"/>quia non stat <unclear>cum natura lapidis</unclear> <pc type="punctus"/> et sic si poneretur cognitio in lapide non cognosceret <pc type="punctus"/> et sum 
+              <lb ed="#P"/>cognitio non est intrinsece cognitio Et pari ratione verum est de omnibus actibus <pc type="punctus"/> volendi credendi 
+              <lb ed="#P"/>ymmo et de actibus voluntatis <pc type="punctus"/> sicut de actibus intellectus et sic patet propositio praedicta <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l15-Dd1e557">
+            <head xml:id="ppra-l15-Hsccpua">
+              <supplied>Secunda conclusio: cognitio non dicitur "cognitio" ex habitudine potentiae
+                ut activa</supplied>
+            </head>
+            <p xml:id="ppra-l15-scnicv">
+              <pc type="pilcrow"/> 2a propositio 
+              <lb ed="#P"/>non ex habitudine potentiae ut activa est dicitur cognitio ita quod cognitio habet multiplicem habitudinem potentiae 
+              <lb ed="#P"/>quia habet habitudinem effectus et formae inhaerent probatur conclusio quia habitudo productionis notitiae est prior immutatione 
+              <lb ed="#P"/>potentiae quia prius producatur quam immutet <pc type="virgula">/</pc> et sic deus posset facere quod produceret in aliquo cognitionem et tamen 
+              <lb ed="#P"/>illud non cognosceret per eam Et sic ex tali habitudine non dicitur huiusmodi cognitio notitia quia 
+              <lb ed="#P"/>posita habitudine staret quod non esset notitia 
+            </p>
+            <p xml:id="ppra-l15-sncapc">
+              <pc type="pilcrow"/> Item si ita esset sic videretur de qualibet notitia 
+              <lb ed="#P"/>modo instantia datur de notitia divina
+            </p>
+          </div>
+          <div xml:id="ppra-l15-Dd1e677">
+            <head xml:id="ppra-l15-Htccpur">
+              <supplied>Tertia conclusio: cognitio non dicitur <mentioned>cognitio</mentioned> ex
+                habitudine potentiae ut receptiva</supplied>
+            </head>
+            <p xml:id="ppra-l15-tccsis">
+              <pc type="pilcrow"/> 3a propositio cognitio non dicitur cognitio in habitudine ad suam 
+              <lb ed="#P"/>potentia ut est subiectiva vel receptiva <pc type="virgula">/</pc> probatur quia de facto est aliqua cognitio quae non in aliquo subiecto 
+              <lb ed="#P"/>ut patet de divina <pc type="virgula">/</pc> et sic de ratione formalis cognitionis non est quod sit in subiecto <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l15-spccee">
+              <pc type="pilcrow"/> Confirmatur 
+              <lb ed="#P"/>quia per dei potentiam si cognitio poneretur in lapidem <pc type="virgula">/</pc> haberet habitudinem subiectivam et tamen 
+              <lb ed="#P"/>lapis non denominaretur cognoscens <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l15-Dd1e745">
+            <head xml:id="ppra-l15-Hqccevi">
+              <supplied>Quarta conclusio: cognitio dicitur "cognitio" ex habitudine ad suam
+                potentiam ut perceptivam et vitaliter immutabilem</supplied>
+            </head>
+            <p xml:id="ppra-l15-qccasp">
+              <pc type="pilcrow"/> 4a propositio cogniti dicitur esse cognitio in habitudine ad 
+              <lb ed="#P"/>suam potentiam ut <seg type="correction">perceptiva<del rend="strikethrough">m</del></seg> est immutabilis potentiae quia ex quo non est intrinsece cognitio oportet quod hoc 
+              <lb ed="#P"/>sit ex aliqua habitudine extrinseca et non in habitudine aliud potentiam ut activa est nec ut passiva
+              <lb ed="#P"/>ergo conclusio vera cum non videantur plures esse habitudines
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l15-Dd1e794">
+          <head xml:id="ppra-l15-Hcccccc">
+            <supplied>Corollaria circa cognitionem</supplied>
+          </head>
+          <div xml:id="ppra-l15-Dd1e802">
+            <head xml:id="ppra-l15-Hthpasc">
+              <supplied>Triplex habitudo potentiae ad suam cognitionem</supplied>
+            </head>
+            <p xml:id="ppra-l15-eppdah">
+              <pc type="pilcrow"/> Unde inter cognitionem et suam potentiam sunt 
+              <lb ed="#P"/>3es habitudines scilicet habitudo subiectiva quae recipit formam <pc type="punctus"/> alia activam <pc type="punctus"/> alia cognitiva quia per eam cognoscit 
+              <lb ed="#P"/>et potentia per eam fertur in obiectum
+            </p>
+          </div>
+          <!-- fuzzy break and parallel -->
+          <div xml:id="ppra-l15-Dd1e887">
+            <head xml:id="ppra-l15-Hcepcne">[Cognitio extra potentiam cognitivam cognitionem non est]</head>
+            <p xml:id="ppra-l15-eipncb">
+              <pc type="pilcrow"/> Unde dicit <name>de rippa</name> quod istae 3es habitudines sunt separabiles <pc type="pilcrow"/> Utrum tamen 
+              <lb ed="#P"/>possunt immutari post videbitur deo dante postea
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l15-Dd1e3970">
+          <head xml:id="ppra-l15-Hd1e3972">Circa textum</head>
+          <p xml:id="ppra-l15-d1e3975">
+            hic incepi reaportare distinctiones textuales
+            <lb ed="#P"/><pc type="pilcrow"/> Prima distinctio cuius conclusio prima quod filius procedit a patre per modum naturae spiritus vero per modum spirationis 
+            <lb ed="#P"/>unde nota quod spiritus sanctus procedit ab ambobus per modum dati filius a patre per modum nati <pc type="pilcrow"/> unde notandum est quod omne quod 
+            <pb ed="#P" n="38-v"/>
+            <lb ed="#P"/>nascitur procedit <pc type="punctus"/> sed non omne quod procedit nascitur <pc type="pilcrow"/> Sciendum est quod <name>augustinus</name> 
+            <lb ed="#P"/>dicit spiritum sanctum genitum <name>ierominus</name> vero ingenitum <pc type="punctus"/> Et uterque benedixit quia <name>augustinus</name> 
+            <lb ed="#P"/>utebatur illo termino genitum id est spiratum et <name>ierominus</name> ingenitum id est non genitum  <pc type="punctus"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

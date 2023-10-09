@@ -49,12 +49,12 @@
       </div>
     </front>
     <body>
-      <div xml:id="lectio14">
-        <head xml:id="l14-Hd1e102">Lectio 14, Prologus</head>
-        <div xml:id="l14-Dd1e105">
-          <head xml:id="l14-Hrpcdic">[Recapitulatio praedicta conclusio: cum fide, ratio naturalis
+      <div xml:id="ppra-lectio14">
+        <head xml:id="ppra-l14-Hd1e102">Lectio 14, Prologus</head>
+        <div xml:id="ppra-l14-Dd1e105">
+          <head xml:id="ppra-l14-Hrpcdic">[Recapitulatio praedicta conclusio: cum fide, ratio naturalis
             potest devenire in cognitionem articulorum fidei]</head>
-          <p xml:id="l14-iplimi">
+          <p xml:id="ppra-l14-iplimi">
             <lb ed="#P"/>Consequenter circa fidei materiam prius fuit tactum qualiter fides habet roborare intellectum et eius 
             <lb ed="#P"/>activitatem augere <pc type="punctus"/> et illuminare in tactum quod vi roboris et augmenti activitatis intellectus in 
             <lb ed="#P"/>actum augetur quod sic ductus in lumine naturali potest venire in cognitionem articulorum fidei per media intrinseca 
@@ -75,11 +75,11 @@
             <lb ed="#P"/>probabiliter illa dicam ne videar in errorem pelagii decidere 
           </p>
         </div>
-        <div xml:id="l14-Dd1e207">
-          <head xml:id="l14-Hmepppf">[Media extrinseca per quae potest probari fides]</head>
-          <p xml:id="l14-riivrc">
+        <div xml:id="ppra-l14-Dd1e207">
+          <head xml:id="ppra-l14-Hmepppf">[Media extrinseca per quae potest probari fides]</head>
+          <p xml:id="ppra-l14-riivrc">
             <pc type="pilcrow"/> Et ergo restat addere 
-            <lb ed="#P"/>media extrinseca materia fidei declarativa <pc type="pilcrow"/> Circa quae sit ista propositio quam <ref xml:id="l14-Rd1e225"><name ref="#WilliamOfParis">guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de 
+            <lb ed="#P"/>media extrinseca materia fidei declarativa <pc type="pilcrow"/> Circa quae sit ista propositio quam <ref xml:id="ppra-l14-Rd1e225"><name ref="#WilliamOfParis">guillelmus parisiensis</name> in libro <title ref="#OnFaithAndLaws">de 
             <lb ed="#P"/>fide et legibus</title></ref> videtur ponere <pc type="punctus"/> videlicet <pc type="virgula">/</pc> quod ab initio mundi usque ad incarnationem per praedicantes 
             <lb ed="#P"/>hanc fidem facta fuerunt miracula in atestationem fidei <pc type="virgula">/</pc> unde fidem tollit impedimenta
             <lb ed="#P"/>quae possunt impedire <pc type="punctus"/> Ita quod assensus non est ex fide sed fides iuvat Et miracula 
@@ -92,50 +92,50 @@
             <lb ed="#P"/>ratione suscipientium <pc type="punctus"/> et istud bene moveret quod esset firma fides et vera 
           </p>
         </div>
-        <div xml:id="l14-Dd1e414">
-          <head xml:id="l14-Hrosapf">[Ratio octo Scoti ad probandum fidem]</head>
-          <p xml:id="l14-smaqhc">
+        <div xml:id="ppra-l14-Dd1e414">
+          <head xml:id="ppra-l14-Hrosapf">[Ratio octo Scoti ad probandum fidem]</head>
+          <p xml:id="ppra-l14-smaqhc">
             <pc type="pilcrow"/> praeter istam 
-            <lb ed="#P"/>rationem sunt et aliae rationes et <ref xml:id="l14-Rd1e427"><name ref="#Scotus">doctor subtilis</name> in prologo suo</ref> ponit 8to quae debent movere 
+            <lb ed="#P"/>rationem sunt et aliae rationes et <ref xml:id="ppra-l14-Rd1e427"><name ref="#Scotus">doctor subtilis</name> in prologo suo</ref> ponit 8to quae debent movere 
             <lb ed="#P"/>quod ista fides sit saluberrima
           </p>
-          <p xml:id="l14-prpqhc">
+          <p xml:id="ppra-l14-prpqhc">
             <pc type="pilcrow"/> prima est firma prophetia futurum absentium 
           </p>
-          <p xml:id="l14-srecfn">
+          <p xml:id="ppra-l14-srecfn">
             <pc type="pilcrow"/> 2a est perfecta <seg type="correction"><subst><del rend="strikethrough">dis</del><add>con</add></subst>cordia</seg>
             <lb ed="#P"/>doctorum a longe distantium 
           </p>
-          <p xml:id="l14-trefpe">
+          <p xml:id="ppra-l14-trefpe">
             <pc type="pilcrow"/> 3a auctoritas efficax et firma discribentium
           </p>
-          <p xml:id="l14-qrsead">
+          <p xml:id="ppra-l14-qrsead">
             <pc type="pilcrow"/>4a <del rend="strikethrough">s</del> devota 
             <lb ed="#P"/>simplicitas promulgantium <pc type="punctus"/> 
           </p>
-          <p xml:id="l14-qredca">
+          <p xml:id="ppra-l14-qredca">
             <pc type="pilcrow"/> 5a sollicitudo capacitatis recipientium <pc type="punctus"/>
           </p>
-          <p xml:id="l14-srlpfm">
+          <p xml:id="ppra-l14-srlpfm">
             <pc type="pilcrow"/> 6a limpiditas miraculorum 
             <lb ed="#P"/>evidentium <pc type="punctus"/>
           </p>
           <!-- not present 
-            <p xml:id="l14-esomdm">
+            <p xml:id="ppra-l14-esomdm">
           </p>-->
-          <p xml:id="l14-srepem">
+          <p xml:id="ppra-l14-srepem">
             <pc type="pilcrow"/> 7ma rationabilitas contentorum et contientium <pc type="punctus"/>
           </p>
-          <!--<p xml:id="l14-aemeip">
+          <!--<p xml:id="ppra-l14-aemeip">
           </p>-->
-          <p xml:id="l14-oretam">
+          <p xml:id="ppra-l14-oretam">
             <pc type="pilcrow"/> 8va et ultima stabilitas ecclesiae et 
             <lb ed="#P"/>firmiter credentium 
           </p>
         </div>
-        <div xml:id="l14-Dd1e1675">
-          <head xml:id="l14-Hprmppf"><supplied>Plus rationes morales pro probandum fidem</supplied></head>
-          <p xml:id="l14-mesdfn">
+        <div xml:id="ppra-l14-Dd1e1675">
+          <head xml:id="ppra-l14-Hprmppf"><supplied>Plus rationes morales pro probandum fidem</supplied></head>
+          <p xml:id="ppra-l14-mesdfn">
             <pc type="punctus"/> primum probatur quia prophetae praedixerunt a longe illa quae de directo evenerunt 
             <lb ed="#P"/>signum est evidens quod a deo loquebantur quia cum multum distaret a curis saecularibus signum est quod hoc 
             <lb ed="#P"/>non revelatum est a dyabolo et tamen ita saepe eveniebat ideo fiebat deo revelante <pc type="pilcrow"/> 2m probatur quia 
@@ -193,16 +193,16 @@
           </p>
           <!-- sense here seems best understood as "these are the reasons, which if attended to by a well disposed intellect, not affected by its opposite...and even illuminated by faith, make great evidence for our faith." -->
         </div>
-        <div xml:id="l14-Dd1e1833">
-          <head xml:id="l14-Hccassf">
+        <div xml:id="ppra-l14-Dd1e1833">
+          <head xml:id="ppra-l14-Hccassf">
             <supplied>Corollaria contra aliquos, qui dicunt quod theologia est scientia superior
               fide</supplied>
           </head>
-          <p xml:id="l14-seitsc">
+          <p xml:id="ppra-l14-seitsc">
             <pc type="pilcrow"/> Ex quo posset inferri corrollaria contra aliquos et <name>de 
             <lb ed="#P"/>heuta</name> quod est scientia et supra fidem unde videtur michi quod habitus fidei debet poni superior quia nobilior est
           </p>
-          <p xml:id="l14-esdenc">
+          <p xml:id="ppra-l14-esdenc">
             <lb ed="#P"/><pc type="pilcrow"/> Dicitur tamen quod habitus theologicus est clarior quia quanto aliquid magis appropinquat ad summum tanto 
             <lb ed="#P"/>nobilius est <pc type="punctus"/> modo sic est de claritate theologiae
             
@@ -212,12 +212,12 @@
             <lb ed="#P"/>supprema intelligibilia <pc type="virgula">/</pc> sic dicitur quod possibile est quod theologia habeat aliqua denominationem modalem quam 
             <lb ed="#P"/>non habet fidem ergo est superior speciei sed consequentia non valet 
           </p>
-          <p xml:id="l14-ecisve">
+          <p xml:id="ppra-l14-ecisve">
             <pc type="pilcrow"/> Et <name ref="#Oyta">de heuta</name> ponit quod habitus 
             <lb ed="#P"/>theologicus est scientia et requirit fidem sed hoc non videtur verum <pc type="virgula">/</pc> quia nulla conclusio potest esse evidentior suis principiis 
             <lb ed="#P"/>Ita quod si aliqua praemissarum sit dubia et conclusio et si aliqua credita et conclusio 
           </p>
-          <p xml:id="l14-estial">
+          <p xml:id="ppra-l14-estial">
             <pc type="virgula">/</pc> ergo si theologia prae<lb ed="#P"/>supponat 
             fidem tamquam praemissam quae pure creditur sequitur quod habitus erit pure creditus <pc type="punctus"/> <pc type="pilcrow"/> Alii 
             <lb ed="#P"/>dicunt quod non est habitus adhaesivus et sic non est scientia <pc type="virgula">/</pc> sed est declarativus <pc type="pilcrow"/> Alii dicunt quod 
@@ -226,19 +226,19 @@
             <lb ed="#P"/><pc type="pilcrow"/> Alii sunt modi sed longum esset narrare <pc type="punctus"/> Ideo dicitur quod theologia est habitus <del rend="strikethrough">adhesivus</del> assensivus 
           </p>
         </div>
-        <div xml:id="l14-Dd1e2215">
-          <head xml:id="l14-Hdcdcdc">[Duae conclusiones]</head>
-          <div xml:id="l14-Dd1e2220">
-            <head xml:id="l14-Hpcsscs">
+        <div xml:id="ppra-l14-Dd1e2215">
+          <head xml:id="ppra-l14-Hdcdcdc">[Duae conclusiones]</head>
+          <div xml:id="ppra-l14-Dd1e2220">
+            <head xml:id="ppra-l14-Hpcsscs">
               <supplied>Prima conclusio: scientia et fides sunt compossibiles simul</supplied>
             </head>
-            <p xml:id="l14-ediese">
+            <p xml:id="ppra-l14-ediese">
               <lb ed="#P"/><pc type="pilcrow"/> Et tunc ponuntur aliquae conclusiones 
             </p>
             <!-- VERY fuzzy break /  parallel; Needs review -->
-            <div xml:id="l14-Dd1e2285">
-              <head xml:id="l14-Hpoeapc">[Prima objectio et responsio ad primam conclusionem]</head>
-              <p xml:id="l14-aipaee">
+            <div xml:id="ppra-l14-Dd1e2285">
+              <head xml:id="ppra-l14-Hpoeapc">[Prima objectio et responsio ad primam conclusionem]</head>
+              <p xml:id="ppra-l14-aipaee">
                 quarum prima <pc type="pilcrow"/> Scientia et fides sunt adinvicem compossibiles de eodem modo obiecto 
                 <lb ed="#P"/>adaequate ut si capiatur ista deus est <pc type="punctus"/> de ista est fides <pc type="virgula">/</pc> et cum hoc ipsa scitur et scientifice cognoscitur 
                 <lb ed="#P"/>ergo <pc type="punctus"/> Tamen doctores faciunt difficultatem utrum simul possint stare evidentia et non evidentia <pc type="virgula">/</pc> unde 
@@ -246,7 +246,7 @@
                 <lb ed="#P"/>quod quis assentiret et non assentiret <pc type="virgula">/</pc> quia sequitur iste assentit per fidem ergo non evidenter et 
                 <lb ed="#P"/>iste assentit scientifice ergo evidenter
               </p>
-              <p xml:id="l14-airair">
+              <p xml:id="ppra-l14-airair">
                 <pc type="pilcrow"/>Unde conceditur quod <name>sortes</name> assentit non evidenter <c>a</c> et 
                 <lb ed="#P"/>sortes assentit evidenter <c>a</c> nec sunt de praedicatis contrariis ut quod sortes videat hominem 
                 <lb ed="#P"/>et non hominem <pc type="virgula">/</pc> Et tunc quando arguitur ergo evidenter assentit <c>a</c> et non evidenter conceditur consequentia 
@@ -258,22 +258,22 @@
                 <lb ed="#P"/>non erunt contrariae et ergo sic illa ratio non concludit 
               </p>
             </div>
-            <div xml:id="l14-Dd1e2727">
-              <head xml:id="l14-Hsetoer">
+            <div xml:id="ppra-l14-Dd1e2727">
+              <head xml:id="ppra-l14-Hsetoer">
                 <supplied>Secunda et tertio objectio et responsio</supplied>
               </head>
-              <p xml:id="l14-saaspf">
+              <p xml:id="ppra-l14-saaspf">
                 <pc type="virgula">/</pc> Et si arguatur primo per apostolum dicentem <pc type="pilcrow"/> Fides 
                 <lb ed="#P"/>est non apparentium ergo meritum fidei non apparet <pc type="punctus"/> <pc type="pilcrow"/> Debet intelligi quod est non apparentium per ea 
                 <lb ed="#P"/>quia per fidem non videtur clare sed aenigmatice et ita <name>augustinus</name> videtur dicere quod fides non est nisi credere quod non videri
                 <pb ed="#P" n="38-r"/>
                 <lb ed="#P"/>et hoc verum est per fidem
               </p>
-              <p xml:id="l14-taicip">
+              <p xml:id="ppra-l14-taicip">
                 <pc type="pilcrow"/><sic>2o</sic> arguitur quia pari ratione in patria potest esse actus fidei cum beatifica visione 
                 <lb ed="#P"/>quod est contra <ref><name>augustinum</name> libro de fide christiana</ref> ubi dicit quod <quote>sola caritas remanebit</quote> <pc type="punctus"/>
               </p>
-              <p xml:id="l14-airvte">
+              <p xml:id="ppra-l14-airvte">
                 dicitur quod 
                 <lb ed="#P"/>consequentia non valet <pc type="punctus"/> <pc type="pilcrow"/> Ulterius dicitur quod intelligitur de actu et non de habitu <pc type="pilcrow"/> Tamen credo quod manebit 
                 <lb ed="#P"/>quod ad <del rend="strikethrough">ultimum</del> utrumque quia per fidem intellectus abnegat se Ideo rationes non obstant quae licet remittitur 
@@ -281,7 +281,7 @@
                 <lb ed="#P"/>verum est quo ad actum Et ista est oppinio <name>durandi</name>
               </p>
               <!-- should the durandus line be in the next paragraph below rather than the one above ?? -->
-              <p xml:id="l14-esdoep">
+              <p xml:id="ppra-l14-esdoep">
                 <pc type="pilcrow"/> Unde doctor iste arguit contra quia clara 
                 <lb ed="#P"/>dei visio repugnat aenigmati <pc type="punctus"/> sed dico quod non repugnat absolute <pc type="pilcrow"/> 2o dico quod non sunt contraria 
                 <lb ed="#P"/>sicut iam dictum est de speculo <pc type="pilcrow"/> 3o arguit quia fides non staret cum visione sensitiva 
@@ -293,12 +293,12 @@
               </p>
             </div>
           </div>
-          <div xml:id="l14-Dd1e3355">
-            <head xml:id="l14-Hsclcaf">
+          <div xml:id="ppra-l14-Dd1e3355">
+            <head xml:id="ppra-l14-Hsclcaf">
               <supplied>Secunda conclusio: lumen naturale in infinitum procedit cum adiutorio
                 fidei</supplied>
             </head>
-            <p xml:id="l14-sclisp">
+            <p xml:id="ppra-l14-sclisp">
               <pc type="pilcrow"/> 2a conclusio est quod lumen 
               <lb ed="#P"/>naturale in infinitum procedit ascendendo per veritatum latitudinem a principiis distantium et hoc adiutorio 
               <lb ed="#P"/>fidei intellectum est levante <pc type="punctus"/> quia lumen naturale in tali est parvae efficaciae <pc type="punctus"/> sed per fidem roboratur 
@@ -306,7 +306,7 @@
               <lb ed="#P"/>Et istud sequitur ex dictis quia ex quo fides roborat intellectum sequitur quod lumen naturale habet potentiam cum adiutorio 
               <lb ed="#P"/>sine quo non haberet
             </p>
-            <p xml:id="l14-cqmdep">
+            <p xml:id="ppra-l14-cqmdep">
               <pc type="pilcrow"/> Circa quod ymaginantur 10 gradus quibus variatur etc <pc type="pilcrow"/> Ex quo 
               <lb ed="#P"/>patet quod eadem propositio potest diversemode sciri <pc type="virgula">/</pc> Et sic ymaginatur quod sunt multae veritates quae sunt scibiles per varios 
               <lb ed="#P"/>processus <pc type="punctus"/> et sic dabitur aliquis gradus fidei ita intensus quod lumen naturale sine discursu in 

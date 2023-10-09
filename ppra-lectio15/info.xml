@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio15">
+      <head xml:id="ppra-l15-Hd1e102">Lectio 15, De fide</head>
+      <!-- not really present
+          <div xml:id="ppra-l15-Dd1e105">
+          <head xml:id="ppra-l15-Hrdpdpc">
+            <supplied>Recapitulatio duarum praedictarum conclusionum</supplied>
+          </head>
+          <p xml:id="ppra-l15-seqapd">
+            
+            Sciendum est quod in
+              praecedenti
+            lectione positae fuerunt duae conclusiones.
+            Una fuit quod actus sciendi et actus fidei
+            de eodem sunt compossibiles.
+            Secunda fuit quod lumen naturale in infinitum ascendit per
+            latitudinem veritatum a principiis distantium.
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e139">
+          <head xml:id="ppra-l15-Hcpcnsc">
+            <supplied>Circa primam conclusionem: opinio quod actus fidei actus scientificus non sunt
+              compossibiles</supplied>
+          </head>
+          <p xml:id="ppra-l15-ecppss">
+            Et
+              circa
+            primam conclusionem fuit tacta opinio
+              communis
+             quod: actus fidei et actus scientificus
+              respectu eiusdem non possunt simul stare
+            .
+          </p>
+        </div>-->
+      <div xml:id="ppra-l15-Dd1e179">
+        <head xml:id="ppra-l15-Hopdpdc">
+          <supplied>Opinio Petri de Candia</supplied>
+        </head>
+        <p xml:id="ppra-l15-ncmani">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l15-ncmani"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-ncmani"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l15-Dd1e328">
+        <head xml:id="ppra-l15-Hrapcrc">
+          <supplied>Responsio ad opinionem Petri de Candia: quattuor conclusiones circa rationem
+            cognitionis</supplied>
+        </head>
+        <p xml:id="ppra-l15-cicimc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l15-cicimc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-cicimc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l15-Dd1e374">
+          <head xml:id="ppra-l15-Hpccdce">
+            <supplied>Prima conclusio: cognitio non dicitur "cognitio" essentialiter</supplied>
+          </head>
+          <p xml:id="ppra-l15-pdenep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-pdenep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l15-spcsqq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-spcsqq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-spcsqq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l15-taippp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-taippp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-taippp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e557">
+          <head xml:id="ppra-l15-Hsccpua">
+            <supplied>Secunda conclusio: cognitio non dicitur "cognitio" ex habitudine potentiae ut
+              activa</supplied>
+          </head>
+          <p xml:id="ppra-l15-scnicv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-scnicv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-scnicv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l15-sncapc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-sncapc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-sncapc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e677">
+          <head xml:id="ppra-l15-Htccpur">
+            <supplied>Tertia conclusio: cognitio non dicitur <mentioned>cognitio</mentioned> ex
+              habitudine potentiae ut receptiva</supplied>
+          </head>
+          <p xml:id="ppra-l15-tccsis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-tccsis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-tccsis"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l15-spccee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-spccee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-spccee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l15-Dd1e745">
+          <head xml:id="ppra-l15-Hqccevi">
+            <supplied>Quarta conclusio: cognitio dicitur "cognitio" ex habitudine ad suam potentiam
+              ut perceptivam et vitaliter immutabilem</supplied>
+          </head>
+          <p xml:id="ppra-l15-qccasp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-qccasp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-qccasp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l15-Dd1e794">
+        <head xml:id="ppra-l15-Hcccccc">
+          <supplied>Corollaria circa cognitionem</supplied>
+        </head>
+        <div xml:id="ppra-l15-Dd1e802">
+          <head xml:id="ppra-l15-Hthpasc">
+            <supplied>Triplex habitudo potentiae ad suam cognitionem</supplied>
+          </head>
+          <p xml:id="ppra-l15-eppdah">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-eppdah"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-eppdah"/>
+            </assertions>
+          </p>
+        </div>
+        <!-- fuzzy break and parallel -->
+        <div xml:id="ppra-l15-Dd1e887">
+          <head xml:id="ppra-l15-Hcepcne">[Cognitio extra potentiam cognitivam cognitionem non
+            est]</head>
+          <p xml:id="ppra-l15-eipncb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l15-eipncb"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l15-Dd1e3970">
+        <head xml:id="ppra-l15-Hd1e3972">Circa textum</head>
+        <p xml:id="ppra-l15-d1e3975">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l15-d1e3975"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
