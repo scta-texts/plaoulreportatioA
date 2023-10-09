@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="lectio14">
+      <head xml:id="l14-Hd1e102">Lectio 14, Prologus</head>
+      <div xml:id="l14-Dd1e105">
+        <head xml:id="l14-Hrpcdic">[Recapitulatio praedicta conclusio: cum fide, ratio naturalis
+          potest devenire in cognitionem articulorum fidei]</head>
+        <p xml:id="l14-iplimi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-iplimi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-iplimi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l14-Dd1e207">
+        <head xml:id="l14-Hmepppf">[Media extrinseca per quae potest probari fides]</head>
+        <p xml:id="l14-riivrc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-riivrc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-riivrc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l14-Dd1e414">
+        <head xml:id="l14-Hrosapf">[Ratio octo Scoti ad probandum fidem]</head>
+        <p xml:id="l14-smaqhc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-smaqhc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-smaqhc"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-prpqhc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-prpqhc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-prpqhc"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-srecfn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-srecfn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-srecfn"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-trefpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-trefpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-trefpe"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-qrsead">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-qrsead"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-qrsead"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-qredca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-qredca"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-qredca"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-srlpfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-srlpfm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-srlpfm"/>
+          </assertions>
+        </p>
+        <!-- not present 
+            <p xml:id="l14-esomdm">
+          </p>-->
+        <p xml:id="l14-srepem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-srepem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-srepem"/>
+          </assertions>
+        </p>
+        <!--<p xml:id="l14-aemeip">
+          </p>-->
+        <p xml:id="l14-oretam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-oretam"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-oretam"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l14-Dd1e1675">
+        <head xml:id="l14-Hprmppf">
+          <supplied>Plus rationes morales pro probandum fidem</supplied>
+        </head>
+        <p xml:id="l14-mesdfn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-mesdfn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-mesdfn"/>
+          </assertions>
+        </p>
+        <!-- sense here seems best understood as "these are the reasons, which if attended to by a well disposed intellect, not affected by its opposite...and even illuminated by faith, make great evidence for our faith." -->
+      </div>
+      <div xml:id="l14-Dd1e1833">
+        <head xml:id="l14-Hccassf">
+          <supplied>Corollaria contra aliquos, qui dicunt quod theologia est scientia superior
+            fide</supplied>
+        </head>
+        <p xml:id="l14-seitsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-seitsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-seitsc"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-esdenc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-esdenc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-esdenc"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-ecisve">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-ecisve"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-ecisve"/>
+          </assertions>
+        </p>
+        <p xml:id="l14-estial">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l14-estial"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-estial"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="l14-Dd1e2215">
+        <head xml:id="l14-Hdcdcdc">[Duae conclusiones]</head>
+        <div xml:id="l14-Dd1e2220">
+          <head xml:id="l14-Hpcsscs">
+            <supplied>Prima conclusio: scientia et fides sunt compossibiles simul</supplied>
+          </head>
+          <p xml:id="l14-ediese">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l14-ediese"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-ediese"/>
+            </assertions>
+          </p>
+          <!-- VERY fuzzy break /  parallel; Needs review -->
+          <div xml:id="l14-Dd1e2285">
+            <head xml:id="l14-Hpoeapc">[Prima objectio et responsio ad primam conclusionem]</head>
+            <p xml:id="l14-aipaee">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-aipaee"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-aipaee"/>
+              </assertions>
+            </p>
+            <p xml:id="l14-airair">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-airair"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-airair"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="l14-Dd1e2727">
+            <head xml:id="l14-Hsetoer">
+              <supplied>Secunda et tertio objectio et responsio</supplied>
+            </head>
+            <p xml:id="l14-saaspf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-saaspf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-saaspf"/>
+              </assertions>
+            </p>
+            <p xml:id="l14-taicip">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-taicip"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-taicip"/>
+              </assertions>
+            </p>
+            <p xml:id="l14-airvte">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-airvte"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-airvte"/>
+              </assertions>
+            </p>
+            <!-- should the durandus line be in the next paragraph below rather than the one above ?? -->
+            <p xml:id="l14-esdoep">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l14-esdoep"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-esdoep"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="l14-Dd1e3355">
+          <head xml:id="l14-Hsclcaf">
+            <supplied>Secunda conclusio: lumen naturale in infinitum procedit cum adiutorio
+              fidei</supplied>
+          </head>
+          <p xml:id="l14-sclisp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l14-sclisp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-sclisp"/>
+            </assertions>
+          </p>
+          <p xml:id="l14-cqmdep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l14-cqmdep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l14-cqmdep"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>
