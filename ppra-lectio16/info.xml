@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio16">
+      <head xml:id="ppra-l16-Hd1e102">Lectio 16, De fide</head>
+      <div xml:id="ppra-l16-Dd1e105">
+        <head xml:id="ppra-l16-Hccfsps">
+          <supplied>Conclusio: cum fide, lumen naturale in infinitum plures veritates potest
+            pertingere quam se solo posset scientifice</supplied>
+        </head>
+        <p xml:id="ppra-l16-seqsps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l16-seqsps"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-seqsps"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l16-ppcsag">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l16-ppcsag"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-ppcsag"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l16-spctnp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l16-spctnp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-spctnp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l16-Dd1e390">
+        <head xml:id="ppra-l16-Hd1e392">
+          <supplied>Corollaria</supplied>
+        </head>
+        <div xml:id="ppra-l16-Dd1e398">
+          <head xml:id="ppra-l16-Hpteosp">
+            <supplied>Primum: theologia est omnium scientiarum perfectiva</supplied>
+          </head>
+          <p xml:id="ppra-l16-eqpsee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-eqpsee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-eqpsee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-usdpqe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-usdpqe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-usdpqe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-pmthad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-pmthad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-pmthad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-pcicdn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-pcicdn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-pcicdn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l16-Dd1e961">
+          <head xml:id="ppra-l16-Hsctdgt">
+            <supplied>Secundum: circa theologiam Christi et diversos gradus theologiae</supplied>
+          </head>
+          <p xml:id="ppra-l16-uaeead">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-uaeead"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-uaeead"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-ieacsb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-ieacsb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-ieacsb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-eqsqps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-eqsqps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-eqsqps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-asgmms">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-asgmms"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-asgmms"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-agpmif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-agpmif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-agpmif"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l16-Dd1e1412">
+          <head xml:id="ppra-l16-Htcedcd">
+            <supplied>Tertium corollarium: ex diversos gradus theologiae ad diversos conceptus
+              Dei</supplied>
+          </head>
+          <p xml:id="ppra-l16-eispda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-eispda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-eispda"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-astcdd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-astcdd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-astcdd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-uaesid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-uaesid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-uaesid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-ipdaid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-ipdaid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-ipdaid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l16-Dd1e1790">
+          <head xml:id="ppra-l16-Hqcppnt">
+            <supplied>Quartum corollarium: primum principium nostrae theologiae</supplied>
+          </head>
+          <p xml:id="ppra-l16-suqnql">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-suqnql"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-suqnql"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-ueiasc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-ueiasc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-ueiasc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-uieapv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-uieapv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-uieapv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l16-Dd1e2150">
+          <head xml:id="ppra-l16-Hmcmcmc">
+            <supplied>Minora corollaria</supplied>
+          </head>
+          <p xml:id="ppra-l16-seihai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-seihai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-seihai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-suqdgs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-suqdgs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-suqdgs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-suqcsn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-suqcsn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-suqcsn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-torpid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-torpid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-torpid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l16-suqeae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l16-suqeae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-suqeae"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l16-Dd1e2532">
+        <head xml:id="ppra-l16-Hccccca">
+          <supplied>Confirmatio conclusionis contra Averroes</supplied>
+        </head>
+        <p xml:id="ppra-l16-eipspn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l16-eipspn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l16-eipspn"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
