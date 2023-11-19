@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 17 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 17 [Bnf 3074 Transcription]</title>
+          <date when="2023-10-22">October 22, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-10-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="39-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio17">
+        <head xml:id="ppra-l17-Hd1e87">Lectio 17, De fide</head>
+        <div xml:id="ppra-l17-Dd1e90">
+          <head xml:id="ppra-l17-Hqdsste">
+            <supplied>Quomodo Deus subiectum theologiae est</supplied>
+          </head>
+          <p xml:id="ppra-l17-seqshs">
+            <lb ed="#P"/>Consequenter circa materiam postquam praetactum est quod deus est subiectum theologiae et hoc sub quadam ratione secundum quam 
+            <lb ed="#P"/>potest elici immediate iudicium quod deus est universaliter perfectus <pc type="virgula">/</pc> et hoc potest contingere tripliciter vel quia conceptus 
+            <lb ed="#P"/>de deo est sic complexus quod equivalet huic complexo concepti significabili universaliter perfectum vel quia est conotativis vel quia de 
+            <lb ed="#P"/>natura sua sic primarie significat 
+          </p>
+        </div>
+        <div xml:id="ppra-l17-Dd1e153">
+          <head xml:id="ppra-l17-Hdpddpd">
+            <supplied>De praedicatis Dei</supplied>
+          </head>
+          <p xml:id="ppra-l17-ueacnc">
+            ubi est notandum quod deus nisi a seipso est comprehensibilis et ideo non est 
+            <lb ed="#P"/>aliquis conceptus nobis possibilis adaequate et sufficienter deum sumitur repraesentans <pc type="virgula">/</pc> sed praedicata creaturarum nobis nota 
+            <lb ed="#P"/>ad ipsum transferemus per quamdam similitudinem <pc type="virgula">/</pc> ut quia videmus creaturam existere <pc type="punctus"/> dicimus quod 
+            <lb ed="#P"/>deus eam facit vivere et hoc est perfectionis eius <pc type="punctus"/> Ideo dicimus quod deus est vita <pc type="virgula">/</pc> et ita de aliis 
+            <lb ed="#P"/>praedicatis dicentibus perfectionem <pc type="punctus"/> et hoc propter <unclear>pe?mi?am</unclear> vocum quia nec gramatici nec legiti potuerunt 
+            <lb ed="#P"/>habere proprios conceptus dei <pc type="punctus"/> Ideo nomina creaturarum deo attribuerunt
+            <!-- possible break point -->
+            <pc type="pilcrow"/> ubi notandum est quod aliqua 
+            <lb ed="#P"/>praedicata dicunt perfectionem sumitur alia perfectionem limitatam et hoc tractat <name>ancelmus</name> quod hoc nomen 
+            <lb ed="#P"/>perfectum sumitur est quod est melius ipsum quam non ipsum <pc type="punctus"/> quae quidem descriptio potest exponi <pc type="punctus"/> ut perfectum 
+            <lb ed="#P"/>sumitur vocet praedicatum perfectionale sumitur <pc type="virgula">/</pc> et tunc debet sic intelligi quod illud praedicatum dicitur etiam praedicatum 
+            <lb ed="#P"/>perfectionis sumitur quia eo quod attribuitur alicui arguitur esse perfectius quam illud cui non competit 
+          </p> 
+          <p xml:id="ppra-l17-vgetmp">
+            Et <name>augustinus</name> 
+            <lb ed="#P"/>dicit quod perfectio sumitur est quae melius est in quolibet quam non in quolibet <pc type="punctus"/> unde naturaliter esse vivens est 
+            <lb ed="#P"/>denominatio perfectionis sumitur eo quod quodlibet vivens melius est non vivente <pc type="virgula">/</pc> et ista est ymaginatio 
+            <lb ed="#P"/><name>beati augustini</name> in multis locis <pc type="punctus"/> nam <!--<quote>-->viventia sunt perfectiora non viventibus<!--</quote>--> <pc type="punctus"/> Et istud 
+            <lb ed="#P"/>introducitur quia praedicata reperta in creaturis dicentia perfectionem attribuuntur deo <pc type="punctus"/> sed alia ut esse hominem
+            <lb ed="#P"/>et esse animal et sic de talibus non attribuimus deo quia dicunt limitationem
+          </p>
+          <div xml:id="ppra-l17-Dd1e491">
+            <head xml:id="ppra-l17-Hcdpfid">
+              <supplied>Cur diversas praedicatas Dei sunt: contra aliqui ponentes formalitates in Deo</supplied>
+            </head>
+            <p xml:id="ppra-l17-uhispc">
+              <pc type="pilcrow"/> Advertendum igitur quod ista vocabula
+              <lb ed="#P"/>quae sic dicuntur de creaturis non dicuntur de deo unitate nisi secundum translationem impropriam et istud 
+              <lb ed="#P"/>supponitur quia post probabatur quia hic agitur de principiis quae post probabuntur <pc type="pilcrow"/> huiusmodi ergo praedicata deo attribuitur 
+              <lb ed="#P"/>propter vocum penultima et ex radice quae <unclear>bifulcatur</unclear> <pc type="virgula">/</pc> quia uno modo incomprehensibilitate dei considerata <pc type="punctus"/> 2o modo 
+              <lb ed="#P"/>nostri ingenii debilitate attenta 
+              
+              <pc type="pilcrow"/> Ex quo patet quod diversa praedicata oportet deo attribuere <pc type="virgula">/</pc> quia aliter non 
+              <lb ed="#P"/>possemus de deo loqui <pc type="virgula">/</pc> Et in isto fundata est oppinio formalitatum quia deus existens ydemptificatus 
+              <lb ed="#P"/>per idem existens vivens etc <pc type="punctus"/> Sed quia latitudinem suae perfectionis non possumus unico conceptu concipere 
+              <lb ed="#P"/>quod ideo crediderunt aliqui quod sicut est necessitatis in nobis comprehendere ipsum diversis vocabulis et conceptibus 
+              <lb ed="#P"/>ordinatis <unclear>adinvicem</unclear> ita necessariam sit quod a parte rei <pc type="punctus"/> esset necessitas seu varietas a parte rei 
+            </p>
+            <p xml:id="ppra-l17-ebuipo">
+              <pc type="punctus"/> Et sicut in modo 
+              <lb ed="#P"/>concipiendi <unclear>habemus</unclear> varios conceptus habentes ordinem inter se dicentes denominationem sumitur <pc type="virgula">/</pc> et tot sunt <unclear>concepti</unclear> 
+              <lb ed="#P"/>sunt species factae vel facibiles quia cuilibet speciei superadditur praedicatum transcendens <pc type="virgula">/</pc> et sicut huiusmodi praedicata 
+              <lb ed="#P"/>ymaginantur <unclear>di?ta</unclear> ita ymaginati sunt aliqui quod in deo quod alia sit ratio essendi alia volendi alia 
+              <lb ed="#P"/>intelligendi <pc type="pilcrow"/> Tamen istud in particulari deo duce tractabitur
+            </p>
+            <p xml:id="ppra-l17-ipnfpf">
+              <pc type="pilcrow"/> Et pro nunc dicitur quod ista ymaginatio non est vera 
+              <lb ed="#P"/>sed sufficit originem ex dicto <pc type="virgula">/</pc> quia non <unclear>invenerunt</unclear> conceptum totius divinitatis comprehensivum <pc type="punctus"/> ideo ymaginati 
+              <lb ed="#P"/>sunt huiusmodi formalitates <pc type="virgula">/</pc> sed tamen istud est reducendum ad divinae perfectionis <unclear>incomprehensibilitatem</unclear>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l17-Dd1e869">
+          <head xml:id="ppra-l17-Hnpdnpd">
+            <supplied>Nomen proprium Dei</supplied>
+          </head>
+          <p xml:id="ppra-l17-eiiipl">
+            <pc type="pilcrow"/> Ex quo sequitur 
+            <lb ed="#P"/>quod omne nomen sive aequivoce de deo dictum est sumitur singulare unde <ref xml:id="ppra-l17-Rd1e896"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> consequenter infert quod esse proprie in 
+            <lb ed="#P"/>sua propria significative est terminus singularis vel ens <pc type="punctus"/> et soli deo competit <pc type="virgula">/</pc> et hoc infert pertinenter ad 
+            <lb ed="#P"/>sua propria significatione est terminus singularis vel ens et soli deo competit <pc type="virgula">/</pc> et hoc infert pertinenter ad 
+            <lb ed="#P"/>ymaginabilem quam sequor <pc type="punctus"/> <pc type="pilcrow"/> Conformiter ibi dicit quod conceptus dei sibi proprius formaliter 
+            <lb ed="#P"/>includit esse de patria significative nec <unclear>miremini</unclear> si diu dicam de conceptu die quia difficultas 
+            <lb ed="#P"/>huius indiget declaratione et deductione magna 
+            
+            <pc type="pilcrow"/> unde quidam doctor ymaginatur quod conceptus dei formaliter 
+            <lb ed="#P"/>includit esse cum exclusione possibilitatis non essendi <pc type="virgula">/</pc> hoc probat in <!--<ref>-->libro de divinali magisterio 
+            <lb ed="#P"/>etc 
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-l17-eipeim">
+            proprissime dictum est quando nomen interrogavit quod dictum est <quote xml:id="ppra-l17-Qd1e998" source="http://scta.info/resource/ex3_14">ego sum qui sum</quote> et <quote xml:id="ppra-l17-Qd1e1016" source="http://scta.info/resource/ex3_14">qui est misit me</quote> <pc type="punctus"/> etc 
+            <lb ed="#P"/>usus est in isto vocabulo tamquam sibi proprio <pc type="punctus"/> et fuit sibi nomina connotans excludendo omnem imperfectionem 
+            <lb ed="#P"/>et affirmationem actus puri cum exclusione meliorationis Et licet ista ponatur multa complexa tamen forte conceptus 
+            <lb ed="#P"/>est complexus seu conceptum incomplexus est apparentia multorum veritatum de deo dicibilium
+          </p> 
+        </div>
+       <div xml:id="ppra-l17-Dd1e1136">
+         <head xml:id="ppra-l17-Hciseee">[Conclusio: in solo Deo est idem esse et essentia]</head>
+         <p xml:id="ppra-l17-ciqpip">
+           <pc type="pilcrow"/> Ex quo sequitur quod in solo 
+           <lb ed="#P"/>deo idem sit esse et essentia <pc type="punctus"/> non solum quantum ad rem <pc type="virgula">/</pc> sed quantum ad modum concipiendum sibi propositum Ista 
+           <lb ed="#P"/>tamen propositio distinguitur quia multum est difficilis et tamen mirandum est quia philosophi et antiqui hoc tenuerunt <pc type="punctus"/>
+           <lb ed="#P"/><pc type="pilcrow"/> Unde <ref xml:id="ppra-l17-Rd1e1218"><name ref="#Boethius">boethius</name> in libro <title ref="#deProblematibusBoethius">de ebdomadibus</title></ref> dicit quod <quote xml:id="ppra-l17-Qd1e1229">in aliis a deo esse et essentia distinguuntur</quote> Et 
+           <lb ed="#P"/><ref xml:id="ppra-l17-Rd1e1236"><name ref="#Albert">albertus magnus</name></ref> et <ref xml:id="ppra-l17-Rd1e1247"><name ref="#HenryOfGhent">gandavensis</name></ref> <pc type="punctus"/> <ref xml:id="ppra-l17-Rd1e1257"><name ref="#Aquinas">sanctus thomas</name></ref> et <ref xml:id="ppra-l17-Rd1e1277"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref>
+         </p>
+        <div xml:id="ppra-l17-Dd1e1288">
+          <head xml:id="ppra-l17-Hdmieed">
+            <supplied>Duo modi imaginandi quod esse et essentia distinguuntur</supplied>
+          </head>
+          <p xml:id="ppra-l17-elierd">
+            <pc type="pilcrow"/> et licet ista ymaginatio sit maxime 
+            <lb ed="#P"/>difficultatis et multipliciter intelligibilis <pc type="pilcrow"/> dupliciter tamen potest ymaginari modus <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l17-umetdf">
+            <pc type="pilcrow"/> unus esset quod esse et essentia differunt 
+            <lb ed="#P"/>ad modum quo ponitur distinctio distinctio formalitatum quia distinctio formalitatum non tollit ydemptitatem realem 
+            <lb ed="#P"/>sit ponunt quod bonitas et sapientia sunt realiter idem licet formaliter distinguuntur ita diceretur de esse et 
+            <lb ed="#P"/>essentia
+          </p>
+          <p xml:id="ppra-l17-amemii">
+            <pc type="pilcrow"/> Alium modum ymaginatur <ref xml:id="ppra-l17-Rd1e1413"><name ref="#WilliamOfParis">guillelmi parisiensis</name></ref> quod creatura est de se fluxibilis et insufficiens ad 
+            <lb ed="#P"/>esse ita quod requirit intimitatem dei maiorem quam sit formae ad materiam <pc type="virgula">/</pc> et quod creatura denotatur extrinsece 
+            <pb ed="#P" n="40-r"/>
+            <lb ed="#P"/>esse quia a deo sicut praesens notitia in anima dato quod non inhaereat immutat eam vitaliter et denominat materiam 
+            <lb ed="#P"/>cognoscentem sicut creatura esse per deum <pc type="punctus"/> licet non sibi inhaereat Ideo subiectum primae theologiae omnes veritates repraesentat 
+            <lb ed="#P"/>et est <unclear>cathegoricum</unclear> et <unclear>yposticum</unclear> extrinsece per modum signi <pc type="virgula">/</pc> et <unclear>inco?lis</unclear> <unclear>ex?tus</unclear> impossibili et falso 
+          </p>
+        </div>
+       </div>
+        <div xml:id="ppra-l17-Dd1e1519">
+          <head xml:id="ppra-l17-Hndssga">
+            <supplied>Notum de simplicitas omnis concepti Dei et de complexe significabili <name ref="#Rimini">Gregorii Ariminensis</name></supplied>
+          </head>
+          <p xml:id="ppra-l17-seqsup">
+            Et sequitur quod omnis conceptus deo proprius 
+            <lb ed="#P"/>significat esse et per consequens dato quod sit simplex aequivalet quodammodo componi Et hic posset multa notari 
+            <lb ed="#P"/>videlicet quod una notitia potest esse simplex et aequivalenter complexa Et hoc ponit <name>gregorius</name> aequivalenter 
+            <lb ed="#P"/>theologiae primae est simplex et complexum aequivalenter quod est notitia divina quae est simplex et aequivalenter complexa 
+          </p>
+          <!-- fuzzy break; parallel needs review -->
+          <p xml:id="ppra-l17-dseief"> 
+            <pc type="pilcrow"/> Ita quod imperfectio 
+            <lb ed="#P"/>est quod intellectus non repraesentat omnes veritates in tali scientia
+          </p>
+        </div>
+        <div xml:id="ppra-l17-Dd1e1662">
+          <head xml:id="ppra-l17-H">[Utrum sit notitia contingens de subiecto theologiae?]</head>
+          <p xml:id="ppra-l17-uaspvf">
+            <pc type="pilcrow"/> Utrum tamen 
+            <lb ed="#P"/>sit contingens est bene difficultas quia dicunt quod in deo est intrinseca contingentia quia est respectu contingentis 
+            <lb ed="#P"/>notitia et sic secundum hoc diceretur propositio contingens et tunc respectu huius est contingens propositio scilicet per modum signi 
+            <lb ed="#P"/>intelligentiam de contingentia propositionis nec est simpliciter contingens scilicet prout est differentia rei <pc type="punctus"/> sed propositionis <pc type="punctus"/> Et cum hoc 
+            <lb ed="#P"/>stat quod deus sit summa necessitas ut res distinguitur a signo <pc type="pilcrow"/> De subiectis theologiae beatorum possent 
+            <lb ed="#P"/>aliqua dici sed dimitto <pc type="pilcrow"/> De subiecto autem apud nos dico quod non potest haberi <pc type="punctus"/> nisi cum 
+            <lb ed="#P"/>adiutorio fidei et diligentia magna <pc type="punctus"/> quia difficilissima est devenire ad conceptum in quo relucet divina 
+            <lb ed="#P"/>veritas ymmo huiusmodi conceptus trahit intellectum ad ipsius considerationem et amorem cuius conceptus 
+            <lb ed="#P"/>vel subiecti carentia est in errore incidere Sed quia studentes non curat <pc type="punctus"/> ideo quandoque incidunt in 
+            <lb ed="#P"/>errores varios
+          </p>
+          <p xml:id="ppra-l17-eqspie">
+            <pc type="pilcrow"/> Ex quo patet quod maxima sollicitudo debet ad huiusmodi <seg type="correction">conceptum</seg> habendum et debet hoc facere 
+            <lb ed="#P"/>per conceptus per conceptus reflexos <pc type="virgula">/</pc> quia minimus error in principio maximus est in fine primo caeli 
+            <lb ed="#P"/>et huiusmodi conceptus ignorantia deffecerunt philosophi circa proprietates dei ponentes ipsum agere 
+            <lb ed="#P"/>necessitate <pc type="punctus"/> alii liberum libertatem complacentiae et agere necessitate naturae <pc type="punctus"/> <pc type="pilcrow"/> Unde apud omne iudicium esse 
+            <lb ed="#P"/>liberum libertate contradictionis hoc dicit magna perfectionem
+          </p>
+          <p xml:id="ppra-l17-cchldi">
+            <pc type="pilcrow"/> Sed averroys non concepit deum 
+            <lb ed="#P"/>ut unibile perfectum ut patet <ref xml:id="ppra-l17-Rd1e2069">12o metaphysicae</ref> dicens <quote xml:id="ppra-l17-Qd1e2080">deum nihil extra se cognoscere</quote> sed deus isto modo non esset bonus princeps 
+            <lb ed="#P"/>Cum ita sit quod bonus princeps habeat desponere de regimine regendorum et ergo si sic sicut fatuus 
+            <lb ed="#P"/>regeret <pc type="punctus"/> et <ref xml:id="ppra-l17-Rd1e2132"><name>aristoteles</name> ibidem</ref> <quote xml:id="ppra-l17-Qd1e2148" source="http://scta.info/resource/aristmet-l12">solus ergo princeps</quote> quod <del rend="strikethrough">patet</del> forte intelligebat quod deus non capit 
+            <lb ed="#P"/>notitiam a rebus <pc type="punctus"/> et ex isto sensu forte <name>averroys</name> intelligebat 
+            
+            <pc type="pilcrow"/> Similiter erraverunt sequentes 
+            <lb ed="#P"/><ref xml:id="ppra-l17-Rd1e2266">oppinionem <name>epycuri</name></ref> dicentis <quote xml:id="ppra-l17-Qd1e2275">deum de nihilo curare sed voluptati delectari in seipso</quote> <pc type="virgula">/</pc> Ita 
+            <lb ed="#P"/>quod non curat de regimine nec cognoverit quod fecit creaturas propter bonum creaturarum <pc type="pilcrow"/> Et dicit ultra quod deus 
+            <lb ed="#P"/>non irascitur <unclear>dispo?da</unclear> penas prodelictis et quod omnia eveniunt a casu <pc type="virgula">/</pc> et sic negavit differentia 
+            <lb ed="#P"/>providentiam quod non fecisset si unibilem eius providentiam cognovisset Et ad isetam reprobationem 
+            <lb ed="#P"/>fecit <ref xml:id="ppra-l17-Rd1e2358"><name ref="#Lactantius">latentius</name> <sic>librum</sic> <title>de ira</title></ref>
+          </p>
+          <p xml:id="ppra-l17-ceecds"> 
+            <pc type="pilcrow"/> Erravit etiam <ref xml:id="ppra-l17-Rd1e2395"><name ref="#Cicero">tullius</name></ref> negando ab eo praescientiam et ad hoc 
+            <lb ed="#P"/>fuit coactus propter futura contingentia sicut dicit <name>augustinus</name> in libro de civitate dei et posuit quod oportet ponere 
+            <lb ed="#P"/>contingentia rerum Et tunc quia non vidit compossibilitatem divinae scientiae negavit praescientiam dei <pc type="virgula">/</pc> et 
+            <lb ed="#P"/>in <ref xml:id="ppra-l17-Rd1e2421">5to de civitate dei</ref> <!--<quote></quote>--> quidam volente dicunt fata et nolente trahunt <!-- end quote --> Et ista oppinio reprobatur 
+            <lb ed="#P"/>quia hoc etiam reprobant <name>tullius</name> qui futi bonus philosophus <pc type="virgula">/</pc> Et omnes quasi isti errores circa deum et eius 
+            <lb ed="#P"/>providentiam et regimen creaturarum sumpserunt originem eo quod non cognoverunt conceptum 
+            <lb ed="#P"/>dei
+          </p>
+          <p xml:id="ppra-l17-uensep">
+            <pc type="pilcrow"/> Ubi est advertendum quod datur etiam latitudo conceptuum de deo prout quilibet innatus est esse subiectum 
+            <lb ed="#P"/>theologiae <pc type="pilcrow"/> Ex quo statim posset elici iudicium quod est universaliter perfectus <pc type="punctus"/> et est primus conceptus 
+          </p>
+          <p xml:id="ppra-l17-aespcm">
+            <pc type="pilcrow"/> Alius 
+            <lb ed="#P"/>esset prout plura iudicia particularia possent elici ex illo conceptu <pc type="virgula">/</pc> et sic quanto esset perfectior conceptus 
+            <lb ed="#P"/>tanto ad plures conclusiones theologicas se haberet et posset devenire
+          </p>
+          <p xml:id="ppra-l17-sencfn">
+            <pc type="pilcrow"/> Ex quo patet quod nulla propositio <unclear>de consequenti</unclear>
+            <lb ed="#P"/>spectans ad nostram fidem debet negari <pc type="punctus"/> nam concessa divina potentia facilissimum est inducere quod potest creare 
+            <lb ed="#P"/>mundum de novo <pc type="punctus"/> <pc type="pilcrow"/> Item incarnatio verbi <pc type="punctus"/> <unclear>ptus</unclear> virginis <pc type="virgula">/</pc> Conversio panis in christi corpus 
+            <lb ed="#P"/>ista omnia sunt conceptibilia habito conceptu immense potentiae <pc type="punctus"/> <pc type="pilcrow"/> Unde habita fecunditate divina non 
+            <lb ed="#P"/>est mirabile si fiant productiones ad extra <pc type="punctus"/> <pc type="virgula">/</pc> Et sic habitus conceptu de deo quod est universaliter perfectus articuli 
+            <lb ed="#P"/>fidei non sunt difficiles ymmo per hoc intellectus disponitur ad omnia quae sunt in fide
+          </p>
+          <p xml:id="ppra-l17-suqeip">
+            <pc type="pilcrow"/> Ulterius 
+            <lb ed="#P"/>sequitur error manichaei <pc type="punctus"/> qui posuit unum principium boni <pc type="punctus"/> et aliud mali et sic posuit duo 
+            <lb ed="#P"/>principia rerum quilibet sic positis deus non esset perfectus Unde si deum cognovisset in se perfectum 
+          </p>
+        </div>
+        <div xml:id="ppra-l17-Dd1e2946">
+          <head xml:id="ppra-l17-Hrpppep">
+            <supplied>Ratio primaria pro erroribus philosophorum</supplied>
+          </head>
+          <p xml:id="ppra-l17-ebdste">
+            <lb ed="#P"/><pc type="pilcrow"/> Et breviter omnes gentilium errores habuerunt ortum ex deffectum cognitionis divinae <pc type="virgula">/</pc> nec 
+            <lb ed="#P"/>quilibet conceptus dei est sufficiens ad hoc quod sit subiectum theologiae
+          </p>
+        </div>
+        <div xml:id="ppra-l17-Dd1e4683">
+          <head xml:id="ppra-l17-Hd1e4685">Conclusiones</head>
+          <p xml:id="ppra-l17-d1e4688">
+            <pc type="pilcrow"/> Sequitur distinctio cuius conclusio sequitur talis 
+            <lb ed="#P"/><pc type="pilcrow"/> Spiritus sanctus non procedit a patre localiter 
+          </p>
+          <p xml:id="ppra-l17-d1e4712">
+            <pc type="punctus"/> filius vero missus mundo visibiliter et istam
+            <lb ed="#P"/>missionem tota trinitas beata divinitus est operata 
+            <pc type="punctus"/> et haec de lectione tacta
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

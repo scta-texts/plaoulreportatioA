@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio18">
+      <head xml:id="ppra-l18-Hd1e102">Lectio 18, De fide</head>
+      <div xml:id="ppra-l18-Dd1e105">
+        <head xml:id="ppra-l18-Hreiphl">
+          <supplied>Recapitulatio et intentio pro hoc lectione</supplied>
+        </head>
+        <p xml:id="ppra-l18-seqtfp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l18-seqtfp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-seqtfp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l18-rinamd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l18-rinamd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-rinamd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l18-Dd1e184">
+        <head xml:id="ppra-l18-Hpcfasa">
+          <supplied>Prima conclusio</supplied>
+        </head>
+        <head xml:id="ppra-l18-Hd1e192" type="question-title">
+          <supplied> Fides non est pars antecedentis in processu theologico, tamen requiritur ad
+            scientifice assentiendum </supplied>
+        </head>
+        <p xml:id="ppra-l18-pctssa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l18-pctssa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-pctssa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l18-pphens">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l18-pphens"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-pphens"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l18-spcsee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l18-spcsee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-spcsee"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l18-Dd1e341">
+          <head xml:id="ppra-l18-Hqfcaln">
+            <supplied>Qualiter fides conferat ad lumen naturale</supplied>
+          </head>
+          <p xml:id="ppra-l18-uspcvt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-uspcvt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-uspcvt"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l18-Dd1e416">
+            <head xml:id="ppra-l18-Hdtvsao">
+              <supplied> De tertia via: Utrum intellectus assentiat immediate sine apparentiis
+                opponentis </supplied>
+            </head>
+            <p xml:id="ppra-l18-eipaie">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eipaie"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eipaie"/>
+              </assertions>
+            </p>
+            <!-- TODO: fuzzy break; needs review -->
+            <p xml:id="ppra-l18-smvaab">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-smvaab"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-smvaab"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e692">
+            <head xml:id="ppra-l18-Hdtvtaf">
+              <supplied>De tertia via: quomodo fides tollit apparentia falsa</supplied>
+            </head>
+            <p xml:id="ppra-l18-naanvt">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-naanvt"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-naanvt"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-pqedhc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-pqedhc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-pqedhc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-esdisc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-esdisc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-esdisc"/>
+              </assertions>
+            </p>
+            <!-- fuzzy break needs review -->
+            <p xml:id="ppra-l18-eeilva">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eeilva"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eeilva"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e1122">
+            <head xml:id="ppra-l18-Hcccccc">
+              <supplied>Corollaria</supplied>
+            </head>
+            <p xml:id="ppra-l18-eqpaac">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eqpaac"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eqpaac"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-auqseb">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-auqseb"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-auqseb"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-eifeaq">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eifeaq"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eifeaq"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-eqspaf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eqspaf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eqspaf"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-esdnae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-esdnae"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-eeciva">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eeciva"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l18-Dd1e1657">
+        <head xml:id="ppra-l18-Hptptpt">
+          <supplied>Principia theologiae</supplied>
+        </head>
+        <div xml:id="ppra-l18-Dd1e1665">
+          <head xml:id="ppra-l18-Hpptsct">
+            <supplied>Primum principium theologiae et secunda conclusio lectionis: Quamvis Deum esse
+              est primum principium theologia, tamen simul conclusio theologiae</supplied>
+          </head>
+          <p xml:id="ppra-l18-viasct">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-viasct"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-viasct"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l18-uaesgh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-uaesgh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-uaesgh"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l18-Dd1e1885">
+          <head xml:id="ppra-l18-Hsptepp">
+            <supplied>Secundum principium theologiae, Deus est omnipotens et liber, concluditur ex
+              primo principio</supplied>
+          </head>
+          <p xml:id="ppra-l18-sppeip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-sppeip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-sppeip"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l18-Dd1e1959">
+            <head xml:id="ppra-l18-Hopcldo">
+              <supplied>Obiectio philosophorum contra liberam Dei omnipotentiam</supplied>
+            </head>
+            <p xml:id="ppra-l18-uenssp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-uenssp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-uenssp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-eimetn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eimetn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eimetn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-uiavip">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-uiavip"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-uiavip"/>
+              </assertions>
+            </p>
+            <!-- TODO: review break -->
+            <p xml:id="ppra-l18-iuqipe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-iuqipe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-iuqipe"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e2522">
+            <head xml:id="ppra-l18-Hoatldo">
+              <supplied>Opinio aliquorum theologorum de libera Dei omnipotentia</supplied>
+            </head>
+            <p xml:id="ppra-l18-cqapav">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-cqapav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-cqapav"/>
+              </assertions>
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l18-euacne">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-euacne"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-euacne"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l18-espsmd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-espsmd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-espsmd"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e2785">
+            <head xml:id="ppra-l18-Hodppet">
+              <supplied>Opinio de Plaoul contra philosophos et theologos</supplied>
+            </head>
+            <p xml:id="ppra-l18-simaci">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l18-simaci"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-simaci"/>
+              </assertions>
+            </p>
+            <div xml:id="ppra-l18-Dd1e2796">
+              <head xml:id="ppra-l18-Hpadadp">
+                <supplied>Primum argumentum de Plaoul</supplied>
+              </head>
+              <p xml:id="ppra-l18-epacev">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-epacev"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-epacev"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-eeancc">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eeancc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eeancc"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-uicesc">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-uicesc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-uicesc"/>
+                </assertions>
+              </p>
+              <!-- fuzzy parallel; needs review -->
+              <p xml:id="ppra-l18-esihiv">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-esihiv"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-esihiv"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-idpvsc">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-idpvsc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-idpvsc"/>
+                </assertions>
+              </p>
+            </div>
+            <div xml:id="ppra-l18-Dd1e3221">
+              <head xml:id="ppra-l18-Hsasasa">
+                <supplied>Secundum argumentum</supplied>
+              </head>
+              <p xml:id="ppra-l18-sriesi">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-sriesi"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-sriesi"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-ivqrid">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-ivqrid"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-ivqrid"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-ivqema">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-"/>
+                </assertions>
+              </p>
+              <!-- fuzzy break; review break decision -->
+              <p xml:id="ppra-l18-ispuqa">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-ispuqa"/>
+                </assertions>
+              </p>
+              <p xml:id="ppra-l18-idesss">
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l18-idesss"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-idesss"/>
+                </assertions>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l18-Dd1e3491">
+          <head xml:id="ppra-l18-Hcdppdp">
+            <supplied>Conclusio de primo duo principiis</supplied>
+          </head>
+          <p xml:id="ppra-l18-eieaac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eieaac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-eieaac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l18-Dd1e3527">
+          <head xml:id="ppra-l18-Htptsas">
+            <supplied> Tertium principium theologiae: Deus providet sufficienter ad salutem
+            </supplied>
+          </head>
+          <p xml:id="ppra-l18-tppess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-tppess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-tppess"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l18-eppsae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-eppsae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l18-tpnpss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l18-tpnpss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-tpnpss"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l18-Dxxxx1">
+        <head xml:id="ppra-l18-Hxxxx2">Conclusiones</head>
+        <p xml:id="ppra-l18-yxxxx3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-d1e5185"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l18-yxxxx4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l18-d1e5227"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l18-yxxxx5">
+          <!-- might be parallel here but it is hard to see -->
+        </p>
+        <p xml:id="ppra-l18-yxxxx6">
+          <!-- might be parallel here but it is hard to see -->
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

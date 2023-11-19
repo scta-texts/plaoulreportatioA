@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio17">
+      <head xml:id="ppra-l17-Hd1e87">Lectio 17, De fide</head>
+      <div xml:id="ppra-l17-Dd1e90">
+        <head xml:id="ppra-l17-Hqdsste">
+          <supplied>Quomodo Deus subiectum theologiae est</supplied>
+        </head>
+        <p xml:id="ppra-l17-seqshs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-seqshs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-seqshs"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l17-Dd1e153">
+        <head xml:id="ppra-l17-Hdpddpd">
+          <supplied>De praedicatis Dei</supplied>
+        </head>
+        <p xml:id="ppra-l17-ueacnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ueacnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ueacnc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-vgetmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-vgetmp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-vgetmp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l17-Dd1e491">
+          <head xml:id="ppra-l17-Hcdpfid">
+            <supplied>Cur diversas praedicatas Dei sunt: contra aliqui ponentes formalitates in
+              Deo</supplied>
+          </head>
+          <p xml:id="ppra-l17-uhispc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-uhispc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-uhispc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l17-ebuipo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ebuipo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ebuipo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l17-ipnfpf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ipnfpf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ipnfpf"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l17-Dd1e869">
+        <head xml:id="ppra-l17-Hnpdnpd">
+          <supplied>Nomen proprium Dei</supplied>
+        </head>
+        <p xml:id="ppra-l17-eiiipl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-eiiipl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-eiiipl"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-l17-eipeim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-eipeim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-eipeim"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l17-Dd1e1136">
+        <head xml:id="ppra-l17-Hciseee">[Conclusio: in solo Deo est idem esse et essentia]</head>
+        <p xml:id="ppra-l17-ciqpip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ciqpip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ciqpip"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l17-Dd1e1288">
+          <head xml:id="ppra-l17-Hdmieed">
+            <supplied>Duo modi imaginandi quod esse et essentia distinguuntur</supplied>
+          </head>
+          <p xml:id="ppra-l17-elierd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-elierd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-elierd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l17-umetdf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-umetdf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-umetdf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l17-amemii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l17-amemii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-amemii"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l17-Dd1e1519">
+        <head xml:id="ppra-l17-Hndssga">
+          <supplied>Notum de simplicitas omnis concepti Dei et de complexe significabili <name
+              ref="#Rimini">Gregorii Ariminensis</name></supplied>
+        </head>
+        <p xml:id="ppra-l17-seqsup">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-seqsup"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-seqsup"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break; parallel needs review -->
+        <p xml:id="ppra-l17-dseief">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-dseief"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-dseief"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l17-Dd1e1662">
+        <head xml:id="ppra-l17-H">[Utrum sit notitia contingens de subiecto theologiae?]</head>
+        <p xml:id="ppra-l17-uaspvf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-uaspvf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-uaspvf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-eqspie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-eqspie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-eqspie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-cchldi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-cchldi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-cchldi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-ceecds">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ceecds"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ceecds"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-uensep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-uensep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-uensep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-aespcm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-aespcm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-aespcm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-sencfn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-sencfn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-sencfn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-suqeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-suqeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-suqeip"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l17-Dd1e2946">
+        <head xml:id="ppra-l17-Hrpppep">
+          <supplied>Ratio primaria pro erroribus philosophorum</supplied>
+        </head>
+        <p xml:id="ppra-l17-ebdste">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l17-ebdste"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-ebdste"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l17-Dd1e4683">
+        <head xml:id="ppra-l17-Hd1e4685">Conclusiones</head>
+        <p xml:id="ppra-l17-d1e4688">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-d1e4688"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l17-d1e4712">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l17-d1e4712"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

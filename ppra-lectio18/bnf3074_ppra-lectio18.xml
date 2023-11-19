@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 18 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 18 [Bnf 3074 Transcription]</title>
+          <date when="2023-10-31">October 31, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-10-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="40-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio18">
+        <head xml:id="ppra-l18-Hd1e102">Lectio 18, De fide</head>
+        <div xml:id="ppra-l18-Dd1e105">
+          <head xml:id="ppra-l18-Hreiphl">
+            <supplied>Recapitulatio et intentio pro hoc lectione</supplied>
+          </head>
+          <p xml:id="ppra-l18-seqtfp">
+            <lb ed="#P"/>Consequenter continuando materiam de fide adhuc quoniam prius tactum qualiter fidem iuvat lumen
+            <lb ed="#P"/>naturale ut attingere possit veritati theologice iuvamine fidei <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l18-rinamd">
+            Nunc inquiretur modus 
+            <lb ed="#P"/>per quem fides confert in processu theologico 
+          </p>
+        </div>
+        <div xml:id="ppra-l18-Dd1e184">
+          <head xml:id="ppra-l18-Hpcfasa">
+            <supplied>Prima conclusio</supplied>
+          </head>
+          <head xml:id="ppra-l18-Hd1e192" type="question-title">
+            <supplied>
+              Fides non est pars antecedentis in processu theologico, 
+              tamen requiritur ad scientifice assentiendum
+            </supplied>
+          </head>
+          <p xml:id="ppra-l18-pctssa">
+            <pc type="pilcrow"/> Et pro declaratione materiae sit prima propositio praevia quam quamvis 
+            <lb ed="#P"/>fides non intret processum theologicum tamquam pars antecedentis conclusionem theologicam probantis tamen requiritur ad 
+            <lb ed="#P"/>scientifice adhaerendum 
+          </p>
+          <p xml:id="ppra-l18-pphens">
+            probatur prima pars quia antecedens dubium nonquam <unclear>praecise<!-- possibly corrected --></unclear> infert conclusionem scitam <pc type="virgula">/</pc> quia ex 
+            <lb ed="#P"/>dubio vel pure credito <pc type="punctus"/> non sequitur praecise scitum <pc type="punctus"/> licet bene sequatur illative <pc type="punctus"/> si non probative 
+            <lb ed="#P"/>ut intendit conclusio modo sic est quod ea quae sunt fidei sunt credita et non scita ergo propositio fidei non potest 
+            <lb ed="#P"/>assumi <pc type="punctus"/> ad probandum probative conclusionem <pc type="punctus"/> et haec est quod dicitur quod conclusio sequitur debiliorem partem antecedents et hoc 
+            <pb ed="#P" n="40-v"/>
+            <lb ed="#P"/>processu scientifico quia si assumatur una copulativa cuius una pars est dubia et alia scita <pc type="punctus"/> conclusio erit dubiatur 
+            <lb ed="#P"/>et sic non <sic>notifficabit</sic> scientifice conclusionem 
+          </p>
+          <p xml:id="ppra-l18-spcsee">
+            <pc type="punctus"/> 2a pars propositionis satis prius fuit radicata <pc type="virgula">/</pc> quia lumen 
+            <lb ed="#P"/>naturale sibi derelictum non attingeret alios fidei articulos igitur ad huiusmodi notitiam habundam requiritur 
+            <lb ed="#P"/>fides <pc type="punctus"/> non sicut intrans tamquam probative <pc type="punctus"/> sicut prius tangebatur
+          </p>
+          <div xml:id="ppra-l18-Dd1e341">
+            <head xml:id="ppra-l18-Hqfcaln">
+              <supplied>Qualiter fides conferat ad lumen naturale</supplied>
+            </head>
+            <p xml:id="ppra-l18-uspcvt">
+              <pc type="pilcrow"/> Nunc autem debet applicari 
+              <lb ed="#P"/>qualiter fides conferat ad hoc quod lumen naturale iutum veniat ad theologicas veritates cognoscendas et declarandas
+              <lb ed="#P"/><pc type="pilcrow"/> Unde primo fides <sic>fortifficat</sic> intellectum <pc type="virgula">/</pc> 2o illuminat ipsum <pc type="virgula">/</pc> 3o liberat ab assensu errorum et apparentiorum 
+              <lb ed="#P"/>sophisticarum contra theologiam 
+            </p>
+            <div xml:id="ppra-l18-Dd1e416">
+              <head xml:id="ppra-l18-Hdtvsao">
+                <supplied>
+                  De tertia via: 
+                  Utrum intellectus assentiat immediate sine apparentiis opponentis
+                </supplied>
+              </head>
+              <p xml:id="ppra-l18-eipaie">
+                <pc type="virgula">/</pc> et ista pars adiutorii quam confert fides lumen naturali est multum notanda 
+                <lb ed="#P"/>scilicet quod fides tollit et liberat intellectum ab erroribus contra veritates theologicas secundum quod dicit <ref xml:id="ppra-l18-Rd1e457"><name ref="#Albert">albertus<!--written in red --></name> in prima 
+                <lb ed="#P"/>parte summe suae</ref> ubi tractat de principiis <pc type="pilcrow"/> dicit enim sic et ymaginatur quod data propositione habente 
+                <lb ed="#P"/>apparantia si nihil sit ad obiectum omnino intellectus assentit <pc type="virgula">/</pc> et ad hoc adduxit assensum primorum principiorum 
+                <lb ed="#P"/>quia proponuntur per modum apparantis et nihil est dubium Ideo intellectus assentit <del rend="strikethrough">Et dicit plus quia 
+                <lb ed="#P"/>compositae intelligentia respectu cuiuscumque enuntiabilis</del> unde proposita sibi propositione quantumcumque sit remissse apparentia si nihil
+                <lb ed="#P"/>est ad obiectum assentit 
+                <!-- possible break point -->
+                <pc type="pilcrow"/> Et dicit plus quod <unclear>componente intellectu</unclear> respectu cuiuscumque enuntiabilis et nihil est ad obiectum asserit 
+              </p>
+              <!-- TODO: fuzzy break; needs review -->
+              <p xml:id="ppra-l18-smvaab">
+                <lb ed="#P"/>Et quantum ad hoc non recipio ita late quia dato quod apponeret quod stellae sunt pares nihilominus 
+                <lb ed="#P"/>non assentiret licet non sit motivum ad obiectum 
+              </p>
+            </div>
+            <div xml:id="ppra-l18-Dd1e692">
+              <head xml:id="ppra-l18-Hdtvtaf">
+                <supplied>De tertia via: quomodo fides tollit apparentia falsa</supplied>
+              </head>
+              <p xml:id="ppra-l18-naanvt">
+                Et quia inter fides existens in intellectu et exiens 
+                <lb ed="#P"/>in actum tollit apparentiam errorum Ideo lumen naturale cum modica apparentia sufficit ad removendum huiusmodi 
+                <lb ed="#P"/>errorem <pc type="virgula">/</pc> quia radix assensus est apparentia quantumcumque modica cum remotione contrariarum apparentiarum et est unus daemonis 
+                <lb ed="#P"/>secundum quos fides iuvat lumen naturale <pc type="punctus"/> in exeuntibus facultatem ipsius 
+              </p>
+              <p xml:id="ppra-l18-pqedhc">
+                <pc type="punctus"/> pro quo notandum est quod assensus 
+                <lb ed="#P"/>extrinsecus variat aliquando processum demonstrativum quia sit ita quod <name>sortes</name> habeat firmum assensum quod <name>plato</name> est 
+                <lb ed="#P"/><sic>falsigraphus</sic> in geometria et <name>plato</name> <unclear>assentit</unclear> sibi vera principia et consequentiam quam concedendum stat quod non assentiat 
+                <lb ed="#P"/>conclusioni propter assensum quam habet quod iste decipit ipsum <pc type="virgula">/</pc> et sic stat quod credat decipi et tamen per illum 
+                <lb ed="#P"/>non decipietur
+              </p>
+              <p xml:id="ppra-l18-esdisc">
+                <pc type="pilcrow"/> Et si dicatur quod haec est contra <ref xml:id="ppra-l18-Rd1e924"><name ref="#Aristotle">philosophum</name> in <title ref="#PosteriorAnalytics">posteriorum</title></ref> <pc type="virgula">/</pc> quoniam <quote xml:id="ppra-l18-Qd1e943">scita maiore et minore scitur conclusio 
+                <lb ed="#P"/>esse vera</quote> <pc type="pilcrow"/> dicitur quod istud in tali casu ubi non esset aliquis actus in generali deceptus aliquando 
+                <lb ed="#P"/>esset deceptio <pc type="virgula">/</pc> Et posset dari exemplum aliud <pc type="virgula">/</pc> quia staret quod sortes pluries credidisset <c>a</c> <c>b</c> <c>c</c> demonstrative 
+                <lb ed="#P"/>et post ea quod crederet et sciret per diligentem inquisitionem quod non fuit verum 
+              </p>
+              <!-- fuzzy break needs review -->
+              <p xml:id="ppra-l18-eeilva">
+                quo casu 
+                <lb ed="#P"/>posito potest habere actum <unclear>suspensum</unclear> quando occurit simile et se habeat in suspenso respectu conclusionis demonstratae 
+                <lb ed="#P"/>vel diceretur ad <name>aristotelem</name> quod non sufficit habere assensum firmum <unclear>matris</unclear> et <unclear>muris</unclear> sed habere firmum assensum 
+                <lb ed="#P"/>quod totus processus est bonus <pc type="punctus"/> sine aliqua deceptione Et hoc tangit <name>aristoteles</name> <pc type="virgula">/</pc>
+              </p>
+            </div>
+            <div xml:id="ppra-l18-Dd1e1122">
+              <head xml:id="ppra-l18-Hcccccc">
+                <supplied>Corollaria</supplied>
+              </head>
+              <p xml:id="ppra-l18-eqpaac">
+                <pc type="virgula">/</pc> Et potest inferri quod circumstantia 
+                <lb ed="#P"/>personae loquentis immutat de <unclear>evidentia</unclear> et promptitudine assentiendi conclusioni et hoc tangit philosophos primo rethorice
+                <lb ed="#P"/>quod auctoritas <pc type="virgula">/</pc> dicentis sine assumptione in antecedente iuvat intellectum quod non sufficeret in alio supposito 
+                <lb ed="#P"/>causare assensum vel etiam apparentiam
+              </p>
+              <p xml:id="ppra-l18-auqseb">
+                <pc type="pilcrow"/> Ulterius notandum est quod fides est proprie respectu necessariorum ad salutem 
+                <lb ed="#P"/>requisitorum et hoc sub ratione amabilis dei vel timendi <pc type="virgula">/</pc> ergo in omni articulo deus debet includi <pc type="punctus"/> 
+                <lb ed="#P"/>ut resurrectio <pc type="punctus"/> et idem deus faciet mortuos resurgere <pc type="punctus"/> et sic obiectum fidei est sub ratione amabilis 
+                <lb ed="#P"/>vel timendi <unclear>vel</unclear> amandi propter bonitatem timendi propter iustitiam Et quia fides etiam habet bonum pro obiecto 
+              </p>
+              <p xml:id="ppra-l18-eifeaq">
+                ideo fidem 
+                <lb ed="#P"/>est quidam amor et movet intellectum ad veritates particulares <unclear>inquirendas</unclear> ideo movet intellectum ad veritates 
+                <lb ed="#P"/>theologicas <unclear>adquirendas</unclear> <pc type="virgula">/</pc> et per huiusmodi amorem fidem facilitat intellectum ad assentiendum ut si laudantur 
+                <lb ed="#P"/>habitus statim creditur ei Et sic ratione amoris ad veritates facilius est in intellectu assensus Ideo 
+                <lb ed="#P"/>intellectus respectu huiusmodi amoris exit in assensu respectu huiusmodi veritatis
+              </p>
+              <p xml:id="ppra-l18-eqspaf">
+                <pc type="pilcrow"/> Et quia alias tangetur 
+                <lb ed="#P"/>quod omnis veritas potest considerari ut a deo exemplificata et sibi conformis et ut a deo ordinata tamquam ad 
+                <lb ed="#P"/>salutem creaturae <pc type="punctus"/> Ideo prius dicebatur quod quaelibet veritas potest considerari ut est theologica et sic in mathematicis 
+                <lb ed="#P"/>est bonum et finis 
+              </p>
+              <p xml:id="ppra-l18-esdnae">
+                <pc type="punctus"/> Et <unclear>obiectum</unclear> dicit <name>aristoteles</name> scilicet quod non considerat sub ratione boni vel finis sed verum est ut 
+                <lb ed="#P"/>considerat mathematicus sed ut considerat illa theologus sunt quaedam bona et reducuntur in finem Et sic 
+                <lb ed="#P"/>consequenter perfectiori modo cognoscitur veritas per theologiam quam per aliam quia cognoscitur quantum ad enuntiabilia et quantum ad 
+                <lb ed="#P"/>principia et quantum ad finem quia in deum habent reduci finaliter
+              </p>
+              <p xml:id="ppra-l18-eeciva">
+                <pc type="pilcrow"/> Unde <ref xml:id="ppra-l18-Rd1e1617"><name>bacon</name></ref> infert quod philosophi non 
+                <lb ed="#P"/>habuerunt plenam notitiam de yride quia ignoverunt causam similem
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l18-Dd1e1657">
+          <head xml:id="ppra-l18-Hptptpt">
+            <supplied>Principia theologiae</supplied>
+          </head>
+          <div xml:id="ppra-l18-Dd1e1665">
+            <head xml:id="ppra-l18-Hpptsct">
+              <supplied>Primum principium theologiae et secunda conclusio lectionis: Quamvis Deum
+                esse est primum principium theologia, tamen simul conclusio theologiae</supplied>
+            </head>
+            <p xml:id="ppra-l18-viasct">
+              <pc type="pilcrow"/> Veniendo igitur ad materiam sit 2a conclusio quod 
+              <lb ed="#P"/>quamvis deum esse sit primum principium complexum est tamen sicut theologica conclusio
+            </p>
+            <p xml:id="ppra-l18-uaesgh">
+              <pc type="pilcrow"/> Ubi advertendum est quod varii possit esse 
+              <lb ed="#P"/>processus in theologia et quod eadem veritas quandoque sumitur ut antecedens et quandoque ut consequens quia per sacram scripturam 
+              <lb ed="#P"/>probatur quod deus est et per hoc deducitur sacra scriptura esse Unde prima parte <ref xml:id="ppra-l18-Rd1e1757"><title ref="#deut">deuteronomii</title> VIto</ref> <quote xml:id="ppra-l18-Qd1e1776" source="http://scta.info/resource/deut6_4">audi israel quod <unclear>d?lis</unclear> 
+              <lb ed="#P"/><unclear>unus</unclear> est</quote> Et in <ref xml:id="ppra-l18-Rd1e1809"><title>symbolis</title></ref> <pc type="punctus"/> et tamen scriptura deducitur ex isto principio descendendum ad particularia Et sic 
+              <lb ed="#P"/>instruit hominem non solum vocaliter sed mentaliter ipsum debite dirigendo
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e1885">
+            <head xml:id="ppra-l18-Hsptepp">
+              <supplied>Secundum principium theologiae, Deus est omnipotens et liber, concluditur ex
+                primo principio</supplied>
+            </head>
+            <p xml:id="ppra-l18-sppeip">
+              <pc type="pilcrow"/> 2m principium 
+              <lb ed="#P"/>potest poni libera dei omnipotentia <pc type="virgula">/</pc> ita quod in processu theologico est dictum esecundum istud quod est omnipotens et liber 
+              <lb ed="#P"/>et illud secundum sequitur ex primo quia prius includit quod est aliqua res universaliter perfecta <pc type="punctus"/> cui nihil potest deesse et 
+              <lb ed="#P"/>quo nihil maius cogitari potest <pc type="pilcrow"/> Vocatur tamen 2m principium quia est plurium conclusionum illatim <pc type="punctus"/> et istud 
+              <lb ed="#P"/>principium est theologicum et peccatum per cuius ignorantiam habuit ortum error in philosophia
+            </p>
+            <div xml:id="ppra-l18-Dd1e1959">
+              <head xml:id="ppra-l18-Hopcldo">
+                <supplied>Obiectio philosophorum contra liberam Dei omnipotentiam</supplied>
+              </head>
+              <p xml:id="ppra-l18-uenssp">
+                <pc type="pilcrow"/> Ubi advertendum est quod philosophi 
+                <lb ed="#P"/>habuerunt unum principium pro principio contrarium isti scilicet quod id inquantum id propter est apta nata facere idem et illud est
+                <lb ed="#P"/>magne apparentiae in lumine naturali quia eo ipso quod res eodem modo se habet adaequate eodem modo et conclusio ad effectum <pc type="virgula">/</pc> quia si 
+                <lb ed="#P"/>deus nunc producat sortem et cras eodem modo se habendo produceret <pc type="virgula">/</pc> quia ex tali modo se habendi producitur 
+                <lb ed="#P"/>effectus <pc type="punctus"/> et sic volebat ex uno modo se habendi non potest <unclear>diu sos</unclear> effectus producere
+              </p>
+              <p xml:id="ppra-l18-eimetn">
+                <pc type="pilcrow"/> Ulterius sequitur quod mundus 
+                <lb ed="#P"/>non potuit non esse <pc type="punctus"/> quia si ab aeterno non se habuisset ad creationem mundi <pc type="punctus"/> nec etiam nunc <pc type="punctus"/>
+                <pb ed="#P" n="41-r"/>
+                <lb ed="#P"/>Ideo dixerunt quod ab aeterno facit <pc type="pilcrow"/> Et <name>avicena</name> qui fuit revelator suarum oppinionum exponit 
+                <lb ed="#P"/><name>aristoteles</name> in metaphysica sua ymaginando quod omnes res habuerunt esse per productionem sed ab aeterno intelligibilia et similia 
+                <lb ed="#P"/>et etiam elementa Et dicit quod fuit oppinio <name>aristotelis</name> quod res fuerunt productae de non esse ad esse
+              </p>
+              <p xml:id="ppra-l18-uiavip">
+                <lb ed="#P"/><pc type="pilcrow"/> Unde ymaginatio <name ref="#Avicenna">avicennae</name> fuit quod deus quia est simplicissimus non potest producere nisi unum 
+                <lb ed="#P"/>et intelligendo se producit prima intelligibilia nec potest plura immediate producere ratione suae simpliciter 
+                <lb ed="#P"/>et dicunt quidam quod ab aeterno <del>haec</del> potuit habere rem creatam sibi coenam <pc type="punctus"/> et ymaginatur 
+                <lb ed="#P"/>quod in specie intelligentiarum non est nisi unica possibilis quia non posset dari ratio quare potius <unclear>produceret</unclear> 
+                <lb ed="#P"/>unam et <unclear>o?s</unclear> 
+              </p>
+              <!-- TODO: review break -->
+              <p xml:id="ppra-l18-iuqipe">
+                et illa intelligentia intelligendo deum producit 2am deinde in suam simplicitatem animam
+                <lb ed="#P"/>primi caeli deinde cogitando omnipotentia producit 2am animam 2i caeli et ista vocatur datrix formarum
+                <lb ed="#P"/><pc type="pilcrow"/> Unde iste error processit ex ignorantia principii videlicet quod deus habet libertatem contra dicto modo 
+                <lb ed="#P"/>quia deus omnino se habendo eodem modo potest producere infinitos et varios effectus ex immensitate suae libertatis 
+                <lb ed="#P"/>Et sic omnes effectus ibi includitur <pc type="pilcrow"/> Etiam data omnipotentia cum libertate concluditur possibilitas <unclear>artti? ati?ium</unclear>
+                <lb ed="#P"/>et sic potentia facti est potentia facientis
+              </p>
+            </div>
+            <div xml:id="ppra-l18-Dd1e2522">
+              <head xml:id="ppra-l18-Hoatldo">
+                <supplied>Opinio aliquorum theologorum de libera Dei omnipotentia</supplied>
+              </head>
+              <p xml:id="ppra-l18-cqapav">
+                <pc type="pilcrow"/> Circa istam materiam advertendum quod aliquid theologi secuti 
+                <lb ed="#P"/>sicut istam partem quo ad aliquid quia dixerunt quod deus non agit volendo ad extra 
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l18-euacne">
+                ideo 
+                <lb ed="#P"/>quia si sic esset determinatus per volitionem qua vellet agere ad extra uti per volitionem volet producere
+                <lb ed="#P"/>antichristum et sic ab aeterno voluit determinate et ergo necessario voluit ab aeterno quia alias esset mutabilis 
+                <lb ed="#P"/>et sic ille effectus necessario ponetur ex quo sequeretur quod quilibet effectus de necessitate eveniret
+              </p>
+              <p xml:id="ppra-l18-espsmd">
+                <pc type="virgula">/</pc> Et arguitur 
+                <lb ed="#P"/>quod agit per immediatam libertatis applicationem verbi gratia sicut voluntas creata se habet respectu sui primi actus 
+                <lb ed="#P"/>liberi ita voluntas divina respectu effectus quam producit unde cum voluntas creata producit suum primum 
+                <lb ed="#P"/>actum non determinatam per aliam volitionem quia esset processus in infinitum sed ex applicatione suae libertatis 
+                <lb ed="#P"/>absque alia volitione <pc type="pilcrow"/> Eodem modo dicunt de libertate divina absque hoc quod intrinsece determinetur volendo <pc type="punctus"/> 
+                <lb ed="#P"/>Et si ponit quod non est possibile quod voluntas divina sit determinata respectu effectus quia eo mutatur 
+                <lb ed="#P"/>ad illius effectus productionem <pc type="virgula">/</pc> 2o quod potest exire in actum per libertatis suae applicationes 
+                <lb ed="#P"/>Et sic salvant creationem mundi absque volitione praevia
+              </p>
+            </div>
+            <div xml:id="ppra-l18-Dd1e2785">
+              <head xml:id="ppra-l18-Hodppet">
+                <supplied>Opinio de Plaoul contra philosophos et theologos</supplied>
+              </head>
+              <p xml:id="ppra-l18-simaci">
+                Et ergo isto modo positio doctoris istius 
+                <lb ed="#P"/>non videtur solida <pc type="punctus"/> ymmo coincidit cum erroribus philosophorum <pc type="pilcrow"/> Ideo contra ipsam volo arguere
+              </p>
+              <div xml:id="ppra-l18-Dd1e2796">
+                <head xml:id="ppra-l18-Hpadadp">
+                  <supplied>Primum argumentum de Plaoul</supplied>
+                </head>
+                <p xml:id="ppra-l18-epacev">
+                  <lb ed="#P"/>primo posset intelligere quis quod intelligitur de volitione determinata et distincta
+                </p>
+                <p xml:id="ppra-l18-eeancc">
+                  <pc type="virgula">/</pc> sed quod ab aeterno voluit 
+                  <lb ed="#P"/>tunc dicitur quod error in illis quae concernunt deum consurgit ex alio sequente secundum dicit <name>boetius</name> primo 
+                  <lb ed="#P"/>de trinitate <pc type="virgula">/</pc> error arrii hunc ortum quia nescivit tenere modum arguendi in inquiendo 
+                  <lb ed="#P"/>veritatem quia in creaturis bene argitur sortes est homo <pc type="punctus"/> et plato est homo ergo sunt duo homines <pc type="virgula">/</pc> sit non dicitur in 
+                  <lb ed="#P"/>divinis pater est deus filius est deus et spiritus sanctus deus ergo sunt unus deus et non 3es dii et hoc est quia 
+                  <lb ed="#P"/>proprietates hunc diversissimas omnino contrarias <pc type="virgula">/</pc> nam alia competunt rei mensae et inmensae ideo non est 
+                  <lb ed="#P"/>similiter arguendum 
+                </p>
+                <p xml:id="ppra-l18-uicesc">
+                  <pc type="pilcrow"/> Unde in creaturis ista consequentia esset bona sortes voluit quod <c>a</c> erit et non erit ergo potest decipi 
+                  <lb ed="#P"/><pc type="pilcrow"/> De deo secus est quia ista consequentia non valuit deus voluit ab aeterno quod antichristus erit et non erit 
+                  <lb ed="#P"/>ergo frustrabilis est consequentia non Sed quia istud demonstrat immensitatem ipsius dei <pc type="pilcrow"/> unde aliqua sunt praedicata 
+                  <lb ed="#P"/>ergo frustrabilis est consequentia non valet quia istud demonstrat immensitatem ipsius dei <pc type="pilcrow"/> Unde aliqua sunt praedicata 
+                  <lb ed="#P"/>deo propria <pc type="punctus"/> ut simplicem in essentia et trinum in personis
+                </p>
+                <!-- fuzzy parallel; needs review -->
+                <p xml:id="ppra-l18-esihiv">
+                  <pc type="pilcrow"/> Similiter de ista deus scit antichristum 
+                  <lb ed="#P"/>fore et potest non esse explicat infallibilitatem unde non est mirum si res immensa habeat 
+                  <lb ed="#P"/>proprietates a nobis incomprehensibiles <pc type="virgula">/</pc> et sic innititur falso fundamento quia consequentia non valet deus voluit 
+                  <lb ed="#P"/>et non vult igitur etc <pc type="pilcrow"/> Dicitur quod istud non potest a nobis comprehendi ymmo nec a beatis sed 
+                  <lb ed="#P"/>solum ab ipso deo <pc type="punctus"/> et sic est peccare contra processum theologicum quia sermones inquirere <pc type="virgula">/</pc> sunt secundum 
+                  <lb ed="#P"/>materiam subiectam et sic a philosopho non dubito concessa immensitate divina non admiraretur 
+                  <lb ed="#P"/>de istis proprietatibus <pc type="virgula">/</pc> Quare patet ex dictis quod ista consequentia non valet deus voluit quod antichristus erit igitur necessario 
+                  <lb ed="#P"/>scivit et scit nec est simile de nobis <pc type="pilcrow"/> Ideo apostolus considerans hoc exclamat <pc type="pilcrow"/> <quote xml:id="ppra-l18-Qd1e3141" source="http://scta.info/resource/rom11_33">O altitudo 
+                  <lb ed="#P"/>sapientiae</quote> etc quoniam ista transcendunt naturam humanam
+                </p>
+                <p xml:id="ppra-l18-idpvsc">
+                  <pc type="pilcrow"/> 2m fundamentum defficit arguendo 
+                  <lb ed="#P"/>a simili de bonitate unde consequentia debet negari in creaturis <pc type="virgula">/</pc> Nam potest dici quod creatura elicit 
+                  <lb ed="#P"/>velle in volendo quia non est sua volitio 
+                </p>
+              </div>
+              <div xml:id="ppra-l18-Dd1e3221">
+                <head xml:id="ppra-l18-Hsasasa">
+                  <supplied>Secundum argumentum</supplied>
+                </head>
+                <p xml:id="ppra-l18-sriesi">
+                  <pc type="virgula">/</pc> Etiam voluntas indiget velle ad operandum ita 
+                  <lb ed="#P"/>quod operatio nobilis non fit sive velle propter sui imperfectionem et quia non est suum velle ideo 
+                  <lb ed="#P"/>indiget velle distincto non sic est de deo cum sit suum velle <pc type="punctus"/>
+                </p>
+                <p xml:id="ppra-l18-ivqrid">
+                  <pc type="pilcrow"/> Item voluntas non exit in 
+                  <lb ed="#P"/>actum exit tamquam imperfecta quia non cognoscit obiectum saltem in particulari <pc type="virgula">/</pc> et sic exit in suum 
+                  <lb ed="#P"/>primum actum non cognoscendo <pc type="virgula">/</pc> modo ista perfectio non reperitur in deo <pc type="punctus"/>
+                </p>
+                <p xml:id="ppra-l18-ivqema">
+                  <pc type="pilcrow"/> Item voluntas non esset determinata 
+                  <lb ed="#P"/>ad producendum magis unum actum quam alium <pc type="virgula">/</pc> ideo determinatur a prima causa <pc type="punctus"/> ideo isti modi 
+                  <lb ed="#P"/>exeundi in actum non reperiuntur in deo <pc type="punctus"/> et ultra quod voluntas non exit in actum nisi volendo 
+                  <lb ed="#P"/>et si esset sua volitio posset sive tali actu
+                  
+                  <pc type="pilcrow"/> Et sic de deo dicitur quod impossibile est quod exeat in actum 
+                  <lb ed="#P"/>nisi se volendo quia <unclear>oportet</unclear> concedere quare magis in unum actum similem quam in alium non 
+                  <lb ed="#P"/>complacentiae quia eodem modo complacet de uno sicut de alio
+                </p>
+                <!-- fuzzy break; review break decision --> 
+                <p xml:id="ppra-l18-ispuqa">
+                  <pc type="virgula">/</pc> Et si dicatur complacentiae eadem difficultas 
+                  <lb ed="#P"/>redibit sicut esset de volitione et sic non evitat quod vult evitari <pc type="pilcrow"/> Item de intellectu 
+                  <lb ed="#P"/>si intellexit ab aeterno quod <c>a</c> producitur eodem modo incidet inconveniens scilicet quod <c>a</c> necessario producetur 
+                  <lb ed="#P"/>Etiam si ponat complacentiam stat difficultas quare plus producit unum quam alium <pc type="virgula">/</pc> quia videtur 
+                  <lb ed="#P"/>quod agat a casu <pc type="punctus"/> <pc type="pilcrow"/> Ideo aliqui philosophi dixerunt quod non est nisi una intelligentia quia si 
+                  <lb ed="#P" n="41-v"/>
+                  <lb ed="#P"/>fuissent plures inductae vel simul produxisset illas vel nullam <pc type="punctus"/> et sic <name>avicena</name> quem 
+                  <lb ed="#P"/>sequitur est contra <del rend="strikethrough">v</del> eum 
+                </p>
+                <p xml:id="ppra-l18-idesss">
+                  <pc type="punctus"/> Et ista ratio videtur <unclear>convitens</unclear> apud theologum <pc type="virgula">/</pc> nam sacra scriptura et 
+                  <lb ed="#P"/>doctores concedunt quod deus agit volendo <pc type="punctus"/> et quia vult agere taliter agit ergo non debemus 
+                  <lb ed="#P"/>negare velle ab eo <pc type="punctus"/> <pc type="pilcrow"/> Ex quo sequitur quod periculosum est denegare libertatem in deo volendo 
+                  <lb ed="#P"/>dicendo oppositum contradiceretur ecclesiae et sacris doctoribus et nihil penitus <unclear>evittatur</unclear>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div xml:id="ppra-l18-Dd1e3491">
+            <head xml:id="ppra-l18-Hcdppdp">
+              <supplied>Conclusio de primo duo principiis</supplied>
+            </head>
+            <p xml:id="ppra-l18-eieaac">
+              <pc type="pilcrow"/> Ex istis 2obus 
+              <lb ed="#P"/>principiis secuntur omnes conclusiones theologicae necessariae et contingentes adinvicem adiuncte quibusdam aliis
+              <lb ed="#P"/><pc type="pilcrow"/> de articulis contingentibus sequitur possibilitas ex dictis quia deus potest facere quod ex virgine nascatur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l18-Dd1e3527">
+            <head xml:id="ppra-l18-Htptsas">
+              <supplied>
+                Tertium principium theologiae: 
+                Deus providet sufficienter ad
+                salutem
+              </supplied>
+            </head>
+            <p xml:id="ppra-l18-tppess">
+              <pc type="pilcrow"/> 3m principium potest ponit quod deus providit supernaturalibus dirigendo et sufficienter de lege et doctrina 
+              <lb ed="#P"/>dirigentibus ad salutem <pc type="punctus"/> quia ex quo fuit summae bonitatis non est dubitandum quin ordinaverit 
+              <lb ed="#P"/>sufficienter creatura et istud continet alia duo <pc type="pilcrow"/> Ex quo patet quod bibliae et determinationi ecclesiae eset 
+              <lb ed="#P"/>adhaerendum tamquam rei infallibili ad dirigendum creaturam in suum finem
+            </p>
+            <p xml:id="ppra-l18-eppsae">
+              <pc type="pilcrow"/> Ex quibus patet 
+              <lb ed="#P"/>quod deus est rector summus <pc type="virgula">/</pc> et ecclesia probat spiritum regere ecclesiam <pc type="virgula">/</pc> et sic est ibi quoddam modo circulatio 
+              <lb ed="#P"/>et quod habet rotam infra rotam quia ventus testamentum continet novum et econtra ideo articuli 
+              <lb ed="#P"/>continent se mutuo et est modus incomprehensibilis 
+            </p>
+            <p xml:id="ppra-l18-tpnpss">
+              <pc type="pilcrow"/> Tamen de comparatione auctoritatis sacrae 
+              <lb ed="#P"/>scripturae et ecclesiae possunt esse difficultates Sed ecclesia capitur uno modo pro aggregatione ex omnibus iustis 
+              <lb ed="#P"/>qui fuerunt ordinati ad legis constitutionem et habuerunt intellectum scripturae et tunc dicitur 
+              <lb ed="#P"/>quod auctoritas ecclesiae est immensa quia deus est unus apostolorum <pc type="virgula">/</pc> et per hoc ecclesia esset maioris 
+              <lb ed="#P"/>auctoritatis quam scriptura Etiam capiendo pro aggregato secluso <pc type="punctus"/> capite potest dici quod quantum ad re<lb ed="#P"/>velationem 
+              sunt eiusdem generis vel auctoritatis sed quantum ad sensum mentalem ecclesia potest praeferri 
+              <lb ed="#P"/>quantum ad alia scriptura praeferetur <pc type="virgula">/</pc> Sed deo dante in materia in qua agitur de spiritus sancti processione 
+              <lb ed="#P"/>aliquam dicam de isto <pc type="punctus"/> et hoc modo pertranseo causa brevitatis
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l18-Dxxxx1">
+          <head xml:id="ppra-l18-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l18-yxxxx3">
+            <pc type="pilcrow"/> Sequitur distinctio lectionis cuius conclusio prima 
+            <lb ed="#P"/><pc type="pilcrow"/> Spiritu sanctus procedit aeternaliter ab utroque non a seipso sicut pater <pc type="punctus"/> et hoc patet per augustinum 
+            <lb ed="#P"/>quia nulla res a seipsa procedit nisi pater
+          </p>
+          <p xml:id="ppra-l18-yxxxx4">
+            <pc type="pilcrow"/> Alia conclusio 2a spiritus sanctus non magis nunc est
+            <lb ed="#P"/>in creaturis quam fuit quoniam ubique semper deus est <pc type="punctus"/> et ubicumque deus est spiritus sanctus est
+          </p>
+          <p xml:id="ppra-l18-yxxxx5">
+            <pc type="pilcrow"/> Sed tamen 
+            <lb ed="#P"/>advertendum est quod magis specialiter et manifestans se habet in uno quam in alio ut patet 
+            <lb ed="#P"/>de <unclear>copulativa</unclear> super christum visa in fluvio iordanis
+          </p>
+          <p xml:id="ppra-l18-yxxxx6">
+            <pc type="pilcrow"/> 3a conclusio filius mittitur et aliter <sic>aparuit</sic> 
+            <lb ed="#P"/>quam spiritus sanctus <pc type="punctus"/> quia verbum est patris incarnatum sed spiritus sanctus tamquam donum et hoc de lectione 
+            <lb ed="#P"/>patet festum omnium sanctorum
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
