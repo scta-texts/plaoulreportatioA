@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio19">
+      <head xml:id="ppra-l19-Hd1e117">Lectio 19, De fide</head>
+      <div xml:id="ppra-l19-Dd1e120">
+        <head xml:id="ppra-l19-Hrdppnt">
+          <supplied>Recapitulatio de primis tres principiis nostrae theologiae</supplied>
+        </head>
+        <p xml:id="ppra-l19-seqilp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-seqilp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-isqnic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-isqnic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-seirsl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-seirsl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-seirsl"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-eceesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eceesp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eceesp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l19-Dd1e375">
+        <head xml:id="ppra-l19-Hdptepp">
+          <supplied>Duo praecepta theologiae, licet non sint immediate sequentia ex primis
+            principiis </supplied>
+        </head>
+        <p xml:id="ppra-l19-aeqtpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-aeqtpd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-aeqtpd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-peqsms">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-peqsms"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-apecic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-apecic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-apecic"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l19-Dd1e618">
+        <head xml:id="ppra-l19-Hqptqpt">
+          <supplied>Quartum principium theologiae</supplied>
+        </head>
+        <p xml:id="ppra-l19-appese">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-appese"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-appese"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l19-Dd1e767">
+          <head xml:id="ppra-l19-Hceqsri">
+            <supplied>Corollaria ex quarto principio: quod humanum iudicum non est sufficiens regula
+              iusti </supplied>
+          </head>
+          <p xml:id="ppra-l19-eqsivr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqsivr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqsivr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-uaqaur">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-uaqaur"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-uaqaur"/>
+            </assertions>
+          </p>
+          <!--Doesn't seem present
+              <p xml:id="ppra-l19-iaemeh">
+              Ita advertendum est 
+              quod iudicium humanum non est 
+                ultimata regula
+              ad quam reduci debent actus morales et huiusmodi.
+            </p>-->
+          <p xml:id="ppra-l19-eqseoh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqseoh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqseoh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-eqsosb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqsosb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqsosb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-eqsdgt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqsdgt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqsdgt"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break and parallel -->
+          <p xml:id="ppra-l19-epeepf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-epeepf"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l19-ienomf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-ienomf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-ienomf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-eqsbov">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqsbov"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqsbov"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-eqsdes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqsdes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqsdes"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l19-eqslln">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eqslln"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eqslln"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l19-Dd1e1488">
+        <head xml:id="ppra-l19-Hquiiae">
+          <supplied>Quintum principium theologiae</supplied>
+        </head>
+        <p xml:id="ppra-l19-appipo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-appipo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-appipo"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l19-Dd1e1598">
+        <head xml:id="ppra-l19-Hsptspt">
+          <supplied>Sextum principium theologiae</supplied>
+        </head>
+        <p xml:id="ppra-l19-apdssc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-apdssc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-apdssc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l19-Dd1e1864">
+        <head xml:id="ppra-l19-Hsepiae">
+          <supplied>Septimum principium theologiae</supplied>
+        </head>
+        <p xml:id="ppra-l19-apqudi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-apqudi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-apqudi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-eiclsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-eiclsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-eiclsc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l19-ieapvm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-ieapvm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-aeesde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-aeesde"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-aeesde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-tqeeit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-tqeeit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-tqeeit"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l19-Dd1e2509">
+        <head xml:id="ppra-l19-Hcerdpt">
+          <supplied> Conclusio et recapitulatio de principio theologiae </supplied>
+        </head>
+        <p xml:id="ppra-l19-aptpss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-aptpss"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break and parallel -->
+        <p xml:id="ppra-l19-vepshi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-vepshi"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break and parallel -->
+        <p xml:id="ppra-l19-sdfaef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-sdfaef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l19-sdfaef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l19-epince">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l19-epince"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
