@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio20">
+      <head xml:id="ppra-l20-Hd1e117">Lectio 20, de Notitia</head>
+      <div xml:id="ppra-l20-Dd1e120">
+        <head xml:id="ppra-l20-Hrprprp">
+          <supplied>Recapitulatio prologi</supplied>
+        </head>
+        <p xml:id="ppra-l20-sespiv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l20-sespiv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-sespiv"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l20-Dd1e209">
+        <head xml:id="ppra-l20-Hrpqanc">
+          <supplied>Rationes principales: quod Deus non est a nobis cognoscibilis</supplied>
+        </head>
+        <div xml:id="ppra-l20-Dd1e217">
+          <p xml:id="ppra-l20-epcaeh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-epcaeh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-epcaeh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-cedanc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-cedanc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-cedanc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e417">
+          <head xml:id="ppra-l20-Hprrprr">
+            <supplied>Prima ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-dapend">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-dapend"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-dapend"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e492">
+          <head xml:id="ppra-l20-Hserser">
+            <supplied>Secunda ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-spanis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-spanis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-spanis"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e551">
+          <head xml:id="ppra-l20-Hqarqar">
+            <supplied>Quarta ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-dpeiia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-dpeiia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-dpeiia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-pcdppi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-pcdppi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-pcdppi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-mctisd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-mctisd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-mctisd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-iefiqg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-iefiqg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-iefiqg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-smvqsr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-smvqsr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-smvqsr"/>
+            </assertions>
+          </p>
+          <!--fuzzy break and parallell -->
+          <p xml:id="ppra-l20-eiidun">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-eiidun"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-"/>-->
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e923">
+          <head xml:id="ppra-l20-Hqirqir">
+            <supplied>Quinta ratio</supplied>
+          </head>
+          <!-- fuzzy break and parallel -->
+          <p xml:id="ppra-l20-iqniee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-iqniee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-iqniee"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break and parallel -->
+          <p xml:id="ppra-l20-esdiap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-esdiap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-esdiap"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1194">
+          <head xml:id="ppra-l20-Hsxrsxr">
+            <supplied>Sexta ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-itdcse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-itdcse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-itdcse"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1274">
+          <head xml:id="ppra-l20-Hsprspr">
+            <supplied>Septima Ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-ssqsqs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-ssqsqs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-ssqsqs"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1377">
+          <head xml:id="ppra-l20-Hocrocr">
+            <supplied>Octava ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-opadid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-opadid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-opadid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-iepdvs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-iepdvs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-iepdvs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-ieesav">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-ieesav"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-ieesav"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-idqmqa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-idqmqa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-idqmqa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1691">
+          <head xml:id="ppra-l20-Hnornor">
+            <supplied>Nona ratio</supplied>
+          </head>
+          <p xml:id="ppra-l20-ideefh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-ideefh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-ideefh"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1733">
+          <p xml:id="ppra-l20-asrspp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-asrspp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-asrspp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l20-Dd1e1740">
+        <head xml:id="ppra-l20-Hdqudqu">
+          <supplied>Divisio Quaestionis</supplied>
+        </head>
+        <p xml:id="ppra-l20-narrif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l20-narrif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-narrif"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l20-Dd1e1823">
+        <head xml:id="ppra-l20-Hd1e1825">
+          <supplied>Articulus Primus</supplied>
+        </head>
+        <div xml:id="ppra-l20-Dd1e1831">
+          <head xml:id="ppra-l20-Hd1e1833">
+            <supplied>Circa naturalis communicatio rerum</supplied>
+          </head>
+          <p xml:id="ppra-l20-qapsep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-qapsep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-qapsep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l20-snqssp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-snqssp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-snqssp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e2150">
+          <head xml:id="ppra-l20-Hddiddi">
+            <supplied>Duae difficultates</supplied>
+          </head>
+          <p xml:id="ppra-l20-cveris">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l20-cveris"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-cveris"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e2242">
+          <head xml:id="ppra-l20-csdcsd">
+            <supplied> Circa secundam difficultatem</supplied>
+          </head>
+          <div xml:id="ppra-l20-Dd1e2250">
+            <head xml:id="ppra-l20-oididr">
+              <supplied>Opinio Ioannis de Ripa</supplied>
+            </head>
+            <p xml:id="ppra-l20-qasugp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-qasugp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-qasugp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-uspvei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-uspvei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-uspvei"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-srnude">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-srnude"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-srnude"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-tdqqnc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-tdqqnc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-tdqqnc"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-scqist">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-scqist"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-scqist"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-peqssn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-peqssn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-peqssn"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-idined">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-idined"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-idined"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-idqene">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-idqene"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-idqene"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l20-qeepie">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l20-qeepie"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l20-qeepie"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l20-Dxxxx1">
+          <head xml:id="ppra-l20-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l20-yxxxx3">
+          </p>
+          <p xml:id="ppra-l20-yxxxx4">
+          </p>
+          <p xml:id="ppra-l20-yxxxx5">
+          </p>
+          <p xml:id="ppra-l20-yxxxx6">
+          </p>
+          <p xml:id="ppra-l20-yxxxx7">
+          </p>
+          <p xml:id="ppra-l20-yxxxx8">
+          </p>
+          <p xml:id="ppra-l20-yxxxx9">
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

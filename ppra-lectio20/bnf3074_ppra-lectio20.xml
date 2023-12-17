@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 20 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 19 [Bnf 3074 Transcription]</title>
+          <date when="2023-12-05">December 05, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-12-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="42-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio20">
+        <head xml:id="ppra-l20-Hd1e117">Lectio 20, de Notitia</head>
+        <div xml:id="ppra-l20-Dd1e120">
+          <head xml:id="ppra-l20-Hrprprp">
+            <supplied>Recapitulatio prologi</supplied>
+          </head>
+          <p xml:id="ppra-l20-sespiv">
+            <lb ed="#P" n="1"/>Consequenter intrandum est materiam de notitiis postquam visum est quo modo fides non subiacet humanae 
+            <lb ed="#P" n="2"/>iudicio et quod humana investigatio debet per eam dirigi et quod etiam theologia participat rationem 
+            <lb ed="#P" n="3"/>investigationis humanae <pc type="punctus"/> ideo ad dirgendum eam et curandum subdelegavit theologiam ad 
+            <lb ed="#P" n="4"/>humanam investigationem audiendum et dabitur sibi audientia ut possit curari
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e209">
+          <head xml:id="ppra-l20-Hrpqanc">
+            <supplied>Rationes principales: quod Deus non est a nobis cognoscibilis</supplied>
+          </head>
+          <div xml:id="ppra-l20-Dd1e217">
+            <p xml:id="ppra-l20-epcaeh">
+              et idcirco circa primum 
+              <lb ed="#P" n="5"/>principium adducit testes contra fidem quorum primus fuit stultus dicens quod non est deus <pc type="pilcrow"/>alii philosophi 
+              <lb ed="#P" n="6"/>nominantes deum esse <pc type="pilcrow"/> Alii quod deus non erat nisi res corporalis
+            </p>
+            <p xml:id="ppra-l20-cedanc">
+              <pc type="pilcrow"/> Et potest fundari quaestio 
+              <lb ed="#P" n="7"/>utrum deus sit cognoscibilis vel utrum notitia ipsius dei sit a nobis possibilis Et arguitur 
+              <lb ed="#P" n="8"/>ex dictis scripturae sacrae et fidei nam nemo deum vidit unquam et apostolus dicit quod habitat vicem
+              <lb ed="#P" n="9"/>inaccessibilem et dyonisius quod de eo non est fantasia temporis
+            </p> 
+          </div>
+          <div xml:id="ppra-l20-Dd1e417">
+            <head xml:id="ppra-l20-Hprrprr">
+              <supplied>Prima ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-dapend">
+              <pc type="pilcrow"/> Deinde arguitur per 
+              <lb ed="#P" n="10"/>rationes si ergo sit cognitio dei sit <c>a</c> tunc talis notitia est obiecto proportionata et tunc est infinita vel est 
+              <lb ed="#P" n="11"/>proposita potentiae et tunc non est notitia dei cum sit improportionata respectu ipsius <pc type="virgula">/</pc> si primum tunc non 
+              <lb ed="#P" n="12"/>quia potentia nostra non si capax
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e492">
+            <head xml:id="ppra-l20-Hserser">
+              <supplied>Secunda ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-spanis">
+              <pc type="pilcrow"/> Aliter potest argui nam si esse aliquod mobile infinite distans a 
+              <lb ed="#P" n="13"/>loco suo non posset attingere nisi per formam infinite virtutis et spiritualiter deus est locus animarum 
+              <lb ed="#P" n="14"/>infinite distans ab ea ergo anima non ponit eum cognoscere nisi per notitiam infinitam et talis est nobis 
+              <lb ed="#P" n="15"/>impossibilis in via
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e551">
+            <head xml:id="ppra-l20-Hqarqar">
+              <supplied>Quarta ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-dpeiia">
+              <pc type="pilcrow"/> deinde probatur quod nec adiutorio luminis gloriae vel fidei quod possit elevari ad notitiam 
+              <lb ed="#P" n="16"/>dei quia vel huiusmodi lumen esset divina essentia <pc type="punctus"/> vel aliquid causatum non primum quia tunc infinitum immutaret
+            </p> 
+            <p xml:id="ppra-l20-pcdppi">
+              <lb ed="#P" n="17"/> Pro cuius declaratione supponitur quod quanto aliqua notitia est perfectioris speciei tanto perfectius immutat 
+              <lb ed="#P" n="18"/>patet quasi inductive et fundatur ratione quia perfectio notitia consistit in hoc quod perfecte immutat potentiam 
+              <lb ed="#P" n="19"/>quia secundum modum immutandi arguimus species <pc type="punctus"/> Ideo superior species habet perfectiorem operationem 
+              <lb ed="#P" n="20"/>et per consequens considerat tota latitudine notitiarum creatarum deus est superioris speciei ergo 
+              <lb ed="#P" n="21"/>perfectius immutat
+            </p>
+            <p xml:id="ppra-l20-mctisd">
+              <pc type="pilcrow"/> Item etiam quo ad speciem perfectius quam tota latitudo aliarum notitiarum et sive lumen 
+              <lb ed="#P" n="22"/>gloriae non potest esse deus <pc type="virgula">/</pc> modo istud est contra illos qui dicunt quod deus potest supplere vicem 
+              <lb ed="#P" n="23"/>notitiae <pc type="virgula">/</pc> Et de rippa dicit quod quando deus est notitia est infinita quo ad speciem <pc type="punctus"/> sed non quo ad gradum
+            </p>
+            <p xml:id="ppra-l20-iefiqg">
+              <lb ed="#P" n="24"/><pc type="pilcrow"/> unde si daretur <unclear>suppremus</unclear> color esset maior perfectionis quam infimus intensive intensus <pc type="punctus"/> sicut 
+              <lb ed="#P" n="25"/>anima intellectiva est perfectior quam infinita albedo si daretur 
+            </p>
+            <p xml:id="ppra-l20-smvqsr">
+              <pc type="punctus"/> et per consequens illud dictum <name>de rippa</name> non 
+              <lb ed="#P" n="26"/>videtur valere <pc type="virgula">/</pc> quia perfectio notitiae magis attenditur secundum speciem quam secundum gradum et deus ut notitia 
+              <lb ed="#P" n="27"/>supplet vicem notitiae creatae et sic est infinita quo ad speciem <pc type="punctus"/> nec potest illud lumen esse 
+              <lb ed="#P" n="28"/>aliquid creatum quia divina essentia est incircumscriptibilis ergo non potest esse aliqua notitia ipsam omnino 
+              <lb ed="#P" n="29"/>repraesentas et in istis notitiis 
+            </p>
+            <!--fuzzy break and parallell -->
+            <p xml:id="ppra-l20-eiidun">
+              quandoque inducam de notitia divina quandoque de notitia 
+              <lb ed="#P" n="30"/>creata notitia intellectus esset sumitur infinita
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e923">  
+            <head xml:id="ppra-l20-Hqirqir">
+              <supplied>Quinta ratio</supplied>
+            </head>
+            <!-- fuzzy break and parallel -->
+            <p xml:id="ppra-l20-iqniee">
+              quia in proportionando notitias secundum notitias obiectorum notitia 
+              <lb ed="#P" n="31"/>obiecti perfectior est specialiter intuitiva et causat perfectiorem notitiam ascendendo per notitiam obiectorum ibi 
+              <lb ed="#P" n="32"/>erit infinita latitudo ergo notitia de deo obiecto erit perfectior quam residuum et notitia praecedens erit 
+              <lb ed="#P" n="33"/>infinita igitur et dei <pc type="punctus"/> Et sic quanto obiectum est perfectius et notitia
+            </p>
+            <!-- fuzzy break and parallel -->
+            <p xml:id="ppra-l20-esdiap">
+              <pc type="pilcrow"/> Et si dicatur non est eadem 
+              <lb ed="#P" n="34"/>proportio retorquetur quia ad habendum proportionem augetur obiectum seu proportiones obiectorum <pc type="punctus"/> Ita quod primum obiectum causabit 
+              <lb ed="#P" n="35"/>notitiam ut duo et sic continuando in magna proportione et si non sufficiat maior inductio ad duplam 
+              <lb ed="#P" n="36"/>causandum <pc type="virgula">/</pc> capiatur obiectum triplum <pc type="virgula">/</pc> et si non sufficiat triplum capiatur maius et tunc ipse deus continet infinita 
+              <lb ed="#P" n="37"/>creata ergo notitia dei erit infinita tunc servabo talem proportionem et secundum processum in obiectis augebitur 
+              <lb ed="#P" n="38"/>proportio in notitiis et in multis habet locum sic augere <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e1194">
+            <head xml:id="ppra-l20-Hsxrsxr">
+              <supplied>Sexta ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-itdcse">
+              <pc type="pilcrow"/> Item talis notitia esset aequae perfecta 
+              <lb ed="#P" n="1"/>sicut notitia infinitarum creaturarum vel perfectior et cuiuslibet <unclear>di?te</unclear> sed ista esset infinita ergo et notitia dei 
+              <pb ed="#P" n="43-r"/>
+              <lb ed="#P" n="1"/>Et quod huiusmodi notitia dei intuitiva sit perfectior patet <pc type="punctus"/> quia deus est obiectum nobilius quam infinita obiecta 
+              <lb ed="#P" n="2"/>creata <pc type="punctus"/> si darentur ergo eius notitia erit perfectior quia nobilius repraesentat quam faciant cetera obiecta
+              <lb ed="#P" n="3"/>creata
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e1274">
+            <head xml:id="ppra-l20-Hsprspr">
+              <supplied>Septima Ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-ssqsqs">
+              <pc type="pilcrow"/> Item vel per visionem intuitivam deus apparet bonum finitum vel infinitum non primum 
+              <lb ed="#P" n="1"/>quia tunc aliqua creata posset apparere melior deo vel aeque bona quod absit <pc type="punctus"/> et sic videretur 
+              <lb ed="#P" n="2"/>praeferri creatura deo nec apparet bonum infinitum quoniam non comprehenderetur secundum se nec quodlibet sui 
+              <lb ed="#P" n="3"/>et per consequens incognoscibilis est quod fuit probandum 
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e1377">
+            <head xml:id="ppra-l20-Hocrocr">
+              <supplied>Octava ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-opadid">
+              <pc type="pilcrow"/> Item posset argui per comparationem distantiae 
+              <lb ed="#P" n="4"/>localis a sensu <pc type="virgula">/</pc> quia sicut sensus decipitur iudicando rem maiorem vel minorem quam sit vera 
+              <lb ed="#P" n="5"/>eius forma et hoc secundum distantiam maiorem vel minorem ita intellectus noster propter nimiam distantiam 
+              <lb ed="#P" n="6"/>a suo obiecto modo cum deus sit distantissimus ab intellectu modo non poterit habere veram 
+              <lb ed="#P" n="7"/>notitiam de eo <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l20-iepdvs">
+              <pc type="pilcrow"/> Item ex parte obiecti nam si esset aliquod luminosum infinitum quod infinite distaret 
+              <lb ed="#P" n="8"/>ab oculo corporali oculus non iudicaret ipsum esse infinitum ergo et ita erit de oculo spirituali
+            </p>
+            <p xml:id="ppra-l20-ieesav">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="9"/>ex parte potentiae quia debilitas potentiae facit apparere obiectum remissius ergo si potentia respectu obiecti sit infinite 
+              <lb ed="#P" n="10"/>debilis infinite defficiet et vera obiecti quantitate primum patet de oculo male disposito a qua 
+              <lb ed="#P" n="11"/>lux solis videtur remississimam <pc type="punctus"/> sicut de oculo noctue quae lucem solis iudicat remississimam 
+              <lb ed="#P" n="12"/>et non sufficientem ad videndum
+            </p>
+            <p xml:id="ppra-l20-idqmqa">
+              <pc type="pilcrow"/> Contra arguitur dato quod deus sit ymaginabilis sive conceptibilis Ex 
+              <lb ed="#P" n="13"/>hoc non sequitur quod sit <pc type="punctus"/> quia sicut non sequitur vacuum ymaginatur ergo est <pc type="virgula">/</pc> nam videtur etiam aristoteles 3o physicorum 
+              <lb ed="#P" n="14"/>dicer quod ymaginationi non est credendum igitur dato quod primae rationes inductae concluderent quod esse ymaginabilis 
+              <lb ed="#P" n="15"/>ex hoc non sequitur quod sit
+              <!-- possible break point -->
+              <pc type="pilcrow"/> Item omnis ratio facta pro parte quod sit est aeque solubilis faciliter sicut ratio 
+              <lb ed="#P" n="16"/>est apparens in se vel maior Ita quod si consideretur latitudo apparentiarum quod est latitudo apparentiarum 
+              <lb ed="#P" n="17"/>solutionum tanta est una latitudo sicut alia vel latitudo solutionum maior
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e1691">
+            <head xml:id="ppra-l20-Hnornor">
+              <supplied>Nona ratio</supplied>
+            </head>
+            <p xml:id="ppra-l20-ideefh">
+              <pc type="pilcrow"/> Item deum esse traditur esse ad 
+              <lb ed="#P" n="18"/>credendum et per consequens non probatur quia si posset probari <pc type="punctus"/> non excederet limites humanae facultatis 
+              <lb ed="#P" n="19"/>et sic non esset fides <pc type="punctus"/> quia fides est de excedentibus humanam facultatem
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e1733">
+            <p xml:id="ppra-l20-asrspp">
+              <pc type="pilcrow"/> Aliae sunt materiae 
+              <lb ed="#P" n="20"/>quae reservabuntur iuxta materias tractandas <pc type="punctus"/> <pc type="virgula">/</pc> et ista sufficiat de rationibus contra fidem
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1740">
+          <head xml:id="ppra-l20-Hdqudqu">
+            <supplied>Divisio Quaestionis</supplied>
+          </head>
+          <p xml:id="ppra-l20-narrif">
+            <pc type="pilcrow"/> Nunc ergo 
+            <lb ed="#P" n="21"/>restat materiam declarare <pc type="pilcrow"/> unde pro ipsius declaratione et evidentia maxime circa distinctionem 3a erunt 
+            <lb ed="#P" n="22"/>6 articuli per tractandi deo duce <pc type="punctus"/> <pc type="pilcrow"/> primus utrum de deo possit haberi notitia incomplexa <pc type="pilcrow"/> 2us 
+            <lb ed="#P" n="23"/>articulus de notitiarum intuitive et abstractive differentia <pc type="punctus"/> <pc type="pilcrow"/> 3us utrum aliquod praedicatum de deo et creatura univoce 
+            praedicetur <pc type="pilcrow"/> 4us utrum iste terminus <mentioned>deus</mentioned> sit in aliquo 10 praedicamentorum <pc type="pilcrow"/> 5us utrum deum esse sit in vai 
+            <lb ed="#P" n="24"/>demonstrabile <pc type="pilcrow"/> 6tus et ultimus quo ad hoc <del rend="strikethrough">utrum</del> respondebitur ad rationes inductas
+          </p>
+        </div>
+        <div xml:id="ppra-l20-Dd1e1823">
+          <head xml:id="ppra-l20-Hd1e1825">
+            <supplied>Articulus Primus</supplied>
+          </head>
+          <div xml:id="ppra-l20-Dd1e1831">
+            <head xml:id="ppra-l20-Hd1e1833">
+              <supplied>Circa naturalis communicatio rerum</supplied>
+            </head>
+            <p xml:id="ppra-l20-qapsep">
+              <pc type="pilcrow"/> Quantum
+              <lb ed="#P" n="25"/>ergo ad primum resolvendo materiam ad divinam providentiam omnia debite gubernantem sciendum est quod naturalis rerum 
+              <lb ed="#P" n="26"/>cognitio est necessaria pro universi conservatione maxime propter animalia <pc type="punctus"/> ut fugiant disconvenientia et convenientia 
+              <lb ed="#P" n="27"/>prosequitur et finaliter propter hominem <pc type="virgula">/</pc> quia omnia facta sunt propter ipsum <pc type="punctus"/> Et secundum magistrum sententiarum angeli 
+              <lb ed="#P" n="28"/>licet sint superioris speciei 
+            </p>
+            <p xml:id="ppra-l20-snqssp">
+              <pc type="virgula">/</pc> 2o quia res non possunt immediate produci ad extra vel percipi se ipsis 
+              <lb ed="#P" n="29"/>quoniam ut ait philosophus in libro de sensu et sensato <quote>sensibile positum supra sensum non facit sensationem</quote>
+              <lb ed="#P" n="30"/>et in 3o de anima <quote>lapis non est in anima <pc type="pilcrow"/> sed conceptus lapidis</quote> ergo divina providentia 
+              <lb ed="#P" n="31"/>ordinate res suas multiplicat species quantum possunt potentiis cognitivis quia ut servetur debitus 
+              <lb ed="#P" n="32"/>ordo universi res oportet <unclear>communicari</unclear> <pc type="virgula">/</pc> sed quia per se non possunt ideo iudicum est quod se diffundant 
+              <lb ed="#P" n="33"/>per suas species Ideo res sunt sui diffusive spiritualiter perceptis suas similitudines causando ascendendo 
+              <lb ed="#P" n="34"/>usque ad potentiam intellectivam et ex hoc ex parte obiectorum et potentiarum provisum est de diversis organis 
+              <lb ed="#P" n="35"/>quia secundum diversitatem rerum voluit providere diversa organa receptiva huiusmodi similis quia 
+              <lb ed="#P" n="36"/>gustus non percipit colorem <pc type="punctus"/> sed visus <pc type="punctus"/> et ideo sicut ordinavit diversa obiecta et diversa 
+              <lb ed="#P" n="37"/>organa receptiva et ordinavit organum communem receptivum multorum <pc type="punctus"/> et ordinavit alam 
+              <lb ed="#P" n="38"/>potentiam non utentem organis ut est memoria <unclear>fecundabilis</unclear> pro speciem intelligibilem <pc type="pilcrow"/>Et quia de 
+              <lb ed="#P" n="39"/>intellecitva est ad propositum dicitur quod illa est multiplex si apprehensiva compositiva iudicativa adhaesiva 
+              <lb ed="#P" n="40"/>discursiva et abstractiva <pc type="punctus"/> et secundum haec diversificantur species notitiarum
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e2150">
+            <head xml:id="ppra-l20-Hddiddi">
+              <supplied>Duae difficultates</supplied>
+            </head>
+            <p xml:id="ppra-l20-cveris">
+              <pc type="pilcrow"/> Consequenter videndum est 
+              <lb ed="#P" n="41"/><del rend="strikethrough">bene</del> unde consurgit quod aliqua notitia sit sui obiecti notitia et consequenter utrum quodlibet 
+              <lb ed="#P" n="42"/>obiectum sit sui ipsius diffusivum ad concurrendum obiective et de hoc sunt hic duae difficultates 
+              <lb ed="#P" n="43"/>una videlicet <pc type="pilcrow"/> Ex quo notitia est sui obiecti notitia et ex quibus causis <pc type="pilcrow"/> 2o utrum quodlibet obiectum 
+              <lb ed="#P" n="44"/>possit se sic intensionaliter repraesentare <pc type="pilcrow"/> Et primo dicam unum verbum de primo et non faciam finem 
+              <lb ed="#P" n="45"/>sed hoc cras deo duce
+            </p>
+          </div>
+          <div xml:id="ppra-l20-Dd1e2242">
+            <head xml:id="ppra-l20-csdcsd">
+              <supplied>
+                Circa secundam difficultatem</supplied>
+            </head>
+            <div xml:id="ppra-l20-Dd1e2250">
+              <head xml:id="ppra-l20-oididr">
+                <supplied>Opinio Ioannis de Ripa</supplied>
+              </head>
+              <p xml:id="ppra-l20-qasugp">
+                <pc type="pilcrow"/> de 2o <name>de rippa</name> respondet quod nullum obiectum materiale potest sic se 
+                <lb ed="#P" n="46"/>diffundere et sui notitiam causare scilicet intuitiva Radix huius est quia nulla res agit ultra gradum 
+                <lb ed="#P" n="47"/>proprium et sic nulla res materialis agit aliquid immateriale Et videtur quod dicat istud quod aliquid non agit 
+                <lb ed="#P" n="48"/>perfectius se unde de hoc facit 3es rationes 
+              </p>
+              <p xml:id="ppra-l20-uspvei">
+                <pc type="virgula">/</pc> prima est quod obiectum materiale non potest immaterialiter agere 
+                <lb ed="#P" n="49"/>et sic non potest agere huiusmodi speciem cum sit materialis
+              </p>
+              <p xml:id="ppra-l20-srnude">
+                <pc type="pilcrow"/> 2o nihil agit perfectius se ipso modo quodlibet 
+                <lb ed="#P" n="50"/>immateriale videtur perfectius materiali
+              </p>
+              <p xml:id="ppra-l20-tdqqnc">
+                <pc type="pilcrow"/> 3o quod tunc res materialis organa christi posset immutare in sacramento 
+                <lb ed="#P" n="51"/>quod tamen non concedeitur
+              </p>
+              <p xml:id="ppra-l20-scqist">
+                <pc type="pilcrow"/> Et potest una conclusionem quod nec qualitas materialis agit intensionaliter 
+                <lb ed="#P" n="52"/>producendo notitia quia non agit ultra gradum proprium <pc type="virgula">/</pc> unde dicit quod non quaelibet substantia spiritualis potest 
+                <lb ed="#P" n="53"/>concurrere obiective et est radix sua 
+              </p>
+              <p xml:id="ppra-l20-peqssn">
+                <pc type="virgula">/</pc> unde supponit quod latitudo accidentium sit <unclear>sicut</unclear> finita
+              </p>
+              <p xml:id="ppra-l20-idined">
+                <pb ed="#P" n="43-v"/>
+                <lb ed="#P" n="1"/><pc type="pilcrow"/> 2o supponit quod cuilibet obiecto alterius speciei correspondet notitia alterius speciei
+              </p> 
+              <p xml:id="ppra-l20-idqene">
+                <pc type="pilcrow"/> 3o supponit 
+                <lb ed="#P" n="2"/>quod species sint sicut numeri
+              </p>
+              <p xml:id="ppra-l20-qeepie">
+                <pc type="pilcrow"/> Item datis ymaginatur sic <pc type="virgula">/</pc> capiatur quod sit <add place="above-line">aliquod</add> obiectum spirituale quod <unclear>causat</unclear> 
+                <lb ed="#P" n="3"/>suam speciem tunc alia substantia spiritualis causabit notitiam et sic ascendendo in istis speciebus <pc type="virgula">/</pc> quia species 
+                <lb ed="#P" n="4"/>sunt sicut numeri <pc type="virgula">/</pc> et tunc sequitur quod deveniemus ad suppremum accidens ergo supprema intelligibilia 
+                <lb ed="#P" n="5"/>erit ultima producens sui notitiam <pc type="virgula">/</pc> Et hoc habet apparentiam <pc type="virgula">/</pc> 2o supposito quod latitudo accidentium sit pure 
+                <lb ed="#P" n="6"/>finita <!-- something here ? --> quod species sint sicut numeri tunc dabitur illud quod dicit igitur illa est supprema notitia 
+                <lb ed="#P" n="7"/>in genere accidentium Tunc capiatur aliud obiectum perfectius tunc illud non concurrens obiective quia 
+                <lb ed="#P" n="8"/>praecedendum terminabat <pc type="pilcrow"/> Etiam dato quod species non essent sicut numeri dum tamen esset infinita latitudo non 
+                <lb ed="#P" n="9"/>posset quis continue ascendere <pc type="pilcrow"/> Sed tamen tenebo obiectum prout deo dante in alia videbitur lectione
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l20-Dxxxx1">
+            <head xml:id="ppra-l20-Hxxxx2">Conclusiones</head>
+            <p xml:id="ppra-l20-yxxxx3">
+              <pc type="pilcrow"/> Secuntur conclusiones distinctionis prima per donum quod spiritus scilicet est datur caritas 
+            </p>
+            <p xml:id="ppra-l20-yxxxx4">
+              <pc type="pilcrow"/> 2a conclusio spiritus sanctus dicitur donum 
+              <lb ed="#P" n="10"/>quia procedit a patre ut amor <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l20-yxxxx5">
+              <pc type="pilcrow"/> 3a conclusio spiritus sanctus dicitur donum eo quod datur et spiratur
+            </p>
+            <p xml:id="ppra-l20-yxxxx6">
+              <pc type="pilcrow"/> 4a 
+              <lb ed="#P" n="11"/><del rend="strikethrough">spiritus sanctus</del> filius processit a patre non ut donum sed ut genitus 
+            </p>
+            <p xml:id="ppra-l20-yxxxx7">
+              <pc type="pilcrow"/> 5a filius in nascendo 
+              <lb ed="#P" n="12"/>realiter incepit esse <pc type="punctus"/> ut realiter sit
+            </p>
+            <p xml:id="ppra-l20-yxxxx8">
+              <pc type="pilcrow"/> 6a conclusio pater dat filio essentiam et spiritus sanctus etc
+            </p>
+            <p xml:id="ppra-l20-yxxxx9">
+              <pc type="pilcrow"/> 7ma conclusio 
+              <lb ed="#P" n="13"/>spiritus sanctus refertur ad filium quo ad <unclear>da?m</unclear> et haec de ista lectione die mercurii primus festum omnium sanctorum
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
