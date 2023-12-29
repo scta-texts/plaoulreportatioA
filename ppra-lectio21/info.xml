@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <div xml:id="ppra-lectio21">
+    <head xml:id="ppra-l21-Hd1e117">Lectio 21, de Notitia</head>
+    <p xml:id="ppra-l21-sqtppt">
+      <assertions>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/l21-sqtppt"/>
+        <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-sqtppt"/>
+      </assertions>
+    </p>
+    <div xml:id="ppra-l21-Dd1e417">
+      <head xml:id="ppra-l21-Hdeodeo">
+        <supplied>Duae extremae opiniones</supplied>
+      </head>
+      <p xml:id="ppra-l21-atqaed">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-atqaed"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-atqaed"/>
+        </assertions>
+      </p>
+      <div xml:id="ppra-l21-Dd1e440">
+        <head xml:id="ppra-l21-Hpopopo">
+          <supplied>Prima opinio</supplied>
+        </head>
+        <p xml:id="ppra-l21-poprun">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-poprun"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-poprun"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e535">
+        <head xml:id="ppra-l21-Hsososo">
+          <supplied>Secunda opinio</supplied>
+        </head>
+        <p xml:id="ppra-l21-aotmsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-aotmsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-aotmsc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e719">
+        <head xml:id="ppra-l21-Hrapeso">
+          <supplied>Responsio ad primam et secundum opinionem</supplied>
+        </head>
+        <!-- Doesn't seem present 
+            <p xml:id="ppra-l21-ecmeai">
+            Et circa materiam istam, quia non teneo primam nec secundam 
+              opiniones,
+            volo eas aliqualiter improbare.
+          </p>-->
+        <p xml:id="ppra-l21-peossl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-peossl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-peossl"/>
+          </assertions>
+        </p>
+        <!-- Doesn't seem present 
+            <p xml:id="ppra-l21-veqris">
+            Verum 
+              est
+            quod ista opinio responderet quod res 
+              corporea
+            non 
+            se diffundit 
+              vel
+            multiplicat corporaliter 
+            cum suis 
+            accidentibus corporalibus communibus, sed communicat se pure 
+            substantialiter sine huiusmodi accidentibus communibus corporalibus 
+            quae insunt ipsi rei in se.
+          </p>-->
+        <p xml:id="ppra-l21-ebcpdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-ebcpdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-ebcpdc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e1094">
+        <head xml:id="ppra-l21-pcpcpc">
+          <supplied>Prima conclusio</supplied>
+        </head>
+        <p xml:id="ppra-l21-peqrev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-peqrev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-peqrev"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e1300">
+        <head xml:id="ppra-l21-scscsc">
+          <supplied>Secunda conclusio</supplied>
+        </head>
+        <p xml:id="ppra-l21-scnave">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-scnave"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-scnave"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l21-sspais">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-sspais"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-sspais"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e1531">
+        <head xml:id="ppra-l21-Huaoaoe">
+          <supplied>Una alia opinio extrema</supplied>
+        </head>
+        <p xml:id="ppra-l21-eaudet">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-eaudet"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-eaudet"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+    <div xml:id="ppra-l21-Dd1e1612">
+      <head xml:id="ppra-l21-Hraiidv">
+        <supplied>Reditio ad inquisitionem de veritate</supplied>
+      </head>
+      <p xml:id="ppra-l21-reapid">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-reapid"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-reapid"/>
+        </assertions>
+      </p>
+      <div xml:id="ppra-l21-Dd1e1661">
+        <head xml:id="ppra-l21-Hprmprim">
+          <supplied>Primus modus</supplied>
+        </head>
+        <p xml:id="ppra-l21-umqppi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-umqppi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-umqppi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l21-Dd1e1808">
+        <head xml:id="ppra-l21-Hsmsmsm">
+          <supplied>Secundus modus</supplied>
+        </head>
+        <p xml:id="ppra-l21-aveevc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l21-aveevc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-aveevc"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+    <div xml:id="ppra-l21-Dd1e2066">
+      <head xml:id="ppra-l21-Hraoidr">
+        <supplied>Reditio ad opinionem Ioannis de Ripa</supplied>
+      </head>
+      <p xml:id="ppra-l21-reapsi">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-reapsi"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-reapsi"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-apecie">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-apecie"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-apecie"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-tiaqfe">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-tiaqfe"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-tiaqfe"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-apidqi">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-apidqi"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-apidqi"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-cpedai">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-cpedai"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-cpedai"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-cpqito">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-cpqito"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-cpqito"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-iqadsb">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-iqadsb"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-iqadsb"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-eisars">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-eisars"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-eisars"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l21-Dd1e3180">
+      <head xml:id="ppra-l21-Hariidr">
+        <supplied>Ad rationes Ioannis de Ripa</supplied>
+      </head>
+      <p xml:id="ppra-l21-apqrme">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-apqrme"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-sdqade">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-sdqade"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-sdqade"/>
+        </assertions>
+      </p>
+      <!-- fuzzy parallel -->
+      <p xml:id="ppra-l21-esppin">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-esppin"/>
+        </assertions>
+      </p>
+      <!-- fuzzy parallel -->
+      <p xml:id="ppra-l21-estpqi">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-estpqi"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l21-Dd1e3754">
+      <head xml:id="ppra-l21-Hoppppr">
+        <supplied>Opinio Petri Plaoul resolvitur</supplied>
+      </head>
+      <p xml:id="ppra-l21-chticd">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-chticd"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-chticd"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-epaple">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/l21-epaple"/>
+        </assertions>
+      </p>
+    </div>
+    <div xml:id="ppra-l21-Dxxxx1">
+      <head xml:id="ppra-l21-Hxxxx2">Conclusiones</head>
+      <p xml:id="ppra-l21-xxxxx3">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-ctdsed"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx4">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-dcanec"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx5">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-tpniqe"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx6">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-qpepse"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx7">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-qcndqi"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx8">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-scegtp"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxxx9">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-sceemp"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxx10">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-omaqsn"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxx11">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-ncatsi"/>
+        </assertions>
+      </p>
+      <p xml:id="ppra-l21-xxxx12">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l21-ddddte"/>
+        </assertions>
+      </p>
+    </div>
+  </div>
+</info>

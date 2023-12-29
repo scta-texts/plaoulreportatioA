@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 21 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 21 [Bnf 3074 Transcription]</title>
+          <date when="2023-12-22">December 22, 2023</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2023-12-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-v"/>
+      </div>
+    </front>
+    <body>
+      
+      <div xml:id="ppra-lectio21">
+        <head xml:id="ppra-l21-Hd1e117">Lectio 21, de Notitia</head>
+        <p xml:id="ppra-l21-sqtppt">
+          <lb ed="#P" n="15"/>Consequenter circa materiam prosequendum est nam prius tactum est quod ex divina providentia factum est 
+          <lb ed="#P"/>quod res seipsas diffundunt per species qui non possunt seipsas animae uniri et haec ad 
+          <lb ed="#P"/>hominis utilitatem quia res inferiores ad eius usum se offerunt ut eis utatur homo secundum quod miseria 
+          <lb ed="#P"/>hominis est magna et nedum subiciunt se homini pro indigentia humana simpliciter per perfectione intellectus ut 
+          <lb ed="#P"/>cognoscat vel physice vel mathematice vel aliter secundum quod intelectus potest eis perfici et finaliter ut ostenderet 2o 
+          <lb ed="#P"/>suum creatorem <pc type="virgula">/</pc> quia ut dicit <ref xml:id="ppra-l21-Rd1e293"><name>augustinus</name> <unclear>11us</unclear> de confessionibus</ref> <quote xml:id="ppra-l21-Qd1e307">totus mundus clamat 
+          <lb ed="#P"/>se esse factum a suo creatore <pc type="virgula">/</pc> licet non audiatur et res sequitur ordinem sicut deus diffundit se ut homo sit 
+          <lb ed="#P"/>dei particeps <pc type="punctus"/></quote> Et sic intendo tenere quod omnis res mundi est sui ipsius diffusiva cognitive 
+          <lb ed="#P"/>diffundendo species sive sit totalis sive specialis et hoc divina providentia quam <ref xml:id="ppra-l21-Rd1e395" target="http://scta.info/resource/l18-sppeip">posui pro 2o principio</ref>
+        </p>
+        <div xml:id="ppra-l21-Dd1e417">
+          <head xml:id="ppra-l21-Hdeodeo">
+           <supplied>Duae extremae opiniones</supplied>
+          </head>
+          <p xml:id="ppra-l21-atqaed">
+            <lb ed="#P"/><pc type="pilcrow"/> unde in ista materia duae sunt <unclear>scilicet</unclear> opiniones aliae <del rend="strikethrough">una</del> <!-- possible something added here --> de rippa <pc type="punctus"/> 
+          </p>
+          <div xml:id="ppra-l21-Dd1e440">
+            <head xml:id="ppra-l21-Hpopopo">
+              <supplied>Prima opinio</supplied>
+            </head>
+            <p xml:id="ppra-l21-poprun">
+              una ponit quod species rei 
+              <lb ed="#P"/>est res in esse tamen tali in quo potest se animae uniri et <ref xml:id="ppra-l21-Rd1e470">istam legi in <name ref="#RogerBacon">bacon</name> in tractatu
+              <lb ed="#P"/>quem fecit de multitudine specierum agentium</ref>
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e535">
+            <head xml:id="ppra-l21-Hsososo">
+              <supplied>Secunda opinio</supplied>
+            </head>
+            <p xml:id="ppra-l21-aotmsc">
+              <pc type="pilcrow"/> Alia oppinio extrema quod nullae sunt species nec res 
+              <lb ed="#P"/>sic se multiplicantes sed ex ordinatione divina ad praesentiam eius cum certa distantia cum certo medio non quod aliquid 
+              <lb ed="#P"/>causet sed sic se habet ad potentiam Et consequenter infra latitudinem ipsius rei <pc type="punctus"/> res potest videri ut patet 
+              <lb ed="#P"/>per applicatione rei opace polite ad speculum licet res non sit directe obiecta <pc type="punctus"/> unde potest salvari
+              <lb ed="#P"/>quod res absque specie videatur <pc type="virgula">/</pc> quoniam anima est suamet cognitio ut dicit talis oppinio Et consequenter alii 
+              <lb ed="#P"/>dicunt quod nec in anima formatur actus directus ab anima <pc type="punctus"/> sed anima est sua cognitio 
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e719">
+            <head xml:id="ppra-l21-Hrapeso">
+              <supplied>Responsio ad primam et secundum opinionem</supplied>
+            </head>
+            <!-- Doesn't seem present 
+              <p xml:id="ppra-l21-ecmeai">
+              Et circa materiam istam, quia non teneo primam nec secundam 
+                opiniones,
+              volo eas aliqualiter improbare.
+            </p>-->
+            <p xml:id="ppra-l21-peossl">
+              Sed prima facie 
+              <lb ed="#P"/>videtur hoc philosophiae repugnare <pc type="punctus"/> videlicet quod res eadem sit in diversis locis <pc type="punctus"/> <pc type="pilcrow"/> Item quod res corporalis 
+              <lb ed="#P"/>sit in anima quoniam haec esset contra <ref xml:id="ppra-l21-Rd1e791" corresp="#l21-QClnessl">3o de anima</ref> dicentem quod <quote xml:id="ppra-l21-QClnessl" source="http://scta.info/resource/aristda-l3"><!-- is --> lapis non est in anima sed species lapidis</quote>
+             </p>
+            <!-- Doesn't seem present 
+              <p xml:id="ppra-l21-veqris">
+              Verum 
+                est
+              quod ista opinio responderet quod res 
+                corporea
+              non 
+              se diffundit 
+                vel
+              multiplicat corporaliter 
+              cum suis 
+              accidentibus corporalibus communibus, sed communicat se pure 
+              substantialiter sine huiusmodi accidentibus communibus corporalibus 
+              quae insunt ipsi rei in se.
+            </p>-->
+            <p xml:id="ppra-l21-ebcpdc">
+              <lb ed="#P"/><pc type="pilcrow"/> Unde advertendum est quod ista deffectuositas cognoscendi provenit ex parte debilitatis ingenii <pc type="punctus"/> unde debilitas 
+              <lb ed="#P"/>ingenii infinitos commisit errores <pc type="punctus"/> <pc type="pilcrow"/> Quapropter unica est via recta <pc type="punctus"/> veritas ostensiva et ideo 
+              <lb ed="#P"/>standum es magis expertorum auctoritatibus et maxime <name>aristoteli</name> quoniam revera theologiae nostrae satis videtur 
+              <lb ed="#P"/>consonare <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e1094">
+            <head xml:id="ppra-l21-pcpcpc">
+              <supplied>Prima conclusio</supplied>
+            </head>
+            <p xml:id="ppra-l21-peqrev">
+              <pc type="pilcrow"/> Et ergo videatur primo utrum anima distinguatur a sua cognitione <pc type="virgula">/</pc> et de hoc sit 
+              <lb ed="#P"/>ista conclusio quod realiter distinguitur et articulus parisiensis quoniam intelligentia non intelligit per suam essentiam 
+              <lb ed="#P"/>quia oppositum dicere error <pc type="pilcrow"/> Idem habetur <ref xml:id="ppra-l21-Rd1e1227">in <name>clementinis</name></ref> quod <quote>animam seipsam beatificari error</quote> <pc type="virgula">/</pc> unde 
+              <lb ed="#P"/><ref xml:id="ppra-l21-Rd1e1250"><title ref="#Decretals">decretalis</title></ref> ponit quod sunt actus distincti scilicet visio intellectio etc et <name ref="#Aristotle">aristotelis</name> et <name>guillemus parisiensis</name> ponunt haec 
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e1300">
+            <head xml:id="ppra-l21-scscsc">
+              <supplied>Secunda conclusio</supplied>
+            </head>
+            <p xml:id="ppra-l21-scnave">
+              <lb ed="#P"/><pc type="pilcrow"/> 2a conclusio est quod nichilominus non est demonstratio cogens absolute protervum <unclear>ad quarium</unclear> ita quod oppositum posset sustineri 
+              <lb ed="#P"/>sine qua divinae et istud salvatur resolvendo se ad habitudines <pc type="virgula">/</pc> et sic qui vellet habere modum differendi 
+              <lb ed="#P"/>faciliter haberet quia ita bene salvaret modum arguendi et modum notitiarum ad volitiones 
+            </p>
+            <p xml:id="ppra-l21-sspais">
+              <pc type="pilcrow"/> 2o substineret 
+              <lb ed="#P"/>quia sicut dicimus de divina essentia <unclear>s?cit</unclear> nunc esse et ante nesciebat ita diceretur de anima <pc type="punctus"/> et tamen nihil acquireret 
+              <lb ed="#P"/>esset tamen aliqua mutatio quia de non sciente sciens <pc type="virgula">/</pc> et sic differet ab essentia divina Et sicut licet omnia 
+              <lb ed="#P"/>nunc esset cognitio per seipsam non esset essentialiter cognimus quia posset esse sine cognitione sicut diceretur de 
+              <lb ed="#P"/>quantitate ponendo quod quantitas non distingueretur a re quanta <pc type="punctus"/> <pc type="virgula">/</pc> Et si replicetur quod non posset salvari ymago 
+              <lb ed="#P"/>trinitatis <pc type="punctus"/> negatur quia primo esset species intelligibilis deinde notitia deinde volimus et quod sit odium unius 
+              <lb ed="#P"/>et dilectio alterius omnia ista sunt salvabilia et ergo potest salvari ista oppinio <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e1531">
+            <head xml:id="ppra-l21-Huaoaoe">
+              <supplied>Una alia opinio extrema</supplied>
+            </head>
+            <p xml:id="ppra-l21-eaudet">
+              <pc type="pilcrow"/> Alia est positio sive 
+              <lb ed="#P"/>oppinio dicens quod visio sit ad extra mittendo ut patet 2o de anima sed dimissis istis de veritate est inquirendum 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l21-Dd1e1612"> 
+          <head xml:id="ppra-l21-Hraiidv">
+            <supplied>Reditio ad inquisitionem de veritate</supplied>
+          </head>
+          <p xml:id="ppra-l21-reapid">
+            <lb ed="#P"/><pc type="pilcrow"/> Unde sciendum est quod quaelibet res potest concurrere obiective ad causandum notitiam sui in intellectum et hoc potest 
+            <lb ed="#P"/>probari dupliciter 
+          </p>
+          <div xml:id="ppra-l21-Dd1e1661">
+            <head xml:id="ppra-l21-Hprmprim">
+              <supplied>Primus modus</supplied>
+            </head>
+            <p xml:id="ppra-l21-umqppi">
+              uno modo quod per eandem speciem <add>per quod immutat sensus per eandem et intellectum <unclear>sive et res materia et</unclear></add> potest ymaginari <pc type="virgula">/</pc> primo quod <unclear>concurret</unclear> species existens in sensu 
+              <lb ed="#P"/>communi ad speciem aliam alterius speciei quae esset spiritualis species quae subiective esset in intellectu
+            </p>
+          </div>
+          <div xml:id="ppra-l21-Dd1e1808">
+            <head xml:id="ppra-l21-Hsmsmsm">
+             <supplied>Secundus modus</supplied>
+            </head>
+            <p xml:id="ppra-l21-aveevc">
+              <pc type="pilcrow"/> 2us 
+              <lb ed="#P"/>modus ymaginandi quod species sensibilis et obiectum non alias concurrerent quam immutando potentiam sensitivam 
+              <lb ed="#P"/>ita quod talis species esset causa sufficiens ad hoc quod intellectus formaret intellectionem sicut cognitio 
+              <lb ed="#P"/>sufficit ad hoc quod producat actum volitivum et nichilominus diceretur concurrere active et obiective etiam 
+              
+              <pc type="pilcrow"/> Alia via est
+              <pb ed="#P" n="44-r"/>
+              <lb ed="#P"/>vel oppinio quod res materialis multiplicat duplicem speciem <pc type="punctus"/> unam extensam quae habet rationem magis 
+              <lb ed="#P"/>materialis <pc type="virgula">/</pc> aliam quae habet potentiam immutandi potentiam intellectivam ut sit albedo et angelus <pc type="punctus"/> tunc angelus vi<lb ed="#P"/>debit 
+              eam et cognoscet non per organum corporeum sed intuitive per speciem spiritualem 
+              <lb ed="#P"/>et istius oppinionis erat <name>magister gerardus calcar</name> valentissimus philosophus <pc type="pilcrow"/> Unde tenetur 
+              <lb ed="#P"/>quod <unclear>aquacumque</unclear> creatura a superiori usque ad inferiorem potest concurrere obiective
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l21-Dd1e2066">
+          <head xml:id="ppra-l21-Hraoidr">
+            <supplied>Reditio ad opinionem Ioannis de Ripa</supplied>
+          </head>
+          <p xml:id="ppra-l21-reapsi">
+            <pc type="pilcrow"/> Redeundo ergo ad 
+            <lb ed="#P"/>oppinionem <name ref="#Ripa">de rippa</name> qui subtiliter hici ymaginor <pc type="virgula">/</pc> nec negat multitudinem specierum 
+            <lb ed="#P"/>sed ponit quod species multiplicatae ad obiectis non possunt immutare intellectum tamen non vult negare 
+            <lb ed="#P"/>concursum specierum
+          </p>
+          <p xml:id="ppra-l21-apecie">
+            <pc type="pilcrow"/> Alius punctus suae ymaginis est quod genus accidentium est finitum et 
+            <lb ed="#P"/>cuilibet rei alterius speciei et <unclear>cum</unclear> possint esse multae tales species infinitae substantiales <pc type="punctus"/> una poterit 
+            <lb ed="#P"/>producit quae producet ultimam notitiam Tota autem multitudo creabilium inter illam intelligentiam 
+            <lb ed="#P"/>et deum erit talis naturae quod non posset concurrere ad notitiam causandum <pc type="virgula">/</pc> alias esset contra ypothesim 
+          </p> 
+          <p xml:id="ppra-l21-tiaqfe">
+            <lb ed="#P"/><pc type="pilcrow"/> <sic>2o</sic> arguit dato quod non a dimitteretur quod species non se haberent sicut numeri <pc type="punctus"/> latitudo tamen accidentium 
+            <lb ed="#P"/>est finita Tunc peccato quod perfectior species vel intelligentia causat <sic>causat</sic> perfectiorem notitiam non eadem 
+            <lb ed="#P"/>proportione ergo vel erit processus ascendendo quod est contra ypothesim vel dabitur ultima intelligentia quae poterit 
+            <lb ed="#P"/>influere et maxime adiuncto quod concursus obiectivus sit naturalis quia si esset liber posset quantumcumque 
+            <lb ed="#P"/>remisse concurrere et prima suppositio concederetur
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Ex istis infertur aliquas conclusiones <pc type="virgula">/</pc> prima ponit maximam intelligentiam 
+            <lb ed="#P"/>finitam quae potest obiective concurrere
+          </p> 
+          <p xml:id="ppra-l21-apidqi">
+            <pc type="pilcrow"/> Alia propositio quam ponit quod nulla intelligentia supra illam ultimam 
+            <lb ed="#P"/>potest concurrere obiective <pc type="punctus"/> patet quia si concurreret obiective causaret aliam notitiam alterius speciei 
+            <lb ed="#P"/>et non inferioris ergo etc
+          </p> 
+          <p xml:id="ppra-l21-cpedai">
+            <pc type="pilcrow"/> Ulterius propter unum dubium quod posset fieri quod quaelibet intelligentia quae non 
+            <lb ed="#P"/>est apta nata concurrere obiective est sui notitia <pc type="virgula">/</pc> <del>et sic non indiget accidente medio <pc type="virgula">/</pc> Et sic omnis 
+            <lb ed="#P"/>emptitas materialis</del> et potest esse alteri notitia de se et per hoc salvat quod omnes intelligentiae supra illam possunt 
+            <lb ed="#P"/>cognosci quia est sui notitia <pc type="virgula">/</pc> et sic non indiget accidente medio Et ergo sic omnis entitas materialis 
+            <lb ed="#P"/>est in propri genere intuitive visibilis cum sit quaedam lux in se <pc type="punctus"/> Ideo res quae non cognoscitur notitia distinca
+            <lb ed="#P"/>sei ipsis cognoscuntur
+          </p> 
+          <p xml:id="ppra-l21-cpqito">
+            <pc type="pilcrow"/> Consequenter ponit quod deus non potest concurrere obiective ad causandum 
+            <lb ed="#P"/>notitiam intuitivam respectu potentiae intellectivam quia data est ultimata producens ergo impossibile est quod causetur superior 
+            <lb ed="#P"/>causans notitiam accidentalem
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Unde circa istud est advertendum quod quantum est de concursu obiectivo rerum 
+            <lb ed="#P"/>materialium non est magnum periculum et potest substineri et quod aliquae intelligentiae sint sui notitia
+          </p>
+          <p xml:id="ppra-l21-iqadsb">
+            <lb ed="#P"/><pc type="pilcrow"/> Sed quod deus non potest concurrere negandum est <pc type="pilcrow"/> Contra quod ponitur ista conclusio quod sicut deus libere agit 
+            <lb ed="#P"/>ad extra secundum quod vult Ita agit secundum speciem in genere specierum secundum quod placet non obstante immensitate 
+            <lb ed="#P"/>ipsius <pc type="punctus"/> Tamen nunc producit maiorem effectum nunc minorem licet immense agat respectu cuiuscumque 
+            <lb ed="#P"/>effectus et infinite et tamen libere producit magnum vel parvum <pc type="punctus"/> ita de concursu obiectivo producendo intensiorem 
+            <lb ed="#P"/>vel remissiorem secundum quod placet <pc type="punctus"/> et hoc testatur scriptura ubi dicitur <pc type="punctus"/> <quote xml:id="ppra-l21-Qidpsmm" source="http://scta.info/resource/io14_2">In domo patris mei man<lb ed="#P"/>siones 
+            multae sunt</quote> <pc type="virgula">/</pc> et non sunt nisi gradus beatitudinis distincti in eadem specie vel diversis 
+            <lb ed="#P"/>secundum quod creaturae diversimode meruerunt <pc type="punctus"/> et sic ab eadem causa producuntur diversi effectus <pc type="punctus"/> Et sic 
+            <lb ed="#P"/>ab eodem obiecto proveniunt immediate diversae <sic>diversae</sic> species et diversarum specierum et diversarum intensionum 
+            <lb ed="#P"/>vel remissionum et istud est magis pro fide
+          </p>
+          <p xml:id="ppra-l21-eisars">
+            <pc type="pilcrow"/> Et si dicatur quod deus non posset concurrere 
+            <lb ed="#P"/>obiective oportet quod esset notitia beatifica formaliter se ipso <pc type="punctus"/> sed determinatio ecclesiae est ad oppositum quia ponit 
+            <lb ed="#P"/>quod sunt actus distincti Et sic deus videtur concurrere obiective ad notitiam <pc type="pilcrow"/> Ex quo patet quod 
+            <lb ed="#P"/>influxus obiectivus in deo est mere liber <pc type="virgula">/</pc> sed utrum sit liber in causa naturali certum est 
+            <lb ed="#P"/>quod non <pc type="punctus"/> ymmo concurrit secundum exemplum sui posset <pc type="punctus"/> de deo secus est <pc type="virgula">/</pc> et ideo eius concursus non est naturalis 
+            <lb ed="#P"/><pc type="pilcrow"/> Si tamen albedo esset res libera respectu cuiuscumque effectus vel suae actionis libere concurreret <pc type="punctus"/> Et sic 2a suppositio 
+            <lb ed="#P"/><name>de rippa</name>
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Restat ergo respondere ad suas radices quia oportet tenere quod deus 
+            <lb ed="#P"/>concurrat libere etc <pc type="virgula">/</pc> sed utrum intelligentia possit esse sui ipsius notitia alias deo duce videbitur 
+          </p>
+        </div>
+        <div xml:id="ppra-l21-Dd1e3180">
+          <head xml:id="ppra-l21-Hariidr">
+            <supplied>Ad rationes Ioannis de Ripa</supplied>
+          </head>
+          <p xml:id="ppra-l21-apqrme">
+            <lb ed="#P"/>Et tunc ad primam rationem <name>de rippa</name> qui supponit quod genus accidentium sit finitum sed haec intelligitur 
+            <lb ed="#P"/>quod quaecumque species in illo genere produceretur illa esset finitae perfectionis et illo modo conceditur sed non est ad propositum 
+            <lb ed="#P"/>suum <pc type="punctus"/> Si intelligatur quod sit solum finite producibiles species in illo genere sibi negaretur nec 
+            <lb ed="#P"/>sequitur infinitae species sunt in hoc genere producibiles quarum quaelibet est perfectior prima ergo aliqua species infinitas est 
+            <lb ed="#P"/>hic producta <pc type="punctus"/> consequentia non valet <pc type="punctus"/> quia in pedali sunt infinitae partes quarum quaelibet erit perfectior alia 
+          </p>
+          <p xml:id="ppra-l21-sdqade">
+            <lb ed="#P"/><pc type="pilcrow"/> 2o diceretur quod accidentia non reponuntur in genere eo modo quo dicit <unclear>mathematicus</unclear> et theologus <pc type="punctus"/> Et ideo 
+            <lb ed="#P"/>quomodo istud debeat capi <pc type="virgula">/</pc> dicam in <ref xml:id="ppra-l21-Rd1e3498" target="http://scta.info/resource/principiumII"> <!--si-->2o principio</ref> deo dante <pc type="punctus"/>
+            <!-- possible break point --> 
+            <pc type="pilcrow"/> Alia via vel oppinio posset esse 
+            <lb ed="#P"/>quod realiter notitia non sortitur speciem penes obiectum quod repraesentat <pc type="virgula">/</pc> sed quia staret quod esset notitia 
+            <lb ed="#P"/>eiusdem speciei <pc type="punctus"/> et tamen una non repraesentaret idem quod alia Et sic diversae intelligentiae se habendi Et 
+            <lb ed="#P"/>ergo fundamentum in quo se fundat non est verum
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l21-esppin">
+            <pc type="pilcrow"/> Potest tamen dici quod species sic sunt sicut numeri ita 
+            <lb ed="#P"/>quod inter duas immediatus non posset 3a produci <pc type="punctus"/> Et sic dicebat quod obiectum alterius speciei notitiam 
+            <lb ed="#B"/>aliam producit 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l21-estpqi">
+            <pc type="pilcrow"/> Sed quantum ad rationes de obiecto materiali principalis radix sua est quod nullum agens agit 
+            <lb ed="#B"/>perfectius se <pc type="punctus"/> facile est dicere quia producens est substantia ideo non haberet propositum
+          </p>
+        </div>
+        <div xml:id="ppra-l21-Dd1e3754">
+          <head xml:id="ppra-l21-Hoppppr">
+            <supplied>Opinio Petri Plaoul resolvitur</supplied>
+          </head>
+          <p xml:id="ppra-l21-chticd">
+            <pc type="pilcrow"/> de albedine tamen dicam 
+            <lb ed="#B"/>quod activitas rerum in influxus secuuntur magis divinam providentiam libere ordinantem pro utilitate universi 
+            <pb ed="#B" n="44-v"/>
+            <lb ed="#B"/>quam ad proprias specificas rationes vel formas <pc type="virgula">/</pc> quia videmus aliquando minus perfectas nobilius agere 
+            <lb ed="#B"/>sicut est homo respectu angeli Etiam asinus asinum producit <pc type="punctus"/> et tamen caelum non produceret illum <pc type="punctus"/> licet sit 
+            <lb ed="#B"/>perfectius asino <pc type="punctus"/> non tamen producit tamquam causa prima respectu illius effectus <pc type="punctus"/> sed concursu 
+            <lb ed="#B"/>dei generali <pc type="punctus"/> stat tamen quod res producat perfectiorem se quia hoc est inditum ad debitum 
+            <lb ed="#B"/>regimen universi <pc type="punctus"/> et secundum decretum divinae providentiae Et cum inducit quia sequeretur quod 
+            <lb ed="#B"/>obiecta materialia posset agere in corpus christi in sacramento altaris <pc type="punctus"/> Retorquebo quam ipsam quia concedit 
+            <lb ed="#B"/>quod obiectum immutat organum sensus tamen negatur consequentia quia corpus christi non habet habitudinem potentiae cognitivae 
+            <lb ed="#B"/>ad suum obiectum et non est ibi modo naturali <pc type="punctus"/> secundum quem modo obiecta sunt apta nata agere quae non 
+            <lb ed="#B"/>ponit in sacramento altaris Et tangit de visione dei <pc type="virgula">/</pc> quidam diversimode dicunt <pc type="punctus"/> sed alias 
+            <lb ed="#B"/>deo duce de hoc videbitur 
+          </p>
+          <p xml:id="ppra-l21-epaple">
+            Et quodlibet obiectum habet obiective concurrere <pc type="virgula">/</pc> et <add place="above-line">quod</add> causalitas activa est naturalis 
+            <lb ed="#B"/>hoc non est verum
+          </p> 
+        </div>
+        <div xml:id="ppra-l21-Dxxxx1">
+          <head xml:id="ppra-l21-Hxxxx2">Conclusiones</head>
+          <p xml:id="ppra-l21-xxxxx3">
+            <pc type="pilcrow"/> Sequitur distinctio cuius conclusio prima quod totae tres personae in divinis sunt coaequales
+          </p>
+          <p xml:id="ppra-l21-xxxxx4">
+            <lb ed="#B"/><pc type="pilcrow"/> 2a conclusio aeternitas dei essentia et immensitas sunt idem <pc type="punctus"/> <pc type="virgula">/</pc> causa est quia deus summe simplex est 
+          </p>
+          <p xml:id="ppra-l21-xxxxx5">
+            <lb ed="#B"/><pc type="pilcrow"/> 3a conclusio pater in divinis non est maior filio in divinis
+          </p>
+          <p xml:id="ppra-l21-xxxxx6">
+            <pc type="pilcrow"/> 4a pater est in filio scilicet per inceptionem  
+          </p>
+          <p xml:id="ppra-l21-xxxxx7">
+            <pc type="pilcrow"/> 5a nulla divinarum personarum est pars alterius
+          </p>
+          <p xml:id="ppra-l21-xxxxx8">
+            <pc type="pilcrow"/> 6a essentia divina non est genus trium personarum 
+            <lb ed="#B"/>sed actualitas summa <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l21-xxxxx9">
+            <pc type="pilcrow"/> 7ma conclusio essentia divina non est materia personarum
+          </p>
+          <p xml:id="ppra-l21-xxxx10">
+            <pc type="pilcrow"/> 8va conclusio 3es personae 
+            <lb ed="#B"/>non dicuntur unius essentiae sicut differenter 3es homines
+          </p>
+          <p xml:id="ppra-l21-xxxx11">
+            <pc type="pilcrow"/>9na aliqua differunt non quia essentia 
+            <lb ed="#B"/>unius non sit de essentia alterius <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l21-xxxx12">
+            <pc type="pilcrow"/> 10 conclusio deus est trinus et tamen non triplex <pc type="punctus"/> ratio est 
+            <lb ed="#B"/>quia trinus non denotat distinctionem sed triplex denotat hoc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
