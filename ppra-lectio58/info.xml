@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio58">
+      <head xml:id="ppra-l58-Hldtldt">Lectio 58, de Trinitate</head>
+      <div xml:id="ppra-l58-Dd1e109">
+        <head xml:id="ppra-l58-Hqcsspp">Quomodo cum simplicitate divinae essentiae stat pluralitas
+          personarum</head>
+        <p xml:id="ppra-l58-aqtrah">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-aqtrah"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-aqtrah"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-ebccpt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-ebccpt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-ebccpt"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-eaisig">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-eaisig"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-eaisig"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-qaddes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-qaddes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-qaddes"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l58-Dd1e203">
+        <head xml:id="ppra-l58-Htdrdra">tria de ratione aeternitatis</head>
+        <p xml:id="ppra-l58-cemdst">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-cemdst"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-cemdst"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-peqane">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-peqane"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-peqane"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-sdrish">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-sdrish"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-sdrish"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-tdrnpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-tdrnpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-tdrnpa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l58-Dd1e264">
+        <head xml:id="ppra-l58-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l58-Dd1e269">
+          <head xml:id="ppra-l58-Hpcmpcm">Primum corollarium</head>
+          <p xml:id="ppra-l58-pcsocp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-pcsocp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-pcsocp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e278">
+          <head xml:id="ppra-l58-Hscmscm">Secundum corollarium</head>
+          <p xml:id="ppra-l58-sciqit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-sciqit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-sciqit"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e287">
+          <head xml:id="ppra-l58-Htcmtcm">Tertium corollarium</head>
+          <p xml:id="ppra-l58-tcreii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-tcreii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-tcreii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-eqpamt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-eqpamt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-eqpamt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e302">
+          <head xml:id="ppra-l58-Hqcmqcm">Quartum corollarium</head>
+          <p xml:id="ppra-l58-qcnsac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-qcnsac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-qcnsac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e316">
+          <head xml:id="ppra-l58-Hqcrqcr">Quintum corollarium</head>
+          <p xml:id="ppra-l58-qclepi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-qclepi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-qclepi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-scanfp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-scanfp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-scanfp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-pderei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-pderei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-pderei"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e392">
+          <head xml:id="ppra-l58-Hsxmsxm">Sextum corollarium</head>
+          <p xml:id="ppra-l58-apeeaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-apeeaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-apeeaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-eqspei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-eqspei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-eqspei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-seqema">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-seqema"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-seqema"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l58-ehscad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-ehscad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-ehscad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-atuele">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-atuele"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-atuele"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l58-Dd1e434">
+        <head xml:id="ppra-l58-Hprones">Propositiones</head>
+        <p xml:id="ppra-l58-pcddim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-pcddim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-pcddim"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l58-Dd1e445">
+          <head xml:id="ppra-l58-Hpritio">Prima propositio</head>
+          <p xml:id="ppra-l58-sehilo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-sehilo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-sehilo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-eqsoil">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-eqsoil"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-eqsoil"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-squppo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-squppo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-squppo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e460">
+          <head xml:id="ppra-l58-Hspospo">Secunda propositio</head>
+          <p xml:id="ppra-l58-apdesr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-apdesr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-apdesr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-sqessr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-sqessr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-sqessr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e496">
+          <head xml:id="ppra-l58-Htpotpo">Tertia propositio</head>
+          <p xml:id="ppra-l58-aplrcs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-aplrcs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-aplrcs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l58-peispi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-peispi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-peispi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e519">
+          <head xml:id="ppra-l58-Hqpoqpo">Quarta propositio</head>
+          <p xml:id="ppra-l58-apicvn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-apicvn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-apicvn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e538">
+          <head xml:id="ppra-l58-Hqaoqao">Quinta propositio</head>
+          <p xml:id="ppra-l58-apqadl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-apqadl"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-apqadl"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e558">
+          <head xml:id="ppra-l58-Hsxosxo">Sexta propositio</head>
+          <p xml:id="ppra-l58-aplidi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-aplidi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-aplidi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l58-Dd1e567">
+          <head xml:id="ppra-l58-Hsmpsmp">Septima propositio</head>
+          <p xml:id="ppra-l58-apdmid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l58-apdmid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-apdmid"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present; but needs review 
+              <p xml:id="ppra-l58-idnmid">
+              
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="ppra-l58-Dd1e581">
+        <head xml:id="ppra-l58-Hconsio">Conclusio</head>
+        <p xml:id="ppra-l58-edpfpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-edpfpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-edpfpe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l58-Dxxyy1">
+        <head xml:id="ppra-l58-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l58-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-axxyy3"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-axxyy4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-axxyy4"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-axxyy5">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-axxyy5"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-axxyy5"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-axxyy6">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-axxyy6"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-axxyy6"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l58-axxyy7">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l58-axxyy7"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l58-axxyy7"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

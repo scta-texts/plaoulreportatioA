@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 31 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 29 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-20">May 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="52-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio31">
+        <head xml:id="ppra-l31-Hldalda">Lectio 31, de Notitia</head>
+        <div xml:id="ppra-l31-Dd1e109">
+          <head xml:id="ppra-l31-Hraranc">Responsio ad rationes principales: quod Deus non sit a nobis cognoscibilis</head>
+          <p xml:id="ppra-l31-affnro">
+            <lb ed="#P" n="18"/>Restat <add place="above-line">consequenter</add> respondere ad rationes praetactas 
+          </p>
+          <div xml:id="ppra-l31-Dd1e124">
+            <head xml:id="ppra-l31-Drapapr">Responsio ad primam rationem</head>
+            <p xml:id="ppra-l31-rpdneo">
+              et primo de notitia proportionata obiecto dicitur quod inter potentiam et obiectum non requiritur 
+              <lb ed="#P" n="19"/>proprie aliqua proportio secundum aliquem modum nec proprie sumpta est in qualitatibus 
+            </p>
+            <p xml:id="ppra-l31-sdqrcc">
+              Et si doctores et sancti dicant respondentur 
+              <lb ed="#P" n="20"/>quod intelligebat quod obiectum est conveniens potentiae de per se <pc type="pilcrow"/> Et nota quod per proportionatum intelligitur bonum
+            </p>
+            <p xml:id="ppra-l31-spqmie">
+              <pc type="pilcrow"/> Unde etiam sciendum est 
+              <lb ed="#P" n="21"/>quod quanto deus magis excedit potentiam perceptivam <pc type="virgula">/</pc> tanto magis perfectus est et immensus
+            </p>
+            <p xml:id="ppra-l31-sdapee">
+              Et consequenter de actu quia 
+              <lb ed="#P" n="22"/>quanto magis excedit latitudine potentiae tanto est convenientior et excellentior et per consequens magis proportionata
+            </p>
+            <p xml:id="ppra-l31-eqshqh">
+              <pc type="pilcrow"/> Ex quo sequitur quod 
+              <lb ed="#P" n="23"/><sic>quod</sic> huiusmodi proportio non assistat in aliquo gradu <del rend="strikethrough">demonstrante</del> adaequate
+            </p>
+            <p xml:id="ppra-l31-suqrit">
+              <pc type="pilcrow"/> Sequitur etiam quod nullum finitum obiectum est summe 
+              <lb ed="#P" n="24"/>proportionatum
+            </p>
+            <p xml:id="ppra-l31-usqpee">
+              <pc type="pilcrow"/> Item nulli potentiae proportionatum est obiectum sibi simile excepto in deo quia indigentiam creaturae non sufficeret terminare 
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l31-eqscbc">
+              Ex quo sequitur quod ex diversitatem 
+              magis consurgit proportio convenientiae 
+              quam ex similitudine, simile enim reperitur in naturalibus. 
+              Nam materia est improportionatissima formae, et tamen 
+              una maxime in naturalibus appetit aliam, et tamen 
+              cum hoc habet oppositas conditiones, quia forma 
+              est actus
+              <app>
+                <lem>et</lem>
+                <rdg wit="#R" type="correction-addition">
+                  <add place="above-line">et</add>
+                </rdg>
+              </app> 
+              materia potentia, et ista convenientia consurgit 
+              ex appetitibus ipsarum habentibus ordinem inter se. Et 
+              ex isto consurgit bonum convenientiae.
+            </p>-->
+            <p xml:id="ppra-l31-suqfnq">
+              <lb ed="#P" n="25"/><pc type="pilcrow"/> Ulterius sequitur quod dependens et independens sunt proportionatissima
+            </p>
+            <p xml:id="ppra-l31-suqtia">
+              <pc type="pilcrow"/> Sequitur etiam ex dictis quod ad esse proportionatum <c>a</c> et <c>b</c> 
+              <lb ed="#P" n="26"/>non requiritur essentialis convenientia sed est magis convenientia ordinis ad eius adhaesionem
+            </p>
+            <p xml:id="ppra-l31-suqrss">
+              <pc type="pilcrow"/>Ex quibus omnibus sequitur quod non 
+              <lb ed="#P" n="27"/>requiritur similitudo inter obiectum et potentiam et hoc superius est visum et sic patet solutio primae rationis
+            </p>
+          </div>
+          <div xml:id="ppra-l31-Dd1e200">
+            <head xml:id="ppra-l31-Hrasasr">Responsio ad secundam rationem</head>
+            <p xml:id="ppra-l31-spaiee">
+              <pc type="pilcrow"/> De 2a in qua 
+              <lb ed="#P" n="28"/>dicebatur quod impossibile erat de deo habere notitiam sicut arguebatur de mobili ad locum
+            </p>
+            <p xml:id="ppra-l31-heneie">
+              <pc type="pilcrow"/> Advertendum est igitur quod licet ad cognitionem 
+              <lb ed="#P" n="29"/>perfectam sit distantia nihilominus quo ad propositum non <pc type="punctus"/> ymmo praecise finita
+            </p>
+            <p xml:id="ppra-l31-sdqcab">
+              <pc type="virgula">/</pc> 2o si esset aliquis color in argumento hoc esset perceptive 
+              <lb ed="#P" n="30"/>et comprehensive scilicet comprehendo illam potentiam
+            </p>
+          </div>
+          <div xml:id="ppra-l31-Dd1e240">
+            <head xml:id="ppra-l31-Hratatr">Responsio ad tertiam rationem</head>
+            <p xml:id="ppra-l31-trpoia">
+              <pc type="pilcrow"/> De 3a ratione sensus non potest cognitive attingere unam rem igitur nec 
+              <lb ed="#P" n="31"/>intellectus deum 
+            </p>
+            <p xml:id="ppra-l31-reqcie">
+              <pc type="virgula">/</pc> Ad hoc dicitur quod huiusmodi excessus est totaliter inpertinens <pc type="virgula">/</pc> ad propositum de visu et de gustu et aliis proprietatibus
+              <lb ed="#P" n="32"/>communibus tam est quia sunt limitati organis suis <pc type="punctus"/> sed intellectus sic non habet organum proprium nec est plus in uno quam 
+              <lb ed="#P" n="33"/>alio quia non utitur organo corporeo <pc type="punctus"/> nam eadem anima est in hoc organo et in hoc quia est virtus incorporea
+            </p>
+          </div>
+          <div xml:id="ppra-l31-Dd1e264">
+            <head xml:id="ppra-l31-Hraqaqr">Responsio ad quartam rationem</head>
+            <p xml:id="ppra-l31-qaesdr">
+              <pc type="pilcrow"/> De 4a arguebatur si talis notitia esset tunc esset immensa <pc type="virgula">/</pc> et confirmabatur quo ad ordinem specierum 
+            </p>
+            <!--
+              Doesn't seem present
+              <p xml:id="ppra-l31-irtidr">
+              Ista ratio 
+              tangit difficultatem, quae debet tractari circa distinctionem 17,
+              <!-\-<note>See below, lectio 78 and following</note>-\-> 
+              quia secundum aliquos, qui ponunt quod Spiritus 
+              Sanctus realiter sit caritas et dilectio qua diligimus 
+              Deum et proximum, et quod vitaliter seipso ipsam 
+              immutat potentiam affectivam, scilicet, voluntatem 
+              per modum habitus vel actus secundum aliquos, sicut 
+              ponit <name ref="#Lombard">Magister</name>. 
+              Eadem difficultas est utrum posset 
+              esse realiter notitia creaturae, 
+              et ista materia habet 
+              prolixius tractari circa 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e292" target="http://scta.info/resource/pl-l1d17">distinctione 17</ref>
+                <bibl>XXX</bibl>
+              </cit>. 
+              Tamen, 
+              licet 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e301"><name ref="#Lombard">Magister</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              in hoc multi videantur negare, 
+              reputo illud satis probabile, 
+              sicut dicunt plures,
+              ut 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e311"><name ref="#Ripa">Magister Ioannes de Ripa</name></ref>
+                <bibl>XXX</bibl>
+              </cit>.
+            </p>-->
+            <p xml:id="ppra-l31-uchdai">
+              <pc type="virgula">/</pc> respondetur concedo
+              <lb ed="#P" n="34"/>quod notitia qua deus cognoscitur a creatura est ipse deus ut dicit <name>de rippa</name> 
+            </p>
+            <p xml:id="ppra-l31-tarrvo">
+              <pc type="virgula">/</pc> Et tunc ulterius quando dicitur quod tunc creatura cognosceret immense 
+              <lb ed="#P" n="35"/>et tamen cognoscit per notitiam dicitur quod non sed bene cognoscit per notitiam quae realiter est immensa <pc type="punctus"/> et tamen non sequitur ergo immense 
+              <lb ed="#P" n="36"/>cognoscat 
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l31-accqsp">
+              <pc type="pilcrow"/> Et dicitur ulterius quod tanto una species est perfectior et tanto citius immutat potentiam <pc type="pilcrow"/> unde deus est in anima sicut 
+              <lb ed="#P" n="37"/>sibi notitia et creaturae notitia <del rend="strikethrough">sic</del> in alia specie 
+            </p>
+            <p xml:id="ppra-l31-eqsvtc">
+              <pc type="virgula">/</pc> unde deus erit notitia illius cuius supplet vicem quia adaequate immutat sicut
+              <lb ed="#P" n="38"/>alia potentia aeque intense et penes hoc sortitur suam speciem et sic est species accidentalis quod hoc
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l31-eaitqg">
+              <pc type="punctus"/> Sed <unclear>ve?dum</unclear> est ad aliam viam 
+              <lb ed="#P" n="39"/>scilicet quod per notitiam creatam deus potest cognosci et ulterius dicitur quod deus est incertum <unclear>sit possibilis</unclear> ergo non potest cognosci 
+            </p>
+            <p xml:id="ppra-l31-siuisr">
+              <pc type="punctus"/> consequentia non valet 
+              <lb ed="#P" n="40"/>quia licet sumitur et secundum se non potest cognosci tamen respective ad suos effectus cognoscitur
+            </p>
+            <!--
+              Doesn't seem present, but everything is really fuzzy here 
+              <p xml:id="ppra-l31-uchnvg">
+              Unde circa hoc de reponendo huiusmodi notitiam 
+              sub specie, quia istud est mere extrinsecum sibi, potest 
+              dici quod illa erit in esse notitiae creaturae eiusdem speciei, 
+              cuius notitiae vicem gerit.
+            </p>
+            <p xml:id="ppra-l31-eqsvip">
+              Ex quo sequitur 
+              quod potest esse infinitarum diversarum specierum in esse 
+              notitiarum creaturae, quia imaginabiles sunt infinitae 
+              notitiae creaturae possibiles. Ex quo ergo Deus supplet vicem, vel supplere potest, reponetur sub 
+              eadem specie sub qua reponitur notitia cuius vicem 
+              supplet. Et illud est probabilius dicere quod ipse 
+              idem repraesentat et eodem gradu immutat potentiam, 
+              sicut species cuius vicem gerit. Ergo quantum ad 
+              habitudinem ad potentiam et obiectum se habet, sicut 
+              notitia cuius vicem supplet. Et per consequens quantum 
+              ad hoc potest dici: eiusdem speciei cum notitia 
+              illa cuius vicem supplet
+              <app>
+                <lem n="supplet"/>
+                <rdg wit="#R" type="correction-deletion">
+                  <del rend="strikethrough">
+                    et per consequens quantum ad hoc 
+                    potest dici eiusdem speciei cum notitia illa
+                  </del>
+                </rdg>
+              </app>, 
+              igitur etc. 
+              Et sic non concederem cum 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e377"><name ref="#Ripa">Magistri Ioannes de Ripa</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              quod 
+              Deus esset infinita notitia quoad specie. 
+              Unde data quacumque notitia creata in eadem proportione, 
+              Deus potest libere immutare potentiam; et 
+              huiusmodi immutatio non includit inhaesionem 
+              vel informationem, quia de ratione notitiae non est 
+              quod inhaereat vel informet potentiam.
+            </p>
+            <p xml:id="ppra-l31-resdie">
+              Respondendum 
+              est secundum aliam viam admittendum secundam partem argumenti, 
+              scilicet, quod Deus possit esse a nobis cognoscibilis notitia 
+              creata. Et cum dicitur: 'Deus est immensus, ergo nulla 
+              notitia creata potest eum repraesentare.' Negatur consequentia ad probationem, 
+              incircumscriptibilis est dicendum, esset, si placet de vocabulo, 
+              quia vel intelligitur quod nulla notitia creata 
+              Deo adaequatur comprehensive, et sic ratio concludit 
+              verum. Alio, quod est incircumscriptibilis vel incomprehensibilis, 
+              id est, quod per nullam notitiam creatam beatifica potest 
+              repraesentari. Et sic negaretur, quia isto modo cognoscendo 
+              Deum sufficit cognoscere ut summum bonum 
+              et summae quietatum secundum quod in eo consistit ratio 
+              ultimi finis. Utrum autem possit aliqua 
+              notitia creata cognosci secundum omne de eo dicibile, 
+              teneo, propter reverentiam Sanctorum et
+              <app>
+                <lem n="et"/>
+                <rdg wit="#R" type="correction-deletion">
+                  <del rend="strikethrough">s</del>
+                </rdg>
+              </app> 
+              doctorum et 
+              <cb ed="#R" n="b"/><!-\-R53vb -\-> 
+              animae Christi, dicentium quod anima Christi cognovit omnia, 
+              quae verbum, et quod ipsa notitia animae Christi est tamquam 
+              exemplar divinae essentiae et quare mundus 
+              architectus in quo relucet Deus et omnia factibilia 
+              cum hoc. Tamen stat quod illa notitia non sit 
+              comprehensiva ipsius Dei, quia oporteret quod esset notitia 
+              in se aeque perfecta sicut Deus. Modo secunda notitia 
+              animae Christi non esset aequae clara in se nec aeque 
+              perfecta sicut Deus, ergo. Modo secunda notitia animae Christi non esset 
+              aeque clara in se nec aequae perfecta sictu Deus, ideo etc.
+            </p>
+            <p xml:id="ppra-l31-stdapn">
+              Sed tunc dicit 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e408"><name ref="#Wodeham">Adam</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              penes quid attenditur 
+              perfectio notitiae.
+            </p>-->
+            <p xml:id="ppra-l31-refhic">
+              <pc type="pilcrow"/> Unde ymaginandum est quod sunt plures 
+              <lb ed="#P" n="41"/>notitiae quarum una non plus repraesentat quam alia et tamen erit magis 
+            </p>
+           <!-- 
+             Doesn't seem present or it could be in the above
+             <p xml:id="ppra-l31-iuviel">
+              Istud ut videtur non bene stat, quia Deus eandem 
+              conclusionem multum clarius et perfectius cognoscit 
+              quam Sortes, quia quicquid Deus cognoscit 
+              infinite, ita quod si, ad imaginationem, iudicia 
+              essent in Deo distincta, quotquot essent, essent 
+              infinita et infinitae perfectionis. Et ideo iudicium 
+              illud quod Deus habet de creatura est infinitae virtutis 
+              et nobilitatis et lux infinita. Lux autem quam 
+              habeo de creatura est <sic>infinita</sic> et limitata.
+            </p>-->
+            <p xml:id="ppra-l31-udcair">
+              Et ulterius dicitur pro 
+              <lb ed="#P" n="42"/>non sequitur deus cognoscit contingenter antichristum fore igitur cognoscit finite consequentia non valet ymmo per obiectum bene valet scilicet infinite vel 
+              <lb ed="#P" n="43"/>immense quia est exemplar divinae maiestatis
+            </p>
+          </div> 
+        </div>
+        <div xml:id="ppra-l31-Dctctct">
+          <head xml:id="ppra-l31-Hctctct">Conclusiones</head>
+          <p xml:id="ppra-l31-cdspae">
+            <pc type="pilcrow"/> conclusio prima lectionis fuit quod istud nomen principium relative dicitur de qualibet prima 
+            <lb ed="#P" n="44"/>trinitatis
+          </p>
+          <p xml:id="ppra-l31-tcpnae">
+            <pc type="pilcrow"/> Alia conclusio ab aeterno pater et filius sunt principium
+          </p>
+          <p xml:id="ppra-l31-qlpefe">
+            <pc type="pilcrow"/> Alia conclusio sint 3es personae non tamen sunt 3a principia <pc type="virgula">/</pc> 2o de 2a valet aliis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

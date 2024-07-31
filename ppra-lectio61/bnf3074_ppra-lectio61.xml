@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 61 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 61 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-11">July 11, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio61">
+        <head xml:id="ppra-l61-Hldtldt">Lectio 61, de Trinitate</head>
+        <div xml:id="ppra-l61-Dd1e109">
+          <head xml:id="ppra-l61-Hcmdmdf">Continuandum materia de formalitatibus</head>
+          <p xml:id="ppra-l61-imdced">
+            <lb ed="#P" n="25"/>Consequenter adhuc circa materiam de distinctione formalitatum praemittuntur dico <pc type="punctus"/>  
+          </p>
+          <div xml:id="ppra-l61-Dd1e119">
+            <head xml:id="ppra-l61-Hppdpdr">Plus propositiones de Rippa</head>
+            <p xml:id="ppra-l61-ecpidr">
+              <pc type="virgula">/</pc> primum est habere notitiam dicti doctorum 
+              <lb ed="#P" n="26"/>de hanc materia <unclear>loquentium</unclear> et est materia grata <pc type="virgula">/</pc> licet principia non quia difficilia ad investigandum <pc type="virgula">/</pc> 2m est etiam ut finitum 
+              <lb ed="#P" n="27"/>ipsarum distinctionum formalitatum habeatur <pc type="pilcrow"/> Et ut materia appropriatur recitabuntur aliquae propositiones quas <name>magister iohannes 
+              <lb ed="#P" n="28"/>de rippa</name> ponit 
+            </p>
+            <div xml:id="ppra-l61-Dd1e130">
+              <head xml:id="ppra-l61-Hppoppo">Prima propositio:</head>
+              <p xml:id="ppra-l61-ppcaps">
+                quarum prima est <subst><add place="above-line">Cui</add> <del rend="strikethrough">Quaelibet</del></subst> denominationi perfecte simpliciter ratio essentialis eiusdem rationis adaequate 
+                <lb ed="#P" n="29"/>verbi gratia prima denominatio perfectionis sumitur est ens <pc type="punctus"/> et quicquid a parte obiecti significatur per ens inquantum ens 
+                <lb ed="#P" n="30"/>est eiusdem rationis adaequate igitur etc Et proportionaliter quidquid significatur a parte obiecti <add place="above-line">etiam</add> in quantum est ens vivens vel volitivum 
+                <lb ed="#P" n="31"/>a parte rei est eiusdem rationis adaequate <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e139">
+              <head xml:id="ppra-l61-Hspospo">Secunda propositio</head>
+              <p xml:id="ppra-l61-sphpao">
+                <pc type="pilcrow"/> 2a propositio huiusmodi ratio obiectalis in infinitum potest communicari naturae nam 
+                <lb ed="#P" n="32"/>sicut sint infinitae species <del rend="strikethrough">communica</del> producibiles per dei potentiam sic huiusmodi esse variae creaturis correspondet et communicatur esse 
+                <lb ed="#P" n="33"/>variae rebus <pc type="punctus"/> nam infinitae speciei communicantur gradus correspondentes et sic de qualibet specie potest concedi <pc type="virgula">/</pc> unde speciei 
+                <lb ed="#P" n="34"/>plantae communicatur esse in superiori gradu 
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e152">
+              <head xml:id="ppra-l61-Htpotpo">Tertia propositio</head>
+              <p xml:id="ppra-l61-eeipve">
+                <pc type="punctus"/> Et ex hoc sequitur quod homo est perfectior asino <pc type="punctus"/> secundum rationem essendi in esse suo 
+                <lb ed="#P" n="35"/>Sed circumscriptis omnibus <del rend="strikethrough">accidentiam</del> speciebus <pc type="punctus"/> adhuch primam denominationem perfectius pertineat quam asinus<pc type="pilcrow"/> Unde ca<lb ed="#P" break="no" n="36"/>piamus 
+                per impossibile ad ymaginationem quod homo deperdet successive denominationes suas superiores <pc type="punctus"/> sicut 
+                <lb ed="#P" n="37"/>esse reale et esse risibile et sic de aliis sucessive ab ipso aufferentur usque ad primam suis denominationem <pc type="punctus"/> sic isto 
+                <lb ed="#P" n="38"/>casu stante illud quod remanet est perfectius esse et tamen est ultimum <unclear>remanens</unclear> scilicet esse et pertineat magis quam infinita spcies
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e162">
+              <head xml:id="ppra-l61-Hqpoqpo">Quarta propositio</head>
+              <p xml:id="ppra-l61-eispgi">
+                <lb ed="#P" n="39"/><pc type="pilcrow"/> Ex hoc sequitur quod multi sunt gradus ponendi praedicato correspondentes verbi gratia Illud quod remanet habet esse et est eiusdem 
+                <lb ed="#P" n="40"/>rationis cum primo et non quo ad speciem et hoc habet intrinsece 
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e171">
+              <head xml:id="ppra-l61-Hqapqap">Quinta propositio</head>
+              <p xml:id="ppra-l61-ascidr">
+                <pc type="pilcrow"/> 3a propositio sicut conceptus correspondens 
+                <lb ed="#P" n="41"/>denominationum perfectibili est prior et alterius speciei <unclear>pra?lis</unclear> de posteriori <pc type="punctus"/> ita proportionaliter correspondet filii a parte obiectali 
+                <lb ed="#P" n="42"/>ratio obiectalis prior possibilis tamen concurrere unitive <unclear>com<del rend="strikethrough">paratione</del></unclear> ratione obiectali correspondente ultimatae <pc type="pilcrow"/> unde conceptus entis 
+                <lb ed="#P" n="43"/>est alterius speciei cum esse vitae <pc type="punctus"/> tamen communicantur in praedicando <pc type="punctus"/> <pc type="pilcrow"/> Et ymaginatur quod ratio obiectiva est <unclear>p?lis</unclear> unitive unde <pc type="punctus"/> etiam sicut 
+                <lb ed="#P" n="44"/>conceptus entis est alterius speciei ita ratio obiectalis essendi sicut iam praedictum est <pc type="punctus"/> et hoc est per modum actus posterioris 
+                <lb ed="#P" n="45"/>Et sic est similitudo quaedam manuducitiva 
+              </p> 
+              <p xml:id="ppra-l61-secuae">
+                Et per quamdam analogiam recipiemus distinctionem <unclear>formatum</unclear> Et sic ymaginatur 
+                <lb ed="#P" n="46"/>suae species in esse <pc type="virgula">/</pc> quia ratio obiectalis est quodam modo actus et concurrunt unitive ut dictum est et hoc tenet 
+                <lb ed="#P" n="47"/>sic de rippa <pc type="punctus"/> et nisi haberetur talis ymaginatio quis non posset recte ad notitiam distinctionis formalitatum 
+                <lb ed="#P" n="48"/>devenire 
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l61-Dd1e189">
+            <head xml:id="ppra-l61-Hppdpsr">Plus propositiones de Rippa</head>
+            <!-- extremely fuzzy but does not seem present -->
+            <!--<p xml:id="ppra-l61-eiiiap">
+              Ex ista imaginatione <name ref="#Ripa">de Rippa</name> 
+              infert aliquas propositiones.
+            </p>-->
+            <!-- extremely fuzzy but does not seem present -->
+            <!--<div xml:id="ppra-l61-Dd1e200">
+              <head xml:id="ppra-l61-Hpappap">Prima propositio</head>
+              <p xml:id="ppra-l61-peqhpg">
+                Prima est quanto res est perfectior tanto est compotior.
+                Patet de utraque compositione. 
+                Patet primo de compositione graduum 
+                quia quanto res est perfectior tanto magis participat rationem 
+                entis et quanto magis participat rationem entis tanto 
+                habet plures gradus in esse entis, 
+                et ita in aliis perfectionibus 
+                <pb ed="#SV" n="273-r"/>
+                <cb ed="#SV" n="a"/>
+                quia quanto magis participat esse vivens tanto habet plures gradus 
+                in esse vivendi et per consequens compotior ex quo habet plures gradus.
+              </p>
+              <p xml:id="ppra-l61-sechcc">
+                Secundo est compotior quantum ad rationes formales, quia quanto 
+                est perfectior tanto habet plures rationes formales correspondentes 
+                denominationibus perfectionibus et secundum numerum huiusmodi praedicatorum 
+                essentialium et perfectionalium est numerus rationum formalium 
+                huiusmodi compositioni constitutium.
+              </p>
+            </div>-->
+            <div xml:id="ppra-l61-Dd1e216">
+              <head xml:id="ppra-l61-Hsapsap">Secunda propositio</head>
+              <p xml:id="ppra-l61-siqfic">
+                <pc type="pilcrow"/> Consequenter quanto est actualior tanto potentior patet quia per acquisitionem graduum redditur maior 
+                <lb ed="#P" n="49"/>et potentior intrinsece
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e225">
+              <head xml:id="ppra-l61-Htaptap">Tertia propositio</head>
+              <p xml:id="ppra-l61-apipas">
+                <pc type="pilcrow"/> 2a propositio infinita supprema intelligentia si daretur ipsa esset intrinsce infinite po<lb ed="#P" break="no" n="50"/>testatis 
+                <pc type="punctus"/> patet quia infinitae actualitatis esset quoniam <unclear>infinitos</unclear> haberet etc
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e235">
+              <head xml:id="ppra-l61-Hqtpqtp">Quarta propositio</head>
+              <p xml:id="ppra-l61-apsmve">
+                <pc type="pilcrow"/> 3a propositio sola illa est <unclear>infi?lis</unclear> cui repugnat 
+                <lb ed="#P" n="51"/>cui repugnat potestas ad alterius obiecit rationis successionem <pc type="punctus"/> et sic secundum istas ymaginationes 
+                <pb ed="#P" n="68-r"/>
+                <lb ed="#P" n="1"/>salvarentur multa dicta doctorum antiquorum et sine hiis non videntur posse salvari <pc type="punctus"/> <pc type="virgula">/</pc> licet tamen ista positio 
+                <lb ed="#P" n="2"/>sit falsa Et per hoc etiam haberetur ymaginatio de distinctione unibilium nam ymaginatur quod a parte rei esset distinctio 
+                <lb ed="#P" n="3"/>et utrum multiplicatur dicitur quod non ydempticatur hoc tamen formaliter et sic pari passu ymaginaretur distinctio 
+                <lb ed="#P" n="4"/>inter esse et essentiam <pc type="punctus"/> et inter angelum et esse illius et sic de ydeis <pc type="punctus"/> sicut plato quod esset una ydea quae esset 
+                <lb ed="#P" n="5"/>in generalis et in corporalis et licet ista positio sit falsa tamen ostendit multa bona et utilia ad extra et subtilia <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l61-Dd1e247">
+              <head xml:id="ppra-l61-Hqnpqnp">Quinta propositio</head>
+              <p xml:id="ppra-l61-cearid">
+                <lb ed="#P" n="6"/><pc type="pilcrow"/> Consequenter tamen applicando dicta nostra materiae trinitatis de qua praetendimus elucidare dicitur quod nulla penitus 
+                <lb ed="#P" n="7"/>est talis in deo distinctio patet hoc nam si sit ultimus gradus importaret deffectum quia imperfectionem 
+                <lb ed="#P" n="8"/>modo nulla talis in deo est reperibilis igitur talis distinctio non est ponenda 
+              </p>
+              <!-- parallel very fuzzy -->
+              <p xml:id="ppra-l61-qapers">
+                <pc type="pilcrow"/> 2o etiam habitudo rationum obiectalium 
+                <lb ed="#P" n="9"/>prioritatis et posterioritatis non habet hic locum <pc type="punctus"/> <pc type="virgula">/</pc> quantum ad primum non essendi est unicus gradus in deo simplissimus 
+                <lb ed="#P" n="10"/>et perfectionis infinitae In creatura autem non sic est sed perfecte <pc type="punctus"/> et sic non univocatur ratione essendi conditio 
+                <lb ed="#P" n="11"/><pc type="pilcrow"/> Consequenter ponit quo modo creaturae univocatur secundum praedicta <pc type="punctus"/> Ita quod omnia entia sunt eiusdem rationis specificae quantum ad unionem
+              </p>
+              <p xml:id="ppra-l61-qassav">
+                <lb ed="#P" n="12"/><pc type="pilcrow"/> Quantum ad 2m non est ymaginandum sicut in creatura quod ratio in deo sit possibilis ratione vitae sed concurrunt aequae 
+                <lb ed="#P" n="13"/>primo unitive absque potentialitatis ordine et perfectionis posterioritatis intrinsece per simpliciem ydemptitatem modo simplicissimo 
+                <lb ed="#P" n="14"/>Et ita rationes obiectales sic concurrunt aeque primo Et secundum hoc dicunt aliqui doctores quod nullo modo 
+                <lb ed="#P" n="15"/>distinctio formalitatum arguit infinite sed potius simplicitatem <pc type="virgula">/</pc> sed quia hoc convenit modo trinitatis dicetur suo loco <pc type="pilcrow"/> Et 
+                <lb ed="#P" n="16"/>adducentur in alia lectione deo dante rationes <name>scoti</name> et sic de isto ad praesens sufficiat
+              </p>
+            </div>
+          </div>
+          <!--
+            doesn't seem present
+            <div xml:id="ppra-l61-Dd1e269">
+            <head xml:id="ppra-l61-Hrprrpr">Ratio pro repetitione</head>
+            <p xml:id="ppra-l61-qpmdff">
+              Quia praesens materia difficilis 
+              est ad capiendum specialiter iuvenibus et non assuetis, 
+              Ideo recitatis opinionibus doctorum et aliqualiter declaratis 
+              faciam finem.
+            </p>
+          </div>-->
+        </div>
+        <div xml:id="ppra-l61-Dxxyy1">
+          <head xml:id="ppra-l61-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l61-axxyy1">
+            <lb ed="#P" n="17"/><pc type="pilcrow"/> Prima conclusio supra distinctionem 11 vel 12am fuit quod quilibet homo ab exordio suae nativitatis habet angelum 
+            <lb ed="#P" n="18"/>bonum et malum sibi deputatos <pc type="punctus"/> Bonus ut actus bonos enunciet sive promoveat quodammodo personam 
+            <lb ed="#P" n="19"/>et malus ut per oppositum ad mala faciat declinare <pc type="punctus"/> et hoc ymaginabile satis et rationabile videtur nam secundum 
+            <lb ed="#P" n="20"/>propositum mentis nostrae aliquotiens cicius movemur ad bonum quam ad malum aliquotiens econtra 
+            <lb ed="#P" n="21"/>et hoc est secundum quod bonus angelus suggestu suo vincit vel vincitur <unclear>cum</unclear> quod temptatio mali angeli cicius 
+            <lb ed="#P" n="22"/>facit inclinare humanam naturam ad se <pc type="punctus"/> quam etc <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l61-axxyy2">
+            <pc type="pilcrow"/> 2a conclusio est de angelis utrum semper continue mereantur respondetur 
+            <lb ed="#P" n="23"/>quod ista nobis et non sui unde licet continue bonum operentur nihil plus meum quam habent et ita de dyabolis 
+            <lb ed="#P" n="24"/>dicitur quod non demerentur licet continue peccent <pc type="punctus"/> et quod continue peccet patet quia cottidie obmittunt contra dei 
+            <lb ed="#P" n="25"/>legem <pc type="punctus"/> de directo et de hoc non est quo sed propter peccatum eorum non augetur tamen demeritum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l61-axxyy3">
+            <pc type="pilcrow"/> Aliquorum 
+            <lb ed="#P" n="26"/>tamen fuit oppinio quod merentur continue boni usque ad diem iudicii <pc type="punctus"/> et mali demerentur etiam sicut dicit <name>alex 
+              <lb ed="#P" n="27"/>de halis</name> <pc type="virgula">/</pc> Tamen haec oppinio communiter non tenetur nam dicitur quod postquam aliquis est beatus non augetur eius 
+            <lb ed="#P" n="28"/>meritum <pc type="punctus"/> licet ante beatificationem nihilominus tenere hoc non est offensa <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l61-axxyy4">
+            <pc type="pilcrow"/> 3a conclusio Angeli non omnia sciunt 
+            <lb ed="#P" n="29"/>quia nesciunt nisi illa quae faciunt ad sui beatitudinem <pc type="punctus"/> et sic terminatur distinctio 11a et per consequens finis lectionis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

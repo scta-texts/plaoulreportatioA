@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio27">
+      <head xml:id="ppra-l27-Hldnldn">Lectio 27, de Notitia</head>
+      <div xml:id="ppra-l27-Dd1e107">
+        <head xml:id="ppra-l27-Hudeats">Utrum Deus et creatura possint univoce per aliquem terminum
+          significari?</head>
+        <p xml:id="ppra-l27-saiagp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-saiagp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-saiagp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-htacea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-htacea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-htacea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-ebdess">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ebdess"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ebdess"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l27-Dd1e260">
+        <head xml:id="ppra-l27-Hogpogp">Opinio Guillelmi Parisiensis</head>
+        <p xml:id="ppra-l27-ehemeh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ehemeh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ehemeh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-ippdec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ippdec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ippdec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-veqiim">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-veqiim"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-veqiim"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l27-Dd1e513">
+        <head xml:id="ppra-l27-Hososos">Opinio Scoti</head>
+        <p xml:id="ppra-l27-qahcad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-qahcad"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-qahcad"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-qapehf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-qapehf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-qapehf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-tqpdaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-tqpdaf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-tqpdaf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-usecod">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-usecod"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-usecod"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l27-Dd1e1019">
+        <head xml:id="ppra-l27-Hoaoaoa">Opinio Aureoli</head>
+        <p xml:id="ppra-l27-aiipdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-aiipdp"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-aiipdp"/>-->
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-ppncie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ppncie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ppncie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-spqles">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-spqles"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-spqles"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l27-Dd1e1466">
+        <head xml:id="ppra-l27-Hoididr">Opinio Ioannis de Ripa</head>
+        <p xml:id="ppra-l27-aeoeee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-aeoeee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-aeoeee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-tpipum">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-tpipum"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-tpipum"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-peodve">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-peodve"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-peodve"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-soisfe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-soisfe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-soisfe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-iidlep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-iidlep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-iidlep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-eciiie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-eciiie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-eciiie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-ippeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ippeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ippeip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-scodec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-scodec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-scodec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-tcqfel">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-tcqfel"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-tcqfel"/>
+          </assertions>
+        </p>
+        <!--Doesn't seem present
+            <p xml:id="ppra-l27-qcsmpd">
+            Quarta
+            <pb ed="#V" n="57-r"/>
+            <cb ed="#V" n="a"/>
+            conclusio: secundum rationem entis, 
+            Deus et creatura analogice 
+              et
+            causaliter 
+              communicant
+            ,
+            ita quod de Deo et creatura 
+            potest haberi conceptus analogicus tantum. 
+              Ita
+            quod non 
+              oportet
+            quod cuilibet 
+              termino
+            analogo correspondeat diversi
+            <pb ed="#R" n="45-v"/>
+            <cb ed="#R" n="a"/>
+            conceptus, immo stat quod unus conceptus primo et principaliter
+            significet Deum et secundario creaturas. 
+            Qui vellet enim habere diffinitionem completam ,
+              aequivocorum
+            ,
+            oporteret habere multas 
+              particulares
+            diffinitiones.
+          </p>-->
+        <p xml:id="ppra-l27-qcqssv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-qcqssv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-qcqssv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l27-enespt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-enespt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-enespt"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l27-Dd1e2092">
+        <head xml:id="ppra-l27-Hopopop">Opinio Plaoul</head>
+        <p xml:id="ppra-l27-veqemc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-veqemc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-veqemc"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy parellel -->
+        <p xml:id="ppra-l27-ebupoi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l27-ebupoi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l27-ebupoi"/>
+          </assertions>
+        </p>
+        <!-- doesn't seem present
+            <p xml:id="ppra-l27-qedffe">
+            Quantum est de materia praedicamentorum 
+            non plus usque ad aliam lectionem, 
+            et 
+              ibi alia lectione
+            faciam finem etc.
+          </p>-->
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio62">
+      <head xml:id="ppra-l62-Hldtldt">Lectio 62, de Trinitate</head>
+      <div xml:id="ppra-l62-Dd1e109">
+        <head xml:id="ppra-l62-Hvodods">Variae opiniones discipuli Scoti</head>
+        <p xml:id="ppra-l62-aetimf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l62-aetimf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-aetimf"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l62-Dd1e123">
+          <head xml:id="ppra-l62-Hocococ">Opinio <name ref="#Chatton">Chatton</name></head>
+          <p xml:id="ppra-l62-ucqurf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-ucqurf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-ucqurf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-uidhes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-uidhes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-uidhes"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-udqlqr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-udqlqr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-udqlqr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l62-Dd1e207">
+          <head xml:id="ppra-l62-Hoaoaoa">Opinio <name ref="#Wodeham">Adam</name></head>
+          <p xml:id="ppra-l62-catdps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-catdps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-catdps"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l62-Dd1e245">
+          <head xml:id="ppra-l62-Hohdhdh">Opinio <name ref="#Oyta">Henrici de Huta</name></head>
+          <p xml:id="ppra-l62-edhdps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-edhdps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-edhdps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-umqdps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-umqdps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-umqdps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-smpead">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-smpead"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-smpead"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-iesmdf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-iesmdf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-iesmdf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l62-Dd1e290">
+          <head xml:id="ppra-l62-Haopaop">Alia opinio</head>
+          <p xml:id="ppra-l62-aisfsd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-aisfsd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-aisfsd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l62-Dd1e311">
+          <head xml:id="ppra-l62-ogdgda">Opinio <name ref="#Rimini">Gregorii de
+            Arminio</name></head>
+          <p xml:id="ppra-l62-ieahth">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-ieahth"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-ieahth"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-phasqi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-phasqi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-phasqi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-shhepc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-shhepc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-shhepc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-thhsss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-thhsss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-thhsss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-eldvdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-eldvdp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-eldvdp"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l62-uehnvr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-uehnvr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-uehnvr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l62-udevae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l62-udevae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-udevae"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l62-Dd1e380">
+        <head xml:id="ppra-l62-Hpapapi">Plus auxilium pro iuvenibus</head>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l62-aeqdpi">
+            Advertendum est quia 
+            in ista materia magis loquor ad dandum principia iuvenibus.
+          </p>-->
+        <p xml:id="ppra-l62-aeqvdl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l62-aeqvdl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-aeqvdl"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l62-iaqsve">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l62-iaqsve"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-iaqsve"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l62-uisieh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l62-uisieh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-uisieh"/>
+          </assertions>
+        </p>
+        <!-- extremely fuzzy parallel; very unclear -->
+        <p xml:id="ppra-l62-erpnnd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l62-erpnnd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l62-erpnnd"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l62-Dxxyy1">
+        <head xml:id="ppra-l62-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l62-axxyy3">
+        </p>
+        <p xml:id="ppra-l62-axxyy4">
+        </p>
+        <p xml:id="ppra-l62-axxyy5">
+        </p>
+        <p xml:id="ppra-l62-axxyy6">
+        </p>
+        <p xml:id="ppra-l62-axxyy7">
+        </p>
+        <p xml:id="ppra-l62-axxyy8">
+        </p>
+        <p xml:id="ppra-l62-axxyy9">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 62 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 62 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-11">July 11, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="68-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio62">
+        <head xml:id="ppra-l62-Hldtldt">Lectio 62, de Trinitate</head>
+        <div xml:id="ppra-l62-Dd1e109">
+          <head xml:id="ppra-l62-Hvodods">Variae opiniones discipuli Scoti</head>
+          <p xml:id="ppra-l62-aetimf">
+            <lb ed="#P" n="30"/>Consequenter Attendendum est quod Socrates et eius discipuli de formalitatum distinctionibus diversa modernis sensierunt 
+            <lb ed="#P" n="31"/>Ita de <name>scoto</name> multi multa dixerunt 
+          </p>
+          <div xml:id="ppra-l62-Dd1e123">
+            <head xml:id="ppra-l62-Hocococ">Opinio <name ref="#Chatton">Chatton</name></head>
+            <p xml:id="ppra-l62-ucqurf">
+              Nam quidam doctor famosus scilicet <name>chaton</name> dicit 
+              <lb ed="#P" n="32"/>quod nonquam doctor subtilis formalitatum distinctionem posuit unde per non entitatem quam posuit intellexit quod non 
+              <lb ed="#P" n="33"/>est minus dicendum pro se
+            </p> 
+            <p xml:id="ppra-l62-uidhes">
+              <pc type="pilcrow"/> unde haec non est per se vera deus est sapiens <pc type="punctus"/> licet haec sit pro se deus est ens 
+              <lb ed="#P" n="34"/>Et si videatur aliquid aliud ab ipso hoc est secundum usum doctorum de tempore suo <pc type="punctus"/> nam postea expressam determinationem 
+              <lb ed="#P" n="35"/>tractavit et formalitatum distinctionem reprobavit <pc type="virgula">/</pc> Unde <unclear>ymaginatur</unclear> de <unclear>perseitate</unclear> sicut dicit <name>chaton</name> <pc type="pilcrow"/> Nam ista propositio deus 
+              <lb ed="#P" n="36"/>est sapiens non est ita per se <pc type="punctus"/> sicut deus est ens ut iam dictum est et non est plus per se quam ista homo est sapiens 
+            </p> 
+            <p xml:id="ppra-l62-udqlqr">
+              <lb ed="#P" n="37"/>unde si per ymaginationem corresponderent res distincte non esset per se deus est bonitas deus est bonus <pc type="punctus"/> 
+              <lb ed="#P" n="38"/>Et sit determinatio <name>scoti</name> non resolvitur nisi ad hoc quod deus non dicitur formaliter sapiens <pc type="punctus"/> sic quod est 
+              <lb ed="#P" n="39"/>sensus quod ista propositio non est formaliter per se <pc type="pilcrow"/> Sed quia ista materia est logicalis ideo pertranseo <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l62-Dd1e207">
+            <head xml:id="ppra-l62-Hoaoaoa">Opinio <name ref="#Wodeham">Adam</name></head>
+            <p xml:id="ppra-l62-catdps">
+              Nihilominus  <name ref="#Wodeham">adam</name> tenet 
+              <lb ed="#P" n="40"/>quod haec est per se deus est sapiens cum univoce dicatur de omni sapientia mediate pro nomine demonstrante quod haec sapientia 
+              <lb ed="#P" n="41"/>etc et sic probabitur in quid et per consequens <del rend="strikethrough">et per</del> concretum pro eodem formaliter et hoc est contra <name>scotum</name> et <name>chaton</name> 
+            </p>
+          </div>
+          <div xml:id="ppra-l62-Dd1e245">
+            <head xml:id="ppra-l62-Hohdhdh">Opinio <name ref="#Oyta">Henrici de Huta</name></head>  
+            <p xml:id="ppra-l62-edhdps">
+              <pc type="punctus"/> sed 
+              <lb ed="#P" n="42"/><name>magister henricus de heuta</name> quod dupliciter propositio reperitur in primo modo dicendi per se
+            </p> 
+            <p xml:id="ppra-l62-umqdps">
+              <pc type="pilcrow"/> Uno modo quia competit adiective 
+              sive subiective
+            </p>
+            <p xml:id="ppra-l62-smpead">
+              <pc type="pilcrow"/> 2o modo secundum communem modum logitorum scilicet quod diffinitio vel pars diffinitionis praediceretur de diffinito <pc type="virgula">/</pc> Et secundum 
+              <lb ed="#P" n="43"/>ista <name>scotus</name> et <name>de rippa</name> contradicunt quasi <pc type="punctus"/> unde scotus ponit quod agere et velle sunt idem realiter <pc type="punctus"/> sed tamen 
+              <lb ed="#P" n="44"/>valde differunt 
+            </p> 
+            <p xml:id="ppra-l62-iesmdf">
+              <pc type="pilcrow"/> <name>de rippa</name> ponit quod hoc non est per se
+            </p>
+          </div>
+          <div xml:id="ppra-l62-Dd1e290">
+            <head xml:id="ppra-l62-Haopaop">Alia opinio</head>
+            <p xml:id="ppra-l62-aisfsd">
+              <pc type="pilcrow"/> Alii dicunt quod <name>scotus</name> dicit quod ponebat formalitates in deo 
+              <lb ed="#P" n="45"/>distinctas quarum una non est alia <pc type="pilcrow"/> Sed hoc videtur falsum in processum suo <pc type="punctus"/> unde non quam voluit concedere 
+              <lb ed="#P" n="46"/>negationem unius absolute scilicet quod sapientia divina non est bona formaliter et non aliter <pc type="pilcrow"/> Unde alius modus est quem in 8va 
+              <lb ed="#P" n="47"/>distinctione <name>doctor subtilis</name> videlicet quod ista ydemptitas stat cum summa simplicitate et sic talis distinctio 
+              <lb ed="#P" n="48"/>non esset quare etc
+            </p>
+          </div>
+          <div xml:id="ppra-l62-Dd1e311">
+            <head xml:id="ppra-l62-ogdgda">Opinio <name ref="#Rimini">Gregorii de Arminio</name></head>
+            <p xml:id="ppra-l62-ieahth">
+              <pc type="pilcrow"/> Item dicit quod forma triplicem habet habitudinem 
+            </p> 
+            <p xml:id="ppra-l62-phasqi">
+              <pc type="pilcrow"/> prima est ad subiectum quod informat 
+            </p> 
+            <p xml:id="ppra-l62-shhepc">
+              <pc type="pilcrow"/> 2a est 
+              <lb ed="#P" n="49"/>quia realiter constituit et est pars scilicet principior tamen
+            </p> 
+            <p xml:id="ppra-l62-thhsss">
+              <pc type="pilcrow"/> 3a quia dat denominationem subiecto secundum suam naturam sicut sapientia 
+              <lb ed="#P" n="50"/>creata dat sapere 
+            </p> 
+            <p xml:id="ppra-l62-eldvdp">
+              <pc type="punctus"/> Ita forma substantialis habitudines habet 2as scilicet inhaerere et informare <pc type="punctus"/> et 2a dicit perfectionem 
+              <lb ed="#P" n="51"/>informa sicut vivens vel dare vitam et haec perfectius est
+            </p> 
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l62-uehnvr">
+              <pc type="pilcrow"/> Et ita proportionaliter ymaginatur in divina essentia per modum 
+              <lb ed="#P" n="52"/>formarum quas experimur scilicet bonitatem et sapientiam habent enim talem habitudinem quod concurrunt simul deinde 
+              <lb ed="#P" n="53"/>quod faciunt eum esse <unclear>sa?tem</unclear> etc et sic est quasi convenientia constituendi sic perfectione et haec creditur et videtur esse ymaginatio 
+              <lb ed="#P" n="54"/>doctor subtilis
+            </p> 
+            <p xml:id="ppra-l62-udevae">
+              <pc type="pilcrow"/> Et ut melius videatur ponamus exemplum de anima informata iustitia et notitiis infinitis 
+              <lb ed="#P" n="55"/><unclear>male</unclear> habitus concurrent ydemptite et realiter manentibus suis notitiis sive officiis propter <unclear>riss</unclear>
+              <pb ed="#P" n="68-v"/>
+              <lb ed="#P" n="1"/>et sic in insto casu habetis ymaginari formalitates unde sicut alia est notitia sapientiae et alia bonitatis ita in deo concurrunt 
+              <lb ed="#P" n="2"/>in deo ydemptice rationes facilium etc et tamen aliud est officium facere et velle vel talia huiusmodi Et licet ista 
+              <lb ed="#P" n="3"/>via sit sustinibilis tamen alia verior et securior licet ista sit subtilior
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l62-Dd1e380">
+          <head xml:id="ppra-l62-Hpapapi">Plus auxilium pro iuvenibus</head>
+          <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l62-aeqdpi">
+            Advertendum est quia 
+            in ista materia magis loquor ad dandum principia iuvenibus.
+          </p>-->
+          <p xml:id="ppra-l62-aeqvdl">
+            <pc type="pilcrow"/> Advertendum est tamen quod diversitas 
+            <lb ed="#P" n="4"/>doctorum in loquendo de formalitatibus inducit varietatem et haec est respectu diversarum principaliter ratione quorum ymaginatur 
+            <lb ed="#P" n="5"/>diversa 
+          </p>
+          <p xml:id="ppra-l62-iaqsve">
+            <pc type="pilcrow"/> Deinde advertendum est quod ista positio sumpsit originem suam secundum ordinem praedicatorum et essentialium 
+            <lb ed="#P" n="6"/>quia secundum talem est ordo formarum concurrentium in eodem sumpto 
+          </p>
+          <p xml:id="ppra-l62-uisieh">
+            <pc type="pilcrow"/> Unde aliqui ymaginati sunt quod alia et alia 
+            <lb ed="#P" n="7"/>forma coordinatur secundum suas species 
+          </p> 
+          <!-- extremely fuzzy parallel; very unclear -->
+          <p xml:id="ppra-l62-erpnnd">
+            <pc type="pilcrow"/> Unde actor de causis intelligentia est plena formis et ita 
+            <lb ed="#P" n="8"/>pari passu ymaginandum est de formalitatibus
+          </p>
+        </div>
+        <div xml:id="ppra-l62-Dxxyy1">
+          <head xml:id="ppra-l62-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l62-axxyy3">
+            <pc type="pilcrow"/>Prima conclusio lectionis supra distinctionem <unclear>11am</unclear> fuit quae pertinet 
+            <lb ed="#P" n="9"/>ad librum geneseos videlicet quod in principio deus creavit caelum et terram quae sic intelligitur quod 
+            <lb ed="#P" n="10"/>deus creavit caelum scilicet angelos et totam nullam celestem et terram <pc type="punctus"/> nullam humanam et terream in principio id est in seipso 
+            <lb ed="#P" n="11"/>vel in filio <pc type="punctus"/> et per hoc reprobatur oppinio origenis dicentis angelos ante mundi constitutiones 
+            <lb ed="#P" n="12"/>fuisse creatos <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l62-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio illa materia fuit creata informis manis et vacua <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l62-axxyy5">
+            <pc type="pilcrow"/> Tunc 3a conclusio 
+            <lb ed="#P" n="13"/>tenebrae nihil fuerunt nec sunt nisi privatio sive lucis carentia vel per tenebras intelligitur materia informis 
+          </p>
+          <p xml:id="ppra-l62-axxyy6">
+            <lb ed="#P" n="14"/><pc type="pilcrow"/> 4a conclusio materia informis non omnino caruit forma 
+          </p>
+          <p xml:id="ppra-l62-axxyy7">
+            <pc type="pilcrow"/> 5a conclusio materia prima tot tunc occupabat quot nunc 
+            <lb ed="#P" n="15"/>occupat sed tamen elementa non erant adhuc ordinata et distincta abinvicem sed confuso modo se habebat 
+          </p>
+          <p xml:id="ppra-l62-axxyy8">
+            <pc type="pilcrow"/> 6a conclusio est de modo attendendi dei uno modo in verbum alio modo de nihilo creando 3o modo distinguendo per opera 
+            <lb ed="#P" n="16"/>6 dierum 
+          </p>
+          <p xml:id="ppra-l62-axxyy9">
+            <pc type="pilcrow"/> 7a conclusio est quod ex primordialibus sive aliquibus <unclear>ra?bus</unclear> etc <pc type="virgula">/</pc> unde ymaginantur doctores quod 
+            <lb ed="#P" n="17"/>non oportet ponere quantitates quantum ad <del>gradus</del> formas essentiales tamen dicunt aliqui ut avicena quod requiritur <unclear>accidentales</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

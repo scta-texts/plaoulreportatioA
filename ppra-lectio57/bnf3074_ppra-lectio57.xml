@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 57 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 57 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-09">July 09, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="65-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio57">
+        <head xml:id="ppra-l57-Hldtdlt">Lectio 57, de Trinitate</head>
+        <div xml:id="ppra-l57-Dd1e109">
+          <head xml:id="ppra-l57-Hpsdpsp">Propositio: sola divina natura summe identice[?] est omnis perfectio sibi possibilis</head>
+          <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l57-stepec">
+            Sicut tactum est in lectione praecedenti, 
+            trinitas personalis est una de conditionibus propriis naturae 
+            immensae, et sicut probatur Res infinita in eadem 
+            specie habet alias proprietates et conditiones quam finita, ergo si natura 
+            divina sit infinita in se, et etiam in specie excedens imperfectione 
+            <cb ed="#SV" n="267va"/>totam aliam perfectionem specierum non est inconveniens si sibi 
+            competant variae proprietates et conditiones.
+          </p>-->
+          <p xml:id="ppra-l57-chncam">
+            <lb ed="#P" n="53"/>Consequenter continuando materiam ponitur haec propositio 
+          </p>
+          <p xml:id="ppra-l57-peipph">
+            quod sola divina essentia ydemptice est obmissiva perfectio sicut omnis possibilis fide 
+            <lb ed="#P" n="54"/>et immensa patet enim ex tactis in 3a distinctione 
+          </p> 
+          <p xml:id="ppra-l57-eeipis">
+            nam ibi deductum fuit quod impossibile est pluralitatem deorum esse 
+            <lb ed="#P" n="55"/>secunda 
+          </p> 
+          <p xml:id="ppra-l57-sspfnc">
+            2a pars probatur ex comparatione creaturarum ad causas efficientes conservantes formales et finales <pc type="punctus"/> nam quaelibet creatura indiget causa 
+            <lb ed="#P" n="56"/>conservante et efficiente 
+          </p>
+          <p xml:id="ppra-l57-icmdae">
+            Et iterum creatura maxime perficitur per finis adeptionem <pc type="punctus"/> et tamen finis non est ipsa res <pc type="punctus"/> ymmo 
+            <lb ed="#P" n="57"/>distinguitur ab ea <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l57-ipmmef">
+            <pc type="pilcrow"/> Item perfectio materiae est forma
+          </p>
+          <p xml:id="ppra-l57-ipiapa">
+            et perfectio intellectus est potentia et sic est multiplex dependentia in rebus in deo 
+            <lb ed="#P" n="58"/>autem non sic quia nulla perfectio potest filii acquiri ultra illam quam habet 
+          </p>
+          <p xml:id="ppra-l57-uchqmc">
+            <pc type="virgula">/</pc> unde circa hoc dicebant doctores quod quaelibet 
+            <lb ed="#P" n="59"/>creatura est realiter composita potest aliquid acquiri et intelligentia etiam 
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e160">
+          <head xml:id="ppra-l57-Hcorria">Corollaria</head>
+          <div xml:id="ppra-l57-Dd1e165">
+            <head xml:id="ppra-l57-Hpcnosp">Primum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e170" type="question-title">Nulla creatura esset omnis sua perfectio</head>
+            <p xml:id="ppra-l57-pcdsfu">
+              <pc type="pilcrow"/> Ex quibus infertur primum corollarium dato 
+              <pb ed="#P" n="66-r"/>
+              <lb ed="#P" n="1"/>quod gratia et dona formalia et gratuita concurrerent ydemptice intrinsece et essentialiter cum substantia alicuius intelligentiae creabilis 
+              <lb ed="#P" n="2"/>non esset sua perfectio quia indigeret obiecto felicitate
+            </p>
+            <p xml:id="ppra-l57-ihcqec">
+              <pc type="pilcrow"/> Item non esset sua futura adeptio vel etc
+            </p>
+            <!-- not clear if this present 
+              <p xml:id="ppra-l57-icqtes">
+              Item, 
+              creatura quanto est perfectio tanto dependentior, 
+              ut tactum est supra.
+            </p>-->
+          </div>
+          <div xml:id="ppra-l57-Dd1e186">
+            <head xml:id="ppra-l57-Hsceppc">Secundum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e191" type="question-title">Esse simplex proprie causando non est ad extra proprie praedicatum communcabile</head>  
+            <p xml:id="ppra-l57-scesri">
+              <pc type="pilcrow"/> 2m <sic>correlarium</sic> 
+              <lb ed="#P" n="3"/>esse simplex proprium non est aliud extra praedicatum communicabile patet quia non potest dari aliqua creatura ex qua non resultet 
+              <lb ed="#P" n="4"/>aliquid dependentiae quod ad bene esse <pc type="punctus"/> et habet respectu huiusmodi esse quamdam compositionem
+            </p> 
+            <p xml:id="ppra-l57-eqsdps">
+              <pc type="pilcrow"/> Ex quo sequitur quod esse simplex 
+              <lb ed="#P" n="5"/>est de praedicatis propriis perfectionalibus deo competentibus et non communibus sicut esset iste terminus vivens
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e201">
+            <head xml:id="ppra-l57-Htcsigp">Tertium corollarium</head>
+            <head xml:id="ppra-l57-Hd1e206" type="question-title">Supremum gradum est omnino indivisibils gradus perfectionis</head>
+            <p xml:id="ppra-l57-tcqmcv">
+              <pc type="pilcrow"/> 3m correlarium 
+              <lb ed="#P" n="6"/>quamvis in qualibet creatura semper ascendendo reperiatur maior <unclear>latitudo</unclear> supra tamen suppremum gradum est indivisibilis et tanto plures 
+              <lb ed="#P" n="7"/>habet operationes tanto potentialior nam species superiores participant inferiores sicut patet de anima quae naturaliter inhaeret 
+              <lb ed="#P" n="8"/>nec eius inhaesio est operatio corporalis et tamen nuctrit corpus vegetabiliter 
+            </p>
+            <!-- very fuzzy parallell -->
+            <p xml:id="ppra-l57-eecvse">
+              et cognoscit sive sentit cum <unclear>breviter</unclear> 
+              <lb ed="#P" n="9"/>et sicut sunt gradus in corporali ita in spirituali <pc type="punctus"/>
+            </p> 
+            <p xml:id="ppra-l57-spddai">
+              <pc type="pilcrow"/> 2a pars dicit quod extra huiusmodi latitudinem est unicus gradu s
+              <lb ed="#P" n="10"/>et extra totam latitudinem simul deus ponitur esse et quod est in deo est totum lux et nisi sic esset absolute 
+              <lb ed="#P" n="11"/>perfectionis non esset summe simplex et sic est unicus summus gradus immensae perfectionis <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e230">
+            <head xml:id="ppra-l57-Hqcgtlc">Quartum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e235" type="question-title">Gradus divinae perfectionis excedit immense totam latitudinem creabilium</head>
+            <p xml:id="ppra-l57-qcltlc">
+              <pc type="pilcrow"/> 4m correlarium 
+              <lb ed="#P" n="12"/>licet sit unicus gradus individua <!-- possibly something added above --> immense tamen excedit totam latitudinem creabilium
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e247">
+            <head xml:id="ppra-l57-Hqcatii">Quintum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e252" type="question-title">Aeternitas excedit in duratione totam latitudinem temporis imaginarii infinitam</head>
+            <p xml:id="ppra-l57-qcqeda">
+              <pc type="pilcrow"/> 5m correlarium quamvis 
+              <lb ed="#P" n="13"/>aeternitas sit duratio simplicissima excedit tamen totam latitudinem ymaginariam temporis a parte ante et a parte post 
+              <lb ed="#P" n="14"/>et de duratione similiter <pc type="virgula">/</pc> quod autem ita sit habetur a <ref xml:id="ppra-l57-Rd1e257" corresp="#ppra-l57-Qaeitsp"><name>boetio</name> in 5o de consolatione</ref> ubi dicit quod <quote xml:id="ppra-l57-Qaeitsp" source="http://scta.info/resource/hy7y6y-d1e83-d1e316">aeternas 
+              <lb ed="#P" n="15"/>est interminabilis viate</quote> <pc type="pilcrow"/> Unde ad ymaginandum huiusmodi durationem ymaginatur tempus manuductive et sit per modum lineae 
+              <lb ed="#P" n="16"/>finitae <pc type="punctus"/> sicut corpus ymaginatur esse punctualiter in quilibet puncto hostiae nihilominus concurreret ad aliquod instans et sic 
+              <lb ed="#P" n="17"/>duratio approprinquaret ad aeternitatem sicut ymaginamur aliquod corpus sicut panis trasmutari in <add place="above-line">aliquid</add> infinitum scilicet in corpore 
+              <lb ed="#P" n="18"/>christi
+            </p>
+            <p xml:id="ppra-l57-scqpes">
+              <pc type="pilcrow"/> Unde sequitur quod si deus ab aeterno produxisset unam intelligentiam perpetuo duraturam non esset aeterna patet quia sua 
+              <lb ed="#P" n="19"/>duratio est divisibilis secus autem est de deo <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e301">
+            <head xml:id="ppra-l57-Hscqigi">Sextum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e306" type="question-title">Quod Pater et Filius sunt idem gradus perfectionis simpliciter et sunt idem gradus indivisibilis</head>
+            <p xml:id="ppra-l57-suqiei">
+              <pc type="pilcrow"/> Sequitur ulterius quod pater et filius suae et ydemptice sunt idem gradus 
+              <lb ed="#P" n="20"/>et unica simplicissima perfectio adaequate licet tamen immensa
+            </p>
+            <p xml:id="ppra-l57-suqdsp">
+              <pc type="pilcrow"/> Ulterius sequitur quod habent eandem durationem et filius 
+              <lb ed="#P" n="21"/>aeque primo est sicut pater <pc type="punctus"/> quia non sunt partibiles quo ad hoc durative
+            </p>
+            <p xml:id="ppra-l57-eqspct">
+              <pc type="pilcrow"/> Ex quo sequitur quod in divinis non debet poni prioritas 
+              <lb ed="#P" n="22"/>originis <pc type="punctus"/> nam <name ref="#Scotus">doctor subtilis</name> ymaginatur aliqua emanatio ab intra ut consideretur pater absolute et in se 
+              <lb ed="#P" n="23"/>et ex quo filius emanat a patre pater tunc videretur prior <pc type="punctus"/> <pc type="pilcrow"/> Sed hoc non posset stare nam absolute sunt aeque 
+              <lb ed="#P" n="24"/>primo ut dictum est 
+            </p>
+            <p xml:id="ppra-l57-iioepa">
+              <pc type="pilcrow"/> Item instans originis est idem cum instante emanationis igitur etc <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l57-isinea">
+              <pc type="pilcrow"/> Item si ita 
+              <lb ed="#P" n="25"/>esset sequeretur quod aeternitas praecederet filium patet qui aeternitas mensurat patrem secundum originem et non 
+              <lb ed="#P" n="26"/>mensuraret filium et per consequens non esset aeternus 
+            </p>
+            <p xml:id="ppra-l57-isqfee">
+              <pc type="pilcrow"/> Item sequeretur quod filius primo haberet esse <del rend="strikethrough">personale</del> potentiale 
+              <lb ed="#P" n="27"/>et sic quodam modo inciperet esse quod videtur absurdum dicere 
+            </p>
+            <p xml:id="ppra-l57-ipnips">
+              <pc type="pilcrow"/> Item pater non esset pater in primo signo 
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e347">
+            <head xml:id="ppra-l57-Hscpvem">Septimum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e352" type="question-title">Productio personarum divinarum <unclear>naturam</unclear> poni <unclear>potentialitatem</unclear> successivam vel etiam mutationem</head>
+            <p xml:id="ppra-l57-scpidi">
+              <pc type="pilcrow"/> 7m 
+              <lb ed="#P" n="28"/>corollarium productio personarum divisorum nullam ponit potentem quia filuis est aeque cito sicut pater quia sunt unicus gradus 
+              <lb ed="#P" n="29"/>perfectionis 
+            </p>
+            <p xml:id="ppra-l57-eqsecv">
+              <pc type="pilcrow"/> Ex quo sequitur quod filius est ydemptice illa excellentia et veritas qua pater potest producere filium <pc type="punctus"/> patet 
+              <lb ed="#P" n="30"/>quia omnis excellentia paternitatis est in filio quia unicus gradus indivisibilis licet immensus
+            </p>
+          </div>
+          <div xml:id="ppra-l57-Dd1e379">
+            <head xml:id="ppra-l57-Hocltae">Octavum corollarium</head>
+            <head xml:id="ppra-l57-Hd1e384" type="question-title">Licet divina essentia sit ad intra communicabilis, non tamen ad extra</head>
+            <!-- doesn't seem present 
+              <p xml:id="ppra-l57-oclpam">
+              Octavum corollarium: 
+              licet divina essentia sit ad 
+              intra communicabilis, 
+              non tamen ad extra. 
+              Istud tamen corollarium dimitto 
+              declarandum pro aliis materiis.
+            </p>-->
+            <p xml:id="ppra-l57-cpuicp">
+              <pc type="pilcrow"/> Consequenter propter difficultatem 
+              <lb ed="#P" n="31"/>alias tactam de productione filii est advertendum quod productio vel generatio in creaturis multa importat nam 
+              <lb ed="#P" n="32"/>de primo cursu motus agendi importat indigentiam et dependentiam effectus a sua causa 
+            </p> 
+            <p xml:id="ppra-l57-unqspc">
+              <pc type="punctus"/> et sic habitudines <unclear>quae?d?t</unclear>
+              <lb ed="#P" n="33"/>aliquam imperfectionem debet remotiori et tunc quod remanet communicetur cum aliis verbi gratia radius solis deppendet 
+              <lb ed="#P" n="34"/>a sole sol tamen non communicat radium et si radius communicaret non deppenderet quia haberet sufficientem potentiam <pc type="pilcrow"/> Ita 
+              <lb ed="#P" n="35"/>ad propositum pater producit filium <pc type="punctus"/> filius vero non deppendet a patre quia deppendens denotat indigentiam 
+              <lb ed="#P" n="36"/>alienus quod non habet modo filius <unclear>nullam</unclear> habet indigentiam sive imperfectionem nam omnia quae pater habet mihi potestates 
+              <lb ed="#P" n="37"/>sua ut evvangelicae habetur et sic ita perfectus sicut pater <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l57-Dxxyy1">
+          <head xml:id="ppra-l57-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l57-axxyy3">
+            <pc type="pilcrow"/> Prima conclusio lectionis super distinctionem 7mam Boni 
+            <lb ed="#P" n="38"/>angeli sunt confirmati per gratiam <pc type="virgula">/</pc> videlicet quantum ad naturam <pc type="punctus"/> quia pares erant cum malis in principio et peccare 
+            <lb ed="#P" n="39"/>possent sed modo non <pc type="punctus"/> lege nunc stante vel intelligitur quantum est ex parte sui
+          </p>
+          <p xml:id="ppra-l57-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio mali angeli sunt 
+            <lb ed="#P" n="40"/>ita obstinati quod non possit bene velle <pc type="punctus"/> licet habeant liberum arbitrium <pc type="punctus"/> causa est quoniam libertas gratiae in eis 
+            <lb ed="#P" n="41"/>depressa est <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l57-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio obstinati angeli vigent in revelatione et ceteris speculativis et sunt clari ad intellectum 
+            <lb ed="#P" n="42"/>speculativum licet non ad practicum
+          </p>
+          <p xml:id="ppra-l57-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio ex ipsorum scientia exercentur artes magicae et sic instruuntur per eos 
+            <lb ed="#P" n="43"/>homines mali
+          </p>
+          <p xml:id="ppra-l57-axxyy7">
+            <pc type="pilcrow"/> 5a conclusio natura corporalis non obedit eis ad nutum sed soli deo 
+          </p>
+          <p xml:id="ppra-l57-axxyy8">
+            <pc type="pilcrow"/> 6o conclusio daemones 
+            <lb ed="#P" n="44"/>non possunt creari <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l57-axxyy9">
+            <pc type="pilcrow"/> 7ma daemones multa mala possunt nisi prohiberentur a deo et a bonis animalis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

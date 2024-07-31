@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio36">
+      <head xml:id="ppra-l36-Hldfldf">Lectio 36, de Fruitione</head>
+      <div xml:id="ppra-l36-Dd1e87">
+        <head xml:id="ppra-l36-Huaparc">Utrum a parte obiecti aliquod bonum finitum sufficiat
+          ultimate terminare appetitum rationalis creaturae?</head>
+        <!--
+            Doesn't seem present
+            
+            <p xml:id="ppra-l36-pfieas">
+            Prius fuit inducta difficultas tangens 
+            finitatem capacitatis humanae. et de hoc dictum est 
+            aliqualiter supra.
+          </p>-->
+        <p xml:id="ppra-l36-nriarc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-nriarc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-nriarc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-echnva">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-echnva"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-echnva"/>-->
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-pqgutf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-pqgutf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-pqgutf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-iesgau">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-iesgau"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-iesgau"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-qapuqg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-qapuqg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-qapuqg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-naqpft">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-naqpft"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-naqpft"/>
+          </assertions>
+        </p>
+        <!-- review break point -->
+        <p xml:id="ppra-l36-uveufc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l36-uveufc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-uveufc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l36-Dd1e253">
+        <head xml:id="ppra-l36-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l36-Dd1e258">
+          <head xml:id="ppra-l36-Hpcrsfd">Primum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e199" type="question-title">Res essentialiter perfectior est a
+            suo fine dependentior</head>
+          <p xml:id="ppra-l36-eqcpcd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-eqcpcd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-eqcpcd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e281">
+          <head xml:id="ppra-l36-Hsclcsa">Secundum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e211" type="question-title">Latitudo honestatis naturalis et
+            essentialis perfectionis correspondent sibi adaequate</head>
+          <p xml:id="ppra-l36-sclsfd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-sclsfd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-sclsfd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e310">
+          <head xml:id="ppra-l36-tcqued">Tertium corollarium</head>
+          <head xml:id="ppra-l36-Hd1e226" type="question-title">Quod res perfectior universaliter
+            est dependentior</head>
+          <p xml:id="ppra-l36-stqtmd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-stqtmd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-stqtmd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e329">
+          <head xml:id="ppra-l36-Hqcqrde">Quartum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e238" type="question-title">Quod ad subtractionem influxus
+            causae finalis res desineret esse</head>
+          <p xml:id="ppra-l36-qsqasc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-qsqasc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-qsqasc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e355">
+          <head xml:id="ppra-l36-Hqcqnsd">Quintum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e242" type="question-title">Quod creatura non tendit in non-esse
+            positive et tamen sibi derelicta in non-esse subito deflueret</head>
+          <p xml:id="ppra-l36-suqaee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-suqaee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-suqaee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e377">
+          <head xml:id="ppra-l36-Hscqian">Sextum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e254" type="question-title">Quod illud
+              <unclear>con[??]</unclear> dictum creaturae inclinatur ad non-esse</head>
+          <p xml:id="ppra-l36-ehspsc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-ehspsc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-ehspsc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e395">
+          <head xml:id="ppra-l36-Hscqiqc">Septimum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e269" type="question-title">Quod spiritualis creatura est
+            indigentior quam corporalis</head>
+          <p xml:id="ppra-l36-seqiqc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-seqiqc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-seqiqc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e408">
+          <head xml:id="ppra-l36-Hocqmec">Octavum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e281" type="question-title">Quod suprema intelligentia, si
+            daretur, magis passive tenderet in nihilum quam mixtum ex contrariis</head>
+          <p xml:id="ppra-l36-seqadr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-seqadr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-seqadr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l36-eqpdeh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-eqpdeh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-eqpdeh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l36-eqpctv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-eqpctv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-eqpctv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e474">
+          <head xml:id="ppra-l36-Hncqesb">Nonum corollarium</head>
+          <head xml:id="ppra-l36-Hd1e303" type="question-title">Quod demonstrationes necessario
+            inclinatur in Deum tanquam in finem ultimum et summum bonum</head>
+          <p xml:id="ppra-l36-sqdosf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-sqdosf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-sqdosf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l36-seqqii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l36-seqqii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-seqqii"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l36-Dxxyy1">
+        <head xml:id="ppra-l36-Hxxyy1">Conclusiones</head>
+        <p xml:id="ppr-l36-cd3eue">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-cd3eue"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l36-scucvf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-scucvf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l36-tsdseb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-tsdseb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l36-qpafie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-qpafie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-xxxyyy">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-xxxyyy"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l36-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l36-axxyy4"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

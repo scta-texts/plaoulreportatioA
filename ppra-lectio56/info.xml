@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio56">
+      <head xml:id="ppra-l56-Hldtldt">Lectio 56, de Trinitate</head>
+      <div>
+        <head xml:id="ppra-l56-Hrqdeup">Rationes quod Deus non est universaliter perfectus</head>
+        <p xml:id="ppra-l56-smtedd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-smtedd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-smtedd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-ncccpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ncccpd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ncccpd"/>
+          </assertions>
+        </p>
+        <div>
+          <head xml:id="ppra-l56-Hqdness">Quod Deus non est summe simplex</head>
+          <p xml:id="ppra-l56-epaadm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-epaadm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-epaadm"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l56-pqdipp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-pqdipp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-pqdipp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l56-sdercd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-sdercd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-sdercd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l56-escess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-escess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-escess"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l56-tdeeop">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-tdeeop"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-tdeeop"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present, though there might be connection to the above
+              <p xml:id="ppra-l56-qdviaf">
+              Quarto deus videtur constitui ex essentia 
+              et Relativa proprietate, ergo non est summe simplex. consequentia 
+              est nota antecedens probatur, quia pater non posset differre a filio, 
+              <pb ed="#SV" n="266-v"/>
+              <cb ed="#SV" n="a"/>
+              nisi per aliquam differentiam ipsius constitutivam. nam si esset pater praecise 
+              idem cum essentia. et cum essentia sit filius nullo modo differet pater 
+              a filio, ergo pater est constitutus ex essentia et ex aliqua differentia 
+              distinctiva ipsius a filio.
+            </p>-->
+          <p xml:id="ppra-l56-qeviss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l56-qeviss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-qeviss"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l56-irsqmo">
+              Istae rationes sunt inductae 
+              pro materia praesenti, et aliae introducentur secundum quod materiae occurrent.
+            </p>-->
+        </div>
+      </div>
+      <div>
+        <head xml:id="ppra-l56-Hipdpda">Invocatio pro divino auxilio</head>
+        <p xml:id="ppra-l56-ipdsre">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ipdsre"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ipdsre"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-l56-Hdqdqdq">Divisio Quaestionis</head>
+        <p xml:id="ppra-l56-cimsip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-cimsip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-cimsip"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-l56-Htptptp">Tria principia</head>
+        <p xml:id="ppra-l56-qapomt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-qapomt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-qapomt"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-ppeeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ppeeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ppeeip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-seqvhi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-seqvhi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-seqvhi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-teqqmr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-teqqmr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-teqqmr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-ehpeis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ehpeis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ehpeis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-ubcidg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ubcidg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ubcidg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-upaihe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-upaihe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-upaihe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-svpsms">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-svpsms"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-svpsms"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-l56-Hppgpgi">Propositiones pro generali introductione</head>
+        <p xml:id="ppra-l56-cpgmpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-cpgmpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-cpgmpa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-pephdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-pephdp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-pephdp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-isqesd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-isqesd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-isqesd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-spiera">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-spiera"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-spiera"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-iemesr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-iemesr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-iemesr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-ierecp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ierecp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ierecp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-eiepat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-eiepat"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-eiepat"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-peecat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-peecat"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-peecat"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l56-itcric">
+            Illis tamen consideratis non est difficultas imaginandum quod illa natura 
+            divina est tantae nobilitatis quod nullo modo reperitur in creaturis.
+          </p> 
+          <p xml:id="ppra-l56-eehefp">
+            Et ex hoc sequitur quod magni philosophi sunt aptiores 
+            ad capiendum articulum illum trinitatis quam simplices 
+            quia <unclear>eis</unclear> facilius persuadetur.
+          </p>-->
+        <p xml:id="ppra-l56-ssqeie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-ssqeie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-ssqeie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-uaeeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-uaeeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-uaeeip"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break point -->
+        <p xml:id="ppra-l56-asqide">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-asqide"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-asqide"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l56-apipgp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l56-apipgp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l56-apipgp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l56-Dxxyy1">
+        <head xml:id="ppra-l56-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l56-axxyy3">
+        </p>
+        <p xml:id="ppra-l56-axxyy4">
+        </p>
+        <p xml:id="ppra-l56-axxyy5">
+        </p>
+        <p xml:id="ppra-l56-axxyy6">
+        </p>
+        <p xml:id="ppra-l56-axxyy7">
+        </p>
+        <p xml:id="ppra-l56-axxyy8">
+        </p>
+        <p xml:id="ppra-l56-axxyy9">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

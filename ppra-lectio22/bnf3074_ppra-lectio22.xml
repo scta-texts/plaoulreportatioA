@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 22 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 22 [Bnf 3074 Transcription]</title>
+          <date when="2023-12-22">February 26, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio22">
+      <head xml:id="ppra-l22-Hd1e104">Lectio 22, de Notitia</head>
+        <div xml:id="ppra-l22-Dd1e107">
+          <head xml:id="ppra-l22-Hcpdcpd">
+            <supplied>Circa primam difficultatem</supplied>
+          </head>
+          <p xml:id="ppra-l22-seqqlp">
+            <lb ed="#P" n="19"/>Consequenter circa materiam de notitiis <pc type="punctus"/> videndum est adhuc de ipsa notitia 
+          </p>
+          <p xml:id="ppra-l22-ptqsss">
+            <pc type="virgula">/</pc> et primo dico quod notitia non 
+            <lb ed="#P" n="20"/>est intrinsece cognitio sive notitia <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia staret quod esset sine subiecto de potentia dei
+            <lb ed="#P" n="21"/>absoluta sed hoc non igitur patet quia non est per se perceptiva 
+          </p>
+          <p xml:id="ppra-l22-sdqdls">
+            <pc type="pilcrow"/> 2o notitia non dicitur esse notitia sive 
+            <lb ed="#P" n="22"/>cognitio quo ad potentiam subiectivam praecise patet quia staret habitudinem esse et tamen non esset notitia 
+            <lb ed="#P" n="23"/>sicut si poneretur in lapide de potentia dei absoluta
+          </p>
+          <p xml:id="ppra-l22-tdqatp"> 
+            <pc type="pilcrow"/> ulterius nec in habitudine ad potentiam perceptivam
+            <lb ed="#P" n="24"/>illativam patet quia prius natura producitur notitia quam immutet vitaliter <pc type="punctus"/> et ideo dicitur quod cognitio 
+            <lb ed="#P" n="25"/>in habitudine ad potentiam perceptivam illativam duplex est subiecti perceptiva
+          </p>
+          <p xml:id="ppra-l22-eavenu"> 
+            <pc type="pilcrow"/>Unde notandum est quod aliqua 
+            <lb ed="#P" n="26"/>notitia dicitur multipliciter notitia uno modo unibilis et sic deus esset notitia quia cuiuslibet rei est notitia universalis
+          </p> 
+          <p xml:id="ppra-l22-sancid">
+            <lb ed="#P" n="27"/><pc type="pilcrow"/> 2o aliqua notitia potest esse alicuius notitia propter aliquam determinationem nam dato conceptu entis 
+            <lb ed="#P" n="28"/>in mente addatur sibi conceptus alius a se <pc type="punctus"/> tunc erit dependens 
+          </p>
+          <p xml:id="ppra-l22-tcdeds">
+            Et sic potest esse 
+            <lb ed="#P" n="29"/>quod habeatur de re conceptus particularis
+          </p>
+          <p xml:id="ppra-l22-qmpbip">
+            <pc type="pilcrow"/> 4o aliqua est notitia alicuius obiecti non terminativa 
+            <lb ed="#P" n="30"/>ad obiectum sicut notitia dei fuit in <name>moyse</name> et <name>paulo</name>
+          </p>
+          <p xml:id="ppra-l22-uaeeed">
+            <pc type="pilcrow"/> Ulterius est sciendum quod differentia est 
+            <lb ed="#P" n="31"/>inter notitiam universalem et confusam <pc type="punctus"/> nam confusa potest esse sive singulari sive 
+            <lb ed="#P" n="32"/>universali unde differunt quia notitia distincta est causa efficiendi propositiones affirmativas et negativas 
+            <lb ed="#P" n="33"/>de re cognita cognoscere sicut si sortes videat platonem <pc type="virgula">/</pc> a tanta distantia quod non possit 
+            <lb ed="#P" n="34"/>eligere nisi in quantum corpus donec magis de proprie viderit tunc stat quod cognoscit 
+            <lb ed="#P" n="35"/>eadem rem indistincte 
+          </p>
+          <!-- doesn't seem present
+            <p xml:id="ppra-l22-iecude">
+           
+          </p>-->
+          <!-- fuzzy parallels -->
+          <p xml:id="ppra-l22-cesnsp">
+            <pc type="punctus"/> sed illa quae erit immediate obiecto <unclear>praesentata</unclear> erit distincta quia ibi est causa 
+            <lb ed="#P" n="36"/>sufficiens distinguendi res abinvicem <pc type="punctus"/> alia autem non 
+          </p>
+          <!-- fuzzy parallels -->
+          <p xml:id="ppra-l22-qaedvi">
+            <pc type="punctus"/> sed universalis non repugnat esse notitiam 
+            <lb ed="#P" n="37"/>distinctam <pc type="pilcrow"/> unde ymaginatur quod secundum quantitatem obiecti in quo consisteret tunc quod esset singularis 
+            <lb ed="#P" n="38"/>et eadem erit universalis
+          </p>
+        </div>
+        <div xml:id="ppra-l22-Dd1e1104">
+          <head xml:id="ppra-l22-Hqcqcqc">[Quattuor conclusiones]</head>
+          <p xml:id="ppra-l22-vtaeqr"> 
+            <pc type="pilcrow"/> Veniendo igitur magis ad propositum ponuntur aliquae conclusiones negativae
+          </p>
+          <p xml:id="ppra-l22-pcnaso">
+            <lb ed="#P" n="39"/>quarum prima est quod conceptus non dicitur naturaliter repraesentativus sui obiecti ratione similitudinis ad suum
+            <lb ed="#P" n="40"/>obiectum
+          </p>
+          <p xml:id="ppra-l22-sccocc">
+            <pc type="pilcrow"/> 2a quo conceptus non dicitur sui obiecti repraesentativus ratione convenientiae specificae 
+            <lb ed="#P" n="41"/>et essentialibus
+          </p>
+          <p xml:id="ppra-l22-tcchdh">
+            <pc type="pilcrow"/> 3a conclusio conceptus non dicitur repraesentativus ex conditione sua specifica naturae suae <pc type="punctus"/> 
+            <lb ed="#P" n="42"/>et ista est contra <ref xml:id="ppra-l22-Rd1e1243"><name ref="#Oyta">magistrum henricum de heuta</name></ref>
+          </p> 
+          <p xml:id="ppra-l22-qcaeio">
+            <pc type="pilcrow"/> 4a conclusio et est affirmativa conceptus convenit repraesentare 
+            <lb ed="#P" n="43"/>suum obiectum ex modo causarum ad illud concurrentium et loquitur ibi de conceptu <unclear>c?eto</unclear> et etiam 
+            <lb ed="#P" n="44"/>de modo causarum proximarum 
+          </p>
+        </div>
+        <div xml:id="ppra-l22-Dd1e1325">
+          <head xml:id="ppra-l22-Hptcptc">[Probatur tertia conclusio]</head>
+          <p xml:id="ppra-l22-eicepa">
+            et ista post declarabitur <pc type="pilcrow"/> Sed quia 3a apparentior videtur idcirco primo 
+            <lb ed="#P" n="45"/>contra eam obicitur Nam si ipsa esset vera sequeretur duos conceptus esse eiusdem speciei quorum unus 
+            <lb ed="#P" n="46"/>non repraesentaret quod alter et tamen haberent diversa obiecta igitur conclusio falsa <pc type="punctus"/> consequentia tenet antecedens patet ex eo 
+            <lb ed="#P" n="47"/>quod si capiantur duo conceptus quorum unus a sorte causetur alius et platone illi 
+            <lb ed="#P" n="48"/>sunt eiusdem speciei patet <pc type="virgula">/</pc> quia sunt eiusdem perfectionis adaequate igitur contra <del rend="strikethrough">eum</del> <name>de rippa</name> quia ponit eam
+          </p>
+          <!-- very fuzzy parallel-->
+          <p xml:id="ppra-l22-iqcned">
+            <lb ed="#P" n="49"/><pc type="pilcrow"/> Sed diceret forte quod non essent eiusdem <del rend="strikethrough">speciei</del> perfectionis <pc type="punctus"/> sed haec non valet et supposita quod 
+            <lb ed="#P" n="50"/>essent diceret quod essent diversarum specierum licet non aeque perfectarum <pc type="punctus"/> Adhuc non valet quia 
+            <lb ed="#P" n="51"/>species habent ordinem <pc type="punctus"/> inter se <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l22-ivqhdq">
+            <pc type="pilcrow"/> Item species se habet sicut numerus ut vult piis <pc type="pilcrow"/> 3o 
+            <lb ed="#P" n="52"/>ordo ponitur in praedicatis essentialibus qui tamen tolleretur si sic esset
+          </p>
+          <p xml:id="ppra-l22-iaerie">
+            <pc type="pilcrow"/> Item apparentius arguitur 
+            <lb ed="#P" n="53"/>ex quid nominis et supponitur primo de denominationibus essentialibus <pc type="virgula">/</pc> unde quaelibet denominatio perfectionis 
+            <lb ed="#P" n="54"/>sumitur sit medium distinguendi vel concludendi illud cui competit quam cui non <pc type="punctus"/> unde videtur hoc 
+            <lb ed="#P" n="55"/>velle <name>anselmus</name>
+          </p> 
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l22-episor">
+            <pc type="pilcrow"/> Ex ista via dicitur quod ab omni speciei et eius convenientia cum omnibus <unclear>subiectibus</unclear> potest 
+            <lb ed="#P" n="56"/>sumi conceptus mere absolutus sicut de hoc potest sumi <pc type="punctus"/> unus conceptus sicut esset ens intellectivum
+            <pb ed="#P" n="45-r"/>
+            <lb ed="#P" n="1"/>quod competeret omnibus superioribus <pc type="pilcrow"/> 2o sequitur ex istis quod illa potentia praectacta includit negationem
+          </p>
+        </div>
+        <div xml:id="ppra-l22-Dd1e2444">
+          <head xml:id="ppra-l22-Hpscpsc">
+            <supplied>Probatur secunda conclusio</supplied>
+          </head>
+          <p xml:id="ppra-l22-dpsemp">
+            <lb ed="#P" n="2"/><pc type="pilcrow"/> Deinde probatur conclusio negativa nam si sic sequeretur quod homo magis repraesentaret asinum quam quantitas asini
+            <lb ed="#P" n="3"/>repraesentativa consequens est falsum quia unum est accidens et aliud substantia
+          </p> 
+       </div>
+        <div xml:id="ppra-l22-Dd1e2493"> 
+          <head xml:id="ppra-l22-Hppcppc">
+            <supplied>Probatur prima conclusio</supplied>
+          </head>
+          <p xml:id="ppra-l22-dppemi">
+             <pc type="pilcrow"/> prima conclusio quae est negativa probatur quia si 
+            <lb ed="#P" n="4"/>esset vera sequeretur quod conceptus lapidis esset formalis similitudo lapidis vel ymago sicut 
+            <lb ed="#P" n="5"/>de sigillo <pc type="virgula">/</pc> et per consequens in eo oporteret esse lineata distincta <pc type="virgula">/</pc> aliter non salvaretur 
+            <lb ed="#P" n="6"/><pc type="pilcrow"/> Confirmatur quia conceptus rei extense non posset haberi nisi esset cor?des pars 
+            <lb ed="#P" n="7"/>ad hoc sed haec est falsum quia est indivisibilis
+          </p>
+          <p xml:id="ppra-l22-iqssii">
+            <pc type="pilcrow"/> Item si conceptus esset similitudo tunc repraesentaret rem 
+            <lb ed="#P" n="8"/>tamquam ymaginationem sed oportet tamen quod alia praecederet cognitio
+          </p>
+        </div>
+        <div xml:id="ppra-l22-Dd1e2660">
+          <head xml:id="ppra-l22-Hcorria">
+            <supplied>Corollaria</supplied>
+          </head>
+          <p xml:id="ppra-l22-eiaqin">
+            <pc type="pilcrow"/> Ex quibus omnibus inferuntur corollaria 
+            <lb ed="#P" n="9"/>quae praevalent omnibus narratis videre <unclear>meo</unclear>
+          </p> 
+          <p xml:id="ppra-l22-pcnoan">
+            <pc type="pilcrow"/> primum 
+            <ref xml:id="ppra-l22-Rd1e2703">non quaelibet entitas immaterialis potest esse respectu 
+            <lb ed="#P" n="10"/>essentiae divinae intelligiblis</ref>
+          </p>
+          <p xml:id="ppra-l22-scnenf">
+            <pc type="pilcrow"/> 2m <ref xml:id="ppra-l22-Rd1e2751">non quaelibet entitas creata immaterialis est respectu divinae essentiae notitia 
+              <lb ed="#P" n="11"/>intuitiva </ref> quoniam sequeretur animam nostram esse notitiam dei intuitivam quod est falsum et daemones etiam
+          </p>
+          <p xml:id="ppra-l22-tcnlbo">
+            <lb ed="#P" n="12"/><pc type="pilcrow"/>3m licet quaelibet res sit obiective dei representativa non tamen formaliter <pc type="virgula">/</pc> unde obiectum tenet <name>de rippa</name>
+            <lb ed="#P" n="13"/>ex parte sui <pc type="virgula">/</pc> sed si possit uniri haec esset obiective
+          </p>
+          <p xml:id="ppra-l22-qcnpse">
+            <pc type="pilcrow"/> 4m correlarium quilibet intellectus 
+            <lb ed="#P" n="14"/>non potest videre divinam essentiam <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia non est causa sufficiens per se et formaliter <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l22-peofia">
+            <lb ed="#P" n="15"/><pc type="pilcrow"/> 5m correlarium non oportet divinam essentiam esse intuitive cognitivam ab aliqua creatura <pc type="pilcrow"/> unde 
+            <lb ed="#P" n="16"/>ymaginatur <name>de rippa</name> quod aliqua intelligentia tanto perfectior tanto plus repraesentaret deum <pc type="virgula">/</pc> et sic 
+            <lb ed="#P" n="17"/>esset notitia de deo <pc type="punctus"/>
+          </p> 
+        </div>
+        <div xml:id="ppra-l22-Dxxyy1">
+          <head xml:id="ppra-l22-Haxyy2">Conclusiones</head>
+          <p xml:id="ppra-l22-ctssge">
+            <pc type="pilcrow"/> Sequitur distinctio lectionis cuius conclusio prima est 3es personae sunt aequales in trinitate 
+            <lb ed="#P" n="18"/>et aeque possibiles
+          </p>
+          <p xml:id="ppra-l22-scocap">
+            <pc type="pilcrow"/> 2a omnis potentia quam filius habet sumpta est a patre
+          </p>
+          <p xml:id="ppra-l22-axyyy3">
+            <!-- begin scribal remarks --><pc type="punctus"/> et haec de lectione et fuit rector in illa 
+            <lb ed="#P" n="19"/>Sed quando scribi istam die <unclear>martis</unclear> ante festum sancti clari <unclear>processio viventis</unclear> iuit pro rege ad <!-- possible blank here --> 
+            <lb ed="#P" n="20"/>quia infirmus erat et sumpsit malum quando tractabatur de pace in <unclear>abevilla</unclear> cum angelicis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

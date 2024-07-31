@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio26">
+      <head xml:id="ppra-l26-Hldnldn">Lectio 26, de Notitia</head>
+      <div xml:id="ppra-l26-Dd1e107">
+        <head xml:id="ppra-l26-Hddiiea">De differentia inter notitiam intuitivam et
+          abstractivam</head>
+        <p xml:id="ppra-l26-sqddso">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-sqddso"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-sqddso"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l26-Dd1e134">
+        <head xml:id="ppra-l26-Hocaoca">Opinio Campsale</head>
+        <p xml:id="ppra-l26-epcaie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-epcaie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-epcaie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-dqrnvt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-dqrnvt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-dqrnvt"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-l26-eieiea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eieiea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eieiea"/>
+          </assertions>
+        </p>
+        <!--parag does not seem present
+            <p xml:id="ppra-l26-eibipd">
+            Et ideo breviter contra positionem volo instare 
+            quia iam satis responsum est ad rationem 
+            quia 
+              si
+            capiatur illud principium in primo sensu, 
+            falsum est. 
+            Si in secundo sensu non probat
+            intentum praedicti doctoris.
+          </p>-->
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l26-aicnea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-aicnea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-aicnea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-sasdin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-sasdin"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-sasdin"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-eidive">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eidive"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eidive"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l26-Dd1e830">
+        <head xml:id="ppra-l26-Hoscosc">Opinio Scoti</head>
+        <p xml:id="ppra-l26-iimipo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-iimipo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-iimipo"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-cqdcnf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-cqdcnf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-cqdcnf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-iiieps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-iiieps"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-iiieps"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l26-Dd1e1017">
+        <head xml:id="ppra-l26-Hoauoau">Opinio Aureoli</head>
+        <p xml:id="ppra-l26-aeopio">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-aeopio"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-aeopio"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-eipnni">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eipnni"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eipnni"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-heamep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-heamep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-heamep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-perdas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-perdas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-perdas"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-eeioec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eeioec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eeioec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-ecvdan">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-ecvdan"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-ecvdan"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-icqisf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-icqisf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-icqisf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-edeicc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-edeicc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-edeicc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break; two paragaphs below could be combined with above -->
+        <!-- Don't seem to have a direct parallel but could somehow be in the above.
+            <p xml:id="ppra-l26-issnce">
+            Item si sic, 
+            illud fuisset ab aeterno,
+              et necessario fuisset ab aeterno
+            quia Deus ab aeterno cognovit creaturas et necessario cognovit eas.
+          </p>
+          <p xml:id="ppra-l26-iscfhp">
+            Item si cuilibet notitiae 
+              intuitivae
+              corresponderet
+            unum tale 'esse perspicuum' 
+            cum fuerint infinitae notitiae 
+              ab aeterno intuitivae
+            ,
+            sequitur quod infinita fuerunt huiusmodi 'perspicua'.
+              perspicua
+          </p>-->
+      </div>
+      <div xml:id="ppra-l26-Dd1e1570">
+        <head xml:id="ppra-l26-Hookook">Opinio Okam</head>
+        <p xml:id="ppra-l26-aepapp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-aepapp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-aepapp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-snavne">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-snavne"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-snavne"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-eippie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eippie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eippie"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l26-Dd1e1858">
+        <head xml:id="ppra-l26-Hogrogr">Opinio Gregorii</head>
+        <p xml:id="ppra-l26-aeofai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-aeofai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-aeofai"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-tcevie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-tcevie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-tcevie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-veqmid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-veqmid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-veqmid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-icgrie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-icgrie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-icgrie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l26-itsrie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-itsrie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-itsrie"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l26-Dd1e2227">
+        <head xml:id="ppra-l26-Hoplopl">Opinio Plaoul</head>
+        <p xml:id="ppra-l26-pdtdnb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l26-pdtdnb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-pdtdnb"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l26-Dd1e2325">
+          <head xml:id="ppra-l26-Hpmnmni">Prima modus notitiae intuitivae</head>
+          <p xml:id="ppra-l26-lvdqre">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-lvdqre"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-lvdqre"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-esisco">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-esisco"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-esisco"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-uaqtnr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-uaqtnr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-uaqtnr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-esdcps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-esdcps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-esdcps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-eshrss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eshrss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eshrss"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l26-Dd1e2675">
+          <head xml:id="ppra-l26-Hsmnmni">Secunda modus notitiae intuitivae</head>
+          <p xml:id="ppra-l26-aenrse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-aenrse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-aenrse"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-eqvrns">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-eqvrns"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-eqvrns"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-atqpap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-atqpap"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-atqpap"/>-->
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-ppqnei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-ppqnei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-ppqnei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-ttqaie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-ttqaie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-ttqaie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l26-qedoce">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l26-qedoce"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l26-qedoce"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

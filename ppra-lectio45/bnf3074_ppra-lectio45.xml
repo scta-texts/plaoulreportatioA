@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 45 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 45 [Bnf 3074 Transcription]</title>
+          <date when="2024-06-21">June 21, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio45">
+        <head xml:id="ppra-l45-Hldldld">Lectio 45, de Fruitione</head>
+        <div xml:id="ppra-l45-Dd1e85">
+          <head xml:id="ppra-l45-Hspaiec">Solutiones pro aliquibus rationibus prius factus quod non solum Deo est fruendum, immo etiam creatura</head>
+          <p xml:id="ppra-l45-crriec">
+            <lb ed="#P" n="18"/>Consequenter circa aliquas rationes prius factas Ad probandum quod non solum sit de fruendum sed creatura 
+          </p>
+          <div xml:id="ppra-l45-Dd1e99">
+            <head xml:id="ppra-l45-Hrqcedp">Ratio: quod creatura in casu esse Deo praeferenda</head>
+            <p xml:id="ppra-l45-uchtep">
+              <lb ed="#P" n="19"/>unde ponebatur casus quod creatura esset deo praeferenda ut de sorte vidente proximum teneretur 
+              <lb ed="#P" n="20"/>ipsum indigentem nutrire etc cessando a fruitione divina <pc type="virgula">/</pc> et sic non frueretur deo sed creatura et sic 
+              <lb ed="#P" n="21"/>staret aliquem tota vita sua non frui de qui tamen mandatum dei adimpleret <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l45-isisad">
+              <pc type="virgula">/</pc> probatur hac nam 
+              <lb ed="#P" n="22"/>ponatur casus quod aliquis in instanti post baptismum fruatur dilectione proximi sed unum gradum 
+              <lb ed="#P" n="23"/>de inde qualibet die augmentando secundum alium <pc type="virgula">/</pc> vel est unum proximum et deinde etiam alium videtur hoc casu stante non 
+              <lb ed="#P" n="24"/>teneri frui deo et tamen etc
+            </p>
+            <p xml:id="ppra-l45-iaphdi">
+              <pc type="pilcrow"/> Confirmatur creatura non tenetur frui deo 
+            </p>
+            <p xml:id="ppra-l45-pepdda">
+              <pc type="punctus"/> patet quia non in <c>a</c> instanti 
+              <lb ed="#P" n="25"/>etc et sic non tenetur in illo <pc type="punctus"/> probatur quia nullum actum tenetur a creatura habere
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l45-pseagi">
+              <pc type="pilcrow"/> Item quantum ad intensionem
+              <lb ed="#P" n="26"/>actus quocumque actu dato potest frui maiori igitur non obligatur ad aliquem certum gradum 
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e172">
+            <head xml:id="ppra-l45-Hrarrar">Responsio ad rationem</head>
+            <div xml:id="ppra-l45-Dd1e177">
+              <head xml:id="ppra-l45-Hprprpr">Prima responsio</head>
+              <p xml:id="ppra-l45-airdsf">
+                <pc type="pilcrow"/> Ad 
+                <lb ed="#P" n="27"/>ista respondetur primo cum distinctione nam si fruends deo fruatur eo ex officio <unclear>incumvente</unclear> sicut 
+                <lb ed="#P" n="28"/>sacerdos circa sacramentalia vel secundum quod est <unclear>pro?a</unclear> contemplativa ut heremita vel alia huiusmodi per?a 
+              </p>
+              <p xml:id="ppra-l45-ipcspe">
+                in primo 
+                <lb ed="#P" n="29"/>casu non tenetur subvenire proximo dimittendo officium divinum 
+              </p>
+              <p xml:id="ppra-l45-saivaa">
+                <pc type="punctus"/> sed alio casu de privata persona et contemplativa 
+                <lb ed="#P" n="30"/>tenetur subvenire dimittendo sicut horas aut talia Et hoc secundum duplicem ymaginationem <pc type="virgula">/</pc> prima est quia nos 
+                <lb ed="#P" n="31"/>semper tenemur ad <unclear>me?ra</unclear> patet <pc type="virgula">/</pc> nam sit aliquod praeceptum circa divinum officium et consilium aliquod divinae
+                <lb ed="#P" n="32"/>perfectionis tamquam duo incompossibilia non obstante quod consilium divinae sit perfectionis dimissio eius 
+                <lb ed="#P" n="33"/>non est peccatum scilicet ad minus mortale sed dimissio praecepti esset peccatum sic in proposito licet fruitio 
+                <lb ed="#P" n="34"/>aeque esset melior <unclear>subventione</unclear> proximi nihilominus dimittenda est propter proximum quia cadit sub dei praecepto 
+                <lb ed="#P" n="35"/>sicut patet in primo mandato legis
+              </p>
+            </div>
+            <div xml:id="ppra-l45-Dd1e251">
+              <head xml:id="ppra-l45-Hsrsrsr">Secunda responsio</head>
+              <p xml:id="ppra-l45-sriemm">
+                <pc type="virgula">/</pc> et sic dicitur ulterius secundum dicta <unclear>primus<!-- prius?--></unclear> quod velle subvenire proximo et frui 
+                <lb ed="#P" n="36"/>deo patet hoc manifeste quia sub praecepto cadit igitur propter deum efficitur igitur etc quaero sequitur quod proximus non 
+                <lb ed="#P" n="37"/>est magis diligendus quod inferre <unclear>ba?tur</unclear> quia totum pro deo efficitur unde proximus propter deum amatur et non deo 
+                <lb ed="#P" n="38"/>propter proximum <pc type="punctus"/> et aliter facere esset peccatum <pc type="punctus"/>
+              </p>
+              <p xml:id="ppra-l45-sipnss">
+                <pc type="pilcrow"/> Sed ponamus adhuc quod quis fruens deo videat proximum 
+                <lb ed="#P" n="39"/>in casu necessitatis et non <unclear>fucturrati</unclear> ei et diligat deum 
+              </p>
+             <p xml:id="ppra-l45-dqccsp">
+               <pc type="punctus"/> Respondetur quod casus est impossibilis quia iam <unclear>deivaret</unclear>
+               <lb ed="#P" n="40"/>ab maiore dei non diligendo proximum nam eo ipso ubi esset distincta fruitio ab usu <pc type="virgula">/</pc> adhuc dilectio 
+               <lb ed="#P" n="41"/>dei explicat ad omnia divina praecepta <pc type="punctus"/> quare etc
+             </p>
+           </div>
+            <div xml:id="ppra-l45-Dd1e310">
+              <head xml:id="ppra-l45-Htrtrtr">Tertia responsio</head>
+              <p xml:id="ppra-l45-taaame">
+                Et tunc quando dicebatur quia is sit aliquis noviter 
+                <lb ed="#P" n="42"/>baptizatus etc  
+              </p>
+              <!-- reconsider break point -->
+              <p xml:id="ppra-l45-tvqfsc">
+                dicitur quod diligendo sit successive semper diligit deum secundum <unclear>cadentiam</unclear> iam sub praeceptio
+              </p>
+              <p xml:id="ppra-l45-ttqano">
+                <pc type="virgula">/</pc> Et adnutatus 
+                <lb ed="#P" n="43"/>ad hoc quod fruitio distinguatur ab usu dicitur ipso casu stante <pc type="virgula">/</pc> iste non quam fuit obligatus ad exeundum 
+                <lb ed="#P" n="44"/>in actualem dei dilectionem <pc type="virgula">/</pc> et ideo sufficit habitualis dilectio sibi sed quia in hoc non accipit potentias 
+                igitur etc
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l45-Dd1e355">
+            <head xml:id="ppra-l45-Hoqqvgs">Obiectio: Quod quis sine fide, caritate, vel gratiam salvetur</head>
+            <p xml:id="ppra-l45-yciasm">
+              <pc type="pilcrow"/> Circa etiam istam materiam dicunt aliqui magistri quod staret aliquem salvari et tamen non quuam 
+              <lb ed="#P" n="45"/>in vita sua haberet fidem vel gratiam <pc type="punctus"/> probant sic <pc type="pilcrow"/> Sit aliquis paganus vel malus disponat 
+              <lb ed="#P" n="46"/>se ad fidem catholicam <unclear>recipiendam</unclear> in <c>a</c> instanti et in illo eodem instanti moriatur vel immediate post instans illius 
+              <lb ed="#P" n="47"/>horae in isto casu dicunt salvari quia sufficienter fecit quod in se est secundum dispositionem primam aliud fidem et 
+              <lb ed="#P" n="48"/>gratiam suscipiendam <pc type="punctus"/> licet adhuc non fruatur lege vel fide <pc type="punctus"/> 
+            </p> 
+            <p xml:id="ppra-l45-uigicp">
+              <pc type="virgula">/</pc> unde notandum est quod duo sunt in ipsa
+              <pb ed="#P" n="57-r"/>
+              <lb ed="#P" n="1"/>dispositione scilicet gratia dei et actus ipsius dispositionis creaturae <pc type="virgula">/</pc> et per consequens sequitur quod unus qui non quam 
+              <lb ed="#P" n="2"/>habuisset fidem catholicam casu stante salvaretur 
+            </p>
+            <!-- very very fuzzy parallel -->
+            <p xml:id="ppra-l45-esvetd">
+              <pc type="virgula">/</pc> Et per oppositum poneretur quod quis in tota 
+              <lb ed="#P" n="3"/>vita fuerit in gratia <pc type="virgula">/</pc> et in instanti deciderit a gratia moriatur in illo eodem vel immediate post 
+              <lb ed="#P" n="4"/>constat ipsum dampnari stante cum hoc quod non poeniteat vel reconcilietur quovis modo <pc type="virgula">/</pc> licet quocumque 
+              <lb ed="#P" n="5"/>instanti dato ante hoc potuisset salvari <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e453">
+            <head xml:id="ppra-l45-Hraorao">Responsio ad obiectionem</head>
+            <p xml:id="ppra-l45-ecipsg">
+              <pc type="pilcrow"/> Tamen quantum ad istam materiam multa possunt 
+              <lb ed="#P" n="6"/>dici probabiliter et est notandum ubi praecedit aliquam mora praecedens instans individuum est sicut si 
+              <lb ed="#P" n="7"/>huiusmodi creatura esset in instanti <pc type="virgula">/</pc> unde ponatur casus quod sortes et plato aequaliter operentur meritorie 
+            </p>
+            <p xml:id="ppra-l45-etdact">
+              <lb ed="#P" n="8"/>et tunc in una hora sortes remaneat in actu meritorio plato decedat a merito et sortes habeat 
+              <lb ed="#P" n="9"/>gratiam ut decem <pc type="punctus"/> semper se teneat in ipsa vel ultra mereatur semper gratiam secundum gradus quaeritur quis plus 
+              <lb ed="#P" n="10"/>ipsorum praemiabitur <pc type="punctus"/> Respondetur quod aequaliter quia non sunt tales gradus in caelo <pc type="punctus"/> nam habenti minus 
+              <lb ed="#P" n="11"/>secundum ymaginationem nostram videtur sibi plus obtinere <pc type="punctus"/> licet dicatur in domo patris mei 
+              <lb ed="#P" n="12"/>multae sint mansiones
+            </p> 
+            <p xml:id="ppra-l45-veqint">
+              <pc type="pilcrow"/> Verum est tamen quod circa materiam ubi aliquis disponeret se in instanti transgressionis 
+              <lb ed="#P" n="13"/>ad bonum utrum salvare dicitur quod sic Tamen sacra scriptura testante casus staret cum communi lege <pc type="punctus"/> 
+              <lb ed="#P" n="14"/>nam dicitur quod nullus salvabitur <pc type="virgula">/</pc> nisi in via habueret gratiam et fidem <pc type="virgula">/</pc> unde apostolus 
+              <lb ed="#P" n="15"/>impossibile est sine fide placere quamquam deo sed salvaretur quod ymmo sicut dictum est intelligendo de praedictis 
+            </p>
+            <!-- very fuzzy but right now this is either in the above or not present
+            <p xml:id="ppra-l45-ciiint">
+              Consequenter in ista materia, quia tactum 
+              est quod numquam quis in aliquo instanti tenetur frui deo, 
+              dicitur communiter quod tenetur in aliquo, 
+              licet in nullo teneatur.
+            </p> 
+            <p xml:id="ppra-l45-sirtsd">
+              Sed ista responsio non videtur sufficiens. 
+              Primo quia 
+              creatura existens in culpa tenetur se disponere ad fruendum deo 
+              et Realiter obligatur ad fruendum deo in isto instanti terminante 
+              suam dispositionem.
+            </p>-->
+            <p xml:id="ppra-l45-ictpso">
+              <lb ed="#P" n="16"/><pc type="pilcrow"/> Consequenter in ista materia de fruente deo sicut sacerdos circa divinum cultum vel sacramentale officium 
+              <lb ed="#P" n="17"/>quotienscumque occurrit materiam 
+            </p>
+            <p xml:id="ppra-l45-icttrd">
+              <pc type="pilcrow"/> Istis tenetur facere occurrere sibi materiam ad divinum officium vel cultum 
+              <lb ed="#P" n="18"/>et ideo pro aliquo tempore nam quolibet die recipit beneficia igitur etc
+            </p>
+            <p xml:id="ppra-l45-itftfd">
+              <pc type="pilcrow"/> Item tenetur circa temptationes et 
+              <lb ed="#P" n="19"/>talia secundum gradus et status resistere et mereri <pc type="punctus"/> unde praelati maxime tenentur sibi <pc type="virgula">/</pc> nam eorum 
+              <lb ed="#P" n="20"/>vita debet esse activa et contemplativa <pc type="virgula">/</pc> et sic falsum est quod in nullo instanti tenetur creatura frui
+              <lb ed="#P" n="21"/>deo 
+            </p>
+            <p xml:id="ppra-l45-updeps">
+              <pc type="pilcrow"/> unde notandum est quod praecepta affirmativa obligant semper et non pro semper <pc type="punctus"/> semper id est non quam est 
+              <lb ed="#P" n="22"/>dissentio sed executio non est nisi tempore et loco <pc type="virgula">/</pc> vel saltem debet occurrere sed negativa 
+              <lb ed="#P" n="23"/>obligant semper et pro semper
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e649">
+            <head xml:id="ppra-l45-Hqpafqn">Quod praecepta affirmativa obligant ad frequentius quam negativa</head>
+            <p xml:id="ppra-l45-ctiipn">
+              <pc type="pilcrow"/> Tamen est adhuc advertendum quod praecepta affirmativa obligant fortius frequentius 
+              <lb ed="#P" n="24"/>et pro semper 
+            </p>
+            <p xml:id="ppra-l45-uaisim">
+              <pc type="punctus"/> nec fundatur primum dictum bene <pc type="punctus"/> loquendo de impletione praecepti <pc type="virgula">/</pc> unde adimplere 
+              <lb ed="#P" n="25"/>praeceptum non est non facere prohibitem 
+              
+              <pc type="virgula">/</pc> nec sufficit ad hoc praeceptum nam sic quilibet dormiens adimpleret 
+              <lb ed="#P" n="26"/>sicut operans et vigilans quod absit et mereretur infinite <pc type="punctus"/> sed talis habituatio requirit materiam sive 
+              <lb ed="#P" n="27"/>praesentiam rei et motionem ad hoc ut patet de isto praecepto negativo non furaberit et iste nobi<lb ed="#P" break="no" n="28"/>lior 
+              est <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l45-epesim">
+              <pc type="pilcrow"/> Posset ymaginari aliud secundum quod voluntas resistat motioni id est quod non eligat velle <unclear>fi?a</unclear>
+              <lb ed="#P" n="29"/><unclear>nec</unclear> affirmativa nec negativo sed resistat et est unus 2us modus <pc type="pilcrow"/> Sed utrum sic sit vel non tenetur magis 
+              <lb ed="#P" n="30"/>prima via <pc type="punctus"/> 2a <del rend="strikethrough">non</del> scilicet propter praeceptum negativis respuitur omnimode <pc type="virgula">/</pc>
+            </p> 
+            <p xml:id="ppra-l45-esfnel">
+              unde frequentius obligamur et fortius 
+              <lb ed="#P" n="31"/>ad praecepta affirmativa quam negativa ut nomen est <pc type="virgula">/</pc> quia <!-- something else here?--> negativa non nisi materia occurrat <pc type="punctus"/> ut 
+              <lb ed="#P" n="32"/>patet de furto <pc type="punctus"/> quia nisi materia furti occurrat non <unclear>transg?e</unclear> diemur et ideo aliqui extra<lb ed="#P" break="no" n="33"/>xerunt 
+              se a mundo propter praecepta negativa et si dicatur quod obligat pro semper intelligitur partialiter 
+              <lb ed="#P" n="34"/>et non totaliter ita quod executio sit quae non occurrat etc
+            </p>
+            <p xml:id="ppra-l45-iopsiv">
+              <pc type="pilcrow"/> Quantum ad aliam rationem <unclear>nulla</unclear> 
+              <lb ed="#P" n="35"/>fruito cadit sub praecepto etc probabile est quod etiam teneatur creaturae in certo gradu frui deo secundum notitiam 
+              <lb ed="#P" n="36"/>habilem acquisitam vel confusam nam ad maiorem gradum obligatur praelatus quam vetula
+            </p>
+            <p xml:id="ppra-l45-usavtg">
+              nam 
+              <lb ed="#P" n="37"/>sicut aliqui obligantur frequentius ita intentius quantum ad gradum dilectionis <pc type="pilcrow"/> et quantum est ad 
+              <lb ed="#P" n="38"/>argumentum quod ad nullum gradum obligamur dicitur quod est sophisticum nec procedit ad mentem <pc type="punctus"/> et si 
+              <lb ed="#P" n="39"/>teneatur <pc type="punctus"/> dicitur quod non adimpleretur praeceptum quin esset consilium et non fruitur aliquis deo aliter 
+              <lb ed="#P" n="40"/>et per consequens non repugnaret quin idem actus sit praecepti et consilii
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e806">
+            <head xml:id="ppra-l45-Hconsio">Conclusio</head>
+            <p xml:id="ppra-l45-espdde">
+              <pc type="punctus"/> Et sic patet quo modo 
+              <lb ed="#P" n="41"/>tenemur frui deo et facere nos venire in actum fruitionis divinae <pc type="punctus"/> ut iam <unclear>sn?</unclear> dictum est <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l45-Dxxyy1">
+          <head xml:id="ppra-l45-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l45-axxyy3">
+            <lb ed="#P" n="42"/>Prima conclusio lectionis fuit in qua magister reprobat multas conclusiones de potentia dei prima est deus 
+            <lb ed="#P" n="43"/>non potest facere alia quae facit quia non potest nisi bonum quia quicquid agit ab aeterno 
+            <lb ed="#P" n="44"/>agit sapientissime et ordinatissime Tota radix stat in hoc et defficit in hoc quod iustum 
+            <lb ed="#P" n="45"/>et debitum etc nam eo ipso quod deus aliquid vult esse optimum est quia est tamquam regula recta qua 
+            <lb ed="#P" n="46"/>regulantur omnia nam tota resolutio iustitiae resolvitur ad primam regulam et ubi iudicium nostrum 
+            <lb ed="#P" n="47"/>non iudicat <pc type="punctus"/> sed in hoc videtur haerere suum imperfectionem nam aliqua sunt mala quae possunt fieri 
+            <lb ed="#P" n="48"/>bona unde dicunt aliqui de isto verbo debet quod deus non potest facere quae non debet <unclear>Tamen</unclear> si li debet 
+            <lb ed="#P" n="49"/>denotet decentiam conceditur si aliter negatur ut sit sensus quod deus non potest facere quae sunt indecentia 
+            <lb ed="#P" n="50"/>et turpia sive inconvenientia 
+          </p>
+          <p xml:id="ppra-l45-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio principalis multa deus posset velle sine facere qua non vellet et sic finis lectionis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

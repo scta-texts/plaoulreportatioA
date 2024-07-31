@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 23 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 23 [Bnf 3074 Transcription]</title>
+          <date when="2024-03-29">March 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-03-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="45-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio23">
+        <head xml:id="ppra-l23-Hd1e104">Lectio 23, de Notitia</head>
+        <div xml:id="ppra-l23-Dd1e107">
+          <head xml:id="ppra-l23-Htgntgn">
+            <supplied>Tres genera notitiae</supplied>
+          </head>
+          <p xml:id="ppra-l23-dfimoi">
+            <lb ed="#P" n="21"/>Consequenter circa materiam de notitiis quia prius visum fuit qualiter notitia non dicitur sui 
+            <lb ed="#P" n="22"/>obiecti notitia ratione similitudinis <pc type="virgula">/</pc> 2o quod nec ratione convenientiae essentialis <pc type="virgula">/</pc> 3o quod nec ratione specificae 
+            <lb ed="#P" n="23"/>conditionis <pc type="virgula">/</pc> Et 4o dicebatur quod hoc est ex modo habitudinum causarum proximarum etc
+          </p>
+          <p xml:id="ppra-l23-pcmseg">
+            Pro cuius materiae 
+            <lb ed="#P" n="24"/>declaratione advertendum est quod hic non loquor de notitia in creatura <pc type="virgula">/</pc> quia triplex quantum spectat ymaginatur 
+            <lb ed="#P" n="25"/>notitia <pc type="virgula">/</pc> prima est increata quae deus est <pc type="pilcrow"/> 2a notitia creata a deo intuitive <pc type="pilcrow"/> 3o notitia causata 
+            <lb ed="#P" n="26"/>ab obiecto sensibili
+          </p> 
+        </div>
+        <div xml:id="ppra-l23-Dd1e198">
+          <head xml:id="ppra-l23-dpndpn">
+            <supplied>De prima notitia</supplied>
+          </head>
+          <p xml:id="ppra-l23-qedped">
+            <pc type="pilcrow"/> Quantum est de prima notitia si quaeratur cuius est notitia <pc type="virgula">/</pc> dicitur quod cuiuslibet veri necessario <pc type="punctus"/> sive 
+            <lb ed="#P" n="27"/>sit complexus sive incomplexus et haec est ex immensitate suae perfectionis 
+          </p> 
+          <p xml:id="ppra-l23-pqncsi">
+            Et hoc consurgi primo quia non 
+            <lb ed="#P" n="28"/>stat quod sit substantia <del rend="strikethrough">suis</del> summe perfecta quin cognoscat omne cognoscibile <pc type="virgula">/</pc> quia si non cognosceret 
+            <lb ed="#P" n="29"/>et post ea cognosceret videtur quod esset in potentia ad adiscendum et quia repugnat quod sit in potentia ad aliquid 
+            <lb ed="#P" n="30"/>de novo <pc type="pilcrow"/> 2o fundatur ex virtuali et <unclear>superemi?ti</unclear> continentia quia deus est mundus archetipus 
+            <lb ed="#P" n="31"/>et impossibile est quod omnem veritatem ignoret quia qualiter est vel potest esse in ipso relucet <pc type="virgula">/</pc> et ideo 
+            <lb ed="#P" n="32"/>quia ita est vel potest esse taliter cognoscit <pc type="pilcrow"/> unde <ref xml:id="ppra-l23-Rd1e393" corresp="#ppra-l23-Qonesoe">apostolus ad hebraeos 4o</ref> <quote xml:id="ppra-l23-Qonesoe" source="http://scta.info/resource/hebr4_13">omnia nuda sunt et aperta in 
+            <lb ed="#P" n="33"/>oculis <unclear>domini</unclear></quote> Et <ref xml:id="ppra-l23-Rd1e422" corresp="#ppra-l23-Qoiiive"><title ref="#io">ioannis</title> primo</ref> <quote xml:id="ppra-l23-Qopiifs">omnia per ipsum facta sunt</quote> et alibi in eodem <quote xml:id="ppra-l23-Qoiiive" source="http://scta.info/resource/io1_4">Quod factum est in ipso 
+            <lb ed="#P" n="34"/>vita erat</quote> <pc type="pilcrow"/>Ex quibus oritur quod deus est necessario cuiuslibet veritatis notitia sive complexa sive incomplexa
+          </p> 
+        </div>
+        <div xml:id="ppra-l23-Dd1e458">
+          <head xml:id="ppra-l23-Hdsndsn">
+            <supplied>De secunda notitia</supplied>
+          </head>
+          <p xml:id="ppra-l23-dsvslv">
+            <lb ed="#P" n="35"/><pc type="pilcrow"/> Alia est notitia immediate ab ipso <unclear>derivata</unclear> et immediate ipsius repraesentativa sed unde consurgat 
+            <lb ed="#P" n="36"/>quod talis notitia sit notitia Est advertendum quod huiusmodi <pc type="virgula">/</pc> notitia sive complexa sive incomplexa proprie loquendo 
+            <lb ed="#P" n="37"/>potest dici ad placitum significativa non in quantum ad placitum humanum sed divinum Et hoc potest intelligi 
+            <lb ed="#P" n="38"/>uno modo quod deus se habens uniformiter adaequate et obiective vel effective concedendo producit notitias diversarum 
+            <lb ed="#P" n="39"/>specierum cum unico concursu <pc type="virgula">/</pc> et ista diversitas reducitur ad beneplacitum sic influentis <pc type="pilcrow"/> Simile est 
+            <lb ed="#P" n="40"/>in productione effectuum ad extra <pc type="virgula">/</pc> quia deus ut tenent multi et ego <pc type="punctus"/> quod agit immense ad 
+            <lb ed="#P" n="41"/>extra ita bene respectu vermis <pc type="punctus"/> sicut respectu hominis <pc type="punctus"/> et ista immensitas provenit a sua voluntate 
+            <lb ed="#P" n="42"/>eadem modo se ipso se habent
+          </p> 
+          <p xml:id="ppra-l23-eiqetr">
+            <pc type="pilcrow"/> Ita ymaginandus est gradus concursivus a quo provenient diversae 
+            <lb ed="#P" n="43"/>notitiae secundum suum beneplacitum <pc type="virgula">/</pc> Et sic sequitur quod una notitia sit plurium repraesentativa et hac ex diversitate 
+            <lb ed="#P" n="44"/>concursus in deo <pc type="punctus"/> sed ex voluntate sua <pc type="punctus"/> et sic talis notitia potest dici ad placitum significativa <pc type="pilcrow"/> 2o modo potest intelligi 
+            <lb ed="#P" n="45"/>huiusmodi notitia ad placitum dei significativa sic quod eadem notitia adaequate vel duae similes essentialiter sic se 
+            <lb ed="#P" n="46"/>haberent in prima ita quod una plus repraesentet vel significet vel significet quod alia <pc type="punctus"/> Et iuxta haec salvatur 
+            <lb ed="#P" n="47"/>quod cum ydemptitate specifica essentiali omnium visionum dei in patria salvatur diversitas visionum 
+            <lb ed="#P" n="48"/>quia licet ydemptitate specifica essentiali omnium visionum dei in patria salvatur diversitas eiusdem 
+            <lb ed="#P" n="49"/>speciei stat unam notitiam <unclear>prima</unclear> repraesentare quam alia et sic secundum hoc est visio <unclear>subli?o</unclear> vel 
+            <lb ed="#P" n="50"/>mansio et ergo sic staret quod anima christi cognosceret omnia quae verbum <pc type="punctus"/> et tamen sua notitia 
+            <lb ed="#P" n="51"/>non diversificatur essentialiter specie ab alia quae non esset tot repraesentativa
+          </p> 
+        </div>
+        <div xml:id="ppra-l23-Dd1e732">
+          <head xml:id="ppra-l23-Hdtndtn">
+            <supplied>De tertia notitia</supplied>
+          </head>
+          <p xml:id="ppra-l23-ateeie">
+            <pc type="pilcrow"/> 3us gradus est de 
+            <lb ed="#P" n="52"/>notitia causata ab obiecto vel ex notitiae intellectivis causatis assertionis notitiis <pc type="punctus"/> et de istis principaliter 
+            <lb ed="#P" n="53"/>est haec modum <pc type="pilcrow"/> pro quo notandum est quod notitia intuitiva magis sortitur motivitatem obiectalem in re<lb ed="#P" break="no" n="54"/>praesentando 
+            ita quod secundum rationem particularem et individualem secundum quam obiectum movet potentiam secundum hoc 
+            <lb ed="#P" n="55"/>notitia repraesentat obiectum ut si sortes obiciatur platoni secundum haec quod tale obiectum est cum tali habitudine vel 
+            <pb ed="#P" n="45-v"/>
+            <lb ed="#P" n="1"/>distantia et sic de aliis huiusmodi capit notitia quod sit huius repraesentativus nam sicut notitia capitur 
+            <lb ed="#P" n="2"/>secundum rationem individualem <pc type="punctus"/> ita repraesentat rem <pc type="punctus"/> Et ideo redditur causa quare duae notitiae 
+            <lb ed="#P" n="3"/>sunt eiusdem speciei et tamen non repraesentat eandem et hoc est quia alius <unclear>causavit</unclear> istum concursum <pc type="punctus"/> alius 
+            <lb ed="#P" n="4"/>alium non bene salvatur quod non possit hoc vel non repraesentare <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l23-eqpsde">
+            <pc type="pilcrow"/> Ex quilibet salvatur 
+            <lb ed="#P" n="5"/>proprie quod odium dei <pc type="punctus"/> non est essentialiter et proprie malum <pc type="virgula">/</pc> ubi est advertendum quod repraesentare sortem non 
+            <lb ed="#P" n="6"/>communicat conceptivus ex natura propria quia si ex natura propria competeret toti speciei <pc type="punctus"/> nec ex natura propria 
+            <lb ed="#P" n="7"/>quod sit huius notitia
+          </p>
+          <p xml:id="ppra-l23-decrso">
+            <pc type="pilcrow"/> unde conceptus platonis potest esse conceptus sortis de potentia absoluta <unclear>sumpto</unclear> quod 
+            <lb ed="#P" n="8"/>una res possit produci a causarum qualibet plurium particularium Et ponatur quod ad illum conceptum qui est <unclear>formatus</unclear> 
+            <lb ed="#P" n="9"/>ad platonem producendum idem a sorte <pc type="punctus"/> et idem conceptus et sic quilibet repraesentabit illum <pc type="punctus"/> a quo causatur 
+            <lb ed="#P" n="10"/>obiective 
+          </p> 
+          <!-- Fuzzy parallel -->
+          <p xml:id="ppra-l23-enipee">
+            <pc type="virgula">/</pc> et forte quod de primaria productione <pc type="virgula">/</pc> Sed et de conservatione ita quod si plato obiceretur ad conceptum 
+            <lb ed="#P" n="11"/>qui prius erat sortis esset conceptus platonis <pc type="punctus"/> et ubi circumscriberetur obiectis causalis utriusque <pc type="punctus"/> Et ergo 
+            <lb ed="#P" n="12"/>dico quod odium dei non est essentialiter malum <pc type="punctus"/>
+          </p> 
+        </div>
+        <div xml:id="ppra-l23-Dd1e1308">
+          <head xml:id="ppra-l23-Hoapoap">
+            <supplied>Obiectio ad propositum</supplied>
+          </head>
+          <p xml:id="ppra-l23-apeeem">
+            <pc type="pilcrow"/> unde quidam dicunt quod deus est causa mali 
+            <lb ed="#P" n="13"/>quia producit malum quod est intrinsece malum quia eius operatio propria est intrinsece malum quia creaturam 
+            <lb ed="#P" n="14"/>habet advertere a suo fine et haec est intrinsece malum <pc type="punctus"/> sicut si gravia traherentur sursum esset deordinatio 
+            <lb ed="#P" n="15"/>ita respectu ultimi finis Et ergo cum odium habeat <unclear>movere</unclear> creaturam in contrarium sui <del rend="strikethrough">obiecti</del> finis 
+            <lb ed="#P" n="16"/>deordinati creaturam et sic est res intrinsece mala <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l23-Dd1e1389">
+          <head xml:id="ppra-l23-Hraorao">Responsio ad obiectionem</head>
+          <p xml:id="ppra-l23-refiqd">
+            <pc type="pilcrow"/> Dicitur quod illa qualitas non est intrinsece odium 
+            <lb ed="#P" n="17"/>dei <pc type="punctus"/> ymmo posset produci et quod esset vitalis immutatio potentiae volitivae et non esset odium dei quia illud 
+            <lb ed="#P" n="18"/>est sibi extrinsecum ex falsis causis a quibus consurgit ut quod sit adversa etc et istud videtur 
+            <lb ed="#P" n="19"/>satis probabile
+          </p>
+        </div>
+        <div xml:id="ppra-l23-Dd1e1520">
+          <head xml:id="ppra-l23-Hanqaom">
+            <supplied>Alia notitia quae elicitur ex notitia immediate causata ab obiecti materiali</supplied>
+          </head>
+          <p xml:id="ppra-l23-auqaid">
+            <pc type="pilcrow"/> Ulterius advertendum est quod huiusmodi notitia de 3o genere quaedam est immediata causata 
+            <lb ed="#P" n="20"/>et restat dicere propter <unclear>q?dam</unclear> dicitur sui obiecti notitiam ab obiecto sensibili et ista sequitur motivitatem obiectalem 
+            <lb ed="#P" n="21"/>cum aliis concurrentibus <pc type="pilcrow"/> Alia est notitia quae oritur ex notitia ab obiecto causata et restat dicere 
+            <lb ed="#P" n="22"/>propter quid dicitur sui obiecti notitia <pc type="pilcrow"/> prima sequitur ex motivitate obiectali Ita de tali notitia elicita per intellectum 
+            <lb ed="#P" n="23"/>quod sequitur in repraesentando causalitatem causarum concurrentium ad illius productionem ita quod ad notitiam abstractivam 
+            <lb ed="#P" n="24"/>concurrit notitia sensitiva sed differenter est loquendum de notitia abstractive causata et de prima quia abstractiva 
+            <lb ed="#P" n="25"/>intellectiva est respectu cuius habet mensurari verbi gratia ponatur quod sint duae <del rend="strikethrough">non</del> potentiae cognoscere quarum 
+            <lb ed="#P" n="26"/>una sit in duplo perfectior alia <pc type="punctus"/> ut quod angelus uniatur materiae primae tunc notitia <del rend="strikethrough">causata</del> intuitiva 
+            <lb ed="#P" n="27"/>cauata in angelo et in sorte semper <unclear>sequetur</unclear> motivitatem obiectalem secundum rationem individualem sive 
+            <lb ed="#P" n="28"/>in potentia perfecta sive perfectissima <pc type="punctus"/> sed in causando notitias abstractivas ymaginandum est quod ipsa 
+            <lb ed="#P" n="29"/>potentia est principaliter causativa <pc type="pilcrow"/> unde cum eisdem notitiis immediate causatis ab obiecto potentia perfectior potest eligere 
+            <lb ed="#P" n="30"/>notitias abstractivas alterius speciei omnino et perfectiores <pc type="pilcrow"/> unde stabit quod angelus <del rend="strikethrough">qui est ea 
+            <lb ed="#P" n="31"/>principalis</del> <unclear>nec</unclear> eiusdem notitiae causatae ab obiecto sensitivo <pc type="virgula">/</pc> et si plures requirantur habeat ergo quaelibet plures 
+            <lb ed="#P" n="32"/>notitias tunc angelus qui est causa principalis videtur quod effectus debebit esse alterius speciei et <unclear>super</unclear> et per consequens 
+            <lb ed="#P" n="33"/>stabit quod erunt duo conceptus absoluti universales quorum quilibet supponet pro homine <del rend="strikethrough">pro hou</del> praecise 
+            <lb ed="#P" n="34"/>et tamen unus erit perfectioris speciei <pc type="punctus"/> quam alter quia hoc videmus in habentibus <unclear>cla?res</unclear> potentias
+          </p> 
+          <p xml:id="ppra-l23-ieiice">
+            <pc type="pilcrow"/> Unde ad 
+            <lb ed="#P" n="35"/>variationem causae particularis principissime variatur effectus et sic ascendendo potest haberi conceptus de homine 
+            <lb ed="#P" n="36"/>qui esset semper perfectior sicut conatus de homine potest esse unius speciei et post alterius <pc type="punctus"/> Et ymaginando rationem 
+            <lb ed="#P" n="37"/>ydealem et capiamus conceptum numerum respectu de li homo <pc type="virgula">/</pc> tunc inter istos duos conceptus sunt infiniti 
+            <lb ed="#P" n="38"/>conceptus formandi <pc type="virgula">/</pc> et sic stat aliquem terminum esse unicum cui correspondent diversi conceptus in specie <pc type="punctus"/> sed 
+            <lb ed="#P" n="39"/>illi conceptus supponunt pro eodem et sunt convertibiles <pc type="pilcrow"/> Ex quo patet quod secundum perfectiorem potentiam 
+            <lb ed="#P" n="40"/>requirit pauciores conceptus praemi immediati causati ab obiecto ad causandum notitias abstractivas quia 
+            <lb ed="#P" n="41"/>imperfectior requirit plura <unclear>ieiua?na</unclear> <pc type="pilcrow"/> Ex quo patet quod posset dari aliqua potentia ita perfecta quod ex quolibet conceptu 
+            <lb ed="#P" n="42"/>causato ab obiecto potest elicere conceptum dei sibi proprium <pc type="punctus"/> ubi notandum est quod sic creaturae habent 
+            <lb ed="#P" n="43"/>ordinem ad deum <pc type="punctus"/> ita notitiae creaturarum quamdam causalitatem primam respectu notitiae dei et quia potentia 
+            <lb ed="#P" n="44"/>perfecta huiusmodi habitudinem potest <unclear>perci?re</unclear> ubi alia non posset nisi ex maiori habitudine sequitur propositum <pc type="virgula">/</pc> sed quia 
+            <lb ed="#P" n="45"/>proportionatus potentia debilis est ideo requiruntur plures notitiae et secundum quod quid esset debilis ingenii 
+            <lb ed="#P" n="46"/>sed haec requireret plures notitias ad notitiam abstractivam
+          </p>
+        </div>
+        <div xml:id="ppra-l23-Dd1e2241">
+          <head xml:id="ppra-l23-Htmnmna">
+            <supplied>Tres modi notitiae abstractivae</supplied>
+          </head>
+          <p xml:id="ppra-l23-uaedie">
+            <pc type="punctus"/> tamen notitia abstractiva potest elici 
+            <lb ed="#P" n="47"/>multipliciter a notitiis causatis ab obiecto <pc type="pilcrow"/> uno modo quod ex una notitia eliciatur alia eiusdem speciei <pc type="punctus"/> et huius
+            <lb ed="#P" n="48"/>conatus abstractus est convertibilis cum alio in praedicando quare ambo supponunt pro sorte <pc type="pilcrow"/> Aliquando est notitia abstractiva 
+            <lb ed="#P" n="49"/>quae licet non supponat pro illis quod quibus supponunt convertibiliter notitiae a quilibet causantur tamen supponunt pro similibus 
+            <lb ed="#P" n="50"/>et sic causatur notitiae abstractivae universales nec convertibiliter <pc type="pilcrow"/> 3o modo potest fieri notitia abstractiva omnino <unclear>supponentes</unclear> 
+            <lb ed="#P" n="51"/>pro aliis et iste 3us modus est <unclear>affi?or</unclear> et hoc modo capitur notitia dei <pc type="punctus"/> quia ex notitia creaturarum et ex earum 
+            <lb ed="#P" n="52"/>notitiis notitia dei elicitur et causatur vigore intellectus <pc type="punctus"/> abstrahentis et tamen notitia dei <pc type="punctus"/> non 
+            <lb ed="#P" n="53"/>supponit pro aliquo eodem pro quo supponunt aliae notitiae praeviae et iste 3us modus est magis difficilis
+          </p>
+          <p xml:id="ppra-l23-scssle">
+            <lb ed="#P" n="54"/><pc type="pilcrow"/> Circa 2m modum potest esse dubium utrum sit essentialis ordo notitiarum abstractivarum <pc type="pilcrow"/> Sed quia hoc 
+            <lb ed="#P" n="55"/>tractatur in vico straminis ideo nihil vel parum ad praesens <pc type="punctus"/> nihilominus dicitur pro <unclear>ba?tis</unclear> quod notitia sortis non praesupponit 
+            <lb ed="#P" n="56"/>aliam notitiam universalem <pc type="punctus"/> nec praesupponit singulare vagum quia in sensu potest causari notitia determinata sortis in potentia 
+            <lb ed="#P" n="57"/>cognitiva et producitur actus quia ex quo agens est sufficiens et passio non videtur quin haec possit <pc type="pilcrow"/> Sed cum haec 
+            <pb ed="#P" n="46-r"/>
+            <lb ed="#P" n="1"/><unclear>s??</unclear> quod facilius est rem cognoscere confuse quod in particulari <pc type="pilcrow"/> Unde de eadem re <pc type="punctus"/> 
+            <lb ed="#P" n="2"/>in aequali distantia possunt habere duae potentiae notitias perfectiores et particulares sicut caecus sciens 
+            <lb ed="#P" n="3"/><del>clarius</del> <add place="above-line">dabile</add> videt quam non caecus sciens <pc type="punctus"/> et de hoc non est dubium <pc type="pilcrow"/> Quantum est de ordine 
+            <lb ed="#P" n="4"/>unibilium inter se quoniam dato primo unibili descendendo utrum sit processus et utrum possint 
+            <lb ed="#P" n="5"/>tot a nobis causari videbitur deo dante <pc type="punctus"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 66 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 66 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-16">July 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="70-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio66">
+        <head xml:id="ppra-l66-Hldtldt">Lectio 66, de Trinitate</head>
+        <div xml:id="ppra-l66-Dd1e109">
+          <head xml:id="ppra-l66-Hudesdc">Utrum divina essentia possit communicare suas denominationes concretivas?</head>
+          <p xml:id="ppra-l66-avasdc">
+            <lb ed="#P" n="50"/>Consequenter prosequendo in materiam videndum est unde consurgunt denominationes concretive 
+          </p>
+        </div>
+        <div xml:id="ppra-l66-Dd1e118">
+          <head xml:id="ppra-l66-Hhvhvhv">Habitudines unibilium</head>
+          <p xml:id="ppra-l66-pqsemh">
+            pro quo 
+            <lb ed="#P" n="51"/>primo est advertendum quod in eis <del rend="strikethrough">multitudo</del> habitudo multiplex reperitur 
+          </p>
+          <p xml:id="ppra-l66-peppec">
+            prima potentia praesentiae et coexistentiae
+          </p> 
+          <p xml:id="ppra-l66-shpess">
+            <pc type="pilcrow"/> 2a potest esse subiective 
+            <lb ed="#P" n="52"/>dependentiae nam licet ab agente primo effectus posset totaliter conservari divinae <pc type="virgula">/</pc> forma tandem habet quamdam 
+            <lb ed="#P" n="53"/>dependentiam respectu subiecti <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l66-thedpm">
+            <pc type="pilcrow"/> 3a habitudo est potentiae deductivae unde formae substantiales et accidentales praeter animam educuntur 
+            <lb ed="#P" n="54"/>de potentia materiae
+          </p>
+          <p xml:id="ppra-l66-aehcis">
+            <pc type="pilcrow"/> Alia potentia est unitorum per modum partium eiusdem rationis sicut duorum graduum albedinis inter se 
+          </p>
+          <p xml:id="ppra-l66-aehhes">
+            <lb ed="#P" n="55"/><pc type="pilcrow"/> Alia eest impressionis et actuationis sicut sigilli ad ceram <pc type="punctus"/> unde sigillum caratherizat et actuat <pc type="punctus"/> Ita forma 
+            <lb ed="#P" n="56"/>et sicut per substractionem nihil remanet in sigillo <pc type="punctus"/> sed in cera vestigium <pc type="punctus"/> Ita de forma per sustractionem a subiecto
+          </p>
+          <p xml:id="ppra-l66-sheias">
+            <pb ed="#P" n="71-r"/>
+            <lb ed="#P" n="1"/><pc type="pilcrow"/> 6a potentia <unclear>imitentia</unclear> vel <unclear>iusus</unclear> in aliqua subsistentia 
+          </p> 
+        </div>
+        <div xml:id="ppra-l66-Dd1e149">
+          <head xml:id="ppra-l66-Hpchchm">Propositiones circa hanc materiam</head>
+          <p xml:id="ppra-l66-ipppdm">
+            <pc type="pilcrow"/> Istis praelibatis ponuntur aliquae propositiones 
+          </p>
+          <div xml:id="ppra-l66-Dd1e157">
+            <head xml:id="ppra-l66-Hprpprp">Prima propositio</head>
+            <p xml:id="ppra-l66-peliss">
+              <lb ed="#P" n="2"/>prima est licet quaelibet forma tantae communicetur vi unionis quantae est in sua essentia nulla tamen forma denominat omnes 
+              <lb ed="#P" n="3"/>suas denominationes suae formae 
+            </p>
+            <p xml:id="ppra-l66-ppdrmq">
+              <pc type="pilcrow"/> primum patet de formis substantialibus nam penes has quantificatur gradus 
+              <lb ed="#P" n="4"/>perfectionis rerum compositarum <pc type="punctus"/> igitur forma communicat se <pc type="punctus"/> secundum omnes suas denominationes et ita diceretur de actibus
+            </p>
+            <p xml:id="ppra-l66-iiflse">
+              <lb ed="#P" n="5"/><pc type="pilcrow"/> Item influxus formalis est pure naturalis igitur forma communicat se secundum totam latitudinem suae essentiae
+            </p>
+            <p xml:id="ppra-l66-ieqdec">
+              <lb ed="#P" n="6"/><pc type="pilcrow"/> Item ex quo forma est pars videtur quod constitutum contineat totam perfectione <pc type="virgula">/</pc> 2a pars propositionis patet 
+              <lb ed="#P" n="7"/>quoniam vi communicationis animae homo denominatur vivens <pc type="punctus"/> liber et sic de talibus quae formae competere homini et 
+              <lb ed="#P" n="8"/>non tamen forma communicat omnes <pc type="punctus"/> <pc type="pilcrow"/> primo quoniam anima indivisibilis est et sic non communicat hoc praedicatum constitutum quia divisibile 
+              <lb ed="#P" n="9"/>et corruptibile est <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l66-iannea">
+              <pc type="pilcrow"/> Item etiam non communicat propriam suam denominationem ut satis est nomen
+            </p>
+            <p xml:id="ppra-l66-isasid">
+              <pc type="pilcrow"/> Item si animae 
+              <lb ed="#P" n="10"/>remaneret denominatio concretiva suppositibilis non communicaret sibi esse animam igitur etc
+            </p>
+            <p xml:id="ppra-l66-cpsspp">
+              <pc type="pilcrow"/> Ex quo infertur 
+              <lb ed="#P" n="11"/>istud correlarium quod vi unionis in nullo communicat anima et constitutum <pc type="virgula">/</pc> . nam aliud est vivere homini et aliud vivere 
+              <lb ed="#P" n="12"/>animae <pc type="punctus"/> non tamen dico quin sint unum compositum sed dico quod anima non est homo realiter et hoc est contra 
+              <lb ed="#P" n="13"/>multos doctores qui dicunt quod constitutum ydemptificatur animae et quod homo realiter est ipse intellectus et 
+              <lb ed="#P" n="14"/>istius oppinionis fuit <name>hugo de sancto victore</name> et <name>magister guillemus parisiensis</name> <pc type="pilcrow"/> Sed salva eorum reverentia 
+              <lb ed="#P" n="15"/>ex hoc multa sequerentur inconvenientia quae tamen causa brevitatis pro nunc dimittuntur <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l66-suqneh">
+              <pc type="pilcrow"/> Ulterius 
+              <lb ed="#P" n="16"/>sequitur quod ex unione informativa non consurgit tanta unio vel etc quanta ex unione ypostatica 
+              <lb ed="#P" n="17"/>patet de angelo si communicaret se formae <pc type="punctus"/> qui tamen si communicaret verbo haberet hanc denominationem
+            </p>
+          </div>
+          <div xml:id="ppra-l66-Dd1e220">
+            <head xml:id="ppra-l66-Hspspsp">Secunda propositio</head>
+            <p xml:id="ppra-l66-uppcsf">
+              <pc type="pilcrow"/> Ulterius 
+              <lb ed="#P" n="18"/>de ratione informationis est carere ratione suppositali <pc type="punctus"/> licet tamen huiusmodi rationem non communicet suo formali 
+            </p>
+            <p xml:id="ppra-l66-sspsea">
+              <lb ed="#P" n="19"/><pc type="pilcrow"/> 2m satis patet quia <del rend="strikethrough">nisi</del> in casu iam posito de angelo non communicante hanc denominationem
+            </p>
+            <p xml:id="ppra-l66-ppnaai">
+              <pc type="pilcrow"/> 2a pars est quod 
+              <lb ed="#P" n="20"/>informaret desineret suppositum 
+            </p>
+            <p xml:id="ppra-l66-iehdes">
+              Et sic patet quod deus non potest realiter influere vel informare quia 
+              <lb ed="#P" n="21"/>iam desineret esse suppositum
+            </p>
+          </div>
+          <div xml:id="ppra-l66-Dd1e247">
+            <head xml:id="ppra-l66-Htptptp">Tertia propositio</head>
+            <p xml:id="ppra-l66-apdsrs">
+              <pc type="pilcrow"/> Alia propositio denominatio concretiva quae communicatur vi informationis tendit 
+              <lb ed="#P" n="22"/>in subsistentiam et rationem suppositibilem ultimatae et non proprie in subiectum informabile quod immediate informat 
+              <lb ed="#P" n="23"/>patet de anima nostra quia non communicat subiecto suo quod sit homo <pc type="punctus"/> nec naturae quod sit homo <pc type="punctus"/> licet actuet 
+              <lb ed="#P" n="24"/>ipsum <pc type="punctus"/> sed solum recipit subsistentiam eius <pc type="punctus"/> et sic ultimate denominatio concretiva est in hoc 
+            </p> 
+            <p xml:id="ppra-l66-eisers">
+              <pc type="pilcrow"/> Ex quo sequitur 
+              <lb ed="#P" n="25"/>contra <name>magistrum iohannem de rippa</name> quod licet deus communicaret suam deitatem <pc type="virgula">/</pc> nihilominus non denominaaret 
+              <lb ed="#P" n="26"/>etc deum quia denominaret denominatione bina scilicet dei et accidentaliter dei <pc type="virgula">/</pc> patet satis ex radice praetacta <pc type="punctus"/> quia 
+              <lb ed="#P" n="27"/>tales denominationes non tendit in <unclear>formalitatibus insustentibus</unclear> 
+            </p>
+            <p xml:id="ppra-l66-suqasa">
+              <pc type="pilcrow"/> Ulterius sequitur quod communicatio huiusmodi denominationum non 
+              <lb ed="#P" n="28"/>est intrinsece limitata ad aliquid absolute patet quia contingenter <del>deus</del> competit naturae <pc type="punctus"/> ex eo quod deper<lb ed="#P" break="no" n="29"/>deret 
+              suam denominationem <pc type="virgula">/</pc> et forte ita ab angelot sic vis denominationis concretivae non est ad aliquam 
+              <lb ed="#P" n="30"/>susistentiam absolute
+            </p> 
+            <p xml:id="ppra-l66-suqrfc">
+              <pc type="pilcrow"/> Ulterius sequitur quod si unio verbi reducatur ad unionem formalem tunc 
+              <lb ed="#P" n="31"/>humanitas magis rationem habebit formae quam formabilis patet hoc de humanitate et verbo nullam communicat 
+              <lb ed="#P" n="32"/>denominationem sed suscipit 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l66-Dd1e279">
+          <head xml:id="ppra-l66-Hpprppr">Plus propositiones</head>
+          <p xml:id="ppra-l66-upiuis">
+            <pc type="pilcrow"/> Ulterius pro maiori declaratione ponuntur aliquae propositiones quae possunt 
+            <lb ed="#P" n="33"/>sequi ex dictis scilicet de habitibus unibilium 
+          </p>
+          <div xml:id="ppra-l66-Dd1e287">
+            <head xml:id="ppra-l66-Hpmppmp">Prima propositio</head>
+            <p xml:id="ppra-l66-peqdav">
+              <pc type="pilcrow"/> primo ratione praesentiae vel coexistentiae non consurgunt 
+              <lb ed="#P" n="34"/>denominationes concretivae patet quia aliter anima separat a corpore existens in aere denominaret aerem 
+            </p>
+            <p xml:id="ppra-l66-cdquaa">
+              <lb ed="#P" n="35"/><pc type="virgula">/</pc> 2o nec ex habitudine 2a vel 3a scilicet potentiae subiective vel educitive <pc type="punctus"/> quoniam staret quod anima vel alia forma 
+              <lb ed="#P" n="36"/>a solo deo conservaretur et nihilominus communicaret denominationem concretivam subsistentiae constitutae
+            </p>
+            <p xml:id="ppra-l66-neuuaa">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="37"/>nec ex unione partium constitutivorum 
+            </p>
+          </div>
+          <div xml:id="ppra-l66-Dd1e305">
+            <head xml:id="ppra-l66-Hsapsap">Secunda propositio</head>
+            <p xml:id="ppra-l66-apeaei">
+              <pc type="pilcrow"/> Alia propositio ex duabus ultimis habitualibus consurgit denominatio 
+              <lb ed="#P" n="38"/>concretiva
+            </p>
+            <p xml:id="ppra-l66-ueasqs">
+              <pc type="pilcrow"/> Ubi notandum est quod forma communicat isti materiae intrinsece et est inclinatio vel nisus in aliud 3m et 
+              <lb ed="#P" n="39"/>consurgit denominatio concretiva per quam tendit in aliud hoc patet discurrendo per omnes habitudines <pc type="virgula">/</pc> et ista 
+              <lb ed="#P" n="40"/>videtur sufficere
+            </p>
+            <p xml:id="ppra-l66-suqhdc">
+              <pc type="pilcrow"/> Ex istis sequitur quod forma non sufficit quia realiter denominat materiam sed non provivat 
+              <lb ed="#P" n="41"/>et sic requiritur denominatio concretiva tamquam ad subsistentiam <pc type="virgula">/</pc> Et sequitur etiam quod si per impossibile materia prima 
+              <lb ed="#P" n="42"/>esset suppositum vel susitentia vel suppositum totius agregati tunc realiter esset homo et agregatum non <pc type="virgula">/</pc> patet 
+              <lb ed="#P" n="43"/>quia vi aggregationis extrinsece consurgit huiusmodi denominatio
+            </p>
+            <p xml:id="ppra-l66-suqscd">
+              <pc type="pilcrow"/> Ulterius sequitur quod receptio denominationum 
+              <lb ed="#P" n="44"/>concretivorum dicit perfectionem <pc type="punctus"/> et dare imperfectionem <pc type="punctus"/> patet qui recipere est esse in quod tendunt daemones 
+              <lb ed="#P" n="45"/>dare autem includit initi et sic tendit ad imperfectionem 
+            </p>
+            <p xml:id="ppra-l66-usqtei">
+              <pc type="pilcrow"/> Ulterius sequitur quod deus si posset 
+              <lb ed="#P" n="46"/>recipere denominationes tales nullo modo posset dare patet hoc per praedictam <del>quia</del> 
+            </p>
+            <p xml:id="ppra-l66-ehpqdi">
+              Et sic hoc est contra dicta 
+              <lb ed="#P" n="47"/><name>magistri iohannes de rippa</name> scilicet quod possit modum formae actuantis et quod humanitas christi sit vi unionis 
+              <lb ed="#P" n="48"/>verbi ad humanitatem sit deus realiter quia hoc includit quamdam intentionem 
+            </p>
+            <p xml:id="ppra-l66-edqmff">
+              Et dato quod competeret sibi 
+              <lb ed="#P" n="49"/>competeret et non naturae assumptae <pc type="punctus"/> Et hoc de primo puncto quod non potest communicare informative
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l66-Dxxyy1">
+          <head xml:id="ppra-l66-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l66-axxyy3">
+            <lb ed="#P" n="50"/><pc type="pilcrow"/> Secuntur conclusiones lectionis supra distinctionem 16am <pc type="virgula">/</pc> prima conclusio de hoc quod dicitur facimaus hominem ad ymaginem etc 
+            <lb ed="#P" n="51"/>In hoc denominantur vel <unclear>denominant</unclear> operatio dei in hominem scilicet 3m personarum trinitatis per hoc quod dicit faciamus 
+            <lb ed="#P" n="52"/>et per hoc solvitur quando quaeritur cui dicebat deus faciamus <pc type="virgula">/</pc> dicitur quod filio et spiritui sancto licet idem deus et non mirum 
+            <lb ed="#P" n="53"/>nam rex mundialis subterrenus bene dicit faciamus sine aliquod tale per ymaginem dei intelligitur vita 
+            <lb ed="#P" n="54"/>sive denominatur
+          </p>
+          <p xml:id="ppra-l66-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio ymago est relatus terminus et sic relative se habet
+          </p>
+          <p xml:id="ppra-l66-axxyy5">
+            <pc type="pilcrow"/> 3a filius est ymago patris scilicet sapientia 
+          </p>
+          <p xml:id="ppra-l66-axxyy6">
+            <lb ed="#P" n="55"/><pc type="pilcrow"/> 4a conclusio homo secundum animam factus dicitur ad dei ymaginationem <pc type="virgula">/</pc> nam in anima multae sunt potentiae quibus deo assistatur sicut intellectus ratio etc 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

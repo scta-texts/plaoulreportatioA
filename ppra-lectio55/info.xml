@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio55">
+      <head xml:id="ppra-l55-Hldfldf">Lectio 55, de Fruitione</head>
+      <div xml:id="ppra-l55-Dd1e104">
+        <head xml:id="ppra-l55-Hrdprdp">Recapitulatio duo puncti</head>
+        <p xml:id="ppra-l55-sqtmpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l55-sqtmpd"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-sqtmpd"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l55-Dd1e113">
+        <head xml:id="ppra-l55-Hrardsa">Responsio ad rationes quod una persona potest diligi sine
+          alia</head>
+        <div xml:id="ppra-l55-Dd1e118">
+          <head xml:id="ppra-l55-Hapapap">Ad primam</head>
+          <!--
+              Doesn't seem present, but pretty fuzzy here
+              <p xml:id="ppra-l55-depdev">
+              <cit>
+                <ref xml:id="ppra-l55-Rd1e127" target="http://scta.info/resource/l54-cdadsp">Dictum est prius in lectione praecedenti</ref>
+              </cit>
+              quod sicut Deus est sub ratione 
+              trinitatis obiectum fruibile, ita non potest deus vel divina essentia 
+              vel una persona diligi vel videri quin quaelibet diligatur 
+              et videatur.
+            </p>-->
+          <p xml:id="ppra-l55-ctpesp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-ctpesp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-ctpesp"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-l55-rehepa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-rehepa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-rehepa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-upacsf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-upacsf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-upacsf"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l55-shucdh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-shucdh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-shucdh"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e174">
+          <head xml:id="ppra-l55-Hasasas">Ad secundam</head>
+          <p xml:id="ppra-l55-asrqei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-asrqei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-asrqei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-pdrvsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-pdrvsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-pdrvsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-apdspd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-apdspd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-apdspd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e207">
+          <head xml:id="ppra-l55-atatat">Ad tertiam</head>
+          <p xml:id="ppra-l55-atqeee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-atqeee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-atqeee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e222">
+          <head xml:id="ppra-l55-Haqaqaq">Ad quartam</head>
+          <p xml:id="ppra-l55-qasidc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-qasidc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-qasidc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-aqhhnc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-aqhhnc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-aqhhnc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e245">
+          <head xml:id="ppra-l55-Haquaqu">Ad quintam</head>
+          <p xml:id="ppra-l55-qtqsio">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-qtqsio"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-qtqsio"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e263">
+          <head xml:id="ppra-l55-Hasxasx">Ad sextam</head>
+          <p xml:id="ppra-l55-asqvct">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-asqvct"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-asqvct"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e278">
+          <head xml:id="ppra-l55-asease">Ad septimam</head>
+          <p xml:id="ppra-l55-asdams">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-asdams"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-asdams"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l55-Dd1e291">
+        <head xml:id="ppra-l55-Hrarars">Responsiones ad Rationes Scoti</head>
+        <div xml:id="ppra-l55-Dd1e296">
+          <head xml:id="ppra-l55-Hrsrsrs">Rationes Scoti</head>
+          <p xml:id="ppra-l55-arsetv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-arsetv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-arsetv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-eppcsa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-eppcsa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-eppcsa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e335">
+          <head xml:id="ppra-l55-Hcsosoo">Contra Scotum: Opinio Ockham</head>
+          <p xml:id="ppra-l55-ciinde">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-ciinde"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-ciinde"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e347">
+          <head xml:id="ppra-l55-Hcsoodr">Contra Scotum: Opinio de Rippa</head>
+          <p xml:id="ppra-l55-aadtei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-aadtei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-aadtei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-ssqrid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-ssqrid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-ssqrid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e368">
+          <head xml:id="ppra-l55-Hpcopco"><name ref="#peter-plaoul">Plaoul</name> Contra <name
+              ref="#Ockham">Ockham</name></head>
+          <!-- not really present 
+              <p xml:id="ppra-l55-bntedr">
+              Breviter non teneo <name ref="#Scotus">scotum</name> quantum ad hoc, tamen 
+              posset responderi ad rationem <name ref="#Ockham">okam</name> et <name ref="#Ripa">de Rippa</name>.
+            </p>-->
+          <p xml:id="ppra-l55-arosap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-arosap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-arosap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-atdslt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-atdslt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-atdslt"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l55-adernc"> 
+              <pb ed="#SV" n="266-r"/>
+              <cb ed="#SV" n="a"/>
+              Aliter datur exemplum in quo nulla est acquisitio vel deperditio 
+              alicuius Rei nec etiam lapsus temporis. nam capiamus istam propositionem 
+              in principio mundi et ponamus quod deus creaverit mundum 
+              successive ista est vera mundus incipit esse per Remotionem 
+              de praesenti et  tamen nulla creatura est, quia vera 
+              est per Remotionem de praesenti. et sic conceditur quod inciperet esse et tamen 
+              nihil esset tempus. signemus, ergo instans inceptionis mundi, 
+              mundus incipit esse et hoc propositio est vera per Remotionem de praesenti, 
+              et sua contradictoria ab aeterno usque tunc fuit vera et tamen nulla mutatio 
+               est, quia nulla creatura est quia incipit per Remotionem de 
+              praesenti. et sic quantum ad hoc patet quod ratio non concludit.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l55-Dd1e407">
+          <head xml:id="ppra-l55-Hpcdcdr">Plaoul Contra de Rippa</head>
+          <p xml:id="ppra-l55-ardiid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-ardiid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-ardiid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l55-Dd1e428">
+          <head xml:id="ppra-l55-Hpcspcs">Plaoul Contra Scotum</head>
+          <p xml:id="ppra-l55-artnar">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-artnar"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-artnar"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-sdesem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-sdesem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-sdesem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-arepsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-arepsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-arepsp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l55-uiifim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l55-uiifim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l55-uiifim"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l55-Dxxyy1">
+        <head xml:id="ppra-l55-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l55-axxyy3">
+        </p>
+        <p xml:id="ppra-l55-axxyy4">
+        </p>
+        <p xml:id="ppra-l55-axxyy5">
+        </p>
+        <p xml:id="ppra-l55-axxyy6">
+        </p>
+        <p xml:id="ppra-l55-axxyy7">
+        </p>
+        <p xml:id="ppra-l55-axxyy8">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

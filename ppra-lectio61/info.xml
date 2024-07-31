@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio61">
+      <head xml:id="ppra-l61-Hldtldt">Lectio 61, de Trinitate</head>
+      <div xml:id="ppra-l61-Dd1e109">
+        <head xml:id="ppra-l61-Hcmdmdf">Continuandum materia de formalitatibus</head>
+        <p xml:id="ppra-l61-imdced">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l61-imdced"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-imdced"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l61-Dd1e119">
+          <head xml:id="ppra-l61-Hppdpdr">Plus propositiones de Rippa</head>
+          <p xml:id="ppra-l61-ecpidr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l61-ecpidr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-ecpidr"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l61-Dd1e130">
+            <head xml:id="ppra-l61-Hppoppo">Prima propositio:</head>
+            <p xml:id="ppra-l61-ppcaps">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-ppcaps"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-ppcaps"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e139">
+            <head xml:id="ppra-l61-Hspospo">Secunda propositio</head>
+            <p xml:id="ppra-l61-sphpao">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-sphpao"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-sphpao"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e152">
+            <head xml:id="ppra-l61-Htpotpo">Tertia propositio</head>
+            <p xml:id="ppra-l61-eeipve">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-eeipve"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-eeipve"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e162">
+            <head xml:id="ppra-l61-Hqpoqpo">Quarta propositio</head>
+            <p xml:id="ppra-l61-eispgi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-eispgi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-eispgi"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e171">
+            <head xml:id="ppra-l61-Hqapqap">Quinta propositio</head>
+            <p xml:id="ppra-l61-ascidr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-ascidr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-ascidr"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l61-secuae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-secuae"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-secuae"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l61-Dd1e189">
+          <head xml:id="ppra-l61-Hppdpsr">Plus propositiones de Rippa</head>
+          <!-- extremely fuzzy but does not seem present -->
+          <!--<p xml:id="ppra-l61-eiiiap">
+              Ex ista imaginatione <name ref="#Ripa">de Rippa</name> 
+              infert aliquas propositiones.
+            </p>-->
+          <!-- extremely fuzzy but does not seem present -->
+          <!--<div xml:id="ppra-l61-Dd1e200">
+              <head xml:id="ppra-l61-Hpappap">Prima propositio</head>
+              <p xml:id="ppra-l61-peqhpg">
+                Prima est quanto res est perfectior tanto est compotior.
+                Patet de utraque compositione. 
+                Patet primo de compositione graduum 
+                quia quanto res est perfectior tanto magis participat rationem 
+                entis et quanto magis participat rationem entis tanto 
+                habet plures gradus in esse entis, 
+                et ita in aliis perfectionibus 
+                <pb ed="#SV" n="273-r"/>
+                <cb ed="#SV" n="a"/>
+                quia quanto magis participat esse vivens tanto habet plures gradus 
+                in esse vivendi et per consequens compotior ex quo habet plures gradus.
+              </p>
+              <p xml:id="ppra-l61-sechcc">
+                Secundo est compotior quantum ad rationes formales, quia quanto 
+                est perfectior tanto habet plures rationes formales correspondentes 
+                denominationibus perfectionibus et secundum numerum huiusmodi praedicatorum 
+                essentialium et perfectionalium est numerus rationum formalium 
+                huiusmodi compositioni constitutium.
+              </p>
+            </div>-->
+          <div xml:id="ppra-l61-Dd1e216">
+            <head xml:id="ppra-l61-Hsapsap">Secunda propositio</head>
+            <p xml:id="ppra-l61-siqfic">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-siqfic"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-siqfic"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e225">
+            <head xml:id="ppra-l61-Htaptap">Tertia propositio</head>
+            <p xml:id="ppra-l61-apipas">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-apipas"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-apipas"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e235">
+            <head xml:id="ppra-l61-Hqtpqtp">Quarta propositio</head>
+            <p xml:id="ppra-l61-apsmve">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-apsmve"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-apsmve"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l61-Dd1e247">
+            <head xml:id="ppra-l61-Hqnpqnp">Quinta propositio</head>
+            <p xml:id="ppra-l61-cearid">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-cearid"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-cearid"
+                />
+              </assertions>
+            </p>
+            <!-- parallel very fuzzy -->
+            <p xml:id="ppra-l61-qapers">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-qapers"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-qapers"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l61-qassav">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l61-qassav"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-qassav"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <!--
+            doesn't seem present
+            <div xml:id="ppra-l61-Dd1e269">
+            <head xml:id="ppra-l61-Hrprrpr">Ratio pro repetitione</head>
+            <p xml:id="ppra-l61-qpmdff">
+              Quia praesens materia difficilis 
+              est ad capiendum specialiter iuvenibus et non assuetis, 
+              Ideo recitatis opinionibus doctorum et aliqualiter declaratis 
+              faciam finem.
+            </p>
+          </div>-->
+      </div>
+      <div xml:id="ppra-l61-Dxxyy1">
+        <head xml:id="ppra-l61-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l61-axxyy1">
+        </p>
+        <p xml:id="ppra-l61-axxyy2">
+        </p>
+        <p xml:id="ppra-l61-axxyy3">
+        </p>
+        <p xml:id="ppra-l61-axxyy4">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

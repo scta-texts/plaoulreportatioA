@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 27 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 27 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-01">May 01, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio27">
+        <head xml:id="ppra-l27-Hldnldn">Lectio 27, de Notitia</head>
+        <div xml:id="ppra-l27-Dd1e107">
+          <head xml:id="ppra-l27-Hudeats">Utrum Deus et creatura possint univoce per aliquem terminum
+            significari?</head>
+          <p xml:id="ppra-l27-saiagp">
+            <lb ed="#P" n="2"/>Consequenter videndum est de 3o articulo videlicet <del rend="strikethrough">in quo genere praedicamento istae terminus deus reponatur</del>
+            <lb ed="#P" n="3"/>utrum deus et <seg type="correction"><del rend="expunctuation">i</del>creatura</seg> possint univocari 
+          </p>
+          <p xml:id="ppra-l27-htacea">
+            <pc type="punctus"/> unde doctores non movent istam materiam 
+            <lb ed="#P" n="4"/>sed ad tractandum aliqua logicalia materiae competentia ad <unclear>magnitudinem</unclear> divinam essentiam et excellentiam
+          </p>
+          <p xml:id="ppra-l27-ebdess">
+            <lb ed="#P" n="5"/>unde tradunt doctores quod tanta est divina essentia et excessus dei super creaturas quod 
+            <lb ed="#P" n="6"/>non potest singulari univoce cum creatura nec in eadem praedicamento reponi <pc type="pilcrow"/> et ad hoc multum confert 
+            <lb ed="#P" n="7"/>ymaginatio <name>aristotelis</name> de accidente et substantia <pc type="pilcrow"/> unde ymaginatur quod accidens ratione suae dependentiae et 
+            <lb ed="#P" n="8"/>effectum intrinsecae perfectionis non est proprie ens sed in existens ita quod substantia est sibi subsistere
+            <lb ed="#P" n="9"/>solum ita proportionaliter est ymaginandum de creatura respectu dei <pc type="punctus"/> quod deus est subsistere creaturae quia ab ipso dependent
+          </p>
+        </div>
+        <div xml:id="ppra-l27-Dd1e260">
+          <head xml:id="ppra-l27-Hogpogp">Opinio Guillelmi Parisiensis</head>
+          <p xml:id="ppra-l27-ehemeh">
+            <lb ed="#P" n="10"/>et haec est oppinio <name>guillemi parisiensis</name> qui dicit quod esse convenit deo proprie et creaturae denominative et extrinsece 
+            <lb ed="#P" n="11"/>et ponit quod deus habet unam causalitatem respectu creaturae quam non noverunt philosophi et illa est causatas 
+            <lb ed="#P" n="12"/>qua ipse est magis intimus nobis quam nos ipsis nobis <pc type="punctus"/> Et ideo ipse est quasi substantia creaturarum et 
+            <lb ed="#P" n="13"/>conservat eas in esse se ipso <pc type="virgula">/</pc> Et ex ista radice fundat inclinationem quam habet creaturam adesse 
+            <lb ed="#P" n="14"/>et dicit quod talis inclinatio est tendentia creaturae in dei dilectionem <pc type="virgula">/</pc> et illud esse est realiter deus 
+            <lb ed="#P" n="15"/>ideo illud esse est res valde appetibilis
+          </p>
+          <p xml:id="ppra-l27-ippdec">
+            <pc type="pilcrow"/> Tunc potest ymaginari quod non habeatur conceptus 
+            <lb ed="#P" n="16"/>unicus creaturae et dei quia considerando habitudinem accidentis ad substantiam habemus quod li ens non dicitur 
+            <lb ed="#P" n="17"/>proprie de accidente univoce et de substantia Ita creatura non habet proprie esse sed per modum accidentis se 
+            <lb ed="#P" n="18"/>habet ad deum esse et habet maiorem dependentiam ad deum quam accidens ad subiectum quia representet 
+            <lb ed="#P" n="19"/>absolute accidens esse sine subiecto et hoc respraesentaret creaturae et sic habitudo maior reperitur creaturae 
+            <lb ed="#P" n="20"/>ad deum Et ergo si <name>aristoteles</name> negaverit univocationem accidentis et substantiae ita creaturae et dei
+          </p>
+          <p xml:id="ppra-l27-veqiim">
+            <pc type="pilcrow"/> Sed philosophi 
+            <lb ed="#P" n="21"/>non consideraverunt huiusmodi particulares habitudines ymmo creaturas posuerunt esse necesse esse <pc type="punctus"/>
+            <lb ed="#P" n="22"/>ymmo accidentia scilicet lucem solis et ideo non viderunt ista particularia quae sunt nobis revelata 
+            <lb ed="#P" n="23"/>qua propter si percepissent istam habitudinem dei ad creaturam non posuisset univocationem 
+            <lb ed="#P" n="24"/><pc type="pilcrow"/> Ulterius videtur etiam quod non sit inter ista univocatio quoniam <name>avicena</name> ponit in sua 
+            <lb ed="#P" n="25"/>metaphysica quod deus non est in aliquo genere <pc type="punctus"/> et sic praehabita probatione ista videndum est qualiter doctores 
+            <lb ed="#P" n="26"/>in hoc procedunt
+          </p>
+        </div>
+        <div xml:id="ppra-l27-Dd1e513">
+          <head xml:id="ppra-l27-Hososos">Opinio Scoti</head>
+          <p xml:id="ppra-l27-qahcad">
+            <pc type="pilcrow"/> Et igitur primo quantum ad hoc doctor subtilis dicit quod aliquis potest 
+            <lb ed="#P" n="27"/>haberi conceptus univocus de deo et creatura et talis esset extra genus <pc type="pilcrow"/> 2o dicit quod nullum univocum 
+            <lb ed="#P" n="28"/>est in praedicamento dicibile de deo et creatura 
+          </p>
+          <p xml:id="ppra-l27-qapehf">
+            <pc type="punctus"/> Et quantum est de primo ipse ponit quod conceptus erit non est entis 
+            <lb ed="#P" n="29"/>quoniam talis de ratione sui est indiffernes ad finitum est infinitum <pc type="punctus"/> et ideo ratio entis 
+            <lb ed="#P" n="30"/>est communis deo et creaturae <pc type="punctus"/> et non capit rationem pro conceptu nec pro obiecto et ideo difficile 
+            <lb ed="#P" n="31"/><pc type="pilcrow"/> bene dare huius rationis intellectum
+          </p>
+          <p xml:id="ppra-l27-tqpdaf">
+            <pc type="pilcrow"/> Sed tamen videtur mihi quod ipse rationem pro obiecto tali modo extenso 
+            <lb ed="#P" n="32"/>unde loquendo formaliter eadem formalitas convenit deo et creaturae <pc type="pilcrow"/> unde ymaginatur sic quod <del rend="strikethrough">non</del> est differentia non 
+            <lb ed="#P" n="33"/>formaliter <pc type="punctus"/> sed per modos intrinsecos
+          </p>
+          <p xml:id="ppra-l27-usecod">
+            unde ymaginatur etiam alias habitudines scilicet quod ad positionem 
+            <lb ed="#P" n="34"/>rei aliquid ydemptitate concurrens est et tale quid vocatur motus essendi Et sic creator respectu creaturae 
+            <lb ed="#P" n="35"/>habet <unclear>mo?di</unclear> intrinsecum et tali non sumetur conceptus <pc type="punctus"/> sed a forma <pc type="punctus"/> <pc type="pilcrow"/> 2o dicitur quod deus univoce potest 
+            <lb ed="#P" n="36"/>significari cum creatura <pc type="pilcrow"/> Illa autem quae in genere reponuntur sumuntur sub ente causante
+          </p>
+        </div>
+        <div xml:id="ppra-l27-Dd1e1019">
+          <head xml:id="ppra-l27-Hoaoaoa">Opinio Aureoli</head>
+          <p xml:id="ppra-l27-aiipdp">
+            <pc type="pilcrow"/> Aureolus 
+            <lb ed="#P" n="37"/>tamen tenet oppositum nam dicit quod non potest esse talis conceptus univocus de deo et creatura 
+          </p>
+          <p xml:id="ppra-l27-ppncie">
+            cuius causa est quia 
+            <lb ed="#P" n="38"/>defficit ratio obiectiva communis <pc type="pilcrow"/> unde ymaginatur sic <pc type="virgula">/</pc> capiamus igitur conceptum animalis nam talis habet conceptum 
+            <lb ed="#P" n="39"/>conclusionem omnibus speciebus sive in divinis unde conceptus secundum se <pc type="punctus"/> non terminatur immediate ad obiectum
+          </p>
+          <p xml:id="ppra-l27-spqles">
+            <pc type="pilcrow"/> 2o ponit 
+            <lb ed="#P" n="40"/>quod bene habetur conceptus confusus <pc type="punctus"/> tamen non habet aliquam rationem obiectivam et haec videtur satis obscuram pro quo 
+            <lb ed="#P" n="41"/>tamen est advertendum quod anima intellectiva multiplicem habet operationem et habet inter alia nobis nota <unclear>sensitivas</unclear> et sic 
+            <lb ed="#P" n="42"/>de talibus <pc type="punctus"/> unde ymaginatur quod ratio obiectiva nihil aliud est quam res ita habendi ad obiectum <pc type="punctus"/> unde ratio obiectiva 
+            <lb ed="#P" n="43"/>non distinguitur realiter ab obiecto ut patet <pc type="punctus"/> intuenti <pc type="pilcrow"/> Sed veniendo ergo ad propositum de deo non potest sic haberi 
+            <lb ed="#P" n="44"/>de eo ratio limitata quia tales gradus non inveniuntur in deo <pc type="punctus"/> quia non sunt gradus in ipso ponendi 
+            <lb ed="#P" n="45"/>quia qualitercumque deus est immensissime est <pc type="punctus"/> et hoc negabat <name>scotus</name> <pc type="punctus"/> 
+            <pc type="pilcrow"/> unde deus non habet vivere limitatum
+          </p>
+        </div>
+        <div xml:id="ppra-l27-Dd1e1466">
+          <head xml:id="ppra-l27-Hoididr">Opinio Ioannis de Ripa</head>
+          <p xml:id="ppra-l27-aeoeee">
+            <lb ed="#P" n="46"/><pc type="pilcrow"/> Alia est oppinio <name>magistri iohannis de rippa</name> dicentis quod creatura non potest univocari cum deo 
+          </p>
+          <p xml:id="ppra-l27-tpipum">
+            <pc type="pilcrow"/> Sed pro intellectu 
+            <lb ed="#P" n="47"/>dicendorum notandum est quod ipse doctor videtur innumere duplicem modum sive ordinem ipsarum essentalium
+          </p>
+          <p xml:id="ppra-l27-peodve">
+            <lb ed="#P" n="48"/>unus est communium
+          </p>
+          <p xml:id="ppra-l27-soisfe">
+            <pc type="pilcrow"/> 2us propriorum
+          </p>
+          <p xml:id="ppra-l27-iidlep">
+            <pc type="pilcrow"/> 3us quod sicut habemus duplicem ordinem talium ita erit duplex ordo sive ratio 
+            <lb ed="#P" n="49"/>a parte obiectali Ita quod in quolibet est aliud esse <pc type="virgula">/</pc> et aliud sua vita licet sint idem <pc type="pilcrow"/> Unde entitas 
+            <lb ed="#P" n="50"/>est quaedam gradualis perfectio
+          </p>
+          <p xml:id="ppra-l27-eciiie">
+            <pc type="pilcrow"/> Unde scias quod ratio entis in deo <pc type="punctus"/> et ratio entis in creatura nullo modo unitur 
+            <lb ed="#P" n="51"/>licet creaturae habeant omnes univocari sed in deo alterius est rationis <pc type="punctus"/> quia totaliter immensa et infinita non 
+            <lb ed="#P" n="52"/>sic autem in creaturis
+          </p>
+          <p xml:id="ppra-l27-ippeip">
+            <pc type="pilcrow"/> Et de hoc praefatus doctor quattuor ponit rationes <pc type="pilcrow"/> prima est ratio entis secundum quam 
+            <lb ed="#P" n="53"/>denominatur deus est praecise et totaliter immensa <pc type="punctus"/> sumitur et absolute patet <pc type="virgula">/</pc> quia nihil est in ipso quin immense sibi 
+            <lb ed="#P" n="54"/>correspondeat
+          </p>
+          <p xml:id="ppra-l27-scodec">
+            <pc type="pilcrow"/> 2a conclusio omnis denominatio communis deo et creaturae habet in deo rationem intrinsecam et immensam 
+            <lb ed="#P" n="55"/>formaliter
+          </p>
+          <p xml:id="ppra-l27-tcqfel">
+            <pc type="pilcrow"/> 3a propositio secundum nullam rationem in esse entis deus potest convenire cum creatura formaliter apparet manifeste 
+            <lb ed="#P" n="56"/>quoniam esse suum est immensissimum <pc type="punctus"/> modo certum est quod esse creaturae non est tale ergo etc
+          </p>
+          <!--Doesn't seem present
+            <p xml:id="ppra-l27-qcsmpd">
+            Quarta
+            <pb ed="#V" n="57-r"/>
+            <cb ed="#V" n="a"/>
+            conclusio: secundum rationem entis, 
+            Deus et creatura analogice 
+              et
+            causaliter 
+              communicant
+            ,
+            ita quod de Deo et creatura 
+            potest haberi conceptus analogicus tantum. 
+              Ita
+            quod non 
+              oportet
+            quod cuilibet 
+              termino
+            analogo correspondeat diversi
+            <pb ed="#R" n="45-v"/>
+            <cb ed="#R" n="a"/>
+            conceptus, immo stat quod unus conceptus primo et principaliter
+            significet Deum et secundario creaturas. 
+            Qui vellet enim habere diffinitionem completam ,
+              aequivocorum
+            ,
+            oporteret habere multas 
+              particulares
+            diffinitiones.
+          </p>-->
+          <p xml:id="ppra-l27-qcqssv">
+            <pc type="pilcrow"/> 4a propositio secundum rationem 
+            <lb ed="#P" n="57"/>entis de deo et creatura habetur conceptus analogus <pc type="punctus"/> saltem in quibusdam <del rend="strikethrough">att</del> subiectis attributionis
+            <lb ed="#P" n="58"/>et non univocus <pc type="punctus"/> et in isto passu allegat beatum dyonsium et lynconiensem <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l27-enespt">
+            <pc type="pilcrow"/>Dum etiam 
+            <pb ed="#P" n="49-v"/>
+            <lb ed="#P" n="1"/><name>magister guillelmus parisiensis</name> quod creatura non est <unclear>ens</unclear> proprie <pc type="virgula">/</pc> sed deus est ens proprie quoniam deus est ens transcendens 
+            <lb ed="#P" n="2"/>modo creatura non sic <pc type="pilcrow"/> Consequenter ponitur quod creaturae sunt significabiles sub esse entis et sic univocatio 
+            <lb ed="#P" n="3"/>habet easdem species <unclear>si?i</unclear> correspondentes  <pc type="pilcrow"/> Eo quibus omnibus infertur quod si daretur supprema intelligentia creabilis 
+            <lb ed="#P" n="4"/>suum esse est sub ultima proprie <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l27-Dd1e2092">
+          <head xml:id="ppra-l27-Hopopop">Opinio Plaoul</head>
+          <p xml:id="ppra-l27-veqemc">
+            <pc type="pilcrow"/> Tamen teneo quod formalitates tales non sunt ponendae 
+          </p>
+          <!-- very fuzzy parellel -->
+          <p xml:id="ppra-l27-ebupoi">
+            quoniam revera 
+            <lb ed="#P" n="5"/>ita difficilis est materia sicut de trinitate quoniam trinitas ex fide supponitur et eius lumen relucet tales autem 
+            <lb ed="#P" n="6"/>formalitates non sic ex fide supponatur quare etc   <pc type="pilcrow"/> Sequitur distinctio cuius conclusio prima quod hoc nomen prima solet sumitur tripliciter uno modo 
+            <lb ed="#P" n="7"/>suppositionaliter alio modo realiter et 3o modo accidentaliter vel <unclear>? ab?maii</unclear> istam et partam
+          </p>
+          <!-- doesn't seem present
+            <p xml:id="ppra-l27-qedffe">
+            Quantum est de materia praedicamentorum 
+            non plus usque ad aliam lectionem, 
+            et 
+              ibi alia lectione
+            faciam finem etc.
+          </p>-->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

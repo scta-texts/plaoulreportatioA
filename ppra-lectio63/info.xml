@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio63">
+      <head xml:id="ppra-l63-Hldtldt">Lectio 63, de Trinitate</head>
+      <div xml:id="ppra-l63-Dd1e109">
+        <head xml:id="ppra-l63-Hcdmmss">Conclusio de materia formalitatum sentiendum sit</head>
+        <p xml:id="ppra-l63-pipepd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-pipepd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-pipepd"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l63-Dd1e117">
+          <head xml:id="ppra-l63-Hprprpr">Prima ratio</head>
+          <p xml:id="ppra-l63-ipmess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ipmess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ipmess"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e138">
+          <head xml:id="ppra-l63-Hsrsrsr">Secunda ratio</head>
+          <p xml:id="ppra-l63-ssnide">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ssnide"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ssnide"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-ppapee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ppapee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ppapee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-sppefs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-sppefs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-sppefs"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e156">
+          <head xml:id="ppra-l63-Htrtrtr">Tertia ratio</head>
+          <p xml:id="ppra-l63-tstedp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-tstedp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-tstedp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-ppncee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ppncee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ppncee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e169">
+          <head xml:id="ppra-l63-Hqrarar">Quarta ratio</head>
+          <p xml:id="ppra-l63-qssefp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-qssefp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-qssefp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-cnsefp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-cnsefp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-cnsefp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-cesdae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-cesdae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-cesdae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-cnsefi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-cnsefi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-cnsefi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e197">
+          <head xml:id="ppra-l63-Hqnrqnr">Quinta ratio</head>
+          <p xml:id="ppra-l63-ieeefo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ieeefo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ieeefo"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e228">
+          <head xml:id="ppra-l63-Hsxrsxr">Sexta ratio</head>
+          <p xml:id="ppra-l63-isddre">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-isddre"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-isddre"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e237">
+          <head xml:id="ppra-l63-Hsprspr">Septima ratio</head>
+          <p xml:id="ppra-l63-aaovid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-aaovid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-aaovid"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l63-Dd1e278">
+        <head xml:id="ppra-l63-Hd1e280">Corollaria</head>
+        <div xml:id="ppra-l63-Dd1e283">
+          <head xml:id="ppra-l63-Hpcqdro">Primum corollarium</head>
+          <head xml:id="ppra-l63-Hd1e288" type="question-title">quod diversitas conceptuum
+              <unclear>attributabilium</unclear> non semper oritur ex diversitate rationum
+              <unclear>obiectialium</unclear></head>
+          <p xml:id="ppra-l63-eccsro">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-eccsro"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-eccsro"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e303">
+          <head xml:id="ppra-l63-Hsncsnc">Secundum corollarium</head>
+          <p xml:id="ppra-l63-scdsds">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-scdsds"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-scdsds"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e314">
+          <head xml:id="ppra-l63-Htmctmc">Tertium corollarium</head>
+          <p xml:id="ppra-l63-suqsip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-suqsip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-suqsip"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l63-eqidro">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-eqidro"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-eqidro"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e335">
+          <head xml:id="ppra-l63-Hqcqnad">Quartum corollarium</head>
+          <head xml:id="ppra-l63-Hd1e340" type="question-title">Quod pluralitas rationum formalium
+            et cognitionum quae Deo attribuuntur debet referri ad creaturas et non ad Deum</head>
+          <p xml:id="ppra-l63-suqera">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l63-suqera"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-suqera"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l63-Dd1e351">
+        <head xml:id="ppra-l63-Hardrdr">Ad rationes de Rippa</head>
+        <p xml:id="ppra-l63-acpadg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-acpadg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-acpadg"/>
+          </assertions>
+        </p>
+        <!-- doesn't seem present
+            <p xml:id="ppra-l63-iraeve">
+            Ideo respondeo ambabus rationibus 
+            quando sic arguit quod aliquis participat et imitatur deum 
+            in esse et non in esse vitae etc.
+          </p>-->
+        <p xml:id="ppra-l63-pdqepi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-pdqepi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-pdqepi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-sdqlpt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-sdqlpt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-sdqlpt"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-asrsed">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-asrsed"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-asrsed"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-iiapde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-iiapde"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-iiapde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-espidr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-espidr"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-espidr"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l63-Dd1e433">
+        <head xml:id="ppra-l63-Harsars">Ad rationes Scoti</head>
+        <p xml:id="ppra-l63-asrrds">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-asrrds"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-asrrds"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-prsica">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-prsica"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-prsica"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-irecnh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-irecnh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-irecnh"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l63-sdqdtd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-sdqdtd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-sdqdtd"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l63-tdqqnp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-tdqqnp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-tdqqnp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l63-Dd1e510">
+        <head xml:id="ppra-l63-Hraaaar">Response ad alia rationes</head>
+        <p xml:id="ppra-l63-aernad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-aernad"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-aernad"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-artvlp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-artvlp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-artvlp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-hrardp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-hrardp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-hrardp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-qednup">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-qednup"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-qednup"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-vacvei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-vacvei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-vacvei"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l63-reiipa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-reiipa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-reiipa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-ipepmv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-ipepmv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-ipepmv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-arespn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-arespn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-arespn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-uraect">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-uraect"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-uraect"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l63-arcvni">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l63-arcvni"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l63-arcvni"/>
+          </assertions>
+        </p>
+        <!--
+            doesn't really seem present
+            <p xml:id="ppra-l63-varevd">
+            Vel aliter respondetur resolvendo istud ad perseitatem 
+            quia licet intellectus 
+            et voluntas supponant pro eodem tamen ista esset per se 
+            intellectus intelligit et ista non voluntas intelligit, 
+            et sic a parte rei non <unclear>probares</unclear> aliquam distinctionem 
+            inter intellectum divinum et voluntatem divinam.
+          </p> 
+          <p xml:id="ppra-l63-ipqpre">
+            Ideo patet qualiter sit respondendum ad 
+            omnes praedicatas rationes, etc., et cetera, etc.
+          </p>-->
+      </div>
+      <div xml:id="ppra-l63-Dxxyy1">
+        <head xml:id="ppra-l63-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l63-axxyy3">
+        </p>
+        <p xml:id="ppra-l63-axxyy4">
+        </p>
+        <p xml:id="ppra-l63-axxyy5">
+        </p>
+        <p xml:id="ppra-l63-axxyy6">
+        </p>
+        <p xml:id="ppra-l63-axxyy7">
+        </p>
+        <p xml:id="ppra-l63-axxyy8">
+        </p>
+        <p xml:id="ppra-l63-axxyy9">
+        </p>
+        <p xml:id="ppra-l63-axxyy10">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

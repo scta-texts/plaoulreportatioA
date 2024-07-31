@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 37 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 37 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-25">May 25, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="53-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio37">
+        <head xml:id="ppra-l37-Hldfldf">Lectio 37, de Fruitione</head>
+        <div xml:id="ppra-l37-Dd1e109">
+          <head xml:id="ppra-l37-Hqinpef">Quod in nulla creatura potest esse felicitas</head>
+         <!-- <p xml:id="ppra-l37-ehcees">
+            Ex habitudine creaturae ad deum ostensum fuit quod in 
+            nulla creatura potest esse obiectalis felicitas quaequid 
+            dependentia non est nova nec noviter 
+            opinata, quia est opinio sacrae scripturae ut ait 
+            <name ref="#Paul">Apostolus</name> 
+            <quote xml:id="ppra-l37-Qqpifso" source="http://scta.info/resource/rom11_36">
+              quia per ipsum et in ipso facta sunt omnia</quote>; 
+            et 
+            <ref xml:id="ppra-l37-Rd1e122">
+              <title ref="#act">Actuum</title> <num>17o</num>
+            </ref> 
+            <cit>
+              <quote xml:id="ppra-l37-Qiimves" source="http://scta.info/resource/act17_28">
+                in ipso movemur vivimus et sumus
+              </quote>
+            </cit>. 
+            Et etiam 
+            <ref xml:id="ppra-l37-Rd1e137">
+              <name ref="#Augustine">Augustinus</name> 
+              <title ref="#DeGenesiAdLitteram">Super Genesim</title>
+            </ref> 
+            comparat creaturam ad deum sicut radium solis 
+            ad solem. 
+            Immo 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e149">
+                <name ref="#Aristotle">Aristoteles</name>
+              </ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            ponit quod a deo dependet 
+            caelum et tota natura, 
+            et 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e161">
+                <name ref="#Avicenna">Avicenna</name>
+              </ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            dicit quod opinio 
+            <name ref="#Aristotle">Aristotelis</name> 
+            fuit quodlibet mundus fuerit ab aeterno, 
+            tamen omnis res 
+            mundi ceperunt esse per productionem a deo. unde licet 
+            ex necessitate naturae et naturaliter produxerit eas et conservet, 
+            tamen opinio sua est quod intelligentiae et creaturae non habent 
+            necesse esse ex se.
+          </p>-->
+          <!--<p xml:id="ppra-l37-sqnlin">
+            Sed quare non corrumpuntur, hoc 
+            est ex bonitate summa dei quam vult ad extra communicare. 
+            et ideo aliqui poetae dixerunt in ipso 
+            <cit>
+              <quote xml:id="ppra-l37-Qmveves" source="http://scta.info/resource/act17_28">
+                movemur vivimus et sumus
+              </quote>
+            </cit>.
+            Unde dato quod 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e185"><name ref="#Aristotle">Aristotles</name></ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            ponat quod de 
+            necessitate naturae deus conservet caelum, tamen si per imaginationem 
+            subtraheretur influentia eius tunc propter dependentiam 
+            eius de necessitate laberetur in nihilum.
+          </p>-->
+          <p xml:id="ppra-l37-suqpvi">
+            <lb ed="#P" n="33"/>Consequenter 2m sententiarum est quaerendum utrum in nullo homine creato potest esse ratio voluntatis circa temporales <add place="above-line">res</add> quieta
+          </p>
+          <p xml:id="ppra-l37-uadqve">
+            <lb ed="#P" n="34"/>et videtur quod sic nam <name>ovidius</name> in libro <title>methamorpheos</title> sic ait <!-- blank left as if quote were supposed to go here -->
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e225">
+          <head xml:id="ppra-l37-Hcohhdh">Contra opinionem <name ref="#Oyta">Henrici de Huta</name></head>
+          <p xml:id="ppra-l37-sccerq">
+            <lb ed="#P" n="35"/>et hoc videtur esse contra <name>magistrum henricum de heuta</name> qui dicit quod rationalis creatura non potest in aliquo bono quietari
+            <lb ed="#P" n="36"/>ut superius est ostensum
+          </p>
+          <p xml:id="ppra-l37-udiqic">
+            <pc type="pilcrow"/> Oppositum tamen arguitur contra illum quamvis absolute foret possibile creaturam frui creatura non tamen est possibile 
+            <lb ed="#P" n="37"/>quod creatura fruatur hoc etc
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l37-scqdes">
+            <pc type="pilcrow"/> Quantum tamen est de 2a parte consonat cum praedictis <pc type="virgula">/</pc> sed prima dicit quod possibile est in particulari 
+            <lb ed="#P" n="38"/>et non in communi <pc type="virgula">/</pc> probat enim istam sic possibile est aliquam creaturam esse non elevatam a dei fruitione igitur etc
+          </p>
+          <!--
+            very fuzzy, this para could be in the above somewhere
+            <p xml:id="ppra-l37-stcids">
+            Secundo talis creatura esset felicibilis et in nulla creatura 
+            ultimate, ergo quia nulla creatura habet rationem felicibilis, 
+            ergo in deo solo.
+          </p>-->
+          <p xml:id="ppra-l37-itradf">
+            <pc type="pilcrow"/> unde probat sic 
+            <lb ed="#P" n="39"/>sequeretur quod infantes pari ratione fruerentur creatura quia non sunt elevabiles ad dei fruitionem igitur etc
+          </p>
+          <p xml:id="ppra-l37-ihfsif">
+            <pc type="pilcrow"/> Item huiusmodi 
+            <lb ed="#P" n="40"/><del rend="strikethrough">creatura</del> esset deordinata creaturae quod ad suum finem et per consequens deordinaret ipsam
+          </p>
+          <p xml:id="ppra-l37-qpuedo">
+            <pc type="pilcrow"/> 5o sic arguitur contra ipsum quamvis 
+            <lb ed="#P" n="41"/>possibile foret hominem frui creatura et non peccet et tamen omnino peccaret ita quod haberet penam nihilominus esset 
+            <lb ed="#P" n="42"/>peccatum et sic mereretur in aliquam rem quae non esset finis 
+          </p>
+          <p xml:id="ppra-l37-esiedo">
+            nam esset res quae non frueretur ultimo finis scilicet deo 
+            <!-- reconsider whether para break point should be here -->
+            <pc type="pilcrow"/> Con<lb ed="#P" break="no" n="43"/>sequenter 
+            dicitur quod homo sine deordinatione ultimate frueretur creatura patet <pc type="virgula">/</pc> quia licet non esset demeritum tamen non esset deordinatio
+            <lb ed="#P" n="44"/>et <unclear>ita<!--ista?--></unclear> esset de creatura
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e265">
+          <head xml:id="ppra-l37-Hoeroer">Obiectio et Responsio</head>
+          <p xml:id="ppra-l37-spqidi">
+            <pc type="pilcrow"/> Ulterius ponamus hoc quod praecipiatur quod fruatur creatura Respondetur quod adhuc frueretur 
+            <lb ed="#P" n="45"/>deo et non creatura quia praeceptum non variat naturam huiusmodi et per consequens huiusmodi operatio non variatur propter talem 
+            <lb ed="#P" n="46"/>quid
+          </p>
+          <p xml:id="ppra-l37-cpqebf">
+            <pc type="pilcrow"/> sed contra quia praeceptum superveniens non variat naturam quia non efficitur volitio nona propter superveniens 
+            <lb ed="#P" n="47"/>praeceptum et sic hoc non bene ponitur
+          </p>
+          <p xml:id="ppra-l37-sqailb">
+            <pc type="pilcrow"/> Tunc ad rationes <pc type="virgula">/</pc> ad primam negatur antecedens quia <del rend="strikethrough">nullam</del> ratio cogit quod sit 
+            <lb ed="#P" n="48"/>inter speciem brutorum et humanorum alia producibilis simul anima <pc type="punctus"/> nam dispositio sub qua creatura animal a deo est sub qua non potest 
+            <lb ed="#P" n="49"/>produci inferior species <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-l37-snccef">
+            <pc type="pilcrow"/> Ex quo concluditur quod complexio non habet aliquam latitudinem in se quia dato quod huiusmodi creatura 
+            <lb ed="#P" n="50"/>quae iam esset sic capax tamen esse in generali <unclear>fluxibilis</unclear> licet tamen esset confusa quietando sufficeret quod iuxta sui natura 
+            <lb ed="#P" n="51"/>ipsum recognosceret <pc type="pilcrow"/> Sic etiam creaturae inanimatae quietantur in deo secundum sui natura et felicitantur in ordine ad 
+            <lb ed="#P" n="52"/>suam finem sicut caelum terra aqua etc quare sequitur quod ratio non concludit
+          </p>
+          <p xml:id="ppra-l37-sdhaid">
+            <pc type="pilcrow"/> Sed de illo quod tactum est de homine 
+            <lb ed="#P" n="53"/>et de usu rationis sine dubio magna est differentia inter peccatum et demeritum quoniam stat quod aliquis demereatur et 
+            <lb ed="#P" n="54"/>tamen non peccat et sic conceditur quod fruitur creatura et tamen non peccet <pc type="punctus"/> Et quando ponit casum negatur sibi casus quia deus 
+            <lb ed="#P" n="55"/>non potest percipere <unclear>materiam</unclear> causam est quia non cadit sub praecepto <pc type="virgula">/</pc> minus ultra influentiam generalem concurreret 
+            <lb ed="#P" n="56"/><pc type="pilcrow"/> Unde minime ad actus mali concurrit deus sic testatur plaoust et si <unclear>vel</unclear> concurrat haec est permissit sive 
+            <lb ed="#P" n="57"/>modo confuso
+          </p>
+          <p xml:id="ppra-l37-escihs">
+            <pc type="pilcrow"/> Unde non potest decipere ut dicunt doctores <pc type="virgula">/</pc> et sic nullo modo obligaret deus creaturam ad deordinationem
+            <pb ed="#P" n="54-r"/>
+            <lb ed="#P" n="1"/>quantum est de se si illud sit formaliter deordinativum in se et absolute Et licet daemones deordinant 
+            <lb ed="#P" n="2"/>hoc est eis in praemium aeternae dampnationis et tamen non demerentur quia non <unclear>praecipitur</unclear> eis malum a deo 
+            <lb ed="#P" n="3"/>obiective <del rend="strikethrough">licet</del> sive active licet obmissive quia in huiusmodi actu dampnationis sic se sine praecepto 
+            <lb ed="#P" n="4"/>posuere
+          </p> 
+        </div>
+        <div xml:id="ppra-l37-Dd1e293">
+          <head xml:id="ppra-l37-Hraribc">Responsio ad rationes probantes quod creatura potest quietari in bono creato</head>
+          <p xml:id="ppra-l37-tresii">
+            <pc type="pilcrow"/> Consequenter respondetur ad alias rationes
+          </p> 
+          <div xml:id="ppra-l37-Dd1e301">
+            <head xml:id="ppra-l37-Hprprpr">Prima responsio</head>
+            <p xml:id="ppra-l37-qdisii">
+              <pc type="pilcrow"/> Ad primum quando arguebatur nam deus finite 
+              <lb ed="#P" n="5"/>moveret creaturam <pc type="virgula">/</pc> igitur potest dari aliqua creatura et sic tandem alia quae magis <del rend="strikethrough">quae non</del> delectet quam 
+              <lb ed="#P" n="6"/>deus
+            </p>
+            <p xml:id="ppra-l37-pprtdq">
+              <pc type="pilcrow"/> Unde conceditur quantum ad gradum <pc type="virgula">/</pc> non tamen convenientius delectat quoniam huiusmodi delectatio 
+              <lb ed="#P" n="7"/>non satiat potentiam nec delectat quia non habet rationem quietationis
+              
+              <pc type="pilcrow"/> Unde philosophus dicit libro ethicorum 
+              <lb ed="#P" n="8"/>quod appetitus non delectat quietative quia non quiescit in finem
+            </p>
+            <p xml:id="ppra-l37-arehfu">
+              <pc type="pilcrow"/> Aliter <name>de rippa</name> respondet 
+              <lb ed="#P" n="9"/><pc type="pilcrow"/> Unde dicit quod casus non est possibilis <pc type="pilcrow"/> unde dicit quod sit aliqua creatura quae delectet in deum et alia 
+              <lb ed="#P" n="10"/>in aliud obiectum <pc type="virgula">/</pc> dicit quod non dupplatur actus si duppletur adhuc illud obiectum <pc type="punctus"/> sed si omnes causae 
+              <lb ed="#P" n="11"/>dupplarentur ipsarum effectus dupplarentur modo sic non est hic quare etc <pc type="pilcrow"/> Sed prima solutio 
+              <lb ed="#P" n="12"/>melior est quoniam si daretur ratio quare <del rend="strikethrough">gradus</del> non quiesceret appetitus circa suum obiectum delectabile 
+              <lb ed="#P" n="13"/>non inveniretur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l37-Dd1e326">
+            <head xml:id="ppra-l37-Hsrsrsr">Secunda Responsio</head>
+            <p xml:id="ppra-l37-savebc">
+              <pc type="pilcrow"/> Ad 2am rationem negatur consequentia quia habitudo esse etc sunt diversarum specierum sicut de 
+              <lb ed="#P" n="14"/>igne unde est in suo suppremo loco bene <pc type="virgula">/</pc> et motus in aliquo quiescente melius est 
+              <lb ed="#P" n="15"/>quam in tendentia modo si illud infinitaretur non esset ita bonum sicut minimum bene etc
+            </p>
+          </div>
+          <div xml:id="ppra-l37-Dd1e344">
+            <head xml:id="ppra-l37-Htrtrtr">Tertia Responsio</head>
+            <p xml:id="ppra-l37-arfsde">
+              <lb ed="#P" n="16"/><pc type="pilcrow"/>Ad aliam de quietatione creaturae Respondetur quod potentia elevabilis non extenditur ad hoc quod creatura 
+              <lb ed="#P" n="17"/>non inclinatur ad deum ymmo per oppositum scilicet ad agendum vel patiendum 
+            </p> 
+            <p xml:id="ppra-l37-adquic">
+              <pc type="pilcrow"/> Alii dicunt quod creatura 
+              <lb ed="#P" n="18"/>tali potentia se extendit ad ea quae dicuntur <unclear>eminenter</unclear> ut individuum posset producere unum aliud individuum 
+              <lb ed="#P" n="19"/>alterius tamen speciei sed a natura non est sibi permissum nec limitatum <pc type="virgula">/</pc> Tamen de potentia dei absoluta 
+              <lb ed="#P" n="20"/>potest producere quemlibet effectum inferiorem sed secundum naturae cursum non est sibi institutum <pc type="punctus"/> unde 
+              <lb ed="#P" n="21"/>homo posset producere lapidem licet non immediate
+            </p>
+          </div>
+          <div xml:id="ppra-l37-Dd1e378">
+            <head xml:id="ppra-l37-Hqrqrqr">Quarta Responsio</head>
+            <p xml:id="ppra-l37-uatiri">
+              <pc type="pilcrow"/> Ad aliam quando arguebatur de operatione creaturae
+            </p>
+            <p xml:id="ppra-l37-rpqedp">
+              <lb ed="#P" n="22"/>Respondetur quod huiusmodi inclinatio non est res distincta a creatura sed est ipsamet creatura sicut est de accidente 
+              <lb ed="#P" n="23"/>quod non habet esse sed in <unclear>li esse</unclear> vel est formaliter dependere et esset habitudo ad causam finalem <pc type="virgula">/</pc> et hoc 
+              <lb ed="#P" n="24"/>est probabile
+            </p> 
+            <p xml:id="ppra-l37-sdqrdb">
+              <pc type="pilcrow"/> 3o diceretur quod si poneretur aliquod distinctum poneretur per modum respectus tamen non sequitur 
+              <lb ed="#P" n="25"/>quod remanente creatura posset separari <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l37-Dd1e399">
+            <head xml:id="ppra-l37-Hqurqur">Quinta Responsio</head>
+            <p xml:id="ppra-l37-arfpod">
+              <pc type="pilcrow"/> Ad ultimam rationem <pc type="virgula">/</pc> creatura magis diligit se 
+              <lb ed="#P" n="26"/>magis inseparabiliter quam deum 
+            </p> 
+            <p xml:id="ppra-l37-hreesp">
+              <pc type="virgula">/</pc> Respondetur distinguendo de delectione creaturae <pc type="virgula">/</pc> nam creatura diligit se 
+              <lb ed="#P" n="27"/>affectione commodi et alio modo ratione quietationis in ultimum finem et isto modo deum diligit <pc type="pilcrow"/> Aliter tamen dicitur 
+              <lb ed="#P" n="28"/>quod quaelibet creatura magis tendit in deum quam in se et hoc ultimate et non tendit ad se nec ad aliud 
+              <lb ed="#P" n="29"/>in medium extensione ad summum bonum <pc type="pilcrow"/> Unde consequenter est dicendum quod si creatura bene distincte cognosceret deum et se 
+              <lb ed="#P" n="30"/>tunc in illo casu magis afficeretur deo quam sibi sed quia corruptela per quam hoc latet est ignorantia quare etc 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l37-Dd1e1425">
+          <head xml:id="ppra-l37-Hd1e1427">Conclusiones</head>
+          <p xml:id="ppra-l37-d1e1430">
+            <lb ed="#P" n="31"/><pc type="pilcrow"/> Prima conclusio lectionis fuit potentia dei cum sit una et simplex propter diversa et varia accidentia circa 
+            <lb ed="#P" n="32"/>obiectum vocatur aliquando praescientia aliquando scientia <pc type="punctus"/> aliquando praedestinatio etc praescientia de rebus praedestinatio 
+            <lb ed="#P" n="33"/>de hominibus quantum ad gloriam dandam providentiam inquantum gubernat et consequenter de aliis suo loco 
+            <lb ed="#P" n="34"/>Et dicit post quod deus est futurum praescientia Consequenter quod est absque mutatione et scit alia futura esset et alia praesentia etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio47">
+      <head xml:id="ppra-l47-Hldfldf">Lectio 47, de Fruitione</head>
+      <div xml:id="ppra-l47-Dd1e104">
+        <head xml:id="ppra-l47-Hrqdepn">Rationes quod Deo fruendum est probat ex puris
+          naturalibus</head>
+        <p xml:id="ppra-l47-ptedps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ptedps"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ptedps"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l47-Dd1e125">
+          <!-- division throughout are confusing and need review across all versions -->
+          <head xml:id="ppra-l47-Hprprpr">Prima ratio</head>
+          <p xml:id="ppra-l47-eappsc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-eappsc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-eappsc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l47-ivncvn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ivncvn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ivncvn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e203">
+          <head xml:id="ppra-l47-Hsrsrsr">Secunda ratio</head>
+          <p xml:id="ppra-l47-sscnde">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-sscnde"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-sscnde"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e228">
+          <head xml:id="ppra-l47-Htrtrtr">Tertia ratio</head>
+          <p xml:id="ppra-l47-tctdso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-tctdso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-tctdso"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e260">
+          <head xml:id="ppra-l47-Hqrqrqr">Quarta ratio</head>
+          <p xml:id="ppra-l47-qaegie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-qaegie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-qaegie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e291">
+          <head xml:id="ppra-l47-Hqurqur">Quinta ratio</head>
+          <p xml:id="ppra-l47-saaosg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-saaosg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-saaosg"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e317">
+          <head xml:id="ppra-l47-Hsextio">Sexta ratio</head>
+          <p xml:id="ppra-l47-ssiisd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ssiisd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ssiisd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e347">
+          <head xml:id="ppra-l47-Hseptio">Septima ratio</head>
+          <p xml:id="ppra-l47-isahop">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-isahop"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-isahop"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e382">
+          <head xml:id="ppra-l47-Hororor">Octava ratio</head>
+          <p xml:id="ppra-l47-iausfd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-iausfd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-iausfd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e393">
+          <head xml:id="ppra-l47-Hnrnrnr">Nona ratio</head>
+          <p xml:id="ppra-l47-iisesr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-iisesr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-iisesr"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e419">
+          <head xml:id="ppra-l47-Hdrdrdr">Decima ratio</head>
+          <p xml:id="ppra-l47-ianvem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ianvem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ianvem"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e435">
+          <head xml:id="ppra-l47-Hundtio">Undecima ratio</head>
+          <p xml:id="ppra-l47-irnmpf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-irnmpf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-irnmpf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e459">
+          <head xml:id="ppra-l47-Hduotio">Duodecima ratio</head>
+          <p xml:id="ppra-l47-insiim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-insiim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-insiim"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l47-Dd1e488">
+        <head xml:id="ppra-l47-Htoiiim">Tres opiniones in ista materia</head>
+        <p xml:id="ppra-l47-aeqsto">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-aeqsto"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-aeqsto"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l47-Dd1e498">
+          <head xml:id="ppra-l47-Hpopopo">Prima opinio</head>
+          <p xml:id="ppra-l47-upqhea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-upqhea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-upqhea"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e532">
+          <head xml:id="ppra-l47-Hsososo">Secunda opinio</head>
+          <p xml:id="ppra-l47-aeonns">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-aeonns"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-aeonns"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l47-Dd1e600">
+          <head xml:id="ppra-l47-Htototo">Tertio opinio</head>
+          <p xml:id="ppra-l47-tvqeet">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-tvqeet"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-tvqeet"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l47-pcpovc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-pcpovc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-pcpovc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l47-ihdamv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ihdamv"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ihdamv"/>-->
+            </assertions>
+          </p>
+          <p xml:id="ppra-l47-iddqcg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-iddqcg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-iddqcg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l47-ioasrt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ioasrt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ioasrt"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l47-Dd1e707">
+        <head xml:id="ppra-l47-Hcqfisi">Conclusio: quod fruitio hic in via est perfectior quam
+          fuisset in statu innocentiae.</head>
+        <p xml:id="ppra-l47-pdmhiv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-pdmhiv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-pdmhiv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-qapafd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-qapafd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-qapafd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-isnsod">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-isnsod"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-isnsod"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-sisdae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-sisdae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-sisdae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-ateqsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-ateqsi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-ateqsi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-iifisi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-iifisi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-iifisi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l47-Dd1e849">
+        <head xml:id="ppra-l47-Hscogvc">Sed contra: opinio <name ref="#Wodeham">Adam Wodeham</name>
+          quod Deo posset frui sine gratia vel caritate</head>
+        <p xml:id="ppra-l47-scifsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-scifsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-scifsc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-l47-baeshc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-baeshc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-baeshc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-iaaoai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-iaaoai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-iaaoai"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-idatsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l47-idatsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-idatsp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l47-Dd1e1275">
+        <head xml:id="ppra-l47-Hd1e1277">Conclusiones</head>
+        <p xml:id="ppra-l47-d1e1280">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-d1e1280"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-d1e1343">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-d1e1343"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l47-d1e1359">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l47-d1e1359"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

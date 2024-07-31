@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio23">
+      <head xml:id="ppra-l23-Hd1e104">Lectio 23, de Notitia</head>
+      <div xml:id="ppra-l23-Dd1e107">
+        <head xml:id="ppra-l23-Htgntgn">
+          <supplied>Tres genera notitiae</supplied>
+        </head>
+        <p xml:id="ppra-l23-dfimoi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-dfimoi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-dfimoi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-pcmseg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-pcmseg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-pcmseg"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e198">
+        <head xml:id="ppra-l23-dpndpn">
+          <supplied>De prima notitia</supplied>
+        </head>
+        <p xml:id="ppra-l23-qedped">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-qedped"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-qedped"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-pqncsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-pqncsi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-pqncsi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e458">
+        <head xml:id="ppra-l23-Hdsndsn">
+          <supplied>De secunda notitia</supplied>
+        </head>
+        <p xml:id="ppra-l23-dsvslv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-dsvslv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-dsvslv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-eiqetr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-eiqetr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-eiqetr"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e732">
+        <head xml:id="ppra-l23-Hdtndtn">
+          <supplied>De tertia notitia</supplied>
+        </head>
+        <p xml:id="ppra-l23-ateeie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-ateeie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-ateeie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-eqpsde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-eqpsde"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-eqpsde"/>-->
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-decrso">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-decrso"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-decrso"/>-->
+          </assertions>
+        </p>
+        <!-- Fuzzy parallel -->
+        <p xml:id="ppra-l23-enipee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-enipee"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-enipee"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e1308">
+        <head xml:id="ppra-l23-Hoapoap">
+          <supplied>Obiectio ad propositum</supplied>
+        </head>
+        <p xml:id="ppra-l23-apeeem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-apeeem"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-apeeem"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e1389">
+        <head xml:id="ppra-l23-Hraorao">Responsio ad obiectionem</head>
+        <p xml:id="ppra-l23-refiqd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-refiqd"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-refiqd"/>-->
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e1520">
+        <head xml:id="ppra-l23-Hanqaom">
+          <supplied>Alia notitia quae elicitur ex notitia immediate causata ab obiecti
+            materiali</supplied>
+        </head>
+        <p xml:id="ppra-l23-auqaid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-auqaid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-auqaid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-ieiice">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-ieiice"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-ieiice"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l23-Dd1e2241">
+        <head xml:id="ppra-l23-Htmnmna">
+          <supplied>Tres modi notitiae abstractivae</supplied>
+        </head>
+        <p xml:id="ppra-l23-uaedie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-uaedie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-uaedie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l23-scssle">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l23-scssle"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l23-scssle"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

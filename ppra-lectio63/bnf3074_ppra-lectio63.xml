@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 63 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 63 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-12">July 12, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="68-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio63">
+        <head xml:id="ppra-l63-Hldtldt">Lectio 63, de Trinitate</head>
+        <div xml:id="ppra-l63-Dd1e109">
+          <head xml:id="ppra-l63-Hcdmmss">Conclusio de materia formalitatum sentiendum sit</head>
+          <p xml:id="ppra-l63-pipepd">
+            <lb ed="#P" n="19"/><pc type="pilcrow"/> Consequenter est videndum quid de materia superius mota sit dicendum <pc type="punctus"/> Et quantum ad primum 
+            <lb ed="#P" n="20"/>arguitur sic In divinis praeter relationem personalem nullam distinctio est ponenda  
+          </p>
+          <div xml:id="ppra-l63-Dd1e117">
+            <head xml:id="ppra-l63-Hprprpr">Prima ratio</head>
+            <p xml:id="ppra-l63-ipmess">
+              multipliciter hoc probatur <pc type="virgula">/</pc> primo quod regulam 
+              <lb ed="#P" n="21"/><name>beati ancelmi</name> dicentis quod in divinis 3a sunt idem ubi non concurrit relationis oppositio Ita quod omnes termini 
+              <lb ed="#P" n="22"/>absoluti sumentes pro divinis affirmatur sumitur de deo ut sapientia bonitas et tamen pro tanto sequitur distinctionem formalitatum fore 
+              <lb ed="#P" n="23"/>secundum talia praedicata <pc type="virgula">/</pc> ratione simplicitatis et immensitatis potentiae divinae quia unicus simplex et immutabilis aeternus etc
+            </p>
+          </div>
+          <div xml:id="ppra-l63-Dd1e138">
+            <head xml:id="ppra-l63-Hsrsrsr">Secunda ratio</head>
+            <p xml:id="ppra-l63-ssnide">
+              <pc type="pilcrow"/> 2o 
+              <lb ed="#P" n="24"/>probatur nam ut alias est ostensum distinctio talium formalitatis est difficilior et magis distans ad appetenda 
+              <lb ed="#P" n="25"/>rationis quam distinctio personarum in essentia et per consequens non ponendo 
+            </p>
+            <p xml:id="ppra-l63-ppapee">
+              <pc type="pilcrow"/> Ex alio patet quoniam ad hoc non astringit 
+              <lb ed="#P" n="26"/>nos fides catholica nec etiam aliqua ratio vehemens igitur non est ponenda etiam pluralitas non est ponenda sine 
+              <lb ed="#P" n="27"/>necessitate consequentia tenet prima pars antecedentis patet <pc type="punctus"/> quoniam in eadem essentia ponere distinctionem tanto est maior et magis descendendum 
+              <lb ed="#P" n="28"/>et tanto minor et magis ascendens
+            </p>
+            <p xml:id="ppra-l63-sppefs">
+              <pc type="pilcrow"/> pro 2a parte satis patet per ecclesiae determinationem et doctores omnes
+              <lb ed="#P" n="29"/>quasi sunt ad oppositum
+            </p> 
+          </div>
+          <div xml:id="ppra-l63-Dd1e156">
+            <head xml:id="ppra-l63-Htrtrtr">Tertia ratio</head>
+            <p xml:id="ppra-l63-tstedp">
+              <pc type="pilcrow"/> 3o tanta debet poni ydemptitas in divinis quanta potest salva fide et ratione 
+              <lb ed="#P" n="30"/>igitur etc consequentia tenet et antecedens patet
+            </p> 
+            <p xml:id="ppra-l63-ppncee">
+              primo nam salvando divinam simplicitatem non habemus <unclear>multiplicare</unclear> unitates quae 
+              <lb ed="#P" n="31"/>videntur divinam essentiam impedire <pc type="punctus"/> et sic salva fide omnimodam ydemptitatem tenere <pc type="punctus"/> nisi ubi 
+              <lb ed="#P" n="32"/>ecclesia docet nos <pc type="punctus"/> quia sic sic facere esset de deo detrahere <pc type="punctus"/> et contra eius simplicitatem aliquid sibi quod non 
+              <lb ed="#P" n="33"/>decet attribuere
+            </p>
+          </div>
+          <div xml:id="ppra-l63-Dd1e169">
+            <head xml:id="ppra-l63-Hqrarar">Quarta ratio</head>
+            <p xml:id="ppra-l63-qssefp">
+              <pc type="pilcrow"/> 4o arguitur nam si sic sequeretur quod deitas et essentia divina non esset formaliter immensa 
+              <lb ed="#P" n="34"/>nam capiamus rationes formales et peto utrum sit sapientia vel non si primum igitur bonitas et si non formaliter 
+              <lb ed="#P" n="35"/>tunc sequitur quod formalis ratio deitatis non est formaliter bona quod est absurdum et sic de aliis 
+              <lb ed="#P" n="36"/>et per consequens non erit <unclear>beatificativa</unclear> nam si eius formalitas sic distinguatur sic carebit infinitatis perfectionibus <unclear>quod</unclear> 
+              <lb ed="#P" n="37"/>non est dicendum 
+            </p> 
+            <p xml:id="ppra-l63-cnsefp">
+              <pc type="pilcrow"/> Confirmatur nam secundum sic oppinantes capio formalitatem essendi in deo et quaero de ipsa utrum 
+              <lb ed="#P" n="38"/>sit formalis <unclear>dogn?o</unclear> vel non <pc type="punctus"/> <pc type="virgula">/</pc> si primum erit eadem modo erit et pari ratione volibilis et sic non est erit formalitatum distinctio si non 
+              <lb ed="#P" n="39"/>sequeretur hoc inquirens scilicet quod in suae formalitate res esset minus perfecta scilicet homo quam asinus patet hoc quia in ipso 
+              <lb ed="#P" n="40"/>non est formaliter vivens nec formaliter volitivum et sic de multis aliis praedicatis <pc type="punctus"/> igitur asinus perfectior homine 
+              <lb ed="#P" n="41"/>quod est inquiens quia <unclear>h?</unclear> rationes essent sibi formales
+            </p>
+            <p xml:id="ppra-l63-cesdae">
+              <pc type="pilcrow"/> Confirmatur sic quoniam ratio essendi vel est cognitiva 
+              <lb ed="#P" n="42"/>vel non <pc type="punctus"/> si primum habetur intententum si non igitur non est examplar sive exemplative cognitiva quod est contra eum 
+              <lb ed="#P" n="43"/>Ex quo sequeretur quod impossibile esset deum formaliter cognoscere sive formalitatem entis creat <pc type="punctus"/> quoniam vel cognosceret 
+              <lb ed="#P" n="44"/>vel ratione entis vel per potentiam cognitivam et tunc cognitio ab intra esset cognitio simpliciter entitatis
+            </p> 
+            <p xml:id="ppra-l63-cnsefi">
+              <pc type="pilcrow"/> Confirmatur 
+              <lb ed="#P" n="45"/>nam si ratio essendi communicaretur per plenitudinem se sola ad extra et adaequate creatura deo participans esset minus perfecta 
+              <lb ed="#P" n="46"/>quam asinus et dicitur illa ratio ab intra est modice rationis nec esset intellectiva nec cognitiva et per consequens divina 
+              <lb ed="#P" n="47"/>essentia in suo esse res est imperfecta <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l63-Dd1e197">
+            <head xml:id="ppra-l63-Hqnrqnr">Quinta ratio</head>
+            <p xml:id="ppra-l63-ieeefo">
+              <pc type="pilcrow"/> Item isti doctores supponunt quod non possit esse diversitas in creaturis 
+              <lb ed="#P" n="48"/>quin reducatur ad aliquam diversitatem in deo Modo arguitur contra eos Et capio rationem essendi sortis et platonis 
+              <lb ed="#P" n="49"/>super tunc res distinctae et tunc quaero utrum distinguatur in deo <pc type="punctus"/> si dicatur quod sic tunc stat distinctione rerum esse 
+              <lb ed="#P" n="50"/>in deo vel rationes diversae in ipso si dicatur quod unica sit ratio exemplativa tunc stabit unitas exemplaris 
+              <lb ed="#P" n="51"/>in ipso eo et sic contra eos et habebunt salvari nobiscum quod eadem ratione erit etc
+            </p>
+          </div>
+          <div xml:id="ppra-l63-Dd1e228">
+            <head xml:id="ppra-l63-Hsxrsxr">Sexta ratio</head>
+            <p xml:id="ppra-l63-isddre">
+              <pc type="pilcrow"/> Si autem dicatur quod cuilibet 
+              <lb ed="#P" n="52"/>rationi obiectali correspondeant 
+            </p>
+          </div>
+          <div xml:id="ppra-l63-Dd1e237">
+            <head xml:id="ppra-l63-Hsprspr">Septima ratio</head>
+            <p xml:id="ppra-l63-aaovid">
+              Tunc arguitur sic nam si sic sequeretur quod nulla ratio corresponderet enti alicui <pc type="virgula">/</pc> probatio 
+              <lb ed="#P" n="53"/>vel hoc esset in esse entis diligibile vel indivisibile vel ratio ipsa esset univoca respectu sortis <pc type="punctus"/> vel habebit 
+              <lb ed="#P" n="54"/>obiectum in diligibile et talis non est danda et ergo sic <sic>opportet</sic> recurrere ad ratione imaginari <name>ioannes de rippa</name> 
+              <lb ed="#P" n="55"/>nam dicit quod quaelibet res significata habet propriam rationem exemplativam in deo <pc type="virgula">/</pc> Et ostenditur hoc quaerendo utrum 
+              <pb ed="#P" n="69-r"/>
+              <lb ed="#P" n="1"/>deo obiecto sortis si habeat rationem divisibilem vel indivisibilem si primum contra eum si non stat sicut prius <pc type="punctus"/>
+              <lb ed="#P" n="2"/><pc type="pilcrow"/> Aliae rationes multae possent fieri quae efficiuntur ab <name>okam</name> et ab aliis doctoribus sed ad praesens 
+              <lb ed="#P" n="3"/>non est vix
+            </p>
+            </div>
+            </div>
+          <div xml:id="ppra-l63-Dd1e278">
+            <head xml:id="ppra-l63-Hd1e280">Corollaria</head>
+            <div xml:id="ppra-l63-Dd1e283">
+              <head xml:id="ppra-l63-Hpcqdro">Primum corollarium</head>
+              <head xml:id="ppra-l63-Hd1e288" type="question-title">quod diversitas conceptuum <unclear>attributabilium</unclear> non semper oritur ex diversitate rationum <unclear>obiectialium</unclear></head>
+              <p xml:id="ppra-l63-eccsro">
+                <pc type="pilcrow"/> Ex hoc sequitur tamen quod diversitas conceptuum attributibilium non oritur semper ex diversitate 
+                <lb ed="#P" n="4"/>rationum obiectalium <pc type="virgula">/</pc> patet hoc nam in scientia possunt haberi diversis conceptus specifice differentes et 
+                <lb ed="#P" n="5"/>tamen obiectum esset idem et non arguit specificam distinctionem specierum intuitivarum 
+              </p>
+            </div>
+            <div xml:id="ppra-l63-Dd1e303">
+              <head xml:id="ppra-l63-Hsncsnc">Secundum corollarium</head>
+              <p xml:id="ppra-l63-scdsds">
+                <pc type="virgula">/</pc> 2o nec huiusmodi obiectum fiunt diversitatem 
+                <lb ed="#P" n="6"/>specificam a ratione obiectali
+              </p>
+            </div>
+            <div xml:id="ppra-l63-Dd1e314">
+              <head xml:id="ppra-l63-Htmctmc">Tertium corollarium</head>
+              <p xml:id="ppra-l63-suqsip">
+                <pc type="pilcrow"/> Ulterius sequitur quod diversitas huiusmodi notitiarum resolvitur in summum fecunditatem 
+                <lb ed="#P" n="7"/>libere motivitatis obiectivae <pc type="pilcrow"/> Ubi tamen advertendume st quod diversitas conceptuum respectu eiusdem causae immediate uniformiter 
+                <lb ed="#P" n="8"/>et omnimode se habent non <unclear>capietatur</unclear> a philosopho <pc type="virgula">/</pc> Ideo didebat quod idem in quantum idem semper natum est facere idem 
+                <lb ed="#P" n="9"/><pc type="pilcrow"/> Considerando ergo inmensa fecunditatem sequitur potestas ad diversos effectus eodemodo adaequate et in se 
+                <lb ed="#P" n="10"/>unde deus res habet eodem modo ab intra sicut est homo et vermis eodemodo habet ab intra hominem et vermen <pc type="punctus"/> sed cur 
+                <lb ed="#P" n="11"/>hominem et vermen resolvitur ad rationem suae libertatis <pc type="virgula">/</pc> modo ad propositum sicut est de causa effectiva 
+                <lb ed="#P" n="12"/>sic de causa obiectiva
+              </p>
+              <p xml:id="ppra-l63-eqidro">
+                <pc type="pilcrow"/> Ex quibus sequitur contra quamdam oppinionem 8va distinctione primi quod diversitas attributorum 
+                <lb ed="#P" n="13"/>divinorum non semper ordinatur mihi comparatione ad creaturas <pc type="pilcrow"/> dicitur tamen contrarium quod absque quod vivat creaturam potest 
+                <lb ed="#P" n="14"/>esse sine respectu ad ad talem et ita de sapiente et sic esset contra dicta 
+              </p>
+            </div>
+            <div xml:id="ppra-l63-Dd1e335">
+            <head xml:id="ppra-l63-Hqcqnad">Quartum corollarium</head>
+            <head xml:id="ppra-l63-Hd1e340" type="question-title">Quod pluralitas rationum formalium et cognitionum quae Deo attribuuntur debet referri ad creaturas et non ad Deum</head>
+              <p xml:id="ppra-l63-suqera">
+                <pc type="pilcrow"/> Sequitur ulterius quod pluralitas 
+                <lb ed="#P" n="15"/>deo attribuitur debet refferri ad creaturas et non ad deum verbi gratia deus dicitur esse exemplaria rerum debet 
+                <lb ed="#P" n="16"/>hoc referri ad effectum <unclear>id est</unclear> plurium rerum effectissimus <pc type="punctus"/> <pc type="pilcrow"/> Sic tamen locuntur doctores ratione habendi 
+                <lb ed="#P" n="17"/>leviorem modum concipiendi quia difficilius est deum cognoscere simplici conceptu quam etc
+              </p>
+            </div>
+          </div>
+        <div xml:id="ppra-l63-Dd1e351">
+          <head xml:id="ppra-l63-Hardrdr">Ad rationes de Rippa</head>
+          <p xml:id="ppra-l63-acpadg">
+            <pc type="pilcrow"/> Et tunc venio 
+            <lb ed="#P" n="18"/>ad rationes solvendas <pc type="pilcrow"/> Ad primam igitur quando arguebatur quod stat quod aliquis accedat ad deum et tamen non in esse 
+            <lb ed="#P" n="19"/>vitae igitur etc consequentia tenet et antecedens patet de materia prima et retorqueri potest contra ipsam et ita diceretur de gradibus 
+            <lb ed="#P" n="20"/>essendi <pc type="pilcrow"/> et tunc arguitur sic aliquis <sic>imittitur</sic> deum in duobus gradibus scilicet secundum patrem et filium et tamen 
+            <lb ed="#P" n="21"/>non in esse trinum igitur etc
+          </p>
+          <!-- doesn't seem present
+            <p xml:id="ppra-l63-iraeve">
+            Ideo respondeo ambabus rationibus 
+            quando sic arguit quod aliquis participat et imitatur deum 
+            in esse et non in esse vitae etc.
+          </p>-->
+          <p xml:id="ppra-l63-pdqepi">
+            <pc type="pilcrow"/> Ad rationem ergo dicitur quod ad hoc quod aliquis <sic>imittetur</sic> aliud oportet ipsa par<lb ed="#P" break="no" n="22"/>ticipare 
+            secundum denominationis 
+          </p>
+          <p xml:id="ppra-l63-sdqlpt">
+            <pc type="pilcrow"/> 2o potest dici quod participat etiam immensitatem non quod istud praedicatum sibi competat 
+            <lb ed="#P" n="23"/>et sic negaretur consequentia vita dei partiicpatur a materia prima igitur materia prima vivit
+          </p>
+          <p xml:id="ppra-l63-asrsed">
+            <pc type="pilcrow"/> Ad 2am quando dicebatur diversis 
+            <lb ed="#P" n="24"/>effectibus correspondent diversae rationes essendi 
+          </p>
+          <p xml:id="ppra-l63-iiapde">
+            <pc type="pilcrow"/> Ista videtur in radice satis soluta nam deus agit 
+            <lb ed="#P" n="25"/>intensum et remissum aequali gradu activitatis <pc type="virgula">/</pc> et ita eadem notitia cognoscit sortem et platonem formaliter 
+            <lb ed="#P" n="26"/>sine distinctione quacumque et simplicissime Et sic eodem modo concurrit producendo magnum et parvum <pc type="punctus"/> Et hoc 
+            <lb ed="#P" n="27"/>ex sua immensitate videtur consurgere 
+          </p> 
+          <p xml:id="ppra-l63-espidr">
+            <pc type="punctus"/> et per consequens ratio non concludit Et nota quod in istis fundat 
+            <lb ed="#P" n="28"/>se <name>de rippa</name> <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e433">
+          <head xml:id="ppra-l63-Harsars">Ad rationes Scoti</head>
+          <p xml:id="ppra-l63-asrrds">
+            <pc type="pilcrow"/> Aliae rationes sunt <name ref="#Scotus">doctoris subtilis</name>
+          </p>
+          <p xml:id="ppra-l63-prsica">
+            <pc type="pilcrow"/> prima est sapientia in communi non est bonitas 
+            <lb ed="#P" n="29"/>in communi et per consequens non est formaliter bonitas infiniti igitur etc
+          </p>
+          <p xml:id="ppra-l63-irecnh">
+            <pc type="pilcrow"/> Ad istam dicitur quod posita est in obscuris terminis 
+            <lb ed="#P" n="30"/>Sed tamen videtur velle dicere quod ista <del>deus est bonitas</del> sapientia est bonitas non est per se propositio et est sensus quod bonitas 
+            <lb ed="#P" n="31"/>in communi non est sapientia in communi aut econtra et sic non est per se in terminis non restrictis Et sic capiaus quod bonitas 
+            <lb ed="#P" n="32"/>non est sapientia id est sapientia in communi etc sicut dictum est non est propositio per se in primo modo dicendi per se <pc type="punctus"/> unde si addatur 
+            <lb ed="#P" n="33"/>infinitum bonitas divina tunc non erit sapientia divina <pc type="pilcrow"/> Unde considerandum est de <subst><add place="above-line"><unclear>mutatione</unclear></add> <del rend="strikethrough">emanatione</del></subst> illa sicut tactum est 
+            <lb ed="#P" n="34"/>in materia trinitatis scilicet quod infinitum variat materiam licet non diversificet speciem <pc type="pilcrow"/> Tamen diversificat species 
+            <lb ed="#P" n="35"/>sicut patet de <choice><orig>3angulo</orig><reg>triangulo</reg></choice> nam <unclear>linea</unclear> finita potest fieri infinita unde inquantum finita non vacat sed 2o modo vriat ut 
+            <lb ed="#P" n="36"/>potest patere consideranti 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l63-sdqdtd">
+            Et etiam dicitur quod ista ratio praesupponit quod bonitas et bonum dicantur univoce 
+            <lb ed="#P" n="37"/>de sapientia et sapientia increata 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l63-tdqqnp">
+            et sic negatur sibi <pc type="virgula">/</pc> quia non probat aliquid nisi de perseitate logicali et sic 
+            <lb ed="#P" n="38"/>probat quod non est in primo modo dicendi per se scilicet bonitas <del rend="strikethrough">non</del> est sapientia quare etc Et nota quod sine dubio 
+            <lb ed="#P" n="39"/>aliquando doctores non distingunt de quidditate ex parte rei et ex parte terminorum sive accidentium et ex eo 
+            <lb ed="#P" n="40"/>multi sunt involuti <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l63-Dd1e510">
+          <head xml:id="ppra-l63-Hraaaar">Response ad alia rationes</head>
+          <p xml:id="ppra-l63-aernad">
+            <pc type="pilcrow"/> Aliae sunt rationes quae fundantur supra doctores <pc type="punctus"/> Sed breviter dicitur quod sic 
+            <lb ed="#P" n="41"/>pluraliter locuntur refferendo ad effectus et non ad causam
+          </p> 
+          <p xml:id="ppra-l63-artvlp">
+            <pc type="pilcrow"/> Alia tamen ratio tangebat de emanantionibus 
+            <lb ed="#P" n="42"/>scilicet quod ex ipsas arguebatur distinctio principiorum elicitorum sicut de patre et filio <pc type="virgula">/</pc> unde filius procedit a patre per 
+            <lb ed="#P" n="43"/>modum nati spiritus sanctus per modum dati vel doni <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l63-hrardp">
+            <pc type="pilcrow"/> <name ref="#Wodeham">Adam</name> respondet concedendo hoc de emanationeibus 
+            <lb ed="#P" n="44"/>passivis et non activis <pc type="punctus"/> Unde emanatio in divinis <add place="above-line">a patre</add> requiritur filium <pc type="punctus"/> sed emanatio filii non requirit spiritus sancti ema<lb ed="#P" break="no" n="45"/>nationem 
+            <pc type="punctus"/> unde aliqua requiruntur ad sancti spiritus emanationem quae non ad filium <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l63-qednup">
+            <pc type="pilcrow"/> Quantum est de activis non 
+            <lb ed="#P" n="46"/>requirunt aliqua principia
+          </p>
+          <p xml:id="ppra-l63-vacvei">
+            <pc type="pilcrow"/> Et tunc ad confirmationem quomodo salvatur quod filius procedit per modum intellectus 
+            <lb ed="#P" n="47"/>et spiritus sanctus per modum voluntatis 
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l63-reiipa">
+            <pc type="virgula">/</pc> Respondetur quod formaliter sunt idem et nihilominus potest diversos effectus producere et secundum 
+            <lb ed="#P" n="48"/>diversas modos producendi
+          </p>
+          <p xml:id="ppra-l63-ipepmv">
+            unde pater idem est principium adaequate respectu filii et spiritus sancti nec est ymaginandum 
+            <lb ed="#P" n="49"/>quod producat libere tantum sed libere contingenter <pc type="pilcrow"/> Unde conformiter dici potest ad propositum de anima nostra nam con<lb ed="#P" break="no" n="50"/>currit 
+            in eodem genere causae libere et contingenter unde actus appetitivae voluntas aut libere <pc type="punctus"/> unde per idem pater 
+            <lb ed="#P" n="51"/>concurrit formaliter quia non est distinctio ponenda in patre etc <pc type="pilcrow"/> Et sic ista diversitas resolvitur ad sententiam die simplicitatem 
+            <lb ed="#P" n="52"/>immensitatem <pc type="pilcrow"/> Sub aliis tamen terminis dicunt doctores <pc type="pilcrow"/> Unde dicere quod spiritus sanctus procedit per modum voluntatis 
+            <lb ed="#P" n="53"/>hoc est dicere ab ambobus scilicet patre et filio et sic filius se habet per modum intellectus et spiritus sanctus per modum voluntatis 
+            <lb ed="#P" n="54"/>non quod sit distinctio a parte rei <pc type="punctus"/> sed unica et simplex sicut patet de anima nostra nam intellectio ratio voluntas sunt eadem
+            <pb ed="#P" n="69-v"/>
+            <lb ed="#P" n="1"/>ita in proposito nostro <pc type="punctus"/> et fortiori ratione adhuc <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l63-arespn">
+            <pc type="pilcrow"/> Alia ratio tangebat quod pari ratione produceret aliam 
+            <lb ed="#P" n="2"/>personam dicitur <del>quod ista ratio est sophistica</del> sed <name>gregorius</name> quod nulla divina necessario est in 3bus personis
+          </p>
+          <p xml:id="ppra-l63-uraect">
+            <pc type="pilcrow"/> Ad aliam 
+            <lb ed="#P" n="3"/> quando dicitur ratio aliqua attribuitur intellectivi quae non attribuitur voluntati dicitur quod ipsa est sophistica nam 
+            <lb ed="#P" n="4"/>si intellectus intelligit et voluntas vult nihil pro tanto distinguitur realiter sed propter verbum quod significat aliter 
+            <lb ed="#P" n="5"/>et aliter et hoc est ratione <unclear>conotationis</unclear> terminorum <pc type="punctus"/> unde quidquid affirmatur de intellectu et de voluntate etiam 
+          </p> 
+          <p xml:id="ppra-l63-arcvni">
+            <lb ed="#P" n="6"/><pc type="pilcrow"/> unde <ref xml:id="ppra-l63-Rd1e555"><name ref="#Chatton">chaton</name></ref> dicit quod tales propositiones intellectus intelligit et bonitas vult ponendo distinctionem sine 
+            <lb ed="#P" n="7"/>per se sumendo voluntatem et intellectus concederetur et tamen a parte rei essent idem totaliter et hoc sufficiat
+          </p> 
+          <!--
+            doesn't really seem present
+            <p xml:id="ppra-l63-varevd">
+            Vel aliter respondetur resolvendo istud ad perseitatem 
+            quia licet intellectus 
+            et voluntas supponant pro eodem tamen ista esset per se 
+            intellectus intelligit et ista non voluntas intelligit, 
+            et sic a parte rei non <unclear>probares</unclear> aliquam distinctionem 
+            inter intellectum divinum et voluntatem divinam.
+          </p> 
+          <p xml:id="ppra-l63-ipqpre">
+            Ideo patet qualiter sit respondendum ad 
+            omnes praedicatas rationes, etc., et cetera, etc.
+          </p>-->
+        </div>
+        <div xml:id="ppra-l63-Dxxyy1">
+          <head xml:id="ppra-l63-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l63-axxyy3">
+            <lb ed="#P" n="8"/><pc type="pilcrow"/> Prima conclusio supra distinctione 12ma fuit quod lux fuit divisa a tenebris quae intelligitur modo quo supra dictum est 
+          </p>
+          <p xml:id="ppra-l63-axxyy4">
+            <pc type="pilcrow"/> Alia conclusio 2a per lucem aliquod lucidum intelligitur
+          </p>
+          <p xml:id="ppra-l63-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio ex luce creatus fuit sol <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l63-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio prima 
+            <lb ed="#P" n="9"/>dies non habuit mane
+          </p>
+          <p xml:id="ppra-l63-axxyy7">
+            <pc type="pilcrow"/> 5a conclusio in triduo erat tenebrae super facie abysssi etc
+          </p>
+          <p xml:id="ppra-l63-axxyy8">
+            <pc type="pilcrow"/> 6a 
+            <lb ed="#P" n="10"/>deus non dicit temporaliter fiat lux sed aeternaliter
+          </p>
+          <p xml:id="ppra-l63-axxyy9">
+            <pc type="pilcrow"/> 7a pater dicitur operari in filio non sicut in instrumento 
+            <lb ed="#P" n="11"/>sed tamquam per instrumentum
+          </p>
+          <p xml:id="ppra-l63-axxyy10">
+            et haec de lectione praesenti sed duo magistri me <unclear>respondebant</unclear> <unclear>reaportandae</unclear> in <unclear>capitulis</unclear> 
+            <lb ed="#P" n="12"/>et videbitur mihi quod ridebant pro tanto quod <unclear>reaportabit</unclear> conclusiones distinctionum et sic non totum recte posui
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

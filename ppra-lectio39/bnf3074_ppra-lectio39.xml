@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 39 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 39 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-28">May 28, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="54-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio39">
+        <head xml:id="ppra-l39-Hldfldf">Lectio 39, de Fruitione</head>
+        <div xml:id="ppra-l39-Dd1e90">
+          <head xml:id="ppra-l39-Hqsirdd">Quae sit intrinseca ratio diligibilitatis Dei?</head>
+          <p xml:id="ppra-l39-poecad">
+            <lb ed="#P" n="18"/>Consequenter circa materiam heri tactam videlicet de intrinseca dei ratione et caeteris videndum est quasi per effectum si ex 
+            <lb ed="#P" n="19"/>habitudine considerari et tendentiae <del rend="strikethrough">in</del> creaturae in deum 
+          </p>
+          <div xml:id="ppra-l39-Dd1e107">
+            <head xml:id="ppra-l39-Hqcaesp">Quod creaturae ad Deum et viceversa est summa propinquitas</head>
+            <p xml:id="ppra-l39-echetd">
+              Et circa hoc sit prima propositio <pc type="pilcrow"/> Creaturae ad deum 
+              <lb ed="#P" n="20"/>est summa propinquitas ex qua debet consurgere ratio summae dilectionis <pc type="virgula">/</pc> unde postquam pater est causa filii quia dat 
+              <lb ed="#P" n="21"/>esse filio <pc type="punctus"/> sequitur quod est ei propinquis ratione concursus ymmo propinquissimus ex parte generis et per consequens deus ad<lb ed="#P" break="no" n="22"/>huc 
+              magis quia in ipso reperitur summa paternitas sive summa paterna diligibilitas sicut resolvendo patet 
+              <lb ed="#P" n="23"/>et in ipso reperitur plena causalitas 
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e126">
+            <head xml:id="ppra-l39-Hqiiqpc">Quod in infinitum in Deo reperitur maior causalitas paterna et materna superna amicitae beneficientiae, et purae honestatis, delectabilis, et utilis quam in quocumque Patre carnali</head>
+            <p xml:id="ppra-l39-eqsimo">
+              <pc type="virgula">/</pc> Et etiam omnis causa materna in eo reperitur perfectiori modo quam in 
+              <lb ed="#P" n="24"/>nostrae carnali et ita resolvendo omnes habitudines <pc type="punctus"/> <pc type="pilcrow"/> Unde doctores dicunt ulterius quod licet angelus 
+              <lb ed="#P" n="25"/>sit perfectior homine nihilominus deus angelos fecit ut homini servirent <pc type="virgula">/</pc> et aliae species <pc type="punctus"/> sicut sunt animalia etc 
+              <lb ed="#P" n="26"/><pc type="pilcrow"/> Unde eo ipso quod est deus est unitas perfectionis entis <pc type="pilcrow"/> Ex quo congrue vocatur pater ut in oratione 
+              <lb ed="#P" n="27"/>dominica dicitur pater noster etc Ex quibus equitur quod deus vult nos omnes esse nobiles quia patrem habemus 
+              <lb ed="#P" n="28"/>immediate nobilissimum <pc type="virgula">/</pc> ut patet per <name>apostolum</name>
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e185">
+            <head xml:id="ppra-l39-Hqnoisu">Quo nos omnes essemus nobiles nisi sponte degeneraretur et sponte reduceretur in <unclear>servitudinem[?]</unclear> ultimam</head>
+            <p xml:id="ppra-l39-suqmbp">
+              <pc type="pilcrow"/> Unde ipsius genere sumus <pc type="pilcrow"/> Ex quo sequitur peccati turpitudo 
+              <lb ed="#P" n="29"/><unclear>innobiles</unclear> nos facit deo nobilitatem nostri generis reliquendo <pc type="punctus"/> et peccatis adhaerenco <pc type="punctus"/> Et sic nimirum 
+              <lb ed="#P" n="30"/>si graviter puniamur pro offensa peccati quoniam vilissima perpetramus quando peccatis adhaeremus
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e228">
+            <head xml:id="ppra-l39-Hqommei">Quod omnis malus est ignorans</head>
+            <p xml:id="ppra-l39-suqiqq">
+              <pc type="pilcrow"/> Ulterius 
+              <lb ed="#P" n="31"/>sequitur quod omnis malus est ignorans ut videtur <name>aristoteles</name> libro ethicorum dixisse et nisi esset ignorantia sua nonquam 
+              <lb ed="#P" n="32"/>nobilitatem sui generis relinqueret maxime advertendo ad rem quae boni non habet rationem
+            </p>
+            <p xml:id="ppra-l39-uaqnpt">
+              <pc type="pilcrow"/> Unde ulterius 
+              <lb ed="#P" n="33"/>est sciendum quod in omni peccato est quaedam tristitia vel ydemptitas cum natura <pc type="virgula">/</pc> quae ex inclinatione naturali consurgit 
+              <lb ed="#P" n="34"/>sed hoc <unclear>dupliciter</unclear> nam vel hoc est per modum primi motus aliqua repraesentabilis <pc type="pilcrow"/> Etiam licet non consurgeret aliqua 
+              <lb ed="#P" n="35"/>tristitia non esset etc
+            </p>
+            <p xml:id="ppra-l39-uaqlnp">
+              <pc type="pilcrow"/> Unde secundum <ref xml:id="ppra-l39-Rd1e209"><name ref="#WilliamOfParis">magistrum guillelmus parisiensem</name></ref> praeter quinque sensus exteriores et interiores 
+              <lb ed="#P" n="36"/>ponitur unus sensus naturae instinctualis per quem res percipit aliquid sibi inconveniens <pc type="pilcrow"/> Iuxta quod 
+              <lb ed="#P" n="37"/>sequitur quod sortes percipiat inimicum et non per aliquem sensum animalium sive aliud obiectum tristabilem et tristatur 
+              <lb ed="#P" n="38"/>modo suo tristabili <pc type="pilcrow"/> Ex quo infertur ulterius quod omne peccatum est realiter tristabile quia extrinsecum 
+              <lb ed="#P" n="39"/>tristabile causatur in potentia exteriori
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e318">
+            <head xml:id="ppra-l39-Hqneten">Quod nihil ex nobis possumus tamquam ex nobis.</head>
+            <p xml:id="ppra-l39-suqead">
+              <pc type="pilcrow"/> Ulterius sequitur quod nihil possumus nobis tamquam ex nobis sed sufficientia 
+              <lb ed="#P" n="40"/>nostra ex deo ut dicit <name>apostolus</name> <pc type="pilcrow"/> Ex quo sequitur quod facere malum non inest nobis ex virtute propria 
+            </p>
+            <p xml:id="ppra-l39-esppls">
+              <lb ed="#P" n="41"/>Pro quo est advertendum quod aliqua fuit secundum naturae cursum <pc type="punctus"/> aliqua non sed modo communi <pc type="virgula">/</pc> unde causae sunt ordinatae 
+              <lb ed="#P" n="42"/>secundum nutum summi principis <pc type="virgula">/</pc> et si deus operetur extra eas tunc supernaturaliter sequetur effectus
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e385">
+            <head xml:id="ppra-l39-Hqoeavs">Quod optima est habitudo subiectionis creaturae per actus virium superiorum</head>
+            <p xml:id="ppra-l39-suqoid">
+              <pc type="pilcrow"/> dicitur 
+              <lb ed="#P" n="43"/>ulterius quod optima est habitudo subiectionis creaturae per actus virium superiorum patet <add place="above-line">non</add> mediate ipsa habetur pax 
+              <lb ed="#P" n="44"/>modo creatura tendit in eam tamquam ipsa indigens et sic est quod deus est summa pax igitur etc <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e409">
+            <head xml:id="ppra-l39-Hqsdern">Quod sic Deo subici est realiter nobilitari</head>
+            <p xml:id="ppra-l39-suqeen">
+              <pc type="pilcrow"/> ulterius sic 
+              <lb ed="#P" n="45"/>deo subici est realiter nobilitari patet quoniam <unclear>si</unclear> esse est fieri filius dei
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e427">
+            <head xml:id="ppra-l39-Hqicqhd">Quod in creatura habitudo subiectionis est nobilior quam habitudo denominationis</head>
+            <p xml:id="ppra-l39-sqihdh">
+              <pc type="pilcrow"/> Ex quo sequitur ulterius quod habitudo 
+              <lb ed="#P" n="46"/>subiectionis nobilior est quam dominationis <pc type="virgula">/</pc> nam duplicem habitudinem potest habere 
+            </p> 
+            <p xml:id="ppra-l39-uarped">
+              <pc type="virgula">/</pc> una ad res aliam ad deum 
+              <lb ed="#P" n="47"/>Et sic comparando res adinvicem habitudo 
+            </p>
+            <p xml:id="ppra-l39-ahafpe">
+              2a nobilior est et perfectior <unclear>t?</unclear>
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e462">
+            <head xml:id="ppra-l39-Hqmeudu">Quod melius est animae Christi Deo plene subici quam toti mundo dominari vel hypostatica unione Deo uniri</head>
+            <p xml:id="ppra-l39-sqmsse">
+              <pc type="pilcrow"/> Ulterius sequitur quod nobilius est animae christi 
+              <lb ed="#P" n="48"/>deo subici quam ypostatice uniri nam sine unione ypostatica staret animam christi esse perfectissima sive felicissima 
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e487">
+            <head xml:id="ppra-l39-Hqneqac">Quod nobilius est servire quam dominari quantum ad creaturam</head>
+            <p xml:id="ppra-l39-sqnadc">
+              <lb ed="#P" n="49"/><pc type="pilcrow"/> Ex quibus sequitur quod nobilius est servire quam durari quoad creatura <pc type="virgula">/</pc> Et hoc testatur scriptura servire 
+              <lb ed="#P" n="50"/>deo regnare est <pc type="pilcrow"/> Etiam nobilitas regni est ex subiectione creaturae ad deum 
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e506">
+            <head xml:id="ppra-l39-Hqspqen">Quod secundum proportionem subiectionis creaturae ad Deum quantificatur eius nobilitas</head>
+            <p xml:id="ppra-l39-suqern">
+              <pc type="pilcrow"/> Ulterius secundum proportionem
+              <lb ed="#P" n="51"/>creaturae ad deum quantificatur eius nobilitas et hoc quo ad causam radicalem secundum quod princeps 
+              <lb ed="#P" n="52"/>denominantur nobiles a prima radice sui generis <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e526">
+            <head xml:id="ppra-l39-Hqpegso">Quod praelati et doctores ad maiorem gradum subiectionis obligantur</head>
+            <p xml:id="ppra-l39-sqpoem">
+              <pc type="pilcrow"/> Unde sequitur quod praelati et doctores ad maiorem poneam 
+              <lb ed="#P" n="53"/>si peccaverint obligantur quam inferiores et hoc ex habitudine sui divini videtur consurgere
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e552">
+            <head xml:id="ppra-l39-Hqsvvgs">Quod sunt varii gradus subiectionis</head>
+            <p xml:id="ppra-l39-uaecad">
+              <pc type="pilcrow"/> Tamen advertendum est quod hoc fit diversis de causis 
+            </p>
+            <p xml:id="ppra-l39-pgesda">
+              <pc type="virgula">/</pc> primo in praelatis ratione dignitatis et durationis <pc type="virgula">/</pc> in doctoribus 
+              <lb ed="#P" n="54"/>ratione intelligentis et scientiae et sic ulterius in aliis gradibus suo modo
+            </p>
+            <p xml:id="ppra-l39-sqesgo">
+              Sed quantum est ex parte 
+              <pc type="pilcrow"/> unde sciendum est quod suppremus gradus subiectionis
+              <pb ed="#P" n="55-r"/>
+              <lb ed="#P" n="1"/>creaturae est substinere quicquid deo placeret sive infinitas poenas aut quodcumque aliud ymaginabile 
+              <lb ed="#P" n="2"/>sive boni sive mali <pc type="pilcrow"/> Infimus autem gradus est velle quicquid praecipiat <unclear>victandum</unclear> <pc type="pilcrow"/> Consequenter
+              <lb ed="#P" n="3"/>sed gradus obligationis dicitur quod doctores obligatur secundum suos gradus et praelati et alii <del rend="strikethrough">per</del>
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e621">
+            <head xml:id="ppra-l39-Hqadpgs">Quod ad Deum diligendum fruitione in via non obligamur in primo modo nec ad primum gradum subiectionis</head>
+            <p xml:id="ppra-l39-sqaess">
+              <lb ed="#P" n="4"/><pc type="pilcrow"/> Unde sequitur ulterius quod primo modo fruitive non obligantur quia nusquam reperitur in sacra scriptura quod creatura 
+              <lb ed="#P" n="5"/>velit perpetuo cruciari <pc type="pilcrow"/> unde si obiciatur aliqua poena non debet considerare sed tollere quia non 
+              <lb ed="#P" n="6"/>obligatur ad hoc  
+            </p>
+            <!-- very fuzzy parallel; review break -->
+            <p xml:id="ppra-l39-sdqmds">
+              nihilominus dicitur quod si ex electione faciat summe meretur
+            </p>
+          </div>
+          <div xml:id="ppra-l39-Dd1e660">
+            <head xml:id="ppra-l39-Hqeaccd">Quod electio adnihilationis vel perpetui cruciatus contingit dupliciter</head>
+            <p xml:id="ppra-l39-uaqdsh">
+              <pc type="pilcrow"/> ulterius sequitur quod cum huiusmodi 
+              <lb ed="#P" n="7"/>electione contingit creaturam repugnare 
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l39-umaemp">
+              Uno modo absque 
+              Remorsu inferiorum virium et cum efficienti <unclear>voluntivae[?]</unclear> 
+              ad sustinendum talem penam, et sic talis creatura esset 
+              magnae perfectionis.
+            </p>-->
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l39-amqcfm">
+              et etiam elementa suae corrumpi <pc type="virgula">/</pc> quia omne ens appetit se 
+              <lb ed="#P" n="8"/>permanere <pc type="punctus"/>
+            </p>
+            <!--
+              doens't seem present 
+              <p xml:id="ppra-l39-edvshr">
+              Et deus vellet elementum 
+              corrumpi, tamen deus ordinavit quod elementum, quantum 
+              possit, Resistat suae corruptioni, sicut etiam possumus 
+              <pb ed="#SV" n="246-r"/>
+              <cb ed="#SV" n="a"/>
+              esse in caritate, 
+              licet in nobis sit huius rebellio.
+            </p>-->
+            <p xml:id="ppra-l39-supcsr">
+              <pc type="pilcrow"/> Et utrum possit esse aliqua creatura quae sic inclinaretur ad anihilationem dicitur quod sic 
+              <lb ed="#P" n="9"/>maxime de anima christi <pc type="pilcrow"/> Unde paulus <unclear>exinaverit</unclear> semet ipsum formam sensus suscipiens <pc type="virgula">/</pc> et sic 
+              <lb ed="#P" n="10"/>plena fuit obedientia in christo cum promptitudine subiectionis sine aliquo remorsu
+            </p> 
+            <p xml:id="ppra-l39-espdee">
+              <pc type="pilcrow"/> Ex quibus 
+              <lb ed="#P" n="11"/>omnibus patet qualiter creatura obligatur ad deum diligendum <pc type="punctus"/> et in hoc lecto terminatur
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l39-Dd1e947">
+          <head xml:id="ppra-l39-Hd1e949">Conclusiones</head>
+          <p xml:id="ppra-l39-d1e952">
+            <pc type="pilcrow"/> prima conclusio lectionis 
+            <lb ed="#P" n="12"/>deus non incipit esse de novo in aliquo et hoc est verum
+          </p>
+          <p xml:id="ppra-l39-d1e980">
+            <pc type="pilcrow"/> 2a conclusio deus est in spiritibus 
+            <lb ed="#P" n="13"/>sic quod magis opera in una creatura quam alia et hoc potest probari a sibi de anima nam anima plus operatur 
+            <lb ed="#P" n="14"/>in visu quam in pede etc
+          </p>
+          <p xml:id="ppra-l39-d1e996">
+            <pc type="pilcrow"/> 3a conclusio ubicumque deus est sed hoc diversimode nam in <unclear>bonis</unclear> habitat 
+            <lb ed="#P" n="15"/>per gratiam in malis non inhabitat <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l39-d1e1007">
+            <pc type="pilcrow"/> 4a conclusio antequam res essent deus erat in seipso 
+          </p>
+          <p xml:id="ppra-l39-d1e1017">
+            <pc type="pilcrow"/> 5a 
+            <lb ed="#P" n="16"/>deus est habitor non <unclear>cognoscentium</unclear> ipsum patet hoc de parvulis nam in ipsis <unclear>v?ite</unclear> sacramenti infunditur  
+          </p>
+          <p xml:id="ppra-l39-d1e1037">
+            <lb ed="#P" n="17"/><pc type="pilcrow"/> 6a conclusio sicut radii solis sorde non fedantur ita nec christus malis hominibus ipsum suscipientibus sordidatur 
+          </p>
+          <p xml:id="ppra-l39-d1e1049">
+            <lb ed="#P" n="18"/><pc type="pilcrow"/> 7a conclusio deus non est mobilis localiter 
+          </p>
+          <p xml:id="ppra-l39-xxyyaa1"><!--doesn't seem to have parallel in erlangen or pal -->
+            <pc type="pilcrow"/> 8va conclusio creatura movetur secundum tempus non deus
+          </p>
+          <p xml:id="ppra-l39-d1e1056">
+            <pc type="pilcrow"/> 9va et 
+            <lb ed="#P" n="19"/>ultima deus nullo modo est mobilis patet hoc satis et maxime in <ref target="http://scta.info/resource/aristdp-d1e105"><!-- target imprecise -->8vo physicorum</ref>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

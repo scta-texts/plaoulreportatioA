@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio38">
+      <head xml:id="ppra-l38-ldfldf">Lectio 38, de Fruitione</head>
+      <div xml:id="ppra-l38-Dd1e82">
+        <head xml:id="ppra-l38-Haaidfq">Additiones ad illud quod creatura rationalis non potest nisi
+          in Deo finaliter quietari</head>
+        <p xml:id="ppra-l38-vpqapa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-vpqapa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-vpqapa"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l38-Dd1e98">
+          <head xml:id="ppra-l38-Hppqrmb">Prima propositio</head>
+          <head xml:id="ppra-l38-Hd1e122" type="question-title">Quod ratio quietationis in Deo non
+            est ex hoc quod intellectus non reperit maius bonum</head>
+          <p xml:id="ppra-l38-pqrrmb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-pqrrmb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-pqrrmb"/>
+            </assertions>
+          </p>
+          <!--
+              not present ? 
+              <p xml:id="ppra-l38-ehprmb">
+              Et hoc pono est contra unum doctorem. 
+              Inde imaginatur iste doctor quod intellectus 
+              quietatur quia discurrendo non reperit maius bonum.
+            </p>-->
+          <p xml:id="ppra-l38-scsrit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-scsrit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-scsrit"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l38-ulicnq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-ulicnq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-ulicnq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l38-usiiei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-usiiei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-usiiei"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e194">
+          <head xml:id="ppra-l38-Hsecdum">Secundum</head>
+          <p xml:id="ppra-l38-sdqcuv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-sdqcuv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-sdqcuv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e219">
+          <head xml:id="ppra-l38-Hterium">Tertium</head>
+          <p xml:id="ppra-l38-tdqset">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-tdqset"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-tdqset"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e233">
+          <head xml:id="ppra-l38-Hquatum">Quartum</head>
+          <p xml:id="ppra-l38-iqdfeq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-iqdfeq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-iqdfeq"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l38-Dd1e256">
+        <head xml:id="ppra-l38-Hadreof">Aegidius de Roma et tres causas quod Deus est obiectum
+          felicitatis</head>
+        <p xml:id="ppra-l38-echatc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-echatc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-echatc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l38-Dd1e271">
+          <head xml:id="ppra-l38-Hpcpcpc">Prima causa</head>
+          <p xml:id="ppra-l38-paccid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-paccid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-paccid"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l38-udmepe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-udmepe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-udmepe"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e340">
+          <head xml:id="ppra-l38-Hscscsc">Secunda causa</head>
+          <p xml:id="ppra-l38-svqtib">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-svqtib"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-svqtib"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present
+              <p xml:id="ppra-l38-eivssb">
+              Et ista via continet 
+              duas, quia Realiter creatura non diligitur propter aliquam umbram 
+              participatam a summa bonitate, et sic in deo Reperitur summa 
+              bonitas, ideo magis debet diligi, et etiam creatura non est 
+              nisi quoddam minimum vestigium ad similitudinem summae bonitatis.
+            </p>-->
+          <!--
+              Doesn't seem present
+              <p xml:id="ppra-l38-ieatqs">
+              Item est alia via ex ordinatione totius ad partem. et sic videmus 
+              quod unum elementum relinquit bonum proprium propter universum 
+              <pb ed="#SV" n="244-v"/>
+              <cb ed="#SV" n="a"/>
+              et sic ordo naturae est quod semper praefert pars totum sibi et magis 
+              diligit totum quam se.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l38-Dd1e383">
+          <head xml:id="ppra-l38-Htctctc">Tertia causa</head>
+          <p xml:id="ppra-l38-tcqqci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-tcqqci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-tcqqci"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l38-Dd1e401">
+        <head xml:id="ppra-l38-Hdsqpsd">Difficultas sub qua ratione est proprie sic
+          diligibilis</head>
+        <p xml:id="ppra-l38-seesdf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-seesdf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-seesdf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l38-epderd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-epderd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-epderd"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l38-scqiir">
+            Sed contra quia non oportet quod beatus videat deum secundum quamlibet rationem 
+            formalem deo competentem, quia haberet omnem notitiam de deo 
+            et sic sciret omne praedicatum dicibile de deo intuitive et evidenter, 
+            et sic unus beatus non perfectius cognosceret quam alius. et 
+            sic omnes essent aeque vim, quia beatitudo magis consistit in illis 
+            rationibus.
+          </p>-->
+        <p xml:id="ppra-l38-eichob">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-eichob"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-eichob"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l38-strpsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l38-strpsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-strpsc"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l38-scdqit">
+            <pc type="virgula">/</pc> unde sequitur contra <name ref="#Durandus">du<lb ed="#P"/>randum</name> 
+            quod obiectum dei non est quietativum
+          </p>-->
+      </div>
+      <div xml:id="ppra-l38-Dd1e511">
+        <head xml:id="ppra-l38-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l38-Dd1e516">
+          <head xml:id="ppra-l38-Hpcqspd">Primum corollarium</head>
+          <head xml:id="ppra-l38-Hd1e322" type="question-title">Quod in Deo sit plenitudo
+            divini</head>
+          <p xml:id="ppra-l38-sepqss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-sepqss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-sepqss"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e534">
+          <head xml:id="ppra-l38-Hscqapv">Secundum corollarium</head>
+          <head xml:id="ppra-l38-Hd1e336" type="quesiton-title">Quod Deus iuste potest quos vult ad
+            praedestinationem vocare</head>
+          <p xml:id="ppra-l38-ehsmee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-ehsmee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-ehsmee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e562">
+          <head xml:id="ppra-l38-Htcqeec">Tertium corollarium</head>
+          <head xml:id="ppra-l38-Hd1e357" type="question-title">Quod dominari non est ita essentiali
+            Deo sicut subici est essentiale creaturae</head>
+          <p xml:id="ppra-l38-suqeaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-suqeaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-suqeaa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e586">
+          <head xml:id="ppra-l38-Hqcqiqe">Quartum corollarium</head>
+          <head xml:id="ppra-l38-Hd1e369" type="question-title">Quod creatura est magis Deo subiecta
+            quam sit in se ipsa quaedam essentia</head>
+          <p xml:id="ppra-l38-suqisf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-suqisf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-suqisf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l38-Dd1e606">
+          <head xml:id="ppra-l38-Hqcqehs">Quintum corollarium</head>
+          <head xml:id="ppra-l38-Hd1e382" type="question-title">Quod nullius creaturae ad aliam est
+            essentialis habitudo subiectionis</head>
+          <p xml:id="ppra-l38-suqmsn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l38-suqmsn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-suqmsn"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppr-l38-Dd1e870">
+        <head xml:id="ppr-l38-Hd1e872">Conclusiones</head>
+        <p xml:id="ppr-l38-d1e875">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e875"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l38-d1e901">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e901"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l38-d1e914">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e914"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l38-d1e935">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e935"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l38-d1e947">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e947"/>
+          </assertions>
+        </p>
+        <p xml:id="ppr-l38-d1e972">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l38-d1e972"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

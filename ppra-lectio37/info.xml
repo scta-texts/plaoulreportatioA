@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio37">
+      <head xml:id="ppra-l37-Hldfldf">Lectio 37, de Fruitione</head>
+      <div xml:id="ppra-l37-Dd1e109">
+        <head xml:id="ppra-l37-Hqinpef">Quod in nulla creatura potest esse felicitas</head>
+        <!-- <p xml:id="ppra-l37-ehcees">
+            Ex habitudine creaturae ad deum ostensum fuit quod in 
+            nulla creatura potest esse obiectalis felicitas quaequid 
+            dependentia non est nova nec noviter 
+            opinata, quia est opinio sacrae scripturae ut ait 
+            <name ref="#Paul">Apostolus</name> 
+            <quote xml:id="ppra-l37-Qqpifso" source="http://scta.info/resource/rom11_36">
+              quia per ipsum et in ipso facta sunt omnia</quote>; 
+            et 
+            <ref xml:id="ppra-l37-Rd1e122">
+              <title ref="#act">Actuum</title> <num>17o</num>
+            </ref> 
+            <cit>
+              <quote xml:id="ppra-l37-Qiimves" source="http://scta.info/resource/act17_28">
+                in ipso movemur vivimus et sumus
+              </quote>
+            </cit>. 
+            Et etiam 
+            <ref xml:id="ppra-l37-Rd1e137">
+              <name ref="#Augustine">Augustinus</name> 
+              <title ref="#DeGenesiAdLitteram">Super Genesim</title>
+            </ref> 
+            comparat creaturam ad deum sicut radium solis 
+            ad solem. 
+            Immo 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e149">
+                <name ref="#Aristotle">Aristoteles</name>
+              </ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            ponit quod a deo dependet 
+            caelum et tota natura, 
+            et 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e161">
+                <name ref="#Avicenna">Avicenna</name>
+              </ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            dicit quod opinio 
+            <name ref="#Aristotle">Aristotelis</name> 
+            fuit quodlibet mundus fuerit ab aeterno, 
+            tamen omnis res 
+            mundi ceperunt esse per productionem a deo. unde licet 
+            ex necessitate naturae et naturaliter produxerit eas et conservet, 
+            tamen opinio sua est quod intelligentiae et creaturae non habent 
+            necesse esse ex se.
+          </p>-->
+        <!--<p xml:id="ppra-l37-sqnlin">
+            Sed quare non corrumpuntur, hoc 
+            est ex bonitate summa dei quam vult ad extra communicare. 
+            et ideo aliqui poetae dixerunt in ipso 
+            <cit>
+              <quote xml:id="ppra-l37-Qmveves" source="http://scta.info/resource/act17_28">
+                movemur vivimus et sumus
+              </quote>
+            </cit>.
+            Unde dato quod 
+            <cit>
+              <ref xml:id="ppra-l37-Rd1e185"><name ref="#Aristotle">Aristotles</name></ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            ponat quod de 
+            necessitate naturae deus conservet caelum, tamen si per imaginationem 
+            subtraheretur influentia eius tunc propter dependentiam 
+            eius de necessitate laberetur in nihilum.
+          </p>-->
+        <p xml:id="ppra-l37-suqpvi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-suqpvi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-suqpvi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-uadqve">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-uadqve"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-uadqve"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l37-Dd1e225">
+        <head xml:id="ppra-l37-Hcohhdh">Contra opinionem <name ref="#Oyta">Henrici de
+          Huta</name></head>
+        <p xml:id="ppra-l37-sccerq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-sccerq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-sccerq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-udiqic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-udiqic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-udiqic"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy parallel -->
+        <p xml:id="ppra-l37-scqdes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-scqdes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-scqdes"/>
+          </assertions>
+        </p>
+        <!--
+            very fuzzy, this para could be in the above somewhere
+            <p xml:id="ppra-l37-stcids">
+            Secundo talis creatura esset felicibilis et in nulla creatura 
+            ultimate, ergo quia nulla creatura habet rationem felicibilis, 
+            ergo in deo solo.
+          </p>-->
+        <p xml:id="ppra-l37-itradf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-itradf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-itradf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-ihfsif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-ihfsif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-ihfsif"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-qpuedo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-qpuedo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-qpuedo"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-esiedo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-esiedo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-esiedo"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l37-Dd1e265">
+        <head xml:id="ppra-l37-Hoeroer">Obiectio et Responsio</head>
+        <p xml:id="ppra-l37-spqidi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-spqidi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-spqidi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-cpqebf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-cpqebf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-cpqebf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-sqailb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-sqailb"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-sqailb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-snccef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-snccef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-snccef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-sdhaid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-sdhaid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-sdhaid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l37-escihs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-escihs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-escihs"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l37-Dd1e293">
+        <head xml:id="ppra-l37-Hraribc">Responsio ad rationes probantes quod creatura potest
+          quietari in bono creato</head>
+        <p xml:id="ppra-l37-tresii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l37-tresii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-tresii"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l37-Dd1e301">
+          <head xml:id="ppra-l37-Hprprpr">Prima responsio</head>
+          <p xml:id="ppra-l37-qdisii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-qdisii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-qdisii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-pprtdq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-pprtdq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-pprtdq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-arehfu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-arehfu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-arehfu"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e326">
+          <head xml:id="ppra-l37-Hsrsrsr">Secunda Responsio</head>
+          <p xml:id="ppra-l37-savebc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-savebc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-savebc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e344">
+          <head xml:id="ppra-l37-Htrtrtr">Tertia Responsio</head>
+          <p xml:id="ppra-l37-arfsde">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-arfsde"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-arfsde"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-adquic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-adquic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-adquic"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e378">
+          <head xml:id="ppra-l37-Hqrqrqr">Quarta Responsio</head>
+          <p xml:id="ppra-l37-uatiri">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-uatiri"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-uatiri"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-rpqedp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-rpqedp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-rpqedp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-sdqrdb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-sdqrdb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-sdqrdb"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l37-Dd1e399">
+          <head xml:id="ppra-l37-Hqurqur">Quinta Responsio</head>
+          <p xml:id="ppra-l37-arfpod">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-arfpod"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-arfpod"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l37-hreesp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l37-hreesp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-hreesp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l37-Dd1e1425">
+        <head xml:id="ppra-l37-Hd1e1427">Conclusiones</head>
+        <p xml:id="ppra-l37-d1e1430">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l37-d1e1430"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

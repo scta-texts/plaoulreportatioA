@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 68 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 68 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-17">July 17, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio68">
+        <head xml:id="ppra-l68-Hldtldt">Lectio 68, de Trinitate</head>
+        <div xml:id="ppra-l68-Dd1e109">
+          <head xml:id="ppra-l68-Hrarcds">Responsiones ad rationes contra divina simplicitas</head>
+          <p xml:id="ppra-l68-depicf">
+            <lb ed="#P" n="35"/>Consequenter restat solvere rationes prius motas inter quas concurrit aliquae rationes philosophorum
+            <lb ed="#P" n="36"/>antiquorum 
+          </p>
+          <div xml:id="ppra-l68-Dd1e117">
+            <head xml:id="ppra-l68-Harparp">Ad rationes philosophorum</head>
+            <p xml:id="ppra-l68-epogcf">
+              prima est quod deus in quadruplici genere causae concurrit et videtur quasi antiquorum unio <pc type="punctus"/> et <name>augustini</name>
+              <lb ed="#P" n="37"/>Et ad hoc etiam sunt auctoritates <name ref="#Grosseteste">lynconiensis</name> quod deus sit forma rerum et concurrat influxu formali 
+            </p>
+            <p xml:id="ppra-l68-aipnrc">
+              <pc type="virgula">/</pc> Sed nihilominus 
+              <lb ed="#P" n="38"/>dicitur a <name>plaoust</name> quod auctoritates ipsorum non est multum ponderanda <pc type="pilcrow"/> patet satis ut visum in <ref>principio</ref>
+              <lb ed="#P" n="39"/>fuit loquendo de fide catholica Etiam quia aliqui posuerunt terram esse deum <pc type="punctus"/> alii caelum alii aquam <pc type="punctus"/> alii etc 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l68-dcqrpc">
+              <lb ed="#P" n="40"/>et sic nisi aliqui ipsorum et sequaces suos habuissent in hoc aliquam revelationem deum opsuissent 
+              <lb ed="#P" n="41"/>simplicem creaturam etc saltem rem corporalem <pc type="punctus"/> Et adhuc si deum cognoverunt ipsum tamquam rem 
+              <lb ed="#P" n="42"/>corporalem adoraverunt ut patet ad romanos 11o vel 13o
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l68-Dd1e151">
+          <head xml:id="ppra-l68-Hpgppmd">Propositiones generales pro maiori declaratione</head>
+          <p xml:id="ppra-l68-patagp">
+            Sed ergo pro declaratione huius materiae ponendae sunt 
+            <lb ed="#P" n="43"/>aliquae generales regulae
+          </p>
+          <div xml:id="ppra-l68-Dd1e159">
+            <head xml:id="ppra-l68-Hppoppo">Prima Propositio</head>
+            <p xml:id="ppra-l68-pplmvf">
+              <pc type="pilcrow"/> Prima autem propositio est haec <pc type="virgula">/</pc> licet deus absolute et simpliciter sit primum principium 
+              <lb ed="#P" n="44"/>non tamen est principium in genere causae formalis vel materialis 
+            </p>
+            <p xml:id="ppra-l68-ipeapa">
+              <pc type="punctus"/> et istam ponit   <ref xml:id="ppra-l68-Rd1e171"><name>avicena</name> in 8vo <title ref="#AvicennaMetaphysics">metaphysicae</title></ref>
+              <lb ed="#P" n="45"/>nam licet concedatur quod sit prima causa non tamen in omnium genere causae <pc type="punctus"/> et causa est nam non sequitur est in primo genere 
+              <lb ed="#P" n="46"/>primum igitur primum absolute 
+            </p>
+          </div>
+          <div xml:id="ppra-l68-Dd1e186">
+            <head xml:id="ppra-l68-Hspospo">Secunda Propositio</head>
+            <p xml:id="ppra-l68-splsap">
+              <pc type="pilcrow"/> 2a conclusio vel propositio <pc type="punctus"/> licet labilis creaturae deus statum substentet non tamen 
+              <lb ed="#P" n="47"/>in ordine ad aliud nec creatura est sibi aliqua perfectio 
+            </p>
+            <p xml:id="ppra-l68-pppnip">
+              <pc type="virgula">/</pc> prima pars propositionis est <ref xml:id="ppra-l68-Rd1e200">pauli ad ebreos primo</ref> nam dicit 
+              <lb ed="#P" n="48"/><quote xml:id="ppra-l68-Qpovvvs" source="http://scta.info/resource/hebr1_3@10-17">omnia portans verbo virtutis suae purgationem faciens</quote> etc igitur est quaedam <choice><orig>susistentia</orig><reg>subsistentia</reg></choice> et quaedam quodam modo 
+              <lb ed="#P" n="49"/>et alibi in <del>epistola</del> causata petri <quote xml:id="ppra-l68-Qeipiso" source="http://scta.info/resource/rom11_36">Ex ipso per ipsum et in ipso sunt omnia</quote> Et <ref xml:id="ppra-l68-Rd1e223"><name ref="#Boethius">boecius</name></ref> deum vocat quasi clavum 
+              <lb ed="#P" n="50"/>figentem creaturas 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l68-iqsrcu">
+              Et <ref xml:id="ppra-l68-Rd1e239" target="http://scta.info/resource/aristmet-l12"><name ref="#Aristotle">philosophus</name> <title ref="#Metaphysics">metaphysicae</title></ref> <quote>a deo dependet caelum et tota natura</quote> <pc type="pilcrow"/> unde necessitas creaturae 
+              <pb ed="#P" n="72-v"/>
+              <lb ed="#P" n="1"/><del rend="expunctuation">l</del> non oritur aut consurgit respectu intrinsecae rationis sed potius extrinsecae
+            </p>
+            <p xml:id="ppra-l68-spciee">
+              <pc type="pilcrow"/>2a pars propositionis patet quoniam in aliud 
+              <lb ed="#P" n="2"/>2a pars propositionis patet quoniam in aliud 
+              <lb ed="#P" n="3"/>et per aliud perfici repugnans deo simplici nam sibi repugnat perfici quia totus perfectus est <pc type="punctus"/> et in ipso 
+              <lb ed="#P" n="4"/>est immensa perfectio <pc type="punctus"/> etiam non potest ordinari in aliud perfectio etiam non potest ordinari in aliud quia immutabilis ut certum est aliter non est perfectus cum tamen 
+              <lb ed="#P" n="5"/>sit perfectissimus
+            </p>
+            <div xml:id="ppra-l68-Dd1e260">
+              <head xml:id="ppra-l68-Hcorium">Corollarium</head>
+              <p xml:id="ppra-l68-pccldc">
+                <pc type="pilcrow"/> Ex quo secuntur aliqua corollaria <pc type="pilcrow"/> primum correlarium contra <name ref="#Epicurus">epycurum</name> qui posuit deum expresse 
+                <lb ed="#P" n="6"/>deum principium materiale omnium <pc type="punctus"/> Cuius oppinionis causa apparentiae fuit propter subsistentiam rerum materialium et illa est materiae primae 
+                <lb ed="#P" n="7"/>Et quod sicut est de materia prima quod continet formas rerum in se ita dicebat deum omnia entia continere sed hoc 
+                <lb ed="#P" n="8"/>reprobatur <pc type="pilcrow"/> Causa deffectus provenit ex eo quod non habet alias conditiones duas una quae est quod forma non potest perfici 
+                <lb ed="#P" n="9"/>sine ipso alia est satis dicta <pc type="punctus"/> <pc type="pilcrow"/> Unde <name>albertus</name> dicit deus hic omnibus praebet via subsistendi <pc type="punctus"/> etc 
+                <lb ed="#P" n="10"/><foreign>noys</foreign> vero dicitur speciebus substare dans eis subsistere <pc type="pilcrow"/> unde secundum oppinionem epychuri deus 
+                <lb ed="#P" n="11"/>est materia et <foreign>noys</foreign> et sic creatura esset realiter deus quod est absurdum et erroneum
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l68-Dd1e328">
+            <head xml:id="ppra-l68-Htpotpo">Tertia propositio</head>
+            <p xml:id="ppra-l68-apqead">
+              <pc type="pilcrow"/> Sed tamen non sit consideratur 
+              <lb ed="#P" n="12"/>nam vocantur tales per ydemptitatem unde sicut <foreign>noys</foreign> significant mentem bona volentem sit deus est voluntas immensa 
+              <lb ed="#P" n="13"/>et fons totius puritatis bonitatis et perfectionis ex eo quod in quamlibet rerum influit speciem a qualibet tamen immense 
+              <lb ed="#P" n="14"/>distinguitur
+            </p> 
+            <p xml:id="ppra-l68-ppeera">
+              <pc type="virgula">/</pc> prima pars est vera <ref>iohannis primo</ref> <quote>omnia ipsum facta sunt et sine ipso factum est nihil</quote> <pc type="punctus"/> 2a pars nota est 
+              <lb ed="#P" n="15"/>quia deppendens et indeppendens valde distinguuntur 
+            </p> 
+            <p xml:id="ppra-l68-eqsied">
+              Et sic inde sequitur falsitas oppinionis 
+              <lb ed="#P" n="16"/><name>appollinis</name> et hermeti dicentium quod deus est omne quod est <pc type="virgula">/</pc> Causa apparentiae est veritas primae conclusionis 
+              <lb ed="#P" n="17"/>scilicet diffinitio summae bonitatis nam a simili sicut fons influit rivum et aqua rivi vegetationem 
+              <lb ed="#P" n="18"/>dat graminibus <pc type="punctus"/> licet non simpliciter ita deus ydemptice videtur concurrere sive influere <pc type="punctus"/> <pc type="pilcrow"/> unde dicunt ipsi 
+              <lb ed="#P" n="19"/>primo deum ymaginari dupliciter uno non modo tamquam in se et sic est deus alio modo tamquam in aliud et sic est mundus Et sic 
+              <lb ed="#P" n="20"/>dicit hermes quod monas monadem genuit et in se reflectit ardorem Causa deffectus est non recta 
+              <lb ed="#P" n="21"/>ymaginatio sive consideratio influxus dei ad creaturam <pc type="virgula">/</pc> Cuius <add place="above-line"><unclear>epp?i</unclear></add> sequaces dixerunt iovem esse omnia 
+              <lb ed="#P" n="22"/>id est deum 
+            </p>
+            <p xml:id="ppra-l68-avdeip">
+              Alii materiam primam et dixerunt ipsam esse paladem <pc type="virgula">/</pc> Et isto modo habita fuit et orta in 
+              <lb ed="#P" n="23"/>philosophis ydolatria 
+            </p> 
+            <p xml:id="ppra-l68-endfsi">
+              <pc type="pilcrow"/> Et licet hermes magnus fuerit philosophus vocavit tamen mundum dei filium a <unclear>mo?de</unclear>
+              <lb ed="#P" n="24"/>praecedentem <pc type="pilcrow"/> Unde certissimum et verissimum est errorem istum processisse ex mala scripturarum indagatione 
+              <lb ed="#P" n="25"/>nam scripturam ad imperfectum traxerunt sensum <pc type="punctus"/> patet quoniam falsum est quod deus ydemptice effectum producat 
+              <lb ed="#P" n="26"/>formaliter et intrinsece <pc type="virgula">/</pc> et per hoc et aliis facti sunt ydolatrae <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l68-Dd1e425">
+            <head xml:id="ppra-l68-Hqpoqpo">Quarta propositio</head>
+            <p xml:id="ppra-l68-apldei">
+              <pc type="pilcrow"/> Alia propositio est quod licet deus sit omnium specierum 
+              <lb ed="#P" n="27"/>omnipotens artifex non tamen agit per exemplaria ab eo producta et ista materia tangit materiam platonicam 
+              <lb ed="#P" n="28"/>de ydeis <pc type="punctus"/> Cuius oppinionem sequentes philosophi deum posuerunt animam mundi <pc type="virgula">/</pc> unde tractatur a <name>ma<lb ed="#P" break="no" n="29"/>crobio</name> 
+              in sompnii cypionis ex positione <pc type="virgula">/</pc> quod deus ratione suae fecunditatis producit exemplaria omnium rerum 
+              <lb ed="#P" n="30"/>et specierum productiva et factiva <pc type="punctus"/> et talia vocantur <foreign>noys</foreign> scilicet <del>filius dicitur pater</del> deinde ex patre <foreign>noy</foreign> producitur anima 
+              <lb ed="#P" n="31"/>mundi realiter vivificans animam <pc type="virgula">/</pc> et secundum hoc non poneretur immediate concurrere in genere causae formalis 
+              <lb ed="#P" n="32"/>sed <foreign>noys</foreign> Et hoc sequitur ex mala intellectione scripturae <pc type="pilcrow"/> Et dicunt quod <foreign>noys</foreign> et filius est ars omnium 
+              <lb ed="#P" n="33"/>viventium <pc type="pilcrow"/> unde haeresis arriana sumpsit ex hoc exordium <add place="above-line"><unclear>non sp?? secundum distinctinem</unclear></add>
+            </p>
+          </div>
+          <div xml:id="ppra-l68-Dd1e511">
+            <head xml:id="ppra-l68-Hqupqupo">Quinta propositio</head>
+            <p xml:id="ppra-l68-aplmpc">
+              <pc type="pilcrow"/> Alia propositio <pc type="punctus"/> licet deus <quote xml:id="ppra-l68-Qonppm" source="http://scta.info/resource/sap11_21">omnia in pondere 
+              <lb ed="#P" n="34"/>numero et mensura</quote> formaverit nonquam tamen in genere causae formalis <pc type="punctus"/> vel materialis potuit concurrere 
+            </p>
+            <!-- paragraph order seems to invert here; i'm keeping ids the same, but switching paragraph positions to match -->
+            <p xml:id="ppra-l68-ppeqif">
+              <pc type="punctus"/> prima pars 
+              <lb ed="#P" n="35"/>propositionis satis est notitia
+            </p>
+            <p xml:id="ppra-l68-spsped">
+              sed 2a patet per doctores deum immutabilem ponentes
+            </p>
+            <p xml:id="ppra-l68-idvafe">
+              <pc type="pilcrow"/> Sed advertendum est quod forma potest dici 
+              <lb ed="#P" n="36"/>dupliciter nam quodammodo formativa alio modo terminativa nam aliquae proprietates in terminativa invenitur quae causae formali attribuuntur 
+              <lb ed="#P" n="37"/>et aliquae simili
+            </p> 
+            <p xml:id="ppra-l68-uchssa">
+              <pc type="pilcrow"/> Unde lynconiensis dicit ad ostendendum quod deus sit forma rerum exemplum satis famosa <pc type="virgula">/</pc> nam dicit quod 
+              <lb ed="#P" n="38"/>deus est ad similitudinem sigilli cuius forma sit efficax respectu materiae fluidae <pc type="punctus"/> et dicit quod <add place="above-line"><unclear>sic</unclear></add> nisi continue applicetur <unclear>fi?e</unclear> 
+              <lb ed="#P" n="39"/>sigilli nihil posset produci sic a simili debet deus forma rerum ymaginari
+              <lb ed="#P" n="40"/><pc type="pilcrow"/> Unde materia rerum quae minus est fluida 
+              <lb ed="#P" n="41"/>sibi videtur obedire ut ab eo conservetur in esse suo 
+            </p>
+            <p xml:id="ppra-l68-aesace">
+              <pc type="pilcrow"/> Ulterius advertendum est quod <ref xml:id="ppra-l68-Rd1e557"><name ref="#WilliamOfParis">guillemus parisiensis</name></ref> 
+              <lb ed="#P" n="42"/>ponit etiam quod deus sit forma rerum sed voluit sic dicere quod quasi per similitudinem sicut accidens non potest existere 
+              <lb ed="#P" n="43"/>sine substantia ita creatura non sufficeret esse nisi quodammodo deo adhaereret <pc type="punctus"/> et sic deus est forma causativa
+            </p>
+            <p xml:id="ppra-l68-cieeqx">
+              <pc type="pilcrow"/> 2o modo 
+              <lb ed="#P" n="44"/>potest intelligi quia vivificat res secundum debitas formas <pc type="punctus"/> specificas <pc type="pilcrow"/> unde secundum ordinem specierum universi est ordo assistentiarum 
+              <lb ed="#P" n="45"/>quantum ad effectum 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l68-amrnst">
+              deus aliter et aliter concurrit nam perfectius in aliquibus in aliis autem minus et hoc ratione
+              <lb ed="#P" n="46"/>proportionalis subsistentiae creaturae ad suas operationes exercendas <pc type="punctus"/> et sic deus dicitur causa formativa et conservativa <pc type="pilcrow"/> unde 
+              <lb ed="#P" n="47"/><ref xml:id="ppra-l68-Rd1e589"><name ref="#Virgil">virgilius</name> in 6to <name>eneydos</name></ref> <quote xml:id="ppra-l68-Qd1e602">spiritus omnia incusavit</quote> vel iterum quia operatio indicat formam et quia in tali 
+              <lb ed="#P" n="48"/>deus magis relucet quam alio sequitur ut prius <pc type="pilcrow"/> Et sic apparet ex philosophorum dictis quomodo procedat <pc type="pilcrow"/> Quantum est de <name>aristotele</name> 
+              <lb ed="#P" n="49"/>et commentatore capiunt causam formalem non realiter informatam sed potius finalem et hoc de lectione quo ad quaestionem
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l68-Dxxyy1">
+          <head xml:id="ppra-l68-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l68-axxyy3">
+            Sequitur prima conclusio supra distinctionem 18vam 2i libri scilicet quod mulier non fuit creata <pc type="punctus"/> sed de costa <name>adae</name> facta sed quaerit 
+            <lb ed="#P" n="50"/>quare potius de consta quam de capite vel etc dicitur quod de <unclear>medioci</unclear> ut cum viro conservaretur 
+          </p>
+          <p xml:id="ppra-l68-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio mulier 
+            <lb ed="#P" n="51"/>fuit de materiae costae <pc type="virgula">/</pc> Unde quaeritur quomodo hoc fuit sive naturaliter sive miraculose dicitur quod bene naturaliter <pc type="virgula">/</pc> nam materia prima nullam 
+            <pb ed="#P" n="73-r"/>
+            <lb ed="#P" n="1"/>sibi determinat quantitatem et sic naturaliter ex dispositione summi artificis potuit hoc fieri
+          </p>
+          <p xml:id="ppra-l68-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio <name>eva</name> fuit praedicta 
+            <lb ed="#P" n="2"/>et non creata <pc type="virgula">/</pc> mediante ministerio angelorum concurrente quasi instrumentaliter respectu primae causae scilicet dei et sic angeli sunt 
+            <lb ed="#P" n="3"/>quodam modo vel se habent sicut causa 2a ad ipsam productionem 
+          </p>
+          <p xml:id="ppra-l68-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio rationes omnium rerum sunt in deo et ab 
+            <lb ed="#P" n="4"/>aeterno <pc type="punctus"/> et ratio iudicis sit in deo
+          </p>
+          <p xml:id="ppra-l68-axxyy7">
+            <pc type="pilcrow"/> 5a et ultima quod animae non fuerunt creatae vel simul factae id est per propagationem 
+            <lb ed="#P" n="5"/>sed per divinam infusionem <pc type="punctus"/> et hoc de lectione vigilia ypapanti deum scilicet purificationis beatae mariae
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

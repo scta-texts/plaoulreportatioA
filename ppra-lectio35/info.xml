@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio35">
+      <head xml:id="ppra-l35-Hldfldf">Lectio 35, de Fruitione</head>
+      <div xml:id="ppra-l35-Dd1e109">
+        <head xml:id="ppra-l35-Hressio">Responsio</head>
+        <p xml:id="ppra-l35-iritmt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-iritmt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-iritmt"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l35-Dd1e117">
+          <head xml:id="ppra-l35-Hdprdpr">De prima ratione</head>
+          <p xml:id="ppra-l35-ptfuea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l35-ptfuea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-ptfuea"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l35-Dd1e125">
+            <head xml:id="ppra-l35-Hobitio">Obiectio</head>
+            <p xml:id="ppra-l35-scaeii">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-scaeii"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-scaeii"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l35-iqcnei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-iqcnei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-iqcnei"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l35-itqisd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-itqisd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-itqisd"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l35-qsqenq">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-qsqenq"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-qsqenq"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l35-Dd1e152">
+            <head xml:id="ppra-l35-Hraorao">Responsio ad obiectionem</head>
+            <p xml:id="ppra-l35-airppp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-airppp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-airppp"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l35-ulaeip">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-ulaeip"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-ulaeip"
+                />
+              </assertions>
+            </p>
+            <!--
+                doesn't seem present, but review break 
+                <p xml:id="ppra-l35-scappo">
+                Sed 
+                contra ascendamus per speciem notiarum anima non 
+                terminabitur ad unam sed procedet per omnes.
+              </p>-->
+            <p xml:id="ppra-l35-sanils">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l35-sanils"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-sanils"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <!--
+            fuzzy parallel, but does not not seem present; could use re-review
+            <div xml:id="ppra-l35-Dd1e181">
+            <head xml:id="ppra-l35-Haardla">Ad aliam rationem quae est de latitudinem accidentium</head>
+            <p xml:id="ppra-l35-aareip">
+              Ad 
+              aliam rationem quae est de latitudine accidentium quod 
+              nulla potest esse notitia infinita, quia tota latitudo 
+              accidentium est sub tota latitudine substantiarum, dicitur quod non 
+              loquitur de perfectione specifica essentiali. Sed de perceptione 
+              in esse perceptionis quae hic 
+              ponitur infinita, nam latitudo perceptionis 
+              in esse perceptionis non ponitur in latitudine 
+              essentialium, sed accidentium. 
+              
+              Unde si perceptio animae Christi 
+              potentia in angelo erit perfectior in esse perceptionis. 
+              Et etiam si poneretur in alia proportionata[???] 
+              perfectiori esse perfectior in esse perceptionis 
+              si ergo poneretur in suprema intelligentia infinita 
+              per imaginationem, tunc esset infinita 
+              perceptio, et sic solvuntur rationes per 
+              distinctionem perceptionis in esse individuali et essentiali 
+              vel in esse specifico et est esse perceptionis, et sic 
+              potentia potest dici infinita extrinsece illo modo 
+              quo notitia sua est infinita et est quaedam 
+              accidentalis perfectios. Unde non arguitur albedo infinita 
+              ex hoc quod est infinitorum graduum nisi accidentaliter 
+              et non extrinsece et non essentialiter sic est 
+              in proposito.
+            </p>
+          </div>-->
+        <div xml:id="ppra-l35-Dd1e190">
+          <head xml:id="ppra-l35-Htrtrtr">Tertia ratio</head>
+          <p xml:id="ppra-l35-traimb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l35-traimb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-traimb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l35-sharnp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l35-sharnp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-sharnp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l35-saqrnp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l35-saqrnp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-saqrnp"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l35-Dd1e211">
+        <head xml:id="ppra-l35-Hqpspsf">Quomodo potest sustineri finitas</head>
+        <p xml:id="ppra-l35-rdqsma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-rdqsma"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-rdqsma"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-pmepem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-pmepem"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-pmepem"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-amesip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-amesip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-amesip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-avemec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-avemec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-avemec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-ueqmec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-ueqmec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-ueqmec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-psevid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-psevid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-psevid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-aecpec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-aecpec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-aecpec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-aereea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-aereea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-aereea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-aecicc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l35-aecicc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-aecicc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l35-Dxxyy1">
+        <head xml:id="ppra-l35-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l35-cd3cee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-cd3cee"/>
+          </assertions></p>
+        <p xml:id="ppra-l35-scppee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-scppee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l35-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l35-axxyy3"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

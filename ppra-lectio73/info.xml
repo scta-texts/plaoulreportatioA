@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio73">
+      <head xml:id="ppra-l73-Hldtldt">Lectio 73, de Trinitate</head>
+      <div xml:id="ppra-l73-Dd1e109">
+        <head xml:id="ppra-l73-Hdmdmdm">Decima manuductiones</head>
+        <p xml:id="ppra-l73-cmcsma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-cmcsma"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-cmcsma"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-pesoit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-pesoit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-pesoit"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-smeiai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-smeiai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-smeiai"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-tmcipa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-tmcipa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-tmcipa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-qmieit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-qmieit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-qmieit"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-qmseca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-qmseca"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-qmseca"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-sieeee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-sieeee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-sieeee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-smehit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-smehit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-smehit"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-ompsss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-ompsss"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-ompsss"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-nmedis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-nmedis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-nmedis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-deqpeh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-deqpeh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-deqpeh"/>
+          </assertions>
+        </p>
+        <!-- reconsider p break -->
+        <p xml:id="ppra-l73-npppci">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-npppci"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-npppci"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l73-htpdnp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-htpdnp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-htpdnp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l73-Dd1e284">
+        <head xml:id="ppra-l73-Hnotlia">Notabilia</head>
+        <p xml:id="ppra-l73-cppepn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-cppepn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-cppepn"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l73-Dd1e292">
+          <head xml:id="ppra-l73-Hprimum">Primum</head>
+          <p xml:id="ppra-l73-pqeimp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l73-pqeimp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-pqeimp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dd1e342">
+          <head xml:id="ppra-l73-Hsecdum">Secundum</head>
+          <p xml:id="ppra-l73-sneiep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l73-sneiep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-sneiep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dd1e357">
+          <head xml:id="ppra-l73-Hterium">Tertium</head>
+          <p xml:id="ppra-l73-eqsnep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l73-eqsnep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-eqsnep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dd1e367">
+          <head xml:id="ppra-l73-Hquatum">Quartum</head>
+          <p xml:id="ppra-l73-qnqpss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l73-qnqpss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-qnqpss"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dd1e391">
+          <head xml:id="ppra-l73-Hquitum">Quintum</head>
+          <p xml:id="ppra-l73-qdreea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l73-qdreea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-qdreea"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l73-Dd1e416">
+        <head xml:id="ppra-l73-Hmitmit">Modi imaginandi Trinitatem</head>
+        <p xml:id="ppra-l73-eqsass">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l73-eqsass"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l73-eqsass"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l73-Dxxyy1">
+        <head xml:id="ppra-l73-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l73-cxxyy1">
+        </p>
+        <p xml:id="ppra-l73-cxxyy2">
+        </p>
+        <p xml:id="ppra-l73-cxxyy3">
+        </p>
+        <p xml:id="ppra-l73-cxxyy4">
+        </p>
+        <p xml:id="ppra-l73-cxxyy5">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

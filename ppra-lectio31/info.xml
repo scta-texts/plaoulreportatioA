@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio31">
+      <head xml:id="ppra-l31-Hldalda">Lectio 31, de Notitia</head>
+      <div xml:id="ppra-l31-Dd1e109">
+        <head xml:id="ppra-l31-Hraranc">Responsio ad rationes principales: quod Deus non sit a nobis
+          cognoscibilis</head>
+        <p xml:id="ppra-l31-affnro">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l31-affnro"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-affnro"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l31-Dd1e124">
+          <head xml:id="ppra-l31-Drapapr">Responsio ad primam rationem</head>
+          <p xml:id="ppra-l31-rpdneo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-rpdneo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-rpdneo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-sdqrcc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-sdqrcc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-sdqrcc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-spqmie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-spqmie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-spqmie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-sdapee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-sdapee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-sdapee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-eqshqh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-eqshqh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-eqshqh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-suqrit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-suqrit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-suqrit"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-usqpee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-usqpee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-usqpee"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l31-eqscbc">
+              Ex quo sequitur quod ex diversitatem 
+              magis consurgit proportio convenientiae 
+              quam ex similitudine, simile enim reperitur in naturalibus. 
+              Nam materia est improportionatissima formae, et tamen 
+              una maxime in naturalibus appetit aliam, et tamen 
+              cum hoc habet oppositas conditiones, quia forma 
+              est actus
+              <app>
+                <lem>et</lem>
+                <rdg wit="#R" type="correction-addition">
+                  <add place="above-line">et</add>
+                </rdg>
+              </app> 
+              materia potentia, et ista convenientia consurgit 
+              ex appetitibus ipsarum habentibus ordinem inter se. Et 
+              ex isto consurgit bonum convenientiae.
+            </p>-->
+          <p xml:id="ppra-l31-suqfnq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-suqfnq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-suqfnq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-suqtia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-suqtia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-suqtia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-suqrss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-suqrss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-suqrss"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l31-Dd1e200">
+          <head xml:id="ppra-l31-Hrasasr">Responsio ad secundam rationem</head>
+          <p xml:id="ppra-l31-spaiee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-spaiee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-spaiee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-heneie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-heneie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-heneie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-sdqcab">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-sdqcab"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-sdqcab"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l31-Dd1e240">
+          <head xml:id="ppra-l31-Hratatr">Responsio ad tertiam rationem</head>
+          <p xml:id="ppra-l31-trpoia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-trpoia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-trpoia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-reqcie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-reqcie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-reqcie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l31-Dd1e264">
+          <head xml:id="ppra-l31-Hraqaqr">Responsio ad quartam rationem</head>
+          <p xml:id="ppra-l31-qaesdr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-qaesdr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-qaesdr"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present
+              <p xml:id="ppra-l31-irtidr">
+              Ista ratio 
+              tangit difficultatem, quae debet tractari circa distinctionem 17,
+              <!-\-<note>See below, lectio 78 and following</note>-\-> 
+              quia secundum aliquos, qui ponunt quod Spiritus 
+              Sanctus realiter sit caritas et dilectio qua diligimus 
+              Deum et proximum, et quod vitaliter seipso ipsam 
+              immutat potentiam affectivam, scilicet, voluntatem 
+              per modum habitus vel actus secundum aliquos, sicut 
+              ponit <name ref="#Lombard">Magister</name>. 
+              Eadem difficultas est utrum posset 
+              esse realiter notitia creaturae, 
+              et ista materia habet 
+              prolixius tractari circa 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e292" target="http://scta.info/resource/pl-l1d17">distinctione 17</ref>
+                <bibl>XXX</bibl>
+              </cit>. 
+              Tamen, 
+              licet 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e301"><name ref="#Lombard">Magister</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              in hoc multi videantur negare, 
+              reputo illud satis probabile, 
+              sicut dicunt plures,
+              ut 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e311"><name ref="#Ripa">Magister Ioannes de Ripa</name></ref>
+                <bibl>XXX</bibl>
+              </cit>.
+            </p>-->
+          <p xml:id="ppra-l31-uchdai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-uchdai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-uchdai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-tarrvo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-tarrvo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-tarrvo"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l31-accqsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-accqsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-accqsp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-eqsvtc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-eqsvtc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-eqsvtc"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l31-eaitqg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-eaitqg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-eqsvtc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l31-siuisr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-siuisr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-eqsvtc"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present, but everything is really fuzzy here 
+              <p xml:id="ppra-l31-uchnvg">
+              Unde circa hoc de reponendo huiusmodi notitiam 
+              sub specie, quia istud est mere extrinsecum sibi, potest 
+              dici quod illa erit in esse notitiae creaturae eiusdem speciei, 
+              cuius notitiae vicem gerit.
+            </p>
+            <p xml:id="ppra-l31-eqsvip">
+              Ex quo sequitur 
+              quod potest esse infinitarum diversarum specierum in esse 
+              notitiarum creaturae, quia imaginabiles sunt infinitae 
+              notitiae creaturae possibiles. Ex quo ergo Deus supplet vicem, vel supplere potest, reponetur sub 
+              eadem specie sub qua reponitur notitia cuius vicem 
+              supplet. Et illud est probabilius dicere quod ipse 
+              idem repraesentat et eodem gradu immutat potentiam, 
+              sicut species cuius vicem gerit. Ergo quantum ad 
+              habitudinem ad potentiam et obiectum se habet, sicut 
+              notitia cuius vicem supplet. Et per consequens quantum 
+              ad hoc potest dici: eiusdem speciei cum notitia 
+              illa cuius vicem supplet
+              <app>
+                <lem n="supplet"/>
+                <rdg wit="#R" type="correction-deletion">
+                  <del rend="strikethrough">
+                    et per consequens quantum ad hoc 
+                    potest dici eiusdem speciei cum notitia illa
+                  </del>
+                </rdg>
+              </app>, 
+              igitur etc. 
+              Et sic non concederem cum 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e377"><name ref="#Ripa">Magistri Ioannes de Ripa</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              quod 
+              Deus esset infinita notitia quoad specie. 
+              Unde data quacumque notitia creata in eadem proportione, 
+              Deus potest libere immutare potentiam; et 
+              huiusmodi immutatio non includit inhaesionem 
+              vel informationem, quia de ratione notitiae non est 
+              quod inhaereat vel informet potentiam.
+            </p>
+            <p xml:id="ppra-l31-resdie">
+              Respondendum 
+              est secundum aliam viam admittendum secundam partem argumenti, 
+              scilicet, quod Deus possit esse a nobis cognoscibilis notitia 
+              creata. Et cum dicitur: 'Deus est immensus, ergo nulla 
+              notitia creata potest eum repraesentare.' Negatur consequentia ad probationem, 
+              incircumscriptibilis est dicendum, esset, si placet de vocabulo, 
+              quia vel intelligitur quod nulla notitia creata 
+              Deo adaequatur comprehensive, et sic ratio concludit 
+              verum. Alio, quod est incircumscriptibilis vel incomprehensibilis, 
+              id est, quod per nullam notitiam creatam beatifica potest 
+              repraesentari. Et sic negaretur, quia isto modo cognoscendo 
+              Deum sufficit cognoscere ut summum bonum 
+              et summae quietatum secundum quod in eo consistit ratio 
+              ultimi finis. Utrum autem possit aliqua 
+              notitia creata cognosci secundum omne de eo dicibile, 
+              teneo, propter reverentiam Sanctorum et
+              <app>
+                <lem n="et"/>
+                <rdg wit="#R" type="correction-deletion">
+                  <del rend="strikethrough">s</del>
+                </rdg>
+              </app> 
+              doctorum et 
+              <cb ed="#R" n="b"/><!-\-R53vb -\-> 
+              animae Christi, dicentium quod anima Christi cognovit omnia, 
+              quae verbum, et quod ipsa notitia animae Christi est tamquam 
+              exemplar divinae essentiae et quare mundus 
+              architectus in quo relucet Deus et omnia factibilia 
+              cum hoc. Tamen stat quod illa notitia non sit 
+              comprehensiva ipsius Dei, quia oporteret quod esset notitia 
+              in se aeque perfecta sicut Deus. Modo secunda notitia 
+              animae Christi non esset aequae clara in se nec aeque 
+              perfecta sicut Deus, ergo. Modo secunda notitia animae Christi non esset 
+              aeque clara in se nec aequae perfecta sictu Deus, ideo etc.
+            </p>
+            <p xml:id="ppra-l31-stdapn">
+              Sed tunc dicit 
+              <cit>
+                <ref xml:id="ppra-l31-Rd1e408"><name ref="#Wodeham">Adam</name></ref>
+                <bibl>XXX</bibl>
+              </cit> 
+              penes quid attenditur 
+              perfectio notitiae.
+            </p>-->
+          <p xml:id="ppra-l31-refhic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-refhic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-refhic"/>
+            </assertions>
+          </p>
+          <!-- 
+             Doesn't seem present or it could be in the above
+             <p xml:id="ppra-l31-iuviel">
+              Istud ut videtur non bene stat, quia Deus eandem 
+              conclusionem multum clarius et perfectius cognoscit 
+              quam Sortes, quia quicquid Deus cognoscit 
+              infinite, ita quod si, ad imaginationem, iudicia 
+              essent in Deo distincta, quotquot essent, essent 
+              infinita et infinitae perfectionis. Et ideo iudicium 
+              illud quod Deus habet de creatura est infinitae virtutis 
+              et nobilitatis et lux infinita. Lux autem quam 
+              habeo de creatura est <sic>infinita</sic> et limitata.
+            </p>-->
+          <p xml:id="ppra-l31-udcair">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l31-udcair"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-udcair"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l31-Dctctct">
+        <head xml:id="ppra-l31-Hctctct">Conclusiones</head>
+        <p xml:id="ppra-l31-cdspae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l31-cdspae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-cdspae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l31-tcpnae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l31-tcpnae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-tcpnae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l31-qlpefe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l31-qlpefe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l31-qlpefe"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

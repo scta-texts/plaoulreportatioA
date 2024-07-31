@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 69 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 69 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-18">July 18, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="73-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio69">
+        <head xml:id="ppra-l69-Hldtldt">Lectio 69, de Trinitate</head>
+        <div xml:id="ppra-l69-Dd1e109">
+          <head xml:id="ppra-l69-Hcrapad">Continuando responsio ad opiniones philosophorum: ad duo confert pro ampliorem declarationem</head>
+          <!--<p xml:id="ppra-l69-aeqevc">
+            Advertendum est quod materia praecedentis lectionis, scilicet, 
+            de opinione philosophorum inter alia, ad duo confert 
+            cuius amplior declaratio videbitur ad plura 
+            enim videtur conferre.
+          </p>-->
+          <!--<p xml:id="ppra-l69-paeaae">
+            Primo ad exercitationem intellectus et 
+            declarationem articulorum circa materiam articuli trinitatis. secundo ad 
+            Retorquendum contra philosophos gentiles impugnantes nostram fidem 
+            ex impossibilitate articulorum fidei, nam contra eos potest istud 
+            Retorqueri, quia ponunt difficiliora et minus captibilia 
+            ad intellectu nostro impugnantibus, ergo nobis philosophis 
+            quod identitate unius rei ponimus unam Rem ab alia 
+            emanare.
+          </p>-->
+          <!--<p xml:id="ppra-l69-iprhqp">
+            Idem potest retorqueri contra eos, 
+            quia ipsi idem 
+            ponunt tam secundum opinionem 
+            <name>Epicuris</name> quam 
+            <name>Heremtis</name> quam 
+            <name>Platonis</name>.
+          </p>-->
+          <p xml:id="ppra-l69-iepdfi">
+            <lb ed="#P" n="6"/>Consequenter veniendum est ad rationum prius factarum solutiones
+          </p>
+        </div>
+        <div xml:id="ppra-l69-Dd1e136">
+          <head xml:id="ppra-l69-Hrarrar">Responsio ad rationes</head>
+          <div xml:id="ppra-l69-Dd1e141">
+            <head xml:id="ppra-l69-Hapapap">Ad primam</head>
+            <p xml:id="ppra-l69-prscee">
+              <pc type="pilcrow"/> Ad primam igitur rationem quae sta<lb ed="#P" break="no" n="7"/>bat 
+              in hoc videlicet quod deus in utroque genere causae videtur prima causa simpliciter et per consequens in genere causae formalis 
+              <lb ed="#P" n="8"/>et probatur in illa quod influat formaliter 
+            </p>
+            <p xml:id="ppra-l69-airfvm">
+              <pc type="virgula">/</pc> Respondetur ergo ad istam per rationem prius factam <pc type="pilcrow"/> Unde non sequitur <c>a</c> 
+              <lb ed="#P" n="9"/>est causa in genere causae formalis igitur est causa <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l69-sdqeii">
+              <pc type="pilcrow"/> Sed aliter et 2o dicitur quod nulla est concathenatio essentialis causarum 
+              <lb ed="#P" n="10"/>formalium vel materialium <pc type="punctus"/> nam sunt simpliciter extrinsecae concurrentes ad aliquam constitutionem nec ad talem concurrit 
+              <lb ed="#P" n="11"/>nisi una causa praecise <pc type="virgula">/</pc> sicut anima et materia ex quibus sit unum totum compositum quaere sequitur quod ratio fundatur 
+              <lb ed="#P" n="12"/>supra malum fundamentum
+            </p>
+            <p xml:id="ppra-l69-tahiic">
+              <pc type="pilcrow"/> 3o dicitur quod adhuc huiusmodi ordinationem admittendo et a nobis notioribus incipiendo 
+              <lb ed="#P" n="13"/>usque ad ultimam speciem resolvendo tandem ad aliquid imperfectius denegatur et hoc deo repugnat hoc etiam 
+              <lb ed="#P" n="14"/>non <unclear>invenitur</unclear> in causis <unclear>finalibus</unclear> <pc type="punctus"/> sed oppositum Unde signemus ignem applicatum alicui combustibili semper 
+              <lb ed="#P" n="15"/>proceditur ad aliquid perfectius quantum est in subordinatione formarum concurrentium ad instituti ad imperfectans tandem devenimus 
+              <lb ed="#P" n="16"/>gratia exempli <pc type="virgula">/</pc> prima <add place="above-line">forma</add> constitutiva est ipsa anima
+            </p>
+            <p xml:id="ppra-l69-daeqmp">
+              deinde alia forma animalitatis et sic procedendo ad imperfectas tandem devenimus 
+              <lb ed="#P" n="17"/>formas et sic per rationem non arguitur aliquod indeppendens immo potius econtra <pc type="pilcrow"/> Proportionaliter de causis 
+              <lb ed="#P" n="18"/>materialibus potest dici nam signata materia ex quae fit homo <pc type="virgula">/</pc> illa resolvitur in elementa <sic>elementa</sic> in aliud 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l69-iiqqdr">
+              et sic  
+              <lb ed="#P" n="19"/>ultimum remanens semper imperfectius erit et rationem summae imperfectionis habebit quare sequitur quod naturae processus 
+              <lb ed="#P" n="20"/>est a perfectiori ad imperfectius <pc type="punctus"/> Ex quo manifeste patet admissa subordinatione in talibus impossibile esset 
+              <lb ed="#P" n="21"/>deum in aliquo genere reponi
+            </p>
+            <p xml:id="ppra-l69-cqtivf">
+              <pc type="pilcrow"/> Consequenter quia tangebatur de influere etc <pc type="pilcrow"/> Dicendum est quod impossibile est 
+              <lb ed="#P" n="22"/>aliquem causam in aliquo genere influere quin sit influxus <seg type="correction"><del rend="strikethrough">in</del>dependens</seg> ab influxu eiusdem generis 
+              <lb ed="#P" n="23"/>vel eminenter contingentis primum verbi gratia Quantum ad id quod perfectionis est totum reducitur ad influxum finalem
+              <lb ed="#P" n="24"/>et sic impossibile est quod influat quin sit influxus simul vel eiusdem generis vel conservativus
+            </p> 
+            <p xml:id="ppra-l69-eiifed">
+              <pc type="pilcrow"/> Ex quo sequitur 
+              <lb ed="#P" n="25"/>quod influxus deppendens ab influxu finali vel effectivo est forma vel materia 
+            </p>
+            <p xml:id="ppra-l69-iqnfvm">
+              <pc type="virgula">/</pc> Sed quia huiusmodi influxus 
+              <lb ed="#P" n="26"/>reppetitur <unclear>inion?do</unclear> dicitur quod deus est prima causa respectu causarum formalium et finalium et ideo aliqua causa effectiva in hoc requiritur
+            </p>
+            <p xml:id="ppra-l69-eeipce">
+              <lb ed="#P" n="27"/> Et ex hoc sequitur falsitas oppinionis dicentium stare aliquam personam trinitatis formaliter in aliquid influere alia non 
+              <lb ed="#P" n="28"/>influente <pc type="pilcrow"/> Nam ut tactum est concathenatio praeexigit essentialiter causalitatem effectivam <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l69-ilchcf">
+              <pc type="pilcrow"/> Item licet causa 
+              <lb ed="#P" n="29"/>efficiens non dicat imperfectionem essentialiter tamen praerequirit causam finalem et sic materialis praeexigeret duo causarum 
+              <lb ed="#P" n="30"/>genera <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l69-cnsars">
+              <pc type="pilcrow"/>Ulterius dicitur quod non stat deum in creaturam formaliter influere quin creatura mutetur et per consequens 
+              <lb ed="#P" n="31"/>in quolibet genere causae effectus videretur mutari <pc type="virgula">/</pc> modo oporteret quod tota trinitas ad huiusmodi causationem sive mutatione 
+              <lb ed="#P" n="32"/>active concurreret Quare patet de ratione satis quid dicendum
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l69-pqpeai">
+              <pc type="pilcrow"/> Ex quo sequitur quod sic ascendendo non reperietur creatura 
+              <lb ed="#P" n="33"/>deus 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l69-enpape">
+              Et etiam de independentia influxus eius <pc type="virgula">/</pc> quia est <del rend="strikethrough">aliter</del> essentialiter influxus <del rend="strikethrough">eius</del> <unclear>eminentioris</unclear> speciei praerequirit
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e217">
+            <head xml:id="ppra-l69-Hasasas">Ad secundam</head>
+            <p xml:id="ppra-l69-arsddc">
+              <lb ed="#P" n="34"/><pc type="pilcrow"/> Ad aliam rationem 2am quae stabat in hoc quod informatio dicit suae bonitatis communicatio igitur etc
+            </p> 
+            <p xml:id="ppra-l69-reqpfi">
+              <pc type="pilcrow"/> Respondetur 
+              <lb ed="#P" n="35"/>quod ista est soluta ex prius tactis quoniam licet informatio dicat aliquam perfectionem non tamen simpliciter Ex eo
+              <lb ed="#P" n="36"/>quod de ratione sua intrinseca dicit imperfectionem <pc type="punctus"/> puta subsistentiam subsistentem naturam consistentem <pc type="punctus"/> 
+              <lb ed="#P" n="37"/>et hoc deo repugnat quare etc Et quia licet informatio aliquid imperfectionis includat nihilominus aliquid perfectionis 
+              <lb ed="#P" n="38"/>videtur includere
+              <!-- consider paragraph break here -->
+              <pc type="pilcrow"/> 2o tollit rationem libertatis quare etc
+            </p>
+            <p xml:id="ppra-l69-sdqncd">
+              <pc type="virgula">/</pc> 3o dicitur quantum ad id quod perfectionis in forma repperitur 
+              <lb ed="#P" n="39"/>formaliter in causa <pc type="virgula">/</pc> et haec habitudo <unclear>eminentioris</unclear> perfectionis in deo repperitur 
+              <lb ed="#P" n="40"/>causae formalis <pc type="punctus"/> Ex hoc tamen arguitur quod sit causa formalis <pc type="virgula">/</pc> Et <subst><del rend="strikethrough">for</del> <add place="above-line">2o</add></subst> divina essentia non inferur pro tanto esse intellectus 
+              <lb ed="#P" n="41"/>hominis <pc type="punctus"/> quia aliquid inclinavit perfectionis et imperfectionis nec quod possit deus formaliter influere <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e232">
+            <head xml:id="ppra-l69-Hd1e234">Ad tertiam</head>
+            <p xml:id="ppra-l69-ephtpi">
+              <pc type="pilcrow"/> Ad 3am rationem 
+              <lb ed="#P" n="42"/>quae stabat in hoc scilicet tollenda habitudines imperfectionis <pc type="punctus"/> ut forma educi de materiae potentia et esse partem constituti etc 
+              <lb ed="#P" n="43"/>omnibus istis sublatis poterit tunc deo competere <pc type="punctus"/>
+              <!-- consider para break -->
+              <pc type="pilcrow"/> Respondetur licet prius sit responsum nam habet omnia 
+              <lb ed="#P" n="44"/>alias perfectiones scilicet tendentiam insubsistentiam et sic includit aliquid imperfectionis deo repugnat
+            </p>
+            <p xml:id="ppra-l69-spdiif">
+              <pc type="pilcrow"/> 2o dicitur 
+              <lb ed="#P" n="45"/>quod huiusmodi habitudines aliquotiens a respondente admittuntur causa dispictationis et ut latius materia etiam appareat 
+              <lb ed="#P" n="46"/>quas dicimus inseparabiles quantum ad inhaere vel informare <pc type="virgula">/</pc> Et sic si negarentur huiusmodi habitudines ratio facilissime 
+              <lb ed="#P" n="47"/>solveretur
+              
+              <pc type="pilcrow"/> Ex quibus patet quod quicquid est positivum deus potest se solo producere et etiam habet formam vel generat 
+              <lb ed="#P" n="48"/>formam <pc type="punctus"/> et sic deus totum illud potest ponere <pc type="punctus"/> non tamen influxu eiusdem generis <pc type="virgula">/</pc> Et non sequitur deus facit quidquid 
+              <lb ed="#P" n="49"/>potest forma igitur
+              
+              <pc type="pilcrow"/> Ex quo sequitur quod non est concedendum quod deus potest facere se solo quidquid potest cum causa 2a <pc type="virgula">/</pc> patet hoc clare quia 
+              <lb ed="#P" n="50"/>non potest effectum esse formalis influere vel informare
+            </p>
+            <p xml:id="ppra-l69-eqpspp">
+              <pc type="pilcrow"/> Ex quo patet quod effectum causae formalis non potest supplere vel 
+              <lb ed="#P" n="51"/>influxum quia hoc esset concurrere in eademp proportione et eodem modo sicut cum tam 2a et sic finite modo sic deus non 
+              <lb ed="#P" n="52"/>potest concurrere et sic non potest concurrere ut ignis vel influentia igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e251">
+            <head xml:id="ppra-l69-Haqraqr">Ad quartam rationem</head>
+            <p xml:id="ppra-l69-arpgcm">
+              <pc type="pilcrow"/> Ad 4am rationem quae stabat in hoc quod 
+              <lb ed="#P" n="53"/>prima divina est <del rend="strikethrough">enu</del> unibilis creaturae igitur etc 
+              <lb ed="#P" n="54"/>dicitur quod adhuc hoc stante non tamen est in aliquo genere causae 
+              <lb ed="#P" n="55"/>Unde verbum non est unitum in genere causae materialis vel etc Et ex hoc quod verbum recipit denominationes concretivas non 
+              <pb ed="#P" n="73-v"/>
+              <lb ed="#P" n="1"/>arguit habere materiam quia sibi repugnat et sic non concludit quod verbum uniatur in genere causae materialis vel formalis 
+            </p>
+            <p xml:id="ppra-l69-sdesed">
+              dicitur 
+              <lb ed="#P" n="2"/>2o quod consequentia non valet <pc type="virgula">/</pc> <del rend="strikethrough">deus</del> persona est ypostatice unibilis igitur formaliter vel etc <pc type="virgula">/</pc> et causa est quia unio debet esse secundum subsistentiam 
+              <lb ed="#P" n="3"/>et hoc non fit sic quare etc Ex quo patet manifeste sine ampliori deductione quod non sibi materiae <unclear>oi?</unclear> formae 
+              <lb ed="#P" n="4"/>tales concretivas denominationes recipere
+            </p>
+            <p xml:id="ppra-l69-sdqhch">
+              <pc type="pilcrow"/> Ulterius dicitur quod dato quod huiusmodi essentiae sic <unclear>conne?ret</unclear> non tamen adhuc 
+              <lb ed="#P" n="5"/>formaliter influet <pc type="punctus"/> patet quia non reduceretur ad habitudinem causae materialis vel formalis <pc type="virgula">/</pc> quia contrarias habet conditiones
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e281">
+            <head xml:id="ppra-l69-Haqnaqn">Ad quintam rationem</head>
+            <p xml:id="ppra-l69-arqpec">
+              <lb ed="#P" n="6"/><pc type="pilcrow"/> Ad aliam rationem quando dicebatur quod divina essentia est ad extra communicabilis igitur 
+            </p>
+            <p xml:id="ppra-l69-rbeqdi">
+              <pc type="pilcrow"/> Respondetur quod hoc sibi repugnat 
+              <lb ed="#P" n="7"/>quia hoc realiter dicit imperfectionem formalem
+            </p>
+            <p xml:id="ppra-l69-sieess">
+              <pc type="pilcrow"/> 2o impossibile est ipsam ad extra communicari <pc type="punctus"/> quia oportet quod ad extra 
+              <lb ed="#P" n="8"/>multiplicatur
+            </p>
+            <p xml:id="ppra-l69-tdqlcn">
+              <pc type="pilcrow"/> <sic>2o</sic> hoc dato non tamen esset hoc ex parte creaturae <pc type="virgula">/</pc> quia non est capax huiusmodi influxus
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e299">
+            <head xml:id="ppra-l69-Hasrasr">Ad sextam rationem</head>
+            <p xml:id="ppra-l69-ardhsm">
+              <lb ed="#P" n="9"/><pc type="pilcrow"/> Ad aliam implicat contradictionem etc dicitur quod oppositum apparet investiganti veritatem et habitudinem et nihil facit ad mentem
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e308">
+            <head xml:id="ppra-l69-Haspasp">ad septimam rationem</head>
+            <p xml:id="ppra-l69-aarcac">
+              <lb ed="#P" n="10"/><pc type="pilcrow"/> Ad aliam <del rend="strikethrough">ultimam</del> quando dicebatur quod sequeretur quod deitas formaliter influeret <add place="above-line">negatur</add> et <add place="above-line"><unclear>quando</unclear></add> probabatur per <ref><name ref="#Paul">apostolum</name></ref> dicentem 
+              <lb ed="#P" n="11"/><quote source="http://scta.info/resource/hebr1_3@10-11">omnia portans</quote> etc nam videtur dicere quod in christo inhabitat plenitudo divinitatis corporaliter igitur sequitur deum formaliter influere
+            </p>
+            <p xml:id="ppra-l69-reuisc">
+              <pc type="pilcrow"/> Respondetur breviter quod tota rationis difficultas stat in auctoritate <pc type="pilcrow"/> Unde sciendum est quod <name>beatus augustinus</name> 
+              <lb ed="#P" n="12"/>pulchre et eleganter ipsam sic exponit videlicet quod ymaginandum est quod secundum humanitatem christus sit ecclesiae caput 
+              <lb ed="#P" n="13"/>et ecclesia corpus 
+            </p> 
+            <p xml:id="ppra-l69-epsphu">
+              Et tunc sicut in capite omnes reperiuntur sensus et in aliis corporis membris non ita de christo 
+              <lb ed="#P" n="14"/>dicitur quod plenitudo omnium sensibilium sunt in ipso et omnia dona deitas sibi communicat et ipse et sic huiusmodi dona 
+              <lb ed="#P" n="15"/>influit limitate videlicet necessaria gratuite in nobis alia tamen gratiae quam in via <pc type="punctus"/> et sit ergo patet cum ita sit 
+              <lb ed="#P" n="16"/>quod ecclesia sit unum totum corpus et christus caput deitas communicatur corpori et hoc patet etiam unum corpus 
+              <lb ed="#P" n="17"/>multi sumus qui de uno calice participamus Ex quo concluditur quem sic intelligendo videlicet de corpore 
+              <lb ed="#P" n="18"/>mistico auctoritas apostoli sit intelligenda quare etc
+            </p>
+            <p xml:id="ppra-l69-pispai">
+              <pc type="pilcrow"/> Erant tamen aliae auctoritates ut <name>augustini</name> et <name ref="#HughOfStVictor">hugonis 
+              <lb ed="#P" n="19"/>de sancto victore</name> in quilibet videtur quod <del rend="strikethrough">christus</del> quidquid humanitas christi habuit per gratiam habuit etc <pc type="pilcrow"/> unde <name>ricardus</name> 
+              <lb ed="#P" n="20"/>de sancto victore dicit quod nedum omnem scientiam habuit sed etiam omnipotentiam et per consequens sequeretur quod deitas 
+              <lb ed="#P" n="21"/>per modum formae esset christo communicata <pc type="punctus"/>
+            </p> 
+            <p xml:id="ppra-l69-iasppd">Istae auctoritates solvuntur bene a
+              <pc type="pilcrow"/> Respondetur quod istae rationes bene solvuntur a <name ref="#Lombard">magistro</name> <pc type="pilcrow"/> unde dicit quod 
+              <lb ed="#P" n="22"/>licet verbum ab aeterno fuerit tamen temporaliter ex sui gratia incepit esse homo <pc type="punctus"/> unde realiter est verbum et habet esse 
+            </p>
+            <p xml:id="ppra-l69-iqieoe">
+              <lb ed="#P" n="23"/><pc type="pilcrow"/> unde ymaginandum est quod iste terminus homo incepit praedicari de omnibus suis perfectionibus temporaliter 
+            </p> 
+            <p xml:id="ppra-l69-rsqvss">
+              <pc type="pilcrow"/> Unde etiam sciendum est quod supponit 
+              <lb ed="#P" n="24"/>simpliciter pro verbo <pc type="virgula">/</pc> et sic de eo praedicantur omnia praedicata vi unionis ypostaticae inceperunt verificari
+            </p>
+          </div>
+          <div xml:id="ppra-l69-Dd1e397">
+            <head xml:id="ppra-l69-Hacracr">Ad octavam rationem</head>
+            <p xml:id="ppra-l69-arfnha">
+              <pc type="pilcrow"/> Ultima 
+              <lb ed="#P" n="25"/>ratio pro nunc sequitur scilicet quod tanta est unio humanitatis ad deum sicut dicat ad hominem <pc type="punctus"/> sed ratione humanitatis 
+              <lb ed="#P" n="26"/>ad deum verbum denominantur homo igitur ratione deitatis ad humanitatem denominatur deus
+              <!-- consider paragraph break here -->
+              <pc type="pilcrow"/>Ad istam respondetur 
+              <lb ed="#P" n="27"/>quod licet incipiat unio adaequate <pc type="virgula">/</pc> ex hoc non sequitur quod si praedicata concretiva competant quod et alia Et ad hoc quod 
+              <lb ed="#P" n="28"/>poneretur habitudo non poneretur nisi unica <pc type="pilcrow"/> Unde consequentia non valet ista denominantur ista habitudine igitur uniuntur 
+              <lb ed="#P" n="29"/>unica unione <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l69-sqirmp">
+              <pc type="pilcrow"/> 2o iam dictum est quod non est de genere unibilium formaliter vel materialiter quare ratio non probat 
+            </p>
+            <p xml:id="ppra-l69-tqpnhc">
+              <lb ed="#P" n="30"/><pc type="pilcrow"/> 3o ponere talem unionem nihil penitus salvat in materia incarnationis quia homo factus est deus et deus homo 
+              <lb ed="#P" n="31"/>ymmo oporteret quod humanitas esset deus vel homo et sic non salvat per hoc sed habet redire ad nostrum modum 
+            </p>
+            <p xml:id="ppra-l69-usidqb">
+              <pc type="pilcrow"/> ultimo 
+              <lb ed="#P" n="32"/>si concederetur inquirens sequeretur scilicet quod deus posset peccare etc patet quia sic ponendo illa humanitas conceditur 
+              <lb ed="#P" n="33"/>deus esse 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l69-ttisif">
+              <pc type="punctus"/> nihilominus ista dico ad <unclear>scolarium</unclear> introductionem recitative et sic talis primo abstrahit 
+              <lb ed="#P" n="34"/>imperfectionem scilicet positio formalis de qua visum est superius <add place="above-line">et ista est satis</add>
+            </p> 
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l69-utqasm">
+              Et ulterius quod sequeretur quod creatura esset deus 
+              <lb ed="#P" n="35"/>potest concedi extrinsece quadam similitudine participationis plures dii essent <pc type="punctus"/> nam dicitur nos omnes dii <pc type="punctus"/> vel templum dei
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l69-Dxxyy1">
+          <head xml:id="ppra-l69-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l69-axxyy3">
+            <pc type="pilcrow"/> Sequitur prima conclusio 
+            <lb ed="#P" n="36"/>lectionis supra distinctionem 19ma videlicet quod in statu innocentiae primus parens potuit mori et non 
+            <lb ed="#P" n="37"/>mori <pc type="punctus"/> ymo ordinatum erat ut non moreretur nisi fructus scientiae boni et mali ad certa ipso gustaretur 
+            <lb ed="#P" n="38"/>non mori quia indigebat cibo materiali vel alio quam de pomo vitae
+          </p>
+          <p xml:id="ppra-l69-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio in statu innocentiae erat 
+            <lb ed="#P" n="39"/>naturaliter moralis sed <unclear>termino</unclear> tamen in statu gratiae
+          </p>
+          <p xml:id="ppra-l69-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio quod sicut erat sibi inhibitum de fructu scientiae boni 
+            <lb ed="#P" n="40"/>et mali ita praeceptum ut comederet de fructu vitae et sic ex fructu vitae viveret <unclear>co?do</unclear> ita 
+            <lb ed="#P" n="41"/>ex fructu prohibito scilicet scientiae boni et mali moreretur 
+          </p>
+          <p xml:id="ppra-l69-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio ex natura sua primus parens habuit quamdam 
+            <lb ed="#P" n="42"/>habitudinem moriendi sicut creatura corporalis <pc type="punctus"/> et sic finis adest lectionis festo sancti blasii <pc type="punctus"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

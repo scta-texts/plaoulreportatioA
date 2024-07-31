@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 49 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 49 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-03">July 03, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="59-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio49">
+        <head xml:id="ppra-l49-Hd1e101">Lectio 49, de Fruitione</head>
+        <div xml:id="ppra-l49-Dd1e104">
+          <head xml:id="ppra-l49-Hduembe">Difficultas: Utrum ex puris naturalibus potest quis actum moraliter bonum elicere?</head>
+          <div xml:id="ppra-l49-Dd1e109">
+            <head xml:id="ppra-l49-Hdododo">Duo opiniones</head>
+            <p xml:id="ppra-l49-pfrdei">
+              <lb ed="#P" n="25"/>Consequenter ad rationes de fruitione dei absque caritate unde circa istam praesentem materiam doctores multi faciat 
+              <lb ed="#P" n="26"/>difficultatem videlicet utrum creatura rationalis ex puris naturalibus possit deo frui <pc type="punctus"/> Et de hoc duplex est 
+              <lb ed="#P" n="27"/>ymaginatio 
+            </p>
+            <p xml:id="ppra-l49-nadmbe">
+              <pc type="virgula">/</pc> nam aliqui dicunt quod influentia generali potest quis deo frui et <add place="above-line">actum</add> moraliter bonum elicere 
+            </p>
+            <p xml:id="ppra-l49-adqmqt">
+              <pc type="pilcrow"/> Alii dicunt quod ad eligedum actum moraliter bonum indiget aliquo speciali adiutorio et maxime 
+              <lb ed="#P" n="28"/>ad actum fruitivum et est gratia gratificans qua indiget et hoc in via 
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e124">
+            <head xml:id="ppra-l49-Hogebmo">Opinio Gregorii et Bradwardini: Quod ex puris naturalibus nullus potest bene moraliter operari</head>
+            <p xml:id="ppra-l49-uaqsnf">
+              <pc type="pilcrow"/> Ubi advertendum est quod positio 
+              <lb ed="#P" n="29"/><name ref="#Rimini">gregorii</name> et aliorum ponentium quod quis non potest ex puris naturalibus deo frui fundat se <unclear>s</unclear> 
+              <lb ed="#P" n="30"/>videlicet quod voluntas rationis corruptibile omnem actum retorquet in se vel ad se <pc type="punctus"/> et quia omnis actus 
+              <lb ed="#P" n="31"/>virtuosus est super omnia diligendus debet habere finem debitum in creatura Et ideo requiritur aliquod elevans naturam 
+              <lb ed="#P" n="32"/>ultra suam dispositionem propriam vel naturam <pc type="punctus"/> Et quia nulla corrupta tendit naturaliter ad se <pc type="punctus"/> ideo non potest se 
+              <lb ed="#P" n="33"/>ex se elevare supra se nec actus suos dirigere in finem debitum quare alio speciali
+              <lb ed="#P" n="34"/>adiutorio indiget <pc type="punctus"/> supra suam facultatem
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e144">
+            <head xml:id="ppra-l49-Hdugsss">Dubium: utrum gratia gratificans se sola sufficeret?</head>
+            <p xml:id="ppra-l49-shemsm">
+              <pc type="pilcrow"/> Sed restat dubium utrum gratia gratificans sufficiat 
+              <lb ed="#P" n="35"/>ad elevationem animae absque quod deus concurrat <pc type="virgula">/</pc> licet suo modo communi concurrat
+            </p>
+            <p xml:id="ppra-l49-rpqeng">
+              <pc type="pilcrow"/> Ad istud dicitur 
+              <lb ed="#P" n="36"/>quod caritas non est apta nata concurrere ad elevandum mentem nisi deo concurrente ad effectum ipsius 
+              <lb ed="#P" n="37"/>esse elevandum quia est causa 2a modo causa 2a non est ordinata alicui naturaliter agenti <pc type="virgula">/</pc> et tamen diceretur quod ipsa non
+              <lb ed="#P" n="38"/>esset apta nata agere nisi deus ageret cum ipsa et ideo si substraheretur prima causa scilicet deus alia 2a scilicet 
+              <lb ed="#P" n="39"/>caritas non esset sufficiens <pc type="pilcrow"/> unde dato quod caritas informaret voluntatem cum influentia nihil 
+              <lb ed="#P" n="40"/>penitus ageret in eam <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l49-sdqiip">
+              <pc type="pilcrow"/> 2o diceretur quod dato quod caritas haberet suam activitatem nihilominus non sufficeret 
+              <lb ed="#P" n="41"/>ad actum dei fruitivum saltim eiusdem speciei et hoc respectu voluntatis in qua poneretur <pc type="virgula">/</pc> patet hoc ex 
+              <lb ed="#P" n="42"/>subordinatione trium causarum respectu huiusmodi concurrentium ideo prima causa in suo genere superior et perfectior speciei 
+              <lb ed="#P" n="43"/>et sic per sui substractionem impediretur effectus eius respectu eiusdem <pc type="punctus"/> 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l49-idddic">
+              <pc type="virgula">/</pc> Et ideo dixerunt doctores 
+              <lb ed="#P" n="44"/>quod liberum arbitrium et caritas non sufficiunt ad tempotationes evitandas <pc type="punctus"/> sed requiritur concursus 
+              <lb ed="#P" n="45"/>divinus etc ipso stante habitus excederet totam latitudinem moralium habituum
+            </p>
+            <!--
+              Doesn't seem present, but its not entirely clear 
+              <p xml:id="ppra-l49-sdqifd">
+              Secunda dato quod caritas 
+              produceret actum perfectiorem quam sit aliquis actus moralis, 
+              quia caritas excedit quemcumque habitum moralem, non tamen cum voluntate 
+              posset in fruitionem Dei.
+            </p>-->
+            <p xml:id="ppra-l49-tdqisi">
+              <pc type="pilcrow"/><sic>2o</sic> diceretur 
+              <lb ed="#P" n="46"/>quod nedum huiusmodi habitus non posset producere mediante coefficantia dei in statu innocentiae <pc type="punctus"/> <pc type="virgula">/</pc> et patet de primo 
+              <lb ed="#P" n="47"/>parente nam habuit ex puris naturalibus unde stare posset sed non ut proficeret <pc type="punctus"/> et per consequens 
+              <lb ed="#P" n="48"/>huiusmodi actus non sunt causati efficientiae sicut in statu innocentiae
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e175">
+            <head xml:id="ppra-l49-Hcogcog">Circa opinionem <name ref="#Rimini">Gregorii</name></head>
+            <p xml:id="ppra-l49-aeqqmp">
+              <pc type="pilcrow"/> Advertendum est tamen ulterius de 
+              <lb ed="#P" n="49"/>actibus moraliter exitentibus sed de hiis non spectat ad propositum sed ad librum ethicorum 
+            </p>
+            <p xml:id="ppra-l49-uogsra">
+              <pc type="virgula">/</pc> nihilominus oppinio 
+              <lb ed="#P" n="50"/><name>gregorii</name> est quod ex puris naturalibus voluntas non potest bene referre actus suos ad fratrem debitum 
+              <lb ed="#P" n="51"/>sicut dictum est <pc type="punctus"/> quare indiget gratia non tamen gratificante <pc type="punctus"/> <del rend="strikethrough">sed</del> respectu moralis 
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e196">
+            <head xml:id="ppra-l49-Hqdhges">Quod Deus habet influentiam generalem et specialem</head>
+            <p xml:id="ppra-l49-uaqhep">
+              <pc type="virgula">/</pc> unde praeter dei influentiam 
+              <pb ed="#P" n="59-v"/>
+              <lb ed="#P" n="1"/>generalem habet specialem qua inclinat peccatores ad conversionem et pulsat sicut praedictum est <ref xml:id="ppra-l49-Rd1e203" corresp="#ppra-l49-Qesaoep"><title ref="#ap">apocalypso</title> 3o</ref> 
+              <lb ed="#P" n="2"/><quote xml:id="ppra-l49-Qesaoep" source="http://scta.info/resource/ap3_20">ego sto ad hostium et pulso</quote>
+            </p>
+            <p xml:id="ppra-l49-stdbmo">
+              <pc type="pilcrow"/> Sed quaeretur quo minus aliquis posset moraliter operari quamvis tunc 
+              <lb ed="#P" n="3"/>non sit in potestate sua 
+            </p>
+            <p xml:id="ppra-l49-refiqa">
+              <pc type="pilcrow"/> Respondetur quod assistentia dei specialis et nulli denegatur ymo semper 
+              <lb ed="#P" n="4"/>praesto est et ideo non requiritur nisi obedientia et quod sequatur pulsio huius motionis <pc type="punctus"/> sed quomodo 
+              <lb ed="#P" n="5"/>sequela possit fieri videbitur inferius in solutione 4tae rationis
+            </p>
+            <p xml:id="ppra-l49-ateebs">
+              <pc type="pilcrow"/> Advertendum tamen est quod tenentes 
+              <lb ed="#P" n="6"/>quod ex puris naturalibus possit moraliter frui ymaginantur sic quod creatura potest aliquem finem
+              <lb ed="#P" n="7"/>temporalem et bonum constituere sicut patet de pace pro bono civili
+            </p>
+            <p xml:id="ppra-l49-uarbcp">
+              <pc type="pilcrow"/> Ulterius advertendum est quod ratione 
+              <lb ed="#P" n="8"/>corruptelae creaturae tendit ad se <pc type="punctus"/> vel etiam non esse tamen per huiusmodi <unclear>re?nem</unclear> actus esset malus et sic actus 
+              <lb ed="#P" n="9"/>morales non sunt ordinati in finem ultimum <!-- something added here but not clear? --> sed in bonum civile et transquilum <pc type="virgula">/</pc> quia in bonum civitatis et est 
+              <lb ed="#P" n="10"/>felicitatis et sic illud potest praeexistere pro fine politico et non haeretico 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l49-nsaepn">
+              Et sic respectu huius finis aliquis 
+              <lb ed="#P" n="11"/>bene operaretur et acceptarentur virtutes licet non haberent finem ultimum et sic omnia vitia rerum 
+              <lb ed="#P" n="12"/>pellet propter se <pc type="punctus"/> nec admitteret vitium et sic per ipsam salvatur ordo <unclear>politicus</unclear> Et sic secundum istam viam posset 
+              <lb ed="#P" n="13"/>sustineri et fuit ista materia valde discussa sed tamen quicquid dicatur magis est se subiciere dictis 
+              <lb ed="#P" n="14"/>et sententiis sanctorum et doctorum antiquorum
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e249">
+            <head xml:id="ppra-l49-Hmcqedg">Melior conclusio: quod requiritur Dei speciale adiutorium et Dei gratia</head>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l49-sqaaia">
+              <pc type="pilcrow"/> difficultas tamen stat in fruitionem dei sine gratia
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l49-Dd1e259">
+          <head xml:id="ppra-l49-Hrarrar">Responsio ad rationes</head>
+          <div xml:id="ppra-l49-Dd1e264">
+            <head xml:id="ppra-l49-Haprapr">Ad primam rationem</head>
+            <p xml:id="ppra-l49-staidc">
+              <pc type="pilcrow"/> Sed 
+              <lb ed="#P" n="15"/>quando arguebatur quod puris naturalibus posset quis frui deo
+            </p> 
+            <p xml:id="ppra-l49-reppav">
+              <pc type="pilcrow"/> Respondetur ut alias est responsum quod humana 
+              <lb ed="#P" n="16"/>cognitio indiget aliquo elevante quia intellectus depravatur in suo genere propter malum ad quod 
+              <lb ed="#P" n="17"/>se divertit quod quid malum afficit intellectum 
+            </p>
+            <p xml:id="ppra-l49-iirmip">
+              <pc type="pilcrow"/> Item intellectus reatione corruptele est infirmus
+              <lb ed="#P" n="18"/>circa apparentias sophisticas ad quas magis inclinatur quam ad veras <pc type="punctus"/> et per consequens inclinatur voluntas 
+              <lb ed="#P" n="19"/>ad hoc
+            </p>
+            <p xml:id="ppra-l49-sprpmc">
+              <pc type="pilcrow"/> Et sic respondetur negando consequentiam propter causas aliquas
+            </p>
+            <p xml:id="ppra-l49-pqviem">
+              <pc type="pilcrow"/> prima est quia voluntas magis laeditur 
+              <lb ed="#P" n="20"/>quam intellectus quia serva facta est quare poena in ea sit maior
+            </p>
+            <p xml:id="ppra-l49-squifd">
+              <pc type="pilcrow"/> 2a est quia dilectio dei in statu naturae est 
+              <lb ed="#P" n="21"/>maior quam in statu innocentiae et per consequens cum voluntas sit debilior <pc type="punctus"/> quam ante erat oportet eam subcumbi 
+              <lb ed="#P" n="22"/>fieri serva <pc type="punctus"/> quia <unclear>debitata</unclear> est in operationibus suis
+            </p>
+            <!--
+              doesn't seem present 
+              <p xml:id="ppra-l49-iniqes">
+              Item,
+              ipsa nunc non potest in fruitionem quae erat in statu innocentiae, 
+              ergo nec in fruitione pro nunc quae est superior.
+            </p>-->
+            <p xml:id="ppra-l49-ideets">
+              <pc type="pilcrow"/> Item per sanctos doctores non potest voluntas temptationem
+              <lb ed="#P" n="23"/><unclear>superiorem</unclear> igitur non potest deum diligere fruitive consequentia tenet et antecedens patet per determinationes sanctorum
+            </p>
+            <p xml:id="ppra-l49-idbiuf">
+              <pc type="pilcrow"/> Item <ref xml:id="ppra-l49-Rd1e307"><name ref="#Bernard">bernardus</name></ref> 
+              <lb ed="#P" n="24"/>dicit quod voluntas quicquid agit semper retorquet ad se et per consequens non potest diligere supra se <pc type="punctus"/> et 
+              <lb ed="#P" n="25"/>confirmat per scripturam sacram <!--est subiecta  small one word gap here -->
+            </p>
+            <p xml:id="ppra-l49-ivpads">
+              <pc type="pilcrow"/> Item voluntas post desertam iustitiam est subiecta 
+              <lb ed="#P" n="26"/>igitur non potest affici nisi de supra adiuvetur
+            </p>
+            <p xml:id="ppra-l49-ipcidc">
+              <pc type="pilcrow"/> Item <name>pelagus</name> specialiter introductionem concessit per 
+              <lb ed="#P" n="27"/>sacram scripturam <pc type="virgula">/</pc> unde consequentia non valet intellectus dictat hoc ex puris naturalibus ergo vult consequentia non valet 
+            </p>
+            <!-- extremely fuzzy parallel -->
+            <p xml:id="ppra-l49-eahnpd">
+              <lb ed="#P" n="28"/><pc type="pilcrow"/> Item dicat <add place="above-line">quod</add> per actus voluntatis terminetur ut <num>x</num> et sit in triplo non potest intellectus ditare <pc type="punctus"/>
+            </p>
+            <!-- extremely fuzzy parallel -->
+            <p xml:id="ppra-l49-esvtne">
+              <pc type="pilcrow"/> Item arguitur 
+              <lb ed="#P" n="29"/>de specie dilectionis <pc type="virgula">/</pc> unde perfectiori modo diligit anima christi quam sortes in via
+            </p>
+            <!-- extremely fuzzy parallel -->
+            <p xml:id="ppra-l49-esadsg">
+              <pc type="virgula">/</pc> unde non sequitur intellectus 
+              <lb ed="#P" n="30"/>dicat igitur vult <pc type="punctus"/> et sic negatur antecedens et consequentia in illa ratione <pc type="punctus"/> unde in communibus operationibus si intellectio dicet 
+              <lb ed="#P" n="31"/>voluntati dare denarium vel etc non est in sua potestate quod referat ad modum sine adiutorio <sic>gratiffico</sic> <pc type="punctus"/>
+            </p>
+            <!-- extremely fuzzy parallel -->
+            <p xml:id="ppra-l49-aaicss">
+              <lb ed="#P" n="32"/><pc type="pilcrow"/> Ad aliud inconveniens quia si ista esset sequeretur quod qui esset in caritate sciret utrum esset in caritate vel gratia 
+              <lb ed="#P" n="33"/>Respondetur quod non oportet quia opportet quod esset evidenter actus et quod non posset procedere nisi a caritate <pc type="virgula">/</pc> et supponit
+              <lb ed="#P" n="34"/>quod aliquis potest se scire frui deo <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l49-ppr">
+              et licet sit probabile tamen non est evidens <pc type="punctus"/> <pc type="pilcrow"/> Ita quod ratio nihil plus probat 
+              <lb ed="#P" n="35"/>nisi quod probabiliter quis crederet in caritate esse <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l49-snepse">
+              <pc type="pilcrow"/> 2o non est evidens ex dictamini intellectus ut sciat 
+              <lb ed="#P" n="36"/>reflectere actus <pc type="pilcrow"/> Unde stat quod aliqui credunt se diligere deum vel aliquem cum non sit ista vel etc
+            </p>
+            <p xml:id="ppra-l49-cpiiev">
+              <pc type="pilcrow"/> Consequenter potest 
+              <lb ed="#P" n="37"/>inferri quod maximum signum est non essendi in caritate habendo temporalium affectum vel ad temporalia
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l49-dcriee">
+              <lb ed="#P" n="38"/><pc type="pilcrow"/> Aliter dicunt quidam distinguendo de hoc quoniam in reflectione actus non potest bene <unclear>cognosic</unclear> utrum sit 
+              <lb ed="#P" n="39"/>in caritate vel non <pc type="pilcrow"/>
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-l49-dciiis">
+              Sed <name ref="#RobertHalifax">elyphat</name> dicit quod aliquis potest se scire in caritate et respondet ad rationem quod 
+              <lb ed="#P" n="40"/>intelligitur de praedestinatione vel aeterna dampnatione 
+              <pc type="virgula">/</pc> unde etiam multi praedestinati aliquotiens <unclear>peccavere</unclear> 
+              <lb ed="#P" n="41"/>sic dicendum et <name>petrus</name> et <name>paulus</name> et ceteri
+            </p>
+          </div>
+          <div xml:id="ppra-l49-Dd1e390">
+            <head xml:id="ppra-l49-Hasrasr">Ad secundam rationem</head>
+            <p xml:id="ppra-l49-cassir">
+              <pc type="pilcrow"/> Ad 2am rationem <pc type="virgula">/</pc> voluntas potest habere aliquem actum etc respondetur 
+              <lb ed="#P" n="42"/>iuxta praedicta quod voluntas posset elicere illo casu actum fruitivum et non necessario elicit actum malum <pc type="virgula">/</pc> Ad 
+              <lb ed="#P" n="43"/>argumentum tamen dicitur quod huiusmodi voluntas si habeat aliquem actum habet malum et talis actus est abusus quocumque 
+              <lb ed="#P" n="44"/>actum eliciat <pc type="punctus"/> cum hoc stat quod est libera quia posset exercere dum tamen disponeret se ad hoc et hoc de lectione 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l49-Dxxyy1">
+          <head xml:id="ppra-l49-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l49-axxyy3">
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Prima conclusio lectionis voluntas dei est efficax ut fiat quod debet fieri <add place="above-line">et est tantae efficaciae <unclear>semper est frustribilis</unclear></add>
+          </p>
+          <p xml:id="ppra-l49-axxyy4">
+            <pc type="pilcrow"/> 2a sic semper impletur in nobis 
+            <lb ed="#P" n="46"/>adhuc quando facimus contra dei praeceptum est efficax quia deus vult nos substrahi ab ipso peccato
+          </p>
+          <p xml:id="ppra-l49-axxyy5">
+            <lb ed="#P" n="47"/><pc type="pilcrow"/> 3a deus praecepit aliqua quae non vult fieri patet de immolatione <name>habrahae</name>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio59">
+      <head xml:id="ppra-l59-Hldfldf">Lectio 59, de Trinitate</head>
+      <div xml:id="ppra-l59-Dd1e109">
+        <head xml:id="ppra-l59-Hpcdcds">Propositiones contra divinam simplicitatem</head>
+        <p xml:id="ppra-l59-qcmtid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-qcmtid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-qcmtid"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l59-Dd1e117">
+          <head xml:id="ppra-l59-Hpqnirf">Prima</head>
+          <head type="question-title">Quod non est identitas rationum formalium</head>
+          <p xml:id="ppra-l59-pidess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-pidess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-pidess"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dd1e126">
+          <head xml:id="ppra-l59-Hsqieap">Secunda</head>
+          <head type="question-title">Quod in divinis est distinctio essentiae ad personam</head>
+          <p xml:id="ppra-l59-iidraa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-iidraa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-iidraa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dd1e135">
+          <head xml:id="ppra-l59-Htidepi">Tertia</head>
+          <head type="question-title">in Deo est pluralitas idearum</head>
+          <p xml:id="ppra-l59-tidaef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-tidaef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-tidaef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-aiceer">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-aiceer"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-aiceer"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-uatdcb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-uatdcb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-uatdcb"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l59-Dd1e274">
+        <head xml:id="ppra-l59-Hrppppa">Rationes pro prima propositio: probatio antecedentis</head>
+        <p xml:id="ppra-l59-srafid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-srafid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-srafid"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l59-Dd1e282">
+          <head xml:id="ppra-l59-Hprprpr">Prima ratio</head>
+          <p xml:id="ppra-l59-epaepn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-epaepn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-epaepn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dd1e298">
+          <head xml:id="ppra-l59-Hsrsrsr">Secunda ratio</head>
+          <p xml:id="ppra-l59-sasiev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-sasiev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-sasiev"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dd1e307">
+          <head xml:id="dT57Htrtrtr">Terta ratio</head>
+          <p xml:id="ppra-l59-tqeiaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-tqeiaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-tqeiaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-isspcn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-isspcn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-isspcn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-iaaenc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-iaaenc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-iaaenc"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-l59-evanvm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-evanvm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-evanvm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-aiaqef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-aiaqef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-aiaqef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l59-issqpi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l59-issqpi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-issqpi"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l59-Dd1e339">
+        <head xml:id="ppra-l59-Hraootp">Rationes ad oppositum trium propositionum</head>
+        <p xml:id="ppra-l59-aoiepd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-aoiepd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-aoiepd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-iasddm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-iasddm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-iasddm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l59-Dd1e357">
+        <head xml:id="ppra-l59-Hdraatp">Divisio responsionis ad tres propositiones</head>
+        <p xml:id="ppra-l59-cttams">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-cttams"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-cttams"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-pedmsit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-pedmsit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-pedmsit"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-sedeep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-sedeep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-sedeep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-tedise">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-tedise"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-tedise"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l59-Dxxyy1">
+        <head xml:id="ppra-l59-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l59-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy3"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy4"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy5">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy5"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy5"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy6">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy6"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy6"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy7">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy7"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy7"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy8">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy8"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy8"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy9">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy9"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy9"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l59-axxyy10">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l59-axxyy10"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l59-axxyy10"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio66">
+      <head xml:id="ppra-l66-Hldtldt">Lectio 66, de Trinitate</head>
+      <div xml:id="ppra-l66-Dd1e109">
+        <head xml:id="ppra-l66-Hudesdc">Utrum divina essentia possit communicare suas denominationes
+          concretivas?</head>
+        <p xml:id="ppra-l66-avasdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-avasdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-avasdc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l66-Dd1e118">
+        <head xml:id="ppra-l66-Hhvhvhv">Habitudines unibilium</head>
+        <p xml:id="ppra-l66-pqsemh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-pqsemh"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-pqsemh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-peppec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-peppec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-peppec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-shpess">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-shpess"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-shpess"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-thedpm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-thedpm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-thedpm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-aehcis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-aehcis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-aehcis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-aehhes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-aehhes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-aehhes"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l66-sheias">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-sheias"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-sheias"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l66-Dd1e149">
+        <head xml:id="ppra-l66-Hpchchm">Propositiones circa hanc materiam</head>
+        <p xml:id="ppra-l66-ipppdm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ipppdm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ipppdm"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l66-Dd1e157">
+          <head xml:id="ppra-l66-Hprpprp">Prima propositio</head>
+          <p xml:id="ppra-l66-peliss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-peliss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-peliss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-ppdrmq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ppdrmq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ppdrmq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-iiflse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-iiflse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-iiflse"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-ieqdec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ieqdec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ieqdec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-iannea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-iannea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-iannea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-isasid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-isasid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-isasid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-cpsspp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-cpsspp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-cpsspp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-suqneh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-suqneh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-suqneh"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l66-Dd1e220">
+          <head xml:id="ppra-l66-Hspspsp">Secunda propositio</head>
+          <p xml:id="ppra-l66-uppcsf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-uppcsf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-uppcsf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-sspsea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-sspsea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-sspsea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-ppnaai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ppnaai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ppnaai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-iehdes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-iehdes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-iehdes"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l66-Dd1e247">
+          <head xml:id="ppra-l66-Htptptp">Tertia propositio</head>
+          <p xml:id="ppra-l66-apdsrs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-apdsrs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-apdsrs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-eisers">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-eisers"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-eisers"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-suqasa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-suqasa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-suqasa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-suqrfc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-suqrfc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-suqrfc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l66-Dd1e279">
+        <head xml:id="ppra-l66-Hpprppr">Plus propositiones</head>
+        <p xml:id="ppra-l66-upiuis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l66-upiuis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-upiuis"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l66-Dd1e287">
+          <head xml:id="ppra-l66-Hpmppmp">Prima propositio</head>
+          <p xml:id="ppra-l66-peqdav">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-peqdav"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-peqdav"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-cdquaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-cdquaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-cdquaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-neuuaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-neuuaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-neuuaa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l66-Dd1e305">
+          <head xml:id="ppra-l66-Hsapsap">Secunda propositio</head>
+          <p xml:id="ppra-l66-apeaei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-apeaei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-apeaei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-ueasqs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ueasqs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ueasqs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-suqhdc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-suqhdc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-suqhdc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-suqscd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-suqscd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-suqscd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-usqtei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-usqtei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-usqtei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-ehpqdi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-ehpqdi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-ehpqdi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l66-edqmff">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l66-edqmff"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l66-edqmff"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l66-Dxxyy1">
+        <head xml:id="ppra-l66-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l66-axxyy3">
+        </p>
+        <p xml:id="ppra-l66-axxyy4">
+        </p>
+        <p xml:id="ppra-l66-axxyy5">
+        </p>
+        <p xml:id="ppra-l66-axxyy6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

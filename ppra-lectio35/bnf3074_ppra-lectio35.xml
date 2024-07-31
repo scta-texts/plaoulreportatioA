@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 35 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 35 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-22">May 22, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="53-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio35">
+        <head xml:id="ppra-l35-Hldfldf">Lectio 35, de Fruitione</head>
+        <div xml:id="ppra-l35-Dd1e109">
+          <head xml:id="ppra-l35-Hressio">Responsio</head>
+          <p xml:id="ppra-l35-iritmt">
+            <lb ed="#P" n="7"/>Restat solvere rationes prius motas quarum quaelibet tractat unam materiam
+          </p>
+          <div xml:id="ppra-l35-Dd1e117">
+            <head xml:id="ppra-l35-Hdprdpr">De prima ratione</head>
+            <p xml:id="ppra-l35-ptfuea">
+              prima tangebat potentiam finitae capacitatis sive 
+              <lb ed="#P" n="8"/><unclear>perceptivitatis</unclear> et tales perceptiones ymaginantur sicut lineae nam sicut prima esset alir et perfectior ita in proposito
+            </p>
+            <div xml:id="ppra-l35-Dd1e125">
+              <head xml:id="ppra-l35-Hobitio">Obiectio</head>
+              <p xml:id="ppra-l35-scaeii">
+                <pc type="pilcrow"/> Et arguitur 
+                <lb ed="#P" n="9"/>nam intrinseca perceptivitas non potest melius quantificari quam per suum effectum igitur 
+              </p>
+              <p xml:id="ppra-l35-iqcnei">
+                <pc type="pilcrow"/> Item quod cognitio animae christi sit infinita hoc 
+                <lb ed="#P" n="10"/>videtur impossibile quia quaelibet talis est sub minima specie et per consequens non debet dici infinita
+              </p> 
+              <p xml:id="ppra-l35-itqisd">
+                <pc type="pilcrow"/> Item quaelibet creatura naturalis 
+                <lb ed="#P" n="11"/>esset aeque perfecta sicut supprema intelligentia 
+              </p>
+              <p xml:id="ppra-l35-qsqenq">
+                <pc type="pilcrow"/> Item quaelibet creatura beata in infinitum <subst><del rend="strikethrough">magis</del> <add place="above-line">minus</add></subst> beata quam beata patet quia caret 
+                <lb ed="#P" n="12"/><sic>latitudine</sic> beatitudinis <pc type="punctus"/> et per consequens esset quaedam carentia perfectionis <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l35-Dd1e152">
+              <head xml:id="ppra-l35-Hraorao">Responsio ad obiectionem</head>
+              <p xml:id="ppra-l35-airppp">
+                <pc type="pilcrow"/> Respondendum est et breviter dicendo quod probat de 
+                <lb ed="#P" n="13"/>perceptione extrinseca <pc type="punctus"/> <pc type="pilcrow"/> unde notandum est quod infinitas de qua loquimur quasi nihil ponit perfectionis nisi quod modo 
+                <lb ed="#P" n="14"/>accidentalis <pc type="pilcrow"/> unde data aliqua <unclear>ingredeae</unclear> aliquis gradus eius excederet latitudinem alterius etc Et ideo notitia infinita non 
+                <lb ed="#P" n="15"/>est perfectior quam minimus eius gradus <pc type="punctus"/> et ideo perceptiones diversificatur specifice secundum diversitatem specierum <pc type="pilcrow"/> unde licet anima christi 
+                <lb ed="#P" n="16"/>prius pertineat infinite a deo dependens non plus cognoscit quantum ad esse perceptivum essentiale quam <unclear>angelus</unclear>
+                <lb ed="#P" n="17"/><pc type="pilcrow"/> unde ipsa christi anima finite percipit quantum ad esse specificum et non infinite quia perfectio specifica ponit simplicem perfectionem 
+                <lb ed="#P" n="18"/>Et sic patet per ista quod ratio prima est sophistica <pc type="virgula">/</pc> unde quaelibet notitia quantificatur secundum suum effectum 
+              </p>
+              <p xml:id="ppra-l35-ulaeip">
+                <pc type="virgula">/</pc> Et licet anima 
+                <lb ed="#P" n="19"/>christi sit infinite perceptiva essentialiter tamen finite quantum ad speciem
+              </p>
+              <!--
+                doesn't seem present, but review break 
+                <p xml:id="ppra-l35-scappo">
+                Sed 
+                contra ascendamus per speciem notiarum anima non 
+                terminabitur ad unam sed procedet per omnes.
+              </p>-->
+              <p xml:id="ppra-l35-sanils">
+                <pc type="pilcrow"/> Quantum est de latitudine entium ratio faciliter solvitur 
+                <lb ed="#P" n="20"/>quia non loquimur de perceptione specifica sed de accidentali et ideo argumentum est inpertinens   <pc type="pilcrow"/> Advertendum est tamen quod anima non 
+                <lb ed="#P" n="21"/>magis est perfecta cum infinita cognoscat quam cum finita
+              </p>
+            </div>
+          </div>
+          <!--
+            fuzzy parallel, but does not not seem present; could use re-review
+            <div xml:id="ppra-l35-Dd1e181">
+            <head xml:id="ppra-l35-Haardla">Ad aliam rationem quae est de latitudinem accidentium</head>
+            <p xml:id="ppra-l35-aareip">
+              Ad 
+              aliam rationem quae est de latitudine accidentium quod 
+              nulla potest esse notitia infinita, quia tota latitudo 
+              accidentium est sub tota latitudine substantiarum, dicitur quod non 
+              loquitur de perfectione specifica essentiali. Sed de perceptione 
+              in esse perceptionis quae hic 
+              ponitur infinita, nam latitudo perceptionis 
+              in esse perceptionis non ponitur in latitudine 
+              essentialium, sed accidentium. 
+              
+              Unde si perceptio animae Christi 
+              potentia in angelo erit perfectior in esse perceptionis. 
+              Et etiam si poneretur in alia proportionata[???] 
+              perfectiori esse perfectior in esse perceptionis 
+              si ergo poneretur in suprema intelligentia infinita 
+              per imaginationem, tunc esset infinita 
+              perceptio, et sic solvuntur rationes per 
+              distinctionem perceptionis in esse individuali et essentiali 
+              vel in esse specifico et est esse perceptionis, et sic 
+              potentia potest dici infinita extrinsece illo modo 
+              quo notitia sua est infinita et est quaedam 
+              accidentalis perfectios. Unde non arguitur albedo infinita 
+              ex hoc quod est infinitorum graduum nisi accidentaliter 
+              et non extrinsece et non essentialiter sic est 
+              in proposito.
+            </p>
+          </div>-->
+          <div xml:id="ppra-l35-Dd1e190">
+            <head xml:id="ppra-l35-Htrtrtr">Tertia ratio</head>
+            <p xml:id="ppra-l35-traimb">
+              <pc type="pilcrow"/> de 3a non est inconveniens hoc quod arguit quo ad gradus 
+              <lb ed="#P" n="22"/>nihilominus extrinsece 
+            </p>
+            <p xml:id="ppra-l35-sharnp">
+              <pc type="pilcrow"/> De 4a advertendum 
+              <lb ed="#P" n="23"/>advertendum est quod principalis pars beatitudinis est ipsum obiectum
+            </p> 
+            <p xml:id="ppra-l35-saqrnp">
+              <pc type="pilcrow"/> Et dicitur ultra quod appetitus 
+              <lb ed="#P" n="24"/>beatitudinis est secundum statutum gratiae et non naturae <pc type="virgula">/</pc> nam non est appetitus <del rend="strikethrough">nal</del><!-- possible word added above --> secundum limitationem graduum secundum quantum gratia inclinat 
+              <lb ed="#P" n="25"/>ad acquirendum Ex quo sequitur quod satis plene anima quietatur et non resolvitur
+              
+              <pc type="pilcrow"/> Unde non est eadem proportio status 
+              <lb ed="#P" n="26"/>beatarum in qua denominetur magis unus quam alter <unclear>ai?</unclear> quando aliqua duo comparantur non sufficit quod pars extremi 
+              <lb ed="#P" n="27"/>dimittitur si aut beatitudo formalis duppletur ymo secundum pro efficitur duplum secundum quid et sic non sequitur infinita beatitudo 
+              <lb ed="#P" n="28"/>defficit isti igitur non est in infinitum beatior aut econtra
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l35-Dd1e211">
+          <head xml:id="ppra-l35-Hqpspsf">Quomodo potest sustineri finitas</head>
+          <p xml:id="ppra-l35-rdqsma">
+            <pc type="pilcrow"/> Restat dicere de aliis modis 
+          </p>
+          <p xml:id="ppra-l35-pmepem">
+            unde sciendum est quod licet anima 
+            <lb ed="#P" n="29"/>sit <seg type="correction"><del>in</del>finitae</seg> capacitatis naturaliter <pc type="virgula">/</pc> tamen per miraculum potest esse infinitae sicut patet in naturalibus de vase pleno liquore <pc type="punctus"/>
+            <lb ed="#P" n="30"/>quia deus per sui potentiam posset incentuplo plus facere continere <pc type="virgula">/</pc> vel de igne et eius activitate etiam et 
+            <lb ed="#P" n="31"/>huius oppinionis est <name>adam</name>
+          </p>
+          <p xml:id="ppra-l35-amesip">
+            <pc type="pilcrow"/> Alius modus est potentia animae terminatur descendendo et non ascendendo sed per modum 
+            <lb ed="#P" n="32"/>potentiarum passivarum  
+          </p>
+          <p xml:id="ppra-l35-avemec">
+            <pc type="pilcrow"/> Alius modus quantum ad gradum terminatur et non quantum ad speciem et est ymaginatio adae sed non 
+            <lb ed="#P" n="33"/>de speciebus et salvat per hoc quod capacitas humana est finita
+            
+            <pc type="pilcrow"/> Alii sunt multi modi <pc type="virgula">/</pc> videlicet quod homo 
+            <lb ed="#P" n="34"/>posset tantum mereri quod non plus <pc type="virgula">/</pc> et si isti modi non tenerentur posset dici quod animae capacitas esset 
+            <lb ed="#P" n="35"/>infinita quo ad gradum et quod ad speciem
+          </p>
+          <p xml:id="ppra-l35-ueqmec">
+            <pc type="pilcrow"/> Unde notat <name>adam</name> unam distinctionem scilicet quod duplex est capacitas 
+          </p> 
+          <p xml:id="ppra-l35-psevid">
+            <lb ed="#P" n="36"/><pc type="pilcrow"/> una subiectiva alia activa ista est infinita <pc type="virgula">/</pc> alia scilicet prima passiva 
+          </p>
+          <p xml:id="ppra-l35-aecpec">
+            <pc type="punctus"/> Alia est evidenter contentiva quae communicatur rebus unde 
+            <lb ed="#P" n="37"/>quaelibet creatura est huiusmodi
+          </p>
+          <p xml:id="ppra-l35-aereea">
+            <pc type="pilcrow"/> Alia est representativa et in deo est infinita et in creatura finita
+          </p>
+          <p xml:id="ppra-l35-aecicc">
+            <pc type="pilcrow"/> Alia coexistentiva et ista mediate 
+            <lb ed="#P" n="38"/>creatura capit deum <pc type="punctus"/> et isto modo quaelibe res est infinitae capacitatis et sic finis
+          </p>
+        </div>
+        <div xml:id="ppra-l35-Dxxyy1">
+          <head xml:id="ppra-l35-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l35-cd3cee">
+            <pc type="pilcrow"/> Prima conclusio lectionis praesentis fuit 
+            <lb ed="#P" n="39"/>quod proprietatem personarum sunt ipse personae <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l35-scppee">
+            <pc type="pilcrow"/> 2a conclusio proprietates divinarum personarum aliter se habent ad personas aliter ad essentiam 
+            <lb ed="#P" n="40"/>quia sunt distinctiones personarum et non essentiae
+          </p>
+          <p xml:id="ppra-l35-axxyy3">
+            <pc type="pilcrow"/> 3a conclusio deus est et tamen non sicut de substantia unde pater est sua proprietate pater et non 
+            <lb ed="#P" n="41"/>est sua essentia <pc type="punctus"/> et haec sufficiant pro praesenti dicta
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

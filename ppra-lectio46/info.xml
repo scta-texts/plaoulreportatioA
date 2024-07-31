@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio46">
+      <head xml:id="ppra-l46-Hldfldf">Lectio 46, de Fruitione</head>
+      <div xml:id="ppra-l46-Dd1e85">
+        <head xml:id="ppra-l46-Hncqfes">
+          <supplied>Novus casus quando Deo non fruendum est simpliciter</supplied>
+        </head>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l46-iplrfd">
+            In praecedenti lectione responsum est, 
+            ad 
+            <cit>
+              <ref xml:id="ppra-l46-Rd1e97" target="http://scta.info/resource/l45-uchtep">unum argumentum</ref>
+            </cit> 
+            quod probatur quod in casu 
+            non est Deo fruendum, 
+            sed magis creatura et potius diligenda est creatura quam Deus. 
+            et circa hoc dictum est quod converso ad creatura ordinata est Dei 
+            fruitio, ita quod impossibile est quod quis convertatur ad creaturam 
+            ordinate quoniam ordinetur fruitione ad dilectionem dei, 
+            quia in hoc quod debite ordinatur creatura realiter fruitur Deo.
+          </p>-->
+        <p xml:id="ppra-l46-camepm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l46-camepm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-camepm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l46-Dd1e144">
+        <head xml:id="ppra-l46-Hraiaic">
+          <supplied>Responsio ad istum casum</supplied>
+        </head>
+        <p xml:id="ppra-l46-airadm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l46-airadm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-airadm"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l46-Dd1e158">
+          <head xml:id="ppra-l46-Hprones">
+            <supplied>Propositiones</supplied>
+          </head>
+          <div xml:id="ppra-l46-Dd1e163">
+            <head xml:id="ppra-l46-Hppqdel">
+              <supplied>Prima propositio</supplied>
+            </head>
+            <head xml:id="ppra-l46-Hd1e175" type="question-title">
+              <supplied>Quod semper fruitio Dei est licita</supplied>
+            </head>
+            <p xml:id="ppra-l46-pdsscl">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-pdsscl"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-pdsscl"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l46-Dd1e193">
+            <head xml:id="ppra-l46-Hspqpsf">
+              <supplied>Secunda propositio</supplied>
+            </head>
+            <head xml:id="ppra-l46-Hd1e198" type="question-title">
+              <supplied>Quod non stat creaturam elicere fruitionem stante prohibitione sibi
+                facta</supplied>
+            </head>
+            <p xml:id="ppra-l46-Hspncei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-Hspncei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-Hspncei"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-scffpe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-scffpe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-scffpe"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-icpepa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-icpepa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-icpepa"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-ivnfdp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-ivnfdp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-ivnfdp"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-ivqfdp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-ivqfdp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-ivqfdp"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-psaasa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-psaasa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-psaasa"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-paeqac">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-paeqac"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-paeqac"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-scseec">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-scseec"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-scseec"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-teccla">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-teccla"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-teccla"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-eqsaid">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-eqsaid"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-eqsaid"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l46-Dd1e377">
+            <head xml:id="ppra-l46-Htpqmvi">
+              <supplied>Tertia Propositio</supplied>
+            </head>
+            <head xml:id="ppra-l46-Hd1e315" type="question-title">
+              <supplied>Quod Deus respectu actus mali non potest specialiter concurrere movere vel
+                influere</supplied>
+            </head>
+            <p xml:id="ppra-l46-tnesei">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-tnesei"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-tnesei"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l46-eqpdec">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-eqpdec"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-eqpdec"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l46-Dd1e439">
+          <head xml:id="ppra-l46-Hararar">Ad rationes</head>
+          <div xml:id="ppra-l46-Dd1e444">
+            <head xml:id="ppra-l46-Hapapap">Ad primam</head>
+            <p xml:id="ppra-l46-etadec">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-etadec"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-etadec"
+                />
+              </assertions>
+            </p>
+            <!--
+                doesn't seem present 
+                <p xml:id="ppra-l46-uscnni">
+                Unde 
+                si creatura non posset <sic>non posset</sic> naturaliter distincte certificari, tamen 
+                sperare habet quod deus concurret secum ad continuandum actum usque 
+                ad tempus licitum et non ultra vel etiam posset per modum 
+                specialem certificari. Verbi gratia, si praecipiat deus <name ref="#Sortes">sorti</name> quod faciat 
+                aliquid  in <c>a</c> hora 
+                et non ultra poterit per aliquod extrinsecum certificari, ut 
+                per <sic>aurologium</sic> vel aliquod aliud. Et ista materia tangit 
+                utrum aliquis posset non mereri vocando non mereri. 
+                Et istam tangit 
+                <cit>
+                  <ref xml:id="ppra-l46-Rd1e381">
+                    <name ref="#Wodeham">Adam</name>
+                  </ref>
+                </cit>, 
+                sed pro nunc nolo intrare.
+              </p>-->
+            <p xml:id="ppra-l46-atecap">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-atecap"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-atecap"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l46-Dd1e525">
+            <head xml:id="ppra-l46-asasas">Ad secundam</head>
+            <p xml:id="ppra-l46-ascpie">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-ascpie"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-ascpie"
+                />
+              </assertions>
+            </p>
+            <!--
+                Doesn't seem present 
+              <p xml:id="ppra-l46-hreeeu">
+                Hic respondendum est quod nullum videtur inconveniens quod Rei permanentis 
+                in esse sit dabile ultimum instans, quia hoc habent 
+                <cb ed="#SV" n="b"/> <!-\- 254vb -\->
+                concedere ponentes quod quantitas continua distinguitur a substantia, quia 
+                esset dabile ultimum instans pedalis quantitatis in Rarefactione, 
+                nam si aliquid Rarefit quod sit pedale, tunc quando incipit 
+                Rarefieri est dabile ultimum instans pedalis quantitatis 
+                habet ibi esse, nam in illo instanti est pedalis quantitas et in 
+                nullo post, ergo est ultimum.
+              </p>
+              <p xml:id="ppra-l46-eidiqe">
+                et ita de caritate, nam si aliquis 
+                incipiat peccare et successive, tunc dabitur ultimum instans caritatis, 
+                quia in illo instanti successivo erit caritas, et immediate 
+                post illud non erit caritas. Et si <unclear>instetur</unclear> huiusmodi res 
+                corrumpitur, ergo in instanti in quo est.
+              </p> 
+              <p xml:id="ppra-l46-rqrppd">
+                Respondetur quod res potest 
+                vocari corrumpi, quando desinit esse, et sic Res corrumpitur quando est, 
+                scilicet, in instanti in quo ultimo est. secundo dicitur quod quando Res corrumpitur, 
+                non est dandum aliquod instans in quo verum sit dicere quod in isto 
+                instanti res corrumpitur, sicut valde bene staret quod <c>a</c> angelus, nunc 
+                non esset. et tamen immediate post deus enim produceret, et tamen 
+                non esset aliquod certum instans in quo produceret primo, quia 
+                tunc illud esset instans proximum primo dato.
+              </p>-->
+          </div>
+          <div xml:id="ppra-l46-Dd1e621">
+            <head xml:id="ppra-l46-Hatatat">Ad tertiam</head>
+            <p xml:id="ppra-l46-aanaas">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l46-aanaas"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-aanaas"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l46-Dd1e642">
+        <head xml:id="ppra-l46-Hadadad"> Responsio ad argumenta quod Deo non fruendum solum </head>
+        <div xml:id="ppra-l46-Dd1e647">
+          <head xml:id="ppra-l46-Hd1e649">Ad rationem quartam, quintam, et sextum</head>
+          <p xml:id="ppra-l46-auavss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-auavss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-auavss"/>
+            </assertions>
+          </p>
+          <!-- unclear but doesn't seem present 
+              <p xml:id="ppra-l46-iceade">
+              <!-\- only appears in V -\->
+              Item christus est magis diligendus 
+              Christus est magis diligendus 
+              quam pater, quia ratione fraternitatis in christo additur 
+              aliquid diligibilitatis, etc.
+            </p>
+            <p xml:id="ppra-l46-itcqds">
+              Item, <!-\-possible ref to <ref xml:id="ppra-l46-Rd1e678" target="lectio44.xml#l44-ipdede">lectio 44, para.</ref>-\-> 
+              tota caelestis curia est magis diligenda quam deus 
+              solus.
+            </p>-->
+          <p xml:id="ppra-l46-ihcced">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-ihcced"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-ihcced"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present
+              <p xml:id="ppra-l46-ifhpci">
+              Item 
+              fruitio humanitatis christi est illicita, ergo fruitio dei est illicita 
+              per communicationem idiomatum.
+            </p>-->
+          <p xml:id="ppra-l46-airdqd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-airdqd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-airdqd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-scauef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-scauef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-scauef"/>
+            </assertions>
+          </p>
+          <!-- fuzzy prallel -->
+          <p xml:id="ppra-l46-rhqnef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-rhqnef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-rhqnef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-cqdceu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-cqdceu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-cqdceu"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-reppci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-reppci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-reppci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-aeruef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-aeruef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-aeruef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-uaqend">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-uaqend"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-uaqend"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break point -->
+          <p xml:id="ppra-l46-esnads">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-esnads"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-esnads"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-adachp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-adachp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-adachp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l46-Dd1e853">
+          <head xml:id="ppra-l46-Hauauau">Ad septimum</head>
+          <p xml:id="ppra-l46-arffcc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-arffcc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-arffcc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-hdqpnt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-hdqpnt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-hdqpnt"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break point -->
+          <p xml:id="ppra-l46-uaqofc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-uaqofc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-uaqofc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-npdofc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-npdofc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-npdofc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-ifeaec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-ifeaec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-ifeaec"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-nahdvc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-nahdvc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-nahdvc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l46-rqstic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l46-rqstic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-rqstic"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l46-Dxxyy1">
+        <head xml:id="ppra-l46-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l46-d1e1335">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-d1e1335"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l46-d1e1354">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-d1e1354"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l46-d1e1375"> 
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l46-d1e1375"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

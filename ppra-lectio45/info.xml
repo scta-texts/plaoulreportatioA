@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio45">
+      <head xml:id="ppra-l45-Hldldld">Lectio 45, de Fruitione</head>
+      <div xml:id="ppra-l45-Dd1e85">
+        <head xml:id="ppra-l45-Hspaiec">Solutiones pro aliquibus rationibus prius factus quod non
+          solum Deo est fruendum, immo etiam creatura</head>
+        <p xml:id="ppra-l45-crriec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l45-crriec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-crriec"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l45-Dd1e99">
+          <head xml:id="ppra-l45-Hrqcedp">Ratio: quod creatura in casu esse Deo praeferenda</head>
+          <p xml:id="ppra-l45-uchtep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-uchtep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-uchtep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-isisad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-isisad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-isisad"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-iaphdi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-iaphdi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-iaphdi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-pepdda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-pepdda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-pepdda"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l45-pseagi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-pseagi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-pseagi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l45-Dd1e172">
+          <head xml:id="ppra-l45-Hrarrar">Responsio ad rationem</head>
+          <div xml:id="ppra-l45-Dd1e177">
+            <head xml:id="ppra-l45-Hprprpr">Prima responsio</head>
+            <p xml:id="ppra-l45-airdsf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-airdsf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-airdsf"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l45-ipcspe">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-ipcspe"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-ipcspe"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l45-saivaa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-saivaa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-saivaa"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e251">
+            <head xml:id="ppra-l45-Hsrsrsr">Secunda responsio</head>
+            <p xml:id="ppra-l45-sriemm">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-sriemm"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-sriemm"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l45-sipnss">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-sipnss"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-sipnss"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l45-dqccsp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-dqccsp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-dqccsp"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l45-Dd1e310">
+            <head xml:id="ppra-l45-Htrtrtr">Tertia responsio</head>
+            <p xml:id="ppra-l45-taaame">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-taaame"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-taaame"
+                />
+              </assertions>
+            </p>
+            <!-- reconsider break point -->
+            <p xml:id="ppra-l45-tvqfsc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-tvqfsc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-tvqfsc"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l45-ttqano">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l45-ttqano"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-ttqano"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l45-Dd1e355">
+          <head xml:id="ppra-l45-Hoqqvgs">Obiectio: Quod quis sine fide, caritate, vel gratiam
+            salvetur</head>
+          <p xml:id="ppra-l45-yciasm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-yciasm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-yciasm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-uigicp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-uigicp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-uigicp"/>
+            </assertions>
+          </p>
+          <!-- very very fuzzy parallel -->
+          <p xml:id="ppra-l45-esvetd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-esvetd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-esvetd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l45-Dd1e453">
+          <head xml:id="ppra-l45-Hraorao">Responsio ad obiectionem</head>
+          <p xml:id="ppra-l45-ecipsg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-ecipsg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-ecipsg"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-etdact">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-etdact"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-etdact"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-veqint">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-veqint"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-veqint"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy but right now this is either in the above or not present
+            <p xml:id="ppra-l45-ciiint">
+              Consequenter in ista materia, quia tactum 
+              est quod numquam quis in aliquo instanti tenetur frui deo, 
+              dicitur communiter quod tenetur in aliquo, 
+              licet in nullo teneatur.
+            </p> 
+            <p xml:id="ppra-l45-sirtsd">
+              Sed ista responsio non videtur sufficiens. 
+              Primo quia 
+              creatura existens in culpa tenetur se disponere ad fruendum deo 
+              et Realiter obligatur ad fruendum deo in isto instanti terminante 
+              suam dispositionem.
+            </p>-->
+          <p xml:id="ppra-l45-ictpso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-ictpso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-ictpso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-icttrd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-icttrd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-icttrd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-itftfd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-itftfd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-itftfd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-updeps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-updeps"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-updeps"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l45-Dd1e649">
+          <head xml:id="ppra-l45-Hqpafqn">Quod praecepta affirmativa obligant ad frequentius quam
+            negativa</head>
+          <p xml:id="ppra-l45-ctiipn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-ctiipn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-ctiipn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-uaisim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-uaisim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-uaisim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-epesim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-epesim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-epesim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-esfnel">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-esfnel"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-esfnel"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-iopsiv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-iopsiv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-iopsiv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l45-usavtg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-usavtg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-usavtg"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l45-Dd1e806">
+          <head xml:id="ppra-l45-Hconsio">Conclusio</head>
+          <p xml:id="ppra-l45-espdde">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l45-espdde"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l45-espdde"/>-->
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l45-Dxxyy1">
+        <head xml:id="ppra-l45-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l45-axxyy3">
+        </p>
+        <p xml:id="ppra-l45-axxyy4">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

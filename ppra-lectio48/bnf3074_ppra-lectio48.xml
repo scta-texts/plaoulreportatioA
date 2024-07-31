@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 48 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 48 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-02">July 02, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="58-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio48">
+        <head xml:id="ppra-l48-Hldfldf">Lectio 48, de Fruitione</head>
+        <div xml:id="ppra-l48-Dd1e104">
+          <head xml:id="ppra-l48-Hurqesg">Una ratio quod fruitio Dei posset esse sine gratia</head>
+          <p xml:id="ppra-l48-ccmege">
+            <lb ed="#P" n="50"/>Consequenter est ad rationes superius factas respondendum <del rend="strikethrough">ad primam igitur rationem</del> Sed antequam 
+            <lb ed="#P" n="51"/>respondeatur arguitur de obstetricibus <pc type="punctus"/> nam obstetrices in egipto scilicet sephora et alia socia 
+            <lb ed="#P" n="52"/>sua non <unclear>acquiren?unt</unclear> praecepto pharaonis sed timuerunt deum ut habetur <unclear>utero?a</unclear> tunc sic opus 
+            <lb ed="#P" n="53"/>ipsarum fuit bonum quia licitus actus et tamen non erat in gratia et per consequens sine gratia
+            <pb ed="#P" n="59-r"/>
+            <lb ed="#P" n="1"/>potest quis frui deo
+          </p>
+          <!--
+            extremely fuzzy, but it doesn't seem present
+            <p xml:id="ppra-l48-carcfd">
+            Confirmatur a <unclear>Rectractionibus[?]</unclear> Rei <unclear>pu?te[?]</unclear> romanorum 
+            et aliarum potentiarum, et licet secundum <name ref="#Augustine">augustinum</name> essent mali 
+            fecerunt, tamen aliqua mala opera quae opera debebant Re
+            munerari saltem per aliquod bonum temporale. et per consequens actus 
+            eorum erant boni. et per consequens fruitio dei.
+          </p>-->
+        </div>
+        <div xml:id="ppra-l48-Dd1e146">
+          <head xml:id="ppra-l48-Hcaqidc">Contra antecedens quod intellectus ex puris naturalibus potest dicare Deum esse summum bonum et voluntas poterat se illi dictamini conformare</head>
+          <p xml:id="ppra-l48-aradce">
+            <pc type="pilcrow"/> Et tunc ad rationes <pc type="pilcrow"/> Ad primam de intellectu qui potest ex puris naturalibus rebus etc 
+            <lb ed="#P" n="2"/>frui deo 
+          </p>
+          <div xml:id="ppra-l48-Dd1e160">
+            <head xml:id="ppra-l48-Hprqnsc">Prima ratio: quod investigatio humana non possunt pertingere praeter notitiam substantiarum corporearum</head>
+            <p xml:id="ppra-l48-adaacp">
+              <pc type="pilcrow"/> Ad antecedens dicitur quod creatura humana nisi iuta specialiter non potest attingere 
+              <lb ed="#P" n="3"/>ad dei fruitionem <pc type="punctus"/> nam patet de caldeis qui propter deffectum cognitionibus ultra solem 
+              <lb ed="#P" n="4"/>et stellas non <unclear>po?lat</unclear> aliquam substantiam separatam <pc type="pilcrow"/> Unde aristoteles in libro de regimine principum 
+              <lb ed="#P" n="5"/>sive de secretis secretorum ait quod philosophia fuit revelata <pc type="punctus"/> et <name>iosephus</name> in libro antiquitatum 
+              <lb ed="#P" n="6"/>dicit quod multa fuerit revelata quae per se scire non est possibile 
+            </p>
+          </div>
+          <!-- fuzzy break -->
+          <div xml:id="ppra-l48-Dd1e186">
+            <head xml:id="ppra-l48-Hsrsrsr">Secunda Ratio</head>
+            <p xml:id="ppra-l48-sdqdef">
+              <pc type="virgula">/</pc> unde dato quod intellectus posset pertin<lb ed="#P" break="no" n="7"/>gere 
+              naturaliter ad dei cognitionem sive fruitionem <pc type="virgula">/</pc> tamen non posset comprehendere secundum conditionem <unclear>obiective</unclear> 
+              <lb ed="#P" n="8"/>fruibilitatis quia non oportet quod cognoscat secundum omnem principium unde <name>aristoteles</name> non cognovit deum secundum omnem praedicatum
+              <lb ed="#P" n="9"/>nec etiam oportet quod <del>rec</del> res cognoscatur secundum omnes sui conditiones quare sequitur quod creatura ex puris naturalibus 
+              <lb ed="#P" n="10"/><unclear>devenire</unclear> ad dei cognitionem sive fruitionem scilicet quod sit obiectum fruibile
+            </p>
+          </div>
+          <div xml:id="ppra-l48-Dd1e198">
+            <head xml:id="ppra-l48-Htrtrtr">Tertia ratio</head>
+            <p xml:id="ppra-l48-tdqnpp">
+              <pc type="pilcrow"/> 3o dicitur quod licet intellectus 
+              <lb ed="#P" n="11"/>quantum esset de se posset devenire ad notitiam dei Et hoc videtur velle apostolus nam dicit quod malitia 
+              <lb ed="#P" n="12"/>facit hoc <pc type="punctus"/> unde malitia eorum exaecavit eos et nisi hoc esset et sic fecissent deum verum cogno<lb ed="#P" break="no" n="13"/>vissent 
+              <pc type="punctus"/> Et ideo quia se non disposuerunt talem cognitionem non habuerunt <pc type="punctus"/> Et si dice<lb ed="#P" break="no" n="14"/>batur 
+              in primo instanti in quo habuerunt notitiam obligati fuerunt ad hoc <pc type="pilcrow"/> Sed de instanti non 
+              <lb ed="#P" n="15"/>valeret casus ex hoc quod non semper potuerunt 
+            </p>
+          </div>
+          <div xml:id="ppra-l48-Dd1e211">
+            <head xml:id="ppra-l48-Hqrqrqr">Quarta ratio</head>
+            <!-- fuzzy break point -->
+            <p xml:id="ppra-l48-sdqedr">
+              et sic diceretur quod malitia licet intellectus posset cognoscere 
+              <lb ed="#P" n="16"/>nihilominus peccatum impedit ipsius fruitionem et operationem voluntariam 
+            </p>
+            <p xml:id="ppra-l48-pehebm">
+              et sic divertit intellectum ad dei cognitionem 
+              <lb ed="#P" n="17"/>sine fruitione
+            </p>
+            <p xml:id="ppra-l48-sqadbm">
+              <pc type="pilcrow"/> Unde affectus pravus est quaedam operatio quae sicut se habet quod voluntas per ipsam afficitur et ideo 
+              <lb ed="#P" n="18"/>depravat intellectum <pc type="virgula">/</pc> et facit credere de malo quod sit bonum et econtra 
+            </p>
+            <p xml:id="ppra-l48-esieof">
+              <pc type="virgula">/</pc> Ex quo sequitur quod amore et odium 
+              <lb ed="#P" n="19"/>pervertunt iudicium unde diligens aliquem hominem malum putat facere bonum 
+            </p>
+            <!--
+              Doesn't seem prsent
+              <p xml:id="ppra-l48-acqisd">
+              Alia causa, quia secundum proportionem potentiarum est ordo assistentiae 
+              dei, ut deus assistit voluntati, ut Recte afficiatur 
+              et assistit intellectui, ut veritatem cognoscat. per peccatum autem deperditur 
+              ista assistentia quae deperdita substrahitur influentia 
+              specialis dei.
+            </p>-->
+            <p xml:id="ppra-l48-ipiqnf">
+              Et ideo secundum istas 
+              <lb ed="#P" n="20"/>causas quis non potest habere iudicium quod deo esset fruendum <pc type="punctus"/>
+            </p>
+          </div>
+          <!--
+            Doesn't seem present 
+            <div xml:id="ppra-l48-Dd1e239">
+            <head xml:id="ppra-l48-Hconsio">Conclusio</head>
+            <p xml:id="ppra-l48-esipmc">
+              Et sic illud antecedens, scilicet, quod intellectus ex puris 
+              naturalibus potest dicare quod deus est summum bonum et super omnia 
+              diligendum, et quod voluntas se potest illi dictamini conformare, 
+              potest multipliciter calumniari.</p>
+          </div>-->
+        </div>
+        <div xml:id="ppra-l48-Dd1e457">
+          <head xml:id="ppra-l48-Hd1e459">Conclusiones</head>
+          <p xml:id="ppra-l48-d1e462">
+            <pc type="pilcrow"/> Prima conclusio lectionis fuit scilicet quod voluntas 
+            <lb ed="#P" n="21"/>dei non est causa mali et dicitur quod non potest velle vel nole quod peccatum sit <pc type="punctus"/> tamen conceditur quod ymmo 
+            <lb ed="#P" n="22"/>permissive <pc type="punctus"/> et hoc de praesenti lectione <pc type="punctus"/> quia non plus humanus pro tanto quod <name>gerson</name> et <name><unclear>demoravia</unclear></name>
+            <lb ed="#P" n="23"/>et unus <unclear>cordius</unclear> licenti fuere <pc type="punctus"/> quapropter opportuit <name>plaoust</name> ire ad licentiam die mercuris 
+            <lb ed="#P" n="24"/>an natale in ieiuniis 4or <unclear>temporum</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

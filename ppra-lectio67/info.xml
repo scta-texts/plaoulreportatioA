@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio67">
+      <head xml:id="ppra-l67-Hldtldt">Lectio 67, de Trinitate</head>
+      <div xml:id="ppra-l67-Dd1e109">
+        <head xml:id="ppra-l67-Hprones">Propositiones</head>
+        <p xml:id="ppra-l67-pdmpap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-pdmpap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-pdmpap"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l67-Dd1e117">
+          <head xml:id="ppra-l67-Hppoppo">Prima propositio</head>
+          <p xml:id="ppra-l67-pcieif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-pcieif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-pcieif"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-spqecc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-spqecc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-spqecc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-spqmef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-spqmef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-spqmef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-eqppdf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eqppdf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eqppdf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-eehasp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eehasp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eehasp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-sqpepe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-sqpepe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-sqpepe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-upfvso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-upfvso"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-upfvso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-puvemd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-puvemd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-puvemd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-uaeerq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-uaeerq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-uaeerq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-eqscaq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eqscaq"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eqscaq"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l67-Dd1e190">
+          <head xml:id="ppra-l67-Hspospo">Secunda propositio</head>
+          <p xml:id="ppra-l67-apsdad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-apsdad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-apsdad"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l67-Dd1e208">
+          <head xml:id="ppra-l67-Htpotpo">Tertia propositio</head>
+          <p xml:id="ppra-l67-apqmvf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-apqmvf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-apqmvf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l67-Dd1e218">
+          <head xml:id="ppra-l67-Hd1e220">Quarta propositio</head>
+          <p xml:id="ppra-l67-apqads">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-apqads"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-apqads"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-ppppie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-ppppie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-ppppie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l67-msppec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l67-msppec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-msppec"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l67-Dd1e248">
+        <head xml:id="ppra-l67-oauscc">Opinio Adam: utrum potentia creativa sit creatura
+          communicabilis?</head>
+        <p xml:id="ppra-l67-eioscc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eioscc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eioscc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-cismrf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-cismrf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-cismrf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-ppemmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-ppemmp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-ppemmp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-aehaed">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-aehaed"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-aehaed"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-therie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-therie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-therie"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e312">
+        <head xml:id="ppra-l67-Hcaasei">Contra <name ref="#Wodeham">Adam</name>: anima humana
+          inhaeret sibi eam informat</head>
+        <p xml:id="ppra-l67-cpqdii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-cpqdii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-cpqdii"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e327">
+        <head xml:id="ppra-l67-Hinstia">Instantia</head>
+        <p xml:id="ppra-l67-cipeee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-cipeee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-cipeee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e337">
+        <head xml:id="ppra-l67-Hrairai">Responsio ad instantiam</head>
+        <p xml:id="ppra-l67-reqend">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-reqend"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-reqend"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-eqssir">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eqssir"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eqssir"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-siftss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-siftss"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-siftss"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-tqiast">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-tqiast"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-tqiast"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-qqiqdr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-qqiqdr"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-qqiqdr"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e368">
+        <head xml:id="ppra-l67-Hcqdpmi">Corollarium: Quod Deus non poterit materialiter
+          influere</head>
+        <p xml:id="ppra-l67-suqrsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-suqrsi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-suqrsi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e377">
+        <head xml:id="ppra-l67-Hqiuhhm">Quod in unione hypostatica Verbum non habet habitudinem
+          materiae</head>
+        <p xml:id="ppra-l67-suqqfo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-suqqfo"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-suqqfo"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-ehsena">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-ehsena"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-ehsena"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l67-Dd1e396">
+        <head xml:id="ppra-l67-Hqmvnse">Quod materialium vel formalium non est ordo nec subordinatio
+          essentialis</head>
+        <p xml:id="ppra-l67-suqegc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-suqegc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-suqegc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-eqptei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-eqptei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-eqptei"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l67-vgigmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-vgigmp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-vgigmp"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't really seem present
+            <p xml:id="ppra-l67-eicsei">Et isti consequenter imaginantur 
+            quod formae substantiales elementorum imperfectiorum etiam mixtorum 
+            Remanent in mixtis perfectis et semper resolutio est ad hoc 
+            quod ultimum semper est imperfectius.
+          </p>-->
+        <!-- barely seems present -->
+        <p xml:id="ppra-l67-qeiadr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l67-qeiadr"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l67-qeiadr"/>-->
+          </assertions>
+        </p>
+        <!-- not present
+            <p xml:id="ppra-l67-eirpne">
+            Et in responsione ad rationes aliqua poterunt dici 
+            quae transeo pro nunc, etc.
+          </p>-->
+      </div>
+      <div xml:id="ppra-l67-Dxxyy1">
+        <head xml:id="ppra-l67-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l67-axxyy3"> </p>
+        <p xml:id="ppra-l67-axxyy4"> </p>
+        <p xml:id="ppra-l67-axxyy5"> </p>
+        <p xml:id="ppra-l67-axxyy6"> </p>
+        <p xml:id="ppra-l67-axxyy7"> </p>
+        <p xml:id="ppra-l67-axxyy8"> </p>
+        <p xml:id="ppra-l67-axxyy9"> </p>
+      </div>
+    </div>
+  </body>
+</info>

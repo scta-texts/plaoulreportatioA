@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 30 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 29 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-13">May 13, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="50-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio30">
+        <head xml:id="ppra-l30-Hd1e110">Lectio 30, de Notitia</head>
+        <div xml:id="ppra-l30-Dd1e113">
+          <head xml:id="ppra-l30-Hudedeu">Utrum demonstrabile est 'Deum esse unicum'</head>
+          <p xml:id="ppra-l30-camilp">
+            <pb ed="#P" n="50-v"/>
+            <lb ed="#P" n="1"/>Consequenter postquam superius visum fuit utrum deum esse sit demonstrabile statum beatorum excludendo 
+          </p>
+          <!-- very very fuzzy parallel -->
+          <p xml:id="ppra-l30-qahdeu">
+            <lb ed="#P" n="2"/>nunc restat circa materiam antequam rationes solvantur videre aliquid de causis essentialiter substantialiter
+          </p>
+          <p xml:id="ppra-l30-pqsped">
+            <lb ed="#P" n="3"/>et primo ponuntur aliquae propositiones quarum prima sequitur argumentative impossibile est plures deos esse
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e164">
+          <head xml:id="ppra-l30-Hqdeuis">Quod Deum esse unum in specie</head>
+          <p xml:id="ppra-l30-pcqend">
+            probatur quia si sic possibile esset 
+            <lb ed="#P" n="4"/>plures deus esse vel differenter specie vel numero solum non primum quia omnia quae differunt specie habent ordinem 
+            <lb ed="#P" n="5"/>inter se sic quod unum perfectius est reliquo <pc type="punctus"/> tunc sint <c>a</c> et <c>b</c> illi dii arguitur sic <c>a</c> 
+            <lb ed="#P" n="6"/>excedit <c>b</c> in perfectine ergo <c>b</c> non est deus consequentia tenet quia deus est quo nichil maius exco<lb ed="#P" break="no" n="7"/>gitari 
+            prout quod <unclear>autem</unclear> habeat ordinem inter se patet de se
+          </p>
+          <p xml:id="ppra-l30-eqabee">
+            <pc type="pilcrow"/> Item nam cuilibet speciei competit sua 
+            <lb ed="#P" n="8"/>denominatio perfectionis simpliciter ex convenientia sua quam habet cum deo <pc type="punctus"/> et est medium concludendi ipsam esse perfectiorem 
+            <lb ed="#P" n="9"/>tunc denominatio expetens <c>a</c> sit <c>c</c> et denominatio competens <c>b</c> sit <c>d</c> tunc ergo per adversarium <c>a</c> et <c>b</c> non different specie
+              <!-- continues in next paragraph -->
+          </p>
+          <!-- not present or somehow in the above 
+          <p xml:id="ppra-l30-emaree">
+                Eodem modo argueretur de B quod est perfectius A 
+                quia ex ratione sua specifica habet aliquam convenientiam essentialem 
+                a qua potest sumi denominatio
+                perfectionis simpliciter
+            Sit 
+              igitur
+            illa D, tunc sic D 
+              competit
+            B, et non 
+              competit
+            A, ergo B est perfectius A. 
+            Et tamen A est perfectius B per praecedentem
+            rationem, ergo etc.
+          </p>-->
+        </div>
+        <div xml:id="ppra-l30-Dd1e399">
+          <head xml:id="ppra-l30-Hqdeuin">Quod Deum esse unum in numero</head>
+          <p xml:id="ppra-l30-dpqsna">
+            <lb ed="#P" n="10"/><pc type="pilcrow"/> Deinde probatur quod non possint differre numero quoniam si sic et sint eiusdem speciei qua ratione in 
+            <lb ed="#P" n="11"/>una specie possunt duo esse individua <pc type="punctus"/> ita et infinita et sic etiam in divinis nulla erit differentia inter 
+            <lb ed="#P" n="12"/>esse et posse et sic dato quod in speciei illa sint particularia individua scilicet plures dii ita consequenter 
+            <lb ed="#P" n="13"/>et plures quia si admittentur particularia individua ita ex ratione sua non impediet quin possint esse 
+            <lb ed="#P" n="14"/>infinita et ita per singulas species discurrendo et sic sic concedatur pluralitas <pc type="punctus"/> ita et infinitas
+          </p>
+          <p xml:id="ppra-l30-ipiasi">
+            <lb ed="#P" n="15"/><pc type="pilcrow"/> Item pluralitas individuarum in aliqua specie est propter imperfectionem ergo nullo modo illa species est ponenda <unclear>p?is</unclear> 
+            <lb ed="#P" n="16"/>individuarum quia deus <unclear>universaliter</unclear> est perfectus <pc type="punctus"/> et antecedens patet ex philosophia et ratione quia pluralitas <unclear>irr?di?arum</unclear> non est <unclear>nisi</unclear>
+            <lb ed="#P" n="17"/>propter correspondentem ipsorum quia species non potest conservari in uno propter suam correspondentem Ideo oppinio <name>aristotelis</name> 
+            <lb ed="#P" n="18"/>fuit quod in non corrumptibus est unicum individuum et sic cum ab aristotele ponatur simpliciter 
+            <lb ed="#P" n="19"/>perfectio ibi non potest esse pluralitas aliter argueretur eius perfectio
+          </p>
+          <p xml:id="ppra-l30-iseqap">
+            <pc type="pilcrow"/> Item tota latitudo ut est plura 
+            <lb ed="#P" n="20"/><unclear>contentiva</unclear> est maioris perfectionis quam species uno contenta <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l30-ispppd">
+            <pc type="pilcrow"/> Item si perfectio duorum 
+            <lb ed="#P" n="21"/>individuorum concurreret unitive resultans esset perfectius quam si unum tantum concurreret
+          </p>
+          <p xml:id="ppra-l30-apniln">
+            <lb ed="#P" n="22"/><pc type="pilcrow"/> Alia propositio nedum sic est quod impossibile sit esse plures deos sed hoc est etiam evidenter demonstrabile 
+            <lb ed="#P" n="23"/>non quidam a priori sed a posteriori <pc type="pilcrow"/> unde philosophi processu ratiocinativo unicum deum concluserunt 
+            <lb ed="#P" n="24"/>unde <ref xml:id="ppra-l30-Rd1e618" target="http://scta.info/resource/aristmet-l12"><!--target imprecise -->12 metaphysicae aristotelis</ref> ait quod est unus aeternus perfectus et ultimus <pc type="punctus"/> et ulterius infert quod pluralitas 
+            <lb ed="#P" n="25"/>principum mala unus ergo princeps <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l30-aimesp">
+            <pc type="pilcrow"/> Ad istam quaestionem faciunt <name ref="#Ripa">Ioannes de Ripa</name> et <name ref="#Scotus">doctor 
+            <lb ed="#P" n="26"/>subtilis</name> multas rationes <pc type="punctus"/> sed multum praelixas videantur quia voluerit 
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e686">
+          <head xml:id="ppra-l30-Hdaccir">Duo argumenta contra istam rationem</head>
+          <p xml:id="ppra-l30-ctiier">
+            Contra tamen conclusionem 
+            <lb ed="#P" n="27"/>facit <name>scotus</name> unam rationem sic nam si esset aliquod bonum sumitur infinitum nullum esset malum 
+            <lb ed="#P" n="28"/>quia unio contrarium praecipue infinitum excludit relicum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l30-snpend">
+            <pc type="pilcrow"/> Item videtur quod tanta perfectio non sit 
+            <lb ed="#P" n="29"/>a creaturis demonstrabilis quia creaturae sunt finitae <pc type="pilcrow"/> Tunc arguitur sic quaelibet creatura est praecise finita
+            <lb ed="#P" n="30"/>ergo ex eius cognitione non potest aliquid inferri nisi finitum
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e787">
+          <head xml:id="ppra-l30-Hrapapa">Responsio ad primum argumentum</head>
+          <p xml:id="ppra-l30-airavm">
+            <pc type="pilcrow"/> Ad obiecta respondendum Ad primum quando 
+            <lb ed="#P" n="31"/>dicitur quod debet intelligi de agentibus naturalibus <pc type="virgula">/</pc> deus autem nec est agens naturale nec habet contrarium 
+            <lb ed="#P" n="32"/>quia malum non est aliquid positivum vel actus ille qui est malum est bonus Et tamen denominative 
+            <lb ed="#P" n="33"/>extrinseca aliquis actus dicitur malus
+          </p>
+          <p xml:id="ppra-l30-sqdnae">
+            <pc type="pilcrow"/> Sed quid dixerunt philosophi qui posuerunt deum libere agere 
+            <lb ed="#P" n="34"/>ad extra 
+          </p>
+          <!-- break fuzzy; review reason for break -->
+          <p xml:id="ppra-l30-qedlse">
+            sicut nunc multi quae fuit oppinio <name>aristotelis</name> Reponitur haec in <unclear>die?m</unclear> quia ex dictis ipsorum non 
+            <lb ed="#P" n="35"/>videtur hoc bene posse concludere <pc type="pilcrow"/> unde <name>aristoteles</name> 12o metaphysicae ponit quod omne praedicatum dicens per<lb ed="#P" break="no" n="36"/>fectionem 
+            sumitur competit deo <pc type="punctus"/> et sic illo sumpto concluditur quod est omnipotens liber et quod libere potest 
+            <lb ed="#P" n="37"/>agere ad extra 
+          </p>
+          <p xml:id="ppra-l30-ieanln">
+            <pc type="punctus"/> ymmo videtur quod nobiscum concurrat ad nostrorum actuum productionem <pc type="virgula">/</pc> et videtur 
+            <lb ed="#P" n="38"/>quod debeat poni libere agere ad extra
+          </p>
+          <p xml:id="ppra-l30-iipsps">
+            <pc type="pilcrow"/> Etiam dicit philosophus 4o physicorum medium posset in infinitum 
+            <lb ed="#P" n="39"/>rarefieri <pc type="punctus"/> et sic ultra naturalem ordinem potest agere et hoc videtur esse libere 
+            
+            <pc type="pilcrow"/> Tamen si vellemus 
+            <lb ed="#P" n="40"/>utrumque salvare diceremus quod deus ageret <pc type="punctus"/> libere ad extra quantum ad aliquas operationes 
+            <lb ed="#P" n="41"/>et naturaliter ad extra et exemplificatur de anima nostra qualiter aliquas operationes naturales et aliquas 
+            <lb ed="#P" n="42"/>liberas sic de deo quod mere ageret respectu aliquarum <del rend="strikethrough">et</del> quo ad aliqualiter naturaliter secundum aristotelem 
+            <lb ed="#P" n="43"/>et istud reputatur satis transibile
+          </p>
+          <p xml:id="ppra-l30-reetnc">
+            <pc type="pilcrow"/> deinde reponitur ad aliam rationem secundum quam probatur quod 
+            <lb ed="#P" n="44"/>deus agat mere libere respectu cuiuscumque operationis <pc type="punctus"/> quare si sic non haberet aliquid destruere
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e1190">
+          <head xml:id="ppra-l30-Hrasasa">Responsio ad secundum argumentum</head>
+          <p xml:id="ppra-l30-aarpmc">
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Ad aliam deus non potest concludi infinitus ex productione creaturarum <pc type="virgula">/</pc> negatur <pc type="virgula">/</pc> et quando arguitur quod creatura est finita 
+            <lb ed="#P" n="46"/>et sic non potest concludi potentia infinita
+          </p>
+          <p xml:id="ppra-l30-pqlapc">
+            negatur haec quia licet sit finita tamen ad sui productionem requirit 
+            <lb ed="#P" n="47"/>immensitatem summam seu potentiam <pc type="pilcrow"/> Et propter istam radicem quam <unclear>sensierunt</unclear> aliqui negaverunt 
+            <lb ed="#P" n="48"/>aliqui quod aliquid posset creari de <unclear>nihilo</unclear> quia de esse ad non esse videtur infinita distantia esse 
+            <lb ed="#P" n="49"/>et ideo non potest fieri nisi a potentia infinita Ideo negaverunt illud cognoscentes quod ad productionem cuiuscumque 
+            <lb ed="#P" n="50"/>rei requiritur potentia summe immensa
+          </p>
+          <p xml:id="ppra-l30-inscai">
+            <pc type="pilcrow"/> Item nisi requiritur potentiae immensae activitas non videretur 
+            <lb ed="#P" n="51"/>quin deus posset suam causalitatem alicui creaturae causare <pc type="punctus"/> sic quod creatura posset deesse ad non esse producere 
+            <lb ed="#P" n="52"/>ut si produceret <c>a</c> non sic immensae potentiae seu difficultatis et sit illa difficultas ut x si dupla 
+            <lb ed="#P" n="53"/>potentia ad hoc debetur producet effectum <pc type="punctus"/> et sic aliqua esset producta creatura quae immediate a deo non 
+            <lb ed="#P" n="54"/>produceretur Ideo potest concludi ex productione creaturarum immensitas potentiae
+          </p>
+          <p xml:id="ppra-l30-ilqsse">
+            <pc type="pilcrow"/> Item licet quaelibet creatura esset 
+            <lb ed="#P" n="55"/>finita quo ad productionem tamen propter habitudinem creaturarum inter se quae est infinita potest concludi immensitas 
+            <lb ed="#P" n="56"/>artificis et ergo quantum ad simplicem <unclear>pn?nem</unclear> obiecto ut finita sed considerata secundum omnes habitudines
+            <pb ed="#P" n="51-r"/>
+            <lb ed="#P" n="1"/>ad alias repraesentat infinita et idcirco secundum hoc requirit artificem inmensum
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e1441">
+          <head xml:id="ppra-l30-Hdsecis">De subordinatione essentiali causarum inter se</head>
+          <p xml:id="ppra-l30-sedspc">
+            <pc type="pilcrow"/> Ex 
+            <lb ed="#P" n="2"/>quo patet quod in quolibet genere causarum finalis et efficientis deus est simpliciter prima causa <pc type="punctus"/> 
+            <lb ed="#P" n="3"/>nihilominus circa istam materiam et pro clariori rationis intellectu <name>scoti</name> omnes doctores quasi 
+            <lb ed="#P" n="4"/>sunt discordes et unde causae vocantur essentialiter subordinatae quando 2a non potest agere nisi prima 
+            <lb ed="#P" n="5"/>concurrente et in virtute primae et isto modo describendo inferretur quod nulla causa 2a potest alteri causae 
+            <lb ed="#P" n="6"/>2ae subordinari <pc type="punctus"/> patet quia quibuscumque causis 2is datis una potest agere alia non agente <pc type="punctus"/> sed 
+            <lb ed="#P" n="7"/>remanente et alia corrupta potest producere quicquid prius poterat cum corrupta Et sic non esset ordo 
+            <lb ed="#P" n="8"/>essentialis ymmo quaelibet requirit causam primam <pc type="punctus"/> 
+          </p>
+          <div xml:id="ppra-l30-Dd1e1614">
+            <head xml:id="ppra-l30-Hoadceo">Obiectio ad definitionem causae essentialiter ordinatae
+            </head>
+            <p xml:id="ppra-l30-esdeie">
+              <pc type="pilcrow"/> Et si arguatur contra nam capiatur causa prima et 2a 
+              <lb ed="#P" n="9"/>adinvicem ad productionem effectus tunc iste effectus producitur ab istis influxive tunc ponatur quod praecise 
+              <lb ed="#P" n="10"/>habeat concursum conservatim et retrahat suum concursum proprium activum <pc type="punctus"/> tunc aliquid producitur 
+              <lb ed="#P" n="11"/>et non a deo et ergo stante influentia illa quaeritur utrum ponet effectum vel non et videtur quod producet
+            </p>
+          </div>
+          <div xml:id="ppra-l30-Dd1e1750">
+            <head xml:id="ppra-l30-Hrrrrrr">Responsio</head>
+            <p xml:id="ppra-l30-stphrd">
+              <lb ed="#P" n="12"/><pc type="pilcrow"/> Potest dici quod cuiuslibet effectus productio requirit immensum concursum <pc type="virgula">/</pc> Et tunc ad casum dicitur 
+              <lb ed="#P" n="13"/>quod dato quod deus subtraheret concursum activum tunc ille influxus non sufficeret ad hoc producendum
+            </p>
+            <p xml:id="ppra-l30-pqepae">
+              <lb ed="#P" n="14"/>patet quia nulla potentia finita sufficeret ymmo requirit causam infinite agentem
+            </p>
+            <p xml:id="ppra-l30-sdqscc">
+              <pc type="pilcrow"/> 2o diceretur quod potest 
+              <lb ed="#P" n="15"/>dici hoc esse impossibile scilicet quod causa 2a influat effective ad effectus productionem nisi prima concurrat 
+              <lb ed="#P" n="16"/>et sic non stat quod sit effectus influxivus 2ae nisi sit effectus influxivus primae <pc type="pilcrow"/> Tamen 
+              <lb ed="#P" n="17"/>capitur magis communiter et proportionaliter ad primum unde causae dicuntur subordinatae quia 2a non potest 
+              <lb ed="#P" n="18"/>agere sine prima secundum communem modum Et sic cor celestia subordinantur intelligentiis 
+              <lb ed="#P" n="19"/>et intelligentiae deo 
+            </p>
+            <p xml:id="ppra-l30-uaotvg">
+              <pc type="punctus"/> sed utrum actus libere subordientur intelligentiis Respondendum est 
+              <lb ed="#P" n="20"/>quod non ymmo quantum ad hoc immediate subordiantur deo Et quantum ad alias concedendum quod 
+              <lb ed="#P" n="21"/>subordiantur causis 2is ut quantum ad generationem hominis sol et prius quam ab homine ymmo 
+              <lb ed="#P" n="22"/>secundum <name>albertum magnum</name> non est possibile hic inferius aliquid produci nisi causis omnibus 
+              <lb ed="#P" n="23"/>superioribus concurrentibus Et sic non staret hominem generare alium nisi sole concurrente
+              <lb ed="#P" n="24"/><pc type="pilcrow"/> Unde aristoteles primo metheologiarum <!-- begin quote, underlined --> necesse est istum mundum continguum esse lationibus superioribus ut in 
+              <lb ed="#P" n="25"/>eius tota virtus gubernetur<!-- end underline --> scilicet hic inferius et ergo subordinantur ista inferiora caelo
+            </p>
+          </div>
+          <div xml:id="ppra-l30-Dd1e2017">
+            <head xml:id="ppra-l30-Hdcfdcf">De causis finalibus</head>
+            <p xml:id="ppra-l30-esdnei">
+              <pc type="pilcrow"/> Nihilominus 
+              <lb ed="#P" n="26"/>doctores ponunt ibi multa nam sicut dictum erit de causa efficiente ita et de finali 
+              <lb ed="#P" n="27"/>scilicet quod quilibet finis subordinatur ultimo fini nec stat concurrere aliquam causam 2am 
+              <lb ed="#P" n="28"/>finaliter ad aliquid nisi deo principalius et finaliter concurrente Et sic proportionaliter loquitur et ergo sic 
+              <lb ed="#P" n="29"/>deus est primus finis et prima causa efficiens <pc type="pilcrow"/> Unde et media ad finem ultimum sunt continua et habitudo 
+              <lb ed="#P" n="30"/>creaturae ad deum necessaria 
+            </p>
+          </div>
+          <div xml:id="ppra-l30-Dd1e2075">
+            <head xml:id="ppra-l30-Hurssed">Utrum ratione Scoti est demonstrativa</head>
+            <p xml:id="ppra-l30-qaeeaa">
+              <pc type="virgula">/</pc> Et sic quantum est de ratione <name>scoti</name> quae tangit de ordine essentiali 
+              <lb ed="#P" n="31"/>causarum in qua dicitur est aliquid effective et non a se nec a nullo ergo efficitur ab alio modo non 
+              <lb ed="#P" n="32"/>est processus in infinitum in essentialiter subordinatis et sic evidenter producitur quod sit aliqua causa 
+              <lb ed="#P" n="33"/>sumitur prima <pc type="virgula">/</pc> quare sequitur quod evidenter probatur quod deus est quod si dicatur processus esse in infinitum in 
+              <lb ed="#P" n="34"/>causis tamen significatur tota multitudo causatorum haec tota multitudo est causata et non ab aliquo sui ergo ab 
+              <lb ed="#P" n="35"/>aliquo quod erit extra talem multitudinem et illud est in causatum ergo datur aliquid a quo procedit
+            </p>
+            <p xml:id="ppra-l30-cimned">
+              <lb ed="#P" n="36"/><pc type="pilcrow"/> Doctores hic multa dicunt unde dicunt quidam quod ista ratio non est demonstrativa
+            </p>
+            <p xml:id="ppra-l30-pqnssf">
+              <lb ed="#P" n="37"/>quia non est evidens quin sit processus in infinitum in causis essentialiter subordinatis 
+              <lb ed="#P" n="38"/>quia talis processus est in accidentaliter subordinatis supposita aeternitate mundi <pc type="punctus"/> quod unus homo 
+              <lb ed="#P" n="39"/>ab alio producitur et sic non dabitur et sic non dabitur primus homo <del rend="strikethrough">athomatibus</del> 
+            </p>
+            <p xml:id="ppra-l30-sdqdna">
+              <pc type="pilcrow"/> Etiam <del rend="stikethrough">a</del> licet aliquid de novo sit tamen 
+              <lb ed="#P" n="40"/>non est absolute evidens quoniam aliqui philosophi posuerunt rerum aeternitatem sicut aliqui non 
+              <lb ed="#P" n="41"/>posuerunt materiam et formam <pc type="pilcrow"/> Sicut et illi qui dixerunt ex athomalibus corporibus 
+              <lb ed="#P" n="42"/>fieri omnia 
+            </p>
+            <p xml:id="ppra-l30-tdqqes">
+              <pc type="pilcrow"/> <sic>2o</sic> dicunt quod non est evidens quin aliquid fiat a se <pc type="pilcrow"/> Pro quo videndum ponendo 
+              <lb ed="#P" n="43"/>aliqua producantur in aliquo instans tunc in eodem instans potest concurrere aliud fieri simile producendum ut quod angelus 
+              <lb ed="#P" n="44"/>producatur et intelligentia vel quod angelus in isto instans producat <c>b</c> et in illo eodem producatur tunc 
+              <lb ed="#P" n="45"/>vocetur angelus <c>a</c> tunc sic <c>a</c> producit <c>b</c> ergo potest producere <c>a</c> quia quanto causa potest producere aliquem effectum 
+              <lb ed="#P" n="46"/>potest producere quemlibet alium eiusdem speciei
+            </p>
+            <p xml:id="ppra-l30-ieqpie">
+              <pc type="pilcrow"/> Item ponatur quod pro illo instans pro quo producatur <c>a</c> velit 
+              <lb ed="#P" n="47"/>se esse et quod deus velit illam volitionem esse causam sufficientem ut sic tunc <c>a</c> producitur
+            </p>
+            <p xml:id="ppra-l30-ibppsp">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="48"/><c>b</c> potest producere <c>a</c> ergo producit <c>c</c> quia suam causam et ipse est in sua causa virtualiter
+            </p>
+            <p xml:id="ppra-l30-idqsec">
+              <pc type="pilcrow"/> Item dicunt quidam quod non est evidens quod aliquam creatura producatur ab aliquo quia diceretur 
+              <lb ed="#P" n="49"/>quia diceretur quod creatura quae produceretur inciperet esse a casu secundum illos qui negant intentionem 
+              <lb ed="#P" n="50"/>agentium et sic illa quae assumit in primo argumento sunt inevidentia
+            </p>
+            <!--
+              Doesn't seem present or in the above
+              <p xml:id="ppra-l30-epccee">
+              Et per consequens, 
+              cum omnia praedicta sint inevidentia,
+              <cb ed="#R" n="b"/><!-\-51vb-\->
+              non causabant evidentiam conclusionis, 
+              ergo etc.
+            </p>-->
+            <p xml:id="ppra-l30-cdppns">
+              <pc type="pilcrow"/> Consequenter de processu 
+              <lb ed="#P" n="51"/>in infinito non est evidens quin sit processus quia tunc cum significatur multitudo etc dictis quidam 
+              <lb ed="#P" n="52"/>quod non potest significari etiam dato quod significatur distinguendum esset haec tota multitudo est causata si li <mentioned>tota</mentioned> capiatur 
+              <lb ed="#P" n="53"/>sincathegorimatice illa concederetur si cathegorimatice negaretur <pc type="pilcrow"/> Et sic ista deductio assumit inevidentiam 
+              <pb ed="#S" n="51-v"/>
+              <lb ed="#P" n="1"/>Et sic nichil concludit
+            </p>
+          </div>
+          <div xml:id="ppra-l30-Dd1e2471">
+            <head xml:id="ppra-l30-Hrndrnd">Responsio: Natura demonstrationis</head>
+            <p xml:id="ppra-l30-henemp">
+              <pc type="pilcrow"/> Notandum est hic quod secundum quod alias tangebatur aliquid esse 
+              <lb ed="#P" n="2"/>demonstrativum debet attendi penes intellectum bene dispositum <pc type="pilcrow"/> 2o notandum est quod media debent 
+              <lb ed="#P" n="3"/>accepi ut sunt ista quod evidentia est maior in uno genere sciendi quam in aliis et hoc 
+              <lb ed="#P" n="4"/>tangit <ref>philosophus primo ethicorum</ref> si non faciat demonstrationes mathematicas in mobili <pc type="punctus"/> quia quare talem 
+              <lb ed="#P" n="5"/>demonstrationem mathematicam in morali est defficere 
+            </p>
+            <p xml:id="ppra-l30-eqsdii">
+              Nunc autem ad propositum quia deus est res 
+              <lb ed="#P" n="6"/><unclear>mora?ma</unclear> et abstractiva de ipso non potest haberi notitia ita evidens sicut de rebus 
+              <lb ed="#P" n="7"/>naturalibus de quibus habentur demonstrationes in mathematicis et ergo sic est deffectus <!-- possible addition here --> vel quia ignorat 
+              <lb ed="#P" n="8"/>modum capiendi vel quia defficiunt in intellectu 
+            </p>
+            <p xml:id="ppra-l30-uqedac">
+              et quantum est de evidentia suffiente in materia 
+              <lb ed="#P" n="9"/>substantia ratio scoti causat evidentiam nec sequitur respondens potest se deffendere a contradictione ergo 
+              <lb ed="#P" n="10"/>bene respondet
+            </p>
+            <p xml:id="ppra-l30-idhibd">
+              <pc type="pilcrow"/> De latitudine autem pro terminationum fuerunt aliqui qui negaverunt primum principium 
+              <lb ed="#P" n="11"/>in <ref>4o metaphysicae</ref> Ideo talibus est dicendum quod videat modum demonstrandi in tali scientia vel disponat 
+              <lb ed="#P" n="12"/>suum intellectum 
+            </p>
+            <p xml:id="ppra-l30-esdrsi">
+              Et cum dicitur non est evidens aliquid esse de novo ymmo intellectui 
+              <lb ed="#P" n="13"/>bene disposito bene deffecerunt et eos reprobat <name>aristoteles</name> Ita et de illis qui primum principium negat <pc type="pilcrow"/> Sed utrum aliquid possit se producere de potentia absoluta est impertinens <pc type="punctus"/> quia hoc non sequitur 
+              <lb ed="#P" n="14"/>aliquid producitur et non ab alio <pc type="pilcrow"/> Sed utrum absolute deus possit facere per communicationem ydiomatum 
+              <lb ed="#P" n="15"/>ut quod christus genuisset seipsum ut quod genuisset modo naturali <pc type="virgula">/</pc> deinde quod in instans infusionis 
+              <lb ed="#P" n="16"/>animae assumpsisset huiusmodi naturam quo dato esset ille puer qui generaretur et tamen genuisset 
+              <lb ed="#P" n="17"/>se ipso dato esset patet et filius <pc type="pilcrow"/> Sed quia istud est extra propositum quia quaeritur utrum res possit 
+              <lb ed="#P" n="18"/>facere ut sit quia licet christus potuisset se genuisse non tamen ut fuisset Et ideo <name>augustinus</name> 
+              <lb ed="#P" n="19"/>dicit quod <quote xml:id="ppra-l30-Qd1e2697" source="http://scta.info/resource/adt-l1-d1e27" type="paraphrase">nulla res potest se generare ut sic</quote> ita diceretur de qualibet alia quia tunc haberet prioritatem 
+              <lb ed="#P" n="20"/>naturalem respectu sui 
+            </p>
+            <p xml:id="ppra-l30-pcdnpe">
+              unde secundum ymaginationem <name>scoti</name> ymaginatur quod in eodem instanti causa <del rend="strikethrough">sit</del> naturaliter 
+              <lb ed="#P" n="21"/>posita prior sit effectu <pc type="punctus"/> et ergo tenendum est quod impossibile est quod creatura producat se ut sic
+            </p>
+            <!-- very fuzzy parallel; needs review -->
+            <p xml:id="ppra-l30-etapie">
+              <pc type="pilcrow"/> Tunc 
+              <lb ed="#P" n="22"/>ponitur quod angelus producatur et quod in eodem instanti producat sibi filiatio et tunc cum dicitur quod velit se in illo 
+              <lb ed="#P" n="23"/>instanti producere conceditur et ultra ponatur quod ista volitio sit causa ipsius haec est ponere contradictionem in terminis 
+              <lb ed="#P" n="24"/>quia volitio talis posterior est ad angelum <pc type="punctus"/> ideo casus est impossibilis <pc type="virgula">/</pc> et cum ponebatur econverso dicitur quod 
+              <lb ed="#P" n="25"/>casus est impossibilis quia ex habitudine quam habet primo <c>a</c> ab <c>b</c> prius non potest esse econverso quare etc 
+            </p>
+            <p xml:id="ppra-l30-sqdsic">
+              <!-- no parallel -->
+              nam 
+              <lb ed="#P" n="26"/>casus videtur ponere quod <c>b</c> sit prius <c>a</c> potest concurrere ad productionem unius et non alterius scilicet sui 
+              <lb ed="#P" n="27"/>patet hoc ex praedictis 
+            </p>
+            <p xml:id="ppra-l30-sqcpae">
+                <!-- no parallel -->
+              <pc type="pilcrow"/> Ex quo patet quod concursus <c>a</c> ad <c>b</c> impedit concursum <c>b</c> ad <c>a</c> 
+              <lb ed="#P" n="28"/>quia non est maior repugnantia absolute quod <c>b</c> concurrat ad <c>a</c> sed si <c>a</c> concurrat ad <c>b</c> impediet 
+              <lb ed="#P" n="29"/>ante cursum scilicet de <c>b</c> ad <c>a</c> et sic quantum ad pro terminantis motiva sunt frivola <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l30-qamuie">
+              <!-- no parallel -->
+              <pc type="pilcrow"/>Quantum
+              <lb ed="#P" n="30"/>ad materiam de processu in infinitum in aliquibus est processus in infinitum ubi includitur 
+              <lb ed="#P" n="31"/>nullus esse terminus in aliis et istud introducitur propter processum infinitum de hominibus si mundus fuisset 
+              <lb ed="#P" n="32"/>ab aeterno
+              
+              <pc type="pilcrow"/> Unde sciendum quod aliqua includendo potest esse taliter ordinata quod denotatur nullus esse terminus vel quod non daretur 
+              <lb ed="#P" n="33"/>primus homo Ideo aliquibus esse potest ut si ponatur quod esset una intelligentia quae generaret 
+              <lb ed="#P" n="34"/>alia et alia tunc quaelibet esset pater et sic nullam esset genita non gignens <pc type="punctus"/> et ergo sic concederetur ista 
+              <lb ed="#P" n="35"/>tantum pater est et ista esset in processu generationis et hominis quia si sic nonquam fuisset primus homo 
+              
+              <lb ed="#P" n="36"/><pc type="pilcrow"/> In aliquibus tamen est bene processus ubi bene datur esse ut si ymaginetur tota latitudo 
+              <lb ed="#P" n="37"/>causatorum et causabilium ita quod materia prima esset et ultima intelligentia supremum ibi essent infinitae species mediae 
+              <lb ed="#P" n="38"/>producibiles 
+            </p>
+            <!-- fuzzy needs review -->
+            <p xml:id="ppra-l30-iestim">
+              <!-- no parallel -->
+              unde inter extrema data potest dari infirmitas sive in multitudine sive magnitudine sicut esset 
+              <lb ed="#P" n="39"/>de linea quia inciperet a puncto et terminaretur ad punctum et si illa circumferentia poneretur supra 
+              <lb ed="#P" n="40"/>processus erit in infinitum in causando maiorem non tamen infra illam multitudinem sed extra Ita 
+              <lb ed="#P" n="41"/>de tota multitudine creaturarum quia stat quod terminetur ad extra Et ita aliquae sunt licet infinita sicut de quorum 
+              <lb ed="#P" n="42"/>ratione non est quin habeat terminum intrinsecum vel extrinsecum eet sic in illis ubi non est de ratione 
+              <lb ed="#P" n="43"/>talis multitudinis in illis bene datur terminus sicut in casu nostro <pc type="punctus"/> sed propter hoc non tolletur quin daretur 
+              <lb ed="#P" n="44"/>ultima intelligentia mere possibilis et non prima Et ideo instantiae quae solent fieri ad hoc sunt sophisticae 
+              <lb ed="#P" n="45"/>quia sive ponatur processus in causis sive non ratio est evidentissima quod ad hoc tota multitudo clauditur 
+              <lb ed="#P" n="46"/>termino extremo <pc type="punctus"/> Et sic deffectus advertendi ad huiusmodi sophisticationem non possunt habere primum quia in 
+              <lb ed="#P" n="47"/>latitudine creaturarum cuius de ratione non est quod habeat primum et de termino extrinseco non est dubium quin debetur <pc type="pilcrow"/> Et ideo videtur michi 
+              <lb ed="#P" n="48"/>quod ratio <name>scoti</name> sit demonstrabilis et sufficienter <unclear>colocata</unclear> unde et <name>adam</name> pulcrhe tractat istam materiam videat magis ample qui voluerit 
+              <lb ed="#P" n="49"/><pc type="pilcrow"/> Sequitur alia lectio respondendo ad rationes cras unde verus per cras <sic>cras</sic> et <sic>cras</sic> orbis consumitur etas
+              <!--<pb ed="#P" n="52-r"/>
+            <lb ed="#P"/>
+            crossed out material and then beginning of new lecture (31) around the middle starting with "Restat consequenter..."
+            -->
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

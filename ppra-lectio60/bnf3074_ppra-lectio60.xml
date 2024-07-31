@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 60 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 60 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-11">July 11, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="67-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio60">
+        <head xml:id="ppra-l60-Hldfldf">Lectio 60, de Trinitate</head>
+        <div xml:id="ppra-l60-Dd1e109">
+          <head xml:id="ppra-l60-Hcppfid">Circa prima propositio: formalitates in Deo</head>
+          <p xml:id="ppra-l60-qamsda">
+            <lb ed="#P" n="43"/>Consequenter circa materiam de distinctione formalitatum est ulterius aliquid investigandum 
+          </p>
+          <p xml:id="ppra-l60-esmcpp">
+            nam multi doctores multas videntur
+            <lb ed="#P" n="44"/>posuisse difficultates sicut an divina sapientia bonitas et similia sint idem in deo vel distinguantur
+          </p>
+          <div xml:id="ppra-l60-Dd1e130">
+            <head xml:id="ppra-l60-Hoididr">Opinio <name ref="#Ripa">Iohannes de Rippa</name></head>
+            <p xml:id="ppra-l60-protef">
+              <pc type="punctus"/> Et primo 
+              <lb ed="#P" n="45"/>recitabitur oppinio de rippa <pc type="virgula">/</pc> deinde oppinio doctoris subtilis <pc type="pilcrow"/> Ulterius ponetur oppinio sustinibilior et secundum 
+              <lb ed="#P" n="46"/>ymaginationem verior
+            </p>
+            <p xml:id="ppra-l60-qapidr">
+              <pc type="pilcrow"/> Et in primo notandum est quod circumscripto opere ipsius intellectus in re ad extra inveniuntur 
+              <lb ed="#P" n="47"/>4or diffinitiones sive 4or modo distinctionum
+            </p> 
+            <p xml:id="ppra-l60-pmeemd">
+              <pc type="pilcrow"/> primus modus est essentialis scilicet quando duae essentiae sunt et una non est alia 
+            </p> 
+            <p xml:id="ppra-l60-aempet">
+              <pc type="pilcrow"/> 2us modus 
+              <lb ed="#P" n="48"/>minor scilicet realis non essentialis quando aliquae res sunt eidem essentia et tamen una non est alia licet stet cum ydempticae essentiae 
+              <lb ed="#P" n="49"/>minor tamen est in hoc nam licet <c>a</c> non sit <c>b</c> tamen sunt idem <unclear>univoce</unclear> et talis conceditur theologis
+            </p> 
+            <!-- collapse paragraphs -->
+            <p xml:id="ppra-l60-scacat">
+              <pc type="pilcrow"/> et ab 
+              <lb ed="#P" n="50"/>omnibus fidelibus sicut sunt primae in trinitate sunt 3es res et tamen sunt idem unde licet pater non sit filius sunt tamen idem sumendo idem 
+              <lb ed="#P" n="51"/>in neutro genere
+            </p> 
+            <p xml:id="ppra-l60-tgedms">
+              <pc type="pilcrow"/> 3us modus sive gradus distinctionis est distinctio rationum formalium quae quidam distinctio minor est aliqua 
+              <lb ed="#P" n="52"/>duarum praedictarum <pc type="punctus"/> In prima non essentia de essentia <pc type="virgula">/</pc> In 2a res dere <pc type="punctus"/> In 3a autem non <pc type="punctus"/> <pc type="pilcrow"/> Unde capiamus 
+              <lb ed="#P" n="53"/>ad ymaginationem bonitatem divinam et eius sapientiam certum est quod contra primam distinctionem bonitas et sapientia sunt idem in alia <unclear>sic</unclear> <pc type="virgula">/</pc> unde 
+              <lb ed="#P" n="54"/>conceditur quod bonitas non est formaliter sapientia a parte rei nec intellectus divinus formaliter est bonitas divina <pc type="virgula">/</pc> et sic secundum ordinem 
+              <lb ed="#P" n="55"/>praedicatorum essentialium est ordo formarum <pc type="punctus"/> unde a convenientia rei potest sumi conceptus <pc type="punctus"/> et esset ens transcendens <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l60-iiqdro">
+              <pc type="pilcrow"/> Et 
+              <lb ed="#P" n="56"/>secundum istum processum ymaginatur <name>de rippa</name> quod in deo sint diversitates a parte rei <pc type="punctus"/> non tamen talis quod vi diffinitionis 
+              <lb ed="#P" n="57"/>unum negetur de reliquo sed absolute et affirmative dicitur verificari conceptus talis ut in esse vitae et esse etc 
+              <lb ed="#P" n="58"/>unde ymaginandum est quod sicut est diversitas personarum in <unclear>praedicando</unclear> <pc type="punctus"/> ita est diversitas obiectalis <pc type="punctus"/> Et isti modi sunt
+              <pb ed="#P" n="67-v"/>
+              <lb ed="#P" n="1"/>proportionales conceptus unde sciendum est quod deus alio modo se habet in esse entis et in esse vitae <pc type="virgula">/</pc> unde sicut variatur in praedicando 
+              <lb ed="#P" n="2"/>ita etiam obiectaliter unde licet huiusmodi formalitates sic sumptae quaedam distinguantur ab aliis tamen concurrunt unitive et <unclear>ydemptice</unclear> 
+              <lb ed="#P" n="3"/>quia una res est alia unde sicut est diversitas in ratione conceptuum ita etiam in ratione obiectalium
+            </p>
+            <p xml:id="ppra-l60-qgdaqh">
+              <pc type="pilcrow"/> 4us gradus est <unclear>plurium</unclear> 
+              <lb ed="#P" n="4"/>graduum eiusdem formalis rationis unitive concurrentium <pc type="punctus"/> verbi gratia ymaginatur quod ratio obiectalis intensior est alteri 
+              <lb ed="#P" n="5"/>et alteri <pc type="pilcrow"/> unde ymaginatur quod tota ratio entis sit eiusdem in omnibus unde esse quod habet sortes <pc type="punctus"/> et esse in lapide est omnino 
+              <lb ed="#P" n="6"/>eiusdem rationis adaequate <pc type="punctus"/> et tamen in intensiori gradu in omnibus Et secundum hoc terminis <pc type="virgula">/</pc> <unclear>transcendentibus</unclear> correspondet rationes formales 
+              <lb ed="#P" n="7"/>compositae ex entitate eiusdem rationis <pc type="punctus"/> Ita quod nobiliorem gradum habet homo quantum ad rationem formalem quam alii et lapis 
+              <lb ed="#P" n="8"/>et angelus quam homo <pc type="punctus"/>
+            </p> 
+            <p xml:id="ppra-l60-ehqrvf">
+              <pc type="pilcrow"/> Unde ymaginatur idem quod tota latitudo entium sit infinita unde ascendendo per <unclear>similas</unclear> species oportet 
+              <lb ed="#P" n="9"/>quod sit intentio specierum et iste est minimus gradus distinctionum quia sunt eiusdem rationis distinguuntur minori distinctione 
+              <lb ed="#P" n="10"/>Ista tamen materia difficilis est ad ymaginandum <pc type="pilcrow"/> Unde ut melius videatur ymaginemur quod triangulus quadrangulus sint idem 
+              <lb ed="#P" n="11"/><del>localiter</del> substantialiter et tamen cuius licet remaneat sua forma et non ydemptificatur in esse fine sic esset ymaginatio 
+              <lb ed="#P" n="12"/>de distinctione formalitatum <pc type="pilcrow"/>unde triangulo remanet sua formalis ratio et quadrangulo similiter
+            </p> 
+          </div>
+          <div xml:id="ppra-l60-Dd1e197">
+            <head xml:id="ppra-l60-Hcididr">Conclusiones Iohannis de Rippa</head>
+            <p xml:id="ppra-l60-iiepsc">
+              <pc type="pilcrow"/> Secuntur ulterius conclusiones 
+              <lb ed="#P" n="13"/>quas <name>de rippa</name> ponit 
+            </p>
+            <div xml:id="ppra-l60-Dd1e208">
+              <head xml:id="ppra-l60-Hpcdfed">Prima conclusio <name ref="#Ripa">de Rippa</name></head>
+              <head xml:id="ppra-l60-Hd1e215" type="question-title">In qualibet creatura reperitur multitudo graduum eiusdem rationis formalis et denominationis</head>
+              <p xml:id="ppra-l60-peimqa">
+                prima est quod in qualibet creatura reperitur multitudo graduum eiusdem rationis formalis <pc type="punctus"/> et denominationis 
+                <lb ed="#P" n="14"/>Et ex hoc infert in qualibet creatura infinitos esse gradus qui quidem non sunt formaliter distincti
+              </p>
+            </div>
+            <div xml:id="ppra-l60-Dd1e222">
+              <head xml:id="ppra-l60-Hscdard">Secunda conclusio <name ref="#Ripa">de Rippa</name></head> 
+              <head xml:id="ppra-l60-Hd1e229" type="question-title">Distinctio gradus rationis formaliter et adaequate repugnat Deo<!--<note>double check</note>--></head>
+              <p xml:id="ppra-l60-acduiv">
+                <pc type="pilcrow"/> 2a conclusio sua 
+                <lb ed="#P" n="15"/>distinctio 4ti gradus superius dicti repugnat deo quia ubicumque reperitur latitudo graduum intensibilium et remissibilium 
+                <lb ed="#P" n="16"/>hoc deo non convenit sed sic est in ipso gradu 4o igitur etc Ex hoc infert quod minor distinctio repugnat dei 
+                <lb ed="#P" n="17"/>ubi maior non <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l60-Dd1e240">
+              <head xml:id="ppra-l60-tcdrdf">Tertia conclusio <name ref="#Ripa">de Rippa</name></head>
+              <head xml:id="ppra-l60-Hd1e247" type="question-title">Quod sicut in Deo, ita in creatura reperitur distinctio formalis</head>
+              <p xml:id="ppra-l60-acsdfi">
+                <pc type="pilcrow"/> 3a conclusio si in deo reperiatur formalis distinctio et in creatura Et radix in hoc est quod quaelibet alia 
+                <lb ed="#P" n="18"/>creatura innuitur <del rend="strikethrough">debent</del> in esse vitae alia in esse Et ex hoc infertur quod creatura assistatur deo secundum esse <pc type="punctus"/> igitur secundum esse 
+                <lb ed="#P" n="19"/>vitae <pc type="virgula">/</pc> quia idem est formaliter esse <pc type="punctus"/> et esse vitae <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l60-Dd1e258">
+              <head xml:id="ppra-l60-Hacddcr">Quarta conclusio <name ref="#Ripa">de Rippa</name></head> 
+              <head xml:id="ppra-l60-Hd1e265" type="question-title">De distinctione causalium rationum</head>
+              <p xml:id="ppra-l60-acpipi">
+                <pc type="pilcrow"/> Alia conclusio 4a est de distinctione formalitatum de ipsa cum materia de 
+                <lb ed="#P" n="20"/>ydeis videbitur 
+              </p> 
+              <p xml:id="ppra-l60-eisidr">
+                <pc type="punctus"/> deo dante et sic ad praesens de isto sufficiat
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l60-Dxxyy1">
+          <head xml:id="ppra-l60-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l60-axxyy3">
+            <pc type="pilcrow"/> Prima conclusio lectionis fuit supra 
+            <lb ed="#P" n="21"/>distinctionem 10am quod omnes angeli intelligunt aliquid dupliciter primo superiores <unclear>nuntiant</unclear> mediis medii inferioribus 
+          </p>
+          <p xml:id="ppra-l60-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio Ista nomina gabriel michael raphael et uriel etc non sunt propria nomina sed potius 
+            <lb ed="#P" n="22"/><unclear>agnomina</unclear> sive officialia et sic sunt potius concepta ratione officiarum eis attributa
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

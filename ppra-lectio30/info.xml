@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio30">
+      <head xml:id="ppra-l30-Hd1e110">Lectio 30, de Notitia</head>
+      <div xml:id="ppra-l30-Dd1e113">
+        <head xml:id="ppra-l30-Hudedeu">Utrum demonstrabile est 'Deum esse unicum'</head>
+        <p xml:id="ppra-l30-camilp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-camilp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-camilp"/>
+          </assertions>
+        </p>
+        <!-- very very fuzzy parallel -->
+        <p xml:id="ppra-l30-qahdeu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-qahdeu"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-qahdeu"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-pqsped">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pqsped"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pqsped"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l30-Dd1e164">
+        <head xml:id="ppra-l30-Hqdeuis">Quod Deum esse unum in specie</head>
+        <p xml:id="ppra-l30-pcqend">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pcqend"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pcqend"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-eqabee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-eqabee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-eqabee"/>
+          </assertions>
+        </p>
+        <!-- not present or somehow in the above 
+          <p xml:id="ppra-l30-emaree">
+                Eodem modo argueretur de B quod est perfectius A 
+                quia ex ratione sua specifica habet aliquam convenientiam essentialem 
+                a qua potest sumi denominatio
+                perfectionis simpliciter
+            Sit 
+              igitur
+            illa D, tunc sic D 
+              competit
+            B, et non 
+              competit
+            A, ergo B est perfectius A. 
+            Et tamen A est perfectius B per praecedentem
+            rationem, ergo etc.
+          </p>-->
+      </div>
+      <div xml:id="ppra-l30-Dd1e399">
+        <head xml:id="ppra-l30-Hqdeuin">Quod Deum esse unum in numero</head>
+        <p xml:id="ppra-l30-dpqsna">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-dpqsna"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-dpqsna"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-ipiasi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ipiasi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ipiasi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-iseqap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-iseqap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-iseqap"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-ispppd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ispppd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ispppd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-apniln">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-apniln"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-apniln"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-aimesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-aimesp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-aimesp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l30-Dd1e686">
+        <head xml:id="ppra-l30-Hdaccir">Duo argumenta contra istam rationem</head>
+        <p xml:id="ppra-l30-ctiier">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ctiier"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ctiier"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-snpend">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-snpend"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-snpend"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l30-Dd1e787">
+        <head xml:id="ppra-l30-Hrapapa">Responsio ad primum argumentum</head>
+        <p xml:id="ppra-l30-airavm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-airavm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-airavm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-sqdnae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-sqdnae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sqdnae"/>
+          </assertions>
+        </p>
+        <!-- break fuzzy; review reason for break -->
+        <p xml:id="ppra-l30-qedlse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-qedlse"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-qedlse"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-ieanln">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ieanln"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ieanln"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-iipsps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-iipsps"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-iipsps"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-reetnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-reetnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-reetnc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l30-Dd1e1190">
+        <head xml:id="ppra-l30-Hrasasa">Responsio ad secundum argumentum</head>
+        <p xml:id="ppra-l30-aarpmc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-aarpmc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-aarpmc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-pqlapc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pqlapc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pqlapc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-inscai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-inscai"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-inscai"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l30-ilqsse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ilqsse"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ilqsse"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l30-Dd1e1441">
+        <head xml:id="ppra-l30-Hdsecis">De subordinatione essentiali causarum inter se</head>
+        <p xml:id="ppra-l30-sedspc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l30-sedspc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sedspc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l30-Dd1e1614">
+          <head xml:id="ppra-l30-Hoadceo">Obiectio ad definitionem causae essentialiter ordinatae </head>
+          <p xml:id="ppra-l30-esdeie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-esdeie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-esdeie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e1750">
+          <head xml:id="ppra-l30-Hrrrrrr">Responsio</head>
+          <p xml:id="ppra-l30-stphrd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-stphrd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-stphrd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-pqepae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pqepae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pqepae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-sdqscc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-sdqscc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sdqscc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-uaotvg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-uaotvg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-uaotvg"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e2017">
+          <head xml:id="ppra-l30-Hdcfdcf">De causis finalibus</head>
+          <p xml:id="ppra-l30-esdnei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-esdnei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-esdnei"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e2075">
+          <head xml:id="ppra-l30-Hurssed">Utrum ratione Scoti est demonstrativa</head>
+          <p xml:id="ppra-l30-qaeeaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-qaeeaa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-qaeeaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-cimned">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-cimned"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-cimned"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-pqnssf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pqnssf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pqnssf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-sdqdna">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-sdqdna"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sdqdna"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-tdqqes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-tdqqes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-tdqqes"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-ieqpie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ieqpie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ieqpie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-ibppsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-ibppsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-ibppsp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-idqsec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-idqsec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-idqsec"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present or in the above
+              <p xml:id="ppra-l30-epccee">
+              Et per consequens, 
+              cum omnia praedicta sint inevidentia,
+              <cb ed="#R" n="b"/><!-\-51vb-\->
+              non causabant evidentiam conclusionis, 
+              ergo etc.
+            </p>-->
+          <p xml:id="ppra-l30-cdppns">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-cdppns"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-cdppns"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l30-Dd1e2471">
+          <head xml:id="ppra-l30-Hrndrnd">Responsio: Natura demonstrationis</head>
+          <p xml:id="ppra-l30-henemp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-henemp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-henemp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-eqsdii">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-eqsdii"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-eqsdii"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-uqedac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-uqedac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-uqedac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-idhibd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-idhibd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-idhibd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-esdrsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-esdrsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-esdrsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-pcdnpe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-pcdnpe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-pcdnpe"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel; needs review -->
+          <p xml:id="ppra-l30-etapie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l30-etapie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-etapie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-sqdsic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sqdsic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-sqcpae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-sqcpae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l30-qamuie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-qamuie"/>
+            </assertions>
+          </p>
+          <!-- fuzzy needs review -->
+          <p xml:id="ppra-l30-iestim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l30-iestim"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

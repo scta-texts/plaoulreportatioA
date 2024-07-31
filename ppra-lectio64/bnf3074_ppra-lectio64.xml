@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 64 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 64 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-13">July 13, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="69-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio64">
+        <head xml:id="ppra-l64-ldtldt">Lectio 64, de Trinitate</head>
+        <div xml:id="ppra-l64-Dd1e109">
+          <head xml:id="ppra-l64-Hrdfrdf">Recapitulatio de formalitatibus</head>
+          <p xml:id="ppra-l64-ialhei">
+            <lb ed="#P" n="14"/><pc type="pilcrow"/> Consequenter A praedictis de formalitatum distinctione motis et tactis secundum diversorum magistrorum et doctorum opiniones
+          </p>
+          <!-- Doesn't seem present 
+            <p xml:id="ppra-l64-ergpap">
+            Et radix generalis, 
+            praeter particulares rationes, 
+            erat tripartita. 
+            Primo 
+            <cb ed="#SV" n="b"/><!-\-SV276rb-\->
+            ex immensitate dei, 
+            secundo ex 
+            <cit>
+              <ref xml:id="ppra-l64-Rd1e127">regula <name ref="#Anselm">Anselmi</name></ref>
+              <bibl>XXX</bibl>
+            </cit>, 
+            ubi dicit quod in deo omnia sunt idem, 
+            ubi non obviat relationis oppositio, 
+            et tertio tanquam fundamentum habemus supponere summae simplicitatis 
+            divinae quod nihil est negandum 
+            de uno attributo quin negetur de altero, 
+            ita quod non debemus contradictoria in divinis asserere, 
+            et hoc in praedicatis absolutis perfectionibus.
+          </p>-->
+        </div>
+        <div xml:id="ppra-l64-Dd1e138">
+          <head xml:id="ppra-l64-Hqccidp">Quinque Conclusiones circa distinctiones inter divinas personas<!--<note>Note should be included to indicate that this begins the second part of the division mentioned in lectio 55</note>--></head>
+          <div xml:id="ppra-l64-Dd1e144">
+            <head xml:id="ppra-l64-Hpcpcpc">Prima conclusio</head>
+            <p xml:id="ppra-l64-eqiupt">
+              <lb ed="#P" n="15"/>Primo infertur inter essentiam divinam et proprietatem personalem nullam penitus a parte rei est ponenda distinctio 
+              <lb ed="#P" n="16"/>unde tota ydemptitate a parte rei est simplex in essentia <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l64-siqria">
+              <pc type="pilcrow"/> 2o infertur quod deus est omnium producibilium una 
+              <lb ed="#P" n="17"/>simplex ydea <pc type="punctus"/> Ita quod propter diversitatem producibilium non oportet ponere rationem ydealium formalitatum nam hoc 
+              <lb ed="#P" n="18"/>consurgit ex immensitatem naturae divinae unde eodem modo se habent ex parte sui repraesentando homine et asinum 
+            </p>
+            <p xml:id="ppra-l64-icqpci">
+              <lb ed="#P" n="19"/><pc type="pilcrow"/> Et consequenter 3o infertur quod deus non potest formaliter influere id eset non potest realiter communicare per modum 
+              <lb ed="#P" n="20"/>informalitatis quia hoc summae simplicitati et immensitati videtur repugnare quoniam informi est annexa quaedam potestas 
+              <lb ed="#P" n="21"/>quae summae simplicitati repugnat <pc type="punctus"/> <pc type="pilcrow"/> Ratione etiam immensitatis creatura non est capax immensae perfectionis 
+              <lb ed="#P" n="22"/>et istam primo deducam <pc type="punctus"/> deinde procedam in alias
+            </p>
+            <p xml:id="ppra-l64-qeidss">
+              <pc type="pilcrow"/> Sed quia ista praesens materia pertinet ad divinam 
+              <lb ed="#P" n="23"/>simplicitatem in qua tota stat operatio theologica
+            </p>
+            <p xml:id="ppra-l64-seiefi">
+              <pc type="virgula">/</pc> sequitur ergo conclusio prima quod non stat immensae simplicitatis essentiae 
+              <lb ed="#P" n="24"/>formaliter influere
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e177">
+            <head xml:id="ppra-l64-Hscscsc">Secunda conclusio</head>
+            <p xml:id="ppra-l64-scnfis">
+              <pc type="pilcrow"/> 2a conclusio non stat immensae simplicitatis essentiae creatae formae formalem influxum 
+              <lb ed="#P" n="25"/>formaliter influere
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e186">
+            <head xml:id="ppra-l64-Htctctc">Tertia conclusio</head>
+            <p xml:id="ppra-l64-tpdstt">
+              <pc type="pilcrow"/> 3a conclusio dato quod posset non stat unam personam sine alia formaliter influere 
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e195">
+            <head xml:id="ppra-l64-Hqcqcqc">Quarta conclusio</head>
+            <p xml:id="ppra-l64-qpdrfe">
+              <pc type="pilcrow"/> 4a conclusio 
+              <lb ed="#P" n="26"/>divina essentia non potest creaturae creatam perceptivam immutare vitaliter <pc type="punctus"/> licet contrarium non repugnet 
+              <lb ed="#P" n="27"/>fidei veritati
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e205">
+            <head xml:id="ppra-l64-Hqncqnc">Quinta conclusio</head>
+            <p xml:id="ppra-l64-qpdaiv">
+              <pc type="pilcrow"/> 5a conclusio dato quod divina essentia posset immutare sic non stat tamen unam personam 
+              <lb ed="#P" n="28"/>sine alia immutari vitaliter
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l64-Dd1e226">
+          <head xml:id="ppra-l64-Hprcprc">Probatio conclusionum</head>
+          <div xml:id="ppra-l64-Dd1e231">
+            <head xml:id="ppra-l64-Hpppppc">Probatio pro prima conclusione</head>
+            <p xml:id="ppra-l64-ppqipm">
+              <pc type="pilcrow"/> Prima igitur conclusio sic probatur  
+            </p>
+            <p xml:id="ppra-l64-pcncfv">
+              nam si deus posset etc sequeretur quod esset 
+              <lb ed="#P" n="29"/>repugnantia formarum inter se <pc type="punctus"/> consequens est falsum probaur consequentia nom quaelibet forma communicat suo formali ergo si deus 
+              <lb ed="#P" n="30"/>communicaret sic communicationem talem <pc type="virgula">/</pc> creatura reciperet <add place="above-line">quod</add> <unclear>denominaveri<!-- correction here --></unclear> deus rescens et quod esset ab aeterno 
+              <lb ed="#P" n="31"/>quod videtur sonare manifestissime contra fidem catholicam
+            </p>
+            <p xml:id="ppra-l64-sneebo">
+              <pc type="pilcrow"/> 2o arguitur sic nam ex illa positione sequeretur 
+              <lb ed="#P" n="32"/>quod materia prima posset esse deus et ex consequenti res intellectiva et cum hoc beatificari et non solum beatificari 
+              <lb ed="#P" n="33"/>sed beatificare <pc type="punctus"/> quia plenaria beatitudine haberet <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l64-isqiea">
+              <pc type="pilcrow"/> Item sequeretur quod materia prima posset esse aeterna et 
+              <lb ed="#P" n="34"/>independens consequens est falsum probatur tamen consequtnia nam esse independens et esse necessariam sunt passiones convertibiles 
+              <lb ed="#P" n="35"/>cum suo subiecto igitur sunt convertibiles cum ipso <pc type="punctus"/> et per consequens sequeretur quod res creata esset divina essentia <pc type="punctus"/> quod 
+              <lb ed="#P" n="36"/>est absurdum in fide catholica et tota natura
+            </p>
+            <p xml:id="ppra-l64-isqeed">
+              <pc type="pilcrow"/> Item sequeretur quod plures essent dii quia eadem ratione qua 
+              <lb ed="#P" n="37"/>potest communicare uni <pc type="punctus"/> et eadem alteri <pc type="punctus"/> quia tot sunt creaturae communicabiles quot sunt etc
+            </p> 
+            <p xml:id="ppra-l64-isqetp">
+              <pc type="pilcrow"/> Item sequeretur quod creatura 
+              <lb ed="#P" n="38"/>esset trinitas personarum consequens est absurdum igitur etc
+            </p>
+            <p xml:id="ppra-l64-iofsss">
+              <pc type="pilcrow"/> Item omnis forma quae communicatur communicat suas 
+              <lb ed="#P" n="39"/>operationes <pc type="punctus"/> unde si sic tunc est accidentalis et substantialis vel compositum non primum ut nomen est nec secundum quoniam sic communicaret 
+              <lb ed="#P" n="40"/>quod spiritum sanctum ad extra spiraret <pc type="punctus"/> quia impossibile est quod communicet quin generaliter communicet <pc type="virgula">/</pc> et sic etiam materia prima 
+              <lb ed="#P" n="41"/>spiraret spiritum sanctum
+            </p> 
+            <p xml:id="ppra-l64-ecqcsp">
+              <pc type="pilcrow"/> Et confirmatur quia naturalis influxus est generalis igitur etc <pc type="punctus"/> et per consequens non influit secundum 
+              <lb ed="#P" n="42"/>ultimum suae potentiae igitur communicaret secundum latitudinem suae operationis <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e268">
+            <head xml:id="ppra-l64-Hppspsc">Probatio pro secundo conlusione</head>
+            <p xml:id="ppra-l64-scdcis">
+              <pc type="pilcrow"/> 2a conclusio quae dicit quod non stat 
+              <lb ed="#P" n="43"/>deum supplere vicem causae formalis secundum eundem gradum adaequate
+              
+              <pc type="pilcrow"/> Circa hoc ponitur negativa 
+              <lb ed="#P" n="44"/>et probatur quia influxus formalis est pure naturalis igitur secundum ultimum suae potentiae forma erit communicabilis et sic non 
+              <lb ed="#P" n="45"/>sequitur quod deus etc
+            </p>
+            <p xml:id="ppra-l64-sdnusp">
+              <pc type="pilcrow"/> 2o deus non posset supplere influxum causae agentis igitur nec formalis 
+              <lb ed="#P" n="46"/>probatur antecedens sed quia conclusio potest habere unum sensum verum et alium falsum <pc type="punctus"/> unde primo quod non potest se solo quodlibet effectum 
+              <lb ed="#P" n="47"/>producere et hoc est falsum sed non vocatur supplere vicem secundae sive causae <pc type="punctus"/> quia concurreret duplici concursu 
+              <lb ed="#P" n="48"/>Et probatiru quod deus non potest nisi infinite agere et per consequens non potest concurrere nisi quo modo concurret 
+              <lb ed="#P" n="49"/>concursu generali <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l64-isqesp">
+              <pc type="pilcrow"/> Item si deus posset supplere vicem etc sequeretur quod eadem res posset fieri 
+              <lb ed="#P" n="50"/>omnium rerum successive consequens est falsum sed probatur consequentia nam sit ita quod suppleat vel aggregatum constituet eam 
+              <lb ed="#P" n="51"/>vel alterius speciei et sic erit una et eadem res omnium corporalium specierum
+            </p>
+            <!--
+              not sure if this is present 
+              <p xml:id="ppra-l64-dreose">
+              Deinde respectu eiusdem materiae suppleat 
+              deus vicem formae superioris, 
+              tunc illa species 
+              <app>
+                <lem n="species"/>
+                <rdg wit="#SV" type="correction-deletion">
+                  <del rend="strikethrough/expunctuated">inferior</del>
+                </rdg>
+              </app> 
+              superior 
+              est aggregatum ex deo et illa materia prima, 
+              ergo est eadem cum prima specie 
+              quia non est subiectum praecise 
+              quia etiam esset eadem, 
+              et sic consequenter ascendendo suppleat 
+              deus vicem formae tertiae superioris et quartae, 
+              et sic in infinitum, 
+              ergo eadem res erit ominum specierum essentialiter.
+            </p>-->
+          </div>
+          <div xml:id="ppra-l64-Dd1e300">
+            <head xml:id="ppra-l64-Hpptptc">Probatio pro tertia conclusione</head>
+            <p xml:id="ppra-l64-dpcena">
+              <pc type="pilcrow"/> Deinde probatur 3a conclusio scilicet dato 
+              <lb ed="#P" n="52"/>quod divina essentia sine influentia posset influere etc probatur primo quoniam influxus formalis videtur aeque vel magis 
+              <lb ed="#P" n="53"/>ad extra quam efficiens igitur magis erit sui communicative 
+            </p>
+            <p xml:id="ppra-l64-snsqca">
+              <pc type="pilcrow"/> 2o nam stat quod fiat mutatio creaturae ad deum igitur 
+              <pb ed="#P" n="70-r"/>
+              <lb ed="#P" n="1"/><pc type="pilcrow"/> unde dico pro tanto quia quidam nuper in disputationibus tenebat quod potest influere scilicet una 
+              <lb ed="#P" n="2"/>persona sine alia quod quid reputo falsum <pc type="punctus"/> et dicitur quod una persona non potest influere sine alia 
+              <lb ed="#P" n="3"/>concurrente ad influxum 
+            </p>
+            <p xml:id="ppra-l64-insnbs">
+              <pc type="pilcrow"/> Item ex hoc dicto cogeremur dicere quod tota trinitas fecisset unionem 
+              <lb ed="#P" n="4"/>ypostaticam nam sicut in alia operatione requireretur concursus ita ibi <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e346">
+            <head xml:id="ppra-l64-Hppqpqc">Probatio pro quarta conclusione</head>
+            <p xml:id="ppra-l64-dpaipp">
+              <pc type="pilcrow"/> Deinde alia conclusio probatur scilicet quod divina 
+              <lb ed="#P" n="5"/>essentia non potest etc 
+            </p>
+            <p xml:id="ppra-l64-pqooqp">
+              <pc type="pilcrow"/> primo arguitur sic quoniam omnis notitia sive cognitio est operatio potentiae perceptivae sed deo repugnat 
+              <lb ed="#P" n="6"/>sic esse igitur etc
+            </p>
+            <p xml:id="ppra-l64-squned">
+              <pc type="pilcrow"/> 2o nam videtur quod omnes in naturalibus essent aeque beati quia cognitio est eadem et obiectum 
+              <lb ed="#P" n="7"/>idem igitur
+            </p> 
+            <p xml:id="ppra-l64-ideeic">
+              <pc type="pilcrow"/> Item vel divina essentia sic esset vivit cognitio creaturae finitae vel infinitae si primum igitur per prius 
+              <lb ed="#P" n="8"/>est in se quam alteri <pc type="punctus"/> nam oportet quod forma hominis prius in se communicet antequam communicet alteri <pc type="punctus"/> si 2m non 
+              <lb ed="#P" n="9"/>quia non est infinitae capacitatis
+            </p>
+            <p xml:id="ppra-l64-qaveie">
+              <pc type="pilcrow"/> Item attractio variabilis praesupponit realem informationem nam sola praesentia tantum 
+              <lb ed="#P" n="10"/>sufficit igitur 
+            </p>
+            <p xml:id="ppra-l64-seiice">
+              <pc type="pilcrow"/>  5o proportionaliter arguitur quanto aliqua species est perfectior in se tanto perfectius immutat potentiam 
+              <lb ed="#P" n="11"/>vitalem <pc type="virgula">/</pc> et ergo cum sit processus in infinitum in speciebus sequeretur quod infinite immutaret creaturam quod est falsum 
+            </p>
+          </div>
+          <div xml:id="ppra-l64-Dd1e389">
+            <head xml:id="ppra-l64-Hppqpqn">Probatio pro quinta conclusione</head>
+            <p xml:id="ppra-l64-ucpani">
+              <lb ed="#P" n="12"/><pc type="pilcrow"/> Tandem ultima probatur conclusio videlicet quod non stat unam personam etc  
+            </p> 
+            <p xml:id="ppra-l64-pphiae">
+              primo nam opera trinitatis sunt indistinctae
+            </p>
+            <p xml:id="ppra-l64-sppvss">
+              <lb ed="#P" n="13"/><pc type="pilcrow"/> 2o ponamus per adversarium quod filius dei immutet potentiam creatam in esse sapientiae vel notitiae 
+              <lb ed="#P" n="14"/>tunc ista notitia immensa distinguitur a patre igitur non est omnino sapientia immensa <pc type="punctus"/> quia illa notitia non est pater 
+              <lb ed="#P" n="15"/>in suo esse personali immutat igitur etc <pc type="pilcrow"/> Item pari ratione argueretur de amore <pc type="pilcrow"/> Item de potentia 
+              <lb ed="#P" n="16"/>pari passu
+            </p> 
+            <p xml:id="ppra-l64-ismnss">
+              <pc type="pilcrow"/> Item sic immutare vitaliter magis videtur immutare potentiam ad extra quam terminare obiectum 
+              <lb ed="#P" n="17"/>igitur sicut filius potest esse visio formalis <pc type="punctus"/> potest esse obiectalis Et sic stabit quod aliquis beatificabitur 
+              <lb ed="#P" n="18"/>et tamen non videbit divinam essentiam
+            </p>
+            <p xml:id="ppra-l64-iicahp">
+              <pc type="pilcrow"/> Item in casu quod ipse non esset essentia etc quaeritur utrum 
+              <lb ed="#P" n="19"/>pater esse amore 
+            </p>
+            <p xml:id="ppra-l64-iquott">
+              <pc type="pilcrow"/> Item quaeritur utrum pater possit concurrere in esse amoris <pc type="punctus"/> si communis tunc est amor <pc type="punctus"/> si non 
+              <lb ed="#P" n="20"/>tunc erit sapientia spiritus sanctus <pc type="punctus"/> et sic de filio diceretur pari passu <pc type="pilcrow"/> Et ergo necessario concedendum est quod non stat 
+              <lb ed="#P" n="21"/>unam personam sine alia concurrere
+            </p> 
+          </div>
+          <div xml:id="ppra-l64-Dd1e446">
+            <head xml:id="ppra-l64-Hrdrrdr">Rationes de Rippa</head>
+            <p xml:id="ppra-l64-cicial">
+              <pc type="pilcrow"/> Circa tamen istas conclusiones sunt aliqua dicenda de materia ista satis 
+              <lb ed="#P" n="22"/>grata et sic finis pro praesenti <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l64-Dxxyy1">
+          <head xml:id="ppra-l64-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l64-axxyy3">
+            <pc type="pilcrow"/> Prima conclusio supra distinctionem 14mo fuit de opere 2o diei <pc type="punctus"/> videlicet quod caelum 
+            <lb ed="#P" n="23"/>syderium ponitur de materia aquarum esse factum Tamen augustinus dicit quod est igneum 
+          </p>
+          <p xml:id="ppra-l64-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio <unclear>firmamentum</unclear> dicitur 9 
+            <lb ed="#P" n="24"/>firmum <pc type="punctus"/> et ad stabilitatem et contra motum planetarum econtra moventium <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l64-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio de opere 2ae diei <pc type="punctus"/> non 
+            <lb ed="#P" n="25"/>benedixit quod essent valde bona et sic <name>magister</name> reprehendit actorem genesis quia ratio mali quid 
+            <lb ed="#P" n="26"/>ipsi operi infuit
+          </p>
+          <p xml:id="ppra-l64-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio de opere 3ii diei augustinus dicit super hoc qui vivit in aeternum creavit 
+            <lb ed="#P" n="27"/>omnia simul Tamen dicitur quod creavit aves et pisces
+          </p>
+          <p xml:id="ppra-l64-axxyy7">
+            <pc type="pilcrow"/> 5a conclusio caelum fuit ornamentum sole et luna
+          </p>
+          <p xml:id="ppra-l64-axxyy8">
+            <pc type="pilcrow"/> 6a 
+            <lb ed="#P" n="28"/>quod omnia luminaria firmamenti sunt in signa et tempora et istam proprietatem aliqualiter voluerunt attribuere astrologiae sed tamen 
+            <lb ed="#P" n="29"/>dicitur quod sunt scilicet in signa claritatis etc
+          </p>
+          <p xml:id="ppra-l64-axxyy9">
+            <pc type="pilcrow"/> 7a et ultima conclusio in 5a die distincta sunt orta ex aquis unde 
+            <lb ed="#P" n="30"/>partim remisit gurgit partim levavit deus in aera <pc type="punctus"/> pisces inferius <pc type="punctus"/> aves superius <pc type="punctus"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

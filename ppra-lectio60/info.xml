@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio60">
+      <head xml:id="ppra-l60-Hldfldf">Lectio 60, de Trinitate</head>
+      <div xml:id="ppra-l60-Dd1e109">
+        <head xml:id="ppra-l60-Hcppfid">Circa prima propositio: formalitates in Deo</head>
+        <p xml:id="ppra-l60-qamsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l60-qamsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-qamsda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l60-esmcpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l60-esmcpp"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-esmcpp"/>-->
+          </assertions>
+        </p>
+        <div xml:id="ppra-l60-Dd1e130">
+          <head xml:id="ppra-l60-Hoididr">Opinio <name ref="#Ripa">Iohannes de Rippa</name></head>
+          <p xml:id="ppra-l60-protef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-protef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-protef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-qapidr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-qapidr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-qapidr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-pmeemd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-pmeemd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-pmeemd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-aempet">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-aempet"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-aempet"/>
+            </assertions>
+          </p>
+          <!-- collapse paragraphs -->
+          <p xml:id="ppra-l60-scacat">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-scacat"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-scacat"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-tgedms">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-tgedms"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-tgedms"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-iiqdro">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-iiqdro"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-iiqdro"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-qgdaqh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-qgdaqh"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-qgdaqh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l60-ehqrvf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-ehqrvf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-ehqrvf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l60-Dd1e197">
+          <head xml:id="ppra-l60-Hcididr">Conclusiones Iohannis de Rippa</head>
+          <p xml:id="ppra-l60-iiepsc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l60-iiepsc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-iiepsc"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l60-Dd1e208">
+            <head xml:id="ppra-l60-Hpcdfed">Prima conclusio <name ref="#Ripa">de Rippa</name></head>
+            <head xml:id="ppra-l60-Hd1e215" type="question-title">In qualibet creatura reperitur
+              multitudo graduum eiusdem rationis formalis et denominationis</head>
+            <p xml:id="ppra-l60-peimqa">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l60-peimqa"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-peimqa"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l60-Dd1e222">
+            <head xml:id="ppra-l60-Hscdard">Secunda conclusio <name ref="#Ripa">de
+              Rippa</name></head>
+            <head xml:id="ppra-l60-Hd1e229" type="question-title">Distinctio gradus rationis
+              formaliter et adaequate repugnat Deo<!--<note>double check</note>--></head>
+            <p xml:id="ppra-l60-acduiv">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l60-acduiv"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-acduiv"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l60-Dd1e240">
+            <head xml:id="ppra-l60-tcdrdf">Tertia conclusio <name ref="#Ripa">de Rippa</name></head>
+            <head xml:id="ppra-l60-Hd1e247" type="question-title">Quod sicut in Deo, ita in creatura
+              reperitur distinctio formalis</head>
+            <p xml:id="ppra-l60-acsdfi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l60-acsdfi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-acsdfi"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l60-Dd1e258">
+            <head xml:id="ppra-l60-Hacddcr">Quarta conclusio <name ref="#Ripa">de
+              Rippa</name></head>
+            <head xml:id="ppra-l60-Hd1e265" type="question-title">De distinctione causalium
+              rationum</head>
+            <p xml:id="ppra-l60-acpipi">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l60-acpipi"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-acpipi"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l60-eisidr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l60-eisidr"/>
+                <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-eisidr"/>-->
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l60-Dxxyy1">
+        <head xml:id="ppra-l60-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l60-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l60-axxyy3"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l60-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l60-axxyy4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l60-axxyy4"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

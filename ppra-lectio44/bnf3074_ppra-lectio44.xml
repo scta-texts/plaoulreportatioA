@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 44 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 44 [Bnf 3074 Transcription]</title>
+          <date when="2024-06-20">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio44">
+        <head xml:id="ppra-l44-Hldfldf">Lectio 44, de Fruitione</head>
+        <div xml:id="ppra-l44-Dd1e85">
+          <head xml:id="ppra-l44-Hrcisfe">Rationes contra illud quod Deo solum fruendum est</head>
+          <p xml:id="ppra-l44-pcidir">
+            <lb ed="#P" n="7"/>Consequenter est videndum ulterius actu <add place="above-line">fruitionis et usus</add> et pro clariori dicendum intellectum 
+          </p>
+          <p xml:id="ppra-l44-ppquef">
+            sciendum est quod impossibile 
+            <lb ed="#P" n="8"/>est eundem actum esse simul  
+          </p>
+          <div xml:id="ppra-l44-Dd1e102">
+            <head xml:id="ppra-l44-Hobines">Prima obiectio: Quod non impossibile eundem actum esse usum et fruitionem</head>
+            <div xml:id="ppra-l44-Dd1e107">
+              <head xml:id="ppra-l44-Hprimum">Primum</head>
+              <p xml:id="ppra-l44-chaito">
+                et arguitur primo nam rationes obiectales usus et fruitionis differunt specifice 
+                <lb ed="#P" n="9"/>igitur etc consequentia tenet <pc type="punctus"/> quia actus distinguitur per obiecta et consequens patet quia <unclear>referibilitas</unclear> usus et fruitionis sunt opposita
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e142">
+              <head xml:id="ppra-l44-Hsecdum">Secundum</head>
+              <p xml:id="ppra-l44-ssicpd">
+                <pc type="pilcrow"/> 2o nam si ita sequeretur quod idem esset causa sui ipsius consequens est falsum igitur et antecedens et tenet consequentia quia causa 
+                <lb ed="#P" n="10"/>fruitionis est causa usus <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e168">
+              <head xml:id="ppra-l44-Hterium">Tertium</head>
+              <p xml:id="ppra-l44-isseod">
+                <pc type="pilcrow"/> Item sicut se habet dilectio creaturae ad deum <pc type="punctus"/> ita odium ad odium
+                <lb ed="#P" n="11"/>igitur si dilectio creatruae sit etc sic odium erit odium dei 
+              </p>
+              <!-- collapse paragraph ?? -->
+              <p xml:id="ppra-l44-cqpeim">
+                <pc type="pilcrow"/> Confirmatur quia propter unum quodque talem 
+                <lb ed="#P" n="12"/>et illud magis
+              </p> 
+            </div>
+            <div xml:id="ppra-l44-Dd1e190">
+              <head xml:id="ppra-l44-Hquatum">Quartum</head>
+              <p xml:id="ppra-l44-iprteg">
+                <pc type="pilcrow"/> Item diceretur quod tristitia esset gaudium et econtra sed ista sunt opposita igitur
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e207">
+              <head xml:id="ppra-l44-Hquitum">Quintum</head>
+              <p xml:id="ppra-l44-idcadc">
+                <pc type="pilcrow"/> Item 
+                <lb ed="#P" n="13"/>dilectio creaturae potest desinere referri in aliud obiectum igitur ipsa non est formaliter et intrinsece 
+                <lb ed="#P" n="14"/>dilectio dei consequentia tenet et antecedens patet quia non videtur actus alius <pc type="punctus"/> 
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l44-Dd1e241">
+            <head xml:id="ppra-l44-Hd1e243">Secunda obiectio: Quod creatura est fruendum</head>
+            <div xml:id="ppra-l44-Dd1e246">
+              <head xml:id="ppra-l44-Hsextum">primum</head>
+              <p xml:id="ppra-l44-daqhda">
+                <pc type="pilcrow"/> Deinde arguitur 2o quod creatura 
+                <lb ed="#P" n="15"/>est fruenda <pc type="virgula">/</pc> nam creatura habet entitatem absolute diligere et intrinsece igitur etc consequentia tenet consequens patet quia habet 
+                <lb ed="#P" n="16"/>bonitatem intrinsecam et etiam licite unde in quo res est bona est diligibilis
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e283">
+              <head xml:id="ppra-l44-Hsepmum">secundum</head>
+              <p xml:id="ppra-l44-ivvpdd">
+                <pc type="pilcrow"/> Confirmatur ista virtus videtur 
+                <lb ed="#P" n="17"/>fruibilis igitur etc consequentia tenet et antecedens patet quoniam virtutes propter se diliguntur 
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e310">
+              <head xml:id="ppra-l44-Hoctvum">tertiam</head>
+              <p xml:id="ppra-l44-iaapdd">
+                <pc type="pilcrow"/> Item aliud a deo 
+                <lb ed="#P" n="18"/>est dilective praeferendum <pc type="punctus"/> probatur antecedens in casu quod sortes frueretur deo videndo proximum in illo casu 
+                <lb ed="#P" n="19"/>teneretur dimittere deum vel actum dilectionis dei
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e355">
+              <head xml:id="ppra-l44-Hnonnum">Quartam</head>
+              <p xml:id="ppra-l44-ipdede">
+                <pc type="pilcrow"/> Item plus diligitur tota multitudo civium caelestium 
+                <lb ed="#P" n="20"/>quam deus igitur <del rend="strikethrough">etc</del> alia plus sunt a deo diligenda quod autem plus diligatur patet quia additur aliquis 
+                <lb ed="#P" n="21"/>gradus dilectionis igitur plus diligitur in tota multitudine
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e386">
+              <head xml:id="ppra-l44-Hdecmum">Quintum</head>
+              <p xml:id="ppra-l44-iceaap">
+                <pc type="pilcrow"/> Item christus est magis diligendus quam pater 
+                <lb ed="#P" n="22"/>igitur tenet consequentia antecedens probatur nam diligitur christus aequali dilectione cum patre et cum haec ratione affinitatis quo ad 
+                <lb ed="#P" n="23"/>humanam naturam
+              </p> 
+            </div>
+            <div xml:id="ppra-l44-Dd1e420">
+              <head xml:id="ppra-l44-Hundmum">Sextum</head>
+              <!-- fuzzy prallel -->
+              <p xml:id="ppra-l44-iiaadd">
+                <pc type="pilcrow"/> Item christus est compositus ex substantia corporea et u<unclear/> qua ratione magis est diligendus 
+                <lb ed="#P" n="24"/>igitur
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e449">
+              <head xml:id="ppra-l44-Hduomum">septimum</head>
+              <p xml:id="ppra-l44-icesod">
+                <pc type="pilcrow"/> Item creatura est fruendum patet haec ubi anselmus transferret se in speciem creaturae nam tunc sortes 
+                <lb ed="#P" n="25"/>eliciet fruitionem creaturae <pc type="pilcrow"/> Alia rationes fierent sed dimittuntur ad aliam lectionem <pc type="punctus"/>
+              </p> 
+            </div>
+          </div>
+          <div xml:id="ppra-l44-Dd1e482">
+            <head xml:id="ppra-l44-Hsaosao">Solutiones ad primam obiectionem</head>
+            <div xml:id="ppra-l44-Dd1e487">
+              <head xml:id="ppra-l44-Hapapap">Ad primum</head>
+              <p xml:id="ppra-l44-psprda">
+                <pc type="pilcrow"/> Et tunc 
+                <lb ed="#P" n="26"/>ad rationes
+              </p>
+              <div xml:id="ppra-l44-Dd1e498">
+                <head xml:id="ppra-l44-Hpppmmm">Primum</head>
+                <p xml:id="ppra-l44-epueia">
+                  <pc type="pilcrow"/> Pro solutione tunc primae dicitur quod ubi obiecta non concurrunt immediate ad causalitatem 
+                  <lb ed="#P" n="27"/>actuum non est necesse quod sit proportionalis distinctio actuum et obiectorum et primo de actu appetendi 
+                  <lb ed="#P" n="28"/>deum quia non dependet ab obiecto ita quod est unicus et simplex actus cognoscendi omnia in deo et 
+                  <lb ed="#P" n="29"/>etiam volendi <pc type="virgula">/</pc> et ideo ubi actus non dependet ab obiecto <pc type="virgula">/</pc> non est necessaria distinctio <pc type="pilcrow"/> Idem dicitur 
+                  <lb ed="#P" n="30"/>de notitia beatifica qua beatus videt <unclear>obiectum</unclear> et creaturam <pc type="virgula">/</pc> obiecta sunt diversa et tamen actus idem <pc type="punctus"/>
+                </p>
+                <p xml:id="ppra-l44-iardao">
+                  <pc type="pilcrow"/> Item in revelatione 
+                  <lb ed="#P" n="31"/>actus non dependet a deo <pc type="virgula">/</pc> unde actus antichristi non habet obiectum ex habitudine necessaria <pc type="punctus"/> et tamen assensus fidei 
+                  <lb ed="#P" n="32"/>habet antichristum pro obiecto <pc type="punctus"/> et cum haec ponit habere aliud igitur <pc type="virgula">/</pc> nam alias est concessum quod notitia quae est notitia creaturae et dei 
+                  <lb ed="#P" n="33"/>potest esse notitia plurium
+                </p>
+                <p xml:id="ppra-l44-ipedsa">
+                  <pc type="pilcrow"/> Idem potest exemplari de conceptibus universalibus qui recte non dependent ab 
+                  <lb ed="#P" n="34"/>obiectis immediate sed a potentia abstractiva quae habet huiusmodi conceptus universales non tamen sunt causae principaliter <unclear>causantes</unclear>
+                  <lb ed="#P" n="35"/>obiective 
+                </p>
+              </div>
+              <div xml:id="ppra-l44-Dd1e623">
+                <head xml:id="ppra-l44-Hsssmmm">Secundum</head>
+                <p xml:id="ppra-l44-desisp">
+                  <pc type="pilcrow"/> Ad propositum ergo obiecta causarent inmediate actus tunc secundum distinctionem obiectorum esset distinctio 
+                  <lb ed="#P" n="36"/>actuum et econtra nam quodlibet obiectum causaret immediate actum suum <pc type="punctus"/>
+                </p>
+                <p xml:id="ppra-l44-nipsda">
+                  <pc type="pilcrow"/> In proposito ergo respectu fruitionis 
+                  <lb ed="#P" n="37"/>nullum obiectum est causa totalis <pc type="punctus"/> sed obiective concurrendo immediate <unclear>causantes</unclear> actus esset sic sed non est sic in 
+                  <lb ed="#P" n="38"/>proposito nostro <pc type="virgula">/</pc> nam deus concurrit obiective libere <pc type="punctus"/> <pc type="pilcrow"/> Unde fruitio vie causatur a caritate concurrente notitia creaturae 
+                  <lb ed="#P" n="39"/>ad deum <pc type="pilcrow"/> Et si obicitur de distinctione actuum <pc type="virgula">/</pc> iam dictum est et nihilominus ad haec non habeo respondere 
+                  <lb ed="#P" n="40"/><pc type="pilcrow"/> Unde sciendum est quod mens nostra respectu unius et eiusdem obiecti potest velle vel <sic>nole</sic>
+                </p>
+              </div>
+            </div>
+            <div xml:id="ppra-l44-Dd1e751">
+              <head xml:id="ppra-l44-Hasrasr">Ad secundam rationem</head>
+              <p xml:id="ppra-l44-asqddp">
+                <pc type="pilcrow"/> Ad 2am rationem 
+                <lb ed="#P" n="41"/>sequeretur quod idem etc negatur haec de causa effectiva saltem ut sic <pc type="virgula">/</pc> Et ad probationem non oportet generaliter scilicet 
+                <lb ed="#P" n="42"/>pro omnis dilectio christi sit dilectio praecedens dei voluntatem et ideo negandum est quod omnino usus sit distinctus 
+                <lb ed="#P" n="43"/>a fruitione ipsa <pc type="punctus"/> 
+              </p>
+              <!-- Doesn't seem present
+                <p xml:id="ppra-l44-iipsic">
+                Item intellectus potest 
+                primo dicare quod proximus sit diligendus et quod nullum aliud 
+                sit dicatum in intellectu, tunc voluntas potest se 
+                illi conformare.
+              </p>-->
+              <p xml:id="ppra-l44-atqpda">
+                <pc type="pilcrow"/> Unde advertendum est quod licet sic idem actus fruitio et usus <pc type="virgula">/</pc> habent tamen duas habitudines 
+                <lb ed="#P" n="44"/>nam unam si quod fertur in deum et aliam secundum quod <unclear>dicitur</unclear> in creaturam <pc type="pilcrow"/> Unde si distinguitur relatio a rebus non 
+                <lb ed="#P" n="45"/>esset sic inconveniens sicut causa primae habitudines esset causae ad aliam
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e844">
+              <head xml:id="ppra-l44-Hatatat">Ad tertium</head>
+              <p xml:id="ppra-l44-atsied">
+                <pc type="pilcrow"/> Ad 3am sicut dilectio dicitur etc negatur consequentia 
+                <lb ed="#P" n="46"/>unde dico quod usus ille est recte dilectio <pc type="punctus"/> sed de odio ipsum habet duo obiecta totaliter obiecta nam maximum et bonum et 
+                <lb ed="#P" n="47"/>tamen omne odium habet finem <pc type="virgula">/</pc> et sic non habuit quia oportet quod habeat finem pro obiecto ratione opti <pc type="punctus"/>
+              </p>
+            </div>
+            <div xml:id="ppra-l44-Dd1e884">
+              <head xml:id="ppra-l44-Haqaqaq">Ad quintum</head>
+              <p xml:id="ppra-l44-aaqemf">
+                Ad aliam 
+                <lb ed="#P" n="48"/>dilectio creaturae potest non referri etc dicitur quod casus est impossibilis scilicet quod non fit actualis dilectio dei <pc type="punctus"/> unde 
+                <lb ed="#P" n="49"/>advertendum est quod unus actus <del rend="strikethrough">non</del> ibi idem remanens praecise tunc non mutaret habitudinem fruibilem 
+              </p>
+              <p xml:id="ppra-l44-eehene">
+                <pc type="pilcrow"/> unde sequitur quod dilectio proximi 
+                <lb ed="#P" n="50"/>est magis fruitio quam usus <pc type="punctus"/> patet ergo quod illae habitudines sunt separabiles quoniam prior potest remanere sine alia et non econtra
+              </p>
+            </div>
+          </div>
+          <div xml:id="ppra-l44-Dd1e971">
+            <head xml:id="ppra-l44-Hasasas">Solutiones ad secundam obiectionem</head>
+            <p xml:id="ppra-l44-aacres">
+              <pb ed="#P" n="56v"/>
+              <lb ed="#P" n="1"/>Ad aliam negatur quod est summa perversitas secundum <name>augustinum</name> et ad probandum quia virtutes sunt eligibiles <pc type="virgula">/</pc> unde advertendum est quod aliqua 
+              <lb ed="#P" n="2"/>sunt quae conferunt de per se ad finis consecutionem sicut virtutes <pc type="virgula">/</pc> alia de per accidens <pc type="virgula">/</pc> alia in differentia <pc type="virgula">/</pc> de per se 
+              <lb ed="#P" n="3"/>sicut patet de potione amara quae conferunt ad sanitatem de per accidens <pc type="virgula">/</pc> de per se tamen est nociva gustui 
+              <lb ed="#P" n="4"/>et maxime ubi reperiret suum simile <pc type="punctus"/> licet aut quotiens unum venenum expellat relicum <pc type="punctus"/> sed hoc 
+              <lb ed="#P" n="5"/>fit fortius vel debilius <pc type="virgula">/</pc> per se eligibilia sunt quae habent essentialiter ordinem sicut cibus sanus <pc type="punctus"/> sed alia indifferentia 
+              <lb ed="#P" n="6"/>nec prosunt notabilitatis nec nocent notanter Ita dicitur in proposito nam omnes virtutes dirigunt ad beatitudinem 
+              <lb ed="#P" n="7"/>unde percipiant ratione felicitatis nec vocantur propter se id est per se conventia et non per accidens et sic de ratione <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l44-areeai">
+              <lb ed="#P" n="8"/><pc type="pilcrow"/> Ad aliam nam creatura habet intrinsecam bonitatem etc
+            </p>
+            <p xml:id="ppra-l44-dapmec">
+              <pc type="pilcrow"/> Hic dicuntur aliqua primo quod creatura perfecte concepta 
+              <lb ed="#P" n="9"/>realiter habet habitudinem ad deum <pc type="virgula">/</pc> nam concipitur taliter a deo dependens 2a absolute ista tenendum est quod creatura 
+              <lb ed="#P" n="10"/>non potest concipi conceptu absoluto <pc type="virgula">/</pc> unde <ref xml:id="ppra-l44-Rd1e438"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> dicit quod deus met est conceptus creaturae 
+            </p>
+            <p xml:id="ppra-l44-sdqsrf">
+              unde
+              <lb ed="#P" n="11"/>si esset absolute conceptibilis non tamen absolute diligibilis quoniam ratio diligibilitatis non competit intrinsece sed sub 
+              <lb ed="#P" n="12"/>ratione frui
+            </p>
+            <p xml:id="ppra-l44-tdqeul">
+              <pc type="pilcrow"/> 3o dicitur quod dato quod creatura haberet intrinsecam diligibilitatem sicut entitatem tamen voluntas 
+              <lb ed="#P" n="13"/>non exiret in actum suum
+            </p>
+            <p xml:id="ppra-l44-idqpqe">
+              <pc type="pilcrow"/> Ulterius dicitur quod creatura multae magis clamant se non habere obiecta finalia 
+              <lb ed="#P" n="14"/>propter se quam clamant non esse a se <pc type="punctus"/> Unde omnes philosophantes posuerunt deum esse causam finalem 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l44-Dd1e1220">
+          <head xml:id="ppra-l44-Hd1e1222">Conclusiones</head>
+          <p xml:id="ppra-l44-d1e1225">
+            <lb ed="#P" n="15"/><pc type="pilcrow"/> Prima conclusio lectionis deus est omnipotens id est facere omnia quae vult <pc type="punctus"/> sed non vult omnia quae faceret 
+            <lb ed="#P" n="16"/>unde potest aliqua agere fine creatura et alia non sine ipsa sicut creare ipsam creaturam
+          </p>
+          <p xml:id="ppra-l44-d1e1258">
+            <pc type="pilcrow"/> 2a conclusio 
+            <lb ed="#P" n="17"/>deus aliqua quae non facit et haec est certissimum et sic finis lectionis
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

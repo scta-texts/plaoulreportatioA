@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 79 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 79 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-23">July 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="81-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio79">
+        <head xml:id="ppra-l79-Hldtldt">Lectio 79, de Trinitate</head>
+        <!-- this section does not seem present
+          <div xml:id="ppra-l79-Dd1e109">
+          <head xml:id="ppra-l79-Hrectio">Recapitulatio</head>
+          <p xml:id="ppra-l79-vsrppg">
+            Visa solutione rationis factae circa materiam consilii 
+            vicem pro parte graecorum.
+          </p>
+          <p xml:id="ppra-l79-svqfec">
+            Secundo viso quod consilii 
+            intentio non fuit prohibere non superaddere 
+            veritatem aliam non oppositam sententiae ipsius, quia in illo consilio 
+            <unclear>intebatur[?]</unclear> tantum ostendere quod spiritus sanctus non est creatura. 
+            et ideo non oportebit ibidem determinare aliam 
+            veritatem, quia praecise intendebatur concludere quod spiritus sanctus 
+            procedit a patre consubstantialiter quo facto non oportebit, immo 
+            melius obscurasset materiam si determinassent spiritum sanctum 
+            a filio procedere nec a patre, quia ante determinationem aliqui 
+            ponebant filium esse creaturam.
+          </p>
+          <p xml:id="ppra-l79-tvqpau">
+            Tertio viso quod omnes doctores 
+            uniformiter consenserunt quod spiritus sanctus 
+            procedit ab utroque.
+          </p>
+          <p xml:id="ppra-l79-vqqces">
+            Viso quarto quod hoc sequitur clare 
+            ex scriptura.
+          </p>
+          <p xml:id="ppra-l79-vqqbto">
+            Viso quinto quod ex auctoritate summi pontificis 
+            hoc potuit fieri 
+            ut tangit 
+            <cit>
+              <ref xml:id="ppra-l79-Rd1e134"><name ref="#Anselm">Anselmus</name></ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            <unclear>quin</unclear> papa 
+            potest determinare ubi necessitas et brevitas temporis occurrunt.
+          </p>
+          <p xml:id="ppra-l79-scpalc">
+            Sexto considerata praelatorum auctoritate et approbatione 
+            <name>lundunensis consilii</name>.
+          </p>
+        </div>-->
+        <div xml:id="ppra-l79-Dd1e153">
+          <head xml:id="ppra-l79-Harqvtp">Ad rationem quod si spiratio activa et <unclear>[???]</unclear> activa in Filio distingueretur, Filius esset duae vel tres personae</head>
+          <p xml:id="ppra-l79-rvdadp">
+            <lb ed="#P" n="11"/> Consequenter adhuc circa residuum materiae trinitatis Respondetur ad unam rationem de spiritus sancti 
+            <lb ed="#P" n="12"/>processione <pc type="virgula">/</pc> nam si spiritus sanctus procederet a filio sequeretur quod esset aliqua generatio passiva 
+            <lb ed="#P" n="13"/>in filio et sic essent plures personae in divinis quam 3es 
+          </p>
+          <p xml:id="ppra-l79-ecqesp">
+            Et confirmatur quoniam si sic essent 6 personae 
+            <lb ed="#P" n="14"/>in divinis consequens est haereticum
+          </p>
+          <p xml:id="ppra-l79-hdeqne">
+            <pc type="pilcrow"/> Respondetur ex prius dictis scilicet quod relatio filii ad patrem scilicet 
+            <lb ed="#P" n="15"/>genratio activa et passiva et productio activa et passiva sunt idem a parte rei <pc type="punctus"/> quoniam in divinis non debet admitti 
+            <lb ed="#P" n="16"/>aliqua distinctio nisi relativa sive partialis <pc type="punctus"/> teste <name>beato ancelmo</name> in sua regula quare debemus omnimoda 
+            <lb ed="#P" n="17"/>in divinis ydemptitatem servare et sic patet quod ymaginatio rationis non erat bene fundata 
+            <lb ed="#P" n="18"/>nec debite quoniam ymaginabatur quod essent duae aliae relationes in divinis modo fides nos non 
+            <lb ed="#P" n="19"/>ad hoc astringit
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e198">
+          <head xml:id="ppra-l79-Hcorium">Corollarium</head>
+          <div xml:id="ppra-l79-Dd1e203">
+            <head xml:id="ppra-l79-Hpcmpcm">Primum corollarium:</head>
+            <p xml:id="ppra-l79-ppsrci">
+              <pc type="pilcrow"/> Unde sequitur quaedam propositio quod quaedam sunt relationes quae transeunt in omnimodam 
+              <lb ed="#P" n="20"/>essentialem ydemptem tamen mutuo non ydemptificatur sed inter se distant sicut est generatio 
+              <lb ed="#P" n="21"/>activa et passiva et etiam relatio activa et passiva <pc type="punctus"/> de relationibus autem quae recte opponunt 
+              <lb ed="#P" n="22"/>repugnat concursus ydempticus
+            </p>
+            <p xml:id="ppra-l79-eqcass">
+              <pc type="pilcrow"/> 2a propositio licet concerentur 4or relationes et 5 notiones
+              <lb ed="#P" n="23"/>in divinis non sunt tamen nisi 3es pluralitates prima pars satis non est nam sunt duo extrema diversa 
+              <lb ed="#P" n="24"/>etc oportet quod habeant 4or terminos scilicet generatio activa etc sicut dictum est
+            </p>
+            <p xml:id="ppra-l79-seussp">
+              <pc type="pilcrow"/>Quantum est de aliis non discutitur 
+              <lb ed="#P" n="25"/>pro praesenti <pc type="pilcrow"/> Unde secundum habitudinem <unclear>arismeticae</unclear> se habent notiones in divinis 3es patri scilicet generatio accidentia 
+              <lb ed="#P" n="26"/>et non generari producere et non produci etc 2o filio scilicet generatio passiva et productio etiam una spiritui sancto scilicet processio
+            </p>
+          </div>
+          <div xml:id="ppra-l79-Dd1e234">
+            <head xml:id="ppra-l79-Hscmscm">Secundum corollarium: </head>
+            <p xml:id="ppra-l79-scoapp">
+              <lb ed="#P" n="27"/><pc type="pilcrow"/> Ex hoc sequitur contra oppinionem dicentium quod spiratio activa in patre et filio diversimode sit cum tamen 
+              <lb ed="#P" n="28"/>sint idem cum tamen actio sit passio ut dicit philosophus in praedicamentis <pc type="pilcrow"/> Unde ymaginatio quorumdam fuit quod 
+              <lb ed="#P" n="29"/>relatio in divinis in esse relationis non sint idem licet simpliciter sit idem <pc type="virgula">/</pc> unde sciendum est quod distinctio consurgit 
+              <lb ed="#P" n="30"/>ratione terminorum <pc type="punctus"/> sicut pater est alius terminus quam filius et filius etc <pc type="pilcrow"/> Sed breviter hoc videtur falsum nam hoc 
+              <lb ed="#P" n="31"/>videretur superfluum et contra modum in <unclear>dagandi</unclear> rectam materiam et contra <ref xml:id="ppra-l79-Rd1e246">regulum <name>ancelmi</name></ref> <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l79-Dd1e257">
+            <head xml:id="ppra-l79-Htcmtcm">Tertium corollarium</head>
+            <p xml:id="ppra-l79-eqsame">
+              <pc type="pilcrow"/> Ulterius sequitur 
+              <lb ed="#P" n="32"/>satis esse probabile quod non sint nisi 3es relationes in divinis esse distinctae <choice><orig>aequipolentes</orig><reg>aequipollentes</reg></choice> ad 4or
+              <lb ed="#P" n="33"/>quantum ad referendum modum nam in patret licet ad filium referatur non tamen ex hoc consurgit pluralitas 
+              <lb ed="#P" n="34"/>deorum <pc type="virgula">/</pc> et hoc patet de albedine a parte obiecti non oportet ponere distinctionem nisi ex parte modi concipiendi 
+            </p>
+          </div>
+          <div xml:id="ppra-l79-Dd1e275">
+            <head xml:id="ppra-l79-Hqcmqcm">Quartum corollarium: </head>
+            <p xml:id="ppra-l79-qcsess">
+              <lb ed="#P" n="35"/><pc type="pilcrow"/> Ulterius sequitur quod licet darentur 4or oppositionis relativae non pro tanto sequitur quod ibi sint 3es vel 4or res sive 
+              <lb ed="#P" n="36"/>paternitates rerum verbi gratia paternitas filiatio <unclear>vel</unclear> inspiratio unde genratio activa non est passiva in <del rend="strikethrough">spiratio</del> filiatio 
+              <lb ed="#P" n="37"/>activa non est passiva <add place="above-line">in spiritu sancto</add> et spiratio activa non est passiva in aliquo ipsorum quia etc <pc type="pilcrow"/> Et sic dato quod unum 
+              <lb ed="#P" n="38"/>extremum negetur de reliquo nihil tamen addit supra aliud
+            </p>
+          </div>
+          <div xml:id="ppra-l79-Dd1e288">
+            <head xml:id="ppra-l79-Hqncqnc">Quintum corollarium</head>
+            <p xml:id="ppra-l79-qsqcmop">
+              <pc type="pilcrow"/> Ulterius sequitur quod plures sunt ibi negationes 
+              <lb ed="#P" n="39"/>non coincidentes quam sit res distinctae <pc type="punctus"/> patet quia <unclear>p?aa</unclear> habet 3es videlicet pater non filius etc <pc type="pilcrow"/> Et sic 
+              <lb ed="#P" n="40"/>tandem essent combinationes usque ad 21am et tamen ex eis non arguitur aliquod inconveniens
+            </p>
+            <div xml:id="ppra-l79-Dd1e296">
+              <head xml:id="ppra-l79-Hcowcow">Contra opinio Wyclif</head>
+              <p xml:id="ppra-l79-epfpid">
+                <lb ed="#P" n="41"/>Et ex hoc patet fatuitas <ref xml:id="ppra-l79-Rd1e305"><name ref="#Wyclif">euclif anglici</name></ref> si ex combinationibus concluserit numerum septenarium 
+                <lb ed="#P" n="42"/>in divinis 
+              </p>
+              <!-- fuzzy break -->
+              <p xml:id="ppra-l79-shvcmp">
+                quoniam revera multitudo rerum non per hoc concluditur
+              </p>
+              <p xml:id="ppra-l79-sqscsn">
+                <pc type="pilcrow"/> 2o videtur quod in septenario 
+                <lb ed="#P" n="43"/>non debuisset sistisse
+              </p>
+            </div>
+          </div>
+          <!--
+            this section doesn't seem present; but a little fuzzy with corollary 7 
+            <div xml:id="ppra-l79-Dd1e324">
+            <head xml:id="ppra-l79-Hsxcsxc">Sextum corollarium: </head>
+            <p xml:id="ppra-l79-sufcmr">
+              <g ref="#dbslash"/>Sequitur ulterius falsum esse sit aliqua res in 
+              dictis quae nec sit pater nec filius nec spiritus sanctus nec 
+              ista consequentia valet trinitas non est pater nec filius 
+              nec spiritus sanctus, ergo aliqua est res in divinis quae nec 
+              est pater nec filius nec spiritus sanctus causa est, quia licet unitas 
+              non sit nec pater nec filius nec spiritus 
+              sanctus est tamen aliqua res quae est pater est etiam aliqua 
+              res qui est filius et est etiam aliqua res quae 
+              est spiritus sanctus, et ideo illa non plus valet quam ista 
+              <!-\-<cb ed="#V" n="?b"/>-\->
+              deitas est aliqua res. Item si concederetur quod esset 
+              aliqua res. Item si concederetur quod esset aliqua res 
+              in divinis non concluditur multitudo rerum.
+              
+            </p>
+            <p xml:id="ppra-l79-sneeur">
+              <choice><orig>2o</orig><reg>secundo</reg></choice> 
+              nam ex combinationibus huiusmodi negationum voluisset 
+              concludere pluralitas rerum in divinis non debuisset 
+              sistere in sexternario numero, sed debuisset misse usque 
+              ad 21, et ideo defecit ex utraque radice.
+            </p>
+          </div>-->
+          <div xml:id="ppra-l79-Dd1e346">
+            <head xml:id="ppra-l79-Hspcspc">Septimum corollarium: </head>
+            <p xml:id="ppra-l79-sfenep">
+              <pc type="pilcrow"/> Ulterius sequitur falsum esse aliquam rem in divinis quae non sit pater et filius 
+              <lb ed="#P" n="44"/>et spiritus sanctus et causa est quia licet persona patris non sit persona filii tamen est res quae est filius et sic de filio et spiritu sancto <pc type="virgula">/</pc> nec licet 
+              <lb ed="#P" n="45"/>consequentia etiam trinitas <add place="above-line">est aliqua res quae</add> non est pater ergo non est pater plusquam ista deitas est aliqua res <pc type="virgula">/</pc> non est pater igitur deitas 
+              <lb ed="#P" n="46"/>non est pater
+            </p>
+            <p xml:id="ppra-l79-taqimp">
+              <pc type="pilcrow"/> Item si sic concederetur sequeretur quod ternarius numerus non esset in trinitate sed quaternarius vel plus 
+              <lb ed="#P" n="47"/>modo hoc est haereticum <pc type="pilcrow"/> Et sic sequeretur ex dictis quod nec relationes multae nec etc nullam penitus in trinitate
+              <lb ed="#P" n="48"/>inferunt pluralitate sine imperfectionem
+            </p>
+          </div>
+          <div xml:id="ppra-l79-Dd1e358">
+            <head xml:id="ppra-l79-Hcontio">Confirmatio</head>
+            <p xml:id="ppra-l79-acqitd">
+              <pc type="pilcrow"/> Et tunc ultra ad argumenti confirmationem in qua 
+              <lb ed="#P" n="49"/>dicebatur quod generatio est constitutiva essentiae ergo non personae et sic esset una alia persona a qualibet aliarum distincta
+            </p>
+            <p xml:id="ppra-l79-sncapr">
+              <pc type="pilcrow"/> Et confirmatur 
+              <lb ed="#P" n="50"/>quoniam ecclesia determinavit quod pater et filius sunt unum principium spiritus sancti ergo oportet quod supponat pro aliquo 
+              <lb ed="#P" n="51"/>quod habebit aliquam distinctionem ab aliis et sic esset 4a persona quod est haereticum  <pc type="virgula">/</pc> Respondetur quod nulla 
+              <lb ed="#P" n="52"/>est ponenda constitutio sed ipsamet est essentia absque quacumque distinctione a parte rei
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l79-Dd1e371">
+          <head xml:id="ppra-l79-Harqpss">Ad rationem quod Pater et Filius unum principium Spiritus Sancti</head>
+          <p xml:id="ppra-l79-etdqct">
+            <pc type="pilcrow"/> Unde dicitur quod pater est filius 
+            <lb ed="#P" n="53"/>sunt unum principium scilicet spiritus sancti secundum <name>gregorium</name> quia eodem modo spirant <pc type="pilcrow"/> Unde notandum est quod in causalitate rerum 
+            <lb ed="#P" n="54"/>nonquam duae causae uniformiter concurrunt <pc type="virgula">/</pc> et per consequens modus loquendi est quod diversimode concurrunt respectu <unclear>principiati</unclear>
+            <pb ed="#P" n="81-v"/>
+            <lb ed="#P" n="1"/>Et ista fuit radix quare ecclesia dicit quod non sunt duo principia scilicet pater et filius ymmo 
+            <lb ed="#P" n="2"/>uniformiter producunt tamquam unum principium sine constitutione Unde vocantur unum principium <pc type="punctus"/> quia 
+            <lb ed="#P" n="3"/>unita fecunditate voluntatis procedit hoc quod producunt <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e396">
+          <head xml:id="ppra-l79-Hopoopo">Opinio Ockham</head>
+          <p xml:id="ppra-l79-neqdit">
+            <pc type="pilcrow"/> Unde <ref xml:id="ppra-l79-Rd1e405"><name ref="#Ockham">okan</name></ref> dicit quod spiratio activa 
+            <lb ed="#P" n="4"/>sit realiter una ab alia distincta <pc type="virgula">/</pc> communis tamen coniunctim tantum 
+          </p>
+          <p xml:id="ppra-l79-scissi">
+            <pc type="pilcrow"/> Sed contra istud arguitur 
+            <lb ed="#P" n="5"/>nam si sic spiritus sanctus distingueretur a motione activa et non nisi quantum ad personam igitur inferretur 
+            <lb ed="#P" n="6"/>ex hoc quod plures essent personae quam 3es
+          </p>
+          <p xml:id="ppra-l79-sqpncf">
+            <pc type="pilcrow"/> Item concedere aliquid esse in divinis quod non sit 
+            <lb ed="#P" n="7"/>pater nec filius nec spiritus sanctus est ponere obicem contra trinitatem
+          </p>
+          <p xml:id="ppra-l79-tronss">
+            <pc type="pilcrow"/> Item relationes oppositae non possunt 
+            <lb ed="#P" n="8"/>ydemptice concurrere <pc type="punctus"/> nisi in essentiam nam si sic esset non haberet formalem repugnantia 
+            <lb ed="#P" n="9"/>Et sic pater esset filius realiter <pc type="pilcrow"/> Unde ista oppinio non ponit solum quod concurrant ydemptice 
+            <lb ed="#P" n="10"/>sed alio modo
+          </p>
+          <p xml:id="ppra-l79-qqcpti">
+            <pc type="pilcrow"/> Item ex quo non esset essentiale non esset personale igitur pater et filius essent eadem potentia 
+            <lb ed="#P" n="11"/>et sic si tolleretur relatio esset decidere in errorem <name>sabelli</name> <pc type="virgula">/</pc> quia dicit patrem et filium esse 
+            <lb ed="#P" n="12"/>unam rem <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l79-qihsdp">
+            <pc type="pilcrow"/> Item in hac materia <name ref="#Ockham">okam</name> excessit <pc type="virgula">/</pc> quoniam primo non oportet fingere huiusmodi constitutiones sed materiam 
+            <lb ed="#P" n="13"/>ad bonum sensum resolvere <pc type="punctus"/> Et hoc potius referendum ad difficultatem ex parte vocabuli id est quod 
+            <lb ed="#P" n="14"/>producunt uniformiter spiritum sanctum <pc type="punctus"/> <pc type="pilcrow"/> Et sic doctores in trinitatis materia multas posuerunt difficultates 
+            <lb ed="#P" n="15"/>quae potius sunt materiam obscurantes quam elucidantes <pc type="virgula">/</pc> sed tamen hoc videtur fuisse ad aperiendum 
+            <lb ed="#P" n="16"/>magis fidem <pc type="pilcrow"/> Sed naturalis investigatio super trinitatis materiam non videtur posse sufficere et per consequens 
+            <lb ed="#P" n="17"/>nec obicem ponere <pc type="punctus"/> Et nihilominus facilius deffensibilis est quod materia platonica de ydeis quia magis 
+            <lb ed="#P" n="18"/>colorata <pc type="virgula">/</pc> et maxime considerata immensitate divina et fecunditate sua <pc type="punctus"/> <pc type="pilcrow"/> Etiam habito quod eadem forma 
+            <lb ed="#P" n="19"/>patres habeat proprietates in naturalibus non est mirandum si dator formarum habeat cum etiam sit 
+            <lb ed="#P" n="20"/>independens <pc type="virgula">/</pc> et creatura dependens <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l79-idqass">
+            <pc type="pilcrow"/> Item de necessitate sui ipsius est diffusius et nihilominus 
+            <lb ed="#P" n="21"/>sua diffusio nullam addit imperfectionem sibi <pc type="pilcrow"/> Unde <ref xml:id="ppra-l79-Rd1e469"><name>ricardus de sancto fictore</name></ref> videtur plures 
+            <lb ed="#P" n="22"/>propositiones hanc trinitatis materiam probantes posuisse sed de illis est pro nunc supersedendum
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dxxyy1">
+          <head xml:id="ppra-l79-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l79-qxxyy2">
+            <lb ed="#P" n="23"/><pc type="pilcrow"/> Secuntur ergo conclusiones lectionis super distinctionem 29am 2i prima est homo ante peccatum indiguit gratia 
+            <lb ed="#P" n="24"/>operante licet non cooperante <pc type="punctus"/> unde cooperans est in merendo et satis visum est de ea <pc type="punctus"/> prima est diffusiva 
+            <lb ed="#P" n="25"/>indiguit enim 2a licet summe potuerit deum dilexisse <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l79-qxxyy3">
+            <pc type="pilcrow"/> Unde non habuit gratiam prima in statu innocentiae 
+            <lb ed="#P" n="26"/>licet aliam
+          </p>
+          <p xml:id="ppra-l79-qxxyy4">
+            <pc type="pilcrow"/> 2a conclusio dicunt enim quidam quod <name>adam</name> in statu innocentiae non habuit virtutes cardinales scilicet iustitiam 
+            <lb ed="#P" n="27"/>temporantiam etc Sed breviter magister dicit oppositum sed tempore quo praevaricatus est non habuit <pc type="pilcrow"/> Sed tamen dubiatur 
+            <lb ed="#P" n="28"/>circa hoc utrum temporantia fuerit sibi necessaria <pc type="punctus"/> et dicitur quod sit adhuc in patria ad decorem et 
+            <lb ed="#P" n="29"/>maxime in via
+          </p>
+          <p xml:id="ppra-l79-qxxyy5">
+            <pc type="pilcrow"/> 3a conclusio propter peccatum eiectus est <name>adam</name> de paradiso et positus in locum alium et incepit 
+            <lb ed="#P" n="30"/>peccatum durans per omnem saeculum
+          </p>
+          <p xml:id="ppra-l79-qxxyy6">
+            <pc type="pilcrow"/> 4a conclusio credendum est quod per misterium divinum custodia sit in paradiso 
+            <lb ed="#P" n="31"/>terrestri posita quia cherubin habens reumpheam scilicet gladium flammeam et hoc est ad nostri <unclear>introductionem</unclear>
+            <lb ed="#P" n="32"/>si debite exponatur unde <unclear>cherubin</unclear> interpretatur caritas ardens gladius flammeus tollerantia et ista 
+            <lb ed="#P" n="33"/>nos in paradisum deducunt <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l79-qxxyy7">
+            <pc type="pilcrow"/> 5a et ultima si potuisset contingesse quod <name>adam</name> semper de fructu <unclear>come<lb ed="#P" break="no" n="34"/>disset</unclear>
+            forte semper vixisset et hoc de lectione vigilia cathedra beati petri
+            <lb ed="#P" n="35"/>d
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

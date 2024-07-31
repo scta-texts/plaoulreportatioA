@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio64">
+      <head xml:id="ppra-l64-ldtldt">Lectio 64, de Trinitate</head>
+      <div xml:id="ppra-l64-Dd1e109">
+        <head xml:id="ppra-l64-Hrdfrdf">Recapitulatio de formalitatibus</head>
+        <p xml:id="ppra-l64-ialhei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ialhei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ialhei"/>
+          </assertions>
+        </p>
+        <!-- Doesn't seem present 
+            <p xml:id="ppra-l64-ergpap">
+            Et radix generalis, 
+            praeter particulares rationes, 
+            erat tripartita. 
+            Primo 
+            <cb ed="#SV" n="b"/><!-\-SV276rb-\->
+            ex immensitate dei, 
+            secundo ex 
+            <cit>
+              <ref xml:id="ppra-l64-Rd1e127">regula <name ref="#Anselm">Anselmi</name></ref>
+              <bibl>XXX</bibl>
+            </cit>, 
+            ubi dicit quod in deo omnia sunt idem, 
+            ubi non obviat relationis oppositio, 
+            et tertio tanquam fundamentum habemus supponere summae simplicitatis 
+            divinae quod nihil est negandum 
+            de uno attributo quin negetur de altero, 
+            ita quod non debemus contradictoria in divinis asserere, 
+            et hoc in praedicatis absolutis perfectionibus.
+          </p>-->
+      </div>
+      <div xml:id="ppra-l64-Dd1e138">
+        <head xml:id="ppra-l64-Hqccidp">Quinque Conclusiones circa distinctiones inter divinas
+          personas<!--<note>Note should be included to indicate that this begins the second part of the division mentioned in lectio 55</note>--></head>
+        <div xml:id="ppra-l64-Dd1e144">
+          <head xml:id="ppra-l64-Hpcpcpc">Prima conclusio</head>
+          <p xml:id="ppra-l64-eqiupt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-eqiupt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-eqiupt"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-siqria">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-siqria"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-siqria"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-icqpci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-icqpci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-icqpci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-qeidss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-qeidss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-qeidss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-seiefi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-seiefi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-seiefi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e177">
+          <head xml:id="ppra-l64-Hscscsc">Secunda conclusio</head>
+          <p xml:id="ppra-l64-scnfis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-scnfis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-scnfis"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e186">
+          <head xml:id="ppra-l64-Htctctc">Tertia conclusio</head>
+          <p xml:id="ppra-l64-tpdstt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-tpdstt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-tpdstt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e195">
+          <head xml:id="ppra-l64-Hqcqcqc">Quarta conclusio</head>
+          <p xml:id="ppra-l64-qpdrfe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-qpdrfe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-qpdrfe"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e205">
+          <head xml:id="ppra-l64-Hqncqnc">Quinta conclusio</head>
+          <p xml:id="ppra-l64-qpdaiv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-qpdaiv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-qpdaiv"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l64-Dd1e226">
+        <head xml:id="ppra-l64-Hprcprc">Probatio conclusionum</head>
+        <div xml:id="ppra-l64-Dd1e231">
+          <head xml:id="ppra-l64-Hpppppc">Probatio pro prima conclusione</head>
+          <p xml:id="ppra-l64-ppqipm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ppqipm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ppqipm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-pcncfv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-pcncfv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-pcncfv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-sneebo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-sneebo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-sneebo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-isqiea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-isqiea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-isqiea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-isqeed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-isqeed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-isqeed"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-isqetp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-isqetp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-isqetp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-iofsss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-iofsss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-iofsss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-ecqcsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ecqcsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ecqcsp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e268">
+          <head xml:id="ppra-l64-Hppspsc">Probatio pro secundo conlusione</head>
+          <p xml:id="ppra-l64-scdcis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-scdcis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-scdcis"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-sdnusp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-sdnusp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-sdnusp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-isqesp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-isqesp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-isqesp"/>
+            </assertions>
+          </p>
+          <!--
+              not sure if this is present 
+              <p xml:id="ppra-l64-dreose">
+              Deinde respectu eiusdem materiae suppleat 
+              deus vicem formae superioris, 
+              tunc illa species 
+              <app>
+                <lem n="species"/>
+                <rdg wit="#SV" type="correction-deletion">
+                  <del rend="strikethrough/expunctuated">inferior</del>
+                </rdg>
+              </app> 
+              superior 
+              est aggregatum ex deo et illa materia prima, 
+              ergo est eadem cum prima specie 
+              quia non est subiectum praecise 
+              quia etiam esset eadem, 
+              et sic consequenter ascendendo suppleat 
+              deus vicem formae tertiae superioris et quartae, 
+              et sic in infinitum, 
+              ergo eadem res erit ominum specierum essentialiter.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l64-Dd1e300">
+          <head xml:id="ppra-l64-Hpptptc">Probatio pro tertia conclusione</head>
+          <p xml:id="ppra-l64-dpcena">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-dpcena"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-dpcena"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-snsqca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-snsqca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-snsqca"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-insnbs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-insnbs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-insnbs"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e346">
+          <head xml:id="ppra-l64-Hppqpqc">Probatio pro quarta conclusione</head>
+          <p xml:id="ppra-l64-dpaipp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-dpaipp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-dpaipp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-pqooqp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-pqooqp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-pqooqp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-squned">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-squned"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-squned"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-ideeic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ideeic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ideeic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-qaveie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-qaveie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-qaveie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-seiice">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-seiice"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-seiice"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e389">
+          <head xml:id="ppra-l64-Hppqpqn">Probatio pro quinta conclusione</head>
+          <p xml:id="ppra-l64-ucpani">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ucpani"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ucpani"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-pphiae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-pphiae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-pphiae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-sppvss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-sppvss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-sppvss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-ismnss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-ismnss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-ismnss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-iicahp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-iicahp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-iicahp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l64-iquott">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-iquott"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-iquott"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l64-Dd1e446">
+          <head xml:id="ppra-l64-Hrdrrdr">Rationes de Rippa</head>
+          <p xml:id="ppra-l64-cicial">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l64-cicial"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-cicial"/>-->
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l64-Dxxyy1">
+        <head xml:id="ppra-l64-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l64-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy3"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy4"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy5">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy5"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy5"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy6">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy6"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy6"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy7">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy7"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy7"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy8">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy8"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy8"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l64-axxyy9">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l64-axxyy9"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l64-axxyy9"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

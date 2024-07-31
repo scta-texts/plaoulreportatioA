@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 59 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 59 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-10">July 10, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="67-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio59">
+        <head xml:id="ppra-l59-Hldfldf">Lectio 59, de Trinitate</head>
+        <div xml:id="ppra-l59-Dd1e109">
+          <head xml:id="ppra-l59-Hpcdcds">Propositiones contra divinam simplicitatem</head>
+          <p xml:id="ppra-l59-qcmtid">
+            <pb ed="#P" n="67-r"/>
+            <lb ed="#P" n="1"/>Consequenter circa materiam trinitatis debet attendi simplicitas Ideo pro nunc aliqua videntur ob esse in essentia divina 
+          </p>
+          <div xml:id="ppra-l59-Dd1e117">
+            <head xml:id="ppra-l59-Hpqnirf">Prima</head>
+            <head type="question-title">Quod non est identitas rationum formalium</head>
+            <p xml:id="ppra-l59-pidess">
+              <pc type="virgula">/</pc> primum eset 
+              <lb ed="#P" n="2"/>ydemptitas seu distinctio formalitatum essentialium inter se circumscripta consideratione intellectus quare non esset ibi 
+              <lb ed="#P" n="3"/>summa simplicitas
+            </p>
+          </div>
+          <div xml:id="ppra-l59-Dd1e126">
+            <head xml:id="ppra-l59-Hsqieap">Secunda</head> 
+            <head type="question-title">Quod in divinis est distinctio essentiae ad personam</head>
+            <p xml:id="ppra-l59-iidraa">
+              <pc type="pilcrow"/> 2o In divinis est distinctio essentiae ad personam igitur ibi est quaedam essentiae et personae compositio et per consequens non sum 
+              <lb ed="#P" n="4"/>simplicitas patet antecedens quia de essentia et persona verificantur contradictoria nam aliquid affirmatur de patre quod negatur de 
+              <lb ed="#P" n="5"/>filio quoniam generare <pc type="punctus"/> et de filio negatur <pc type="punctus"/> sed esse genitum de ipso affirmatur
+            </p>
+          </div>
+          <div xml:id="ppra-l59-Dd1e135">
+            <head xml:id="ppra-l59-Htidepi">Tertia</head>
+            <head type="question-title">in Deo est pluralitas idearum</head>
+            <p xml:id="ppra-l59-tidaef">
+              <pc type="pilcrow"/> 3o in deo est pluralitas ydearum et realis 
+              <lb ed="#P" n="6"/>distinctio earumdem igitur in eo non est omnimoda simplicitas <pc type="virgula">/</pc> unde <ref xml:id="ppra-l59-Rva3akj" corresp="#ppra-l59-Qva3akj">augustinus octaginta trium quaestionum libro</ref> distinctione 40ma 
+              <lb ed="#P" n="7"/>dicit quod <quote xml:id="ppra-l59-Qva3akj" source="http://scta.info/resource/a83-q46-d1e111" type="paraphrase">alia ratione factus est homo et <del rend="strikethrough">de</del> equus</quote>
+            </p> 
+           <p xml:id="ppra-l59-aiceer">
+             <pc type="pilcrow"/> Ad idem concordat varii doctores <pc type="virgula">/</pc> nam dicunt quod apud 
+             <lb ed="#P" n="8"/>deum sunt rerum mensurae et origines rerum ratione producibilium et causae rerum 
+           </p>
+            <p xml:id="ppra-l59-uatdcb">
+              <pc type="pilcrow"/> Unde <ref xml:id="ppra-l59-Rd1e175"><name ref="#Augustine">augustinus</name> 3o de trinitate capitulo 16mo</ref> 
+              <lb ed="#P" n="9"/>dicit <quote xml:id="ppra-l59-Qd1e190" source="http://scta.info/resource/adt-l3-d1e444@15-26">quod penes deum sunt mensurae numeri et pondera</quote> et <ref xml:id="ppra-l59-Rd1e203">14o <title ref="#deTrinitate">de trinitate</title></ref> dicit <quote xml:id="ppra-l59-Qd1e211" source="http://scta.info/resource/adt-l14-d1e1656@56-98" type="paraphrase">apud deum esse regulas aeternas quae scriptae 
+              <lb ed="#P" n="10"/>sunt in libro lucis <sic>qui</sic> est aeternitas sive veritas</quote> dicit <ref xml:id="ppra-l59-Rd1e226">6o</ref> quod <quote xml:id="ppra-l59-Qd1e234" source="http://scta.info/resource/adt-l6-d1e826@203-206">plena rationum viventium</quote> <pc type="virgula">/</pc> et <ref xml:id="ppra-l59-Rd1e249"><name ref="#Dionysius">dionysius</name> in 
+              <lb ed="#P" n="11"/><title ref="#deCaelestiHierarchia">de caelesti gerarchia</title></ref> vocat fulgures et <ref xml:id="ppra-l59-Rd1e261"><name ref="#Ambrose">ambrosius</name> in <title ref="#Hexameron">exameron</title></ref> ordines rerum <pc type="punctus"/> quare etc 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l59-Dd1e274">
+          <head xml:id="ppra-l59-Hrppppa">Rationes pro prima propositio: probatio antecedentis</head>
+          <p xml:id="ppra-l59-srafid">
+            sed antecedens de formalitate 
+            <lb ed="#P" n="12"/>rerum probatur sic 
+          </p>
+          <div xml:id="ppra-l59-Dd1e282">
+            <head xml:id="ppra-l59-Hprprpr">Prima ratio</head>
+            <p xml:id="ppra-l59-epaepn">
+              per rationes <name>scoti</name> qui videtur probare formalitatem rerum etc unde arguit sic si infinita sapientia est <unclear>f?ter</unclear> 
+              <lb ed="#P" n="13"/>infinita bonitas tunc sapientia in communi esset bonitas in communi tunc probat quod consequens sic falsum quia in diffinitione quidditativa sapientiae 
+              <lb ed="#P" n="14"/>poneretur tamquam pars ipsa voluntas vel esset diffinitio <unclear>c?nem</unclear>
+            </p>
+          </div>
+          <div xml:id="ppra-l59-Dd1e298">
+            <head xml:id="ppra-l59-Hsrsrsr">Secunda ratio</head>
+            <p xml:id="ppra-l59-sasiev">
+              <pc type="pilcrow"/> 2o arguitur sic distinctio emanationum divinarum necessario praesumpsit 
+              <lb ed="#P" n="15"/>distinctionem principiorum elicitivorum et non rationis tantum <pc type="punctus"/> nec realem simpliciter igitur formalem prima pars consequentis patet primo quia non videtur unde esse diversitas talis 
+              <lb ed="#P" n="16"/>nisi esset ex parte principiorum talium <pc type="virgula">/</pc> necque quomodo procederet spiritus <pc type="punctus"/> sanctus ab ipsis patre et filio nisi poneretur talis formarum 
+              <lb ed="#P" n="17"/>distinctio 
+            </p>
+          </div>
+          <div xml:id="ppra-l59-Dd1e307">
+            <head xml:id="dT57Htrtrtr">Terta ratio</head>
+            <p xml:id="ppra-l59-tqeiaa">
+              <pc type="pilcrow"/> 3o quicquid potest esse formaliter est idem esse principium producendi finita potest esse principium producendi infinita sicut patet in 
+              <lb ed="#P" n="18"/>agentibus naturalibus declaratur ex multis satis
+            </p>
+            <p xml:id="ppra-l59-isspcn">
+              <pc type="pilcrow"/> Item spiritus sanctus producitur libere et filius naturaliter et tamen ista 
+              <lb ed="#P" n="19"/>productio vel voluntas non oritur ex modo actionum <pc type="virgula">/</pc> sed ex parte principiorum igitur a simili <pc type="punctus"/> si aliqua productio in divinis 
+              <lb ed="#P" n="20"/>sit libera oportet quod ex parte principiorum fiat <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l59-iaaenc">
+              <pc type="pilcrow"/> 5o aliqua attribuuntur divinae voluntati quae non attribuuntur intellectui 
+              <lb ed="#P" n="21"/>igitur differunt 
+            </p>
+            <!-- fuzzy break -->
+            <p xml:id="ppra-l59-evanvm">
+              <pc type="punctus"/> patet nam voluntas determinat respectu effectus et intellectus non nam intellectus divinus potest intelligere <unclear>mala</unclear> 
+              <lb ed="#P" n="22"/>et tamen voluntas non vult illa igitur etc
+            </p>
+            <p xml:id="ppra-l59-aiaqef">
+              <pc type="pilcrow"/><name>De rippa</name> ad idem arguit divinae essentia est participalis a creatura in esse <pc type="punctus"/> et 
+              <lb ed="#P" n="23"/>ab eadem non in esse vitae <pc type="punctus"/> igitur in deo est diffinitio et in esse et esse vitae
+            </p>
+            <p xml:id="ppra-l59-issqpi">
+              <pc type="pilcrow"/> 2o sequeretur quod in rebus non esset diversi<lb ed="#P" break="no" n="24"/>ficatio 
+              specifica scilicet secundum intensum et remissum consequens est falsum igitur probatur antecedens nam ex quo res participat adaequate non poterit 
+              <lb ed="#P" n="25"/>salvari nisi secundum intentionem et remissionem et sic incidendum in errorem
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l59-Dd1e339">
+          <head xml:id="ppra-l59-Hraootp">Rationes ad oppositum trium propositionum</head>
+          <p xml:id="ppra-l59-aoiepd">
+            <pc type="pilcrow"/> Ad oppositum tamen omnium istorum licet alias 
+            <lb ed="#P" n="26"/>multas potuissem fecisse rationes sicut Arguitur tamen auctoritate <sic>divina</sic> quae dicit quod non est aliquid asserendum circa deum 
+            <lb ed="#P" n="27"/>nisi cum divina docent eloquia cum hoc non habemus ex determinatione ecclesiae neque ratione vincente quare videtur quod 
+            <lb ed="#P" n="28"/>nullo modo talia circa deitatem habemus asserere <pc type="punctus"/> <pc type="pilcrow"/> Attenta etiam auctoritate <name>ancelmi</name> dicentis quod in divinis <del rend="strikethrough">eloqui</del>
+            <lb ed="#P" n="29"/>omnia sunt idem ubi non obviat personalis relatio
+          </p>
+          <p xml:id="ppra-l59-iasddm">
+            <pc type="pilcrow"/> Item arguitur nam positio distinctionis formalitatum est difficilior quam personarum 
+            <lb ed="#P" n="30"/>inter se <pc type="punctus"/> et magis recedens quam trinitatis in se igitur non ponenda consequentia tenet <pc type="punctus"/> antecedens probatur nam <unclear>mu?tas</unclear> positionis 
+            <lb ed="#P" n="31"/>trinitatis ponit distinctionem minorem realem quam sit essentialis distinctio personarum <pc type="punctus"/> nam ponit quod aliquid distingatur ab alio 
+            <lb ed="#P" n="32"/>sicut haec res <pc type="punctus"/> non est haec res et ergo haec est tamquam hoc ab hoc et talis est minor <pc type="pilcrow"/> Unde sciendum est quod valde bene
+            <lb ed="#P" n="33"/>potest sustineri articulus trinitatis sine ponere formalitatum distinctionum
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dd1e357">
+          <head xml:id="ppra-l59-Hdraatp">Divisio responsionis ad tres propositiones</head>
+          <p xml:id="ppra-l59-cttams">
+            <pc type="pilcrow"/> <unclear>Accendo</unclear> igitur magis et magis ad materiam trinitatis 
+            <lb ed="#P" n="34"/>erunt 3a puncta videnda 
+          </p> 
+          <p xml:id="ppra-l59-pedmsit">
+            primum igitur punctum de distinctione formalitatum
+          </p> 
+          <p xml:id="ppra-l59-sedeep">
+            <pc type="pilcrow"/> 2um de distinctione naturae rei .
+          </p>
+          <p xml:id="ppra-l59-tedise">
+            <pc type="pilcrow"/> 3m de 
+            <lb ed="#P" n="35"/>ydeis <pc type="punctus"/> utrum sint ponenda sed pro nunc amplius non procedam propter temporis brevitatem
+          </p>
+        </div>
+        <div xml:id="ppra-l59-Dxxyy1">
+          <head xml:id="ppra-l59-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l59-axxyy3">
+            <lb ed="#P" n="36"/>Prima igitur conclusio circa distinctionem 
+            <lb ed="#P" n="37"/>9nam fuit haec rationem sunt ordines angelorum videlicet 3 superiores 3 medii et 3 inferiores superiores
+            <lb ed="#P" n="38"/>sunt cherubin et seraphin dicit a plenitudine scinentiae superiores Alii throni in quo iudicia dei exercentur Alii 
+            <lb ed="#P" n="39"/>autem etiam suo modo distinguuntur ut lucide demonstratur in textu 
+          </p>
+          <p xml:id="ppra-l59-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio ordo angelorum potest dici multitudo spiritualium 
+            <lb ed="#P" n="40"/>qui sunt simul
+          </p>
+          <p xml:id="ppra-l59-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio dona spiritualia sunt omnibus ordinibus <del rend="strikethrough">spiritualia</del> <unclear>h?ia</unclear> <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l59-axxyy6">
+            <pc type="pilcrow"/> 4a ordo habet nomen excellentiae respectu 
+            <lb ed="#P" n="41"/>inferiorum et non superiorum vel eiusdem ad <del rend="strikethrough">omnia</del> alia dona <pc type="punctus"/> in comparatione
+          </p>
+          <p xml:id="ppra-l59-axxyy7">
+            <pc type="pilcrow"/> 5a conclusio ordo angelorum est <subst><add>diversus</add> <del rend="strikethrough">unum agregatione vel etc</del></subst>
+          </p>
+          <p xml:id="ppra-l59-axxyy8">
+            <lb ed="#P" n="42"/><pc type="pilcrow"/> 6a de eodem ordine est diversitas 
+          </p>
+          <p xml:id="ppra-l59-axxyy9">
+            <pc type="pilcrow"/> 7a non oportet quod sit alius ordo pro dampnatis angelis
+          </p>
+          <p xml:id="ppra-l59-axxyy10">
+            <pc type="pilcrow"/> 8va conclusio homo salvatus 
+            <lb ed="#P" n="43"/>adhuc esset licet non unus ordo cecidisset et haec sint dicta pro praesenti
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio68">
+      <head xml:id="ppra-l68-Hldtldt">Lectio 68, de Trinitate</head>
+      <div xml:id="ppra-l68-Dd1e109">
+        <head xml:id="ppra-l68-Hrarcds">Responsiones ad rationes contra divina simplicitas</head>
+        <p xml:id="ppra-l68-depicf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l68-depicf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-depicf"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l68-Dd1e117">
+          <head xml:id="ppra-l68-Harparp">Ad rationes philosophorum</head>
+          <p xml:id="ppra-l68-epogcf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-epogcf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-epogcf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-aipnrc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-aipnrc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-aipnrc"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l68-dcqrpc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-dcqrpc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-dcqrpc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l68-Dd1e151">
+        <head xml:id="ppra-l68-Hpgppmd">Propositiones generales pro maiori declaratione</head>
+        <p xml:id="ppra-l68-patagp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l68-patagp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-patagp"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l68-Dd1e159">
+          <head xml:id="ppra-l68-Hppoppo">Prima Propositio</head>
+          <p xml:id="ppra-l68-pplmvf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-pplmvf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-pplmvf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-ipeapa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-ipeapa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-ipeapa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l68-Dd1e186">
+          <head xml:id="ppra-l68-Hspospo">Secunda Propositio</head>
+          <p xml:id="ppra-l68-splsap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-splsap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-splsap"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-pppnip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-pppnip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-pppnip"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l68-iqsrcu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-iqsrcu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-iqsrcu"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-spciee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-spciee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-spciee"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l68-Dd1e260">
+            <head xml:id="ppra-l68-Hcorium">Corollarium</head>
+            <p xml:id="ppra-l68-pccldc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l68-pccldc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-pccldc"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l68-Dd1e328">
+          <head xml:id="ppra-l68-Htpotpo">Tertia propositio</head>
+          <p xml:id="ppra-l68-apqead">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-apqead"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-apqead"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-ppeera">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-ppeera"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-ppeera"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-eqsied">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-eqsied"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-eqsied"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-avdeip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-avdeip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-avdeip"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-endfsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-endfsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-endfsi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l68-Dd1e425">
+          <head xml:id="ppra-l68-Hqpoqpo">Quarta propositio</head>
+          <p xml:id="ppra-l68-apldei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-apldei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-apldei"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l68-Dd1e511">
+          <head xml:id="ppra-l68-Hqupqupo">Quinta propositio</head>
+          <p xml:id="ppra-l68-aplmpc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-aplmpc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-aplmpc"/>
+            </assertions>
+          </p>
+          <!-- paragraph order seems to invert here; i'm keeping ids the same, but switching paragraph positions to match -->
+          <p xml:id="ppra-l68-ppeqif">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-ppeqif"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-ppeqif"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-spsped">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-spsped"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-spsped"/>-->
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-idvafe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-idvafe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-idvafe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-uchssa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-uchssa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-uchssa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-aesace">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-aesace"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-aesace"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l68-cieeqx">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-cieeqx"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-cieeqx"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l68-amrnst">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l68-amrnst"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l68-amrnst"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l68-Dxxyy1">
+        <head xml:id="ppra-l68-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l68-axxyy3">
+        </p>
+        <p xml:id="ppra-l68-axxyy4">
+        </p>
+        <p xml:id="ppra-l68-axxyy5">
+        </p>
+        <p xml:id="ppra-l68-axxyy6">
+        </p>
+        <p xml:id="ppra-l68-axxyy7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

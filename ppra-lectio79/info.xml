@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio79">
+      <head xml:id="ppra-l79-Hldtldt">Lectio 79, de Trinitate</head>
+      <!-- this section does not seem present
+          <div xml:id="ppra-l79-Dd1e109">
+          <head xml:id="ppra-l79-Hrectio">Recapitulatio</head>
+          <p xml:id="ppra-l79-vsrppg">
+            Visa solutione rationis factae circa materiam consilii 
+            vicem pro parte graecorum.
+          </p>
+          <p xml:id="ppra-l79-svqfec">
+            Secundo viso quod consilii 
+            intentio non fuit prohibere non superaddere 
+            veritatem aliam non oppositam sententiae ipsius, quia in illo consilio 
+            <unclear>intebatur[?]</unclear> tantum ostendere quod spiritus sanctus non est creatura. 
+            et ideo non oportebit ibidem determinare aliam 
+            veritatem, quia praecise intendebatur concludere quod spiritus sanctus 
+            procedit a patre consubstantialiter quo facto non oportebit, immo 
+            melius obscurasset materiam si determinassent spiritum sanctum 
+            a filio procedere nec a patre, quia ante determinationem aliqui 
+            ponebant filium esse creaturam.
+          </p>
+          <p xml:id="ppra-l79-tvqpau">
+            Tertio viso quod omnes doctores 
+            uniformiter consenserunt quod spiritus sanctus 
+            procedit ab utroque.
+          </p>
+          <p xml:id="ppra-l79-vqqces">
+            Viso quarto quod hoc sequitur clare 
+            ex scriptura.
+          </p>
+          <p xml:id="ppra-l79-vqqbto">
+            Viso quinto quod ex auctoritate summi pontificis 
+            hoc potuit fieri 
+            ut tangit 
+            <cit>
+              <ref xml:id="ppra-l79-Rd1e134"><name ref="#Anselm">Anselmus</name></ref>
+              <bibl>XXX</bibl>
+            </cit> 
+            <unclear>quin</unclear> papa 
+            potest determinare ubi necessitas et brevitas temporis occurrunt.
+          </p>
+          <p xml:id="ppra-l79-scpalc">
+            Sexto considerata praelatorum auctoritate et approbatione 
+            <name>lundunensis consilii</name>.
+          </p>
+        </div>-->
+      <div xml:id="ppra-l79-Dd1e153">
+        <head xml:id="ppra-l79-Harqvtp">Ad rationem quod si spiratio activa et
+            <unclear>[???]</unclear> activa in Filio distingueretur, Filius esset duae vel tres
+          personae</head>
+        <p xml:id="ppra-l79-rvdadp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-rvdadp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-rvdadp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-ecqesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-ecqesp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-ecqesp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-hdeqne">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-hdeqne"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-hdeqne"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l79-Dd1e198">
+        <head xml:id="ppra-l79-Hcorium">Corollarium</head>
+        <div xml:id="ppra-l79-Dd1e203">
+          <head xml:id="ppra-l79-Hpcmpcm">Primum corollarium:</head>
+          <p xml:id="ppra-l79-ppsrci">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-ppsrci"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-ppsrci"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l79-eqcass">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-eqcass"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-eqcass"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l79-seussp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-seussp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-seussp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e234">
+          <head xml:id="ppra-l79-Hscmscm">Secundum corollarium: </head>
+          <p xml:id="ppra-l79-scoapp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-scoapp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-scoapp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e257">
+          <head xml:id="ppra-l79-Htcmtcm">Tertium corollarium</head>
+          <p xml:id="ppra-l79-eqsame">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-eqsame"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-eqsame"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e275">
+          <head xml:id="ppra-l79-Hqcmqcm">Quartum corollarium: </head>
+          <p xml:id="ppra-l79-qcsess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-qcsess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-qcsess"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e288">
+          <head xml:id="ppra-l79-Hqncqnc">Quintum corollarium</head>
+          <p xml:id="ppra-l79-qsqcmop">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-qsqcmop"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-qsqcmop"/>
+            </assertions>
+          </p>
+          <div xml:id="ppra-l79-Dd1e296">
+            <head xml:id="ppra-l79-Hcowcow">Contra opinio Wyclif</head>
+            <p xml:id="ppra-l79-epfpid">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l79-epfpid"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-epfpid"/>
+              </assertions>
+            </p>
+            <!-- fuzzy break -->
+            <p xml:id="ppra-l79-shvcmp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l79-shvcmp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-shvcmp"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l79-sqscsn">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l79-sqscsn"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-sqscsn"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <!--
+            this section doesn't seem present; but a little fuzzy with corollary 7 
+            <div xml:id="ppra-l79-Dd1e324">
+            <head xml:id="ppra-l79-Hsxcsxc">Sextum corollarium: </head>
+            <p xml:id="ppra-l79-sufcmr">
+              <g ref="#dbslash"/>Sequitur ulterius falsum esse sit aliqua res in 
+              dictis quae nec sit pater nec filius nec spiritus sanctus nec 
+              ista consequentia valet trinitas non est pater nec filius 
+              nec spiritus sanctus, ergo aliqua est res in divinis quae nec 
+              est pater nec filius nec spiritus sanctus causa est, quia licet unitas 
+              non sit nec pater nec filius nec spiritus 
+              sanctus est tamen aliqua res quae est pater est etiam aliqua 
+              res qui est filius et est etiam aliqua res quae 
+              est spiritus sanctus, et ideo illa non plus valet quam ista 
+              <!-\-<cb ed="#V" n="?b"/>-\->
+              deitas est aliqua res. Item si concederetur quod esset 
+              aliqua res. Item si concederetur quod esset aliqua res 
+              in divinis non concluditur multitudo rerum.
+              
+            </p>
+            <p xml:id="ppra-l79-sneeur">
+              <choice><orig>2o</orig><reg>secundo</reg></choice> 
+              nam ex combinationibus huiusmodi negationum voluisset 
+              concludere pluralitas rerum in divinis non debuisset 
+              sistere in sexternario numero, sed debuisset misse usque 
+              ad 21, et ideo defecit ex utraque radice.
+            </p>
+          </div>-->
+        <div xml:id="ppra-l79-Dd1e346">
+          <head xml:id="ppra-l79-Hspcspc">Septimum corollarium: </head>
+          <p xml:id="ppra-l79-sfenep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l79-taqimp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l79-Dd1e358">
+          <head xml:id="ppra-l79-Hcontio">Confirmatio</head>
+          <p xml:id="ppra-l79-acqitd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-acqitd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-acqitd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l79-sncapr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l79-sncapr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-sncapr"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l79-Dd1e371">
+        <head xml:id="ppra-l79-Harqpss">Ad rationem quod Pater et Filius unum principium Spiritus
+          Sancti</head>
+        <p xml:id="ppra-l79-etdqct">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-etdqct"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-etdqct"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l79-Dd1e396">
+        <head xml:id="ppra-l79-Hopoopo">Opinio Ockham</head>
+        <p xml:id="ppra-l79-neqdit">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-neqdit"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-neqdit"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-scissi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-scissi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-scissi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-sqpncf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-sqpncf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-sqpncf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-tronss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-tronss"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-tronss"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-qqcpti">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-qqcpti"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-qqcpti"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-qihsdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-qihsdp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-qihsdp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l79-idqass">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l79-idqass"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l79-idqass"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l79-Dxxyy1">
+        <head xml:id="ppra-l79-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l79-qxxyy2">
+        </p>
+        <p xml:id="ppra-l79-qxxyy3">
+        </p>
+        <p xml:id="ppra-l79-qxxyy4">
+        </p>
+        <p xml:id="ppra-l79-qxxyy5">
+        </p>
+        <p xml:id="ppra-l79-qxxyy6">
+        </p>
+        <p xml:id="ppra-l79-qxxyy7">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

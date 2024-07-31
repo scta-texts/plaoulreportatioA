@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 73 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 73 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-23">July 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="76-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio73">
+        <head xml:id="ppra-l73-Hldtldt">Lectio 73, de Trinitate</head>
+        <div xml:id="ppra-l73-Dd1e109">
+          <head xml:id="ppra-l73-Hdmdmdm">Decima manuductiones</head>
+          <p xml:id="ppra-l73-cmcsma">
+            <lb ed="#P" n="13"/> Consequenter circa materiam inceptam et ad intellectus fortificationem sunt aliquae manuductiones 
+            <lb ed="#P" n="14"/>adducendae 
+          </p>
+          <p xml:id="ppra-l73-pesoit">
+            <pc type="virgula">/</pc> Prima igitur manuductio est <name ref="#WilliamOfParis">guillelmum parisiensis</name> qui trinitatem habitudinem ymaginatur ipsius animae 
+            <lb ed="#P" n="15"/>prima est intrinseca in se <pc type="punctus"/> quae est vita ex quo oritur quod sit apprehensiva vel intellectiva et 2o ex quo est vita 
+            <lb ed="#P" n="16"/>oritur quod sit appetitiva Et quantum ad hoc repraesentetur quaedam ordo increatae trinitatis iuxta aliquorum 
+            <lb ed="#P" n="17"/>ymaginationem nam cum sicut ponunt potentiae ipsius animae sint realiter distinctae inter se <pc type="punctus"/> 
+            <lb ed="#P" n="18"/>nihilominus concurrit ydemptice cum ipsa anima fuit eorum oppinio quod substantia animae <pc type="punctus"/> est quaedam potentia quae videtur 
+            <lb ed="#P" n="19"/>memoritiva et species rerum intelligibilium deinde potentia realiter <del rend="strikethrough">potentia</del> intellectiva deinde volitiva et distinguuntur 
+            <lb ed="#P" n="20"/>inter se sunt dicunt sic quod memoria non idem est cum volitiva licet simul concurrat Et quo ad hoc 
+            <lb ed="#P" n="21"/>esset magna trinitatis similitudo nam ponimus patrem active intellectionis et est realiter essentia 
+            <lb ed="#P" n="22"/>deinde 2a persona quae realiter est eadem essentia cum alia et est <seg type="correction">intell<subst><add place="above-line">igentia</add><del rend="strikethrough">ectiva</del></subst></seg> scilicet verbum
+            
+            <pc type="pilcrow"/> deinde <del>ff</del> 3a persona scilicet spiritus 
+            <lb ed="#P" n="23"/>sanctus quem vocamus amorem <pc type="punctus"/> Sed nihilominus est inter potentias animae et trinitatis personae <unclear>dissi?do</unclear> quaedam <pc type="virgula">/</pc> nam 
+            <lb ed="#P" n="24"/>una potentia ipsius animae non producit aliam potentiam <del>secundum</del> et una persona producit aliam sicut prima producit 
+            <lb ed="#P" n="25"/>secundam vel gignit et ambae producunt spiritum sanctum et ydemptificatur licet tamen sit inter 
+            <lb ed="#P" n="26"/>eas personalis distinctio
+            
+            
+            et hoc considerando 
+            animam secundum triplicem habitudinem. prima est ut est in se quaedam 
+            vita intrinseca et ex hoc oritur quod ipsa est apprehensiva 
+            et intellectiva, quae est secunda habitudo, et ex hoc quod est vita 
+            intellectiva arguitur quod ipsa est affectativa. et ideo intrinsece 
+            ipsa quodammodo Repraesentat ordinem increatae trinitatis.
+          </p>
+          <p xml:id="ppra-l73-smeiai">
+            Secunda manuductio 
+            est iuxta aliquorum imaginationem ponentium quod 
+            potentiae animae sint inter se distinctae Realiter et quod nihilominus 
+            concurrunt identice cum ipsa anima. unde fuit opinio quaedam 
+            quod anima et substantia animae est quaedam potentia vocatur memorativa 
+            et potentia receptiva specierum intelligibilium, deinde anima est 
+            potentia Realiter intellectiva, deinde ipsa est Realiter volitiva, 
+            et tamen imaginatur quod huiusmodi potentiae inter se distinguuntur, 
+            id est, quod memoria non est intelligentia, nec intelligentia sit volitiva, 
+            licet concurrant identice cum anima. et quantum ad hoc esset 
+            magna trinitatis similitudo. nam sicut in trinitate ponuntur tres 
+            personae, scilicet pater, qui se habet per modum speciei intelligibilis 
+            et est Realiter idem cum essentia et producit filium, sicut species 
+            intelligibilis producit notitiam, et ita secunda persona distinguitur a prima 
+            et ista secunda persona est verbum. et ex conexione primae 
+            et secundae personarum producitur per modum amoris spiritus sanctus et est idem 
+            cum essentia. Et ex conexione speciei intelligibilis et 
+            notitiae producitur volitio seu affectus. et istam tertiam personam 
+            productam dicendum esse idem cum essentia. et distinguitur 
+            a qualibet  aliarum duarum personarum. sed est dissimilitudo quia 
+            una potentia animae non producit Realiter aliam, sed quantum ad 
+            modum capiendum quod una Res sit tres satis capitur in 
+            similitudine animae imaginando quod potentiae animae sint distinctae ab 
+            ipsa anima.
+          </p>
+          <p xml:id="ppra-l73-tmcipa">
+            <pc type="pilcrow"/> <sic>2o</sic> ymaginatur ex actibus potentiarum ipsius animae <pc type="virgula">/</pc> nam ipsa recipit speciem 
+            <lb ed="#P" n="27"/>intelligibilem et per eam actuatur Et ab illa procedit cognitio vel notitia de re <pc type="punctus"/> cuius species est in 
+            <lb ed="#P" n="28"/>potentia et forma de eodem obiecto <pc type="virgula">/</pc> et procedit ab eo affectatio Et similitudo quantum ad personarum emanationem <pc type="punctus"/> nam 
+            <lb ed="#P" n="29"/>primum repraesentat <sic>susistentia</sic> <pc type="virgula">/</pc> aliud emanatio <pc type="virgula">/</pc> et ideo istis adiunctis satis apparet ministerium trinitatis nam 
+            <lb ed="#P" n="30"/>pater se habet tamquam persona producens <pc type="punctus"/> filius tamquam producta <pc type="punctus"/> et spiritus sanctus tamquam amor <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l73-qmieit">
+            <pc type="pilcrow"/> <sic>3o</sic> est alius 
+            <lb ed="#P" n="31"/>modus ymaginationis quod denominatio specierum ex unione ad subiectum realiter uniuntur et fit 
+            <lb ed="#P" n="32"/>ydemptice unum sicut in anima sunt species naturales <pc type="virgula">/</pc> ut est intelligibilis et sic de aliis quae tamen sunt realiter 
+            <lb ed="#P" n="33"/>et ydemptice eadem anima <pc type="punctus"/> ita de trinitate ymaginandum est et ista ymaginatio est quasi eadem cum praecedent
+          </p>
+          <p xml:id="ppra-l73-qmseca">
+            <pc type="pilcrow"/> Alius 
+            <lb ed="#P" n="34"/>modus ymaginandi supponeno quod eadem materia possit esse in diversis locis <pc type="punctus"/> sicut de corpore christi et ponatur 
+            <lb ed="#P" n="35"/>casus quod sortes se applicet generationi filii <pc type="virgula">/</pc> deinde in instanti decisionis seminis sortis 
+            <lb ed="#P" n="36"/>tota materia sortis in duobus locis <pc type="virgula">/</pc> deinde disponatur materia ad animae susceptionem tunc in isto casu 
+            <lb ed="#P" n="37"/>sortes et filius sunt realiter eadem essentia et tamen remanet distinctio relativa quia unus est filius et alter pater 
+            <lb ed="#P" n="38"/>Et sic ratione habitudinis est distinctio licet sit eadem essentia unde in isto casu oporteret concedere 
+            <lb ed="#P" n="39"/>quod esset distinctio aliter idem generaret seipsum quod est contra <name>augustinum</name>
+          </p>
+          <p xml:id="ppra-l73-sieeee">
+            <pc type="pilcrow"/> Alius modus est supponendo 
+            <lb ed="#P" n="40"/>oppinionem quam recitat <ref xml:id="ppra-l73-Rd1e175"><name ref="#Lombard">magister</name> in 3o sententiarum</ref> scilicet quod unio ypostatica sit per ydemptificiationem 
+            <lb ed="#P" n="41"/>naturae assumptae per quam realiter ydemptificatur verbum utroque extremo remanente tunc hoc facto et 
+            <lb ed="#P" n="42"/>praesumpto sit una nulla quae assumatur a 3bus angelis <pc type="punctus"/> realiter distincti <pc type="virgula">/</pc> tunc sit illa natura <c>a</c> angeli et <c>b</c>
+            <lb ed="#P" n="43"/>angeli et <c>c</c> angeli tunc isti erunt diversi et erunt una essentia vel natura assumpta <pc type="punctus"/> et ex hoc satis 
+            <lb ed="#P" n="44"/>faciliter concipitur etiam materia triniatis et tamen primus angelus non est 2us nec 2us 3us etc licet tamen sint 
+            <lb ed="#P" n="45"/>eadem emptitas realiter et ydemptice 
+          </p>
+          <p xml:id="ppra-l73-smehit">
+            <pc type="pilcrow"/> Alius modus ponendo quod unus angelus sit localiter in tribus 
+            <lb ed="#P" n="46"/>locis tunc habet aliam localitatem sive ubeitatem in unum situm et aliam in alio <pc type="punctus"/> et alio <pc type="punctus"/> tunc 
+            <lb ed="#P" n="47"/>ponamus quod loci sit eadem ubeitas et facilis erit ymaginatio
+          </p>
+          <p xml:id="ppra-l73-ompsss">
+            <pc type="pilcrow"/> Alius modus ymaginandi ponamus quod sit 
+            <lb ed="#P" n="48"/>quaedam intelligentia creata quae de se simpliciter sit cognitiva et dilectiva per suam essentiam deinde ponatur quod 
+            <lb ed="#P" n="49"/>sit notitia distincta sibi inhaerens producere producat ergo notitiam repraesentativa sui ipsius et aliorum 
+            <lb ed="#P" n="50"/>deinde producat amorem <pc type="virgula">/</pc> tunc ponatur quod actus ydemptificatur suae essentiae quo dato erit similitudo 
+            <lb ed="#P" n="51"/>trinitatis
+          </p>
+          <p xml:id="ppra-l73-nmedis">
+            <pc type="pilcrow"/> Alius manuductionem ponit <name>magister guillelmus parisiensis</name> de trinitate videlicet comparando ad <choice><orig>3lum</orig><reg>triangulum</reg></choice> nam 
+            <lb ed="#P" n="52"/>dicit 3es anguli sunt ipso et tamen unus angelus non est rectus sed nihilominus resolvendo trianguli quidditatem reperietur una <unclear>superficies</unclear>
+            <pb ed="#P" n="77-r"/>
+            <lb ed="#P" n="1"/>resolvendo ad <unclear>me?cam</unclear>
+          </p>
+          <p xml:id="ppra-l73-deqpeh">
+            <pc type="pilcrow"/> Alia manuductio ex dictis philosophorum et maxime platonis et hermetica 
+          </p>
+          <!-- reconsider p break -->
+          <p xml:id="ppra-l73-npppci">
+            <lb ed="#P" n="2"/>nam plato posuit quod species est proprie quidditas suorum terminorum a parte rei quam ponit essentiam unicam 
+            <lb ed="#P" n="3"/>scilicet <name>roberti</name> et <name>guillemi</name> et <name>ricardi</name> tamen <name>robertus</name> non est <name>guillelmus</name> naturae etc <pc type="virgula">/</pc> et est hoc quod <name>porphiri</name>
+            <lb ed="#P" n="4"/>dicit scilicet quod participatione unius speciei plures homines sunt unus homo <pc type="pilcrow"/> unde ponit quod quidditas hominis 
+            <lb ed="#P" n="5"/>est incorruptibilis et ponitur aeterna et una essentia quae est plures homines <pc type="punctus"/> et tamen distinguuntur inter se 
+            <lb ed="#P" n="6"/>Et sic oppinio platonica difficilior est materia trinitatis
+          </p>
+          <p xml:id="ppra-l73-htpdnp">
+            <pc type="pilcrow"/> Similem ponit <ref><name>hermes</name> in almagestis</ref> unde dicit 
+            <lb ed="#P" n="7"/>quod deus est quidditative mundus <pc type="punctus"/> et tamen deus distinguitur a mundo et est eadem quidditas tamen cum mundo 
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dd1e284">
+          <head xml:id="ppra-l73-Hnotlia">Notabilia</head>
+          <p xml:id="ppra-l73-cppepn">
+            <pc type="pilcrow"/> Sed tamen pro ampliori declaratione ponuntur aliqua notabilia 
+          </p>
+          <div xml:id="ppra-l73-Dd1e292">
+            <head xml:id="ppra-l73-Hprimum">Primum</head>
+            <p xml:id="ppra-l73-pqeimp">
+              primum est quod negatio mutua extremorum non 
+              <lb ed="#P" n="8"/>infert alterius non esse essentiam <pc type="punctus"/> <pc type="virgula">/</pc> unde si aliquod extremorum negetur de alio unum non infert non 
+              <lb ed="#P" n="9"/>esse essentiam alterius <pc type="punctus"/> ut patet in materia platonis praedicta quia etiam sortes non est plato et tamen non infertur 
+              <lb ed="#P" n="10"/>ex hoc quod essentia sortis non sit essentia platonis <pc type="pilcrow"/> Unde consequentia non valet sortes <pc type="punctus"/> non est plato <pc type="punctus"/> igitur 
+              <lb ed="#P" n="11"/>sortes non est essentia platonis <pc type="punctus"/> ita quod essentia non negat formaliter
+            </p>
+          </div>
+          <div xml:id="ppra-l73-Dd1e342">
+            <head xml:id="ppra-l73-Hsecdum">Secundum</head>
+            <p xml:id="ppra-l73-sneiep">
+              <pc type="pilcrow"/> 2m notabile Affirmationes absolutae 
+              <lb ed="#P" n="12"/>non praecise <del rend="strikethrough">denominant</del> ydemptatem essentialem nam si sic illa foret vera sortes est plato 
+              <lb ed="#P" n="13"/><pc type="pilcrow"/> Item ista etiam in materia trinitatis pater in divinis est filius in divinis quia praecise affirmaret ydemptitate essentialem 
+              <lb ed="#P" n="14"/>et tamen hoc est haereticum dicere <pc type="pilcrow"/> Unde dicitur quod sicut negatio non negat ydemptitatem essentiae ita non 
+              <lb ed="#P" n="15"/><del rend="strikethrough">negat</del> affirmat affirmatio praecise essentiale ydemptitatem
+            </p>
+          </div>
+          <div xml:id="ppra-l73-Dd1e357">
+            <head xml:id="ppra-l73-Hterium">Tertium</head>
+            <p xml:id="ppra-l73-eqsnep">
+              <pc type="pilcrow"/> Ex quo sequitur 3m notabile quod per hoc denominatur 
+              <lb ed="#P" n="16"/>subsistentia suppositalis sive personalis ydemptitas 
+            </p>
+          </div>
+          <div xml:id="ppra-l73-Dd1e367">
+            <head xml:id="ppra-l73-Hquatum">Quartum</head>
+            <p xml:id="ppra-l73-qnqpss">
+              <pc type="pilcrow"/> 4m notabile esse sortem vel platoniem denominatio 
+              <lb ed="#P" n="17"/>non consurgit immediata ex absoluta et essentiali ratione <pc type="punctus"/> patet quia omnis denominatio competens uni <pc type="punctus"/> 
+              <lb ed="#P" n="18"/>competit alteri <pc type="virgula">/</pc> et ita diceretur de esse patrem et esse filium <pc type="punctus"/> quia non consecuntur de per se et immediate 
+              <lb ed="#P" n="19"/>ut satis patet <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l73-Dd1e391">
+            <head xml:id="ppra-l73-Hquitum">Quintum</head>
+            <p xml:id="ppra-l73-qdreea">
+              <pc type="pilcrow"/> 5m corollarium sive notabile quod de ratione essentiali non est aliqua notitia in sua formali 
+              <lb ed="#P" n="20"/>ratione
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l73-Dd1e416">
+          <head xml:id="ppra-l73-Hmitmit">Modi imaginandi Trinitatem</head>
+          <p xml:id="ppra-l73-eqsass">
+            <pc type="pilcrow"/> Ex quo sequitur quod non repugnat essentiae sortis quin sortes et plato sint eadem quiditas
+            <lb ed="#P" n="21"/><pc type="pilcrow"/> Ulterius sequitur ex praedictis quod esse sortis simpliciter <add place="above-line">distinguitur</add> a ratione essentiali et absolute et licet sit repugnantia 
+            <lb ed="#P" n="22"/>non tamen est ex parte quidditatum sed ex rationibus individualibus Et ergo descendendo ad materiam trinitatis 
+            <lb ed="#P" n="23"/>nullam erit repugnantia quod pater et filius sit eadem quiditas absolute unde sunt magis personales et per hoc 
+            <lb ed="#P" n="24"/>ymaginatur distinctio personarum <pc type="pilcrow"/> Ex quibus omnibus patet quod ex finite divina stat distinctio personarum sine ipsarum 
+            <lb ed="#P" n="25"/>confusione <pc type="punctus"/> quod tamen <name>sabellius</name> non concedebat
+          </p>
+        </div>
+        <div xml:id="ppra-l73-Dxxyy1">
+          <head xml:id="ppra-l73-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l73-cxxyy1">
+            <pc type="pilcrow"/> Sequitur conclusio lectionis supra distinctionem
+            <lb ed="#P" n="26"/>23am scilicet quod in temptaitone nobilius est vincere quam vinci <pc type="virgula">/</pc> videtur quasi sic sonare conclusio
+          </p>
+          <p xml:id="ppra-l73-cxxyy2">
+            <pc type="pilcrow"/> 2a conclusio deus 
+            <lb ed="#P" n="27"/>creavit parentes primos innocentes <pc type="virgula">/</pc> licet sciret eos casuros 
+          </p>
+          <p xml:id="ppra-l73-cxxyy3">
+            <pc type="pilcrow"/> 3a deus creavit humanam naturam quae fuit
+            <lb ed="#P" n="28"/>postea in melius reformata <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l73-cxxyy4">
+            <pc type="pilcrow"/>  Alia conclusio primus parens fuit illustratus omni scientia scilicet dei et sui 
+            <lb ed="#P" n="29"/>et claram notitiam de trinitate habuit
+          </p>
+          <p xml:id="ppra-l73-cxxyy5">
+            <pc type="pilcrow"/> Ultima conclusio ipse accepit ea quae si servasset in bono 
+            <lb ed="#P" n="30"/>statu et perfectus fuisset sive permansisset et hoc de lectione <pc type="punctus"/>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

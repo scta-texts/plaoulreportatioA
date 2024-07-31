@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio29">
+      <head xml:id="ppra-l29-Hldnldn">Lectio 29, de Notitia</head>
+      <div xml:id="ppra-l29-Dd1e3491">
+        <head xml:id="ppra-l29-Hudesdp">Utrum 'Deus esse' sit demonstrabile: praefatio</head>
+        <p xml:id="ppra-l29-pesice">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-pesice"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-pesice"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-spenad">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-spenad"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-spenad"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-niitlg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-niitlg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-niitlg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-ndeais">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-ndeais"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-ndeais"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-nvhqde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-nvhqde"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-nvhqde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-inrsid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-inrsid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-inrsid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-idnvie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-idnvie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-idnvie"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l29-Dd1e4131">
+        <head xml:id="ppra-l29-Hudesnl">Utrum Deum esse sit demonstrabile in lumine naturali in
+          statu naturae lapsae?</head>
+        <p xml:id="ppra-l29-eissnl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l29-eissnl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-eissnl"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l29-Dd1e4148">
+          <head xml:id="ppra-l29-Hpcpcpc">Conclusio prima</head>
+          <p xml:id="ppra-l29-cqmame">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l29-cqmame"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-cqmame"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l29-upcdsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l29-upcdsi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-upcdsi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l29-Dd1e4503">
+          <head xml:id="ppra-l29-Hcscscs">Conclusio Secunda</head>
+          <p xml:id="ppra-l29-scdnaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l29-scdnaf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-scdnaf"/>
+            </assertions>
+          </p>
+          <!--<p xml:id="ppra-l29-uaefhd">
+              Ubi advertendum est quod aliquid dicitur demonstrabile esse in
+              ordine ad aliquam potentiam, cui apta
+              <pb ed="#V" n="61-r"/>
+              <cb ed="#V" n="a"/>
+              nata sit fieri huiusmodi demonstratio.
+            </p>
+            <p xml:id="ppra-l29-snepsi">
+              Secundo notandum est quod demonstratio non debet censeri
+              demonstratio, nisi respectu potentiae debito modo dispositae. Unde ad assentiendum,
+              utrum A sit processus demonstrationis respectu potentiae intellectivae humanae, non
+              est considerandum, utrum 
+                pure
+              sit demonstratio vel infanti vel dementi carenti 
+              usu rationis vel rudimento ingenio
+              <pb ed="#R" n="49-r"/>
+              <cb ed="#R" n="a"/>
+              vel notabiliter laeso in suis naturalibus. 
+              Et causa subest nam
+              demonstrationes mathematicae, 
+              quae sunt certissimae demonstrationes, 
+                non possunt eis esse demonstrationes
+              . 
+              Et ideo non in comparatione ad eos debet iudicare, 
+              utrum aliqua ratio sit
+              demonstrativa vel non, 
+              ita quod breviter, 
+              pones intellectum male dispositum, 
+                non debet attendi, 
+                  utrum aliqua ratio sit demonstrativa vel non, sed penes
+                  intellectum bene dispositum
+                sit demonstratio
+              virtutis tangit <name ref="#Aristotle">Philosophus</name> 
+              quia non dedit nobis
+              aliam regulam, 
+              nisi considerando iudicium sapientis in quo consistit virtus et medium
+              virtutis, 
+                ubi
+              scilicet 
+                et
+              prout sapiens iudicabit.
+            </p>
+            <p xml:id="ppra-l29-ahqsee">
+              Advertendum hic quod 
+                <ref xml:id="ppra-l29-Rd1e934">
+                  <name ref="#Boethius">Boethius</name> 
+                  in libro 
+                  <title ref="#deHebdomadibus">De Ebdomandibus</title></ref>
+              ponit unam distinctionem,
+              scilicet quod duplex est <unclear>omni[?]</unclear> conceptio. 
+              Una talis quod 
+                quicumque
+              probat eam auditam, 
+              id est, 
+              approbat illam ut quod totum est maius sua parte
+              . 
+              Alia est quae est communis apud omnes sapientes, ut spiritualia non esse in
+              loco est unum principium apud intellectum bene dispositum et elevatum, ita
+              proportionaliter in materia praesenti quod
+              aliquid esse demonstrativum, 
+               vel ad iudicandum aliquid esse demonstrativum
+              vel utrum aliquis processus sit 
+                demonstrativus
+              debet attendi pones iudicum sapientis et elevatorum.
+            </p>-->
+          <p xml:id="ppra-l29-eqalnd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l29-eqalnd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-eqalnd"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l29-Dd1e5003">
+          <head xml:id="ppra-l29-Hpadpad">Probationes aliquorum doctorum</head>
+          <!--
+             Doesn't seem present
+             <p xml:id="ppra-l29-qecfed">
+              Quantum est circa 
+                istam
+              materiam valde diffuse et expresse et bene loquuntur doctores, 
+              ideo breviter transeam, quia nihil potest addi. 
+              Ideo videantur doctores in ista materia, 
+              faciam tamen aliquas 
+                rationes
+              ad probandum 'quod Deus est' quas faciunt etiam doctores.
+            </p>-->
+          <div xml:id="ppra-l29-Dd1e5046">
+            <head xml:id="ppra-l29-Hpspsps">Probatio Scoti</head>
+            <p xml:id="ppra-l29-eiafam">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-eiafam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-eiafam"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-qannae"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-qannae">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-qannae"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-iieied">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-iieied"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-iieied"
+                />
+              </assertions>
+            </p>
+            <!-- fuzzy parallel/break -->
+            <p xml:id="ppra-l29-sfdvev">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-sfdvev"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-sfdvev"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-stdepc">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-stdepc"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-stdepc"
+                />
+              </assertions>
+            </p>
+            <!--
+                Doesn't seem present
+                <p xml:id="ppra-l29-veqqde">
+                Verum est quod doctores faciunt calumnias, et forte in lectione sequenti
+                inducam quomodo possunt huiusmodi rationes calumniari. 
+                Sed solum pro
+                praesenti ponam rationes ad probandum 
+                <mentioned>quod Deus est</mentioned>.
+              </p>-->
+          </div>
+          <div xml:id="ppra-l29-Dd1e5586">
+            <head xml:id="ppra-l29-Hpdrpdr">Probatio de Ripa</head>
+            <p xml:id="ppra-l29-dripds">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-dripds"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-dripds"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-pseqen">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-pseqen"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-pseqen"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-ssqcmp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-ssqcmp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-ssqcmp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-uchphd"/>
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-uchphd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-uchphd"/>
+                
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-ichilf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-ichilf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-ichilf"
+                />
+              </assertions>
+            </p>
+            <!--
+                Doesn't seem present
+                <p xml:id="ppra-l29-tisnaf">
+                Tunc istis suppositionibus habitis 
+                <name ref="#Ripa">de Ripa</name> 
+                sic procedit circa materiam istam, 
+                nam dicit ipse, dato quod 
+                  esset
+                processus in infinitum in causis, 
+                signemus infimam creaturam illius processus assumpti. 
+                Illa est dependens et non sufficit se sustentari, et quanto est
+                perfectior, tanto magis 
+                  dependens
+                et magis fluxibilis. 
+                Ergo, data tota illa latitudine, illa magis est
+                fluxibilis et maiorem habet dependentiam quam 
+                  habet
+                creatura. 
+                Data ergo indiget magis sustentari quam 
+                  huiusmodi
+                creatura, posset poni exemplum de liquore. 
+                  Si
+                esset aliquis liquor fluxibilis indigeret aliquo fixo 
+                  et firmo ipsam sustentante
+                , 
+                et si apponeretur alius liquor magis fluxibilis indigeret maiori fixo, 
+                et sic consequenter ascendendo. 
+                Ita, in proposito, non potest imaginari quin tota illa
+                latitudo fluat et pro consequens 
+                  indiget
+                aliquo fixo non fluente illam ,
+                  sustentante
+                ergo etc. 
+                  Ista
+                ratio est satis apparens theologo in lumine naturali adiuto fide.
+              </p>-->
+          </div>
+          <div xml:id="ppra-l29-Dd1e6098">
+            <head xml:id="ppra-l29-Hapapap">Aliae probationes</head>
+            <!--
+                Doesn't seem prsent
+                <p xml:id="ppra-l29-arpibd">
+                Alia ratio potest esse ex infinitate artificii. 
+                  Nam considerata subtilitate artificii
+                , 
+                et dispositione corporum caelestium, 
+                et motuum et habitudinum ipsorum,
+                et elementorum et mixtorum, 
+                et considerata
+                <cb ed="#V" n="62rb"/><!-\-V62rb-\->
+                organizatione unius parvi animalis, 
+                  ibi
+                enim sunt valde subtiles operationes et habitudines. 
+                Non enim videtur quod
+                tantum artificium 
+                  posset
+                provenire nisi a summo artifice. 
+                Et 
+                  istud
+                  indicaret
+                  esse
+                iudicium bene dispositum.
+              </p>
+              <p xml:id="ppra-l29-ipaahc">
+                Item potest argui ex 
+                  scibilitate
+                rerum obiectiva. 
+                Nam illa est infinita, ergo sibi debet correspondere
+                potentia infinita 
+                    cognoscens, 
+                    scilicet, huiusmodi habitudinem infinitam et
+                    infinitarum rerum. Quod autem illa sit infinita
+                patet de unico obiecto per se sumpto infinitae conclusiones geometricae et
+                mathematicae sunt scibiles de eo, ut alias tactum est. 
+                  Praeterea
+                infinitae sunt huiusmodi habitudines 
+                  <unclear>correspondentes</unclear>
+                ad res alias et habitudines 
+                et infinitas proportiones 
+                  adinvicem
+                consonantes facientes 
+                inter se unam pulchram armoniam et debitam. 
+                Et hoc non est a casu, 
+                ergo oportet quod sit ab aliquo hoc cognoscente.
+              </p>
+              <p xml:id="ppra-l29-ipasis">
+                Item 
+                  potest
+                argui ex determinatione causarum 
+                indifferentiam ad productionem suorum
+                effectum. Verbi gratia, 
+                  ignis
+                infinitorum graduum calorum
+                <pb ed="#R" n="50-r"/>
+                <cb ed="#R" n="a"/>
+                quaelibet potest producere, ita quod
+                ignis vel calor agit producendo gradus calliditatis quando producit; 
+                primum indifferens est ad producendum, 
+                secundum, 
+                  et
+                tertium, 
+                  etc.
+                et sic in infinitum. 
+                Ergo ad hoc quod determinetur, 
+                oportet quod sit ab
+                aliqua causa suprema ipsum determinante ad hoc 
+                  quod
+                producat istum gradum, sic quod non alium 
+                  vel
+                istum effectum 
+                  istius
+                speciei, 
+                et non sibi similem in specie.
+              </p>-->
+            <p xml:id="ppra-l29-ipauep">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-ipauep"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-ipauep"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l29-asrdre">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l29-asrdre"/>
+                <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-asrdre"/>-->
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l29-Dxxyy1">
+        <head xml:id="ppra-l29-Hctctct">Conclusiones</head>
+        <p xml:id="ppra-l29-ctssma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-ctssma"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-schnsg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-schnsg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l29-tcnsle">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l29-tcnsle"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

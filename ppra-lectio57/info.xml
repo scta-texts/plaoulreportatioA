@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio57">
+      <head xml:id="ppra-l57-Hldtdlt">Lectio 57, de Trinitate</head>
+      <div xml:id="ppra-l57-Dd1e109">
+        <head xml:id="ppra-l57-Hpsdpsp">Propositio: sola divina natura summe identice[?] est omnis
+          perfectio sibi possibilis</head>
+        <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l57-stepec">
+            Sicut tactum est in lectione praecedenti, 
+            trinitas personalis est una de conditionibus propriis naturae 
+            immensae, et sicut probatur Res infinita in eadem 
+            specie habet alias proprietates et conditiones quam finita, ergo si natura 
+            divina sit infinita in se, et etiam in specie excedens imperfectione 
+            <cb ed="#SV" n="267va"/>totam aliam perfectionem specierum non est inconveniens si sibi 
+            competant variae proprietates et conditiones.
+          </p>-->
+        <p xml:id="ppra-l57-chncam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-chncam"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-chncam"/>-->
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-peipph">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-peipph"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-peipph"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-eeipis">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-eeipis"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-eeipis"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-sspfnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-sspfnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-sspfnc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-icmdae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-icmdae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-icmdae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-ipmmef">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-ipmmef"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-ipmmef"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-ipiapa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-ipiapa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-ipiapa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-uchqmc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-uchqmc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-uchqmc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l57-Dd1e160">
+        <head xml:id="ppra-l57-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l57-Dd1e165">
+          <head xml:id="ppra-l57-Hpcnosp">Primum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e170" type="question-title">Nulla creatura esset omnis sua
+            perfectio</head>
+          <p xml:id="ppra-l57-pcdsfu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-pcdsfu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-pcdsfu"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-ihcqec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-ihcqec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-ihcqec"/>
+            </assertions>
+          </p>
+          <!-- not clear if this present 
+              <p xml:id="ppra-l57-icqtes">
+              Item, 
+              creatura quanto est perfectio tanto dependentior, 
+              ut tactum est supra.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l57-Dd1e186">
+          <head xml:id="ppra-l57-Hsceppc">Secundum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e191" type="question-title">Esse simplex proprie causando non
+            est ad extra proprie praedicatum communcabile</head>
+          <p xml:id="ppra-l57-scesri">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-scesri"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-scesri"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-eqsdps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-eqsdps"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-eqsdps"/>-->
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e201">
+          <head xml:id="ppra-l57-Htcsigp">Tertium corollarium</head>
+          <head xml:id="ppra-l57-Hd1e206" type="question-title">Supremum gradum est omnino
+            indivisibils gradus perfectionis</head>
+          <p xml:id="ppra-l57-tcqmcv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-tcqmcv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-tcqmcv"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallell -->
+          <p xml:id="ppra-l57-eecvse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-eecvse"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-eecvse"/>-->
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-spddai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-spddai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-spddai"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e230">
+          <head xml:id="ppra-l57-Hqcgtlc">Quartum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e235" type="question-title">Gradus divinae perfectionis excedit
+            immense totam latitudinem creabilium</head>
+          <p xml:id="ppra-l57-qcltlc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-qcltlc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-qcltlc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e247">
+          <head xml:id="ppra-l57-Hqcatii">Quintum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e252" type="question-title">Aeternitas excedit in duratione
+            totam latitudinem temporis imaginarii infinitam</head>
+          <p xml:id="ppra-l57-qcqeda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-qcqeda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-qcqeda"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-scqpes">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-scqpes"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-scqpes"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e301">
+          <head xml:id="ppra-l57-Hscqigi">Sextum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e306" type="question-title">Quod Pater et Filius sunt idem
+            gradus perfectionis simpliciter et sunt idem gradus indivisibilis</head>
+          <p xml:id="ppra-l57-suqiei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-suqiei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-suqiei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-suqdsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-suqdsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-suqdsp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-eqspct">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-eqspct"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-eqspct"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-iioepa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-iioepa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-iioepa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-isinea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-isinea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-isinea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-isqfee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-isqfee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-isqfee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-ipnips">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-ipnips"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-ipnips"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e347">
+          <head xml:id="ppra-l57-Hscpvem">Septimum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e352" type="question-title">Productio personarum divinarum
+              <unclear>naturam</unclear> poni <unclear>potentialitatem</unclear> successivam vel
+            etiam mutationem</head>
+          <p xml:id="ppra-l57-scpidi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-scpidi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-scpidi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-eqsecv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-eqsecv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-eqsecv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l57-Dd1e379">
+          <head xml:id="ppra-l57-Hocltae">Octavum corollarium</head>
+          <head xml:id="ppra-l57-Hd1e384" type="question-title">Licet divina essentia sit ad intra
+            communicabilis, non tamen ad extra</head>
+          <!-- doesn't seem present 
+              <p xml:id="ppra-l57-oclpam">
+              Octavum corollarium: 
+              licet divina essentia sit ad 
+              intra communicabilis, 
+              non tamen ad extra. 
+              Istud tamen corollarium dimitto 
+              declarandum pro aliis materiis.
+            </p>-->
+          <p xml:id="ppra-l57-cpuicp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-cpuicp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-cpuicp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l57-unqspc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l57-unqspc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-unqspc"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l57-Dxxyy1">
+        <head xml:id="ppra-l57-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l57-axxyy3">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy3"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy3"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy4">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy4"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy4"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy5">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy5"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy5"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy6">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy6"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy6"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy7">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy7"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy7"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy8">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy8"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy8"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l57-axxyy9">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l57-axxyy9"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l57-axxyy9"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

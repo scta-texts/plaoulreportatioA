@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 71 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 71 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-20">July 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio71">
+        <head xml:id="ppra-l71-Hldtldt">Lectio 71, de Trinitate</head>
+        <div xml:id="ppra-l71-Dd1e109">
+          <head xml:id="ppra-l71-Hdarfer">Duae aliae rationes quod Deum posse formaliter influere se fundant et responsiones</head>
+            <p xml:id="ppra-l71-sqspio">
+              <lb ed="#P" n="55"/>Consequenter restant adhuc duae rationes ad solvendum 
+            </p>
+          <div xml:id="ppra-l71-Dd1e117">
+            <head xml:id="ppra-l71-Hprprpr">Prima ratio</head>
+            <p xml:id="ppra-l71-pefciae">
+              <pc type="pilcrow"/> Ad primam quando dicebatur forma non habet aliquam 
+              <lb ed="#P" n="56"/>habitudinem ad materiam quae dicit informationem qua educitur de potentia materiae <pc type="punctus"/> 2a quia inhaeret <pc type="punctus"/> 3a quia dependet et deus dicitur <pc type="punctus"/>
+              <pb ed="#P" n="75-r"/>
+              <lb ed="#P" n="1"/>in hoc non genere vicem formae quia hoc denotat imperfectionem modo deo omnis perfectio competit <pc type="punctus"/> 
+              <lb ed="#P" n="2"/>In hoc tamen anima sive forma perfectionem habet quia bonitatem alteri communicat igitur sequitur quod huiusmodi habitudo non repugnat deo 
+            </p>
+          </div>
+          <div xml:id="ppra-l71-Dd1e126">
+            <head xml:id="ppra-l71-Hsrsrsr">Secunda ratio</head>
+            <p xml:id="ppra-l71-srence">
+              <lb ed="#P" n="3"/><pc type="pilcrow"/> 2a ratio est quod divina essentia potest minore potentiam perceptivo creatam in eadem proportione in qua deus movet <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l71-Dd1e135">
+            <head xml:id="ppra-l71-Hrapapr">Responsio ad primam rationem</head>
+            <p xml:id="ppra-l71-hreqfn">
+              <pc type="pilcrow"/> Unde 
+              <lb ed="#P" n="4"/>respondendum est quod ista praesupponit aliqua quae facilissime negantur
+            </p> 
+            <p xml:id="ppra-l71-qapdpm">
+              <pc type="pilcrow"/> Quantum ad primum concedendum est quod stat habitudinem 
+              <lb ed="#P" n="5"/>esse absque hoc quod educatur de potentia materiae subiectae <pc type="punctus"/> sicut de anima intellectiva patet quae non educitur patet quae non educitur de potentiae materiae <pc type="virgula">/</pc> etiam
+              <lb ed="#P" n="6"/>de accidentibus supernaturalibus  
+            </p> 
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l71-sdaehd">
+              <pc type="pilcrow"/> dicitur tamen quod probabiliter potest dici quod inhaesio et dependentia et <del rend="strikethrough">aliqualis</del> actualis formatio ad
+              <lb ed="#P" n="7"/>subiectum Ista sunt de integritate influxus formalis <pc type="punctus"/> et ideo quod supponit huiusmodi habitudines esse separabiles ipse 
+              <lb ed="#P" n="8"/>praesupponit ideo negatur sibi Et hoc ymaginatur <del rend="strikethrough">sit</del> quod inhaerere sit omnino informare et tunc non essent habitudines 
+              <lb ed="#P" n="9"/>distinctae
+            </p>
+            <p xml:id="ppra-l71-sdqsip">
+              <pc type="pilcrow"/> Etiam dato hoc quod non sint distinctae nihilominus sunt partes integrantes influxum formalem Et si 
+              <lb ed="#P" n="10"/>sequestrentur ponamus quod deus suppleat actum  
+            </p> 
+            <p xml:id="ppra-l71-rqetif">
+              <pc type="virgula">/</pc> Respondendum est quod non reintegraretur influxus ex informatione 
+              <lb ed="#P" n="11"/>sic sumpta nec sumerentur denominationes concretivae et sic non probat
+            </p>
+          </div>
+          <div xml:id="ppra-l71-Dd1e162">
+            <head xml:id="ppra-l71-Hrasasr">Responsio ad secundum rationem</head>
+            <p xml:id="ppra-l71-asrdnp">
+              <pc type="pilcrow"/> Ad 2am rationem divina essentia potest movere 
+              <lb ed="#P" n="12"/>potentiam perceptivam creatam in eadem proportione in qua deus movet igitur etc negatur quod in eodem genere motionis nam 
+              <lb ed="#P" n="13"/>talis reducitur ad causalitatem formalem <pc type="virgula">/</pc> et in tali deus non potest concurrere <pc type="punctus"/> <pc type="pilcrow"/> unde praesupponit quod reducatur ad 
+              <lb ed="#P" n="14"/>genus causae efficientis et hoc sibi negatur sed forte diceretur quod ad genus causae efficientis tamquam in notiori <pc type="punctus"/> et ideo si 
+              <lb ed="#P" n="15"/>intelligatur de motione effectiva deus potest si formali deus no potest et hoc de rationibus 
+            </p> 
+            <p xml:id="ppra-l71-eumeif">
+              <pc type="pilcrow"/> Sed ut habeatur 
+              <lb ed="#P" n="16"/>alterius positionis ymaginatio notandum est primo quod pono differentiam inter potentiam vitalem et influxum formalem 
+            </p> 
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l71-udnmce">
+              <lb ed="#P" n="17"/><pc type="pilcrow"/> Unde humanitas secundum eos diceretur formalis influxus nam caro christi in triduo scilicet resurrectione recipiebat influxum 
+              <lb ed="#P" n="18"/>formaliter licet non unita et licet formaliter non tamen vitaliter et <unclear>cognitive</unclear> Unde concedant aliqua correlaria
+              <lb ed="#P" n="19"/>subsequentia
+            </p>
+            <p xml:id="ppra-l71-peqevi">
+              <pc type="pilcrow"/> Primum igitur correlarium est <c>a</c> eset deus ergo <c>a</c> intelligit <pc type="punctus"/> vel cognoscit vel etc non valet consequentia quia de 
+              <lb ed="#P" n="20"/>materia prima et de carne christi quae denominatur deus propter habitudinem fore <pc type="punctus"/> quia vitalis habitudo est quo ad hoc 
+              <lb ed="#P" n="21"/>inpertinens <pc type="punctus"/> nam etiam non valet ista consequentia <c>a</c> est anima igitur <c>a</c> est deus et sic est differentia lata inter influxum 
+              <lb ed="#P" n="22"/>formaliter et vitalem <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l71-sqpdsc">
+              <pc type="pilcrow"/> Item hoc non valet <c>a</c> est intellectivo ergo potest intelligere Et sequitur ex eorum principiis 
+              <lb ed="#P" n="23"/>nam licet concederetur de carne christi quod esset deus nihilomnius materia prima non efficeretur potentia perceptiva intrinsece licet extrinsece 
+              <lb ed="#P" n="24"/>sed denominationem concretivum Et ideo proportionaliter est loquendum sicut diceremus materia prima est animata igitur vivit <pc type="virgula">/</pc> consequentia non valet 
+              <lb ed="#P" n="25"/>quia non potest esse vivens et sic est una affirmativecuius etc <pc type="punctus"/> Sed ibi sumitur quaedam <unclear>significando</unclear> Et ita dicitur quod quod materia prima 
+              <lb ed="#P" n="26"/>est intellectiva et tamen non intelligit et sic de multis aliis
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l71-Dd1e209">
+          <head xml:id="ppra-l71-Hdiheif">Differentia inter habitudinem vitalem immutationem et influxum formalem</head>
+          <p xml:id="ppra-l71-uchpad">
+            <pc type="pilcrow"/> Unde circa huiusmodi habitudines ponunt 
+            <lb ed="#P" n="27"/>aliquales differentias  
+          </p>
+          <p xml:id="ppra-l71-peqesd">
+            prima est quod formabile dicit nullam penitus perfectionem nec aliquod positivum patet quia esse formale
+            <lb ed="#P" n="28"/>dicit magis potentiam passivam quam activam quia quaelibet res est infinite formalis nec dicit aliquod positivum quia tunc 
+            <lb ed="#P" n="29"/>quaelibet res diceret aliquod positivo <pc type="virgula">/</pc> Econtra est de esse <del rend="strikethrough">positivo</del> vitali 
+          </p>
+          <p xml:id="ppra-l71-sdqicc">
+            <pc type="virgula">/</pc> Et sic differunt quia conditio percipiendi vitaliter 
+            <lb ed="#P" n="30"/>est limitata competens creaturae Esse autem formale infinite competit 
+          </p>
+          <p xml:id="ppra-l71-tqpria">
+            <pc type="punctus"/> sed per informationem communicatur esse 
+            <lb ed="#P" n="31"/>intrinsecum ipsi formali non autem secundum eos per esse actuativum vitaliter
+          </p>
+          <p xml:id="ppra-l71-qidnhi">
+            <pc type="punctus"/> Alia conditio Illa quae communicantur 
+            <lb ed="#P" n="32"/>formali per prius competunt formae in abstracto ut anima per se est vivens quam constituit aliquod compositum 
+            <lb ed="#P" n="33"/>rationale non sic de visibili ymmo per posterius visibilis patet ergo quod anima non est formalis sed recipit denominationem 
+            <lb ed="#P" n="34"/>a potentia in comparatione ad obiectum nam in quantum recipit cognitionem recipit in hoc denominationem et sic contraria est habitudo quo 
+            <lb ed="#P" n="35"/>ad hoc
+          </p>
+          <p xml:id="ppra-l71-qdqppm">
+            <pc type="pilcrow"/> Alia differentia <pc type="punctus"/> forma quae communicatur sicut communicat per intrinsecam formalitatem secundum plenitudinem quod se totam communicat <pc type="virgula">/</pc> Alia anima remissius 
+            <lb ed="#P" n="36"/>et intensius 
+          </p>
+          <p xml:id="ppra-l71-eiaeep">
+            Et sic patet quid dicendum <pc type="pilcrow"/> Nihilominus probabilior positio et magis cum divina simplicitate concors 
+            <lb ed="#P" n="37"/>esset negans a deo omnem distinctionem formalitatum et radix ad multa solvenda Est ex immensa et divina perfectione
+          </p> 
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l71-erioro">
+            <pc type="pilcrow"/> Unde nullam in deo distinctionem concedere debemus nisi fides nos ad hoc astringat nisi personalem 
+            <lb ed="#P" n="38"/>tantummodo quantum ad fidem <pc type="virgula">/</pc> et <del>unione</del> ypostaticam quantum ad unionem Et hoc videtur velle <name>ancelmus</name> ubi 
+            <lb ed="#P" n="39"/>dicit quod non est quid ponendum contra maxime ubi fidei dissonare videtur sunt verba quae consona
+          </p>
+        </div>
+        <div xml:id="ppra-l71-Dd1e255">
+          <head xml:id="ppra-l71-Hcdrdri">Circa distinctio rationum idealium</head>
+          <div xml:id="ppra-l71-Dd1e260">
+            <head xml:id="ppra-l71-qdrine">Quod distinctio rationum idealium neganda est</head>
+            <p xml:id="ppra-l71-sqisre">
+              <pc type="pilcrow"/> Sequitur 
+              <lb ed="#P" n="40"/>ulterius quod in deo neganda est in deo ratio formarum ydealium 
+            </p>
+            <p xml:id="ppra-l71-dtcced">
+              <pc type="pilcrow"/> Unde difficultas consistit in talibus 
+              <lb ed="#P" n="41"/>modum duobus  
+            </p>
+            <p xml:id="ppra-l71-peeuta">
+              primo ex auctoritate doctorum nam alia ratione factus est homo <pc type="virgula">/</pc> et alia equus
+            </p>
+            <p xml:id="ppra-l71-seanvc">
+              <pc type="virgula">/</pc> 2o ad salvandum 
+              <lb ed="#P" n="42"/>diversitatem specierum producibilium quia una res se habens adaequate simpliciter possit diversas res producere
+            </p>
+            <p xml:id="ppra-l71-qaipsd">
+              <pc type="pilcrow"/> Sed tamen 
+              <lb ed="#P" n="43"/>quantum ad istam materiam <pc type="virgula">/</pc> si considerentur bene duo principia alias dicta facilissime solverentur
+            </p>
+            <p xml:id="ppra-l71-ueiseu">
+              <pc type="pilcrow"/> primum est immensitas 
+              <lb ed="#P" n="44"/>divinae essentiae ex qua consurgunt quod omnis conceptus unibiles possunt in deo concurrere unitive ratione ipsius 
+              <lb ed="#P" n="45"/>immensitatis summae Et sic erit conceptus sine concursu unitivus repraesentans omnia singulariter 
+            </p> 
+            <p xml:id="ppra-l71-ephdec">
+              Et per idem 
+              <lb ed="#P" n="46"/>salvaretur quod esset causans divina artificia Et sic ex arte immensissima concurrit ad hoc Et ex hoc 
+              <lb ed="#P" n="47"/>consurgit quod ratione immensitatis et suae libertatis potest agere et non agere scilicet producere sortem vel non 
+              <lb ed="#P" n="48"/>et sic unica in deo ponenda est ydea <pc type="punctus"/> <pc type="pilcrow"/> Tamen respectu effectuum ponitur et sic est denominatio causalis sicut dicimus 
+              <lb ed="#P" n="49"/>quod sol est causandus ita deus plures ydeae id est plurium ydearum effectivus
+            </p>
+          </div>
+          <div xml:id="ppra-l71-Dd1e319">
+            <head xml:id="ppra-l71-Hodcdri">Opiniones Doctorum circa distinctionem rationum idealium</head>
+            <p xml:id="ppra-l71-pmdsod">
+              <pc type="pilcrow"/> Unde pro maiori declaratione sunt 
+              <lb ed="#P" n="50"/>videndae auctoritates doctorum 
+            </p>
+            <div xml:id="ppra-l71-Dd1e327">
+              <head xml:id="ppra-l71-Hoaoaoa">Opinio Augustini</head>
+              <p xml:id="ppra-l71-uneirf">
+                Primo advertendum est quod <ref xml:id="ppra-l71-Rd1e336" corresp="#ppra-l71-QX1e336"><name ref="#Augustine">augustinus</name> dicti libro <title ref="#deDiversisQuaestionibus">de <sic>octaginta</sic> quaestionibus capitulo 34to</title></ref> quod <quote xml:id="ppra-l71-QX1e336" source="http://scta.info/resource/a83-q46-d1e111@1-43" type="paraphrase">ydea valet tot 
+                <lb ed="#P" n="51"/>sicut forma <pc type="punctus"/> et non sicut ratio <pc type="punctus"/> non obstante possumus uti ratione pro ea</quote>
+              </p>
+              <p xml:id="ppra-l71-uapilp">
+                <pc type="virgula">/</pc> 2o ponit ydearum esse divisione
+              </p>
+              <p xml:id="ppra-l71-peqsqa">
+                <pc type="pilcrow"/> Prima est 
+                <lb ed="#P" n="52"/>conditio quod ydea est quid actuale et ex hoc infertur quod esse quod habet in materia ante productionem <pc type="punctus"/>
+                <lb ed="#P" n="53"/>non est eius ydea <pc type="punctus"/> quia est de ratione quod sit quid actuale <pc type="punctus"/>
+              </p>
+              <p xml:id="ppra-l71-scqeri">
+                <pc type="pilcrow"/> 2a quod sit quid intelligibile et per hoc excluditur quod 
+                <lb ed="#P" n="54"/>in agentibus ratio producendi non est ydea <pc type="punctus"/> producibilium 
+              </p>
+              <p xml:id="ppra-l71-tcifse">
+                <pc type="pilcrow"/> 3a quod ydea debet esse quid factivum <pc type="punctus"/> ydeati et per hoc excluditur quod anima 
+                <lb ed="#P" n="55"/>in esse suo non est ydea <pc type="punctus"/> cuius oppositum <ref xml:id="ppra-l71-Rd1e367"><name ref="#Ockham">okam</name></ref> et <ref xml:id="ppra-l71-Rd1e377"><name ref="#Durandus">durandus</name></ref> ponit quia non est factiva sui esse
+              </p>
+              <p xml:id="ppra-l71-qcieia">
+                <pc type="pilcrow"/> 4a quod ydea 
+                <lb ed="#P" n="56"/>debet esse quid <unclear>incommunicabile</unclear> et per hoc excluditur esse quod creatura habet in intellectu nostro quaestione hunc speciem et conceptus
+              </p>
+              <p xml:id="ppra-l71-qciapi">
+                <lb ed="#P" n="57"/><pc type="pilcrow"/> 5a quod debet esse quid primum et principale <pc type="virgula">/</pc> et per hoc excluditur esse quod habet creatura in intelligentiis et motorem orbis
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l71-uvsvip">
+                <pb ed="#P" n="75-v"/>
+                <lb ed="#P" n="1"/>Etiam intelligentiae namque sunt principales respectu ydealium quaedam formae quoad primam rationes rerum quantum ad 2am 
+                <lb ed="#P" n="2"/>operationes quo ad 3am <unclear>incommutabiles</unclear> quo ad 4am quia <sic>ipsa</sic> formatae non sunt neque <sic>intericant</sic> <pc type="punctus"/> secundum tamen eas 
+                <lb ed="#P" n="3"/>dicitur quod intelligi possunt 
+              </p>
+              <p xml:id="ppra-l71-eeiqei">
+                <pc type="virgula">/</pc> Et ex istis conditionibus positis apparet quod ydeae non sunt res ad extra <pc type="punctus"/> sed 
+                <lb ed="#P" n="4"/>ipsemet deus sufficiens ad effectus productionem <pc type="punctus"/> Et sic per quamdam similitudinem vocantur ydeae sicut domus 
+                <lb ed="#P" n="5"/>materialis a domo quae est in mente artificis
+              </p>
+            </div>  
+            <div xml:id="ppra-l71-Dd1e432">
+              <head xml:id="ppra-l71-Hooeoed">Opinio Okam et Durandi</head>
+              <p xml:id="ppra-l71-unedri">
+                <pc type="pilcrow"/> Advertendum est tamen quod <ref xml:id="ppra-l71-Rd1e441"><name ref="#Ockham">okam</name></ref> et <ref xml:id="ppra-l71-Rd1e451"><name ref="#Durandus">durandus</name></ref> ponunt ideas 
+                <lb ed="#P" n="6"/>esse ipasamet creaturas artes factibiles nam alia ratione factus homo et alia ratione equus et hoc non potest poni in 
+                <lb ed="#P" n="7"/>mente divina igitur ad extra Cuius causa est nam divina essentia concipiens res secundum suam rationem quiditativa 
+                <lb ed="#P" n="8"/>vocatur ydea secundum eius propriam acceptionem <pc type="punctus"/> et ratione suae quidditatis et quod secundum eam sit ab eo producibilis 
+                <lb ed="#P" n="9"/>obiciatur deo tamquam factibilis ad extra Et ponunt pluralitatem ydearum et salvant <name>augustinum</name> et dicuntur 
+                <lb ed="#P" n="10"/>aliud est obiectum unius et aliud alterius
+              </p>
+              <p xml:id="ppra-l71-svqnsc">
+                <pc type="pilcrow"/> Sed si inspiciatur processus eorum vadunt potius contra eum quam salveret 
+                <lb ed="#P" n="11"/><pc type="pilcrow"/> Unde dicit quod sine ydeis nemo fit sapiens <pc type="punctus"/> et in hiis est felicitas <pc type="punctus"/> modo non sunt in 
+                <lb ed="#P" n="12"/>creaturis
+              </p>
+              <p xml:id="ppra-l71-siipfc">
+                <pc type="pilcrow"/> Item videtur quoddam modo supponere quod divina ars sit posterior ad obiecta factibilia et dependeat et 
+                <lb ed="#P" n="13"/>pirus quam res sit in se factibilis sed tamen divina ars est prima
+              </p>
+              <p xml:id="ppra-l71-tnoigc">
+                <pc type="pilcrow"/> <sic>2o</sic> oportet fingere tales quia doctores utuntur 
+                <lb ed="#P" n="14"/>formis causarum <pc type="punctus"/> et sic non oportet hoc dicere <pc type="virgula">/</pc> quia ydea <subst><del rend="expunctuation">fit</del> <add place="in-line">est</add></subst> ars <pc type="punctus"/> modo creatura non est ars <pc type="punctus"/> ideo etc
+              </p>
+            </div>
+            <div xml:id="ppra-l71-Dd1e493">
+              <head xml:id="ppra-l71-Hodrodr">Opinio De Rippa</head>
+              <p xml:id="ppra-l71-aeoipd">
+                <pc type="pilcrow"/> Alia 
+                <lb ed="#P" n="15"/>oppinio est de rippa <pc type="punctus"/> nam dicit quod sicut sunt diversae creaturae ita diversae formalitates et non effective res 
+                <lb ed="#P" n="16"/>sed repraesentative Et tunc ymaginatur aliud quod sunt factivae practicae et distinctae ab aliis
+              </p>
+            </div>
+            <div xml:id="ppra-l71-Dd1e513">
+              <head xml:id="ppra-l71-Hosiosi">Opinio Scoti</head>
+              <p xml:id="ppra-l71-upesds">
+                <pc type="pilcrow"/>Prima oppinio est <ref xml:id="ppra-l71-Rd1e522"><name ref="#Scotus">scoti</name></ref> 
+                <lb ed="#P" n="17"/>quae videtur quasi salvare platonicam oppinionem
+              </p> 
+              <p xml:id="ppra-l71-ipsaau">
+                <pc type="pilcrow"/> Unde idem <name>de rippa</name> dicit quod in divina essentia sunt quasi suo 
+                <lb ed="#P" n="18"/>signa <pc type="punctus"/> unde in primo divina essentia praesentatur intellectui ut species intelligibilis sui ipsius tamquam 
+                <lb ed="#P" n="19"/>species primaria et ymaginatur quod intellectus paternus tali notitia producit verbum 
+              </p> 
+              <p xml:id="ppra-l71-diidip">
+                <pc type="pilcrow"/> Deinde quod 2ariam obiciatur 
+                <lb ed="#P" n="20"/>intellectui respectu 2aria obiecti <pc type="punctus"/> <unclear>respectis</unclear> ad creaturas <pc type="punctus"/> et in isto signo ymaginatur quod quod producat 
+                <lb ed="#P" n="21"/>aliud verbum expressimum creaturis ydentitatum scilicet essentialiter et illud secundum verbum vocat ydeas et est esse creaturarum 
+                <lb ed="#P" n="22"/>ab aeterno productum a deo et est ydeae creaturarum quia sunt creaturae productae quot etc
+              </p>
+              <p xml:id="ppra-l71-ipeidf">
+                <pc type="pilcrow"/> Sed ista est mirabilis 
+                <lb ed="#P" n="23"/>positio et difficilis sed tamen iste modus non videtur necessarius <pc type="punctus"/> nam in hoc recurrendum est ad dei immensitatem 
+              </p> 
+              <p xml:id="ppra-l71-eicies">
+                <lb ed="#P" n="24"/><pc type="pilcrow"/> Et arguitur contra <pc type="virgula">/</pc> quoniam si sic multa sequerentur inconvenientia <pc type="pilcrow"/> Primo trinitas sufficit se sola igitur non oportet ponere 
+                <lb ed="#P" n="25"/>illud verbum tamquam medium consequentia tenet antecedens patet nam illud non esset causa sufficiens
+              </p>
+              <p xml:id="ppra-l71-sqseca">
+                <pc type="pilcrow"/> Item esset paternitas in 
+                <lb ed="#P" n="26"/>divinis patet nam illud verbum est productum et per consequens a deo distinctum patet per <name>augustinum</name> dicentem quod nihil producit seipsum 
+                <lb ed="#P" n="27"/>modo si sui distingueretur igitur etc
+              </p>
+              <p xml:id="ppra-l71-tqsfaa">
+                <pc type="pilcrow"/> Item sequeretur infinitas rerum realiter ab aeterno productarum <pc type="virgula">/</pc> nam quaelibet 
+                <lb ed="#P" n="28"/>res est ab alia distincta <pc type="punctus"/> sed realiter distinguitur a deo <pc type="virgula">/</pc> nam tanta unius ydeae ab alia est distantia quanta ydeae 
+                <lb ed="#P" n="29"/>a deo igitur
+              </p>
+              <p xml:id="ppra-l71-qpisid">
+                <pc type="pilcrow"/> Item ponere in deo plures productiones ab intra periculosum est valde ymmo fides 
+                <lb ed="#P" n="30"/>non admittit 
+              </p>
+              <p xml:id="ppra-l71-qipisp">
+                <pc type="pilcrow"/> Item hoc non salvat <name>augusitnum</name> sed potius contra eum <pc type="virgula">/</pc> nam in ipsis ponitur beatitudo et sic pater 
+                <lb ed="#P" n="31"/>in istis beatificaretur et cum sit quod ab ipso distinctum sequeretur quod ad extra beatificaretur quod videtur 
+                <lb ed="#P" n="32"/>absurdam
+              </p> 
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l71-epctme">
+                <pc type="pilcrow"/> Sed quid <del rend="strikethrough">A</del> dicendum Ad summam dei simplicitatem et immensitatem est recurrendum et hoc est superius dictum
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l71-Dxxyy1">
+          <head xml:id="ppra-l71-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l71-axxyy3">
+            <lb ed="#P" n="33"/><pc type="pilcrow"/> Sequitur conclusio prima supra distinctionem 21am 2i sententiarum quae est quod Invidia dyaboli fuit causa praevaricationis <name>adae</name> <pc type="punctus"/> unde
+            <lb ed="#P" n="34"/>notandum est quia maximam invidiam habuit ut homo de tam <unclear>virili</unclear> materia creatus ascenderet unde per superbiam <unclear>corr?it</unclear> 
+          </p>
+          <p xml:id="ppra-l71-axxyy4">
+            <lb ed="#P" n="35"/><pc type="pilcrow"/> 2a conclusio dyabolus sub specie secundum parentis mulierem decepit <pc type="punctus"/> unde notandum quod secundum <name>bedam</name> serpens <del rend="strikethrough">tunc</del> vultum 
+            <lb ed="#P" n="36"/>habebat virgineum <pc type="virgula">/</pc> quapropter mulier intuens eum propter mulieris similitudinem cicius sibi credidit 
+            <lb ed="#P" n="37"/>quamobrem hostis humani generis in eo cicius latui
+          </p>
+          <p xml:id="ppra-l71-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio Temptatio fuit nimis gravis ex 
+            <lb ed="#P" n="38"/>eo et in tantum quod mulier ab alio quam serpentem incitamentum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l71-axxyy6">
+            <pc type="pilcrow"/> 4a homines fuerunt in tali statu <unclear>positi</unclear> 
+            <lb ed="#P" n="39"/>quod non potuerunt etc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 29 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 29 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-08">May 08, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="50-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio29">
+        <head xml:id="ppra-l29-Hldnldn">Lectio 29, de Notitia</head>
+        <div xml:id="ppra-l29-Dd1e3491">
+          <head xml:id="ppra-l29-Hudesdp">Utrum 'Deus esse' sit demonstrabile: praefatio</head>
+          <p xml:id="ppra-l29-pesice">
+            <pb ed="#P" n="50-r"/>
+            <lb ed="#P" n="1"/>Consequenter nunc restat videre de 5o articulo in quo debemus videre utrum deum esse 
+            <lb ed="#P" n="2"/>sit demonstrabile et hoc excludendo statu beatorum <pc type="pilcrow"/> Ex quibus non est dubium quin ex ipsis 
+            <lb ed="#P" n="3"/>in qua evidenti sequatur et concludi possit quod deus est licet sit primum principium et talis demonstratio 
+            <lb ed="#P" n="4"/>non facit scire de novo quod deus sit <pc type="pilcrow"/> Sed utrum possit acquirere aliquam notitiam scientificam quod deus 
+            <lb ed="#P" n="5"/>est <pc type="pilcrow"/> Circa hoc possent esse duo modi utrum beati possint concludere quod deus est et vi illius 
+            <lb ed="#P" n="6"/>processus acquirere novam notitiam Et circa hoc possnet distingui quia vel talis processus esset 
+            <lb ed="#P" n="7"/>ex notitiis in verbo vel in proprio genere iuta potentia per lumen gloriae et utroque modo potest 
+            <lb ed="#P" n="8"/>dici probabiliter quod sic scilicet quod ex notitiis in verbo beati possint evidenter elicere et demonstrare 
+            <lb ed="#P" n="9"/>notitiam scientificam quod deus est praeter notitiam beatificam quam habet nunc haec videtur repugnare <pc type="punctus"/> quia licet 
+            <lb ed="#P" n="10"/>beatitudo essentialis sit invariabilis et notitia beatifica in eis nec augeatur nec diminuantur quantum 
+            <lb ed="#P" n="11"/>tamen ad accidentalem non est inconveniens hoc ponere et licet non ponam tamen sufficit illa de possibili 
+          </p>
+          <p xml:id="ppra-l29-spenad">
+            <lb ed="#P" n="12"/>2o possunt ex notitiis in proprio et specialiter iuti lumen gloriae nec huiusmodi scientia in proprio 
+            <lb ed="#P" n="13"/>genere et beatitudo sunt incompossibiles sicut nec visio claratur aenigmatica ut alias dixi ymmo <unclear>causando</unclear> demonstrationem 
+            <lb ed="#P" n="14"/>pro evidenti notitia de praemissis et consequentia evidenti et <unclear>demonstrata</unclear> illatione quod huiusmodi praemissae sunt evidenter 
+            <lb ed="#P" n="15"/>inferentes conclusionem <pc type="punctus"/> sic deus se cognoscat se demonstrabilem non <unclear>notitive</unclear> vel discursive sibi <pc type="punctus"/> ymmo 
+            <lb ed="#P" n="16"/>potest concedi quod ipse est notitia formaliter demonstrativa quod ipse est deus quod cognoscit aequivalenter complexe 
+            <lb ed="#P" n="17"/>affirmative et sic non videtur quin possit esse evidens notitia aequivalenter demonstrativa de ipso 
+          </p>
+          <p xml:id="ppra-l29-niitlg">
+            et ergo 
+            <lb ed="#P" n="18"/>non intelligitur <unclear>quod</unclear> statu beatorum <pc type="virgula">/</pc> quia non esset dubium quin possent <subst><del>cari</del> <add place="above-line">tam</add></subst> ex notitiis in verbo 
+            <lb ed="#P" n="19"/>quam in proprie gnere iuvante lumine gloriae
+          </p>
+          <p xml:id="ppra-l29-ndeais">
+            <pc type="pilcrow"/> Etiam de statu <subst><del rend="strikethrough">gce</del> <add>innocentiae</add></subst> non reputatur dubium et nedum theologicae
+            <lb ed="#P" n="20"/>ymmo et in puro lumine naturale quia utroque modo potuit fieri lumen naturale <unclear>iuvare</unclear> iuvabatur 
+            <lb ed="#P" n="21"/>etiam ubi non concurrebat huiusmodi <unclear>iuv?um</unclear>
+          </p>
+          <p xml:id="ppra-l29-nvhqde">
+            nam et <ref xml:id="ppra-l29-Rd1e368"><name ref="#HughOfStVictor">hugo de sancto victore</name> in libro de <title>sacramentis</title></ref>
+            <lb ed="#P" n="22"/>de hoc complexo deus est ymmo et de illo deus est trinus et unus primus parens potuit habere 
+            <lb ed="#P" n="23"/>notitiam deum essendi trinum et unum videlicet ex dei ymagine in ipso relucente
+          </p>
+          <p xml:id="ppra-l29-inrsid">
+            <pc type="pilcrow"/> Item non revocatur 
+            <lb ed="#P" n="24"/>in dubium deum esse demonstrabile substantiis suis perfectis sive perfectioribus a superioribus 
+          </p>
+          <p xml:id="ppra-l29-idnvie">
+            et sic quo ad hoc 
+            <lb ed="#P" n="25"/>doctores non revocarunt in dubium scilicet angelus ratione vivantis ingenii <unclear>potest</unclear>
+          </p>
+        </div>
+        <div xml:id="ppra-l29-Dd1e4131">
+          <head xml:id="ppra-l29-Hudesnl">Utrum Deum esse sit demonstrabile in lumine naturali in statu
+            naturae lapsae?</head>
+          <p xml:id="ppra-l29-eissnl">
+            <pc type="pilcrow"/> Sed est dubium 
+            <lb ed="#P" n="26"/>utrum in statu naturae lapsae <pc type="punctus"/>
+          </p>
+          <div xml:id="ppra-l29-Dd1e4148">
+            <head xml:id="ppra-l29-Hpcpcpc">Conclusio prima</head>
+            <p xml:id="ppra-l29-cqmame">
+              <pc type="pilcrow"/> et de hoc sunt aliquae conclusiones ponendae quarum prima sit talis naturalis 
+              <lb ed="#P" n="27"/>investigatio humana <pc type="punctus"/> ex lumine naturali praecise <pc type="punctus"/> non includeret <unclear>universaliter</unclear> deum esse ista conclusio 
+              <lb ed="#P" n="28"/>est satis praetacta ubi dictum est de fragilitate humanae naturae et de primis phantasmatibus 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l29-upcdsi">
+              et in processu 
+              <lb ed="#P" n="29"/>iudaeorum semper aliquid imperfectum invenitur deo repugnans 
+              <pc type="pilcrow"/> Sed tamen de istis excluduntur <name>aristoteles</name> et <name>plato</name>
+            </p>
+          </div>
+          <div xml:id="ppra-l29-Dd1e4503">
+            <head xml:id="ppra-l29-Hcscscs">Conclusio Secunda</head>
+            <p xml:id="ppra-l29-scdnaf">
+              <lb ed="#P" n="30"/> <pc type="pilcrow"/> Alia est conclusio 2a scilicet deum esse est theologice demonstrabile sicut dictum est patet per omnes antiquos doctores 
+              <lb ed="#P" n="31"/>et maxime per <name>aristotelem</name> in multis locis 
+            </p>
+            <!--<p xml:id="ppra-l29-uaefhd">
+              Ubi advertendum est quod aliquid dicitur demonstrabile esse in
+              ordine ad aliquam potentiam, cui apta
+              <pb ed="#V" n="61-r"/>
+              <cb ed="#V" n="a"/>
+              nata sit fieri huiusmodi demonstratio.
+            </p>
+            <p xml:id="ppra-l29-snepsi">
+              Secundo notandum est quod demonstratio non debet censeri
+              demonstratio, nisi respectu potentiae debito modo dispositae. Unde ad assentiendum,
+              utrum A sit processus demonstrationis respectu potentiae intellectivae humanae, non
+              est considerandum, utrum 
+                pure
+              sit demonstratio vel infanti vel dementi carenti 
+              usu rationis vel rudimento ingenio
+              <pb ed="#R" n="49-r"/>
+              <cb ed="#R" n="a"/>
+              vel notabiliter laeso in suis naturalibus. 
+              Et causa subest nam
+              demonstrationes mathematicae, 
+              quae sunt certissimae demonstrationes, 
+                non possunt eis esse demonstrationes
+              . 
+              Et ideo non in comparatione ad eos debet iudicare, 
+              utrum aliqua ratio sit
+              demonstrativa vel non, 
+              ita quod breviter, 
+              pones intellectum male dispositum, 
+                non debet attendi, 
+                  utrum aliqua ratio sit demonstrativa vel non, sed penes
+                  intellectum bene dispositum
+                sit demonstratio
+              virtutis tangit <name ref="#Aristotle">Philosophus</name> 
+              quia non dedit nobis
+              aliam regulam, 
+              nisi considerando iudicium sapientis in quo consistit virtus et medium
+              virtutis, 
+                ubi
+              scilicet 
+                et
+              prout sapiens iudicabit.
+            </p>
+            <p xml:id="ppra-l29-ahqsee">
+              Advertendum hic quod 
+                <ref xml:id="ppra-l29-Rd1e934">
+                  <name ref="#Boethius">Boethius</name> 
+                  in libro 
+                  <title ref="#deHebdomadibus">De Ebdomandibus</title></ref>
+              ponit unam distinctionem,
+              scilicet quod duplex est <unclear>omni[?]</unclear> conceptio. 
+              Una talis quod 
+                quicumque
+              probat eam auditam, 
+              id est, 
+              approbat illam ut quod totum est maius sua parte
+              . 
+              Alia est quae est communis apud omnes sapientes, ut spiritualia non esse in
+              loco est unum principium apud intellectum bene dispositum et elevatum, ita
+              proportionaliter in materia praesenti quod
+              aliquid esse demonstrativum, 
+               vel ad iudicandum aliquid esse demonstrativum
+              vel utrum aliquis processus sit 
+                demonstrativus
+              debet attendi pones iudicum sapientis et elevatorum.
+            </p>-->
+            <p xml:id="ppra-l29-eqalnd">
+              <pc type="punctus"/> <pc type="pilcrow"/> Sed postea sciendum est quod conclusiones theologicae sunt nobilioris 
+              <lb ed="#P" n="32"/>speciei quam philosophicae ut satis nomen est et visum <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l29-Dd1e5003">
+            <head xml:id="ppra-l29-Hpadpad">Probationes aliquorum doctorum</head>
+           <!--
+             Doesn't seem present
+             <p xml:id="ppra-l29-qecfed">
+              Quantum est circa 
+                istam
+              materiam valde diffuse et expresse et bene loquuntur doctores, 
+              ideo breviter transeam, quia nihil potest addi. 
+              Ideo videantur doctores in ista materia, 
+              faciam tamen aliquas 
+                rationes
+              ad probandum 'quod Deus est' quas faciunt etiam doctores.
+            </p>-->
+            <div xml:id="ppra-l29-Dd1e5046">
+              <head xml:id="ppra-l29-Hpspsps">Probatio Scoti</head>
+              <p xml:id="ppra-l29-eiafam">
+                <pc type="pilcrow"/> Arguit tamen doctor subtilis in ista materia sic 
+                <lb ed="#P" n="33"/>Aliquid est effectu nec a se nec ab alio igitur consequentia tenet <pc type="virgula">/</pc> antecedens patet primo quod non a se <pc type="virgula">/</pc> nam videmus res 
+                <lb ed="#P" n="34"/>fieri et moveri 
+              </p>
+              <p xml:id="ppra-l29-qannae">
+                modo nulla res potest producere seipsam scilicet de non esse adesse a econtra quia hoc 
+                <lb ed="#P" n="35"/>implicaret contradictionem quocumque modo prioritatis et hoc videtur velle beatus augustinus 
+                <lb ed="#P" n="36"/>loquens de hoc in libro de trinitate sed quod non ab alio patet <pc type="virgula">/</pc> quia non posset salvari quare plus modo 
+                <lb ed="#P" n="37"/>quam ante <pc type="punctus"/> vel ab isto quam ab alio
+              </p>
+              <p xml:id="ppra-l29-iieied">
+                <pc type="pilcrow"/> Aliter arguitur omne quod fit <unclear>fit</unclear> ab alio et non a se tunc sit illud <c>b</c> 
+                <lb ed="#P" n="38"/>quod fiat ab <c>a</c> arguitur sic <c>b</c> fit ab <c>a</c> et ergo sic est effectibile vel ineffectibile si primum queritur aliquo 
+                <lb ed="#P" n="39"/>si dicatur quod ab isto scilicet ab <c>a</c> tunc eadem ratione <unclear>a <c>c</c></unclear> et sic tandem deveniemus quod non efficietur ab aliquo 
+                <lb ed="#P" n="40"/>vel ab omnibus quodam est falsum si est ineffective tunc a nullo efficitur ut iam dictum est <pc type="punctus"/> <pc type="pilcrow"/> Ex quo infertur 
+                <lb ed="#P" n="41"/>quod aliqua est causa efficiens et non effecta
+              </p>
+              <!-- fuzzy parallel/break -->
+              <p xml:id="ppra-l29-sfdvev">
+                <pc type="pilcrow"/> Item diceretur quod esset processus in infinitum in essentialiter 
+                <lb ed="#P" n="42"/>subordinatis sed hoc est ab aristotele reputativum
+              </p>
+              <p xml:id="ppra-l29-stdepc">
+                <pc type="pilcrow"/> Unde <name>scotus</name> arguit hoc stante et signat 
+                <lb ed="#P" n="43"/>totam effectivarum multitudinem et sit <c>a</c> Tunc sic <c>a</c> est multitudo effectivarum et tamen non est infra latitudinem 
+                <lb ed="#P" n="44"/><del rend="strikethrough">et sit <c>a</c> Tunc sic <c>a</c> est multitudo esse</del> sequitur quod proceditur in infinitum sed hoc videtur non bene stare <!-- something added or deleted here??  -->
+                <lb ed="#P" n="45"/><del rend="strikethrough">effectarum igitur etc</del>
+              </p>
+              <!--
+                Doesn't seem present
+                <p xml:id="ppra-l29-veqqde">
+                Verum est quod doctores faciunt calumnias, et forte in lectione sequenti
+                inducam quomodo possunt huiusmodi rationes calumniari. 
+                Sed solum pro
+                praesenti ponam rationes ad probandum 
+                <mentioned>quod Deus est</mentioned>.
+              </p>-->
+            </div>
+            <div xml:id="ppra-l29-Dd1e5586">
+              <head xml:id="ppra-l29-Hpdrpdr">Probatio de Ripa</head>
+              <p xml:id="ppra-l29-dripds">
+                <pc type="pilcrow"/><name ref="#Ripa">De rippa</name> etiam procedit hoc dato <pc type="pilcrow"/> unde ipse duas permittit suppositiones 
+              </p>
+              <p xml:id="ppra-l29-pseqen">
+                <lb ed="#P" n="46"/><pc type="pilcrow"/> prima est illud quod est superius semper est perfectius
+              </p>
+              <p xml:id="ppra-l29-ssqcmp">
+                <pc type="pilcrow"/> 2o supponit quod creatura tanto est perfectior quanto est inde <unclear>spenden?or</unclear>
+                <lb ed="#P" n="47"/>et hoc lumine iuto per fidem <pc type="punctus"/> quia non lumine naturali 
+              </p>
+              <p xml:id="ppra-l29-uchphd">
+                <pc type="pilcrow"/> unde res tanto est perfectior requirit perfectionem 
+                <lb ed="#P" n="48"/>maiorem 
+                
+                <pc type="pilcrow"/> unde dicit <name>augustinus</name> quod res continue producitur quoniam creatura non potest attingere gradum perfectionis quia tanto 
+                <lb ed="#P" n="49"/>plus habet adhuc non provenit ad summum <pc type="punctus"/> et tanto plus maiorem habet gradum <pc type="punctus"/> tanto plus maiorem habet 
+                <lb ed="#P" n="50"/>dependentiam 
+              </p>
+              <p xml:id="ppra-l29-ichilf">
+                <pc type="pilcrow"/> Et nota quod <name>rabi moyses</name> dicit deum esse in 3ci genere causae videlicet causae efficientis 
+                <lb ed="#P" n="51"/>formalis et simul et ad hoc iuvat lumen fidei <pc type="punctus"/> Arguitur tamen ex determinatione causarum ad terminatum effectum verbi gratia 
+                <lb ed="#P" n="52"/>multitudinem infinitarum graduum potest deus producere et quando producit unum potest producere alium et haec indifferenter ergo 
+                <lb ed="#P" n="53"/>oportet quod sit alia causa <pc type="punctus"/> et istam rationem reputo probabiliorem
+              </p>
+              <!--
+                Doesn't seem present
+                <p xml:id="ppra-l29-tisnaf">
+                Tunc istis suppositionibus habitis 
+                <name ref="#Ripa">de Ripa</name> 
+                sic procedit circa materiam istam, 
+                nam dicit ipse, dato quod 
+                  esset
+                processus in infinitum in causis, 
+                signemus infimam creaturam illius processus assumpti. 
+                Illa est dependens et non sufficit se sustentari, et quanto est
+                perfectior, tanto magis 
+                  dependens
+                et magis fluxibilis. 
+                Ergo, data tota illa latitudine, illa magis est
+                fluxibilis et maiorem habet dependentiam quam 
+                  habet
+                creatura. 
+                Data ergo indiget magis sustentari quam 
+                  huiusmodi
+                creatura, posset poni exemplum de liquore. 
+                  Si
+                esset aliquis liquor fluxibilis indigeret aliquo fixo 
+                  et firmo ipsam sustentante
+                , 
+                et si apponeretur alius liquor magis fluxibilis indigeret maiori fixo, 
+                et sic consequenter ascendendo. 
+                Ita, in proposito, non potest imaginari quin tota illa
+                latitudo fluat et pro consequens 
+                  indiget
+                aliquo fixo non fluente illam ,
+                  sustentante
+                ergo etc. 
+                  Ista
+                ratio est satis apparens theologo in lumine naturali adiuto fide.
+              </p>-->
+            </div>
+            <div xml:id="ppra-l29-Dd1e6098">
+              <head xml:id="ppra-l29-Hapapap">Aliae probationes</head>
+              <!--
+                Doesn't seem prsent
+                <p xml:id="ppra-l29-arpibd">
+                Alia ratio potest esse ex infinitate artificii. 
+                  Nam considerata subtilitate artificii
+                , 
+                et dispositione corporum caelestium, 
+                et motuum et habitudinum ipsorum,
+                et elementorum et mixtorum, 
+                et considerata
+                <cb ed="#V" n="62rb"/><!-\-V62rb-\->
+                organizatione unius parvi animalis, 
+                  ibi
+                enim sunt valde subtiles operationes et habitudines. 
+                Non enim videtur quod
+                tantum artificium 
+                  posset
+                provenire nisi a summo artifice. 
+                Et 
+                  istud
+                  indicaret
+                  esse
+                iudicium bene dispositum.
+              </p>
+              <p xml:id="ppra-l29-ipaahc">
+                Item potest argui ex 
+                  scibilitate
+                rerum obiectiva. 
+                Nam illa est infinita, ergo sibi debet correspondere
+                potentia infinita 
+                    cognoscens, 
+                    scilicet, huiusmodi habitudinem infinitam et
+                    infinitarum rerum. Quod autem illa sit infinita
+                patet de unico obiecto per se sumpto infinitae conclusiones geometricae et
+                mathematicae sunt scibiles de eo, ut alias tactum est. 
+                  Praeterea
+                infinitae sunt huiusmodi habitudines 
+                  <unclear>correspondentes</unclear>
+                ad res alias et habitudines 
+                et infinitas proportiones 
+                  adinvicem
+                consonantes facientes 
+                inter se unam pulchram armoniam et debitam. 
+                Et hoc non est a casu, 
+                ergo oportet quod sit ab aliquo hoc cognoscente.
+              </p>
+              <p xml:id="ppra-l29-ipasis">
+                Item 
+                  potest
+                argui ex determinatione causarum 
+                indifferentiam ad productionem suorum
+                effectum. Verbi gratia, 
+                  ignis
+                infinitorum graduum calorum
+                <pb ed="#R" n="50-r"/>
+                <cb ed="#R" n="a"/>
+                quaelibet potest producere, ita quod
+                ignis vel calor agit producendo gradus calliditatis quando producit; 
+                primum indifferens est ad producendum, 
+                secundum, 
+                  et
+                tertium, 
+                  etc.
+                et sic in infinitum. 
+                Ergo ad hoc quod determinetur, 
+                oportet quod sit ab
+                aliqua causa suprema ipsum determinante ad hoc 
+                  quod
+                producat istum gradum, sic quod non alium 
+                  vel
+                istum effectum 
+                  istius
+                speciei, 
+                et non sibi similem in specie.
+              </p>-->
+              <p xml:id="ppra-l29-ipauep">
+                <pc type="pilcrow"/> Item ex ordine rerum oportet tandem devenire 
+                <lb ed="#P" n="54"/>ad aliquem ubi erit una causa et haec videtur velle <name>aristoteles</name> 12 metaphysicae super illo passu solus ergo princeps 
+              </p>
+              <p xml:id="ppra-l29-asrdre">
+                <lb ed="#P" n="55"/>et haec de ista lectione quo ad praesens sufficiat
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l29-Dxxyy1">
+          <head xml:id="ppra-l29-Hctctct">Conclusiones</head>
+          <p xml:id="ppra-l29-ctssma">
+            <pc type="pilcrow"/> Sequitur distinctio cuius conclusio prima non est idem dicere aliquid esse patrem et genuisse 
+            <lb ed="#P" n="56"/>filium et causa est quia non sequitur est pater ergo generat filium unde istud nomen apter potest sui adiective et sic non esset essentia 
+            <lb ed="#P" n="57"/>sed si substantive conceditur quod sit essentia
+          </p>
+          <p xml:id="ppra-l29-schnsg">
+            <pc type="pilcrow"/> 2a conclusio ymago <unclear>filia</unclear> etc sunt relativam sicut generare ad filium
+          </p>
+          <p xml:id="ppra-l29-tcnsle">
+            <pc type="pilcrow"/> 3a conclusio bene dicitur deus de deo sed non filius de filio nec pater de patre et hoc <unclear>de lectione</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

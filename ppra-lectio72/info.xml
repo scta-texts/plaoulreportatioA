@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio72">
+      <head xml:id="ppra-l72-Hldtldt">Lectio 72, de Trinitate</head>
+      <div xml:id="ppra-l72-Dd1e109">
+        <head xml:id="ppra-l72-Hquepsp">Quod una est igitur res simplex quae habet omnes
+          perfectiones sibi possibiles</head>
+        <p xml:id="ppra-l72-emdpsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l72-emdpsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-emdpsp"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l72-Dd1e121">
+        <head xml:id="ppra-l72-Hcorria">Corollaria</head>
+        <div xml:id="ppra-l72-Dd1e126">
+          <head xml:id="ppra-l72-Hpcqamm">Primum corollarium</head>
+          <head xml:id="ppra-l72-Hd1e131" type="question-title">Quod impossibile est divinam
+            essentiam summe simplicem aliquo modo multiplicari</head>
+          <p xml:id="ppra-l72-eqsess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-eqsess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-eqsess"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e138">
+          <head xml:id="ppra-l72-Hscenpp">Secundum corollarium: essentia divina simplicissima a
+            nullo potest produci</head>
+          <p xml:id="ppra-l72-scedep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-scedep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-scedep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e150">
+          <head xml:id="ppra-l72-Htcandi">Tertium corollarium: aliquod est suppositum naturae
+            divinae inproductum</head>
+          <p xml:id="ppra-l72-tcacip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-tcacip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-tcacip"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e162">
+          <head xml:id="ppra-l72-Hqcscvp">Quartum corollarium</head>
+          <head xml:id="ppra-l72-Hd1e167" type="question-title">Summa simplicitas non potest in
+            unico supposito consistere vel persistere</head>
+          <p xml:id="ppra-l72-qcsedr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-qcsedr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-qcsedr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-pqsmic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-pqsmic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-pqsmic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-cqeqds">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-cqeqds"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-cqeqds"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e184">
+          <head xml:id="ppra-l72-Hqcppdg">Quintum corollarium</head>
+          <head xml:id="ppra-l72-Hd1e189" type="question-title">Prima diffusio in divinis verissime
+            potest dici generatio</head>
+          <p xml:id="ppra-l72-qcpacp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-qcpacp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-qcpacp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e205">
+          <head xml:id="ppra-l72-Hscqdvf">Sextum corollarium</head>
+          <head xml:id="ppra-l72-Hd1e210" type="question-title">Quod persona producens et non
+            producta proprie loquendo debet vocari Pater et persona producta debet vocari
+            Filius</head>
+          <p xml:id="ppra-l72-scqpcc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-scqpcc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-scqpcc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-caqenp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-caqenp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-caqenp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-eqaips">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-eqaips"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-eqaips"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e227">
+          <head xml:id="ppra-l72-Hscqsvt">Septimum corollarium</head>
+          <head xml:id="ppra-l72-Hd1e232" type="question-title">Quod non est ad extra communicabile
+            creaturae quod una essentia sit plures personae vel subsistentiae vel Trinitas</head>
+          <p xml:id="ppra-l72-scqnae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-scqnae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-scqnae"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l72-Dd1e243">
+        <head xml:id="ppra-l72-Htpfamt">Tres propositiones fidei et tria genera propositiones ad
+          quae reducuntur omnes propositiones pertinentis ad materiam Trinitatis</head>
+        <p xml:id="ppra-l72-pmtamt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l72-pmtamt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-pmtamt"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l72-Dd1e254">
+          <head xml:id="ppra-l72-Htpftpf">Tres propositiones fidei</head>
+          <div xml:id="ppra-l72-Dd1e259">
+            <head xml:id="ppra-l72-Hprpprp">Prima propositio</head>
+            <p xml:id="ppra-l72-ppfids">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l72-ppfids"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-ppfids"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l72-Dd1e278">
+            <head xml:id="dT70Hsapsap">Secunda propositio</head>
+            <p xml:id="ppra-l72-spuqnp">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l72-spuqnp"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-spuqnp"/>
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l72-Dd1e287">
+            <head xml:id="ppra-l72-Htpotpo">Tertia propositio</head>
+            <p xml:id="ppra-l72-tpesnr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l72-tpesnr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-tpesnr"/>
+              </assertions>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l72-Dd1e299">
+          <head xml:id="ppra-l72-Htgpimt">Tria genera propositionum concurrentium communiter in
+            materia Trinitatis</head>
+          <p xml:id="ppra-l72-stgimt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-stgimt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-stgimt"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-pehvvv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-pehvvv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-pehvvv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-sgeapr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-sgeapr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-sgeapr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-tpqpit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-tpqpit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-tpqpit"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l72-Dd1e318">
+        <head xml:id="ppra-l72-Hmannes">Manuductiones</head>
+        <p xml:id="ppra-l72-avarat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l72-avarat"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-avarat"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l72-Dd1e332">
+          <head xml:id="ppra-l72-Havtavt">Auctoritates veteris testamenti</head>
+          <p xml:id="ppra-l72-epsqai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-epsqai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-epsqai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-saiiat">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-saiiat"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-saiiat"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-taiptp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-taiptp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-taiptp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l72-Dd1e421">
+          <head xml:id="ppra-l72-Hdmcdmc">Duae manudcutiva <name ref="#Chatton"
+            >Chatton</name></head>
+          <p xml:id="ppra-l72-dstcss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-dstcss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-dstcss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-uiqpea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-uiqpea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-uiqpea"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-siqrac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-siqrac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-siqrac"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-eiinae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-eiinae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-eiinae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l72-sicene">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l72-sicene"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l72-sicene"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l72-Dxxyy1">
+        <head xml:id="ppra-l72-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l72-qxxyy3">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

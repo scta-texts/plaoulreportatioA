@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 38 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 38 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-27">May 27, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="54-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio38">
+        <head xml:id="ppra-l38-ldfldf">Lectio 38, de Fruitione</head>
+        <div xml:id="ppra-l38-Dd1e82">
+          <head xml:id="ppra-l38-Haaidfq">Additiones ad illud quod creatura rationalis non potest nisi in Deo finaliter quietari</head>
+          <p xml:id="ppra-l38-vpqapa">
+            <lb ed="#P" n="35"/>Consequenter inspiciendum est ut materia magis aperiatur de quietatione rationalis creaturae in deum 
+          </p>
+          <div xml:id="ppra-l38-Dd1e98">
+            <head xml:id="ppra-l38-Hppqrmb">Prima propositio</head>
+            <head xml:id="ppra-l38-Hd1e122" type="question-title">Quod ratio quietationis in Deo non est ex hoc quod intellectus non reperit maius bonum</head>
+            <p xml:id="ppra-l38-pqrrmb">
+              <pc type="virgula">/</pc> quia non potest <del rend="strikethrough">reperire</del>
+              <lb ed="#P" n="36"/>reperire maius bonum igitur 
+            </p> 
+            <!--
+              not present ? 
+              <p xml:id="ppra-l38-ehprmb">
+              Et hoc pono est contra unum doctorem. 
+              Inde imaginatur iste doctor quod intellectus 
+              quietatur quia discurrendo non reperit maius bonum.
+            </p>-->
+            <p xml:id="ppra-l38-scsrit">
+              sed adhuc illa ratio non est bene fundata <pc type="virgula">/</pc> nam per errorem intellectus iuvaret <c>a</c> esse 
+              <lb ed="#P" n="37"/>summum bonum et ultimate quietaret <pc type="punctus"/> et tamen nihil ultra apparet et cum hoc non esset felicita ratio humana quoniam adhuc
+              <lb ed="#P" n="38"/>deffectus esset <pc type="pilcrow"/> Unde <name ref="#Augustine">Augustinus</name> <quote xml:id="ppra-l38-Qd1e141" source="http://scta.info/resource/aconf-l1-d1e102@56-59">domine fecisti nos in te</quote> etc 
+            </p> 
+            <p xml:id="ppra-l38-ulicnq">
+              unde salva reverentia doctorum ponentium 
+              <lb ed="#P" n="39"/>quietari perpetualiter quoniam talis creatura utens creatura haberet modum in contrarium ideo posset salvari aliqua inquietudo 
+              <lb ed="#P" n="40"/>dato quod non sit aliquis acus non solum <add place="above-line"><unclear>exl?</unclear></add> quod inclinatio naturalis haberet modum ad quem <pc type="virgula">/</pc> Et posset 
+              <lb ed="#P" n="41"/>salvari adhuc quod non quietaret actualiter
+            </p>
+            <p xml:id="ppra-l38-usiiei">
+              <pc type="pilcrow"/> Unde licet in bonis temporalibus esset tanta vis adhuc haec stante 
+              <lb ed="#P" n="42"/>non quietaret et sic ex parte iudicii intellectus est inpertinens <pc type="punctus"/> <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e194">
+            <head xml:id="ppra-l38-Hsecdum">Secundum</head>
+            <p xml:id="ppra-l38-sdqcuv">
+              <pc type="pilcrow"/> 2o ex habitudine ipsius intellectus creaturae ad 
+              <lb ed="#P" n="43"/>deum secundum istam habitudinem esset obiectum felicitativum non tamen quod illa habitudo sit felicibilis
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e219">
+            <head xml:id="ppra-l38-Hterium">Tertium</head>
+            <p xml:id="ppra-l38-tdqset">
+              <pc type="pilcrow"/> 3o Ex propria conditione est 
+              <lb ed="#P" n="44"/>huiusmodi et <unclear>sen?lus</unclear> etc
+            </p> 
+          </div>
+          <div xml:id="ppra-l38-Dd1e233">
+            <head xml:id="ppra-l38-Hquatum">Quartum</head>
+            <p xml:id="ppra-l38-iqdfeq">
+              <pc type="pilcrow"/> Unde si daretur aliquis independens adhuc nihilominus in deo quietaret patet quia natura sua talis est <pc type="pilcrow"/> Ex quo 
+              <lb ed="#P" n="45"/>sequitur quod si esset alius deus frueretur eo <pc type="pilcrow"/>  unde sequitur quod multiplex est ratio in deo propter quam est obiectum felicitativum in eo respectu 
+              <lb ed="#P" n="46"/>creaturae quia est sua propria natura quare etc
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l38-Dd1e256">
+          <head xml:id="ppra-l38-Hadreof">Aegidius de Roma et tres causas quod Deus est obiectum felicitatis</head>
+          <p xml:id="ppra-l38-echatc">
+            <pc type="pilcrow"/> Unde notandum est quod <ref xml:id="ppra-l38-Rd1e207"><name ref="#GilesOfRome">aegidius de roma</name></ref> assignat tres causas <unclear>quare sic</unclear>
+          </p>
+          <div xml:id="ppra-l38-Dd1e271">
+            <head xml:id="ppra-l38-Hpcpcpc">Prima causa</head>
+            <p xml:id="ppra-l38-paccid">
+              <lb ed="#P" n="47"/><pc type="pilcrow"/> prima quia conservativus et causativus omnium <pc type="virgula">/</pc> unde nullum bonum potest haberi nisi sit ab eo derivativum <pc type="pilcrow"/> unde ymaginatur 
+              <lb ed="#P" n="48"/>quod sicut impressio sigilli se habet ad ipsum vel ad aquam ita ymaginandum est consequenter de deo ad creaturam 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l38-udmepe">
+              <pc type="pilcrow"/> unde 
+              <lb ed="#P" n="49"/>dato quod creatura magis diligeret se quam deum <pc type="virgula">/</pc> adhuc multo magis diligere debet deum quoniam ad non esse dei 
+              <lb ed="#P" n="50"/>daretur non esse creaturae sed tamen non econtra igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e340">
+            <head xml:id="ppra-l38-Hscscsc">Secunda causa</head>
+            <p xml:id="ppra-l38-svqtib">
+              <pc type="pilcrow"/> 2a via est quoniam deus est totale bonum creatura vero partiale 
+              <lb ed="#P" n="51"/>modo totum est maius sua parte et etiam partes magis habent tendentiam <del rend="strikethrough">sibi</del> sive habitudinem ad totum quam ad alias partes 
+            </p> 
+            <!--
+              Doesn't seem present
+              <p xml:id="ppra-l38-eivssb">
+              Et ista via continet 
+              duas, quia Realiter creatura non diligitur propter aliquam umbram 
+              participatam a summa bonitate, et sic in deo Reperitur summa 
+              bonitas, ideo magis debet diligi, et etiam creatura non est 
+              nisi quoddam minimum vestigium ad similitudinem summae bonitatis.
+            </p>-->
+            <!--
+              Doesn't seem present
+              <p xml:id="ppra-l38-ieatqs">
+              Item est alia via ex ordinatione totius ad partem. et sic videmus 
+              quod unum elementum relinquit bonum proprium propter universum 
+              <pb ed="#SV" n="244-v"/>
+              <cb ed="#SV" n="a"/>
+              et sic ordo naturae est quod semper praefert pars totum sibi et magis 
+              diligit totum quam se.
+            </p>-->
+          </div>
+          <div xml:id="ppra-l38-Dd1e383">
+            <head xml:id="ppra-l38-Htctctc">Tertia causa</head>
+            <p xml:id="ppra-l38-tcqqci">
+              <lb ed="#P" n="52"/><pc type="pilcrow"/> 3o quia deus essentialiter est quod est pulcherrima honestas et rerum universitas
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l38-Dd1e401">
+          <head xml:id="ppra-l38-Hdsqpsd">Difficultas sub qua ratione est proprie sic diligibilis</head>
+          <p xml:id="ppra-l38-seesdf">
+            <pc type="pilcrow"/> Sed restat non 
+            <lb ed="#P" n="53"/>modica difficultas qua ratione sit deus diligendus <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l38-epderd">
+            <pc type="pilcrow"/> Unde <name ref="#Ripa">magister de rippa</name> dicit quod sub eadem ratione 
+            <lb ed="#P" n="54"/>formaliter non est obiectum fruibile <pc type="pilcrow"/> unde ymaginatur distinctione personarum essentialia et de illis dictum <pc type="pilcrow"/> Et dicit 
+            <lb ed="#P" n="55"/>quod divina essentia habet rationem formalem in se <pc type="punctus"/> et consequenter habet dicere quod ratio obiectiva est resultans
+            <pb ed="#P" n="54-v"/>
+            <lb ed="#P" n="1"/>ex omnibus et est deus 
+          </p>
+          <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l38-scqiir">
+            Sed contra quia non oportet quod beatus videat deum secundum quamlibet rationem 
+            formalem deo competentem, quia haberet omnem notitiam de deo 
+            et sic sciret omne praedicatum dicibile de deo intuitive et evidenter, 
+            et sic unus beatus non perfectius cognosceret quam alius. et 
+            sic omnes essent aeque vim, quia beatitudo magis consistit in illis 
+            rationibus.
+          </p>-->
+          <p xml:id="ppra-l38-eichob">
+            et nihilominus potest dici sive sit distinctio in deo sive non quicumque videt deum <pc type="punctus"/> videt 
+            <lb ed="#P" n="2"/>eum secundum rationem fruibilis
+          </p>
+          <p xml:id="ppra-l38-strpsc">
+            et tales rationes non oportet ponere quia ratio stat in eo quod clare videatur <pc type="punctus"/> unde dato 
+            <lb ed="#P" n="3"/>quod nullam creatura videret eum quantumcumque modicum videretur adhuc intuitive videretur
+          </p> 
+          <!--
+            Doesn't seem present 
+            <p xml:id="ppra-l38-scdqit">
+            <pc type="virgula">/</pc> unde sequitur contra <name ref="#Durandus">du<lb ed="#P"/>randum</name> 
+            quod obiectum dei non est quietativum
+          </p>-->
+        </div>
+        <div xml:id="ppra-l38-Dd1e511">
+          <head xml:id="ppra-l38-Hcorria">Corollaria</head>
+          <div xml:id="ppra-l38-Dd1e516">
+            <head xml:id="ppra-l38-Hpcqspd">Primum corollarium</head>
+            <head xml:id="ppra-l38-Hd1e322" type="question-title">Quod in Deo sit plenitudo divini</head>
+            <p xml:id="ppra-l38-sepqss">
+              <pc type="pilcrow"/> Ulterius aliqua sunt correlaria ponenda <pc type="pilcrow"/> primum est quod in deo est plenitudo 
+              <lb ed="#P" n="4"/>divini dei quia non potest quia non potest applicari nisi ad <unclear>creatorem</unclear> unde dominatur plene 
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e534">
+            <head xml:id="ppra-l38-Hscqapv">Secundum corollarium</head>
+            <head xml:id="ppra-l38-Hd1e336" type="quesiton-title">Quod Deus iuste potest quos vult ad praedestinationem vocare</head>
+            <p xml:id="ppra-l38-ehsmee">
+              Ex quo sequitur quod potest quis 
+              <lb ed="#P" n="5"/>vult acceptare et alios reppellere et hoc nullis <unclear>praecedentibus</unclear> meritis et hoc tangit <name ref="#Paul">apostolus</name> de figulo 
+              <lb ed="#P" n="6"/>frangente vas vel dirigente in formam ornatam 
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e562">
+            <head xml:id="ppra-l38-Htcqeec">Tertium corollarium</head>
+            <head xml:id="ppra-l38-Hd1e357" type="question-title">Quod dominari non est ita essentiali Deo sicut subici est essentiale creaturae</head>
+            <p xml:id="ppra-l38-suqeaa">
+              <pc type="pilcrow"/> Ulterius habitudodo domini in deo non est <unclear>ita</unclear> essentiale 
+              <lb ed="#P" n="7"/>deo sicut subici creaturae <pc type="punctus"/> patet quia nullo modo stat creaturam esse quin subiciatur <pc type="punctus"/> sed tamen contingenter deo accipit 
+              <lb ed="#P" n="8"/>Tamen dominativa potestas est sibi essentialis
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e586">
+            <head xml:id="ppra-l38-Hqcqiqe">Quartum corollarium</head>
+            <head xml:id="ppra-l38-Hd1e369" type="question-title">Quod creatura est magis Deo subiecta quam sit in se ipsa quaedam essentia</head>
+            <p xml:id="ppra-l38-suqisf">
+              <pc type="pilcrow"/> Ulterius creatura est magis subiecta quam sit essentia in seipsa 
+              <lb ed="#P" n="9"/>patet nam subiecti tam est ut operetur et patiatur et sic ultra de aliis
+            </p>
+          </div>
+          <div xml:id="ppra-l38-Dd1e606">
+            <head xml:id="ppra-l38-Hqcqehs">Quintum corollarium</head>
+            <head xml:id="ppra-l38-Hd1e382" type="question-title">Quod nullius creaturae ad aliam est essentialis habitudo subiectionis</head>
+            <p xml:id="ppra-l38-suqmsn">
+              <pc type="pilcrow"/> Ulterius nullius creaturae ad aliam 
+              <lb ed="#P" n="10"/>est essentialis subiectionis unde cuilibet creaturae accidentaliter competit divinum
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppr-l38-Dd1e870">
+          <head xml:id="ppr-l38-Hd1e872">Conclusiones</head>
+          <p xml:id="ppr-l38-d1e875">
+            <pc type="pilcrow"/> Prima conclusio lectionis fuit quod licet 
+            <lb ed="#P" n="11"/>omnia dicantur de deo id est relucenter sunt in eo
+          </p>
+          <p xml:id="ppr-l38-d1e901">
+            <pc type="pilcrow"/> 2a conclusio licet deus cognoscat omnia tamen bona per compprehensionem 
+            <lb ed="#P" n="12"/>mala autem non <pc type="virgula">/</pc> sed utrum habeat ydeas mali dicitur quod habet quadam entitates
+          </p>
+          <p xml:id="ppr-l38-d1e914">
+            <pc type="pilcrow"/> 3a conclusio omnia dicuntur esse 
+            <lb ed="#P" n="13"/>per ipsum deum ad talem sensum quod facit ipsas et cognoscit 
+          </p>
+          <p xml:id="ppr-l38-d1e935">
+            <pc type="pilcrow"/> licet personarum distinctio denotetur cum ipso et in ipso 
+            <lb ed="#P" n="14"/>etc licet de persona dicatur tamen cuilibet competit et concurrit <unclear>omnes aeque</unclear> primo quoniam pater sine filio non potest agere et econverso <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppr-l38-d1e947">
+            <pc type="pilcrow"/> 5a non omne quod est in ipso est de ipso si resolvatur li de ad causam efficientem
+          </p>
+          <p xml:id="ppr-l38-d1e972">
+            <pc type="pilcrow"/> 6a omnia bona sunt 
+            <lb ed="#P" n="15"/>in deo et mala bona per comprehensionem <pc type="virgula">/</pc> mala per exclusionem sine per quamdam permissionem et haec de lectione
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

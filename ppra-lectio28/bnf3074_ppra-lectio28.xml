@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 28 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 28 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-07">May 07, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio28">
+        <head xml:id="ppra-l28-Hd1e110">Lectio 28, de Notitia</head>
+        <div xml:id="ppra-l28-Dd1e113">
+          <head xml:id="ppra-l28-Hudragp">Utrum Deus reponatur in aliquo praedicamento vel in aliquo
+            genere praedicamentorum</head>
+          <p xml:id="ppra-l28-iirig">
+            <lb ed="#P" n="8"/> Consequenter de 4o articulo est videndum scilicet utrum deus in aliquo genere praedicamentorum reponatur <add place="above-line">vel utrum aliquod primum de deo et creatura univoce praedicetur</add> 
+          </p>
+          <p xml:id="ppra-l28-cimpdp">
+            Et de hoc enim 
+            <lb ed="#P" n="9"/>diverse sunt oppiniones nam <name>gregorius</name> <name>okan</name> et <name>holcot</name> tenent quod deus sit in praedicamento substantiae
+            <lb ed="#P" n="10"/><unclear><!-- possibly crossed out or overwritten --></unclear> etiam in genere seu praedicamento relationis et passionis et ex consequenti repo<lb ed="#P" break="no" n="11"/>neretur 
+            in multis pro quo est notandum quod genus est conceptus communis <pc type="pilcrow"/> In dicit unus doctor quod est 
+            <lb ed="#P" n="12"/>error dicere deum in aliquo genere suae praedicamento reponi
+          </p>
+        </div>
+        <!--
+          This section doesn't seem present
+          <div xml:id="ppra-l28-Dd1e251">
+          <head xml:id="ppra-l28-Hoooooo">Opinio Ockham</head>
+          <p xml:id="ppra-l28-uciopa">
+            Unde circa istam materiam, 
+            scilicet utrum Deus reponitur in aliquo praedicamento vel genere, 
+            <name ref="#Ockham">Okam</name> ponit aliqua.
+          </p>
+          <p xml:id="ppra-l28-pqgmss">
+              Primo
+            quod genus 
+            est conceptus communiter multa individua et multas 
+            species significans.
+          </p> 
+          <p xml:id="ppra-l28-spqctp">
+            Secundo ponit quod dupliciter aliquid potest reponi in
+            praedicamento. 
+            Uno modo tamquam terminus existens in 
+              coordinatione
+            alicuius generis vel praedicamenti. 
+            Secundo modo tamquam res significata per
+            talem terminum sic repositum in 
+              tali
+            coordinatione talis praedicamenti.
+          </p>
+          <p xml:id="ppra-l28-tardba">
+            Tertio affirmative respondet ad quaestionem illam, 
+            utrum Deus 
+              reponatur in praedicamento
+            .
+            Et 
+              et dicit
+            quod sic
+            , 
+            id est quod est aliquis terminus significans 
+            ipsum repositum in praedicamento,
+            ita quod Deus concipitur per aliquem conceptum, 
+                et etiam concipitur 
+                per aliquem conceptum
+            , 
+            et etiam significatur 
+              per terminum
+            repositum in aliquo 
+              genere vel
+            praedicamento. Et 
+              istud
+            probat sic 
+            quia 
+              istud
+            non detrahit de sua perfectione et simplicitate
+            quia illud non arguit
+            aliquam imperfectionem sive compositionem in ipso Deo,
+            <cb ed="#V" n="b"/><!-\-V57vb -\->
+            quia impertinens est sibi, 
+            si sic vel sic 
+              concipiamus
+            ipsum. 
+            Et per consequens, 
+            si concipiatur aliquo conceptu generali vel specifico
+            reposito in praedicamento non videtur aliqualiter repugnare suae perfectioni et
+            simplicitati. 
+            Verum est quod 
+            ipse <name ref="#Ockham">Okam</name> respondet ad 
+              auctoritates
+            antiquorum doctorum 
+            qui dicebant 'Deum non posse reponi in aliquo praedicamento'
+            et unus doctor antiquus ad hoc 
+              allegabat
+            quod est 
+              articulus
+            condemnatus, 
+            scilicet 
+              dicere
+            quod Deus 
+              reponitur
+            in praedicamento, error. 
+            Et 
+              istud
+            legi in uno doctore bene 
+              autentico
+          </p>
+          <p xml:id="ppra-l28-orqcep">
+            <name ref="#Ockham">Okam</name> 
+            respondet quod ipsi aequivocabant de praedicamento. 
+            Unde capiebant praedicamentum sive genus taliter ut esset compositum
+            ex parte vel esset pars compositi, 
+            ita quod realiter esse in genere eis significabat
+            esse tamquam pars; vel 
+              tamquam
+            compositum ex parte. 
+            Et isto modo bene concedo quod Deus non est in genere vel
+            praedicamento quia nec est pars nec compositum ex parte.
+          </p>
+        </div>-->
+        <div xml:id="ppra-l28-Dd1e481">
+          <head xml:id="ppra-l28-Hcococo">Contra Okam</head>
+          <p xml:id="ppra-l28-cipgie">
+            <pc type="pilcrow"/> <unclear>Et</unclear> arguitur sic deo non est unibilis ratione distantiae 
+            <lb ed="#P" n="13"/>et modo essendi quia magis excedit substantiam quam substantia accidens sed non conceditur quod accidens sit ens proprie 
+            <lb ed="#P" n="14"/>igitur creatura non potest habere esse cum deo et ultra non potest ergo etc
+          </p>
+          <p xml:id="ppra-l28-sapdes">
+            <pc type="pilcrow"/> 2o probatur quod conceptus dei non sit 
+            <lb ed="#P" n="15"/>in aliquo genere praedicamentali <pc type="virgula">/</pc> nam omnis conceptus specificus est aptus natus praedicari de pluribus modo si 
+            <lb ed="#P" n="16"/>sic esset sequeretur maximum inconveniens quia contra fidem scilicet plures esse deos ergo etc
+          </p>
+          <!--
+            Doesn't seem present
+            <p xml:id="ppra-l28-taseig">
+            Tertio, 
+            arguitur supponendo radicem quam 
+            supponit 
+            <name ref="#Scotus">Doctor Subtilis</name>, 
+            scilicet quod diffinitio 
+            vel conceptus specificus repositus in aliquo genere 
+            est talis quod non repugnat 
+              sibi poni primo vel secundo modo dicendi per se
+            . 
+              Et
+            quod differentiae positae in 
+            eius diffinitione 
+              sint
+            supponentes 
+              pro
+            diversis rebus.
+            In hoc videtur fundare totam imaginationem 
+              suam
+            ad praedicandum quod Deus non est in aliquo 
+            praedicamento et quod repugnat sibi ratione suae 
+            simplicitatis et non angelo; 
+              lict angelus sit omnino simplex
+            , 
+            dicit tamen quod diffinitio angeli continet differentias, 
+            et licet non sit possibile absolute quod competant 
+            diversis rebus, tamen illud non repugnat diffinitioni 
+            angeli. Diffinitioni autem Dei repugnat, quia diffinitio 
+            Dei secundum se totam excludit omnem potentialitatem 
+            per se primo et in secundo modo dicendi per se. 
+              Unde 
+                ex ista radice, diffinitioni rei repositae 
+                in praedicamento non repugnant primo et per se et 
+                in secundo modo dicendi per se
+            , 
+            quin differentiae potentiae in 
+            huiusmodi diffinitione supponant pro diversis, 
+            licet non sit ita a parte rei. Sed aliunde provenit quod 
+            Deus non reponitur in 
+              aliquo
+            praedicamento. 
+            Verbi gratia, capiamus 
+            diffinitionem animae et ponamus in ea plures differentias 
+            ut sensitivum, rationale, intellectivum, etc. Licet enim sensitivum 
+            et rationale sint idem in anima, tamen huic diffinitioni 
+            non repugnat primo et per se 
+              et
+            in secundo modo 
+            dicendi per se quod esse sensitivum in anima sit aliud 
+            quam esse intellectivum vel rationale, licet per accidens, 
+            et ita stricte non capit <name ref="#Ockham">Okam</name> per se, 
+            et primo modo non est sic de Deo 
+            quia secundum omnem differentiam 
+            repositam in eius diffinitione quaelibet esset 
+            actualissima et necessaria, 
+            ita quod quaelibet immediate 
+            ipsum Deum repraesentaret ut actualissimum et necesse esse. 
+            Et ideo, quia diffinitio ipsius repugnat 
+            <pb ed="#R" n="46-v"/>
+            <cb ed="#R" n="a"/>
+            diffinitioni generis, ita consequenter repugnat diffinitio 
+            et per consequens non potest esse in genere.
+          </p> -->
+          <p xml:id="ppra-l28-icsegg"> 
+            <pc type="pilcrow"/> Item conceptus substantiae 
+            <lb ed="#P" n="17"/>non plus sibi competit quam conceptus sapientiae prout sapientia reponitur in praedicamento quantiatis sed ipsa <unclear>prout</unclear> reponitur in ipso 
+            <lb ed="#P" n="18"/>praedicamento non plus competit deo ut satis est nomen ergo etc
+          </p> 
+        </div>
+        <div xml:id="ppra-l28-Dd1e787">
+          <head xml:id="ppra-l28-Haoaoao">Alia opinio</head>
+          <p xml:id="ppra-l28-saoesc">
+            <pc type="pilcrow"/> Alia est oppinio quod illud genus est 
+            <lb ed="#P" n="19"/>subtranscendente quod est praedicabile in quid de pluribus speciei differentibus quorum uni non repugnat per se quod sit 
+            <lb ed="#P" n="20"/>compositio Et tamen illa non sunt genera proprie dicta nec reponuntur in aliquo praedicamento <pc type="pilcrow"/> Unde angelo 
+            <lb ed="#P" n="21"/>et animae non repugnet isto modo quinque essent compositio
+          </p>
+          <!--
+            Unclear but doesn't seem present
+            <p xml:id="ppra-l28-dstisi">
+            <name ref="#Scotus">Doctor Subtilis</name> tenet quod li 'ens' et li 'vita' 
+            et 
+              omnia
+            praedicata essentialia, 
+            quae vocantur trancendentia 
+            sunt omnia extra genus et extra praedicamenta. 
+            Et quantum est de me, 
+            sequendo opinionem quae magis 
+              mihi videtur
+            theologica, 
+            et
+            philosophica, et logicalis. 
+            Etiam si bene 
+              resolvatur
+            illa praedicata non 
+              dicuntur
+            reponi in praedicamento, 
+            nec sunt genera secundum modum loquendi ipsorum doctorum et philosophorum. 
+            Ideo genus debet sic describi genus est illud 
+              quod
+            subtranscendente etc., 
+            sicut immediate dictum est, 
+              unde
+            et angelo et animae ex sua diffinitione specifica 
+            non repugnat per se compositio, 
+            licet illud sit impossibile.
+          </p> -->
+          <div xml:id="ppra-l28-Dd1e881">
+            <head xml:id="ppra-l28-Hcrcrcr">Conclusio responsalis</head>
+            <p xml:id="ppra-l28-eqscie">
+              <pc type="pilcrow"/> Ex quo sequitur correlariae quod deo repugnat esse in genere 
+              <lb ed="#P" n="22"/>praedicamentali simplicitate necessitate unitate et infinitate nam quodlibet istorum repraesentat actu primum et per consequens 
+              <lb ed="#P" n="23"/>sibi repugnat pluralitas
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l28-Dd1e935">
+          <head xml:id="ppra-l28-Hoididr">Opinio Ioannes de Ripa</head>
+          <p xml:id="ppra-l28-saoafe">
+            <pc type="pilcrow"/>Alia est oppinio <name>de rippa</name> qui dicit quod deus non univocatur nec est 
+            <lb ed="#P" n="24"/>in aliquo genere cuius causatur nam genus habet univoce praedicari de sua specie
+          </p> 
+          <p xml:id="ppra-l28-spisip">
+            <pc type="pilcrow"/> 2a conclusio creatura univocatur 
+            <lb ed="#P" n="25"/>secundum praedicata perfectionalia transcendentia et haec univocatione perfecta quia sibi conveniunt et sunt eiusdeum rationis 
+          </p>
+        </div>
+        <div xml:id="ppra-l28-Dd1e1073">
+          <head xml:id="ppra-l28-Hoadoad">Opinio aliorum doctorum</head>
+          <p xml:id="ppra-l28-aeorip">
+            <pc type="pilcrow"/> Alia opinio 
+            <lb ed="#P" n="26"/><name>beati augustini</name> quod realiter deus non est in aliquo genere <del rend="strikethrough">nam ipse augustinus dicit omnia 
+            <lb ed="#P" n="27"/>incorruptibilia</del> et <name>sanctus thomas de aquino</name> et multi doctores antiqui et maxime <name>gandavensis</name> et multi 
+            <lb ed="#P" n="28"/>etiam philosophi et ipsemet <name>aristoteles</name> nam dicit omnia incorruptibilia esse extra genus cuiusmodi sunt deus et intelligentiae 
+            <lb ed="#P" n="29"/><pc type="pilcrow"/> unde <ref xml:id="ppra-l28-Rd1e1233"><name>gandavensis</name> in quaestione 26</ref> dicit <!-- quote --> deus non est res alicuius praedicamenti <pc type="punctus"/> Sed ens in sui distinctione 
+            <lb ed="#P" n="30"/>dividitur in ens creatum et non creatum modo certum est quod ens non est in aliquo genere ipsum autem est analogum
+            <lb ed="#P" n="31"/>Et hoc testantur <name>aristotelis</name> et porphirius <pc type="virgula">/</pc> Et allegat ipse doctor beatum augustinum
+          </p>
+          <p xml:id="ppra-l28-ssgerd">
+            <pc type="pilcrow"/> Secundo etiam probatur 
+            <lb ed="#P" n="32"/>nam genus habet suas species secundum esse materiae <pc type="pilcrow"/> Unde ipse tenet quod esse et essentia distingueretur et ista 
+            <lb ed="#P" n="33"/>via videtur satis difficilis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l28-taseip"> 
+            <pc type="pilcrow"/> 3o probatur deus non est accidens neque substantia igitur non est in aliquo genere primo quod non 
+            <lb ed="#P" n="34"/>sit substantia patet quoniam diffinitio substantiae non sibi competit <pc type="pilcrow"/> Unde idem videtur satis velle quod sit extra genus 
+            <lb ed="#P" n="35"/>rerum Et dicit quod genera debent esse exemplata <pc type="punctus"/> et accidentia 2a genera et alia tamquam <del>artificaliter immeta</del> prima ista 
+            <lb ed="#P" n="36"/>tamquam 2aria Et allegat <name>avicenam</name> dicentem quod universitas habet principium non tamen sub aliquo conceptu 
+            <lb ed="#P" n="37"/>et per hoc videtur innumere satis extra genus rerum esse <pc type="punctus"/>
+          </p> 
+        </div>
+        <div xml:id="ppra-l28-Dd1e1715">
+          <head xml:id="ppra-l28-Hrdprdp">Responsio de Plaoul</head>
+          <p xml:id="ppra-l28-pcapqd">
+            <pc type="pilcrow"/> Sed nihilominus pro concordia istorum aliqua sunt attendenda 
+            <lb ed="#P" n="38"/>primo sciendum est quod praedicamenta fuerunt inventa facilitate doctrinae et artificialiter 
+          </p>
+          <p xml:id="ppra-l28-qapdir">
+            Et sic varia <unclear>potuerunt</unclear> 
+            <lb ed="#P" n="39"/>ordinari praedicamenti primo propter infinitatem rerum et propter infinitatem modorum concipiendi et ad <unclear>distiutius</unclear> cognoscendum 
+            <lb ed="#P" n="40"/>conceptus inter se et rerum habitudines et sic tanta vel tot et non <del rend="strikethrough">valde</del> plura sunt valde bene 
+            posita
+          </p>
+          <p xml:id="ppra-l28-qapvaq">
+            <pc type="pilcrow"/> unde simplicius loquitur quod aliqui reduxerunt ad tria 
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-l28-adrrsa">
+            <pc type="pilcrow"/> Alii ad unum essentiale et aliud 
+            <lb ed="#P" n="41"/>accidentale
+          </p>
+          <p xml:id="ppra-l28-avcseq">
+            <pc type="pilcrow"/> Alii consideraverunt totam latitudinem rerum et posuerunt a parte rerum duo praedicamenta scilicet unum 
+            <lb ed="#P" n="42"/>secundum substantiam et quantitatem
+          </p>
+          <p xml:id="ppra-l28-avpqeq">
+            <pc type="pilcrow"/> Alii ponunt tria quia ponunt quantitatem distinctam a re quanta
+          </p>
+          <!--
+            Doesn't seem present
+            <p xml:id="ppra-l28-avpqqa">
+            Alii vero posuerunt quattuor et superaddiderunt relationem et
+            actionem et passionem, 
+            ita quod relatio distinguitur,
+              ab extremis
+              et
+            actio et passio 
+              distinguitur
+            a qualitate, 
+            quae acquiritur.
+          </p>
+          <p xml:id="ppra-l28-asmasm">
+            Alii superaddiderunt motum.
+          </p>-->
+          <p xml:id="ppra-l28-avpiie"> 
+            <pc type="pilcrow"/> Alii vero plura 
+            <lb ed="#P" n="43"/>scilicet x sicut <name>scotus</name> <pc type="pilcrow"/> Isto <unclear>no?to</unclear> tenendo ultimam oppinionem tunc ens esset genus generalissimum
+          </p>
+          <!-- Doesn't seem present
+            <p xml:id="ppra-l28-aetaap">
+            
+            Advertendum est
+              est
+            tamen, 
+            redeundo ad primum, 
+            quod praedicamenta sunt nunc adinventa causae doctrinae et
+            facilitatis doctrinae. 
+            Ideo subtilius imaginati sunt
+              illi
+            ,
+            qui non posuerunt Deum in praedicamento quam illi, 
+            qui eum 
+              reposuerunt
+            in praedicamento 
+            quia ex quo praedicamenta sunt adin venta causa doctrine et secundum
+            modum loquendi antiquorum traduntur praedicamenta secundum rationes et modos exprimentes
+            naturas proprias rerum pro quibus supponunt et ordinem et habitudinem ipsarum, 
+            ergo illi qui
+            conceperunt 
+              Deum
+            conceptu sibi proprio 
+              exprimente
+            etc., magis attinxerunt finem illum 
+            quam per generalem modum concipiendi et cognoscendi ipsum 
+            quia non curamus de ordine, nec de cognitione terminorum, 
+            nisi in ordine ad illa quae significant
+            <cb ed="#V" n="b"/><!-\-V59vb-\-> 
+            de quibus volumus habere scientiam. 
+            Et ideo quia antiqui
+            philosophi immediate introducebantur ad conceptus magis altos 
+            et magis exprimentes proprias naturas rerum 
+              pro quibus supponunt
+            . 
+            Ideo forte erant magis apti ad philosophandum.
+          </p>-->
+          <p xml:id="ppra-l28-pieeas">
+            <pc type="pilcrow"/> Unde pro antiquorum intellectu advertendum est quod licet moderni glosent eos de terminis non fuit sua 
+            <lb ed="#P" n="44"/>intentio principalis 
+          </p>
+         <!--
+           Doesn't seem present 
+           <p xml:id="ppra-l28-ssddrf">
+            Sed sine dubio antiqui philosophi 
+            quantum ad hoc referebant se ad res et 
+              ad
+            habitudines rerum, 
+            ita quod vocabant genus non terminum, 
+            sed rationem significatam per
+            terminum, quae est quaedam 
+              quidditas
+            indifferens ad hanc vel hanc speciem. 
+            Differentia vero
+              vero
+            erit magis determinata, 
+            ideo genus magis habebat rationem materiae et differentiam
+            rationem formae.
+          </p>-->
+          <p xml:id="ppra-l28-pcinat">
+            pro cuius evidentia et intellectu ponitur exemplum de anima <pc type="punctus"/> nam licet anima nostra sit res individualis 
+            <lb ed="#P" n="45"/>tamen hoc non obstante multas habet operationes sive naturas post infimam existere via namque prima 
+            <lb ed="#P" n="46"/>operatio est appetere sic existere Et ista est generalis in omnibus deinde ascendendo diversas alias habet 
+            <lb ed="#P" n="47"/>scilicet influere et hanc generaliter quaelibet forma videtur habere primo enim est in loco quia in corpore humano et sic 
+            <lb ed="#P" n="48"/>ultra de aliis speciebus ascendendo habebit aliquam operationem correspondentem infime potentiae modo 
+            <lb ed="#P" n="49"/>sic considerando anima nostra habebit aliquam ratione generis generalissimi obiective quod significatur sic ascendendo 
+            <lb ed="#P" n="50"/>per terminos minus generales
+          </p>
+          <p xml:id="ppra-l28-iipfot">
+            <pc type="pilcrow"/> Item istud potest reduci ad aliquam formarum substantialium ut per aliquam formam 
+            <lb ed="#P" n="51"/>constituuntur in aliquo esse et secundum talem ordinem erit ordo terminorum <pc type="pilcrow"/> Vel etiam possemus ponere secundum 
+            <lb ed="#P" n="52"/>magistrum guillielmum parisiensem scilicet quod creatura est realiter suum esse 
+          </p>
+          <p xml:id="ppra-l28-aevmpf">
+            <pc type="pilcrow"/> Alia est via ponere distinctionem 
+            <lb ed="#P" n="53"/>inter esse essentiam
+          </p>
+          <p xml:id="ppra-l28-aeocti">
+            <pc type="pilcrow"/> Alia est via sicut <name>de rippa</name> quae est vera compositio et realis concurrentium unitive 
+            <lb ed="#P" n="54"/>et posset deduci sicut prima 
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l28-aevrip">
+            <pc type="pilcrow"/> Sed tamen inter omnes istas <unclear>ipsa</unclear> oppinio verior reputatur videlicet quod deus 
+            <lb ed="#P" n="55"/>reponitur in aliquo praedicamento Et si dicatur quod tunc esset in praedicamento relationis
+          </p>
+          <p xml:id="ppra-l28-etaiae">
+            <pc type="virgula">/</pc> Respondetur quod non 
+            <lb ed="#P" n="56"/>nisi transumptive sicut dicendo quod est bonus vel pater vel filius sed hoc est secundum analogiam quia 
+            <lb ed="#P" n="57"/>est ens transcendens <pc type="pilcrow"/> Et sic breviter patet quid dicendum de articulo illo In quo quaerebatur 
+            <lb ed="#P" n="58"/>sub quo genere praedicamentorum deus reponatur
+          </p>
+        </div>
+        <div xml:id="ppra-l28-Cxxyy1">
+          <head xml:id="ppra-l28-Hctctct">Conclusiones</head>
+          <p xml:id="ppra-l28-ctdsvs">
+            <pc type="pilcrow"/> Sequitur conclusio prima distinctionis lectionis <pc type="punctus"/> quod ypostasis scilicet 
+            <lb ed="#P" n="59"/>suppositum in divinis dicitur de 3bus personis <pc type="punctus"/> Unde tempore certo dicit ieronimus quod non erat bonum dicere quod deus esset 
+            <lb ed="#P" n="60"/>3es ypostases propter haeresum scandalum Et ideo propositiones de materia trinitatis debet resolvi ad sensum clarum 
+            <lb ed="#P" n="61"/>et non tende diffiniri 
+          </p>
+          <p xml:id="ppra-l28-tqnnss">
+            <pc type="pilcrow"/> 2a conclusio et 3a quasi conveniunt quod omne quod de deo dicitur <pc type="punctus"/> dicitur secundum substantiam et non secundum accidens quare etc nova 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

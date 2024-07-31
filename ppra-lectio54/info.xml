@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio54">
+      <head xml:id="ppra-l54-Hldfldf">Lectio 54, de Fruitione</head>
+      <div xml:id="ppra-l54-Dd1e104">
+        <head xml:id="ppra-l54-Hduddud">Duo difficultates</head>
+        <p xml:id="ppra-l54-vepdei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-vepdei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-vepdei"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-pmisin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-pmisin"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-pmisin"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l54-Dd1e119">
+        <head xml:id="ppra-l54-Huictit">Utrum inclinatio creaturarum in Deum sit in ipsum tanquam in
+          Trinitatem</head>
+        <p xml:id="ppra-l54-ecpeev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ecpeev"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ecpeev"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-cnrnut">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-cnrnut"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-cnrnut"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-sedups">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-sedups"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-sedups"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-ebciqa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ebciqa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ebciqa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-eppead">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-eppead"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-eppead"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l54-Dd1e145">
+        <head xml:id="ppra-l54-Husudsa">Utrum stat unam personam Trinitatis potest diligi sine
+          alia?</head>
+        <p xml:id="ppra-l54-idqipm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-idqipm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-idqipm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-pprpee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-pprpee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-pprpee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-sqcdsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-sqcdsa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-sqcdsa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-tatptp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-tatptp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-tatptp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-iodptp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-iodptp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-iodptp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-isaesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-isaesp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-isaesp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-insqei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-insqei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-insqei"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-isqfid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-isqfid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-isqfid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-iochaa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-iochaa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-iochaa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l54-Dd1e259">
+        <head xml:id="ppra-l54-Hqascst">Quod aliqua sunt praedicata quae competunt Deo ab aeterno et
+          aliqua quae competunt sibi temporaliter</head>
+        <p xml:id="ppra-l54-aeqsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-aeqsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-aeqsda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-asqsdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-asqsdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-asqsdc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l54-acssda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-acssda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-acssda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-qapapa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-qapapa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-qapapa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-qlcsda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-qlcsda"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-qlcsda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-qedecp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-qedecp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-qedecp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-uspvtt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-uspvtt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-uspvtt"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l54-Dd1e301">
+        <head xml:id="ppra-l54-Huniaqp">Utrum notitia intuitiva immediate terminatat ad Deum
+          terminetur ad essentiam et ad quamlibet personam?</head>
+        <p xml:id="ppra-l54-athias">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-athias"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-athias"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-sdeepd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-sdeepd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-sdeepd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-ebcdid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ebcdid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ebcdid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-epqicp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-epqicp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-epqicp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-escqce">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-escqce"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-escqce"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-ipiqcc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ipiqcc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ipiqcc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-ieheet">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ieheet"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ieheet"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break point; needs review -->
+        <p xml:id="ppra-l54-iedsct">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-iedsct"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-iedsct"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-citpvp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-citpvp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-citpvp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l54-reqned">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-reqned"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-reqned"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l54-taprvc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-taprvc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-taprvc"/>
+          </assertions>
+        </p>
+        <!-- review break -->
+        <p xml:id="ppra-l54-esdrnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l54-esdrnc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-esdrnc"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l54-Dd1e375">
+        <head xml:id="ppra-l54-Hoqudsa">Obiectio: quod una persona possit videri sive diligi sine
+          alia</head>
+        <div xml:id="ppra-l54-Dd1e380">
+          <head xml:id="ppra-l54-Hpriima">Prima</head>
+          <p xml:id="ppra-l54-cdadsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-cdadsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-cdadsp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e389">
+          <head xml:id="ppra-l54-Hsecnda">Secunda</head>
+          <p xml:id="ppra-l54-spncsa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-spncsa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-spncsa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e398">
+          <head xml:id="ppra-l54-Htertia">Tertia</head>
+          <p xml:id="ppra-l54-icacsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-icacsp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-icacsp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e410">
+          <head xml:id="ppra-l54-Hquarta">Quarta</head>
+          <p xml:id="ppra-l54-iipesp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-iipesp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-iipesp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e420">
+          <head xml:id="ppra-l54-Hquinta">Quinta</head>
+          <p xml:id="ppra-l54-ifpdur">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-ifpdur"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-ifpdur"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e429">
+          <head xml:id="ppra-l54-Hsexxta">Sexta</head>
+          <p xml:id="ppra-l54-impdpt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-impdpt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-impdpt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e441">
+          <head xml:id="ppra-l54-Hsepima">Septima</head>
+          <p xml:id="ppra-l54-idpsdc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-idpsdc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-idpsdc"/>
+            </assertions>
+          </p>
+        </div>
+        <!-- not clear if this is present
+            <div xml:id="ppra-l54-Dd1e450">
+            <head xml:id="ppra-l54-Hoctava">Octava</head>
+            <p xml:id="ppra-l54-ipeapd">
+              
+            </p>
+          </div>-->
+        <div xml:id="ppra-l54-Dd1e462">
+          <head xml:id="ppra-l54-Hnonona">Nona</head>
+          <p xml:id="ppra-l54-iassir">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l54-iassir"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l54-iassir"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l54-Dxxyy1">
+        <head xml:id="ppra-l54-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l54-axxyy3">
+        </p>
+        <p xml:id="ppra-l54-axxyy4">
+        </p>
+        <p xml:id="ppra-l54-axxyy5">
+        </p>
+        <p xml:id="ppra-l54-axxyy6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio24">
+      <head xml:id="ppra-l24-Hd1e104">Lectio 24, de Notitia</head>
+      <div xml:id="ppra-l24-Dd1e107">
+        <head xml:id="ppra-l24-Hiplipl">
+          <supplied>Recapitulatio</supplied>
+        </head>
+        <p xml:id="ppra-l24-iploua">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-iploua"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-iploua"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-qedaos">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-qedaos"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-qedaos"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-echirv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-echirv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-echirv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-idqsns">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-idqsns"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-idqsns"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e576">
+        <head xml:id="d3a1l22Hrangcu">
+          <supplied>Reditio ad notitias abstractivas: duo genera conceptuum universalium</supplied>
+        </head>
+        <p xml:id="ppra-l24-qaagse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-qaagse"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-qaagse"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e686">
+        <head xml:id="ppra-l24-Hpcudps">
+          <supplied>Primus conceptus universalis: circa conceptus universales dicentes perfectionem
+            simpliciter</supplied>
+        </head>
+        <p xml:id="ppra-l24-cpdpsp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-cpdpsp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-cpdpsp"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy parallel -->
+        <p xml:id="ppra-l24-essvls">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-essvls"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-essvls"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e1013">
+        <head xml:id="ppra-l24-Hscucul">
+          <supplied>Secundus conceptus universalis: circa conceptus universales limitatos</supplied>
+        </head>
+        <p xml:id="ppra-l24-aemeap">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-aemeap"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-aemeap"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e1065">
+        <head xml:id="ppra-l24-Huecdps">
+          <supplied>Ulterior explicatio circa conceptus universales dicentes perfectionem
+            simpliciter</supplied>
+        </head>
+        <p xml:id="ppra-l24-cmpicc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-cmpicc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-cmpicc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-esedpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-esedpe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-esedpe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-etcpid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-etcpid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-etcpid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-eiadec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-eiadec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-eiadec"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e1478">
+        <head xml:id="ppra-l24-Hueccul">
+          <supplied>Ulterior explicatio circa conceptus universales limitatos</supplied>
+        </head>
+        <p xml:id="ppra-l24-aeipmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-aeipmp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-aeipmp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-edhiia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-edhiia"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-edhiia"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-uchsid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-uchsid"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-uchsid"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e2087">
+        <head xml:id="ppra-l24-Hohdhdh">
+          <supplied>Opinio Henrici de Oyta</supplied>
+        </head>
+        <p xml:id="ppra-l24-eehfee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-eehfee"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-eehfee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e2232">
+        <head xml:id="ppra-l24-Hrahhdh">Responsio ad Henricum de Huta</head>
+        <p xml:id="ppra-l24-rduecc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-rduecc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-rduecc"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l24-sdqcre">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-sdqcre"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-sdqcre"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l24-Dd1e2378">
+        <head xml:id="ppra-l24-Hrpnncd">
+          <supplied>Resolutio: possibilitas notitiae circa Deum</supplied>
+        </head>
+        <p xml:id="ppra-l24-eissde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-eissde"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-eissde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l24-eippne">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l24-eippne"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-spepii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l24-tecnri"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 54 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 54 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-05">July 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="63-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio54">
+        <head xml:id="ppra-l54-Hldfldf">Lectio 54, de Fruitione</head>
+        <div xml:id="ppra-l54-Dd1e104">
+          <head xml:id="ppra-l54-Hduddud">Duo difficultates</head>
+          <p xml:id="ppra-l54-vepdei">
+            <lb ed="#P" n="39"/>Consequenter postquam superius visum fuit qualiter inclinatio naturalis fertur in deum tamquam in summum bonum et 
+            <lb ed="#P" n="40"/>finem ultimum et in hoc consistit tota virtus metaphysica theologica religio mundana 
+          </p>
+          <p xml:id="ppra-l54-pmisin">
+            <pc type="virgula">/</pc> unde pro maiori 
+            <lb ed="#P" n="41"/>intellectum sunt aliqua quaerenda sive advertendum primum est utrum inclinatio creaturarum sit in ipsum ratione trinitatis 
+            <lb ed="#P" n="42"/>2m utrum flexibilitatis voluntatis procedat ex deo et feratur in ipsum dicuntur vel ad contrarium sit fluxibilis 
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e119">
+          <head xml:id="ppra-l54-Huictit">Utrum inclinatio creaturarum in Deum sit in ipsum tanquam in Trinitatem</head>
+          <p xml:id="ppra-l54-ecpeev">
+            <pc type="virgula">/</pc> unde 
+            <lb ed="#P" n="43"/>certa primum tenetur pars affirmativa scilicet quod naturalis inclinatio fertur in deum etc <pc type="pilcrow"/> Et probatur sic arguendi nam quaelibet creatura 
+            <lb ed="#P" n="44"/>est vestigium ipsius increatae trinitatis igitur tendit in ipsum secundum habitudinem quam habet ab illo vestigio
+          </p>
+          <p xml:id="ppra-l54-cnrnut">
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Confirmatur Res creatae procedunt de non esse ad esse a deo ut trinum et unum igitur revertuntur 
+            <lb ed="#P" n="46"/>ad ipsum sub tali tendentia vel habitudine nam sicut in genere causae efficientis concurrit ita in genere causae finalis 
+          </p> 
+          <p xml:id="ppra-l54-sedups">
+            <lb ed="#P" n="47"/><pc type="pilcrow"/> Sed restat difficultas de voluntate creata utrum posset habere actum qui terminetur ad unam personam tantummodo vel ad omnes 
+          </p>
+          <p xml:id="ppra-l54-ebciqa">
+            <lb ed="#P" n="48"/>Et circa istam materiam tenendum est quod voluntas creata non potest tendere in deum secundum essentiam quin tendat in 
+            <lb ed="#P" n="49"/>creaturam 
+          </p> 
+          <p xml:id="ppra-l54-eppead">
+            Et inducuntur hic aliqua licet tenuerim oppositum quia istud magis est consonum rationibus sacris et dictis 
+            <lb ed="#P" n="50"/>sanctorum doctorum 
+          </p> 
+        </div>
+        <div xml:id="ppra-l54-Dd1e145">
+          <head xml:id="ppra-l54-Husudsa">Utrum stat unam personam Trinitatis potest diligi sine alia?</head>
+          <p xml:id="ppra-l54-idqipm">
+            Et eadem est difficultas de dilectione sine visione unde non stat una personam trinitatis 
+            <lb ed="#P" n="51"/>videri quin alia videatur 
+          </p> 
+          <p xml:id="ppra-l54-pprpee">
+            <pc type="virgula">/</pc> probatur primo per rationem primitus tactam quia sicut non potest concurrere in genere causae efficientis <add place="margin-right"><unclear>nisi ut trinus</unclear></add>
+            <lb ed="#P" n="52"/>quin concurrat in genere finalis ita par passu in hoc
+          </p>
+          <p xml:id="ppra-l54-sqcdsa">
+            <pc type="pilcrow"/> 2o arguitur nam concursus obiectivus qui non est 
+            <pb ed="#P" n="64-r"/>
+            <lb ed="#P" n="1"/>realiter supplebilis est reducibilis ad causalitatem effectivam et tamen non est distincta ab alia igitur non stat unam 
+            <lb ed="#P" n="2"/>videri quin alia videatur intuitive et ista ratio est satis apparens <pc type="punctus"/> modo si iste concursus sit <unclear>indivisus</unclear> 
+            <lb ed="#P" n="3"/>sequitur intentum
+          </p>
+          <p xml:id="ppra-l54-tatptp">
+            <pc type="pilcrow"/> 3o arguitur testimonio christi quia <quote xml:id="ppra-l54-Qd1e166" source="http://scta.info/resource/io14_9">qui videt me videt et patrem</quote> et per consequens idem sunt 
+            <lb ed="#P" n="4"/>declarat hoc ipse christus producendo consequentiam quia <quote xml:id="ppra-l54-Qd1e172" source="http://scta.info/resource/io10_38">ego in patre et ipse in me</quote> est igitur intentum <pc type="pilcrow"/>unde circa hoc dicit 
+            <lb ed="#P" n="5"/><name>augustinus</name> <!--quote here ? -->sive audiatur <unclear>ostendendae</unclear> nobis patrem <pc type="punctus"/> sive audiamus <unclear>ostendendae</unclear> nobis filium etc idem sunt 
+          </p> 
+          <p xml:id="ppra-l54-iodptp">
+            <pc type="pilcrow"/> Item omnes
+            <lb ed="#P" n="6"/>doctores loquentes de dei fruitione sicut <name>ancelmus</name> et <name>augustinus</name> et ceteri ponunt trinitatem esse obiectum fruitionis
+          </p>
+          <p xml:id="ppra-l54-isaesp">
+            <lb ed="#P" n="7"/><pc type="pilcrow"/> Item ratio fruibilitatis est essentialis igitur individua et indivisae competit cuilibet personae et hoc alias est 
+            <lb ed="#P" n="8"/>deductum quoniam summe diligibilitatis fruitionem habet <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-insqei">
+            <pc type="pilcrow"/> Item nisi ita esset sequeretur quod solum sortes beatificatur 
+            <lb ed="#P" n="9"/>in patre ponendo casum quod sortes tendat in <c>a</c> patrem et in <c>b</c> filium et in <c>c</c> spiritum sanctum tunc arguitur 
+            <lb ed="#P" n="10"/>sic sortes tendit in <c>a</c> patrem <add place="above-line">et in <c>b</c></add> et illud <c>a</c> non est <c>b</c> igitur etc consequentia tenet maior rationis manifesta minor probatur quia sunt 
+            <lb ed="#P" n="11"/>pesonae distinctae <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-isqfid">
+            <pc type="pilcrow"/> Item staret <name>sortem</name> habere amicitiam unius personae et non alterius <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-iochaa">
+            <pc type="pilcrow"/> Item <name>okam</name>
+            <lb ed="#P" n="12"/>dicit de una persona non debet aliquid affirmari quod negetur de alia sive de sui essentia nisi sacra 
+            <lb ed="#P" n="13"/>scriptura nos cogat ad hoc et ponit tamquam unum principium quod quaelibet persona est idem cum alia <pc type="punctus"/> de aliis autem 
+            <lb ed="#P" n="14"/>rebus non sic cogit nos <pc type="virgula">/</pc> nisi sit ratio evidens <pc type="punctus"/> modo sic dicere quod essentia videatur nulla 
+            <lb ed="#P" n="15"/>est auctoritas cogens nos licet persona non videatur videtur quod hoc non sit ponendum quoniam esset concedere 
+            <lb ed="#P" n="16"/>quasi contra dicentia modo est inconveniens <pc type="pilcrow"/> Unde pro aliquali declaratione sunt aliqua advertenda 
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e259">
+          <head xml:id="ppra-l54-Hqascst">Quod aliqua sunt praedicata quae competunt Deo ab aeterno et aliqua quae competunt sibi temporaliter</head>
+          <p xml:id="ppra-l54-aeqsda">
+            <lb ed="#P" n="17"/><pc type="pilcrow"/> Sciendum est quod sunt aliqua praedicata deo competentia ab aeterno <pc type="punctus"/> et aliqua temporaliter <pc type="punctus"/> unde prima sunt in triplici 
+            <lb ed="#P" n="18"/>differentia quia quaedam sunt absoluta et essentialia sicut esse bonum esse perfectum et similia 
+          </p>
+          <p xml:id="ppra-l54-asqsdc">
+            <pc type="pilcrow"/> Alia sunt ratione emanationis ab 
+            <lb ed="#P" n="19"/>intra ut generare esse patrem <pc type="punctus"/> generari esse filium et infundi esse spiritum sanctum 
+          </p> 
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l54-acssda">
+            <pc type="pilcrow"/> Alia sunt ex tempore et hoc dupliciter 
+            <lb ed="#P" n="20"/>nam quadam ratione operationes <unclear>sue?t</unclear> temporalis sicut creator vel creans <pc type="punctus"/> <pc type="virgula">/</pc> alia ratione operationis creaturae 
+            <lb ed="#P" n="21"/>ut diligi amari <pc type="punctus"/> honorari et sic de aliis
+          </p> 
+          <p xml:id="ppra-l54-qapapa">
+            <pc type="pilcrow"/> Quantum igitur ad prima praedicata quodlibet est commune toti essentiae et 
+            <lb ed="#P" n="22"/>cuilibet personarum et omnibus simul <pc type="virgula">/</pc> nam quaelibet persona est ens et omnis trinitatis est ens 
+          </p>
+          <p xml:id="ppra-l54-qlcsda">
+            <pc type="pilcrow"/> Sed tamen quantum est de relatas 
+            <lb ed="#P" n="23"/>licet ei competant ab aeterno <pc type="punctus"/> tamen aliqua uni <pc type="punctus"/> et aliqua alteri <del rend="strikethrough">et</del> sicut generare patri <pc type="punctus"/> et generari filio 
+            <lb ed="#P" n="24"/>et dari spiritui sancto 
+          </p>
+          <p xml:id="ppra-l54-qedecp">
+            <pc type="pilcrow"/> Quantum est de 3iis pro maiori parte ipsa sunt communia essentiae et cuilibet personae <pc type="punctus"/> Et simpliciter 
+            <lb ed="#P" n="25"/>de illis quae competunt ratione suae operationis et operationis creaturae
+          </p> 
+          <p xml:id="ppra-l54-uspvtt">
+            <pc type="pilcrow"/> Unde si pater sit cognitus 
+            <lb ed="#P" n="26"/>sic etiam filius et tota trinitas <pc type="pilcrow"/> unde dicitur <quote xml:id="ppra-l54-Qd1e294" source="http://scta.info/resource/io14_9">qui videt me videt et patrem</quote> 
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e301">
+          <head xml:id="ppra-l54-Huniaqp">Utrum notitia intuitiva immediate terminatat ad Deum terminetur ad essentiam et ad quamlibet personam?</head>
+          <p xml:id="ppra-l54-athias">
+            <pc type="pilcrow"/> Advertendum est tamen quod proprie 
+            <lb ed="#P" n="27"/>loquendo difficultas principalis non solvitur per hoc nam secundum istam viam concederetur quod quilibet cognoscens deum cognosceret 
+            <lb ed="#P" n="28"/>trinitatem et sic philosophi pagani cognoverunt deum et dilexerunt ut trinum et unum quod falsum videtur esse sicut
+            <lb ed="#P" n="29"/>alias est deductum <pc type="punctus"/> quia de trinitate non habuerunt cognitionem
+          </p>
+          <p xml:id="ppra-l54-sdeepd">
+            <pc type="pilcrow"/> Sed in hoc stat difficultas <pc type="pilcrow"/> Nam staret 
+            <lb ed="#P" n="30"/>diligere trinitatem et tamen non credere ymo negare eam <pc type="virgula">/</pc> et hoc potest reduci ad sensum logicum <pc type="pilcrow"/> unde 
+            <lb ed="#P" n="31"/>stat quod aliquis trinitatem diligat <pc type="punctus"/> et tamen non diligat trinitatem <pc type="pilcrow"/> Nichilominus difficultas est de notitia intuitiva 
+            <lb ed="#P" n="32"/>scilicet utrum stat habere notitiam intuitivam de essentia trinitatis sine persona et habeat eligere iudicium quod sit trinitas 
+            <lb ed="#P" n="33"/>et tamen non habeat iudicium de essentia vel econtra 
+          </p>
+          <p xml:id="ppra-l54-ebcdid">
+            <pc type="pilcrow"/> Et circa hoc dicitur quod nullo modo stat aliquem habere notitiam divinae 
+            <lb ed="#P" n="34"/>essentiae quin habeat iudicium quod sit 3es personae <pc type="punctus"/> Et de hoc aliqui sunt controversis <pc type="punctus"/> <pc type="pilcrow"/> Sed non obstante dico 
+            <lb ed="#P" n="35"/>quod potest habere iudicium complexum <pc type="virgula">/</pc> nec potest esse simplex quin repraesentet quod sit pater et filius et spiritus sanctus <pc type="punctus"/> Aliqui 
+            <lb ed="#P" n="36"/>tamen dicunt oppositum
+          </p> 
+          <p xml:id="ppra-l54-epqicp">
+            <pc type="pilcrow"/> Unde intentio salvatoris fuit secundum diversitatem <pc type="virgula">/</pc> quoniam visio corporalis non ostendebat 
+            <lb ed="#P" n="37"/>patrem sed filium 
+          </p>
+          <p xml:id="ppra-l54-escqce">
+            et fundatur ista ratio de concursu obiectivo qui est quaedam operatio ad extra et per consequens quaelibet persona 
+            <lb ed="#P" n="38"/>cognoscitur ut visum fuit <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-ipiqcc">
+            <pc type="pilcrow"/> Item propter ydemptitatem  rationem diligabilitatis non stat quod persona obiciatur voluntati
+            <lb ed="#P" n="39"/>quin obiciatur iudicio rationis <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-ieheet">
+            <pc type="pilcrow"/> Item augustinus dicit sicut concurrit active ut 3es personae ita ratione visionis 
+            <lb ed="#P" n="40"/>ut solus <add place="above-line">deus</add> <pc type="pilcrow"/> unde prima ratio est ipsum esse trinum <pc type="punctus"/>
+          </p>
+          <!-- fuzzy break point; needs review -->
+          <p xml:id="ppra-l54-iedsct">
+             et est suum esse <pc type="punctus"/> esse 3es personae <pc type="punctus"/> et sic prima persona trinitatis est obiectiva 
+            <lb ed="#P" n="41"/>et sic primus conceptus trinitatis est obicibilis nam obicit se ut est deo <pc type="punctus"/> deinde ut est trinus <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-citpvp">
+            <pc type="pilcrow"/> Unde quidam 
+            <lb ed="#P" n="42"/>modernis arguit contra nam intellectus potest habere notitiam de aliquo et tamen dubitare cuius speciei sit <pc type="punctus"/> et 
+            <lb ed="#P" n="43"/>fortius de individuali Antecedens probat nam stat quod aliquis videat sortem a longe ita quod non potest eligere 
+            <lb ed="#P" n="44"/>cuius speciei sit propter nimiam distantiam nec cuius individui <pc type="punctus"/> et ita diceretur de creatura spirituali sicut de angelo 
+            <lb ed="#P" n="45"/>ad angelum bene licet descendere quod divina essentia posset concurrere tali concursu quod intellectus non iudicaret ipsum 
+            <lb ed="#P" n="46"/>esse deum et per consequens non posset elicere quod deus esse deitas et per consequens quod esset trinitas <pc type="punctus"/> Et sic staret 
+            <lb ed="#P" n="47"/>sicut prius quod aliquis ipsum diligeret et tamen non cognosceret 
+          </p>
+          <p xml:id="ppra-l54-reqned">
+            <pc type="pilcrow"/> Ad istam rationem respondetur quod ipsa procedit 
+            <lb ed="#P" n="48"/>ex falsa ymaginatione et hoc est propter comparationem notitiarum ad invicem scilicet intuitivarum nam personalis notitia causatur 
+            <lb ed="#P" n="49"/>mediate organo corporeo et magis debili
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l54-taprvc">
+            <pc type="pilcrow"/> Sed veniendo ad propositum de organo corporeo concludo sibi <pc type="virgula">/</pc> sed 
+            <lb ed="#P" n="50"/>quando infertur igitur a simili de deo dico quod <unclear>si?do</unclear> est falsa in hoc Et causa est duplex primo quia non praesentatur secundum aliquam 
+            <lb ed="#P" n="51"/>distantiam scilicet deus sed quando concurrit obiective summea pplicatur <pc type="pilcrow"/> 2o intellectus videndo deum intuitive non 
+            <lb ed="#P" n="52"/>utrum organo corporeo
+          </p>
+          <!-- review break -->
+          <p xml:id="ppra-l54-esdrnc">
+            <pc type="punctus"/> et sic patet differentia quare etc
+            <!-- consider moving break here -->
+            <pc type="pilcrow"/> Quantum esset de 2o scilicet de angelo admittitur licet possit negari 
+            <lb ed="#P" n="53"/>et quando infertur igitur de deo consequentia non valet nec valet <unclear>si?do</unclear> propter causam applicationis quia deus non potest distare a nobis 
+            <lb ed="#P" n="54"/>sed bona esset <unclear>si?do</unclear> de uno angelo ad alium et <unclear>dissi?do</unclear> provenit ratione divinae notitiae intuitivae et quia deus concurrit obiective
+            <pb ed="#P" n="64-v"/>
+            <lb ed="#P" n="1"/>ut esse trinum et persona sumitur quare ratio non valuit
+          </p>
+        </div>
+        <div xml:id="ppra-l54-Dd1e375">
+          <head xml:id="ppra-l54-Hoqudsa">Obiectio: quod una persona possit videri sive diligi sine alia</head>
+          <div xml:id="ppra-l54-Dd1e380">
+            <head xml:id="ppra-l54-Hpriima">Prima</head>
+            <p xml:id="ppra-l54-cdadsp">
+              <pc type="pilcrow"/> Sed tamen quicquid dicatur arguitur quod una persona potest cognosceri 
+              <lb ed="#P" n="2"/>sine alia <pc type="punctus"/> et hoc una persona potest incarnari sine alia igitur potest esse sine alia vel videri sine alia 
+              <lb ed="#P" n="3"/>consequentia tenet quia non est maior ratio de una quam de alia et antecedens patet quia filius incarnatus
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e389">
+            <head xml:id="ppra-l54-Hsecnda">Secunda</head>
+            <p xml:id="ppra-l54-spncsa">
+              <pc type="pilcrow"/> 2o pater 
+              <lb ed="#P" n="4"/>non est spiritus sanctus <pc type="punctus"/> ista est vera <pc type="punctus"/> vel ergo extrema significant idem vel non si primum tunc est secunda si 2m habetur propositum 
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e398">
+            <head xml:id="ppra-l54-Htertia">Tertia</head>
+            <p xml:id="ppra-l54-icacsp">
+              <lb ed="#P" n="5"/><pc type="pilcrow"/> 3o conceptus absolutus non deppendet a relatione igitur potest haberi sine reliquo et qua ratione 
+              <lb ed="#P" n="6"/>arguitur de visione eadem de fruitione vel etc <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e410">
+            <head xml:id="ppra-l54-Hquarta">Quarta</head>
+            <p xml:id="ppra-l54-iipesp">
+              <pc type="pilcrow"/> 4o intellectus potest ditare quod est summe diligendus igitur etc 
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e420">
+            <head xml:id="ppra-l54-Hquinta">Quinta</head>
+            <p xml:id="ppra-l54-ifpdur">
+              <lb ed="#P" n="7"/><pc type="pilcrow"/> 5a filius potest plus diligi patre igitur sine patre patet quia potest diligi ut redemptor
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e429">
+            <head xml:id="ppra-l54-Hsexxta">Sexta</head>
+            <p xml:id="ppra-l54-impdpt">
+              <pc type="pilcrow"/> 6o 
+              <lb ed="#P" n="8"/>magi pharaonis habuerunt notitiam de deo quo ad duas personas igitur potuerunt habere 3am
+            </p>
+          </div>
+          <div xml:id="ppra-l54-Dd1e441">
+            <head xml:id="ppra-l54-Hsepima">Septima</head>
+            <p xml:id="ppra-l54-idpsdc">
+              <pc type="pilcrow"/> 7o 
+              <lb ed="#P" n="9"/>de personis nam ille sunt origine distincte igitur cognitiones sive visiones diversae consequentia tenet antecedens patet nam pater 
+              <lb ed="#P" n="10"/>prius originem antequam generaret filiumfuit ymaginando instantia nam in primo instant produxit filium 
+              <lb ed="#P" n="11"/>et per consequens est in se <unclear>duae</unclear> sine filio
+            </p>
+          </div>
+          <!-- not clear if this is present
+            <div xml:id="ppra-l54-Dd1e450">
+            <head xml:id="ppra-l54-Hoctava">Octava</head>
+            <p xml:id="ppra-l54-ipeapd">
+              
+            </p>
+          </div>-->
+          <div xml:id="ppra-l54-Dd1e462">
+            <head xml:id="ppra-l54-Hnonona">Nona</head>
+            <p xml:id="ppra-l54-iassir">
+              <pc type="pilcrow"/>8vo quandocumque aliquid habet duo obiecta unum primarium et aliu 2arium 
+              <lb ed="#P" n="12"/>potest absolvi a primo <pc type="punctus"/> sicut de visione verbi a patre <pc type="punctus"/> prima visio est essentia divina igitur in proposito cognito 
+              <lb ed="#P" n="13"/>dei remanebit absque proprietate personarum et per consequens sequitur contra dicta <pc type="pilcrow"/> Item rationes sunt breviter tacta propter 
+              <lb ed="#P" n="14"/>fesiationem congregationis magistrorum super facto iacobitarum ut puto
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l54-Dxxyy1">
+          <head xml:id="ppra-l54-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l54-axxyy3">
+            <pc type="pilcrow"/> primo conlusio lectionis 
+            <lb ed="#P" n="15"/>videlicet 4ae distinctionis 2i libri sententiarum fuit Angeli non fuerunt creari mulieri 
+            <lb ed="#P" n="16"/>licet in culpa decidere <pc type="punctus"/> licet dicant aliqui oppositum Tamen augustinus tenet quod non fuerunt creati miseri unde si 
+            <lb ed="#P" n="17"/>libertas staret in eis cum actu vel stetisset bene fuisset quia staret quod posset carere in actu <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l54-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio 
+            <lb ed="#P" n="18"/>Angeli mali non praesciverunt suum casum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l54-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio ipso fuere <unclear>perfici</unclear> quo ad naturam
+          </p>
+          <p xml:id="ppra-l54-axxyy6">
+            et sic 
+            <lb ed="#P" n="19"/>est finis quovis die sabbati ante epyphatiam et fuit epyphatia tunc die lunae sequenti et cessaverunt lectiones 
+            <lb ed="#P" n="20"/>nostrae in theologiae bis ante scilicet die iovis et dieveneris propter huetos quos dux bituriae deliberavit a carcere episcopi 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

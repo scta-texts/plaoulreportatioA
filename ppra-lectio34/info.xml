@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio34">
+      <head xml:id="ppra-l34-Hldldld">Lectio 34, de Fruitione</head>
+      <div xml:id="ppra-l34-Dd1e93">
+        <head xml:id="ppra-l34-Hqinspf">Quod in nulla creatura sit ponenda felicitas</head>
+        <p xml:id="ppra-l34-pqoapi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l34-pqoapi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-pqoapi"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-l34-eeqcphf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l34-eeqcphf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-eeqcphf"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l34-Dd1e139">
+          <head xml:id="ppra-l34-Hprprpr">Primo ratio</head>
+          <p xml:id="ppra-l34-eheabe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-eheabe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-eheabe"/>
+            </assertions>
+          </p>
+          <!-- reconsider break -->
+          <p xml:id="ppra-l34-qnaesc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-qnaesc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-qnaesc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-spetse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-spetse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-spetse"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-isnfsa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-isnfsa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-isnfsa"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l34-Dd1e163">
+          <head xml:id="ppra-l34-Hsrsrsr">Secunda ratio</head>
+          <p xml:id="ppra-l34-sinrpb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-sinrpb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-sinrpb"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l34-mfepob">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-mfepob"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-mfepob"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l34-iichbf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iichbf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iichbf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-iofpef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iofpef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iofpef"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l34-Dd1e220">
+        <head xml:id="ppra-l34-Hcqdesb">Conclusio: quod Deus est summa bonitas</head>
+        <p xml:id="ppra-l34-eeiiep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l34-eeiiep"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-eeiiep"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l34-Dd1e255">
+          <head xml:id="ppra-l34-Hqddped">Quomodo Deus debemus diligi toto corde et proximus est
+            diligendus</head>
+          <p xml:id="ppra-l34-eimddt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-eimddt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-eimddt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l34-Dd1e267">
+          <head xml:id="ppra-l34-Hdtdtdt">Distinctio termini</head>
+          <p xml:id="ppra-l34-ufcega">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-ufcega"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-ufcega"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-smssra">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-smssra"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-smssra"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-tsphia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-tsphia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-tsphia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-escuca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-escuca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-escuca"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-apapas">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-apapas"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-apapas"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-apauca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-apauca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-apauca"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l34-Dd1e336">
+        <head xml:id="ppra-l34-Hrpcpcc">Rationes principales contra conclusionem</head>
+        <p xml:id="ppra-l34-pdmimt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l34-pdmimt"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-pdmimt"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l34-Dd1e352">
+          <head xml:id="ppra-l34-Hprpprp">Prima ratio principalis</head>
+          <p xml:id="ppra-l34-paphsf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-paphsf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-paphsf"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l34-cdereq">
+              Confirmatur 
+              divina essentia movet bonum praecise finite, 
+              igitur aliqua creatura in maiori proportione 
+              potest movere rationem et quietative.
+              <anchor xml:id="ppra-l34-Aetqqui"/>
+            </p>-->
+          <p xml:id="ppra-l34-cqpdmc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-cqpdmc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-cqpdmc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-icrqic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-icrqic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-icrqic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-iictia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iictia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iictia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-icmdoc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-icmdoc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-icmdoc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-csdnff">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-csdnff"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-csdnff"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-cqodoc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-cqodoc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-cqodoc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l34-Dd1e435">
+          <head xml:id="ppra-l34-Hsrpsrp">Secunda ratio principalis</head>
+          <p xml:id="ppra-l34-spnpep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-spnpep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-spnpep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-ineaaf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-ineaaf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-ineaaf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-inpaas">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-inpaas"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-inpaas"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l34-ineuof">
+              Item 
+              non esset unicum obiectum fruibile.
+            </p>-->
+          <p xml:id="ppra-l34-ideaed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-ideaed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-ideaed"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel and break point -->
+          <p xml:id="ppra-l34-iddfqd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iddfqd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iddfqd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-isddpm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-isddpm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-isddpm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-ibiesm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-ibiesm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-ibiesm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l34-Dd1e518">
+          <head xml:id="ppra-l34-Hararar">Aliae rationes</head>
+          <p xml:id="ppra-l34-arfrfe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-arfrfe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-arfrfe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-equdqp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-equdqp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-equdqp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-esspca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-esspca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-esspca"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-iascam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iascam"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iascam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-veqiie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-veqiie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-veqiie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-iidiie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-iidiie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-iidiie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-scqeic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-scqeic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-scqeic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l34-uarcnf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-uarcnf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-uarcnf"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l34-asmsea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l34-asmsea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-asmsea"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l34-Dd1e1297">
+        <head xml:id="ppra-l34-Hd1e1299">Conclusiones</head>
+        <p xml:id="ppra-l34-d1e1309">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l34-d1e1309"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

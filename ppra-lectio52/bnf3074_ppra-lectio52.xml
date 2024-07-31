@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 52 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 52 [Bnf 3074 Transcription]</title>
+          <date when="2024-07-03">July 03, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="61-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio52">
+        <head xml:id="ppra-l52-Hldfldf">Lectio 52, de Fruitione</head>
+        <div xml:id="ppra-l52-Dd1e109">
+          <head xml:id="ppra-l52-Hpcqtid">Propositiones circa qualiter tota natura tendit in deum</head>
+          <p xml:id="ppra-l52-ahchaa">
+            <lb ed="#P" n="34"/>Consequenter ad intellectum clariorem habendum videlicet qualiter tota natura tendit in deum ultimate 
+            <lb ed="#P" n="35"/>tamquam in suum finem et summum bonum sunt aliqua advertenda 
+          </p>
+          <div xml:id="ppra-l52-Dd1e117">
+            <head xml:id="ppra-l52-Hqncirt">Quod nulla creatura habet intrinseca rationem terminandi</head>
+            <p xml:id="ppra-l52-ereasi">
+              et est repetenda radix prius tacta 
+              <lb ed="#P" n="36"/>scilicet quod nullum creatura habet intrinsece potestatem terminandi et ideo non potest esse <unclear>terminabilis</unclear> de se 
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e128">
+            <head xml:id="ppra-l52-Hqaasac">Quod ab appetitu finis, medii potest simpliciter absolvi creatura</head>
+            <p xml:id="ppra-l52-eeisac">
+              Et sequitur primo 
+              <lb ed="#P" n="37"/>quod ab appetitu finis medii potest simpliciter absolvi creatura
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e137">
+            <head xml:id="ppra-l52-Hqfqion">Quod finis quo non est necessarius in operationibus naturalibus</head>
+            <p xml:id="ppra-l52-eqseae">
+              Ex quo sequitur quod finis quo non est necessarius 
+              <lb ed="#P" n="38"/>in operationibus naturalibus <pc type="virgula">/</pc> patet quia semper est aliquid citra deum cuius res simpliciter est solubilis circa deum igitur etc 
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e147">
+            <head xml:id="ppra-l52-qneefc">Quod non est necesse quod forma et finis coincidant</head>
+            <p xml:id="ppra-l52-suqauf">
+              <pc type="pilcrow"/>Sequitur ulterius quod non est necesse quod forma et finis coincidant Ita quod agens naturale producat 
+              <lb ed="#P" n="39"/>formam et non coincidant
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e156">
+            <head xml:id="ppra-l52-Hqaaces">Quod appetitum animae ad suum corpus esse solubile</head>
+            <p xml:id="ppra-l52-eqsarc">
+              <pc type="pilcrow"/>Ex quo sequitur appetitum ad suum corpus esse solubilem id est stat quod anima non inclinetur 
+              <lb ed="#P" n="40"/>ad suum corpus sive ad suum appetitum patet quia est ad aliud creatum tendens quod non est finis 
+            </p> 
+          </div>
+          <div xml:id="ppra-l52-Dd1e169">
+            <head xml:id="d149Hqahpep">Quod anima humana separat potest esse persona</head>
+            <p xml:id="ppra-l52-eqppep">
+              <pc type="virgula">/</pc> Ex quo 
+              <lb ed="#P" n="41"/>patet quod oppinio magistri est vera videlicet quod anima separata sit persona quia <ref xml:id="ppra-l52-Rd1e179"><!-- see http://scta.info/resource/pl-l3d5c3-d1e124 --><name ref="#Lombard">magister</name></ref> ponit quod sit realiter persona 
+              <lb ed="#P" n="42"/>licet doctores teneant oppositum <pc type="virgula">/</pc> sed tamen realiter inclinatur ad corpus licet non sit potest sui et in 
+              <lb ed="#P" n="43"/>hoc defficit <name>magister</name> <pc type="punctus"/> sed non est necessaria <pc type="punctus"/> et ergo deus potest eam absolvi a tali etc
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e202">
+            <head xml:id="ppra-l52-Hqnrasa">Quod non repugnat angelo quod desinat esse persona absque sui assumptione</head>
+            <p xml:id="ppra-l52-seqeap">
+              <pc type="pilcrow"/> Ex quo sequitur quod non 
+              <lb ed="#P" n="44"/>repugnat angelo quod desinat esse persona absque <del rend="strikethrough">hoc</del> sui assumptione sicut de humanitate christi quod non est persona quare etc
+              <lb ed="#P" n="45"/>Sed de hoc quo ad praesens non est difficultas Ita quod sicut deus potest tollere animae suam operationem 
+              <lb ed="#P" n="46"/>vel inclinationem ita etiam angelo
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e211">
+            <head xml:id="ppra-l52-Hqsgicm">Quod stat grave absolvi a tendentia in centrum mundi</head>
+            <p xml:id="ppra-l52-suqsnp">
+              <pc type="pilcrow"/> Sequitur ulterius magis videndo talem finem quod stat grave ab<lb ed="#P" break="no" n="47"/>solvi 
+              a tendentia in centro mundi <pc type="punctus"/> patet quia nullius naturae est necessaria tendentia in suum finem 
+              <lb ed="#P" n="48"/>igitur sequitur quod grave non naturaliter tendit deorsum et sic proportionaliter diceretur de igne quod sit absque inclinatione 
+              <lb ed="#P" n="49"/>absolvi et sic huiusmodi inclinationes possunt inmutari <pc type="virgula">/</pc> unde tota radix procedit quod finis est mere contingens 
+              <pb ed="#P" n="62-r"/>
+              <lb ed="#P" n="1"/>ex statuto naturae libere sic ordinatis et sic ignis posset descendere et terra ascendere quod videtur inconveniens
+            </p>
+            <p xml:id="ppra-l52-iqphtf">
+              <lb ed="#P" n="2"/><pc type="pilcrow"/> Item staret quod absque loci intentione moveret nam sola creatura est ad finem ultimum
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e223">
+            <head xml:id="ppra-l52-Hqpnddl">Quod principia naturalia subiacent divinae dispositioni liberae</head>
+            <p xml:id="ppra-l52-eqssni">
+              <pc type="pilcrow"/> Ex quo sequitur principia
+              <lb ed="#P" n="3"/>naturalia subiacent divinae dispositioni libere scilicet utrum omne grave descendit et leve ascendit
+              <lb ed="#P" n="4"/>et per consequens sunt contingentia et non necessaria 
+            </p>
+            <p xml:id="ppra-l52-eqpsni">
+              <pc type="virgula">/</pc> Ex quo sequitur quod aliquod principium est quod potest esse contradictorium 
+              <lb ed="#P" n="5"/>principio philosophico <pc type="punctus"/> et sic patet qualiter perfectius theologia considerat naturas rerum et perscrutatur et 
+              <lb ed="#P" n="6"/>philosophatur quia nulla alia scientia novit quidditatem veram rerum nam <unclear>ipse</unclear> ponit necessario statutorum divino 
+              <lb ed="#P" n="7"/>agere quicquid agit <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l52-cdqcru">
+              <pc type="pilcrow"/> Consequenter diceretur quod velocitates in motibus magis secuntur nam 
+              <lb ed="#P" n="8"/>divini decreti et liberi quam natura sive potentiam activorum ad suam resistentiam <pc type="punctus"/> nam una creatura 
+              <lb ed="#P" n="9"/>agit in aliam et resistit secundum regimen universi principis 
+            </p>
+            <p xml:id="ppra-l52-cddrai">
+              <pc type="virgula">/</pc> Et sic diceretur de duratione 
+              <lb ed="#P" n="10"/>rerum <pc type="punctus"/> et consequenter reducerentur ad idem 
+            </p> 
+            <p xml:id="ppra-l52-eqppim">
+              <pc type="virgula">/</pc> Et sic ex hoc non videtur inconveniens quod angelus 
+              <lb ed="#P" n="11"/>haberet principium suae corruptionis sicut de forma substantiali rei materialis corporalis <pc type="virgula">/</pc> quoniam non videtur maior distantia 
+              <lb ed="#P" n="12"/>sive repugnantia quam de forma corporali <pc type="punctus"/> quia quaelibet creatura de se est in nihilum fluxibilis igitur ad certam 
+              <lb ed="#P" n="13"/>combinationem remanet certa proportio quare etc <pc type="pilcrow"/> Unde haec positio videtur fundari supra sacram scripturam ut 
+              <lb ed="#P" n="14"/>habetur maxime <ref>proverbiorum 2o</ref> videlicet quomodo deus posuit legem singulis <pc type="pilcrow"/> Et rabbi moyses qui 
+              <lb ed="#P" n="15"/>fuit doctor autenticus et famosus licet iudaeus <pc type="punctus"/> videtur hoc tangere in suo libro de <unclear>vire</unclear>
+              <lb ed="#P" n="16"/>iudaeorum dicens quod totum est in libera dei dispositione <pc type="punctus"/>
+            </p> 
+          </div>
+          <div xml:id="ppra-l52-Dd1e268">
+            <head xml:id="ppra-l52-Hqcvpna">Quod caritas vel gratia non potest inclinare contra primarium naturae appetitum</head>
+            <p xml:id="ppra-l52-eqspin">
+              <pc type="pilcrow"/> Ex quo sequitur ulterius quod caritas vel 
+              <lb ed="#P" n="17"/>gratia non potest inclinare contra primarium naturae appetitum patet <pc type="virgula">/</pc> quia rectissimus et semper in deo est quod tamen sic 
+              <lb ed="#P" n="18"/>potest dici quod non est caritas distincta ab appetente capiendo tamen pro impellente potest dici quod est deus <pc type="punctus"/> unde 
+              <lb ed="#P" n="19"/>creatura est sicut sagitta missa a <unclear>sagitatare</unclear> usque ad signum quae si bonum <unclear>sagitatarem</unclear> habet pervenit 
+              <lb ed="#P" n="20"/>ad ipsum signum Ita proportionaliter de appetitu sive voluntate dicitur quod si dirigatur a deo qui est agens 
+              <lb ed="#P" n="21"/>infallibile pervenit ad signum videlicet ad suum finem debitum Et huic dicto consonat 
+              <lb ed="#P" n="22"/>hoc quod in philosophia dicitur quod dirigitur ab agente infallibili et intelligentia non errante <pc type="virgula">/</pc> et sic semper 
+              <lb ed="#P" n="23"/>recta est Et ideo caritas non potest ad obiectum intelligere 
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e288">
+            <head xml:id="ppra-l52-Hqcnpuc">Quod caritas non potest inclinare ad diligendum Deum propter utilitatem creaturae</head>
+            <p xml:id="ppra-l52-eqppuc">
+              <pc type="pilcrow"/> Ex quo sequitur quod caritas non dirigeret creaturam 
+              <lb ed="#P" n="24"/>ad diligendum deum propter activitatem creaturae
+            </p>
+            <p xml:id="ppra-l52-uaeefc">
+              <pc type="pilcrow"/> Ubi advertendum est quod <ref xml:id="ppra-l52-Rd1e300"><name ref="#WilliamOfAuxerre">autissiodorensis</name></ref> ponit duos modus caritatis 
+              <lb ed="#P" n="25"/>unum propter finem habere simpliciter <pc type="virgula">/</pc> aliter propter habere bonum et praemiari a deo
+            </p> 
+            <p xml:id="ppra-l52-qappef">
+              <pc type="pilcrow"/> Quantum ad primum dicitur gloriam meam 
+              <lb ed="#P" n="26"/>alteri non dabo <pc type="virgula">/</pc> verum est tamen quod deus bonorum nostrorum non eget <pc type="punctus"/> ut in <ref>psalmo</ref> <quote>Bonorum morum non eges</quote>
+              <lb ed="#P" n="27"/>sed nos in ipso 
+            </p> 
+            <p xml:id="ppra-l52-cspefc">
+              <pc type="pilcrow"/> Tamen contra 2am partem dicitur quod ordo debitus naturalis et caritatis non secundum <unclear>naturam</unclear>
+              <lb ed="#P" n="28"/>deus sit ulterius terminus igitur diligere deum ut felicitatem vel tale quid obtinere est magis diligere paremium 
+              <lb ed="#P" n="29"/>et sic creatura ipsamet <del rend="expunctuation">nec</del> obiectum erit quare etc
+            </p>
+            <p xml:id="ppra-l52-pstpdc">
+              <pc type="pilcrow"/> Sed pro salvatione dicti est advertendum quod in hoc potest dupliciter con<lb ed="#P" break="no" n="30"/>siderari
+            </p> 
+            <p xml:id="ppra-l52-umqpus">
+              <pc type="pilcrow"/> Uno modo quod sint duo termini scilicet creatura sit terminus ad quem et deus a quo <pc type="punctus"/> et sic non est licitum 
+              <lb ed="#P" n="31"/>diligere deum propter creaturam
+            </p> 
+            <p xml:id="ppra-l52-spcuid">
+              <pc type="pilcrow"/> 2o modo potest considerari utroque modo Ita quod dilectio habet illos duos 
+              <lb ed="#P" n="32"/>terminos et unum alium ad quem et sic illo modo caritas iuvaret ad dei fruitionem sive cognitionem quare dictum 
+              <lb ed="#P" n="33"/><name>autissiodorensis</name> sic salvaretur 
+            </p> 
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l52-esdntu">
+              <pc type="virgula">/</pc> et haec via reputatur satis probabilis videlicet quod deus tamquam praemiatorum 
+              <lb ed="#P" n="34"/>diligendus est et refertur sic dilectio in suum finem ultimate <pc type="virgula">/</pc> unde motus rationalis est sicut <add place="above-line">naturalis</add> <pc type="virgula">/</pc> nam 
+              <lb ed="#P" n="35"/>incipit a deo et terminatur in finem debitum a simili de motu ipso naturali quoniam incipit in oriente et 
+              <lb ed="#P" n="36"/>terminatur in occidentem 
+            </p> 
+          </div>
+          <div xml:id="ppra-l52-Dd1e345">
+            <head xml:id="ppra-l52-qliemn">Quod licet illa dilectio esset licita qua diligeretur Deus propter utilitatem creaturae nihilominus tamen dilectio simplex absoluta et propter se est multo nobilior</head>
+            <p xml:id="ppra-l52-suqcdn">
+              <pc type="pilcrow"/> Sequitur ulterius quod nihilominus dilectio singularis est multo nobilior licet esset meritoria 
+              <lb ed="#P" n="37"/>reflectendo tamen patet quia minus participat de conversione dei ad creaturam
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e354">
+            <head xml:id="ppra-l52-Hqopcin">Quod omne peccatum est realiter naturae contrarium et contra inclinationem naturalem</head>
+            <p xml:id="ppra-l52-suqdvi">
+              <pc type="pilcrow"/> Ulterius sequitur quod omne peccatum 
+              <lb ed="#P" n="38"/>est rectae naturae contrarium <pc type="punctus"/> patet quia recte nulla inclinatur ultimo bono <pc type="punctus"/> <pc type="pilcrow"/> Et hoc testatur <ref xml:id="ppra-l52-Rd1e363"><name ref="#Augustine">augustino</name> in libro <title ref="deVeraInnocentiae">de vera 
+              <lb ed="#P" n="39"/>innocentiae</title></ref>
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e378">
+            <head xml:id="ppra-l52-Hqhnmup">Quod homo non debet servire Deo ut praemietur nec mereri ut praemietur</head>
+            <p xml:id="ppra-l52-sqhmup">
+              <pc type="pilcrow"/> Unde sequitur quod homo non debet servire deo ut praemietur
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e387">
+            <head xml:id="ppra-l52-Hqanlaa">Quod agentia naturalia non agunt ut assimilentur Deo, licet agendo assimilentur</head>
+            <p xml:id="ppra-l52-suquad">
+              <pc type="pilcrow"/> Ulterius agentia naturalia proprie loquendo 
+              <lb ed="#P" n="40"/>non agunt nisi ut assimilentur deo licet <!-- something added above line here?? --> agant propter eum <pc type="punctus"/>
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l52-Dd1e397">
+          <head xml:id="ppra-l52-Hscqtid">Sed contra quod tota natura tendit in deum</head>
+          <div xml:id="ppra-l52-Dd1e402">
+            <head xml:id="ppra-l52-Hpriima">Prima</head>
+            <p xml:id="ppra-l52-scdied">
+              <pc type="pilcrow"/> Sed contra dicta arguitur quia natura humana 
+              <lb ed="#P" n="41"/>prona est ad malum igitur est depravata <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e413">
+            <head xml:id="ppra-l52-Hsecnda">Secunda</head>
+            <p xml:id="ppra-l52-isniad">
+              <pc type="pilcrow"/> Item si sic esset recta sequeretur quod ex puris naturalibus 
+              <lb ed="#P" n="42"/>homo attingeret deum quod est error pelagi
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e428">
+            <head xml:id="ppra-l52-Htertia">Tertia</head>
+            <p xml:id="ppra-l52-iinaai">
+              <pc type="pilcrow"/> Item inclinatio naturae est a deo sic libere impellente 
+              <lb ed="#P" n="43"/>igitur potest alterum duorum facere scilicet vel substrahere et per consequens ad aliud inclinare et sic natura erit ad aliquod <unclear>casum</unclear> 
+              <lb ed="#P" n="44"/>absque deo
+            </p> 
+          </div>
+          <div xml:id="ppra-l52-Dd1e439">
+            <head xml:id="ppra-l52-Hquarta">Quarta</head>
+            <p xml:id="ppra-l52-ileqid">
+              <pc type="pilcrow"/> Item libertas est potentia superioris ad naturam cognitivum ergo si sit imperfectior et natura 
+              <lb ed="#P" n="45"/>imperfectior erit
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e454">
+            <head xml:id="ppra-l52-Hquinta">Quinta</head>
+            <p xml:id="ppra-l52-icsqid">
+              <pc type="pilcrow"/> Item creatura sibi derelicta tendit in nihilum <pc type="punctus"/> igitur magis in oppositum dei quam econtra 
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e465">
+            <head xml:id="ppra-l52-Hsexxta">Sexta</head>
+            <p xml:id="ppra-l52-iniped">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="46"/>naturalis iustitia resultat ex divino decreto et eius <seg type="correction">acceptione<del>ta</del></seg> <pc type="punctus"/> igitur cum deus possit acceptare videtur esse 
+              <lb ed="#P" n="47"/>depravatio
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e476">
+            <head xml:id="ppra-l52-Hsepima">Septima</head>
+            <p xml:id="ppra-l52-imcusf">
+              <pc type="pilcrow"/> Item multiplex contingit error in agentibus igitur etc consequentia tenet et antecedens patet quoniam in animalibus <unclear>feralibus</unclear>
+              <lb ed="#P" n="48"/>ferocitates suae sunt nocivae
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e485">
+            <head xml:id="ppra-l52-Hoctava">Octava</head>
+            <p xml:id="ppra-l52-ipmutu">
+              <pc type="pilcrow"/> Item per malam doctrinam possunt animalia introduci igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e494">
+            <head xml:id="ppra-l52-Hnonona">Nona</head>
+            <p xml:id="ppra-l52-iacsda">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="49"/>aliqua corpora coelestia sunt intrinsece mala sicut saturnus et mars igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l52-Dd1e511">
+            <head xml:id="ppra-l52-Hdecima">Decima</head>
+            <p xml:id="ppra-l52-ipdqec"> 
+              <pc type="pilcrow"/> Item potest dari praeceptum 
+              <lb ed="#P" n="50"/>contra inclinationem naturalem sicut potest poni per casum quod sorti praecipiatur quod habeat inclinationem ad <c>a</c> malum 
+              <lb ed="#P" n="51"/>tunc arguitur etc liquidum est satis <pc type="punctus"/> <pc type="pilcrow"/> Solutiones pro alia lectione dimittuntur 
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l52-Dxxyy1">
+          <head xml:id="ppra-l52-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l52-axxyy3">
+            <pc type="virgula">/</pc> Sed tamen prima conclusio lectionis fuit
+            <lb ed="#P" n="52"/>videlicet de tempore et situ angelorum unde dicunt quidam creationem angelorum creatione mundi praecessisse 
+            <lb ed="#P" n="53"/>sed falsum videtur hoc esse nam angeli fuere creati cum materia elementaris et aliquando dicitur in 
+            <lb ed="#P" n="54"/>principio deus creavit caelum et terram per caelum intelligitur natura angelica et elementaris et particularia etc  
+          </p>
+          <p xml:id="ppra-l52-axxyy4">
+            <pc type="pilcrow"/> 2a conclusio 
+            <lb ed="#P" n="55"/>Angeli fuerunt creati in caelo epireo vel deo unde de numero caelorum inter doctores est difficultas 
+            <pb ed="#P" n="62-v"/>
+            <lb ed="#P" n="1"/>sed astrologos et theologos <pc type="punctus"/> Tamen concordant ponendae nonum caelum
+          </p>
+          <p xml:id="ppra-l52-axxyy5">
+            <pc type="pilcrow"/> 3a conclusio proportionaliter materia 
+            <lb ed="#P" n="2"/>prima et angeli fuerunt creat ut informis unde advertendum est quod boni per cartiatem fuere creati 
+            <lb ed="#P" n="3"/>et sic materia prima fuit creata sine distantia 
+          </p>
+          <p xml:id="ppra-l52-axxyy6">
+            <pc type="pilcrow"/> 4a conclusio de primo angelo quod deo appetivit <unclear>assimilari</unclear> et ideo 
+            <lb ed="#P" n="4"/>cecidit Unde de eius casu tenetur a multis doctoribus quod in primo non fuit nisi obmissio 
+            <lb ed="#P" n="5"/>et erat quod tale non peccatum sed veniale <pc type="punctus"/> quia complacentiam quamdam cepit in se et sic 
+            <lb ed="#P" n="6"/>fuit negligentia <pc type="punctus"/> sed pro praesenti de hoc non desseritur Et certe michi videtur quod difficulter est substibile 
+            <lb ed="#P" n="7"/>et haec de praesenti lectione lecta die lunae post natale deum nostri ihesu christi prima die <unclear>legibili</unclear>
+          </p>
+        </div>
+      </div>  
+    </body>
+  </text>
+</TEI>

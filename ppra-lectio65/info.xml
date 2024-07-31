@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio65">
+      <head xml:id="ppra-l65-Hldtldt">Lectio 65, de Trinitate</head>
+      <div xml:id="ppra-l65-Dd1e109">
+        <head xml:id="ppra-l65-Hrpcrpc">Recapitulatio priores conclusiones</head>
+        <p xml:id="ppra-l65-pidppi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-pidppi"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-pidppi"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l65-Dd1e118">
+        <head xml:id="ppra-l65-Hobines">Obiectiones</head>
+        <p xml:id="ppra-l65-nrivma">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-nrivma"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-nrivma"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-peisia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-peisia"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-peisia"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-esrend">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-esrend"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-esrend"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-aiepea">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-aiepea"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-aiepea"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-icicrf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-icicrf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-icicrf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ibdevv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ibdevv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ibdevv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-aeifrm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-aeifrm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-aeifrm"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l65-Dd1e287">
+        <head xml:id="ppra-l65-Hresnes">
+          <unclear>Responsiones</unclear>
+        </head>
+        <p xml:id="ppra-l65-dargcf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-dargcf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-dargcf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-sivmif">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-sivmif"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-sivmif"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ifhfrm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ifhfrm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ifhfrm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ecpcpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ecpcpd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ecpcpd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-idecsm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-idecsm"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-idecsm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ceehic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ceehic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ceehic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-eitsue">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-eitsue"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-eitsue"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ipcpic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ipcpic"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ipcpic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ipospd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ipospd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ipospd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ineedd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ineedd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ineedd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-cempdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-cempdc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-cempdc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ehahcc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ehahcc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ehahcc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-aiapsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-aiapsc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-aiapsc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-aieufs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-aieufs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-aieufs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-icuufc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-icuufc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-icuufc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l65-ipqhvs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ipqhvs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ipqhvs"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l65-Dd1e446">
+          <head xml:id="ppra-l65-Hurdrdr">Una ratio <name ref="#Ripa">de Rippa</name></head>
+          <p xml:id="ppra-l65-atpess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l65-atpess"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-atpess"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l65-ihhpua">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l65-ihhpua"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-ihhpua"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l65-tnhefp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l65-tnhefp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-tnhefp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l65-esupvi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l65-esupvi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-esupvi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l65-eieppn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l65-eieppn"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l65-eieppn"/>-->
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l65-Dxxyy1">
+        <head xml:id="ppra-l65-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l65-axxyy3"> </p>
+        <p xml:id="ppra-l65-axxyy4"> </p>
+        <p xml:id="ppra-l65-axxyy5"> </p>
+        <p xml:id="ppra-l65-axxyy6"> </p>
+        <p xml:id="ppra-l65-axxyy7"> </p>
+        <p xml:id="ppra-l65-axxyy8"> </p>
+        <p xml:id="ppra-l65-axxyy9"> </p>
+      </div>
+    </div>
+  </body>
+</info>

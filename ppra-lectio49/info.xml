@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio49">
+      <head xml:id="ppra-l49-Hd1e101">Lectio 49, de Fruitione</head>
+      <div xml:id="ppra-l49-Dd1e104">
+        <head xml:id="ppra-l49-Hduembe">Difficultas: Utrum ex puris naturalibus potest quis actum
+          moraliter bonum elicere?</head>
+        <div xml:id="ppra-l49-Dd1e109">
+          <head xml:id="ppra-l49-Hdododo">Duo opiniones</head>
+          <p xml:id="ppra-l49-pfrdei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-pfrdei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-pfrdei"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-nadmbe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-nadmbe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-nadmbe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-adqmqt">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-adqmqt"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-adqmqt"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e124">
+          <head xml:id="ppra-l49-Hogebmo">Opinio Gregorii et Bradwardini: Quod ex puris naturalibus
+            nullus potest bene moraliter operari</head>
+          <p xml:id="ppra-l49-uaqsnf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-uaqsnf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-uaqsnf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e144">
+          <head xml:id="ppra-l49-Hdugsss">Dubium: utrum gratia gratificans se sola
+            sufficeret?</head>
+          <p xml:id="ppra-l49-shemsm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-shemsm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-shemsm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-rpqeng">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-rpqeng"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-rpqeng"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-sdqiip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-sdqiip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-sdqiip"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l49-idddic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-idddic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-idddic"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present, but its not entirely clear 
+              <p xml:id="ppra-l49-sdqifd">
+              Secunda dato quod caritas 
+              produceret actum perfectiorem quam sit aliquis actus moralis, 
+              quia caritas excedit quemcumque habitum moralem, non tamen cum voluntate 
+              posset in fruitionem Dei.
+            </p>-->
+          <p xml:id="ppra-l49-tdqisi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-tdqisi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-tdqisi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e175">
+          <head xml:id="ppra-l49-Hcogcog">Circa opinionem <name ref="#Rimini">Gregorii</name></head>
+          <p xml:id="ppra-l49-aeqqmp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-aeqqmp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-aeqqmp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-uogsra">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-uogsra"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-uogsra"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e196">
+          <head xml:id="ppra-l49-Hqdhges">Quod Deus habet influentiam generalem et specialem</head>
+          <p xml:id="ppra-l49-uaqhep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-uaqhep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-uaqhep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-stdbmo">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-stdbmo"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-stdbmo"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-refiqa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-refiqa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-refiqa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-ateebs">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ateebs"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ateebs"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-uarbcp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-uarbcp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-uarbcp"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l49-nsaepn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-nsaepn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-nsaepn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e249">
+          <head xml:id="ppra-l49-Hmcqedg">Melior conclusio: quod requiritur Dei speciale adiutorium
+            et Dei gratia</head>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l49-sqaaia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-sqaaia"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-sqaaia"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l49-Dd1e259">
+        <head xml:id="ppra-l49-Hrarrar">Responsio ad rationes</head>
+        <div xml:id="ppra-l49-Dd1e264">
+          <head xml:id="ppra-l49-Haprapr">Ad primam rationem</head>
+          <p xml:id="ppra-l49-staidc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-staidc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-staidc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-reppav">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-reppav"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-reppav"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-iirmip">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-iirmip"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-iirmip"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-sprpmc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-sprpmc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-sprpmc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-pqviem">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-pqviem"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-pqviem"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-squifd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-squifd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-squifd"/>
+            </assertions>
+          </p>
+          <!--
+              doesn't seem present 
+              <p xml:id="ppra-l49-iniqes">
+              Item,
+              ipsa nunc non potest in fruitionem quae erat in statu innocentiae, 
+              ergo nec in fruitione pro nunc quae est superior.
+            </p>-->
+          <p xml:id="ppra-l49-ideets">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ideets"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ideets"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-idbiuf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-idbiuf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-idbiuf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-ivpads">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ivpads"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ivpads"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-ipcidc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ipcidc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ipcidc"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l49-eahnpd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-eahnpd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-eahnpd"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l49-esvtne">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-esvtne"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-esvtne"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l49-esadsg">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-esadsg"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-esadsg"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l49-aaicss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-aaicss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-aaicss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-ppr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ppr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ppr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-snepse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-snepse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-snepse"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l49-cpiiev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-cpiiev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-cpiiev"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l49-dcriee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-dcriee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-dcriee"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l49-dciiis">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-dciiis"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-dciiis"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l49-Dd1e390">
+          <head xml:id="ppra-l49-Hasrasr">Ad secundam rationem</head>
+          <p xml:id="ppra-l49-cassir">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l49-cassir"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-cassir"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l49-Dxxyy1">
+        <head xml:id="ppra-l49-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l49-cdpeip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l49-cdpeip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-cdpeip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l49-scvdya">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l49-scvdya"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-scvdya"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l49-ucddya">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l49-ucddya"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l49-ucddya"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

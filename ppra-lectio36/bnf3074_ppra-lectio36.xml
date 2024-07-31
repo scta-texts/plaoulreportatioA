@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 36 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 36 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-23">May 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="53-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio36">
+        <head xml:id="ppra-l36-Hldfldf">Lectio 36, de Fruitione</head>
+        <div xml:id="ppra-l36-Dd1e87">
+          <head xml:id="ppra-l36-Huaparc">Utrum a parte obiecti aliquod bonum finitum sufficiat ultimate terminare appetitum rationalis creaturae?</head>
+          <!--
+            Doesn't seem present
+            
+            <p xml:id="ppra-l36-pfieas">
+            Prius fuit inducta difficultas tangens 
+            finitatem capacitatis humanae. et de hoc dictum est 
+            aliqualiter supra.
+          </p>-->
+          <p xml:id="ppra-l36-nriarc">
+            <lb ed="#P" n="41"/>Restat inquirendum utrum aliquando aliquod obiectum finitum sufficiat terminare appetitum humanae creaturae
+          </p>
+          <p xml:id="ppra-l36-echnva">
+            Et advertendum est 
+          </p>
+          <p xml:id="ppra-l36-pqgutf">
+            primo
+            <lb ed="#P" n="42"/>quod generaliter omnes creatura sive cognitiva sive non appetit summum bonum tamquam suum finem et hoc est de intentione 
+            <lb ed="#P" n="43"/><ref xml:id="ppra-l36-Rd1e119" corresp="#ppra-l36-Qbeqqoa">philosophi primo ethicorum in principio libri</ref> quasi <quote xml:id="ppra-l36-Qbeqqoa" source="http://scta.info/resource/aristneth-l1">Omnia bonum appetunt</quote> <pc type="pilcrow"/> unde <ref xml:id="ppra-l36-Rd1e147"><name ref="#Eustratius">eustratius</name></ref> dicit <name>aristotelem</name> per illud <mentioned>bonum</mentioned> intelligere 
+            <lb ed="#P" n="44"/>deum 
+          </p>
+          <p xml:id="ppra-l36-iesgau">
+            Et fundatur prima ratio sic nam est subordinatio finium igitur finis appetitur propter ultimum <pc type="punctus"/> Et hoc
+            <lb ed="#P" n="45"/>dupliciter ymaginatur uno modo resolvendo appetitum nam per voluntatem dei dirigitur res et imperio suo vocat ea quae non sunt 
+            <lb ed="#P" n="46"/><pc type="pilcrow"/> 2o modo ymaginatur in rebus in quantum in se est effective secundum ymaginationem <name>boetii</name> <pc type="pilcrow"/> Ubi advertendum est quod in rebus est 
+            <lb ed="#P" n="47"/>multiplex bonum <pc type="virgula">/</pc> videlicet primo quoddam individuum concernens <pc type="pilcrow"/> aliud concernes speciem aliud universum
+          </p>
+          <p xml:id="ppra-l36-qapuqg">
+            <pc type="pilcrow"/> Quantum 
+            <lb ed="#P" n="48"/>ad primum animalia appetunt cibus conservativum individui et tale conservat individuum et etiam generationem et hoc 
+            <lb ed="#P" n="49"/>propter bonum speciei nam generatio ordinatur in speciem continuando <pc type="pilcrow"/> Aliud est bonum generis quo animalia communicant 
+            <lb ed="#P" n="50"/><pc type="pilcrow"/> Aliud respectu totius unum si et id fit per quamdam analogiam scilicet per causa reflexa
+          </p>
+          <p xml:id="ppra-l36-naqpft">
+            <pc type="pilcrow"/> Et est 
+            <lb ed="#P" n="51"/>advertendum quod bonum tanto <unclear>communius</unclear> tanto melius nam bonum individuii melius quam speciei et sic ascendendo bonum speciei
+            <lb ed="#P" n="52"/>quam generis et ultra procedendo <pc type="pilcrow"/> Veniendo ulterius ad materiam sit conclusio responsibilis quod creatura humana non potest in aliquo 
+            <lb ed="#P" n="53"/>suo fine quietari et ad hoc de potentia dei absoluta probatur conclusio propter insufficientiam creaturae quia tanto plus habet plus 
+            <lb ed="#P" n="54"/>cupit <pc type="punctus"/> et per consequens nulli alteri potest sufficere 
+          </p>
+          <!-- review break point -->
+          <p xml:id="ppra-l36-uveufc">
+            patet hoc per habitudinem causae finalis ad suum effectum et hoc satis patet 
+            <lb ed="#P" n="55"/>superius <pc type="punctus"/>
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Concluditur ulterius quod deus est causa finalis rerum et creaturae
+          </p>
+        </div>
+        <div xml:id="ppra-l36-Dd1e253">
+          <head xml:id="ppra-l36-Hcorria">Corollaria</head>
+          <div xml:id="ppra-l36-Dd1e258">
+            <head xml:id="ppra-l36-Hpcrsfd">Primum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e199" type="question-title">Res essentialiter perfectior est a suo fine dependentior</head>
+            <p xml:id="ppra-l36-eqcpcd">
+              <pc type="pilcrow"/> Et inferuntur aliqua correlaria <pc type="pilcrow"/> primum igitur est 
+              <lb ed="#P" n="56"/>Res essentialiter perfectior est a suo <del rend="strikethrough">genere</del> fine dependentior et secundum gradus specificos sunt gradus inclinativum diversa <unclear>p</unclear> specierum 
+              <pb ed="#P" n="53-v"/>
+              <lb ed="#P" n="1"/>unde ordo inclinationum est <unclear>evidenter</unclear> in homine secundum quod habet varias inclinationes ad operationes ad cetera <pc type="punctus"/> 
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e281">
+            <head xml:id="ppra-l36-Hsclcsa">Secundum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e211" type="question-title">Latitudo honestatis naturalis et essentialis perfectionis correspondent sibi adaequate</head>
+            <p xml:id="ppra-l36-sclsfd">
+              <pc type="pilcrow"/> 2m corollarium 
+              <lb ed="#P" n="2"/>latitudo naturalis perfectionis et honestatis essentialis correspondens sibi adaequate est habitudo rei ad suum effectum
+              <lb ed="#P" n="3"/>nam legimus de platone quod de iustitia fecit multos libros
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e310">
+            <head xml:id="ppra-l36-tcqued">Tertium corollarium</head>
+            <head xml:id="ppra-l36-Hd1e226" type="question-title">Quod res perfectior universaliter est dependentior</head>
+            <p xml:id="ppra-l36-stqtmd">
+              <pc type="pilcrow"/> 3m correlarium est quod res perfectior est <unclear>generaliter</unclear> 
+              <lb ed="#P" n="4"/>dependentior quam minus perfecta <pc type="punctus"/> patet hoc nam ex habitudine effectus ad causam efficientem tanto res est perfectior tanto de<lb ed="#P" break="no" n="5"/>pendentior
+              et hoc dictum est superius <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e329">
+            <head xml:id="ppra-l36-Hqcqrde">Quartum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e238" type="question-title">Quod ad subtractionem influxus causae finalis res desineret esse</head>
+            <p xml:id="ppra-l36-qsqasc">
+              <pc type="pilcrow"/> 4m correlarium substractio ad <sic>sustractionem</sic> causae finalis influxus res 
+              <lb ed="#P" n="6"/>dependet minus in esse patet quia quanta est dependentia sui effectus ad causam finalem tanta est substractio ipsius ab ipse
+              <lb ed="#P" n="7"/>fili causa
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e355">
+            <head xml:id="ppra-l36-Hqcqnsd">Quintum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e242" type="question-title">Quod creatura non tendit in non-esse positive et tamen sibi derelicta in non-esse subito deflueret</head>
+            <p xml:id="ppra-l36-suqaee">
+              <pc type="pilcrow"/> 5m correlarium creatura non tendit in non esse et tamen derelicta et in nihilum defflueret tanto
+              <lb ed="#P" n="8"/>defluxu in dictum <pc type="punctus"/> <pc type="pilcrow"/> Unde conservatio partim reducitur ad efficientem partim ad finalem
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e377">
+            <head xml:id="ppra-l36-Hscqian">Sextum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e254" type="question-title">Quod illud <unclear>con[??]</unclear> dictum creaturae inclinatur ad non-esse</head>
+            <p xml:id="ppra-l36-ehspsc">
+              <pc type="pilcrow"/> unde sequitur quod cum creatura tendit 
+              <lb ed="#P" n="9"/>ad non esse bonum passive quia statum derelicta non esset in actu vel secundum actum <pc type="punctus"/> quia indiget finali conservante 
+              <lb ed="#P" n="10"/>agente <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e395">
+            <head xml:id="ppra-l36-Hscqiqc">Septimum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e269" type="question-title">Quod spiritualis creatura est indigentior quam corporalis</head>
+            <p xml:id="ppra-l36-seqiqc">
+              <lb ed="#P" n="11"/> Unde sequitur post quod quanto creatura perfectior tanto plus habet de imperfectione quia magis indiget sui 
+              <lb ed="#P" n="12"/>conservativa 
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e408">
+            <head xml:id="ppra-l36-Hocqmec">Octavum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e281" type="question-title">Quod suprema intelligentia, si daretur, magis passive tenderet in nihilum quam mixtum ex contrariis</head>
+            <p xml:id="ppra-l36-seqadr">
+              <pc type="pilcrow"/> Unde sequitur etiam quod supprema intelligentia magis passive tenderet in nihilum quam mixtum ex contrariis 
+              <lb ed="#P" n="13"/>sicut est creatura humana <pc type="punctus"/> <pc type="pilcrow"/> Ex quibus patet quod intelligentias se paratas a materia necesse est esse simpliciter est error <pc type="punctus"/> quia magis 
+              <lb ed="#P" n="14"/>est fluxibilis intelligentia in non esse quam humana creatura <pc type="pilcrow"/> Ex quo infertur quod intelligentiae sunt res contingentissimae 
+              <lb ed="#P" n="15"/>et magis inclinante ad non esse quam creaturae ex mixtis contrariis <pc type="pilcrow"/> Ulterius est sciendum quod res perfectior magis 
+              <lb ed="#P" n="16"/>tenetur deo quam minus perfecta <pc type="punctus"/> patet quia tanto perfectior magis deo videtur appropinquare et per consequens magis 
+              <lb ed="#P" n="17"/>humiliari quoniam magis a deo recipit
+            </p>
+            <p xml:id="ppra-l36-eqpdeh">
+              <pc type="pilcrow"/> Ex quo patet quod propter merita nostra non debemus gloriari apud deum 
+              <lb ed="#P" n="18"/>quia huiusmodi bona sunt dei dona <pc type="virgula">/</pc> hoc enim patet per <name>augustinum</name> dicentem <pc type="virgula">/</pc> Quanto plus a deo recipimus tanto
+              <lb ed="#P" n="19"/>plus humiliari debemus
+            </p>
+            <p xml:id="ppra-l36-eqpctv">
+              <pc type="pilcrow"/> Ex quibus patet quod male gloriantur qui de scientia sive gloriantur nisi in deum 
+              <lb ed="#P" n="20"/>humiliando saltem et ipsum laudando
+            </p>
+          </div>
+          <div xml:id="ppra-l36-Dd1e474">
+            <head xml:id="ppra-l36-Hncqesb">Nonum corollarium</head>
+            <head xml:id="ppra-l36-Hd1e303" type="question-title">Quod demonstrationes necessario inclinatur in Deum tanquam in finem ultimum et summum bonum</head>
+            <p xml:id="ppra-l36-sqdosf">
+              <pc type="pilcrow"/> Ulterius sequitur daemones necessario inclinari in deum tamquam in 
+              <lb ed="#P" n="21"/>summum bonum patet hoc quia naturalis inclinatio non potest frustrari in eis etiam de potentia dei absoluta <pc type="virgula">/</pc> et sic 
+              <lb ed="#P" n="22"/>ex dictis patet quod tale quod non potest aufferi nisi cum corruptione subiecti unde sequitur cum praedictis quod cum creatura 
+              <lb ed="#P" n="23"/>ad contrarium sui finis stat etiam quod acceptat dum tamquam ultimum suum finem 
+            </p>
+            <p xml:id="ppra-l36-seqqii">
+              <pc type="virgula">/</pc> Et sic sequitur concludendo ex praedictis 
+              <lb ed="#P" n="24"/>quod creatura humana non potest in aliquo quietari bono <pc type="punctus"/> nec etc
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l36-Dxxyy1">
+          <head xml:id="ppra-l36-Hxxyy1">Conclusiones</head>
+          <p xml:id="ppr-l36-cd3eue">
+            <pc type="pilcrow"/> Prima conclusio lectionis fuit talis propositio debet concedi 
+            <lb ed="#P" n="25"/>tres personae sunt una essentia
+          </p>
+          <p xml:id="ppr-l36-scucvf">
+            <pc type="pilcrow"/> 2a conclusio usus sanctorum est una essentia trium personarum et tamen non dicitur sunt unius dei 
+            <lb ed="#P" n="26"/>quia videretur quod esset unus deus qui quidam illas personas haberet subiectas 
+          </p>
+          <p xml:id="ppr-l36-tsdseb">
+            <pc type="pilcrow"/> 3a conclusio sicut divina essentia habet 
+            <lb ed="#P" n="27"/>3es personas in <unclear>potentias</unclear>
+          </p>
+          <p xml:id="ppr-l36-qpafie">
+            <pc type="pilcrow"/> 4a conclusio <del>patri</del> filio attribuitur sapientia patris et spiritui sancto gratiam sive donum
+          </p>
+          <p xml:id="ppra-l36-xxxyyy">
+            <pc type="pilcrow"/> 5a Iste terminus 
+            <lb ed="#P" n="28"/><foreign>omousyon</foreign> est natura significans unicam substantiam <pc type="punctus"/> et sic dicitur ab <foreign>omos</foreign> <pc type="punctus"/> <unclear>nomen</unclear> et <foreign>usyon</foreign> substantia quasi etc et licet condam non 
+            <lb ed="#P" n="29"/>patere dici quod trinitas esset <foreign>omousyon</foreign> propter arrianos et haereticos nihilominus inolescente fide determinatum est 
+          </p>
+          <p xml:id="ppra-l36-axxyy3">
+            <pc type="pilcrow"/> 6a conclusio et ultima quod beata trinitas est unus deus substantialiter si pater et filius et spiritus sanctus <pc type="virgula">/</pc> qui nobis 
+            <lb ed="#P" n="30"/>concedere vitam aeternam dignetur in secula sempiterna anni
+          </p>
+          <p xml:id="ppra-l36-axxyy4">
+            et sic finitur processus totalis de materia 
+            <lb ed="#P" n="31"/>trinitatis in primo libro sententiarum lectus a reverendo philosopho et subtili metaphysico parisius sufficienti magistro 
+            <lb ed="#P" n="32"/>petro plaoust in sacra theologia bacallario actu regente in serbona deo gratias vigilia beati andreae apostoli
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

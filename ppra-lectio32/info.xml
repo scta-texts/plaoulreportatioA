@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio32">
+      <head xml:id="ppra-l32-Hldalda">Lectio 32, de Notitia</head>
+      <div xml:id="ppra-l32-Dd1e109">
+        <head xml:id="ppra-l32-Hreqaqr">Responsio ad quintam rationem</head>
+        <p xml:id="ppra-l32-qrpinc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-qrpinc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qrpinc"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present
+            <p xml:id="ppra-l32-qasidf">
+            Quod autem si ponatur quod sit finita, sequitur ex hoc 
+            quod sit aliqua notitia creaturae perfectior. Probabatur, 
+            quia obiectem certae perfectionis causat notitiam 
+            sui certae perfectionis, et obiectum perfectius causat 
+            etiam perfectiorem notitiam, et cum sit processus 
+            in infinitum in obiectis creabilibus, sequitur quod tandem 
+            deveniretur ad aliquuod obiectem quod causabit notitiam 
+            sui perfectiorem quam sit notitia Dei. Nam si ponatur 
+            quod notitia ipsius Dei sit finita, habeat igitur 
+            certam proportionem notitiae albedinis; cum igitur sit 
+            processus in infinitum in obiectis creabilibus 
+            et correspondenter eorum notitiis, et semper perfectius obiectum 
+            causat perfectiorem notitiam, sequitur quod tandem dabitur 
+            aliquod obiectum quod causabit notitiam quae habebit 
+            maiorem proportionem ad notitiam albedinis 
+            quam notitia ipsius Dei finita.
+          </p>-->
+        <p xml:id="ppra-l32-irpasp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-irpasp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-irpasp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-veqaec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-veqaec"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-veqaec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-iecsie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-iecsie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-iecsie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-qdqddn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-qdqddn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qdqddn"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present
+            <p xml:id="ppra-l32-ampesp">
+            Alio modo potest dici quodlibet adhuc ad modum 
+            loquendi communem et causa doctrinae admitteretur 
+            quod aliquo obiecto dato <unclear>dabilem[?]</unclear> est perfectius 
+            in duplo, in triplo, et sic in infinitum secundum quod 
+            placuerit diceretur quod non esset eadem proportio 
+            notitiarum, sicut obiectorum, quia non oportet quod causatas obiectiva 
+            correspondeat proportionaliter ad perfectionem essentialem 
+            et intrinsecam, quia iam de facto ita est de causalitate 
+            activa. Videmus enim quod non est ordo 
+            causalitatis activae secundum ordinem perfectionis rerum, 
+            quia materia prima ponitur perfectior quam causalitas, et 
+            tamen materia prima non est activa. Et <unclear>calidum[??]</unclear> est activa, 
+            ita in proposito potest dici quod causalitas obiectiva non 
+            correspondet proportionaliter ad perfectionem essentialem et 
+            intrinsecam rerum secundum congruentiam et indigentiam 
+            universi, ita quod res secundum magis congruunt et 
+            sunt magis necessariae et magis influunt obiective 
+            et aliae quae non sunt, ita necessariae, nec ita 
+            congruunt secundum hoc etiam influunt minus obiective, 
+            sicut non congruit universo quod materia prima agat 
+            secundum quod recipiat formas substantiales, etc. Et sic tenendo 
+            <cb ed="#R" n="b"/><!-\-R54vb ??-\->
+            quod perfectiones notitiarum sicut secundum perfectiones obiectorum, non 
+            tamen in eadem proportionem, sed ascendendo per non gradum 
+            adderetur, immo quod forte in ascendendo infinitum 
+            non adderetur, nisi unus gradus vel duo. Et iste 
+            modus est satis probabilis.
+          </p>
+          <p xml:id="ppra-l32-raiccp">
+            Respondendo ad istam rationem, 
+            ita quod data una notitia causata finita, non oportet quod 
+            obiecti perfectioris in duplo sit dupla notitia, immo 
+            data dupla ad illam forte non attingeret 
+            suprema intelligentia, si daretur. Et sic non oportet 
+            quod si visio Dei esset finita quod posset dari cognitio 
+            creaturae perfectior.
+          </p>-->
+        <p xml:id="ppra-l32-sdaiml">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-sdaiml"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-sdaiml"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-araqao">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l32-araqao"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-araqao"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l32-Dd1e241">
+          <head xml:id="ppra-l32-Hcoacoa">Contra opinionem <name ref="#Wodeham">Adam</name></head>
+          <p xml:id="ppra-l32-isnned">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-isnned"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-isnned"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-pqiadp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-pqiadp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-pqiadp"/>
+            </assertions>
+          </p>
+          <!--<p xml:id="ppra-l32-inslne">
+              Iterum non 
+              solvit difficultatem, quia hic non arguimus de 
+              intensione graduali vel perfectione graduum 
+              eiusdem speciei, sed de perfectione specifica. Nam 
+              graduum eiusdem speciei, eadem est perfectio intrinseca 
+              et essentialis. Nam circa hoc tenendum est quod: albedo 
+              mille graduum non esse nec perfectior quam albedo 
+              unius gradus. Ex acquisitione enim novorum 
+              graduum eiusdem speciei non acquiritur nova 
+              perfectio essentialis. Ideo ubi agimus de perfectione 
+              cognituum, agimus de perfectione specierum 
+              et quantum ad latitudinem specierum, et non quantum 
+              ad perfectionem graduum eiusdem speciei. Et sic adhuc 
+              restabit difficultas, quia de huiusmodi perfectione 
+              specifica, <name ref="#Wodeham">Adam</name> non respondet.
+              Verum est 
+              quod iudicio meo ipse ponit notitiam Dei perfectiorem 
+              quoad speciem et quoad intentionem 
+              graduum quam notitia creaturae, licet non expresse.
+            </p>-->
+        </div>
+        <div xml:id="ppra-l32-Dd1e274">
+          <head xml:id="ppra-l32-Haqdqds">Aliqua, quae declarandum sunt</head>
+          <p xml:id="ppra-l32-cimqed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-cimqed"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-cimqed"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-snpdee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-snpdee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-snpdee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-qpqand">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-qpqand"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qpqand"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-qmpqlc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-qmpqlc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qmpqlc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-qmpqan">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-qmpqan"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qmpqan"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-sqpncd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-sqpncd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-sqpncd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l32-ampncd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l32-ampncd"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-ampncd"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l32-unmaim">
+              Unde uno modo creatura
+              <app>
+                <lem n="creatura"/>
+                <rdg wit="#R" type="correction-deletion">
+                  <del rend="expunctated">debet</del>
+                </rdg>
+              </app> 
+              est 
+              comprehensibilis ab illa creatura, et alio modo non. 
+              Pro quo notandum est quod creaturam comprehendi ab alia 
+              creatura potest dupliciter intelligi. Uno modo pro cognoscitur 
+              secundum omnem praedicatum <unclear>disci?le[?]</unclear> de ea, et tunc isto modo 
+              non potest creatura comprehendi ab creatura, nisi miraculose 
+              et supernaturaliter, sicut secundum aliquos 
+              est de anima Christi propter infinitas habitudines 
+              quas habet ad se et ad alias res. Tamen istud non 
+              denego ab anima Christi, sed cuicumque alteri de lege 
+              ordinata. Alio modo potest intelligi quod cognoscitur 
+              secundum omnia praedicata essentialia <unclear>disci?lia[?]</unclear> de ea, et 
+              tunc creatura bene est comprehensibilis ab alia isto modo.
+            </p>-->
+          <!--
+              doesn't seem present
+              <p xml:id="ppra-l32-eisiqr">
+              Ex istis statis apparet qualiter uno modo quantificandi notitias, 
+              notitia Dei uno modo est perfectior quam notitia creaturae; 
+              alio modo vero est e converso, scilicet, quod notitia creaturae est 
+              perfectior quam notitia Dei. Et secundum istas distinctiones 
+              respondendum est in ista materia, et sic apparet solutio istius quintae rationis.
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="ppra-l32-Dctctct">
+        <head xml:id="ppra-l32-Hctctct">Conclusiones</head>
+        <p xml:id="ppra-l32-cdthpd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-cdthpd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-aciedh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-aciedh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-tqddde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-tqddde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l32-qqsdda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l32-qqsdda"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

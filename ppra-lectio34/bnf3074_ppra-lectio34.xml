@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 34 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 34 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-21">May 21, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="52-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio34">
+        <head xml:id="ppra-l34-Hldldld">Lectio 34, de Fruitione</head>
+        <div xml:id="ppra-l34-Dd1e93">
+          <head xml:id="ppra-l34-Hqinspf">Quod in nulla creatura sit ponenda felicitas</head>
+          <p xml:id="ppra-l34-pqoapi">
+            <lb ed="#P" n="10"/>Postquam ostensum est superius de quantificatione graduum quantum ad eorum perfectionem videndum est ulterius de aliquibus aliis <pc type="punctus"/> Et quia 
+            <lb ed="#P" n="11"/>humana ratio sive sapientia ad hoc quod dirigatur indiget cognitione ipsius theologiae et hoc tractat magister in prima parte
+          </p> 
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l34-eeqcphf">
+            <lb ed="#P" n="12"/>Et primo videtur quod humana sapientia sive felicitas talis non sit in aliqua creatura
+          </p>
+          <div xml:id="ppra-l34-Dd1e139">
+            <head xml:id="ppra-l34-Hprprpr">Primo ratio</head>
+            <p xml:id="ppra-l34-eheabe">
+              nam nulla creatura sufficit ad hoc in se
+            </p>
+            <!-- reconsider break -->
+            <p xml:id="ppra-l34-qnaesc">
+              <lb ed="#P" n="13"/>quia magis a deo dependet quam accidens a substantia causa quoniam dependet sicut inpressio sigilli a sigillo
+            </p>
+            <p xml:id="ppra-l34-spetse">
+              <pc type="pilcrow"/> 2o proportionalis 
+              <lb ed="#P" n="14"/>est habitudo causarum <add place="above-line">est</add> ad suos effectus sicut finalium ad suos producendos sed constat evidenter theologo quod causa 
+              <lb ed="#P" n="15"/>2a non sufficit ad terminandum effectum efficaciter igitur nec finalis
+            </p> 
+            <p xml:id="ppra-l34-isnfsa">
+              <pc type="pilcrow"/> Item nulla causa est essentialiter causa effectiva et per consequens nulla 
+              <lb ed="#P" n="16"/>creatura est finis quare sequitur quod non potest quietari <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-l34-Dd1e163">
+            <head xml:id="ppra-l34-Hsrsrsr">Secunda ratio</head>
+            <p xml:id="ppra-l34-sinrpb">
+              <pc type="pilcrow"/> 3o in nulla creatura reperitur felicitas 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l34-mfepob">
+              patet nam talis debet 
+              <lb ed="#P" n="17"/>etiam obiectum in quo relucet omne bonum ut patet primo ethicorum
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l34-iichbf">
+              et cum hoc debet esse remotio omnium imperfectionum et ideo in nulla 
+              <lb ed="#P" n="18"/>potest etiam terminus beatitudinis finalis
+            </p>
+            <p xml:id="ppra-l34-iofpef">
+              <pc type="pilcrow"/> Item de ratione obiecti est quod sit plenitudo causaliter effectiva per modum circulationis et ita proportionaliter est ymaginandum 
+              <lb ed="#P" n="19"/>de creatura naturali quia revertitur in originem suam et per consequens non habet rationem tamquam causae ad suum finem sive finis ad 
+              <lb ed="#P" n="20"/>suum finem et hoc satis patet in <name>boetio</name> de consolatione
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l34-Dd1e220">
+          <head xml:id="ppra-l34-Hcqdesb">Conclusio: quod Deus est summa bonitas</head>
+          <p xml:id="ppra-l34-eeiiep">
+            <pc type="pilcrow"/> Ex istis videtur sequitur quod deus est summa bonitas mentis quietativa 
+            <lb ed="#P" n="21"/>et vocatur frui et ideo <name>magister</name> usus fuit istis terminis frui et uti <pc type="pilcrow"/>verum est tamen quod alio modo tractatur a doctoribus vel in man<lb ed="#P" n="22"/>dato 
+            de dilectione die videlicet in illo passu diliges deum ex tot corde etc <pc type="pilcrow"/> Unde notandum est quod deus 
+            <lb ed="#P" n="23"/>debet diligi propter se absolute et non propter aliud absque ordinet suam dilectionem in alia habitudinem 
+          </p>
+          <div xml:id="ppra-l34-Dd1e255">
+            <head xml:id="ppra-l34-Hqddped">Quomodo Deus debemus diligi toto corde et proximus est diligendus</head>
+            <p xml:id="ppra-l34-eimddt">
+              <pc type="pilcrow"/> Consequenter in ipso praecipit 
+              <lb ed="#P" n="24"/>proximum diligi et vocatur materia de usu et ista tractatur in qua distinctione et non solum proximus ymmo quaelibet res mundi inquantum 
+              <lb ed="#P" n="25"/>a deo ordinata
+            </p>
+          </div>
+          <div xml:id="ppra-l34-Dd1e267">
+            <head xml:id="ppra-l34-Hdtdtdt">Distinctio termini</head>
+            <p xml:id="ppra-l34-ufcega">
+              <pc type="pilcrow"/> unde multae sunt difficultates penes terminorum aequivocationem nam frui aliquando sumetur pro actu potentiae suppositivae 
+              <lb ed="#P" n="26"/>mediate delectione ut patet in multis locis in sacra scriptura
+            </p>
+            <p xml:id="ppra-l34-smssra">
+              <pc type="pilcrow"/> 2o magis stricte pro aliquo actu sine relatione
+            </p>
+            <p xml:id="ppra-l34-tsphia">
+              <lb ed="#P" n="27"/><pc type="virgula">/</pc> 3o strictius pro actu voluntatis respectu alicuius <del rend="strikethrough">u</del> dilecti <unclear>irrespectivitatis</unclear> in alio et hoc modo sumitur in proposito
+            </p>
+            <p xml:id="ppra-l34-escuca">
+              <pc type="pilcrow"/> Ex istis
+              <lb ed="#P" n="28"/><del rend="expunctuation">non</del> obstantibus testis theologus teneretur respondere <pc type="pilcrow"/> Aliquando accipitur communissime ut in <ref xml:id="ppra-l34-Rd1e306">thopicis</ref> de loco ab usu <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l34-apapas">
+              <lb ed="#P" n="29"/>Alio modo pro <unclear>acceptare</unclear> aliquid propter aliud fruendum <pc type="virgula">/</pc>
+            </p>
+            <p xml:id="ppra-l34-apauca">
+              Alio modo pro acceptare aliud quo fruendum est et sic usus eius bonus est et sic 
+              <lb ed="#P" n="30"/>distinguitur qua abuti <pc type="pilcrow"/> In alia acceptatione strictius sicut dictum est
+            </p>
+        </div>
+       </div> 
+        <div xml:id="ppra-l34-Dd1e336">
+          <head xml:id="ppra-l34-Hrpcpcc">Rationes principales contra conclusionem</head>
+          <p xml:id="ppra-l34-pdmimt">
+            <pc type="pilcrow"/> Pro declaratione tamen materiae quae multas continet 
+            <lb ed="#P" n="31"/>veritates theologicas et methaphysicales ad hoc adductas introducetur ratio humana arguentem contra theologiam 
+          </p>
+          <div xml:id="ppra-l34-Dd1e352">
+            <head xml:id="ppra-l34-Hprpprp">Prima ratio principalis</head>
+            <p xml:id="ppra-l34-paphsf">
+              <pc type="pilcrow"/> Et tunc 
+              <lb ed="#P" n="32"/>prima ex parte ipsius rationis humanae arguitur sic <pc type="pilcrow"/> <unclear>Alia</unclear> humana est finita igitur potest quietari quia movet verum praecise 
+              <lb ed="#P" n="33"/>finite
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l34-cdereq">
+              Confirmatur 
+              divina essentia movet bonum praecise finite, 
+              igitur aliqua creatura in maiori proportione 
+              potest movere rationem et quietative.
+              <anchor xml:id="ppra-l34-Aetqqui"/>
+            </p>-->
+            <p xml:id="ppra-l34-cqpdmc">
+              <pc type="pilcrow"/> Confirmatur per divinam essentiam solum finite bona est igitur
+            </p>
+            <p xml:id="ppra-l34-icrqic">
+              <pc type="pilcrow"/> Item creatura humana est in potentia obedientali ad hoc quod 
+              <lb ed="#P" n="34"/>quietetur igitur non est repugnantia quod quietetur in alio a deo
+            </p>
+            <p xml:id="ppra-l34-iictia">
+              <pc type="pilcrow"/> Confirmatur inclinatio creaturae ad beatitudinem est quo dico 
+              <lb ed="#P" n="35"/>ad extra igitur deus potest suspendere actionem suam <pc type="punctus"/> et per consequens non quietabitur in deo 
+            </p>
+            <p xml:id="ppra-l34-icmdoc">
+              <pc type="pilcrow"/> Item creatura magis inclinatur 
+              <lb ed="#P" n="36"/>ad se magis quam ad deum patet hoc quia necessario diligit se et tamen potest odire deum ut patet de dyabolis 
+              <lb ed="#P" n="37"/>qui quidem deum odiunt et dampnati et per consequens videretur quod deus non esset causa finalis ipsius creaturae
+            </p>
+            <p xml:id="ppra-l34-csdnff">
+              <pc type="pilcrow"/> Confirmatur 
+              <lb ed="#P" n="38"/>nam si deus esset finis naturaliter posset adipisci quia deus et natura nihil faciunt frustra
+            </p>
+            <p xml:id="ppra-l34-cqodoc">
+              <pc type="pilcrow"/> Confirmatur adhuc quia omnis
+              <lb ed="#P" n="39"/>ad hoc naturaliter tendunt igitur etc
+            </p>
+          </div>
+          <div xml:id="ppra-l34-Dd1e435">
+            <head xml:id="ppra-l34-Hsrpsrp">Secunda ratio principalis</head>
+            <p xml:id="ppra-l34-spnpep">
+              <pc type="pilcrow"/> 2o principaliter arguitur sic quod huiusmodi mandatum in lege deum diligere etc non videtur rationale 
+              <lb ed="#P" n="40"/>Ex eo quod non est impossibile de sua naturali voluntate adimplere igitur etc 
+            </p>
+            <p xml:id="ppra-l34-ineaaf">
+              <pc type="pilcrow"/> Item quantum est in libertate voluntatis homo est actus 
+              <lb ed="#P" n="41"/>igitur patet nam est aliqua modo dei prima et per consequens non est in voluntate personae humanae sive creaturae quia illa <unclear>p <!-- possible deletion here --> modo</unclear> 
+              <lb ed="#P" n="42"/>non est in potestate humanae <seg type="correction">crea<subst><add place="above-line">turae</add><del rend="expunctuation">re</del></subst></seg> <pc type="pilcrow"/> Ex quo sequitur quod consequentia est bona deus praemovet ergo deus agit et tamen antecedens 
+              <lb ed="#P" n="43"/>non est in potestate <del rend="strikethrough">libera</del> humanae voluntatis quoniam dei voluntas frustraretur quod non est dicendum
+            </p>
+            <p xml:id="ppra-l34-inpaas">
+              <pc type="pilcrow"/> Item prima divina non 
+              <lb ed="#P" n="44"/>est obiectum fruitive igitur nec deus
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-l34-ineuof">
+              Item 
+              non esset unicum obiectum fruibile.
+            </p>-->
+            <p xml:id="ppra-l34-ideaed">
+              <pc type="pilcrow"/> Item deus est diligendus propter beneficia igitur beneficia magis quam deus per illud propter unumquodque 
+              <lb ed="#P" n="45"/>tale et illud magis <pc type="virgula">/</pc> antecedens patet per <name>seneca</name> 
+            </p>
+            <!-- fuzzy parallel and break point -->
+            <p xml:id="ppra-l34-iddfqd">
+              et etiam quod dicendum unde retributio multa etc
+            </p>
+            <p xml:id="ppra-l34-isddpm">
+              <pc type="pilcrow"/> Item si deus esset <!--possible something here -->
+              <lb ed="#P" n="46"/>diligendus tunc delectatio sibi corresponderet essentialiter et per consequens angelus deberet melius diligere deum et sic quilibet 
+              <lb ed="#P" n="47"/>peccator peccato etc
+            </p>
+            <p xml:id="ppra-l34-ibiesm">
+              <pc type="pilcrow"/>Item beatitudo illa non est finitum bonum quia eius carentia non est <unclear>su?re</unclear> minimum ymmo in nullo gradu
+              <lb ed="#P" n="48"/>est nobis
+            </p>
+          </div>
+          <div xml:id="ppra-l34-Dd1e518">
+            <head xml:id="ppra-l34-Hararar">Aliae rationes</head>
+            <p xml:id="ppra-l34-arfrfe">
+              <pc type="pilcrow"/> Alias rationes facit <name ref="#RichardKilvington">quidam doctor</name> 
+            </p>
+            <p xml:id="ppra-l34-equdqp">
+              Arguit enim sic quaerendo utrum deus sit diligendus finite vel infinite 
+            </p>
+            <p xml:id="ppra-l34-esspca">
+              <lb ed="#P" n="49"/>si finite tunc proximus pari passu sic diligi debet <pc type="punctus"/> si infinite non potest attingi et per consequens non est diligendum
+            </p>
+            <p xml:id="ppra-l34-iascam">
+              <pc type="pilcrow"/> Ex alio 
+              <lb ed="#P" n="50"/>probatur sic ponendo casum quod sortes et plato diligat quo ad aequalem gradum <pc type="punctus"/> et ulterius quod plato diligat <!-- possible margin word "non" -->
+              <lb ed="#P" n="51"/>ipsum deum diligendo gradu tunc quaeritur de praemiatione eorum et dicitur non plus <unclear>ymaginaretur</unclear> plato quam socrates quia non est dandus maximus gradus primus
+            </p>
+            <p xml:id="ppra-l34-veqiie">
+              <lb ed="#P" n="52"/><pc type="pilcrow"/> Unde propter ista ymaginatur quod humana capacitas sive <unclear>fecunditas</unclear> est finitae capacitatis quia esse perceptivum est denominatio suae capacitatis
+            </p> 
+            <p xml:id="ppra-l34-iidiie">
+              <lb ed="#P" n="53"/><pc type="pilcrow"/> Item ista denominatio non est de primis ymmo de posterioribus materia tales debent particulare in perfectione posteriori 
+              <lb ed="#P" n="54"/>ex eo quod omnis gradus habet participationem extremi ut ymaginatur <name>de rippa</name> et sequates et ymaginatur quod tota latitudo 
+              <lb ed="#P" n="55"/><del rend="strikethrough">perceptionis</del> concausatur perceptive et tot communicantur in esse entis et praeter hoc habet gradus entis communicantes quare esse perceptivum sic 
+              <lb ed="#P" n="56"/>non competit animae nostrae <pc type="punctus"/> et per consequens non est infinitae capacitatis philosophus videtur haec velle ubi dicit quod sensus leditur ab 
+              <lb ed="#P" n="57"/>excellenti sensibili
+            </p>
+            <p xml:id="ppra-l34-scqeic">
+              <pc type="pilcrow"/> unde excellens sensibile corrumpit sensum <ref xml:id="ppra-l34-Rd1e614">2o de anima</ref>
+            </p> 
+            <p xml:id="ppra-l34-uarcnf">
+              <pc type="pilcrow"/> Et dicitur breviter de istis quod utrumque videtur 
+              <lb ed="#P" n="58"/>satis sustinibile
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-l34-asmsea">
+              <pc type="pilcrow"/> Et tunc quando arguebatur ultimo sicut <name>adam</name> facit dicitur quod una distinctio totum solvit quae visa est superius
+              <lb ed="#P" n="59"/>videlicet quod duplices sunt denominationes quae essentiales aliae vero mobiles sive accidentales de accidentibus concedetur non aut de aliis
+              <lb ed="#P" n="60"/><pc type="pilcrow"/> Sed restat difficultas si capiatur perceptivum essentialiter bene sequitur <del rend="strikethrough">cre</del> anima et finitae perceptatis licet infinita partibus nam gradus finitus 
+              <pb ed="#P" n="53-r"/>
+              <lb ed="#P" n="1"/>in se posset infinita particulare <pc type="pilcrow"/> Unde notandum est denominationibus praemiationes celestes quod non est dandus in talibus maximus 
+              <lb ed="#P" n="2"/>gradus ultra quem non alius <pc type="virgula">/</pc> quia non tantus quin adhuc maior Et ex hoc sortitur satis <unclear>consequentiae</unclear> dictum quia 
+              <lb ed="#P" n="3"/>qui minimum paradisi celestis angulum possibilaret sibi maior videretur si nullum esset dandum <pc type="pilcrow"/> Unde advertendum est 
+              <lb ed="#P" n="4"/>quod non est ibi dare maximum ultra quae non nec etiam <unclear>numerum</unclear> <pc type="pilcrow"/> Et licet dicatur in evvangleio <pc type="virgula">/</pc> multae mansiones 
+              <lb ed="#P" n="5"/>in domo patris mei sunt intelligitur id est multae retributiones sive pro meritis praemiationes et haec de lectione
+            </p>
+          </div>
+        </div>
+        <div xml:id="ppra-l34-Dd1e1297">
+          <head xml:id="ppra-l34-Hd1e1299">Conclusiones</head>
+          <p xml:id="ppra-l34-d1e1309">
+            <lb ed="#P" n="6"/><pc type="pilcrow"/> Conclusio lectionis est quod spiritus sanctus et filius in divinis diligunt se amore productivo etc <unclear>hoho</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

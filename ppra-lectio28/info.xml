@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio28">
+      <head xml:id="ppra-l28-Hd1e110">Lectio 28, de Notitia</head>
+      <div xml:id="ppra-l28-Dd1e113">
+        <head xml:id="ppra-l28-Hudragp">Utrum Deus reponatur in aliquo praedicamento vel in aliquo
+          genere praedicamentorum</head>
+        <p xml:id="ppra-l28-iirig">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-iirig"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-iirig"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-cimpdp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-cimpdp"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-cimpdp"/>
+          </assertions>
+        </p>
+      </div>
+      <!--
+          This section doesn't seem present
+          <div xml:id="ppra-l28-Dd1e251">
+          <head xml:id="ppra-l28-Hoooooo">Opinio Ockham</head>
+          <p xml:id="ppra-l28-uciopa">
+            Unde circa istam materiam, 
+            scilicet utrum Deus reponitur in aliquo praedicamento vel genere, 
+            <name ref="#Ockham">Okam</name> ponit aliqua.
+          </p>
+          <p xml:id="ppra-l28-pqgmss">
+              Primo
+            quod genus 
+            est conceptus communiter multa individua et multas 
+            species significans.
+          </p> 
+          <p xml:id="ppra-l28-spqctp">
+            Secundo ponit quod dupliciter aliquid potest reponi in
+            praedicamento. 
+            Uno modo tamquam terminus existens in 
+              coordinatione
+            alicuius generis vel praedicamenti. 
+            Secundo modo tamquam res significata per
+            talem terminum sic repositum in 
+              tali
+            coordinatione talis praedicamenti.
+          </p>
+          <p xml:id="ppra-l28-tardba">
+            Tertio affirmative respondet ad quaestionem illam, 
+            utrum Deus 
+              reponatur in praedicamento
+            .
+            Et 
+              et dicit
+            quod sic
+            , 
+            id est quod est aliquis terminus significans 
+            ipsum repositum in praedicamento,
+            ita quod Deus concipitur per aliquem conceptum, 
+                et etiam concipitur 
+                per aliquem conceptum
+            , 
+            et etiam significatur 
+              per terminum
+            repositum in aliquo 
+              genere vel
+            praedicamento. Et 
+              istud
+            probat sic 
+            quia 
+              istud
+            non detrahit de sua perfectione et simplicitate
+            quia illud non arguit
+            aliquam imperfectionem sive compositionem in ipso Deo,
+            <cb ed="#V" n="b"/><!-\-V57vb -\->
+            quia impertinens est sibi, 
+            si sic vel sic 
+              concipiamus
+            ipsum. 
+            Et per consequens, 
+            si concipiatur aliquo conceptu generali vel specifico
+            reposito in praedicamento non videtur aliqualiter repugnare suae perfectioni et
+            simplicitati. 
+            Verum est quod 
+            ipse <name ref="#Ockham">Okam</name> respondet ad 
+              auctoritates
+            antiquorum doctorum 
+            qui dicebant 'Deum non posse reponi in aliquo praedicamento'
+            et unus doctor antiquus ad hoc 
+              allegabat
+            quod est 
+              articulus
+            condemnatus, 
+            scilicet 
+              dicere
+            quod Deus 
+              reponitur
+            in praedicamento, error. 
+            Et 
+              istud
+            legi in uno doctore bene 
+              autentico
+          </p>
+          <p xml:id="ppra-l28-orqcep">
+            <name ref="#Ockham">Okam</name> 
+            respondet quod ipsi aequivocabant de praedicamento. 
+            Unde capiebant praedicamentum sive genus taliter ut esset compositum
+            ex parte vel esset pars compositi, 
+            ita quod realiter esse in genere eis significabat
+            esse tamquam pars; vel 
+              tamquam
+            compositum ex parte. 
+            Et isto modo bene concedo quod Deus non est in genere vel
+            praedicamento quia nec est pars nec compositum ex parte.
+          </p>
+        </div>-->
+      <div xml:id="ppra-l28-Dd1e481">
+        <head xml:id="ppra-l28-Hcococo">Contra Okam</head>
+        <p xml:id="ppra-l28-cipgie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-cipgie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-cipgie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-sapdes">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-sapdes"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-sapdes"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present
+            <p xml:id="ppra-l28-taseig">
+            Tertio, 
+            arguitur supponendo radicem quam 
+            supponit 
+            <name ref="#Scotus">Doctor Subtilis</name>, 
+            scilicet quod diffinitio 
+            vel conceptus specificus repositus in aliquo genere 
+            est talis quod non repugnat 
+              sibi poni primo vel secundo modo dicendi per se
+            . 
+              Et
+            quod differentiae positae in 
+            eius diffinitione 
+              sint
+            supponentes 
+              pro
+            diversis rebus.
+            In hoc videtur fundare totam imaginationem 
+              suam
+            ad praedicandum quod Deus non est in aliquo 
+            praedicamento et quod repugnat sibi ratione suae 
+            simplicitatis et non angelo; 
+              lict angelus sit omnino simplex
+            , 
+            dicit tamen quod diffinitio angeli continet differentias, 
+            et licet non sit possibile absolute quod competant 
+            diversis rebus, tamen illud non repugnat diffinitioni 
+            angeli. Diffinitioni autem Dei repugnat, quia diffinitio 
+            Dei secundum se totam excludit omnem potentialitatem 
+            per se primo et in secundo modo dicendi per se. 
+              Unde 
+                ex ista radice, diffinitioni rei repositae 
+                in praedicamento non repugnant primo et per se et 
+                in secundo modo dicendi per se
+            , 
+            quin differentiae potentiae in 
+            huiusmodi diffinitione supponant pro diversis, 
+            licet non sit ita a parte rei. Sed aliunde provenit quod 
+            Deus non reponitur in 
+              aliquo
+            praedicamento. 
+            Verbi gratia, capiamus 
+            diffinitionem animae et ponamus in ea plures differentias 
+            ut sensitivum, rationale, intellectivum, etc. Licet enim sensitivum 
+            et rationale sint idem in anima, tamen huic diffinitioni 
+            non repugnat primo et per se 
+              et
+            in secundo modo 
+            dicendi per se quod esse sensitivum in anima sit aliud 
+            quam esse intellectivum vel rationale, licet per accidens, 
+            et ita stricte non capit <name ref="#Ockham">Okam</name> per se, 
+            et primo modo non est sic de Deo 
+            quia secundum omnem differentiam 
+            repositam in eius diffinitione quaelibet esset 
+            actualissima et necessaria, 
+            ita quod quaelibet immediate 
+            ipsum Deum repraesentaret ut actualissimum et necesse esse. 
+            Et ideo, quia diffinitio ipsius repugnat 
+            <pb ed="#R" n="46-v"/>
+            <cb ed="#R" n="a"/>
+            diffinitioni generis, ita consequenter repugnat diffinitio 
+            et per consequens non potest esse in genere.
+          </p> -->
+        <p xml:id="ppra-l28-icsegg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-icsegg"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-icsegg"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l28-Dd1e787">
+        <head xml:id="ppra-l28-Haoaoao">Alia opinio</head>
+        <p xml:id="ppra-l28-saoesc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-saoesc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-saoesc"/>
+          </assertions>
+        </p>
+        <!--
+            Unclear but doesn't seem present
+            <p xml:id="ppra-l28-dstisi">
+            <name ref="#Scotus">Doctor Subtilis</name> tenet quod li 'ens' et li 'vita' 
+            et 
+              omnia
+            praedicata essentialia, 
+            quae vocantur trancendentia 
+            sunt omnia extra genus et extra praedicamenta. 
+            Et quantum est de me, 
+            sequendo opinionem quae magis 
+              mihi videtur
+            theologica, 
+            et
+            philosophica, et logicalis. 
+            Etiam si bene 
+              resolvatur
+            illa praedicata non 
+              dicuntur
+            reponi in praedicamento, 
+            nec sunt genera secundum modum loquendi ipsorum doctorum et philosophorum. 
+            Ideo genus debet sic describi genus est illud 
+              quod
+            subtranscendente etc., 
+            sicut immediate dictum est, 
+              unde
+            et angelo et animae ex sua diffinitione specifica 
+            non repugnat per se compositio, 
+            licet illud sit impossibile.
+          </p> -->
+        <div xml:id="ppra-l28-Dd1e881">
+          <head xml:id="ppra-l28-Hcrcrcr">Conclusio responsalis</head>
+          <p xml:id="ppra-l28-eqscie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l28-eqscie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-eqscie"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l28-Dd1e935">
+        <head xml:id="ppra-l28-Hoididr">Opinio Ioannes de Ripa</head>
+        <p xml:id="ppra-l28-saoafe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-saoafe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-saoafe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-spisip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-spisip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-spisip"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l28-Dd1e1073">
+        <head xml:id="ppra-l28-Hoadoad">Opinio aliorum doctorum</head>
+        <p xml:id="ppra-l28-aeorip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-aeorip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-aeorip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-ssgerd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-ssgerd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-ssgerd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-taseip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-taseip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-taseip"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l28-Dd1e1715">
+        <head xml:id="ppra-l28-Hrdprdp">Responsio de Plaoul</head>
+        <p xml:id="ppra-l28-pcapqd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-pcapqd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-pcapqd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-qapdir">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-qapdir"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-qapdir"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-qapvaq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-qapvaq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-qapvaq"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-l28-adrrsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-adrrsa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-adrrsa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-avcseq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-avcseq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-avcseq"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-avpqeq">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-avpqeq"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-avpqeq"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present
+            <p xml:id="ppra-l28-avpqqa">
+            Alii vero posuerunt quattuor et superaddiderunt relationem et
+            actionem et passionem, 
+            ita quod relatio distinguitur,
+              ab extremis
+              et
+            actio et passio 
+              distinguitur
+            a qualitate, 
+            quae acquiritur.
+          </p>
+          <p xml:id="ppra-l28-asmasm">
+            Alii superaddiderunt motum.
+          </p>-->
+        <p xml:id="ppra-l28-avpiie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-avpiie"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-avpiie"/>
+          </assertions>
+        </p>
+        <!-- Doesn't seem present
+            <p xml:id="ppra-l28-aetaap">
+            
+            Advertendum est
+              est
+            tamen, 
+            redeundo ad primum, 
+            quod praedicamenta sunt nunc adinventa causae doctrinae et
+            facilitatis doctrinae. 
+            Ideo subtilius imaginati sunt
+              illi
+            ,
+            qui non posuerunt Deum in praedicamento quam illi, 
+            qui eum 
+              reposuerunt
+            in praedicamento 
+            quia ex quo praedicamenta sunt adin venta causa doctrine et secundum
+            modum loquendi antiquorum traduntur praedicamenta secundum rationes et modos exprimentes
+            naturas proprias rerum pro quibus supponunt et ordinem et habitudinem ipsarum, 
+            ergo illi qui
+            conceperunt 
+              Deum
+            conceptu sibi proprio 
+              exprimente
+            etc., magis attinxerunt finem illum 
+            quam per generalem modum concipiendi et cognoscendi ipsum 
+            quia non curamus de ordine, nec de cognitione terminorum, 
+            nisi in ordine ad illa quae significant
+            <cb ed="#V" n="b"/><!-\-V59vb-\-> 
+            de quibus volumus habere scientiam. 
+            Et ideo quia antiqui
+            philosophi immediate introducebantur ad conceptus magis altos 
+            et magis exprimentes proprias naturas rerum 
+              pro quibus supponunt
+            . 
+            Ideo forte erant magis apti ad philosophandum.
+          </p>-->
+        <p xml:id="ppra-l28-pieeas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-pieeas"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-pieeas"/>
+          </assertions>
+        </p>
+        <!--
+           Doesn't seem present 
+           <p xml:id="ppra-l28-ssddrf">
+            Sed sine dubio antiqui philosophi 
+            quantum ad hoc referebant se ad res et 
+              ad
+            habitudines rerum, 
+            ita quod vocabant genus non terminum, 
+            sed rationem significatam per
+            terminum, quae est quaedam 
+              quidditas
+            indifferens ad hanc vel hanc speciem. 
+            Differentia vero
+              vero
+            erit magis determinata, 
+            ideo genus magis habebat rationem materiae et differentiam
+            rationem formae.
+          </p>-->
+        <p xml:id="ppra-l28-pcinat">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-pcinat"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-pcinat"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-iipfot">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-iipfot"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-iipfot"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-aevmpf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-aevmpf"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-aevmpf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-aeocti">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-aeocti"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-aeocti"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy parallel -->
+        <p xml:id="ppra-l28-aevrip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-aevrip"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-aevrip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-etaiae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l28-etaiae"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-etaiae"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l28-Cxxyy1">
+        <head xml:id="ppra-l28-Hctctct">Conclusiones</head>
+        <p xml:id="ppra-l28-ctdsvs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-ctdsvs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l28-tqnnss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l28-tqnnss"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

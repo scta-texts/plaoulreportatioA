@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio52">
+      <head xml:id="ppra-l52-Hldfldf">Lectio 52, de Fruitione</head>
+      <div xml:id="ppra-l52-Dd1e109">
+        <head xml:id="ppra-l52-Hpcqtid">Propositiones circa qualiter tota natura tendit in
+          deum</head>
+        <p xml:id="ppra-l52-ahchaa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l52-ahchaa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-ahchaa"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l52-Dd1e117">
+          <head xml:id="ppra-l52-Hqncirt">Quod nulla creatura habet intrinseca rationem
+            terminandi</head>
+          <p xml:id="ppra-l52-ereasi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-ereasi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-ereasi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e128">
+          <head xml:id="ppra-l52-Hqaasac">Quod ab appetitu finis, medii potest simpliciter absolvi
+            creatura</head>
+          <p xml:id="ppra-l52-eeisac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eeisac"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eeisac"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e137">
+          <head xml:id="ppra-l52-Hqfqion">Quod finis quo non est necessarius in operationibus
+            naturalibus</head>
+          <p xml:id="ppra-l52-eqseae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqseae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqseae"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e147">
+          <head xml:id="ppra-l52-qneefc">Quod non est necesse quod forma et finis coincidant</head>
+          <p xml:id="ppra-l52-suqauf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-suqauf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-suqauf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e156">
+          <head xml:id="ppra-l52-Hqaaces">Quod appetitum animae ad suum corpus esse solubile</head>
+          <p xml:id="ppra-l52-eqsarc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqsarc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqsarc"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e169">
+          <head xml:id="d149Hqahpep">Quod anima humana separat potest esse persona</head>
+          <p xml:id="ppra-l52-eqppep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqppep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqppep"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e202">
+          <head xml:id="ppra-l52-Hqnrasa">Quod non repugnat angelo quod desinat esse persona absque
+            sui assumptione</head>
+          <p xml:id="ppra-l52-seqeap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-seqeap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-seqeap"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e211">
+          <head xml:id="ppra-l52-Hqsgicm">Quod stat grave absolvi a tendentia in centrum
+            mundi</head>
+          <p xml:id="ppra-l52-suqsnp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-suqsnp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-suqsnp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-iqphtf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-iqphtf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-iqphtf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e223">
+          <head xml:id="ppra-l52-Hqpnddl">Quod principia naturalia subiacent divinae dispositioni
+            liberae</head>
+          <p xml:id="ppra-l52-eqssni">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqssni"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqssni"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-eqpsni">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqpsni"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqpsni"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-cdqcru">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-cdqcru"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-cdqcru"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-cddrai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-cddrai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-cddrai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-eqppim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqppim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqppim"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e268">
+          <head xml:id="ppra-l52-Hqcvpna">Quod caritas vel gratia non potest inclinare contra
+            primarium naturae appetitum</head>
+          <p xml:id="ppra-l52-eqspin">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqspin"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqspin"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e288">
+          <head xml:id="ppra-l52-Hqcnpuc">Quod caritas non potest inclinare ad diligendum Deum
+            propter utilitatem creaturae</head>
+          <p xml:id="ppra-l52-eqppuc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-eqppuc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-eqppuc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-uaeefc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-uaeefc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-uaeefc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-qappef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-qappef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-qappef"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-cspefc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-cspefc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-cspefc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-pstpdc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-pstpdc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-pstpdc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-umqpus">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-umqpus"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-umqpus"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l52-spcuid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-spcuid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-spcuid"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l52-esdntu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-esdntu"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-esdntu"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e345">
+          <head xml:id="ppra-l52-qliemn">Quod licet illa dilectio esset licita qua diligeretur Deus
+            propter utilitatem creaturae nihilominus tamen dilectio simplex absoluta et propter se
+            est multo nobilior</head>
+          <p xml:id="ppra-l52-suqcdn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-suqcdn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-suqcdn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e354">
+          <head xml:id="ppra-l52-Hqopcin">Quod omne peccatum est realiter naturae contrarium et
+            contra inclinationem naturalem</head>
+          <p xml:id="ppra-l52-suqdvi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-suqdvi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-suqdvi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e378">
+          <head xml:id="ppra-l52-Hqhnmup">Quod homo non debet servire Deo ut praemietur nec mereri
+            ut praemietur</head>
+          <p xml:id="ppra-l52-sqhmup">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-sqhmup"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-sqhmup"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e387">
+          <head xml:id="ppra-l52-Hqanlaa">Quod agentia naturalia non agunt ut assimilentur Deo,
+            licet agendo assimilentur</head>
+          <p xml:id="ppra-l52-suquad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-suquad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-suquad"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l52-Dd1e397">
+        <head xml:id="ppra-l52-Hscqtid">Sed contra quod tota natura tendit in deum</head>
+        <div xml:id="ppra-l52-Dd1e402">
+          <head xml:id="ppra-l52-Hpriima">Prima</head>
+          <p xml:id="ppra-l52-scdied">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-scdied"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-scdied"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e413">
+          <head xml:id="ppra-l52-Hsecnda">Secunda</head>
+          <p xml:id="ppra-l52-isniad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-isniad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-isniad"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e428">
+          <head xml:id="ppra-l52-Htertia">Tertia</head>
+          <p xml:id="ppra-l52-iinaai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-iinaai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-iinaai"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e439">
+          <head xml:id="ppra-l52-Hquarta">Quarta</head>
+          <p xml:id="ppra-l52-ileqid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-ileqid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-ileqid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e454">
+          <head xml:id="ppra-l52-Hquinta">Quinta</head>
+          <p xml:id="ppra-l52-icsqid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-icsqid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-icsqid"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e465">
+          <head xml:id="ppra-l52-Hsexxta">Sexta</head>
+          <p xml:id="ppra-l52-iniped">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-iniped"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-iniped"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e476">
+          <head xml:id="ppra-l52-Hsepima">Septima</head>
+          <p xml:id="ppra-l52-imcusf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-imcusf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-imcusf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e485">
+          <head xml:id="ppra-l52-Hoctava">Octava</head>
+          <p xml:id="ppra-l52-ipmutu">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-ipmutu"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-ipmutu"/>-->
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e494">
+          <head xml:id="ppra-l52-Hnonona">Nona</head>
+          <p xml:id="ppra-l52-iacsda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-iacsda"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-iacsda"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l52-Dd1e511">
+          <head xml:id="ppra-l52-Hdecima">Decima</head>
+          <p xml:id="ppra-l52-ipdqec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l52-ipdqec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l52-ipdqec"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l52-Dxxyy1">
+        <head xml:id="ppra-l52-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l52-axxyy3">
+        </p>
+        <p xml:id="ppra-l52-axxyy4">
+        </p>
+        <p xml:id="ppra-l52-axxyy5">
+        </p>
+        <p xml:id="ppra-l52-axxyy6">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

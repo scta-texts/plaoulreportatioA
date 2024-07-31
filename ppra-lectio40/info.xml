@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio40">
+      <head xml:id="ppra-l40-Hldfldf">Lectio 40, de Fruitione</head>
+      <div xml:id="ppra-l40-Dd1e83">
+        <!-- this section was originally in 39 and correctly moved to 40; it should be corrected now in all diplomatic transcriptions-->
+        <head xml:id="ppra-l40-Hqeqdnp">Quod ea quae tacta fuerunt quantum ad materiam nobilitatis
+          non sunt intelligenda de nobilitate politica</head>
+        <p xml:id="ppra-l40-aecldn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-aecldn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-aecldn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-dsqecl">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-dsqecl"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-dsqecl"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-tdqpfn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-tdqpfn"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-tdqpfn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-idccnd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-idccnd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-idccnd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-idqpni">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-idqpni"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-idqpni"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l40-Dd1e187">
+        <head xml:id="ppra-l40-Hmpddfo">Materia principalis: diffinitio fruitionis ordinatae</head>
+        <p xml:id="ppra-l40-vamdps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l40-vamdps"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-vamdps"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l40-Dd1e206">
+          <head xml:id="ppra-l40-Hobines">Obiectiones</head>
+          <p xml:id="ppra-l40-scaeim">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-scaeim"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-scaeim"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l40-iacnvc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-iacnvc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-iacnvc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l40-arprof">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-arprof"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-arprof"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l40-iqqnrb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-iqqnrb"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-iqqnrb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l40-eqdsde">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-eqdsde"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-eqdsde"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l40-iaqpoe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l40-iaqpoe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-iaqpoe"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l40-Dd1e316">
+          <head xml:id="ppra-l40-Hraorao">Responsiones ad obiectiones</head>
+          <div xml:id="ppra-l40-Dd1e321">
+            <head xml:id="ppra-l40-Hapapap">Ad primum</head>
+            <p xml:id="ppra-l40-aprnof">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-aprnof"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-aprnof"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-speici">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-speici"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-speici"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-tpcddf">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-tpcddf"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-tpcddf"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-qpcgce">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-qpcgce"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-qpcgce"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-qpcqdd">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-qpcqdd"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-qpcqdd"
+                />
+              </assertions>
+            </p>
+          </div>
+          <div xml:id="ppra-l40-Dd1e417">
+            <head xml:id="ppra-l40-Hasasas">Ad secundum</head>
+            <p xml:id="ppra-l40-qaspnr">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-qaspnr"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-qaspnr"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-seasod">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-seasod"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-seasod"
+                />
+              </assertions>
+            </p>
+            <p xml:id="ppra-l40-eivsod">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/l40-eivsod"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-eivsod"
+                />
+              </assertions>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="ppra-l40-Dxxyy1">
+        <head xml:id="ppra-l40-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l40-cd38pc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-cd38pc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-scsnse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-scsnse"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l40-tpdpfe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l40-tpdpfe"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

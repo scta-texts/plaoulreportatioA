@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-lectio25">
+      <div xml:id="ppra-l25-Dd1e107">
+        <head xml:id="ppra-l25-Hoaoaoa">
+          <supplied>Opinio Averroeis</supplied>
+        </head>
+        <p xml:id="ppra-l25-pmassv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-pmassv"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-pmassv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-ivaaei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-ivaaei"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-ivaaei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l25-Dd1e426">
+        <head xml:id="ppra-l25-Haoaaoa">
+          <supplied>Ad opinionem Averroeis</supplied>
+        </head>
+        <p xml:id="ppra-l25-eimapr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-eimapr"/>
+            <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-eimapr"/>-->
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-ivaaei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l25-Dd1e642">
+        <head xml:id="ppra-l25-Hsmpcdd">
+          <supplied>Sex modis possumus habere conceptum de Deo</supplied>
+        </head>
+        <p xml:id="ppra-l25-edacdd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-edacdd"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-edacdd"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l25-Dd1e662">
+          <head xml:id="ppra-l25-Hpmpmpm">Primus modus</head>
+          <p xml:id="ppra-l25-pmesie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-pmesie"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-pmesie"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l25-Dd1e846">
+          <head xml:id="ppra-l25-Hsmsmsm">Secundus modus</head>
+          <p xml:id="ppra-l25-amhcee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-amhcee"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-amhcee"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l25-Dd1e863">
+          <head xml:id="ppra-l25-Htmtmtm">
+            <supplied>Tertius modus</supplied>
+          </head>
+          <p xml:id="ppra-l25-ametmp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-ametmp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-ametmp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l25-Dd1e963">
+          <head xml:id="ppra-l25-Hramope">
+            <supplied>Reditio ad materiam de ordine praedicatorum essentialium</supplied>
+          </head>
+          <p xml:id="ppra-l25-cqphpe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-cqphpe"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-cqphpe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-cqasle">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-cqasle"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-cqasle"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l25-esciss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-esciss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-esciss"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel -->
+          <p xml:id="ppra-l25-esirhp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-esirhp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-esirhp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-ecvrpi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-ecvrpi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-ecvrpi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-peisai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-peisai"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-peisai"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-scatep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-scatep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-scatep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-tcaaid">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-tcaaid"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-tcaaid"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-qvaaae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-qvaaae"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-qvaaae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-iqiiev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-iqiiev"/>
+              <!--<assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-iqiiev"/>-->
+            </assertions>
+          </p>
+          <!-- doesn't seem present 
+                <p xml:id="ppra-l25-isvfim">
+                Item, sexto 
+                  valent
+                ad habendum demonstrationes in 
+                  mathematicis
+                Nam per viam divisionis a praedicatis communibus 
+                descendendo ad particularia et species specialissimas 
+                habent demonstrationes 
+                    fieri 
+                      in mathematicis
+              </p>-->
+        </div>
+        <div xml:id="ppra-l25-Dd1e1898">
+          <head xml:id="ppra-l25-Hqmpesd">
+            <supplied>Quartus modus: primus modus abstrahendi conceptum proprium et singularem
+              Dei</supplied>
+          </head>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l25-napprf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-napprf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-napprf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-echsss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-echsss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-echsss"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-eshdqn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-eshdqn"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-eshdqn"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l25-Dd1e2418">
+          <head xml:id="ppra-l25-Hqmsesd">
+            <supplied>Quintus modus: secundus modus abstrahendi conceptum proprium et singularem
+              Dei</supplied>
+          </head>
+          <p xml:id="ppra-l25-smapca">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-smapca"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-smapca"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l25-Dd1e2547">
+          <head xml:id="ppra-l25-Hsmtesd">
+            <supplied>Sextus modus: tertius modus abstrahendi conceptum proprium et singularem
+              Dei</supplied>
+          </head>
+          <p xml:id="ppra-l25-tmadsa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-tmadsa"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-tmadsa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l25-essrec">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l25-essrec"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-essrec"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l25-Dd1e2794">
+        <head xml:id="ppra-l25-Hcnluso">Conclusio</head>
+        <p xml:id="ppra-l25-eiaafe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-eiaafe"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-eiaafe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l25-Dd1e2876">
+        <head xml:id="ppra-l25-Hrairai">
+          <supplied>Responsio ad instantias</supplied>
+        </head>
+        <p xml:id="ppra-l25-asigge">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-asigge"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-asigge"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-airncs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-airncs"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-airncs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-srqcds">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-srqcds"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-srqcds"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-tdqcii">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-tdqcii"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-tdqcii"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-qdqand">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-qdqand"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-qdqand"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-ccuang">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-ccuang"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-ccuang"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-apddpa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l25-apddpa"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-apddpa"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-l25-Dxxyy1">
+        <head xml:id="ppra-l25-Hxxyy2">Conclusiones</head>
+        <p xml:id="ppra-l25-scneeu">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-scneeu"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-l25-titdvm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l25-titdvm"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

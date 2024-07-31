@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 24 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 24 [Bnf 3074 Transcription]</title>
+          <date when="2024-04-02">April 02, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-04-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="46-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio24">
+        <head xml:id="ppra-l24-Hd1e104">Lectio 24, de Notitia</head>
+        <div xml:id="ppra-l24-Dd1e107">
+          <head xml:id="ppra-l24-Hiplipl">
+            <supplied>Recapitulatio</supplied>
+          </head>
+          <p xml:id="ppra-l24-iploua">
+            <lb ed="#P" n="6"/>Consequenter postquam dictum est unde notitia et praecipue intuitiva habeat quod sit talis obiecti notitia 
+            <lb ed="#P" n="7"/>etiam quantum est de notitia creata dictum est quod est ad placitum dei significativa et ex consequenti dicetur quod deus 
+            <lb ed="#P" n="8"/>concurrit dupliciter ad causandum notitiam beatificam licet utroque modo immense 
+          </p> 
+          <p xml:id="ppra-l24-qedaos">
+            <pc type="punctus"/> Respiciendo quantum ad effectum deus dupliciter 
+            <lb ed="#P" n="9"/>concurrit uno modo effective <pc type="punctus"/> et quantum ad hoc dat speciem essentialem <pc type="punctus"/> Alio modo obiective <pc type="punctus"/> et secundum hoc 
+            <lb ed="#P" n="10"/>potest dare alium et alium modum repraesentandi et non reducitur ad diversitatem concursus <pc type="punctus"/> tamen diversitas 
+            <lb ed="#P" n="11"/>reducitur ad immensam divinam voluntatem Et ideo quare huiusmodi conceptus repraesentat hoc vel illud provenit ex divina 
+            <lb ed="#P" n="12"/>libertate et ista est natura actuum <unclear>revelatorum</unclear> supernaturalium in hoc imitantium divinam naturam quia ita est 
+            <lb ed="#P" n="13"/>de sensibus beatificis <pc type="punctus"/> ergo et de assensu fidei <pc type="punctus"/> unde credendum est quod beatus aliqualiter iudicat fore 
+            <lb ed="#P" n="14"/>et tamen posset nonquam iudicare sic fore <pc type="punctus"/> et per hoc habetur quod tales actus magis secuntur divinam 
+            <lb ed="#P" n="15"/>voluntatem quam conditionem obiecti 
+          </p>
+          <p xml:id="ppra-l24-echirv">
+            <pc type="punctus"/> et ideo circa hoc notatum est quod aliquae notitiae dependent 
+            <lb ed="#P" n="16"/>a suis obiectis <pc type="punctus"/> et aliquae veritates ymmo veritates in nobis causatae <pc type="virgula">/</pc> et sic verum est illud ab eo quod 
+            <lb ed="#P" n="17"/>res est vel non est dicitur oratio vera vel falsa In beatis autem non sic est ymmo habent rationem 
+            <lb ed="#P" n="18"/>prioritatis ideo prius oritur quod posset esse idem actus specie qui esset plurium in diversis repraesentativus 
+            <lb ed="#P" n="19"/>Et sic per eundem actum omnes possent salvari nam per hoc salvatur quod latitudo entium esset 
+            <lb ed="#P" n="20"/>finita quo ad speciem <pc type="virgula">/</pc> Etiam quod licet esset processus in infinitum in illos quae essent eiusdem speciei non esset proprie 
+            <lb ed="#P" n="21"/>processus <pc type="virgula">/</pc> et in hoc salvatur capacitas animae scilicet quod anima posset tantum mereri quod non posset praemiari <pc type="punctus"/> 
+            <lb ed="#P" n="22"/>sed hoc non valet quia eadem est species actuum beatificarum in patria <pc type="punctus"/> et quod actus sit plurium repraesentativus 
+            <lb ed="#P" n="23"/>in uno quam in alio hoc habet a divina voluntate <pc type="pilcrow"/> Contra per hoc potest salvari quod sine successione 
+            <lb ed="#P" n="24"/>actuum possunt fieri novae revelationes sive actus novi acquisitione <pc type="pilcrow"/> Contra quod idem 
+            <lb ed="#P" n="25"/>actus repraesentaret nunc divinam essentiam deinde aliam cum hoc sine novae rei acquisitione <pc type="pilcrow"/> Contra quod 
+            <lb ed="#P" n="26"/>idem actus potest repraesentare verbum et seipsum et stat quod primum et non se <pc type="punctus"/> <pc type="pilcrow"/> Ulterius sequitur quod 
+            <lb ed="#P" n="27"/>staret eundem actum esse rectum et reflexum respectu dei <pc type="virgula">/</pc> rectus respectu sui <pc type="punctus"/> reflexus <unclear>igitur</unclear> etc
+          </p>
+          <p xml:id="ppra-l24-idqsns">
+            <lb ed="#P" n="28"/><pc type="pilcrow"/> Et sic probabile est quod idem sit actus qui est dei apprehensionem intuitivam et est sui ipsius apprehensio 
+            <lb ed="#P" n="29"/>non solum incomplexa sed complexa non solum affirmativa sed etiam negativa <pc type="virgula">/</pc> et sic eadem notitia est negativa in uno 
+            <lb ed="#P" n="30"/>et affirmativa in alio negativa imperfectionis dei <pc type="punctus"/> et affirmativa perfectionis eius <pc type="pilcrow"/> Tamen non est concedendum 
+            <lb ed="#P" n="31"/>talis actus sit sibi contradictorius quia si sic tunc esset propositio impossibilis scilicet copulativa constituta ex 
+            <lb ed="#P" n="32"/>partibus contradicentibus et partibus impossibilibus et sic beatus in credendo deciperetur <pc type="pilcrow"/> Tamen isto non obstante 
+            <lb ed="#P" n="33"/>potest esse iudicium contradictorum sed successive ut quod sortes est et quod sortes non est post quare etc
+          </p>
+        </div>
+        <div xml:id="ppra-l24-Dd1e576">
+          <head xml:id="d3a1l22Hrangcu">
+            <supplied>Reditio ad notitias abstractivas: duo genera conceptuum universalium</supplied>
+          </head>
+          <p xml:id="ppra-l24-qaagse">
+            <lb ed="#P" n="34"/> Consequenter quantum ad notitias abstractivas fuerunt prius aliqua tacta scilicet modi causandi eas 
+            <lb ed="#P" n="35"/>unus fuit quod dato conceptu singulari et determinato cum connotatibus accidentibus virtus abstractiva 
+            <lb ed="#P" n="36"/>potest conceptum immediate elicitum causare <pc type="virgula">/</pc> sed de conceptu communi ut entis sunt aliqua notanda primo 
+            <lb ed="#P" n="37"/>modus causandi universales conceptus est quia quidam sunt universales dicentes perfectionem sine limitatione 
+            <lb ed="#P" n="38"/><pc type="pilcrow"/> Alii sunt limitati sicut sunt genera subalterna et species specialissime 
+          </p>
+        </div>
+        <div xml:id="ppra-l24-Dd1e686">
+          <head xml:id="ppra-l24-Hpcudps">
+            <supplied>Primus conceptus universalis: circa conceptus universales dicentes perfectionem simpliciter</supplied>
+          </head>
+          <p xml:id="ppra-l24-cpdpsp">
+            <pc type="pilcrow"/>Circa primum de modo causandi huiusmodi 
+            <lb ed="#P" n="39"/>conceptus universales notandum est quod huiusmodi conceptus causantur a convenientiis rerum generalibus <pc type="pilcrow"/>  unde ymaginandum est 
+            <lb ed="#P" n="40"/>quod sit aliqua infima species mere participans divinam essentiam ut si secundum esse praecise tunc 
+            <lb ed="#P" n="41"/>ab illa convenientia potest sumi conceptus generalis sibi et deo ymmo et cuilibet <unclear>quitati</unclear> in 6a perfectione 
+            <lb ed="#P" n="42"/><pc type="pilcrow"/> deinde detur alia immediate illa conveniet deo in maiori perfectione et tunc <unclear>futitur</unclear> conceptus et secundum hoc 
+            <lb ed="#P" n="43"/>erit conceptus communis deo et sibi et aliis <pc type="pilcrow"/> Et alia specie et eius convenientia sumitur conceptus communis sibi et deo 
+            <lb ed="#P" n="44"/>et secundum numerum specierum est ordo talium praedicatorum dicentium perfectionem <pc type="punctus"/> Ideo sunt convenientia deo et creaturae 
+            <lb ed="#P" n="45"/>utrum univoce videtur quod sic et secundum multitudinem specierum sunt multibilia praedicta <pc type="punctus"/> et inter quascumque 2as 
+            <lb ed="#P" n="46"/>species finitas possunt dari aliae quia nisi sic deus esset potentiae limitate et sic non est dare 
+            <lb ed="#P" n="47"/>speciem terminatam eius potentiam 
+          </p> 
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l24-essvls">
+            Et sic tot quot sunt species tot sunt tales conceptus per intellectum 
+            <lb ed="#P" n="48"/>formales in quolibet quo deus includitur universaliter sed non particulariter <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-l24-Dd1e1013">
+          <head xml:id="ppra-l24-Hscucul">
+            <supplied>Secundus conceptus universalis: circa conceptus universales limitatos</supplied>
+          </head>
+          <p xml:id="ppra-l24-aemeap">
+            <pc type="pilcrow"/> Alius est modus secundum 
+            <lb ed="#P" n="49"/>limitationem generum subalternarum secundum subordinationem terminorum repositorum in praedicamento substantiae
+          </p>
+        </div>
+        <div xml:id="ppra-l24-Dd1e1065">
+          <head xml:id="ppra-l24-Huecdps">
+            <supplied>Ulterior explicatio circa conceptus universales dicentes perfectionem simpliciter</supplied>
+          </head>
+          <p xml:id="ppra-l24-cmpicc">
+            <pc type="pilcrow"/> Unde 
+            <lb ed="#P" n="50"/>circa primum modum est advertendum quod a quolibet conceptu vero dicente perfectionem potest abstrahi conceptus 
+            <lb ed="#P" n="51"/>causabilis excludendum omnino imperfectionem quantumcumque possibilem sicut ab infirma specie sumitur conceptus entis 
+            <lb ed="#P" n="52"/>sic ab illo conceptu concurrentis determinationibus potest sumi aliquis conceptus praecise supponens pro deo secludens 
+            <lb ed="#P" n="53"/>omnem imperfectionem <pc type="punctus"/> nam sicut ascendendo species 2a excludit primam propter suam imperfectionem 
+            <lb ed="#P" n="54"/>ut sub conceptu entis potest sumi conceptus supponens pro deo inmediate ut ens immensum <pc type="punctus"/> et sic 
+            <pb ed="#P" n="46-v"/>
+            <lb ed="#P" n="1"/>de talibus determinationibus quae faciunt et supponunt praecise pro deo et ab illo conceptu <unclear>ag?to</unclear>
+            <lb ed="#P" n="2"/>sumitur conceptus absolutus supponens pro deo <pc type="punctus"/> 
+          </p> 
+          <p xml:id="ppra-l24-esedpe">
+            <pc type="virgula">/</pc> et sic ymaginatur unus ordo talium conceptuum 
+            <lb ed="#P" n="3"/>absolutorum proportionaliter primo ordini etc proportionaliter ascendendo et in talibus contingit in infinitum 
+            <lb ed="#P" n="4"/>procedere sicut et in absolutis proportionaliter sumptis et ex uno potest elici alius <pc type="virgula">/</pc> quia qui licet significat 
+            <lb ed="#P" n="5"/>deum secundum rationem limitatam <pc type="virgula">/</pc> et ab <unclear>ag?ene</unclear> omnium conceptuum deum ex primentium deum 
+            <lb ed="#P" n="6"/>contingit infinitos conceptus sibi proprios invenire 
+          </p> 
+          <p xml:id="ppra-l24-etcpid">
+            et sic ymaginandum est quod possit elici 
+            <lb ed="#P" n="7"/>absolutus conceptus aequivalens omnibus <unclear>it?</unclear> et tunc esset proprius deo <pc type="punctus"/> <pc type="virgula">//</pc> Utrum tamen in via sit 
+            <lb ed="#P" n="8"/>invenibilis potest dici quod non <pc type="punctus"/> sed in patria potest dici quod sic <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l24-eiadec">
+            <pc type="pilcrow"/> Ex dictis <del rend="strikethrough">se</del> patet quomodo de deo 
+            <lb ed="#P" n="9"/>plures conceptus possit haberi esse sine et praecise ipsius dei <pc type="punctus"/> repraesentativi Et quia non potest haberi 
+            <lb ed="#P" n="10"/>conceptus simplex correspondens omnibus in via ideo potest dici quod continue possunt elici aliqui conceptus 
+            <lb ed="#P" n="11"/>ipsum continue repraesentantes <pc type="virgula">/</pc> Et sic quanto aliquem conceptum <unclear>p?res</unclear> <unclear>praecedenter</unclear> tanto 
+            <lb ed="#P" n="12"/>talis conceptus maiorem perfectionem in deo diceret <pc type="virgula">/</pc>  et posset fieri ascensus secundum potentias 
+          </p> 
+        </div>
+        <div xml:id="ppra-l24-Dd1e1478">
+          <head xml:id="ppra-l24-Hueccul">
+            <supplied>Ulterior explicatio circa conceptus universales limitatos</supplied>
+          </head>
+          <p xml:id="ppra-l24-aeipmp">
+            <pc type="pilcrow"/> Alius 
+            <lb ed="#P" n="13"/>est modus ymaginandi conceptus ex conceptibus limitatis creaturarum Et dicitur quod quaelibet notitia 
+            <lb ed="#P" n="14"/>creaturae intellectiva est apta nata immediate ad causandum notitiam abstractivam de deo <pc type="punctus"/> et sicut 
+            <lb ed="#P" n="15"/>creaturae habent ordinem ad deum <pc type="virgula">/</pc> ita et notitiae <pc type="punctus"/> et sic creaturae sunt etc <pc type="pilcrow"/> Unde circa hoc 
+            <lb ed="#P" n="16"/>ymaginatur quod ex unica notitia ut plurimum non potet in nobis causari abstractiva sed requiruntur 
+            <lb ed="#P" n="17"/>plures <pc type="punctus"/> et ex earum combinatione consurgit quod intellectus possit causare abstractivam notitiam 
+            <lb ed="#P" n="18"/>de deo <pc type="punctus"/> et secundum hoc resultat diversi conceptus dei <pc type="punctus"/> et magis vel minus perfecti et sic 
+            <lb ed="#P" n="19"/>vis abstractiva animae et virtus multum animam perficit
+          </p> 
+          <p xml:id="ppra-l24-edhiia">
+            <pc type="pilcrow"/> Sed circa materiam de 
+            <lb ed="#P" n="20"/>cognitione dei fuerunt modi nam ut dicit <name>rabbi moyses</name> non fuit nisi unicum nomen 
+            <lb ed="#P" n="21"/>dei cui correspondet conceptus absolutus sed iste non habebatur ad libitum sed quasi de septem 
+            <lb ed="#P" n="22"/>annis in septem annos <pc type="pilcrow"/> unde per viam abstractionis ymaginati sunt philosophi quod homo posset 
+            <lb ed="#P" n="23"/>pervenire ad notitiam dei intuitivae secundum quod conceptus praevii sunt perfectiores et perfectiores et sic 
+            <lb ed="#P" n="24"/>secundum hoc invenerunt abstractionem qua dixerunt se cognovisse deum intuitive et vocaverunt 
+            <lb ed="#P" n="25"/>intellectum adeptum
+          </p>
+          <p xml:id="ppra-l24-uchsid">
+            <pc type="pilcrow"/> Circa vel advertendum est per quod notitia abstractiva est sui obiecti notitia 
+            <lb ed="#P" n="26"/>et est sciendum quod certa habitudo notitiarum inter se quasi per modum speciei repraesentatur totus ex illa congerie 
+            <lb ed="#P" n="27"/>tamquam species dei repraesentativa et ex illa armonia quae est tamquam species dei <pc type="punctus"/> et sic elicit dei 
+            <lb ed="#P" n="28"/>notitia et sic etiam stat quod ex illa congerie resultat talis species et tamen nisi parti correspondet 
+            <lb ed="#P" n="29"/>sicut patet in sonis unus non faceret armonia per se sed ex pluribus et combinationibus 
+            <lb ed="#P" n="30"/>diversis resultat armonia <pc type="virgula">/</pc> Et secundum haec resultaret etiam diversi conceptus <pc type="virgula">/</pc> Sed aliud ymaginatur 
+            <lb ed="#P" n="31"/>de productione formarum quia secundum quod qualitates aliter et aliter combinantur secundum haec alia et alia forma producitur 
+            <lb ed="#P" n="32"/>ita de notitiis diceretur secundum earum diversas ombinationes et de deo et de creaturis 
+            <lb ed="#P" n="33"/>et secundum infinitam combinationem ymaginandum est quod sit processus in conceptionibus formalibus unde licet talis 
+            <lb ed="#P" n="34"/>combinatio causetur quasi species tamen non est proprie species nec causat eius species
+          </p>
+        </div>
+        <div xml:id="ppra-l24-Dd1e2087">
+          <head xml:id="ppra-l24-Hohdhdh">
+            <supplied>Opinio Henrici de Oyta</supplied>
+          </head>
+          <p xml:id="ppra-l24-eehfee">
+            <pc type="pilcrow"/> Et sic 
+            <lb ed="#P" n="35"/>magister henricus de heuta non videtur bene dicere ubi dicit quod ex duabus notitiis 
+            <lb ed="#P" n="36"/>causatur una totaliter 3a sicut ex spece lucis cum opaca causatur in nobis species rubedinis 
+            <lb ed="#P" n="37"/>et tamen non est ibi respondendo sed non est quia sensus in hoc potest decipi sicut si <unclear>calix</unclear> praesentetur 
+            <lb ed="#P" n="38"/>alicui in disto per modum praesentandi farinam <pc type="punctus"/> intellectus non iudicabit notitiam 
+            <lb ed="#P" n="39"/>farinae intuitive <pc type="virgula">/</pc> et si dicatur causabitur actus cognoscendi farinam 
+          </p> 
+        </div>
+        <div xml:id="ppra-l24-Dd1e2232">
+          <head xml:id="ppra-l24-Hrahhdh">Responsio ad Henricum de Huta</head>
+          <p xml:id="ppra-l24-rduecc">
+            <pc type="virgula">/</pc> dicitur quod non sed 
+            <lb ed="#P" n="40"/>realiter actus intuitivus cognoscendi calcem <pc type="punctus"/> Etiam licet causaretur talis notitia farinae <pc type="punctus"/> tamen 
+            <lb ed="#P" n="41"/>hoc non esset per notitiam calcis sed per quamdam dispositionem in intellectu mediate qua 
+            <lb ed="#P" n="42"/>ex specie calcis iudicabit ibi esse farinam
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l24-sdqcre">
+            <pc type="pilcrow"/> Etiam dicitur quod possibile est quod intellectus exuat 
+            <lb ed="#P" n="43"/>in actu proportionalem speciei productae a calce
+          </p> 
+        </div>
+        <div xml:id="ppra-l24-Dd1e2378">
+          <head xml:id="ppra-l24-Hrpnncd">
+            <supplied>Resolutio: possibilitas notitiae circa Deum</supplied>
+          </head>
+          <p xml:id="ppra-l24-eissde">
+            <pc type="pilcrow"/> Ex quibus patet qualiter de deo potest haberi 
+            <lb ed="#P" n="44"/>conceptus abstractis et proprius de deo mere absolutus secundum quod abstrahimus a convenientiis 
+            <lb ed="#P" n="45"/>creaturae et deo <pc type="pilcrow"/> 2us qui abstrahitur per quem praecise habetur notitia de deo <pc type="pilcrow"/> 3us secundum combinationem 
+            <lb ed="#P" n="46"/>notitiarum de deo <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-l24-eippne">
+            Ex quo possent inferri correlaria qua ponentes oppositum sed non plus pro nunc
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

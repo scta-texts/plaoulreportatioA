@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 40 [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 40 [Bnf 3074 Transcription]</title>
+          <date when="2024-05-29">May 29, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="55-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ppra-lectio40">
+        <head xml:id="ppra-l40-Hldfldf">Lectio 40, de Fruitione</head>
+        <div xml:id="ppra-l40-Dd1e83">
+          <head xml:id="ppra-l40-Hqeqdnp">Quod ea quae tacta fuerunt quantum ad materiam nobilitatis non sunt intelligenda de nobilitate politica</head>
+          <p xml:id="ppra-l40-aecldn">
+            <lb ed="#P" n="20"/>Consequenter est <unclear>inspiciendum</unclear> de subsequentibus ad materiam spectantibus Et est sciendum quod ea quae tacta 
+            <lb ed="#P" n="21"/>sunt non intelligenda sunt de intellectu politico et subiectione ipsa <pc type="punctus"/> nam talis subiectio nihil aliud est 
+            <lb ed="#P" n="22"/>quam refferendo suas operationes in deum <pc type="virgula">/</pc> et diligendo ipsum et non reflectitur ad se <pc type="virgula">/</pc> Et ad hoc 
+            <lb ed="#P" n="23"/><ref xml:id="ppra-l40-Rd1e118"><name>augustinus</name> dicit quod civitate dei</ref> <quote xml:id="ppra-l40-Qd1e129" source="http://scta.info/resource/adcd-l14-d1e2142">fecit amor sui</quote>
+          </p>
+          <p xml:id="ppra-l40-dsqecl">
+            <pc type="virgula">/</pc> 2o quia <unclear>ab</unclear> huiusmodi subiectione vel umbra eius <unclear>motivitas</unclear>
+            <lb ed="#P" n="24"/>politica sumpsit originem <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l40-tdqpfn">
+            <pc type="pilcrow"/> Ulterius ad nobilitatem politicam apparentem aut existentem requiritur applicatio 
+            <lb ed="#P" n="25"/>ad conferentiam
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-l40-idccnd">
+            <pc type="pilcrow"/> Ulterius requiritur non elongatio sed nova continuatio erga regimen politicum
+          </p>
+          <p xml:id="ppra-l40-idqpni">
+            <lb ed="#P" n="26"/>unde fructus peccati non solvit servitutem politicam <pc type="virgula">/</pc> <pc type="punctus"/> nam sacra scriptura docet obedire <unclear>propositis</unclear> etiam 
+            <lb ed="#P" n="27"/><sic>discolis</sic> igitur etc
+          </p>
+        </div>
+        <div xml:id="ppra-l40-Dd1e187">
+          <head xml:id="ppra-l40-Hmpddfo">Materia principalis: diffinitio fruitionis ordinatae</head>
+          <p xml:id="ppra-l40-vamdps">
+            <pc type="pilcrow"/> Veniendo igitur ad materiam nostram satis ex declaratione divinae perfectionis 
+            <lb ed="#P" n="28"/>patet quod deus est obiectum beneficum divinae visionis sive perfectionis aut fruitionis <pc type="virgula">/</pc> unde fruitio 
+            <lb ed="#P" n="29"/>ordinata est dilectio dei propter se <pc type="punctus"/>
+          </p>
+          <div xml:id="ppra-l40-Dd1e206">
+            <head xml:id="ppra-l40-Hobines">Obiectiones</head>
+            <p xml:id="ppra-l40-scaeim">
+              <pc type="pilcrow"/> Sed arguitur contra deus est diligendus propter beneficia igitur 
+              <lb ed="#P" n="30"/>beneficia magis consequentia tenet quoniam propter unumquodque talem et illud magis <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l40-iacnvc">
+              <pc type="pilcrow"/> Item arguitur contra quoddam dicitur propter se
+              <lb ed="#P" n="31"/>vel li <mentioned>propter se</mentioned> capitur negative vel affirmative si primum non dicitur quia tunc deus esset bis obiectum <pc type="punctus"/>
+              <lb ed="#P" n="32"/>si 2m tunc praecedit <unclear>maiorem</unclear> tamquam partem obiecti
+            </p>
+            <p xml:id="ppra-l40-arprof">
+              <pc type="pilcrow"/> Aliae rationes possent induci de dilectione 
+              <lb ed="#P" n="33"/>quare una persona diligit maior quia videtur quod una persona non habeat obiectum <subst><del rend="strikethrough">fiave</del> <add place="above-line">fruitive</add></subst> circa aliam <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-l40-iqqnrb">
+              <pc type="pilcrow"/> Item 
+              <lb ed="#P" n="34"/>de ratione totius trinitatis qua ratione debet diligi
+            </p>
+            <p xml:id="ppra-l40-eqdsde">
+              <pc type="pilcrow"/> Item de ratione divinae essentiae sub forma qua est 
+            </p>
+            <p xml:id="ppra-l40-iaqpoe">
+              <lb ed="#P" n="35"/>Item idem actus est usus et fruitio etc
+            </p>
+          </div>
+          <div xml:id="ppra-l40-Dd1e316">
+            <head xml:id="ppra-l40-Hraorao">Responsiones ad obiectiones</head>
+            <div xml:id="ppra-l40-Dd1e321">
+              <head xml:id="ppra-l40-Hapapap">Ad primum</head>
+              <p xml:id="ppra-l40-aprnof">
+                <ref xml:id="ppra-l40-Rd1e330" target="http://scta.info/resource/ppra-l40-scaeim">Ad primum</ref> respondendum est de beneficiis quod beneficia 
+                <lb ed="#P" n="36"/>possunt multipliciter concurrere primo ut ostensiva rationis diligibilitatis intrinsecae nam ex diffinitione bonitatis 
+                <lb ed="#P" n="37"/>ad extra arguitur ratio ab intra Et sic isto modo beneficia divina arguunt suam bonitatem ad extra <pc type="virgula">/</pc> et 
+                <lb ed="#P" n="38"/>tamen non requiritur quod habeant rationem obiecti fruibilis ad extra
+              </p>
+              <p xml:id="ppra-l40-speici">
+                <pc type="pilcrow"/> 2o possunt esse causa memoriae ad actualem 
+                <lb ed="#P" n="39"/>notitiam
+              </p>
+              <p xml:id="ppra-l40-tpcddf">
+                <pc type="pilcrow"/> 3o concurrit alectum movendo prius nam ex acceptione beneficiorum cretura redditur 
+                <lb ed="#P" n="40"/>promptor ad exeundum in actum dilectionis fruitive
+              </p>
+              <p xml:id="ppra-l40-qpcgce">
+                <pc type="pilcrow"/> 4o in genere causae efficienter
+              </p> 
+              <p xml:id="ppra-l40-qpcqdd">
+                <pc type="pilcrow"/> 5o in 
+                <lb ed="#P" n="41"/>genere causae finalis sed non essentialiter subordinatur ad istum sensum quod realiter per modum finis ad diligendum 
+                <lb ed="#P" n="42"/>deum finaliter sed non tamquam finaliter ordinatur et si resolvatur dilectio dei erit finis dilectionis
+                <lb ed="#P" n="43"/>beneficii 
+                
+                <pc type="pilcrow"/> Unde non habent realem ordinem inter se sic quod ultimum sit beneficium fruitionis 
+                <lb ed="#P" n="44"/>dei <pc type="punctus"/> quia non est ordo essentialis <pc type="punctus"/> <pc type="pilcrow"/> Unde non sequitur diligo <c>a</c> propter beneficium ergo magis diligo <c>a</c>
+              </p>
+            </div>
+            <div xml:id="ppra-l40-Dd1e417">
+              <head xml:id="ppra-l40-Hasasas">Ad secundum</head>
+              <p xml:id="ppra-l40-qaspnr">
+                <ref xml:id="ppra-l40-Rd1e426" target="http://scta.info/resource/ppra-l40-iacnvc">Ad 2m</ref> punctum dicitur quod positive capitur li <mentioned>propter se</mentioned> et non primative sed est difficultas in modo
+                <lb ed="#P" n="45"/>exprimendi unde <ref xml:id="ppra-l40-Rd1e273"><name ref="#Ockham">okam</name></ref> dicit quod non est aliud propter quid deus diligatur nisi propter se <pc type="virgula">/</pc> et quolibet 
+                <lb ed="#P" n="46"/>aliud propter deum vel propter aliud et aliud 
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l40-seasod">
+                <pc type="pilcrow"/> unde advertendum est quod in dilectione dei fruitiva concurrit <unclear>die?ce</unclear>
+                <lb ed="#P" n="47"/><c>a</c> est deus igitur <c>a</c> est etc 
+              </p>
+              <!-- fuzzy parallel -->
+              <p xml:id="ppra-l40-eivsod">
+                <pc type="virgula">/</pc> hic assumitur maior per fidem minor autem est ratio deitatis unde li <mentioned>propter se</mentioned> refertur 
+                <lb ed="#P" n="48"/>ad maiorem unibilem vel ad minorem sed debet refferri id est principaliter ratione sui ad maiorem
+              </p>
+            </div>
+          </div>
+        </div>
+        <div xml:id="ppra-l40-Dxxyy1">
+          <head xml:id="ppra-l40-Hxxyy2">Conclusiones</head>
+          <p xml:id="ppra-l40-cd38pc">
+            <pc type="pilcrow"/> prima conclusio lectionis res 
+            <lb ed="#P" n="49"/><unclear>fu?re</unclear> sunt <unclear>fu?re</unclear>
+          </p>
+          <p xml:id="ppra-l40-scsnse">
+            <pc type="pilcrow"/> 2a conclusio si res non essent deus non sciret eas <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-l40-tpdpfe">
+            <pc type="pilcrow"/> 3a conclusio praescientia dei non potest falsi et
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

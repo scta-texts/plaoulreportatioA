@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-l74">
+      <head xml:id="ppra-l74-Hldtldt">Lectio 74, de Trinitate [Erlangen Transcription]</head>
+      <div xml:id="ppra-l74-Dd1e4124">
+        <head xml:id="ppra-l74-Hdmimit">De modo imaginando Trinitatem</head>
+        <p xml:id="ppra-l74-dmiatc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l74-dmiatc"/>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-dmiatc"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l74-Dd1e4151">
+          <head xml:id="ppra-l74-Hpmpmpm">Primus Modus</head>
+          <p xml:id="ppra-l74-upmisc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-upmisc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-upmisc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-ephfvv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-ephfvv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-ephfvv"/>
+            </assertions>
+          </p>
+          <!-- reason for this paragraph break is not clear; and needs to be recosidered in ordinatio text -->
+          <p xml:id="ppra-l74-etifni">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-etifni"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-etifni"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-dcsete">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-dcsete"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-dcsete"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4329">
+          <head xml:id="ppra-l74-Hsmsmsm">Secundus Modus</head>
+          <p xml:id="ppra-l74-smipef">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-smipef"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-smipef"/>
+            </assertions>
+          </p>
+          <!-- reason for break unclear -->
+          <p xml:id="ppra-l74-eimise">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-eimise"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-eimise"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-equpit">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-equpit"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-equpit"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-ihopei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-ihopei"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-ihopei"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4470">
+          <head xml:id="ppra-l74-Htmtmtm">Tertius modus</head>
+          <p xml:id="ppra-l74-aeipev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-aeipev"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-aeipev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-pmevss">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-pmevss"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-pmevss"/>
+            </assertions>
+          </p>
+          <!--  division a bit unclear here -->
+          <p xml:id="ppra-l74-eimass">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-eimass"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-eimass"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4550">
+          <head xml:id="ppra-l74-Hqrmqrm">Quartus modus</head>
+          <p xml:id="ppra-l74-qmeavi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-qmeavi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-qmeavi"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4594">
+          <head xml:id="ppra-l74-Hqnmqnm">Quintus modus</head>
+          <!-- review paragraph division -->
+          <p xml:id="ppra-l74-qiefhv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-qiefhv"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-qiefhv"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4636">
+          <head xml:id="ppra-l74-Hsxmxm">Sextus modus</head>
+          <p xml:id="ppra-l74-suphpf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-suphpf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-suphpf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-pppisi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-pppisi"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-pppisi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-cvaved">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-cvaved"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-cvaved"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l74-Dd1e4767">
+        <head xml:id="ppra-l74-Hcorria">Corollaria</head>
+        <p xml:id="ppra-l74-eiiiic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/l74-eiiiic"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-l74-Dd1e4774">
+          <head xml:id="ppra-l74-Hpcmpcm">Primum corollarium</head>
+          <p xml:id="ppra-l74-peqnea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-peqnea"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-peqnea"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4854">
+          <head xml:id="ppra-l74-Hsccium">Secundum corollarium</head>
+          <p xml:id="ppra-l74-scqrte">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-scqrte"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-scqrte"/>
+            </assertions>
+          </p>
+          <!-- reconsider paragraph break -->
+          <p xml:id="ppra-l74-issdse">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-issdse"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-issdse"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e4958">
+          <head xml:id="ppra-l74-Htcmtcm">Tertium corollarium</head>
+          <p xml:id="ppra-l74-d1e4963">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-d1e4963"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-d1e4963"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-tceenr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-tceenr"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-tceenr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-eoemvf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-eoemvf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-eoemvf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-neqfhc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-neqfhc"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-neqfhc"/>
+            </assertions>
+          </p>
+          <!-- division unclear; needs review  -->
+          <p xml:id="ppra-l74-sarfas">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-sarfas"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-sarfas"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e5189">
+          <head xml:id="ppra-l74-Hqrcqrc">Quartum corollarium</head>
+          <p xml:id="ppra-l74-qcqspp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-qcqspp"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-qcqspp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e5211">
+          <head xml:id="ppra-l74-Hqncqnc">Quintum corollarium</head>
+          <p xml:id="ppra-l74-qspqsf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-qspqsf"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-qspqsf"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e5248">
+          <head xml:id="ppra-l74-Hsxcsxc">Sextum corollarium</head>
+          <p xml:id="ppra-l74-scqvic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-scqvic"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-scqvic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-sinsta">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-sinsta"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-sinsta"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e5298">
+          <head xml:id="ppra-l74-Hspcspc">Septimum corollarium</head>
+          <p xml:id="ppra-l74-scqeep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-scqeep"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-scqeep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-l74-eehphm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-eehphm"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-eehphm"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-l74-Dd1e5353">
+          <head xml:id="ppra-l74-Hocmocm">Octavum corollarium</head>
+          <p xml:id="ppra-l74-ocitad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l74-ocitad"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l74-ocitad"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div xml:id="ppra-l74-Dxxyy1">
+        <head xml:id="ppra-l74-Hxxyy2">Conclusiones</head>
+        <!-- conclusiones -->
+        <p xml:id="ppra-l74-d1e1003">
+        </p>
+        <p xml:id="ppra-l74-d1e1017">
+        </p>
+        <p xml:id="ppra-l74-d1e1030">
+        </p>
+        <p xml:id="ppra-l74-d1e1052">
+        </p>
+        <p xml:id="ppra-l74-d1e1059">
+        </p>
+        <p xml:id="ppra-l74-d1e1067">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
