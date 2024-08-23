@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium IV [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium IV [Bnf 3074 Transcription]</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="20-r"/>
+      </div>
+    </front>
+    <body>
+        <div xml:id="ppra-principiumIV">
+      <head xml:id="ppra-prIV-Hpripia">Principium IV</head>
+        <div>
+          <head xml:id="ppra-prIV-Hucaaef">Utrum Christus ascendens in palmam sufficienter pro omnibus viatoribus apprehendit eius fructum</head>
+          <p xml:id="ppra-prIV-aipafe">
+            <lb ed="#P" n="30"/>Ascendam in palmam et apprehendam fructus eius <pc type="punctus"/> Reverendi patres et magistri post mortem 
+            <lb ed="#P" n="31"/>iosue quaerebat populus israel quis ascendet pro nobis ad debellendum hostes nostros 
+            <lb ed="#P" n="32"/>scilicet amorreos <pc type="virgula">/</pc> sequitur parum post iudas ascendet <pc type="virgula">/</pc> iste iudas catulus leonis fortis <unclear>deffensor</unclear> 
+            <lb ed="#P" n="33"/>scilicet christus resurgens ascendit de transcendente morali ad bethel scilicet montem domini victoria habita contra 
+            <lb ed="#P" n="34"/><unclear>pesciferum</unclear> hostem nostrum ducens secum captivitatem nostram <pc type="punctus"/> nam etiam habetur iosuae 10mo quod iosuas 
+            <lb ed="#P" n="35"/>victoria obtenta ascendit in montem dabarim <pc type="punctus"/> multa alia dicit quae non scripsi <pc type="virgula">/</pc> nec 
+            <lb ed="#P" n="36"/>etiam in scolis consuetum est talia principia reaportare <pc type="punctus"/> Sed venio ad hoc quod principalius est scilicet ad <unclear>patrem</unclear> 
+            <lb ed="#P" n="37"/>quam movit <name>ipse bachalarius legens sententias scilicet plaoust</name> curatus de tybervilla natus 
+            <lb ed="#P" n="38"/>credo in alta picardia <!-- possible birth attribution for plaoul "piccardy" or "old picccardy" ??? -->valens clericus et profundus quae talis est Utrum christus ascendens 
+            <lb ed="#P" n="39"/>in palma sufficienter pro peccatoribus ascendit in ipsa palma fecunditatis 
+          </p> 
+          <p xml:id="ppra-prIV-euceps">
+            <pc type="virgula">/</pc> Sed antequam plus dicam 
+            <lb ed="#P" n="40"/>protestationibus praemissis ut alias dixi ne videar elatione <unclear>cumfundi</unclear> <pc type="virgula">/</pc> praetendo contra fidelium 
+            <lb ed="#P" n="41"/>dicta et errores aliqualiter replicare iuxta mei possibilitatem
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hdesdes">De efficacia sacramentorum</head>
+          <p xml:id="ppra-prIV-iaeeso">
+            Unde primitus est advertendum quod 
+            <lb ed="#P" n="42"/>circa materiam istam potest congruitas sacramentarum ostendi cum ista sit quod liber christus cuius principium agitur 
+            <lb ed="#P" n="43"/>de sacramentis habeat tractare <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIV-epasie">
+            <pc type="pilcrow"/> Et primo dico quod attestatione et <unclear>fultione</unclear> miraculorum condam 
+            <lb ed="#P" n="44"/>factorum <add place="above-line">fulcitur</add> nam legimus in cronicis de constantino imperare qui a morbo elephantino 
+            <lb ed="#P" n="45"/>sacramento baptismi curatus est et apparuit sibi christus
+          </p>
+          <p xml:id="ppra-prIV-srhdse">
+            <pc type="pilcrow"/> 2o probatur nam quidam episcopus arrianus in 
+            <lb ed="#P" n="46"/>contemptum verba sacramenti baptismi inepte proferens aqua disparuit et hoc ysidorus 
+            <lb ed="#P" n="47"/>in libro ethicorum et <del rend="strikethrough"><!-- delete a bit unclear -->et augustinum in libro de civitate dei primo capitulo 10m</del> <ref><name ref="#WilliamOfParis">guillelmus parisiensis</name> in libro <title ref="#deSacramentisWilliamOfParis">de sacramentis</title></ref>
+          </p>
+          <p xml:id="ppra-prIV-tfapns">
+            <pc type="pilcrow"/> 3o <unclear>apartio</unclear> caelorum 
+            <lb ed="#P" n="48"/>in christi baptismo spiritus sanctus in specie columbae visus et vox patris audita est hic est filius meus etc
+            <lb ed="#P" n="49"/>Ubi notat <name ref="#WilliamOfParis">guillelmus parisiensis</name> quod ab instanti conceptionis suae christus fuit plensu donis quare sequitur 
+            <lb ed="#P" n="50"/>quod hoc non fuit ad eum meliorandum <pc type="virgula">/</pc> sed ut nobis sit evidens efficacia sacramentis et quod 
+            <lb ed="#P" n="51"/>gratia spiritus sancti in nobis infundatur et per hoc fiamus filii adoptivi dei <pc type="pilcrow"/> de aliis mirabilis 
+            <lb ed="#P" n="52"/>sacramenti huius satis patet <pc type="virgula">/</pc> nam historiae sunt de hoc quasi plene <pc type="punctus"/>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hsupnes">Suppositiones</head>
+          <!--
+            Doesn't really seem present 
+            <p xml:id="ppra-prIV-ptpaps">
+            Pro tamen 
+            principali puncto declarando puncto suppositiones ex principio <unclear>modo[?meo[?]</unclear> 
+            alias praemisso sequentes.
+          </p>-->
+          <p xml:id="ppra-prIV-peqthc">
+            <pc type="pilcrow"/> Sed descendo ad principale suppositum  
+            <lb ed="#P" n="53"/>praemittens talem suppositionem videlicet quod deus est absolute immensus et immensae potentiae <pc type="virgula">/</pc> Ex quo 
+            <lb ed="#P" n="54"/>sequitur quod eius efficacia transcendit humanam capacitatem 
+          </p>
+          <p xml:id="ppra-prIV-ssqcep">
+            <pc type="pilcrow"/> 2o sequitur negare hoc sibi posse sine 
+            <lb ed="#P" n="55"/>auctoritate vel ratione ad hoc cogente est praesumptio valde magna <pc type="punctus"/> et fatua 
+          </p>
+          <p xml:id="ppra-prIV-stqnpc">
+            <pc type="virgula">/</pc> Et sic negantes 
+            <lb ed="#P" n="56"/>philosophi possibilitatem creationis mundi limites debitae inquisitiones egrediuntur <pc type="punctus"/> et veritatis 
+            <pb ed="#P" n="20-v"/>
+            <lb ed="#P" n="1"/>nam faciunt fallaciam accidentis quia arguunt quasi conformiter hoc non vidi igitur ita non est sicut 
+            <lb ed="#P" n="2"/><name>rabbi moyses</name> in libro de vice iudaeorum recitat de quod <unclear>nuttrito</unclear> immediate post eius <unclear>na?tem <!--nativitatem--></unclear>
+            <lb ed="#P" n="3"/>in quadam insula <pc type="virgula">/</pc> negabat enim se in utero matris conceptum <pc type="punctus"/> cuius causa erat quia vide<lb ed="#P" break="no" n="4"/>batur 
+            sibi in corpore matris non posse vivere quia si avicula vel aliquod talem esset in <unclear>vete?e</unclear>
+            <lb ed="#P" n="5"/>suffocaretur <pc type="virgula">/</pc> Sic ergo philosophi per fallaciam accidentis conformiter fuerunt decept sic ignoscentes 
+          </p>
+          <p xml:id="ppra-prIV-qsoqsi">
+            <lb ed="#P" n="6"/><pc type="pilcrow"/> <sic>2a</sic> suppositio vel propositio omnis effectus ad extra in infinitum distat ab aequalitate suae causae <pc type="virgula">/</pc> patet 
+            <lb ed="#P" n="7"/>quilibet effectus est sumitur limitus
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hcorria">Corollaria</head>
+          <p xml:id="ppra-prIV-eqsspp">
+            <pc type="pilcrow"/> Ex quo sequitur quod parvitas effectus in prima causa magis est 
+            <lb ed="#P" n="8"/><unclear>mi?da</unclear> quam effectus magnitudo patet nam magis proportianatur suae causae et minus sequitur ea <pc type="virgula">/</pc> ex quo latitudo 
+            <lb ed="#P" n="9"/>vel admiratio <unclear>nu?mi</unclear> debet per adventum <del rend="strikethrough">debet</del> magnitudinis effectus considerari 
+          </p>
+          <p xml:id="ppra-prIV-ssqeid">
+            <pc type="pilcrow"/> Ex quo sequitur quod pro<lb ed="#P" break="no" n="10"/>ductio 
+            effectus ab intra debet esse minus mirabilis quam productio creaturae patet <pc type="virgula">/</pc> hoc satis 
+          </p>
+          <p xml:id="ppra-prIV-eqtaai">
+            <pc type="virgula">/</pc> Ex quo sequitur 
+            <lb ed="#P" n="11"/>quod incarnatio verbi et situatio <unclear>scilicet</unclear> corporis christi sub specie panis non debet esse respectu divinae potentiae mirabilis 
+            <lb ed="#P" n="12"/>quoniam difficultas talis respectu huius minor est <unclear>quansita</unclear> potentia immens est et hoc quantum ad modum 
+            <lb ed="#P" n="13"/>effectus <pc type="punctus"/> nam quilibet effectus requirit causam absolute immensam <pc type="virgula">/</pc> Et hoc intuili contra <name>bacallarium 
+            <lb ed="#P" n="14"/>legentem penes augustinienses</name> <pc type="virgula">/</pc> videlicet quod deus respectu cuiuscumque effectus deus <subst><del rend="strikethrough">agit</del> <add>concurrit</add></subst> immense 
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hocioci">Obiectio socii</head>
+          <p xml:id="ppra-prIV-cqavac">
+            <lb ed="#P" n="15"/><pc type="pilcrow"/> Contra arguit idem bachalarius nam si sic esset omnia ad extra omnia ad extra unica productione producitur
+            <lb ed="#P" n="16"/>et per consequens sortes aeque cito sicut plato produceretur
+          </p> 
+          <p xml:id="ppra-prIV-ubsqpm">
+            <pc type="pilcrow"/> Sed breviter negatur consequens illatum quia potest 
+            <lb ed="#P" n="17"/>deus concurrere in diversos effectus immense <del rend="strikethrough">concurrere</del> <pc type="virgula">/</pc> modo agendo in isto modo non in illo 
+            <lb ed="#P" n="18"/>adaequate se habens <pc type="virgula">/</pc> et hoc est de conditione suae libertatis divinae quoniam intrinsece se habet quando producit 
+            <lb ed="#P" n="19"/><c>a</c> sicut quando producit <c>b</c> vel quando non producit <c>a</c> vel <c>b</c>
+          </p>
+          <p xml:id="ppra-prIV-saiide">
+            <pc type="pilcrow"/> Sed <name>ipse bacallarius</name> arguit 2o sic 
+            <lb ed="#P" n="20"/>tantum deus agit effectum quantum est <pc type="pilcrow"/> Respondeo sibi quod est ibi petitio principii <pc type="pilcrow"/> Sed 
+            <lb ed="#P" n="21"/>replicat quod divinum velle tunc superflueret respectu effectus <pc type="punctus"/> nego consequens et consequentiam et causa est quia non agit secundum 
+            <lb ed="#P" n="22"/>aliquem gradum remissum sed immensum vel immense <pc type="punctus"/> et hoc consurgit ex sua libertate scilicet modo 
+            <lb ed="#P" n="23"/>minimum modo magnum
+          </p>
+          <p xml:id="ppra-prIV-tiasna">
+            <pc type="pilcrow"/> 3o arguit si sic esset eodem modo immutabiliter et aeternaliter ageret ad extra quia 
+            <lb ed="#P" n="24"/>eadem ratione qua sic ageret eodem modo ad extra 
+          </p>
+          <p xml:id="ppra-prIV-aidein">
+            <pc type="pilcrow"/> Respondetur quod si agit immutabiliter agit nego tamen quod 
+            <lb ed="#P" n="25"/>necessario quia infinite liber est vel nec etiam aeternaliter agit quia talis modus divinae voluntati repugnat  
+            <lb ed="#P" n="26"/>sive liberati <pc type="virgula">/</pc> sed infinite agere non sibi repugnat <pc type="virgula">/</pc> nec alicui <unclear>conditioni divinae</unclear> ab <unclear>intrinsece</unclear>
+          </p>
+          <p xml:id="ppra-prIV-qedrel">
+            <pc type="pilcrow"/> quantum est 
+            <lb ed="#P" n="27"/>de <unclear>intrinsece</unclear> concedit quod deus aeternaliter producit res et negat conclusionem igitur creatura aeternaliter est creata et hoc 
+            <lb ed="#P" n="28"/>facit quidam angelicus <pc type="virgula">/</pc> nam si ipse intelligat hoc praeter velle divinum creaturam ad extra emenare 
+            <lb ed="#P" n="29"/>tunc sequeretur quod semper creaturae emanerent sed hoc negatur sibi sic sumendo si alio modo scilicet quod immutabiliter agat 
+            <lb ed="#P" n="30"/>coincidit nobiscum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIV-qaipac">
+            <pc type="pilcrow"/> 4o arguit nam sequeretur quod tam infinita actione produceretur <c>a</c> 
+            <lb ed="#P" n="31"/>effectus quanta esset in verbo in divinis sed hoc non ergo consequentia tenet <del rend="strikethrough">et antecedens patet</del> deus in illa actione 
+            <lb ed="#P" n="32"/>immense concurrit <pc type="virgula">/</pc> et antecedens <del rend="strikethrough">sed per</del> est <ref>articulus <unclear>bonoiae</unclear> condempnatus</ref>
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Respondeo quod aequae immense 
+            <lb ed="#P" n="33"/>ab intra et ad extra ymmo doctores concesserunt denominatione simplici deum esse productivum et tamen ab intra 
+            <lb ed="#P" n="34"/>non esse denominatio simplex <pc type="virgula">/</pc> causa 2i est quia non est <unclear>pra?m consequentiae</unclear> cuilibet trium personarum nec competit essentiae quia 
+            <lb ed="#P" n="35"/>nec aliqua perfectior caret denominatione simplici <pc type="virgula">/</pc> Et ad articulum bononiae dicitur quod multos articulos parisiensis 
+            <lb ed="#P" n="36"/>condempnamus quos tenent et econtra 
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hrsaarm">Responsio socii ad rationes meas</head>
+          <div>
+            <head xml:id="ppra-prIV-aprprm">Ad primam rationem meam</head>
+            <p xml:id="ppra-prIV-caraep">
+              <pc type="pilcrow"/> Ad rationes meus <name>ipse bacalarius</name> respondet 
+              <lb ed="#P" n="37"/>sic deus uniformiter se habet respectu cuiuslibet effectus igitur immense 
+            </p>
+            <p xml:id="ppra-prIV-rpnidl">
+              <pc type="punctus"/> negat antecedens et 2o consequentiam Et assignat 
+              <lb ed="#P" n="38"/>causam antecedentis primo nam dicit ipse concurrit adiuvando et aliquando non sed potius nocendo 
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-prIV-snppep">
+              et per consequens non 
+              <lb ed="#P" n="39"/>uniformiter dicitur ad hoc quod <add place="above-line">non</add> evadit rationem quia ponendae essent rationes causalitatum vel limitatio 
+              <lb ed="#P" n="40"/>sed hoc praecise tolleret dei immensitatem et absolute et sic esset quaedam compotio aequivalens quare ex partialibus 
+              <lb ed="#P" n="41"/>resultaret divina perfectio et per consequens standum est primo
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-prIV-sirdic">
+              <pc type="punctus"/> sed breviter negat consequentiam
+            </p>
+            <p xml:id="ppra-prIV-scqifb">
+              <pc type="pilcrow"/> Sed sibi arguo sic 
+              <lb ed="#P" n="42"/>deus aliquantae potest concurrere ad extra et in duplo et infinitam creaturam producere ergo infinite concurrit ad extra 
+              <lb ed="#P" n="43"/>patet concessa uniformitate concursus ad effectus <pc type="virgula">/</pc> antecedens patet quia quantamcumque personam potest deus pro<lb ed="#P" break="no" n="44"/>ducere 
+              ad extra igitur
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-asrsrm">Ad secundam rationem meam</head>
+            <p xml:id="ppra-prIV-sasnps">
+              <pc type="pilcrow"/> 2o arguebam sibi sic <pc type="virgula">/</pc> quilibet effectus producitur de non esse ad esse qui est 
+              <lb ed="#P" n="45"/>infinite difficultatis ergo secundum concursu infinitae potentiae antecedens concesserunt philosophi et dixerunt quod impossibile est 
+              <lb ed="#P" n="46"/>quam tantumque potentiam ex nihilo aliquid producere et illius oppinionis fuit <name>parmenides</name> et <name>anaxagoras</name> 
+              <lb ed="#P" n="47"/>et <name>aristoteles</name> dicens ex nihilo nihil fit in primo physicorum posuit enim ipse aristoteles formam de potentia materiae fore 
+              <lb ed="#P" n="48"/>eductam <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-irqned">
+              <pc type="pilcrow"/> hic respondet quod nullius difficultatis est divinae potentiae nec inconveniens hoc 
+              <lb ed="#P" n="49"/>facere 
+            </p> 
+            <p xml:id="ppra-prIV-ehcded">
+              <pc type="punctus"/> sed hoc dicere solummodo non sufficit cum reverentia sua quia excedit cuiuslibet potentiae facultatem 
+            </p>
+            <p xml:id="ppra-prIV-eqssad">
+              <lb ed="#P" n="50"/>unde vocat ea quae non sunt tamquam ea quae sunt ut ait <name>apostolus</name> hoc non recte exprimit vel exponit
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-atrtrm">Ad tertiam rationem meam</head>
+            <p xml:id="ppra-prIV-tassiv">
+              <lb ed="#P" n="51"/><pc type="pilcrow"/> 3o arguebam sic nam staret quod <c>a</c> creatura nobilius ageret respectu <c>c</c> effectus quam deus <pc type="virgula">/</pc> consequens 
+              <lb ed="#P" n="52"/>tamen est falsum igitur 
+            </p> 
+          </div>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hdtedte">De transubstantione</head>
+          <p xml:id="ppra-prIV-icqeae">
+            <pc type="pilcrow"/> Consequenter infero quod attenta immensitate potentiae divinae transubstantio panis in 
+            <lb ed="#P" n="53"/>corpus christi non est miraculis nec admiranda patet <pc type="virgula">/</pc> nam quicumque philosophus concluderet hoc nisi aliud videret
+            <lb ed="#P" n="54"/>unde <ref><name>ambrosius</name> in libro de sacramentis</ref> dicit quod ille qui potuit omnia ex nihilo facere 
+            <lb ed="#P" n="55"/>non quid potuit illa quae sunt in illa quae non sunt <add place="above-line"><unclear>vei?s</unclear></add> mutare <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIV-uneqpe">
+            <pc type="pilcrow"/> Unde advertendum est contra <name>iudaeorum</name> perfi<lb ed="#P" break="no" n="56"/>diam 
+            et <unclear>voo?na?tem</unclear> quod ex suis sic <unclear>patris</unclear> invenimus mutationes mirabiles et miraculosas et adhuc 
+            <lb ed="#P" n="57"/>mirabiliores quam de transmutatione panis in verum corpus christi primo de uxore loth versa in salis statuam
+            <pb ed="#P" n="21-r"/>
+            <lb ed="#P" n="1"/>et de virga moysi quae mutata est in serpentem 
+          </p>
+          <p xml:id="ppra-prIV-seaish">
+            <pc type="virgula">/</pc> Et ad hoc inducuntur aliqua exempla ut 
+            <lb ed="#P" n="2"/>recitat augustinus in libro de civitate dei primo de sociis dyomedis qui post destructionem 
+            <lb ed="#P" n="3"/>troye redeuntes in graeciam mutati sunt in aves Et hoc non est intelligendum secundum fictionem 
+            <lb ed="#P" n="4"/>poetam sed secundum rem unde subiungit ibidem quod si aliquis graecorum venerit ad ipsas avinculas 
+            <lb ed="#P" n="5"/>gratanter eum <unclear>permitticter</unclear> si alter non <pc type="punctus"/> <pc type="pilcrow"/> 2o Recitat dictum varronis de quadam maga quae 
+            <lb ed="#P" n="6"/>quosdam socios in bestias mutavit <pc type="pilcrow"/> Item de quibusdam fluvium transeuntibus in lupos mutant
+          </p>
+          <p xml:id="ppra-prIV-iaiicc">
+            <lb ed="#P" n="7"/><pc type="pilcrow"/> Item quidam expresse confessus est mutatam fuisse in asinum et portasse sarcinam vetularum 
+            <lb ed="#P" n="8"/>utrum autem hoc factum fuisset per daemonum potentias aut non nihil est theologo <pc type="punctus"/> sed 
+            <lb ed="#P" n="9"/>hoc quo ad probationem sacramenti inducere sufficit
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hpdtpdt">Propositiones de transubstantione</head>
+          <p>
+            <pc type="pilcrow"/> nihilominus pro maiori evidentia ponenda sunt 
+            <lb ed="#P" n="10"/>aliquae propositiones de sacramento altaris 
+          </p>
+          <p xml:id="ppra-prIV-ppnpsa">
+            quarum prima quod non sequitur panis convertitur in corpus christi 
+            <lb ed="#P" n="11"/>ergo desinit esse <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quoniam de potentia dei absoluta sequeretur quod esset in duobus locis quia <unclear>debi</unclear> sacramenti
+          </p>
+          <p xml:id="ppra-prIV-snscnv">
+            <lb ed="#P" n="12"/><pc type="pilcrow"/> 2o non sequitur panis hic convertitur in corpus christi igitur hic desinit esse panis patet ergo per 
+            <lb ed="#P" n="13"/>multiplicationem panis in se <pc type="punctus"/> quia potest in duobus locis existere
+          </p>
+          <p xml:id="ppra-prIV-tpbcei">
+            3o bene sequitur panis convertitur 
+            <lb ed="#P" n="14"/>in corpus christi igitur mutabilis de similis patet <pc type="virgula">/</pc> nam si non esset multipliciter panis desineret 
+            <lb ed="#P" n="15"/>esse et corpus christi inciperet esse 
+          </p>
+          <p xml:id="ppra-prIV-eqsnec">
+            <pc type="virgula">/</pc> Ex quo sequitur quod in nullam rem posset mutari quia converti in 
+            <lb ed="#P" n="16"/>aliud est mutabile esse
+          </p>
+          <p xml:id="ppra-prIV-qpqccs">
+            <pc type="pilcrow"/> 5o sequitur quaelibet res creata potest in aliam creatam <del rend="strikethrough">p</del> converti <pc type="punctus"/> patet quia divinae 
+            <lb ed="#P" n="17"/>potentiae non videtur esse dissonum unde <name>godfridus de fontibus</name> ponit istam et ymaginatur quod 
+            <lb ed="#P" n="18"/>naturaliter fieri potest per longum naturae processum sed deus de sua potentia potest aliam supplere <pc type="punctus"/> sed tamen 
+            <lb ed="#P" n="19"/>materia panis non remanet et ideo inpertinens est et non ad propositum de sacramento altaris 
+            <lb ed="#P" n="20"/><pc type="pilcrow"/> Item minus stricta est positio quoniam sequeretur quod deus unum angelum posset in alium convertere 
+          </p>
+          <p xml:id="ppra-prIV-spqaeh">
+            <lb ed="#P" n="21"/><pc type="pilcrow"/> Alia propositio quodlibet quod sic in aliud convertitur desinit esset nisi alium de habeat esse 
+            <lb ed="#P" n="22"/>vel reformari 
+          </p>
+          <p xml:id="ppra-prIV-spqpie">
+            <pc type="pilcrow"/> alia propositio de termino ad quem quod ad hoc quod panis convertatur in corpus christi 
+            <lb ed="#P" n="23"/>non sequitur cum incipiat quia sequeretur quod realiter praesisteret <pc type="virgula">/</pc> et si non stat quod vi conversionis 
+            <lb ed="#P" n="24"/>incipit esse ibi 
+            
+            <pc type="pilcrow"/> deinde arguitur si non existeret in caelo realiter inciperet esse novo 
+            <lb ed="#P" n="25"/>ex eo quod est terminus ad quem <unclear>positus</unclear> ex quo patet quod nulla res mundi potest in deum converti 
+            <lb ed="#P" n="26"/>quia deo repugnat <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-prIV-acpspn">
+            <pc type="pilcrow"/> multa alia correlaria possent inferri sed non est <unclear>vis</unclear>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hdqdhcm">Dubium: quid denotatur quando dicitur <mentioned>'hoc corpus meum'</mentioned></head>
+          <p xml:id="ppra-prIV-tmuecc">
+            <pc type="pilcrow"/> Ad aliud 
+            <lb ed="#P" n="27"/>tamen venio movendo unum dubium videlicet quid demonstratur per li hoc quando dicitur hoc est 
+            <lb ed="#P" n="28"/>corpus meum 
+          </p> 
+          <p xml:id="ppra-prIV-dsiivr">
+            <pc type="punctus"/> unde duae viae sunt dividi 
+          </p>
+          <p xml:id="ppra-prIV-peqpev">
+            prima est quod li hoc tenetur adverbialiter ut sit sensus 
+            <lb ed="#P" n="29"/>hic est corpus meum <pc type="punctus"/>
+          </p> 
+          <p xml:id="ppra-prIV-avetpv">
+            <pc type="pilcrow"/> Alia via est quod li hoc realiter demonstrat verum corpus christi Et quando 
+            <lb ed="#P" n="30"/>dicitur quod sequeretur tunc quod esset verum corpus ante verborum prolationem et sic non in digebat verbis ad consecutionem 
+            <lb ed="#P" n="31"/>negatur hoc ymmo dico quod propositio vocalis verificatur ipsa prolata in instanti suae prolationis de illo 
+            <lb ed="#P" n="32"/>pro quo terminis sumitur ad significandum et datur instans primum non esse panis et instans terminans prolationem verborum 
+          </p>
+          <p xml:id="ppra-prIV-scaecp">
+            <lb ed="#P" n="33"/><pc type="pilcrow"/> Sed contra arguitur sic nam si sic staret esse corpus christi et tamen nullus ipsum consecrasset consequens videtur 
+            <lb ed="#P" n="34"/>falsum et consequentia patet quia ponamus quod minister scilicet sacerdos subito moriatur in instans prolationis verborum vel primi vocabuli 
+            <lb ed="#P" n="35"/>tunc corpus christi ibi non est nec ante etiam erat igitur 
+          </p>
+          <p xml:id="ppra-prIV-reprac">
+            <pc type="pilcrow"/> Ad hoc respondetur per unam distinctionem nam 
+            <lb ed="#P" n="36"/><unclear>prolato</unclear> potest accipi pro una dispositione praevia transmutationis et sic consecrat antequam dicat verba 
+            <lb ed="#P" n="37"/>vel saltim disponit ad hoc <pc type="virgula">/</pc> sicut patet in naturalibus de quantitate agente in aliam <pc type="punctus"/> nam ibi 
+            <lb ed="#P" n="38"/>fit alteratio per agentem quantitatem <unclear>alte?do</unclear> ad quam alterationem effectus sequitur intentus sed si sequatur 
+            <lb ed="#P" n="39"/>actualis aliud esset quia transmutatum non requirit actionem pro illo quod non habet esse
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hcdaacs">Conclusiones de acceptatio contra socium</head>
+          <p xml:id="ppra-prIV-ciqqce">
+            <pc type="pilcrow"/> Consequenter 
+            <lb ed="#P" n="40"/>infero quod <add place="above-line">deus</add> omnes <del rend="strikethrough">effectus</del> uniformiter se habendo nec noviter producendo ad extra potest creatura gratifficare 
+            <lb ed="#P" n="41"/>absque effectus productione <pc type="virgula">/</pc> Et hoc est contra <name>bacallarium de deom sancti bernardi</name> nam dici <unclear>alias</unclear>
+            <lb ed="#P" n="42"/>quod ratio boni est prius ente <pc type="virgula">/</pc> et illius oppinionis fuit <name>boetius</name> <name>plato</name> et <name>albertus magnus</name>
+          </p>
+          <p xml:id="ppra-prIV-depeci">
+            <lb ed="#P" n="43"/>Cuius ymaginatio mea circa hoc consurgit ex causa finali <pc type="virgula">/</pc> nam sicut visum fuit <pc type="virgula">/</pc> finis 
+            <lb ed="#P" n="44"/>prior est in intentione <pc type="virgula">/</pc> licet sit ultimus in prosecutione quia movet efficientem in effectum producendum 
+            <lb ed="#P" n="45"/>ex quo rationem prioritatis primo capit
+            <!-- possible break point -->
+            <pc type="pilcrow"/> De acceptatione autem divina de qua negat quod sufficiat 
+            <lb ed="#P" n="46"/>pro se
+          </p> 
+          <p xml:id="ppra-prIV-tqdafp">
+            <pc type="virgula">/</pc> probo hoc multipliciter
+          </p>
+          <p xml:id="ppra-prIV-pqdedm">
+            primo de parvulis non loquentibus baptizatis qui quidam sunt doe grati et tamen 
+            <lb ed="#P" n="47"/>non utuntur ratione igitur ex divina et sola acceptatione provenit hoc
+          </p>
+          <p xml:id="ppra-prIV-saepcg">
+            <pc type="pilcrow"/> 2o capiamus totam 
+            <lb ed="#P" n="48"/>latitudinem communitatis deus potest illam absolute supplere <pc type="virgula">/</pc> sicut respectu actus meritorii potest dignificare 
+          </p>
+          <p xml:id="ppra-prIV-ttbqda">
+            <lb ed="#P" n="49"/><pc type="pilcrow"/> Item <del rend="strikethrough">deus</del> ipse confitetur quod totum consistit in divina acceptatione Et confirmatur quia actus meritorius 
+            <lb ed="#P" n="50"/>non sufficit ex concursu doni creati igitur ab alio recipit scilicet a dono increato 
+          </p>
+          <p xml:id="ppra-prIV-qoanhe">
+            <lb ed="#P" n="51"/> <pc type="pilcrow"/> Item omnes actus creati et habitus possent stare cum in grato et tamen deus non eum acceptabit 
+            <lb ed="#P" n="52"/>igitur illa non sunt formalis dignitas 
+          </p>
+          <p xml:id="ppra-prIV-qqfied">
+            <pc type="pilcrow"/> Item formalis beatitudo quantum ad secutatem staret cum aliqua indignitate 
+            <lb ed="#P" n="53"/>et ergo si stet creaturam sic non acceptare in dei acceptatione videtur stare <pc type="punctus"/> et stat in hoc quod vult 
+            <lb ed="#P" n="54"/>ipsam dignam et eo ipso digna est et hoc sine done creato <pc type="punctus"/> 
+          </p>
+          <!--
+            not sure this is present 
+            <p xml:id="ppra-prIV-sqpidc">
+            Secundo quia 
+            praemium est omino impertinens ad intrinsecam dignitatem creaturae.
+          </p>--> 
+          <p xml:id="ppra-prIV-ciabpp">
+            <pc type="pilcrow"/> Sed tamen contra hoc arguit <name>bacallarius</name> 
+            <lb ed="#P" n="55"/>sic <pc type="virgula">/</pc> nam dicit ipse quod eo concesseram quod est in beatitudine principalior pars 
+          </p> 
+          <p xml:id="ppra-prIV-ciqinc">
+            tunc contra dicit quia sequeretur quod quis acceptatur 
+            <lb ed="#P" n="56"/>in via <pc type="punctus"/> sed breviter dico quidquid dicit quod ibi non est similitudo quoniam alterius gradus est in uno et alterius 
+            <lb ed="#P" n="57"/>in alio
+          </p>
+          <p xml:id="ppra-prIV-sdqneb">
+            <pc type="pilcrow"/> 2o dico nam beatificum connotat alios actus quam alia ex quo sequeretur quod intellectus non est beatificabilis 
+          </p>
+          <p xml:id="ppra-prIV-tdqnae">
+            <lb ed="#P" n="58"/><pc type="pilcrow"/> Item tota visio christi posset remanere et tamen non remanaret beatifica visio ea quod posset deus non acceptare 
+            <pb ed="#P" n="21-v"/>
+            <lb ed="#P" n="1"/>creaturam
+          </p>
+          <p xml:id="ppra-prIV-qerbiv">
+            <pc type="pilcrow"/> Item eadem ratione de caritate creata posset fieri sed non sequitur quod sit pro tanto beatitudo 
+          </p>
+          <p xml:id="ppra-prIV-teunri">
+            Sed difficultas 
+            <lb ed="#P" n="2"/>stat alia quam ipse non tangit utrum staret aliquem statum qui realiter esset dignior statu beatitudinis 
+            <lb ed="#P" n="3"/>de quo pro praesenti causa brevitatis non discutio quia difficilis est de hoc speculatio
+          </p>
+          <p xml:id="ppra-prIV-srseeb">
+            <pc type="pilcrow"/> 2a ratio est ista de 
+            <lb ed="#P" n="4"/>acceptatione non distinguitur ipsa acceptatio a praedestinatione igitur quilibet acceptatus esset in gratia <pc type="pilcrow"/> Breviter negatur hoc <del rend="strikethrough">et probatur</del> quia stat ipse est praedestinatus ergo deo carus <pc type="punctus"/> sed non stat iste est acceptatus ergo 
+            <lb ed="#P" n="5"/>deus carus vel in gratia <pc type="punctus"/> <pc type="pilcrow"/> Sed <unclear>quaerit</unclear> a quo modo denominatur creatura grata <pc type="punctus"/> dico quod non oportet quod 
+            <lb ed="#P" n="6"/>influat <pc type="punctus"/> sed sufficit quod deus sic velit eam esse bonam nec requiritur alia habitudo
+          </p>
+          <p xml:id="ppra-prIV-csdnam">
+            <pc type="pilcrow"/> unde si deus 
+            <lb ed="#P" n="7"/>per suam acceptationem <add place="above-line">solam</add> dignificare <del rend="strikethrough">se sola</del> posset non dignificare deaceptatione sua se sola <pc type="punctus"/> dico 
+            <lb ed="#P" n="8"/>quod non est simile <pc type="virgula">/</pc> quoniam <seg type="correction">acceptatio<del rend="strikethrough">nem</del></seg> praevenit voluntatem sed deacceptatio non sed dicit vel connotat rationem 
+            <lb ed="#P" n="9"/>posterioritatis
+          </p>
+          <!-- not present or possibily combined in the above
+            <p xml:id="ppra-prIV-sdaqnc">
+            Secundo divina acceptatio 
+            respectu operis meritorii concurrit prius taliter et deacceptatio posterius 
+            concurrit et habet rationem posteritis quia prius declinat a deo creatura 
+            quam deus eam deacceptet et sic consequentur apparet quod non concludit.
+          </p>-->
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hcdacas">Conclusiones de anima christi contra alius socius</head>
+          <p xml:id="ppra-prIV-aspaep">
+            <pc type="pilcrow"/> Est alia ratio <name>bacalarii de dono minorum</name> unde dicit quod anima christi est perfectior 
+            <lb ed="#P" n="10"/>et essentialiter angelo
+          </p>
+          <p xml:id="ppra-prIV-ppceca">
+            Sed hoc est contra sacram scripturam unde in psalmo <pc type="virgula">/</pc> <quote>minuisti eum pauleus 
+              <lb ed="#P" n="11"/>ab angelis</quote> etc quod intelligitur de essentiali perfectione <pc type="punctus"/> nam dicitur ex alio quod angelus est persona 
+            <lb ed="#P" n="12"/>et anima christi non potest esse persona quare sequitur ergo quod angelus perfectior est anima christi et pro praesenti nihil 
+            <lb ed="#P" n="13"/>plus potest dici et ideo ad hoc vobis sufficiat deum mei 
+          </p>
+          <!-- new paragraph not in other edition -->
+          <p xml:id="ppra-prIV-xx77aa">
+            et sic finis 4ti principii sumitur 
+            <lb ed="#P" n="14"/>4tum librum sententiarum factum et compilatum a <name>magistro petro plaoust</name> bacallario legentem parisius 
+            <lb ed="#P" n="15"/>in serbona valentissimo philosopho ac theologo die iovis XIIma mensis iunii anno domini millegesimo CCCmum 
+            <lb ed="#P" n="16"/>nonagesimo 4to anno quo tractatum fuit de pace quam nobis et spirituale finaliter concedat qui sine fine 
+            <lb ed="#P" n="17"/>vivit et regnat dens pro cuncta saeculorum saecula amen
+          </p>
+          <!--<p xml:id="ppra-prIV-saadch">
+            Secundo 
+            <ref xml:id="ppra-prIV-Rqwi33i" corresp="#prIV-Qaskv3d">
+              <name ref="#Augustine">Augustinus</name> 
+              ait in libro 
+              <title ref="#Confessions">Confessionum</title>
+            </ref> 
+            <cit>
+              <quote xml:id="ppra-prIV-Qaskv3d" source="http://scta.info/resource/aconf-l12-d1e134">
+                domine duo fecisti unum prope te 
+                et aliud prope nihil
+              </quote>
+            </cit>, 
+            nam anima separata ratione habitudinis tendentiae 
+            ad materiam non <unclear>potuerit[?]</unclear> esse persona 
+            et tamen quilibet angelus est persona. 
+            Item ipsa 
+            anima christi habet inclinationem ad corpus et est constitutiva idoe videtur esse ultima 
+            intelligentiarum et ideo dictum psalmistae et <unclear>au?m[?]</unclear> possunt <unclear>intendi[?]</unclear> de christi 
+            humanitate.
+          </p>
+          <p xml:id="ppra-prIV-eqaose">
+            Ex quibus apparet quod positio istius obviat scripturae etc.
+          </p>-->
+        </div>
+          <!-- lecture break -->
+        <div>
+          <head xml:id="ppra-prIV-Hdmscis">De mirabili situatione corporis christi in sacramenti</head>
+          <p xml:id="ppra-prIV-pmqeme">
+            Restat aliqua dicere de sacramento altaris quia non potuit materia satis aperiri in praecedentibus ideo 
+            <lb ed="#P" n="18"/>promissum fuit hic tractari quare post principium 4ti sententiarum ponitur quia in ipso principio de transubstantione 
+            <lb ed="#P" n="19"/>panis in verum corpus christi mentio efficitur <pc type="pilcrow"/> primo dicitur quod miraculose coexistit ibidem 
+          </p>
+          <p xml:id="ppra-prIV-eqsdqa">
+            <lb ed="#P" n="20"/><pc type="pilcrow"/> Ex quo sequitur non esse necessariam hoc reducere ad aliquem naturalem modum <pc type="virgula">/</pc> quia supernaturalis est talis modus 
+            <lb ed="#P" n="21"/>transubstantionis a nobis non captibilis tum quia fides non obligat nos nisi quod sit in hostia 
+            <lb ed="#P" n="22"/>et in qualibet eius parte <pc type="punctus"/> cum quia non est <unclear>modus<!-- possible correction above line--></unclear> docibilis <pc type="virgula">/</pc> Ex quo diceretur quod doctores plus 
+            <lb ed="#P" n="23"/>de materia loquentes quam oporteat vel longum processum super materia facientes plus materiam obscurat quam aperiat 
+            <lb ed="#P" n="24"/>et sic metas artis obligatoriae fidei transcendunt dando plures rationes quam materiae requiratur <pc type="pilcrow"/> unde 
+            <lb ed="#P" n="25"/>negaverunt aliqui doctores theologi sicut <sic>sicut</sic> sanctus thomas de aquino videlicet quod unum corpus 
+            <lb ed="#P" n="26"/>possit esse dimentionatum diversis locis et hoc quia consequens plus <unclear>po?ret</unclear> quam antecedens 
+          </p>
+          <p xml:id="ppra-prIV-sqtlch">
+            <pc type="pilcrow"/> Nihil teste 
+            <lb ed="#P" n="27"/>scriptura dicente <quote source="http://scta.info/resource/sir24_31">Qui elucidant me vitam aeternam habebunt</quote> potest dici quod doctores multa dixerunt ad <unclear>evit?dum</unclear>
+            <lb ed="#P" n="28"/>malignorum haeresum et scismarum errorem quapropter materiam  elucidabant clarius quam poterant sic 
+            <lb ed="#P" n="29"/>ut viderentur replicationes utriusque partis <pc type="punctus"/> et hoc non dissonat fidei ymmo corroborat 
+            <lb ed="#P" n="30"/>ipsam 
+          </p> 
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hvaeihm">Viae ad exercitationem intellectus in hac materia</head>
+          <p xml:id="ppra-prIV-uechpm">
+            ideo etiam oportuit particularizare materiam <pc type="punctus"/>
+          </p>
+          <div>
+            <head xml:id="ppra-prIV-Hpvapva">Prima via</head>
+            <p xml:id="ppra-prIV-pvedsi">
+              <pc type="pilcrow"/> Unde <name ref="#GilesOfRome">aegidius de roma</name> sequens ymaginationem 
+              <lb ed="#P" n="31"/><name ref="#Aquinas">sancti thomae</name> ad dandum modum corporis christi tria ponit <pc type="virgula">/</pc> primum videlicet quod vi transmutaitonis 
+              <lb ed="#P" n="32"/>panis in corpus christi sola substantia corporis christi inciperet ibi esse <pc type="punctus"/> unde est praecise deus ad quem <unclear>transivit</unclear> 
+              <lb ed="#P" n="33"/>unde quaelibet substantia illa quantum est de se divisibilis est ut dicit <pc type="virgula">/</pc> 2o dicit quod omnia alia accidentia sive materialia 
+              <lb ed="#P" n="34"/>sive spirituali et anima sunt ibi contenter praecise vi transmutationis Et ex consequenti quod quantitas non est 
+              <lb ed="#P" n="35"/>ibi nec <sic>consistuit</sic> substantiam <pc type="punctus"/> ideo non habet ibi suam proprietatem intrinsecam respectu corporis christi 
+              <lb ed="#P" n="36"/>Et etiam ex consequenti ymaginatur quod substantia corporis christi habet modum indivisibilem rei qua ymaginatione data 
+              <lb ed="#P" n="37"/>valde facile salvaretur quod corpus christi sit sub qualibet particula ipsius hostiae
+            </p>
+            <p xml:id="ppra-prIV-stqnei">
+              <pc type="pilcrow"/> Sed utrum ita sit 
+              <lb ed="#P" n="38"/>dicit idem <name ref="#GilesOfRome">aegidius</name> quod quaelibet mundi forma est in se divisilbis sed vi inhaesionis substantia denominatur 
+              <lb ed="#P" n="39"/>quanta <pc type="virgula">/</pc> substantia tamen sublata non denominatur quanta 
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hsvasva">Secunda via</head>
+            <p xml:id="ppra-prIV-smssve">
+              <pc type="pilcrow"/> Alius modus dividi sive via 
+              <lb ed="#P" n="40"/>manuductiva est <name ref="#Ockham">okan</name> <name ref="#Wodeham">adae</name> unde praesupponit duo quibus percipitur modus quomodo corpus christi est 
+              <lb ed="#P" n="41"/>in transubstantione panis 
+            </p>
+            <p xml:id="ppra-prIV-peqdlc">
+              Unde primum est quod deus est totus in diversis locis et totus in toto <pc type="punctus"/> patet 
+              <lb ed="#P" n="42"/>hoc manifeste de nostra anima <pc type="punctus"/> nam ipsa est tota in toto et tota in qualibet parte corporis nostri et ita 
+              <lb ed="#P" n="43"/>de angelo et intelligentia et hoc non repugnat deo theologorum nec philosophorum <pc type="punctus"/> ymmo <name>aristoteles</name> 
+              <lb ed="#P" n="44"/>hoc ponit in libro de anima igitur a fortiori erit de corpore christi
+            </p>
+            <p xml:id="ppra-prIV-ssqesp">
+              <pc type="pilcrow"/> 2m suppositum est quod deus potest 
+              <lb ed="#P" n="45"/>diversa corpora simul intrare in eodem situ 
+            </p>
+            <p xml:id="ppra-prIV-epicvp">
+              probatur ex scriptura sacra qui utero virginali clauso 
+              <lb ed="#P" n="46"/>christus ortus est et sic in eodem situ praecise et adaequate erat duo corollaria
+            </p> 
+            <p xml:id="ppra-prIV-idivaa">
+              <pc type="pilcrow"/> Idem potest argui etiam 
+              <lb ed="#P" n="47"/>de ingressu ad discipulos suos ianuis clausis <pc type="punctus"/> igitur de divina potentia nulla est repugnantia 
+              <lb ed="#P" n="48"/>in hoc <pc type="punctus"/>
+            </p>
+            <!-- Doesn't seem present
+              <p xml:id="ppra-prIV-tedssc">
+              Tertio exeundo de sepulchro exivit absque apertura 
+              penetrando corpus circumstans, et sic apparet quod suppositiones 
+              sint concedendae.
+            </p>--> 
+            <p xml:id="ppra-prIV-eidepe">
+              <pc type="pilcrow"/>Idem potest dici de multis aliis sicut patet in multis unde considerando duo apud 
+              <lb ed="#P" n="49"/>theologum facile de corpore christi considerare quo ad panis transubstantionem nam per primam 
+              <lb ed="#P" n="50"/>suppositionem unum potest esse in diversis sitibus igitur <del rend="strikethrough">in</del> qualibet partem hostiae potest esse in diversis sitibus 
+              <lb ed="#P" n="51"/>et econtra quia totum est in toto et totum in qualibet parte <pc type="punctus"/> igitur non sibi repugnat in diversis sitibus totum 
+              <lb ed="#P" n="52"/>situari nec cuilibet eius parti
+            </p>
+            <p xml:id="ppra-prIV-ecpuai">
+              <pc type="pilcrow"/> Addo tamen duo circa hoc <pc type="punctus"/> primum est quod non obstante hoc 
+              <pb ed="#P" n="22-r"/>
+              <lb ed="#P" n="1"/>nulla fiat partium disparatio <pc type="virgula">/</pc> Ex quo sequitur quod corpus christi erit in quolibet loco et salvabitur 
+              <lb ed="#P" n="2"/>optimus ordo partium <pc type="virgula">/</pc> quia nullanovitatis unio esset <pc type="virgula">/</pc> et ista est via satis manducativa 
+              <lb ed="#P" n="3"/>debite consideranti
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Htvatva">Tertia via</head>
+            <p xml:id="ppra-prIV-tvevno">
+              <pc type="pilcrow"/> 3a via ponendo quod ibi non sit aliqua magnitudo vel quantitas 
+              <lb ed="#P" n="4"/>continua licet enim sit in se realiter continua dei cum ratione sit ponere partem post partem quantum 
+              <lb ed="#P" n="5"/>ad situm <pc type="punctus"/> nihilominus in corpore christi transmutatur sine quantitate continua quam habet in caelo <pc type="punctus"/> Et hoc sit propter 
+              <lb ed="#P" n="6"/>formalem repugnantiam ad talem situm <pc type="punctus"/> <pc type="pilcrow"/> Et si dicatur contra tunc sequeretur si ita esset 
+              <lb ed="#P" n="7"/>quod non esset vere organizatum etc
+            </p>
+            <p xml:id="ppra-prIV-airepq">
+              <pc type="pilcrow"/> Respondetur quod quantitas non est de integritate organizationis 
+              <lb ed="#P" n="8"/>quia magis consistit in alio quam in extensiva quantitate ymmo remanent perfectiones omnes nobiliores 
+              <lb ed="#P" n="9"/>ipsa <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-spaips">
+              <pc type="pilcrow"/> Aliter tamen potest responderi quantum ad figuram quod est figura aequivalenter sicut patet de specie sensibili 
+              <lb ed="#P" n="10"/>quae ponitur esse subiective in anima indivisibili sine quantitate et tamen habet modum proportionalem sui esse saltim 
+              <lb ed="#P" n="11"/>in repraesentando Ita in corpore christi diceretur diceretur aequivalenter licet reduceretur ad esse punctuale 
+              <lb ed="#P" n="12"/>respectu partium obiecti <pc type="punctus"/> Et sic esset una similitudo repraesentandi corpus christi sicut ydolum 
+              <lb ed="#P" n="13"/>rei intense habet modum sui obiecti <pc type="punctus"/> <pc type="virgula">/</pc> vel sicut esset de ymagine in speculo nam 
+              <lb ed="#P" n="14"/>res obiecta speculo causabit ymaginem quae quidem maiore erit speculo et videbitur 
+              <lb ed="#P" n="15"/>ipsa res ob proportionalis ad obiecti quantitatem repraesenti per ipsum sic in proposito fortiori ratione <pc type="virgula">/</pc> Et 
+              <lb ed="#P" n="16"/>ista est bona manuductio concipiendi corpus christi in hostia <pc type="punctus"/> sed tamen corpus est indivisible quare 
+              <lb ed="#P" n="17"/>non est praecise significando licet sit quaedam <sic>maniductio</sic>
+            </p>
+            <!-- reason for paragraph break unclear; reconsider break -->
+            <!--
+              Not exactly present, more like included in the above
+              <p xml:id="ppra-prIV-chtism">
+              Cum hoc tamen stat quod imago 
+              apparens in speculo apparebit maior quam sit speculum, 
+              quia imago rei maxime potest videri in speculo 
+              minimo.
+            </p>-->
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hqvaqva">Quarta via</head>
+            <p xml:id="ppra-prIV-qveiqp">
+              <pc type="pilcrow"/> 4a via generaliter corpus christi non determinat 
+              <lb ed="#P" n="18"/>sibi tantam vel tantam quantitatem sine sui deperditione dato corpore pedali illud potest diminui ad sub duplum <add place="margin-right">et ad triplum</add> 
+              <lb ed="#P" n="19"/>unde ponamus per casum quod sub duplicetur spatium in quo corpus christi sit <add>et sic infinitum</add> isto dato erit unica 
+              <lb ed="#P" n="20"/>quantitas <pc type="punctus"/> et tamen replebit locum ut prius et hoc est quia totum est in toto et totum in qualibet sui parte
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hqnvqnv">Quinta via</head>
+            <p xml:id="ppra-prIV-avssst">
+              <lb ed="#P" n="21"/><pc type="pilcrow"/> Alia via scilicet 5a quod quantitas est totalis causa coexistentiae rerum correspondit partem ad partem 
+              <lb ed="#P" n="22"/>et sic totum ad totum propter cuius repugnantia sola quantitas est causa extrinsece coexistentiae ergo sublato 
+              <lb ed="#P" n="23"/>eius effectu incipiet esse praesens in quo erat praesens scilicet in situ Et sic vel tollitur realis 
+              <lb ed="#P" n="24"/>quantas vel ipsa sit sumus effectus vel correspondentia erit alia 
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-sxasxa">Sexta via</head>
+            <p xml:id="ppra-prIV-svsddm">
+              <pc type="pilcrow"/> 6a via quae supponit quod quantitas continua 
+              <lb ed="#P" n="25"/>respectu substantiae quantitate habet duplicem habitudinem ad effectum <pc type="punctus"/> unam intrinsecam et inseparabile quae est ordinatio inter 
+              <lb ed="#P" n="26"/>se et positio extra se invicem et hoc non est nisi continuatio partium secundum debitum ordinem 
+              <lb ed="#P" n="27"/><pc type="pilcrow"/> 2a est respectu situs extrinsecus qua quantitas continua extendit ad situm vel locum extrinsecum 
+              <lb ed="#P" n="28"/>et non solum ad comparationem rerum inter se <pc type="punctus"/> sed ad situm extrinsecum et istae sunt adinvicem separabiles 
+              <lb ed="#P" n="29"/>habitudines <pc type="virgula">/</pc> quando prima est intrinseca 2a vero extrinseca prima est in quantitate sine 2a <pc type="virgula">/</pc> Sed stat quod corpus 
+              <lb ed="#P" n="30"/>christi habeat partem absque respectu extrinseci situs <pc type="pilcrow"/> Ex quibus omnibus praedictis 
+              <lb ed="#P" n="31"/>dependet totam huius materiae difficultas
+            </p>
+          </div>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-prones">Propositiones</head>
+          <p xml:id="ppra-prIV-pdinha">
+            <pc type="pilcrow"/> Sed nihilominus advertendum est 
+          </p>
+          <div>
+            <head xml:id="ppra-prIV-ppoppo">Prima propositio</head>
+            <p xml:id="ppra-prIV-pqaamp">
+              aliqua substantia est intrinsece 
+              indivisibilis et punctalis quae potest alicui magno situi extrinseco coexistere <pc type="virgula">/</pc> patet de anima nostra 
+              <lb ed="#P" n="32"/>nam cum sit indivisibilis occupat tamen totum corpus humanum et hoc purus philosophus naturalis 
+              <lb ed="#P" n="33"/>concedit et similiter de intelligentia in orbe suo quo habito et ymaginato habemus 
+              <lb ed="#P" n="34"/>de corpore christi <pc type="virgula">/</pc> et viceversa de re magna potest dici quod potest minimum locum occupare 
+              <lb ed="#P" n="35"/>non tamen commensurative sed coexistive quia de anima esset impossibile et istud exemplum satis 
+              <lb ed="#P" n="36"/>est materiae manuductiva ad materiae corporis christi declarationem 
+            </p>
+            <p xml:id="ppra-prIV-spdssh">
+              <pc type="pilcrow"/> Similiter sic ponitur de esse durativo 
+              <lb ed="#P" n="37"/>respectu intrinsece durationis nam sicut non repugnat animae hoc <pc type="virgula">/</pc> non repugnat 
+              <lb ed="#P" n="38"/>de productione indivisibili quod coexistat divisibili unde productio posset fieri in tempore sicut de angelo 
+              <lb ed="#P" n="39"/>et tamen uni toti horae coexisteret nec plus repugnat quo dato habetur quod aliqua productio 
+              <lb ed="#P" n="40"/>successiva correspondet indivisibili productivi secundum se et quodlibet sui <pc type="punctus"/> sed tamen non commensurative 
+              <lb ed="#P" n="41"/>quia non ad mensuram extensivam divisibilis <pc type="pilcrow"/> Isto fundamento habito dicitur quod corpus christi 
+              <lb ed="#P" n="42"/>potest habere talem habitudinem quod coexistat in isto sicut et in illo et tamen respectu cuiuslibet partis 
+              <lb ed="#P" n="43"/>hostiae coexistit secundum se totum sicut iam dictum est de anima indivisibili nec est maior difficultas 
+              <lb ed="#P" n="44"/>convertando casum <pc type="punctus"/> <pc type="pilcrow"/> Et sic per praedicta habebitur quod erit res quanta <pc type="punctus"/> et tamen non respectu alterius 
+              <lb ed="#P" n="45"/>extensa et res habens primum gradum ubicumque ponitur est in quolibet puncto illius situs <pc type="punctus"/> 
+              <lb ed="#P" n="46"/>Et sic removendo coexistentiam ab hoc facile <unclear>potest</unclear> ymaginari de corpore christi quia quantitas non habet 
+              <lb ed="#P" n="47"/>effectum ymmo a 2o suspenditur sicut patet de quantitate christi in cruce quae in ipso sacramento suspenditur 
+              <lb ed="#P" n="48"/>et hoc supernaturaliter et miraculose 
+            </p>
+            <p xml:id="ppra-prIV-eihiqp">
+              <pc type="virgula">/</pc> Et iuxta hoc non plus repugnat corpori infinito 
+              <lb ed="#P" n="49"/>in qualibet parte hostiae collocari <pc type="punctus"/> quam infinito indivisibili spatium divisibile occupare
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hsapsap">Secunda Propositio</head>
+            <p xml:id="ppra-prIV-splpaa">
+              <pc type="pilcrow"/> 2a propositio 
+              <lb ed="#P" n="50"/>licet totum corpus christi ad quamlibet suarum partium habeat habitudinem aliqualem excludentem 
+              <lb ed="#P" n="51"/>extrinsecam cum hoc stat quod habeat utramque 
+            </p>
+            <p xml:id="ppra-prIV-pinehc">
+              patet quia totum corpus christi est totum cum quolibet puncto 
+              <lb ed="#P" n="52"/>et quo ad hoc non habet habitudinem extentionis ad illam quia non posset coextensive 
+              <lb ed="#P" n="53"/><del rend="strikethrough">coexistere</del> extendi sed commensurative et circumdative a capite usque ad pedes et sic habet utramque 
+              <pb ed="#P" n="22-v"/>
+              <lb ed="#P" n="1"/>habitudinem et habet aliam quae excludit habitudinem coextensionis
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-tpotpo">Tertia propositio</head>
+            <p xml:id="ppra-prIV-tpserd">
+              <pc type="pilcrow"/>Sequitur ulterius quod nulla 
+              <lb ed="#P" n="2"/>est repugnantia quod corpus christi sit commensurative sub specie panis <pc type="virgula">/</pc> quia stat quod 
+              <lb ed="#P" n="3"/>quantitas loci habeat ad ipsum habitudinem utramque <pc type="punctus"/> et tamen locus habeat extensionis <!-- something possible added here --> <unclear>coexten</unclear> 
+              <lb ed="#P" n="4"/>tamen hoc est difficile ad ymaginandum
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hqpoqpo">Quarta propositio</head>
+            <p xml:id="ppra-prIV-qpsphm">
+              <pc type="pilcrow"/> Sequitur ulterius quod non est repugnantia christum in alio 
+              <lb ed="#P" n="5"/>loco commensurative <unclear>callocari</unclear> Et intellectum ille locus dimensive se habeat ad ipsum 
+              <lb ed="#P" n="6"/>et ad alium et sic in infinitum et tunc ultimus locus esset infinita continens dimensive 
+              <lb ed="#P" n="7"/>et non commensurative Et esset sic processus in infinitum 
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-qnoqno">Quinta propositio</head>
+            <p xml:id="ppra-prIV-eehdam">
+              <pc type="pilcrow"/> Ex quo sequeretur quod si in loco 
+              <lb ed="#P" n="8"/>tali corpus christi situaretur posset ire mille leucas <!-- possible deletion --> vel per mille milia annorum 
+              <lb ed="#P" n="9"/>quia stat magis intentionem mensurative sine hoc quod habeat commensurationem ad species 
+              <lb ed="#P" n="10"/>Et sic possunt fieri mutationes et ambulationes sic quod nonquam describeretur totum spatium 
+            </p>
+            <p xml:id="ppra-prIV-citcac">
+              <lb ed="#P" n="11"/><pc type="pilcrow"/> Sed contra hoc arguitur sic nam si sic esset hoc esset contra principia et tunc si sic dato 
+              <lb ed="#P" n="12"/>grano milii totus mundus posset in numero ymmo superficies grani milii circumdaret 
+              <lb ed="#P" n="13"/>totum mundum <pc type="virgula">/</pc> tunc sit ita in particulari quod centrum mundi sit in centro grani milii 
+              <lb ed="#P" n="14"/>remanente mundo in quantitate sua tunc a grano ad circumferentiam ducatur linea recta peto 
+              <lb ed="#P" n="15"/>utrum linea secabit superficiem ultimae sperae vel non 
+            </p>
+            <!-- extremely fuzzy parallel; needs review -->
+            <p xml:id="ppra-prIV-nnevea">
+              <pc type="virgula">/</pc> si dicatur quod sic tunc intra mundus 
+              <lb ed="#P" n="16"/>esset minor
+            </p>
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-prIV-ssscvp">
+              <pc type="virgula">/</pc> si non tunc erunt aequales <pc type="punctus"/> si in ea ultima spera erit minor grano milii 
+              <lb ed="#P" n="17"/><pc type="pilcrow"/> Conformiter diceretur de corpore christi sumendo unam lineam ad verticem corporis christi 
+              <lb ed="#P" n="18"/>ad pedes argueretur sicut dictum est <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-tsdnsi">
+              <pc type="pilcrow"/> Item sequeretur quod lineae <sic>paralellae</sic> distarent 
+              <lb ed="#P" n="19"/>ab invicem quod non est dicendum et quod concurrerent in eodem punctus modo hoc non <pc type="punctus"/> ergo etc
+            </p>
+            <p xml:id="ppra-prIV-bfencf">
+              <lb ed="#P" n="20"/><pc type="pilcrow"/> Sed ad hoc facilis est solutio quia lineae <unclear>signabiles</unclear> in hostia non sunt commensurative 
+              <lb ed="#P" n="21"/>nec extensive nec una ponitur supra aliam <pc type="virgula">/</pc> nec una dyameter est dyameter alterius 
+              <lb ed="#P" n="22"/>et sic non habent communem dyametrum et per consequens non est simile <pc type="virgula">/</pc> nam data linea parva 
+              <lb ed="#P" n="23"/>dabitur minor vel etc
+            </p>
+            <p xml:id="ppra-prIV-eiahil">
+              <pc type="pilcrow"/> Unde breviter ymaginatio geometralis ad hoc non facit nec est 
+              <lb ed="#P" n="24"/>similitudo praecisa <pc type="punctus"/> quare etc et haec de lectione ista <pc type="punctus"/> <pc type="pilcrow"/> Conclusiones distinctionum in ordine 
+              <lb ed="#P" n="25"/>aliarum lectionum duxi fore ponendum 
+            </p>
+          </div>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hncvvut">Notabilia circa viam ultimo tractam</head>
+          <div>
+            <head xml:id="ppra-prIV-Hpnmpnm">Primum notandum</head>
+            <p xml:id="ppra-prIV-cvuces">
+              <lb ed="#P" n="26"/> Consequenter circa viam ultimo tactam est advertendum quod experientia utriusque habitudinis 
+              <lb ed="#P" n="27"/>simul scilicet quantitatis et deffectus experientiae unius habitudinis sine alia sunt causa difficultatis 
+              <lb ed="#P" n="28"/>in hac materia quia quaelibet quantitas continua talem habet habitudinem ad aliam vel nata est habere quod correspondet 
+              <lb ed="#P" n="29"/>sibi secundum varias suas partes <pc type="punctus"/> nam quaelibet de se est localis <pc type="punctus"/> Ita quod quaelibet pars loci correspondet 
+              <lb ed="#P" n="30"/>locato <pc type="punctus"/> et plures eidem et nonquam una pars resilit <pc type="punctus"/> Et hoc contingit quia bis ymaginativa 
+              <lb ed="#P" n="31"/>semper contulit se ad modum consuetum <pc type="punctus"/> et solitum <pc type="punctus"/>
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-smnsmn">Secundum notandum</head>
+            <p xml:id="ppra-prIV-snesmc">
+              <pc type="pilcrow"/> 2o advertendum est conformiter 
+              <lb ed="#P" n="32"/>quod contentum esse maius continuitate secundum communem modum concipiendi est impossibile <del rend="strikethrough">retorta prima habitudine</del> 
+              <lb ed="#P" n="33"/>patet nam quod octava spera remanente sua quantitate tam extrinseca quam intrinseca collocaretur in grano 
+              <lb ed="#P" n="34"/>milii <pc type="punctus"/> et hoc est impossibile retenta prima habitudine quia contra communem animi conceptionem
+            </p>
+            <p xml:id="ppra-prIV-aamuqh">
+              Et sic ap<lb ed="#P" break="no" n="35"/>plicando 
+              ad materiam communis modus concipiendi est secundum utramque quantitatis habitudinem Et secundum hoc constat 
+              <lb ed="#P" n="36"/>quod non cadit sub ymaginatione nec cadere potest reservata utramque habitudinem
+            </p> 
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Htnmtnm">Tertium notandum</head>
+            <p xml:id="ppra-prIV-eiunat">
+              <pc type="pilcrow"/> Quapropter advertendum 
+              <lb ed="#P" n="37"/>ulterius quod vis ymaginativa licet cum difficultate debet abstrahere a seipsa istas duas habitudines 
+              <lb ed="#P" n="38"/>ut de ratione <unclear>int?</unclear> quantitatis continue sit suum totum extendere <pc type="virgula">/</pc> et <unclear>partes</unclear> etiam suum situm continuare
+              
+              <lb ed="#P" n="39"/><pc type="pilcrow"/> Deinde stante habitudine tollatur habitudo coextentionis et commensurationis ipsius quanti ad aliud 
+              <lb ed="#P" n="40"/>extrinsecum licet sit difficile <pc type="virgula">/</pc> oportet tamen ad praesentem materiam concipiendam <pc type="virgula">/</pc> ut ita fiat 
+              <lb ed="#P" n="41"/>nam 2a habitudine circumscripta et concepta prima aeque facile est concipere quod aliquod quantum continuatur 
+              <lb ed="#P" n="42"/>sub puncto indivisibili secundum quod a sibi aequali contineatur Eo quod relatum ab contentum non 
+              <lb ed="#P" n="43"/>refertur ut commensurative sit sed sicut quantum ad indivisibile ut corpus ad animam <pc type="punctus"/> 
+              <lb ed="#P" n="44"/>et tamen continetur ab ea tamquam a coextenso vel commensurative quia anima non est commensurabilis 
+              <lb ed="#P" n="45"/>sed ideo per vim ymaginativam sic abstrahendo potest sumi satis ymaginatio corporis 
+              <lb ed="#P" n="46"/>christi ymo et quodlibet corpus magnum et infinitum sub grano milii potest contineri supernaturaliter 
+              <lb ed="#P" n="47"/>tamen <pc type="punctus"/>
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hqnmqnm">Quartum notandum</head>
+            <p xml:id="ppra-prIV-qaqsqc">
+              <pc type="pilcrow"/> <sic>3o</sic> advertendum est quod stat idem quantum et eandem quantitatem habere ambas habitudines 
+              <lb ed="#P" n="48"/>et eadem habere unicam respectu alterius habitudines ad idem relatum <pc type="punctus"/> pate thoc de partibus corporis 
+              <lb ed="#P" n="49"/>christi respectu invicem quae realiter habent utramque habitudinem inter se nam cerebrum a sua communicante 
+              <lb ed="#P" n="50"/>realiter dimentionaliter et commensurative continuatur et habet quantitatem commensurativam et sicut habet 
+              <lb ed="#P" n="51"/>utramque habitudinem quaelibet etiam pars refertur ad aliam secundum habitudinem primam praecise alia relatione quam 
+              <lb ed="#P" n="52"/>sub prima <pc type="punctus"/> patet hoc nam quaelibet pars est cum qualibet <pc type="punctus"/> et quantum ad hoc referuntur partes inter 
+              <lb ed="#P" n="53"/>se patet etiam quia est corpus christi est totum in toto etc <pc type="pilcrow"/> Clarius tamen potest exemplificari nam ponamus 
+              <lb ed="#P" n="54"/>quod in aliquo loco corpus christi <pc type="punctus"/> et sit locus <unclear>cicrcumdans</unclear> ita quod ille locus cum speciebus contineatur 
+              <pb ed="#P" n="23-r"/>
+              <lb ed="#P" n="1"/>tunc habet utramque habitudinem ad suum situm quia suae partes correspondet speciebus et tamen idem locus relatus 
+              <lb ed="#P" n="2"/>ad species non habet latitudinem relati ad species 
+            </p>
+            <p xml:id="ppra-prIV-eqahra">
+              <pc type="punctus"/> et sic utraque quantitas servabit habitudinem
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hqmnqmn">Quintum notandum</head>
+            <p xml:id="ppra-prIV-qnehqr">
+              <pc type="pilcrow"/> <sic>4o</sic> 
+              <lb ed="#P" n="3"/>advertendum est quod licet <del rend="strikethrough">species</del> quaelibet pars corporis christi secundum unum modum referendi ad aliam quamlibet habitudine 
+              <lb ed="#P" n="4"/>habeat modum non coexistensivum nulla tamen pars in eodem puncto replicatur <pc type="punctus"/> Unde licet in quolibet puncto 
+              <lb ed="#P" n="5"/>sit pars relata ad suum totum <pc type="punctus"/> et sit ibidem ut non coextensa non propter hoc ponendum est 
+              <lb ed="#P" n="6"/>quod in eodem puncto replicetur <pc type="punctus"/> patet quia unica positione salvatur absque sui replicatione in eodem 
+              <lb ed="#P" n="7"/>puncto adaequate <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-eqsami">
+              <pc type="pilcrow"/> Ex quo sequitur non esse necessariam eundem calorem in sub duplo situ 
+              <lb ed="#P" n="8"/>esse in duplo intentiorem unde si esset aliqua quantitas sic posita in situ non oportet quod fieret 
+              <lb ed="#P" n="9"/>intensior nec sic in infinitum quia huiusmodi replicatio non est unio quae dici debeat intensiva 
+              
+              <lb ed="#P" n="10"/><pc type="pilcrow"/> Ex quo salvatur quod quantitas pedalis potest redire ad punctale esse <pc type="punctus"/> absque sui intentione 
+              <lb ed="#P" n="11"/>ex modo habitudinis partium inter se <pc type="punctus"/> Et ad idem esse poterit reduci quod erit infinite habitudinis 
+              <lb ed="#P" n="12"/>rationum partium alicui <unclear>coniung?arum</unclear> 
+            </p>
+            <p xml:id="ppra-prIV-ssnihm">
+              <pc type="pilcrow"/> Ex quo sequitur non esse necessariam subduplationem quantitatis 
+              <lb ed="#P" n="13"/>alicuius formae <pc type="punctus"/> esse subduplationem intentionis eius <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-tsaesa">
+              <pc type="pilcrow"/> Sequitur ulterius animam non replicari 
+              <lb ed="#P" n="14"/>ex eo quod maius corpus informet vel minus <pc type="punctus"/> sicut aliqui ymaginantur ut quod anima 
+              <lb ed="#P" n="15"/>vel angelus determinent situm unde si cum maiori vel minori <pc type="punctus"/> oportet replicationem esse ut dicunt 
+              <lb ed="#P" n="16"/>et si possibile sit dicitur quod non tamen est necessariam <pc type="punctus"/> nam sicut deus infinitam rem in diversis ponere 
+              <lb ed="#P" n="17"/>potest ita in eodem situ adaequate <unclear>priora</unclear>
+            </p>
+            <p xml:id="ppra-prIV-citear">
+              <pc type="pilcrow"/> unde soli deo repugnat in eodem puncto replicari 
+              <lb ed="#P" n="18"/>patet quia activitati eius videtur repugnare
+            </p>
+            <p xml:id="ppra-prIV-sduelr">
+              <pc type="pilcrow"/> 2o deus unica sui existentia punctum 
+              <lb ed="#P" n="19"/>ymaginarium totaliter replet igitur non est replicabilis in eodem puncto <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-prIV-ttrssp">
+              <pc type="pilcrow"/> Item talis 
+              <lb ed="#P" n="20"/>replicatio arguit imperfectionem <pc type="punctus"/> sed nulla in deo reperitur imperfectio igitur etc <pc type="virgula">/</pc> nec ista 
+              <lb ed="#P" n="21"/>positio sufficiens esset ad effectus producendos Quare secundum praedicta quid dicendum de corpore christi <pc type="punctus"/>
+            </p>
+          </div>
+          <div>
+            <head xml:id="ppra-prIV-Hdiftes">Difficultates</head>
+            <p xml:id="ppra-prIV-cpmamd">
+              <lb ed="#P" n="22"/><pc type="pilcrow"/> Circa tamen praesentem materiam sunt aliquae propositiones materiam dilatantes 
+            </p>
+            <p xml:id="ppra-prIV-pedepc">
+              <pc type="punctus"/> prima est de actione 
+              <lb ed="#P" n="23"/>et passione possibili fieri sub sacramento altaris an posset agere et pati corporaliter 
+            </p> 
+            <p xml:id="ppra-prIV-echpoi">
+              <pc type="punctus"/> unde 
+              <lb ed="#P" n="24"/>circa hoc est <name>okan</name> pro parte affirmativa nam dicit quod praesentia agentis secundum se non minuit 
+              <lb ed="#P" n="25"/>eius vigorem ymmo potius auget ergo corpus christi quantum est de se posset agere ita 
+              <lb ed="#P" n="26"/>sicut si commensurative esset <pc type="punctus"/> et per consequens visum corporalem immutative <unclear>irra?te</unclear> <del rend="strikethrough expunctuation">diando</del> sed deus 
+              <lb ed="#P" n="27"/>ut non ostendatur fidei experientia et secretum non vult sic concurrere ad huiusmodi actiones 
+              <lb ed="#P" n="28"/>et passiones <pc type="punctus"/> quia fides nostra non haberet meritum ex eo quod humana ratio praeberet in hoc 
+              <lb ed="#P" n="29"/>experimentum <pc type="virgula">/</pc> ideo non sic efficitur haec <name>okan</name> <pc type="punctus"/> <pc type="virgula">//</pc> Ex quo infert maius esse miraculum 
+              <lb ed="#P" n="30"/>quam si videretur ad oculum patet per acutoritatem immediate praecedentem
+            </p>
+            <p xml:id="ppra-prIV-aepaps">
+              <pc type="pilcrow"/> Alia tamen est positio <name ref="#Scotus">doctoris subtilis</name> 
+              <lb ed="#P" n="31"/>huic contraria <pc type="punctus"/> quae talis est <pc type="punctus"/> quod supponentis quod agens corporale agit per contactum et per applicationem 
+              <lb ed="#P" n="32"/>coexistensivam vel ad passum vel ad medium per quod agit et quia corpus christi non sic se habet 
+              <lb ed="#P" n="33"/>ad species sibi immediatas <pc type="punctus"/> vel ad medium ideo non agit corporaliter <pc type="punctus"/> nec actionem potest 
+              <lb ed="#P" n="34"/>recipere ab agente naturali 
+              <!-- possible break point -->
+              <pc type="pilcrow"/> Quantum est de actionibus spiritualibus ponit quod omnem actionem quam 
+              <lb ed="#P" n="35"/>haberet angelus vel habere potest habet et anima <pc type="punctus"/> nam ipsa anima in corpore glorificato non 
+              <lb ed="#P" n="36"/>indiget organo corporeo ad suas operationes exercendas <pc type="punctus"/> sed libere utitur sicut angelus 
+              <lb ed="#P" n="37"/>a materia separatus
+            </p> 
+            <p xml:id="ppra-prIV-qstpev">
+              <pc type="pilcrow"/> Quicquid sit tamen de hoc <pc type="virgula">/</pc> dicitur quod nec sic neque sic cogimur respondere 
+              <lb ed="#P" n="38"/>pro nunc Tamen oppinionem <name>scoti</name> reputo probabiliorem et sufficientem
+            </p>
+            <p xml:id="ppra-prIV-crdmpl">
+              <pc type="pilcrow"/> Consequenter restat dubium 
+              <lb ed="#P" n="39"/>de motu locali corporis christi an a crreatura possit moveri localiter 
+            </p> 
+            <p xml:id="ppra-prIV-ebcaia">
+              <pc type="punctus"/> Et breviter 
+              <lb ed="#P" n="40"/>tenet <name ref="#Scotus">scotus</name> a sola divina potentia movetur localiter in ipso sacramento et non ab humana 
+              <lb ed="#P" n="41"/>Cuius ymaginatio est quia concedit quod ad motum specierum movetur scilicet virtute divina hoc ille <name>doctor 
+              <lb ed="#P" n="42"/>subtilis</name> Exemplum enim ponit de lapide a sorte lelvato et quod angelus moveatur lapidem 
+              <lb ed="#P" n="43"/>voluntarie ad motum <unclear>lapidem<!-- possible correciton --></unclear> sortes tamen sic movendo non moveret angelum <pc type="punctus"/> quo 
+              <lb ed="#P" n="44"/>stante nihil ageret in angelum 
+            </p> 
+            <p xml:id="ppra-prIV-spisps">
+              <pc type="punctus"/> Sic ymaginatur iste doctor quod a sacerdote corpus christi 
+              <lb ed="#P" n="45"/>non movetur sed species tantum <pc type="punctus"/> deus autem se solo vult ipsum moveri 
+            </p> 
+            <p xml:id="ppra-prIV-eiviic">
+              Et istam 
+              <lb ed="#P" n="46"/>viam reputo probabilem ex eo quod nullam est necessitas specierum ad corpus sicut de angelo respectu 
+              <lb ed="#P" n="47"/>ad sortem ut iam allegatum est <pc type="pilcrow"/> Sed tamen circa hoc datur instantia videlicet quod non semper 
+              <lb ed="#P" n="48"/>ad motum specierum sequitur motus corporis christi <pc type="punctus"/> nam sit ita quod species scilicet circa centrum proprium 
+              <lb ed="#P" n="49"/>revolvatur et sit uniformis <pc type="punctus"/> circularis et non participet alium modum figurae nec 
+              <lb ed="#P" n="50"/>etiam alium motum movendo <pc type="punctus"/> tunc est in eodem situ adaequate <pc type="virgula">/</pc> quia aliqua pars non incipit esse 
+              <lb ed="#P" n="51"/>in alio situ quia totum est in eodem situ in quo hostia revolvitur quapropter clare conluditur quod 
+              <lb ed="#P" n="52"/>secundum quamlibet sui partem non mutatur
+            </p>
+            <p xml:id="ppra-prIV-hdqhre">
+              <pc type="pilcrow"/> Breviter respondetur quod in hoc casu conclusio concedendi 
+              <lb ed="#P" n="53"/>potest stante ordinatione die iam facta sic quod species moveantur et non corpus <pc type="punctus"/> et hoc in motu 
+              <lb ed="#P" n="54"/>circulari et quod hostia sit rotunda non determinans aliam <unclear>fi?am</unclear> et uniformis quia aliter argumentum 
+              <lb ed="#P" n="55"/>non haberet efficaciam
+            </p>
+            <p xml:id="ppra-prIV-ccsfam">
+              <pc type="pilcrow"/> Consequenter circa species ponitur per modum regulae talis propositios quod de actione 
+              <lb ed="#P" n="56"/>et passione earum quod quantum ad agere et pati fiunt effectus ac si esset vere panis <pc type="punctus"/> et ita de 
+              <lb ed="#P" n="57"/>sanguine christi et ex eo fit idem quantum ad operationes naturales et causa est divina ordinatio <pc type="virgula">/</pc> Et si non sic 
+              <pb ed="#P" n="23-v"/>
+              <lb ed="#P" n="1"/>fides nostra quam in hoc habemus ad experientiam pateret quod si sic non haberet meritum 
+              <lb ed="#P" n="2"/>Et ideo divina providentia sic voluit aenigmatice quod fidem haberemus et non per experientiam 
+            </p>
+            <p xml:id="ppra-prIV-eqsigc">
+              <lb ed="#P" n="3"/><pc type="virgula">/</pc> Ex quo sequitur quod ignis ad hostiam applicatus naturaliter producit colorem et tamen huiusmodi 
+              <lb ed="#P" n="4"/>calor est supernaturalis et miraculosus <pc type="pilcrow"/> Ubi sit advertendum quod ad producendum aliquem effectum ubi 
+              <lb ed="#P" n="5"/>patres causae requiruntur stat unam naturaliter concurrere et aliam non sed deus miraculose suplet 
+              <lb ed="#P" n="6"/>eius vicem <pc type="virgula">/</pc> et tamen respectu alicuius effectus sui erit naturalis Et sic quo ad hoc suppletur 
+              <lb ed="#P" n="7"/>materialis influxus <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-ssqevv">
+              <pc type="pilcrow"/> Sequitur ulterius quod homo aequaliter nuctriretur ex hostiis consecratis 
+              <lb ed="#P" n="8"/>sicut non consecratis <pc type="punctus"/> et ex anguine conformiter suo modo sicut de unio inebriatur 
+              <lb ed="#P" n="9"/>patet quoniam nisi sic reservaretur fidei sacramentum modo deus aenigmatice sacramentum ipsum constituit 
+              <lb ed="#P" n="10"/>ac si esset verus panis et verum vivum ut maius meritum conferret credentibus 
+            </p>
+            <p xml:id="ppra-prIV-pqnnhe">
+              <lb ed="#P" n="11"/><pc type="pilcrow"/> Est tamen advertendum quod <name>magister guillelmus parisiensis</name> dicit contrarium ponens exemplum de quodam sacerdote 
+              <lb ed="#P" n="12"/>guloso non tenens sacramentum corporis christi in tantam reverentiam sicut debuisset posuit 
+              <lb ed="#P" n="13"/>vinum in magna quantitate et de pane etiam propter suam satietatem et non refectionem 
+              <lb ed="#P" n="14"/>spiritualem unde paucis diebus deffectit et mortuus fuit  
+            </p>
+            <!-- fuzzy break -->
+            <p xml:id="ppra-prIV-scairn">
+              nam etiam huiusmodi species 
+              <lb ed="#P" n="15"/>reficiunt et satiant et per consequens <choice><orig>nuttriunt</orig><reg>nutriunt</reg></choice> <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-airshr">
+              <pc type="pilcrow"/> Respondet idem quod hoc dupliciter potest 
+              <lb ed="#P" n="16"/>intelligi uno modo quia replet unde notat quod fames provenit ex carentia et vacuitate cibi 
+              <lb ed="#P" n="17"/>requisiti <unclear>stoico</unclear> per cuius appositionem cessat <pc type="virgula">/</pc> et sic est saties <pc type="punctus"/> Et concedit quod sic tollunt 
+              <lb ed="#P" n="18"/>famen <pc type="punctus"/> Sed si capiatur <choice><orig>nuttritio</orig><reg>nutritio</reg></choice> quod conditione in carnis argumentationem negat breviter hoc 
+              <lb ed="#P" n="19"/>quia tunc sequeretur quod non concluderetur disperitas panis materialis et corporis christi
+            </p>
+            <!-- fuzzy paralell -->
+            <p xml:id="ppra-prIV-sciapf">
+              <pc type="pilcrow"/> Et tunc ad rationem 
+              <lb ed="#P" n="20"/>suam dicitur quia contentative fecit ideo deus eum puniunt
+            </p>
+            <p xml:id="ppra-prIV-suqrdp">
+              <pc type="pilcrow"/> Sequitur ulterius quod non est inconveniens 
+              <lb ed="#P" n="21"/>hostiam consecratam putrefieri per nimiam temporis reservationem patet per experientia nam alteratur 
+              <lb ed="#P" n="22"/>sicut hostia non consecrata <pc type="punctus"/> et in integritate sui permaneret et per generis humanai providentia 
+              <lb ed="#P" n="23"/>propter rationem iam tactam <pc type="punctus"/>
+            </p> 
+            <p xml:id="ppra-prIV-uieimm">
+              <pc type="pilcrow"/> Ulterius ymaginandum de directo quod sicut panis materialis potest 
+              <lb ed="#P" n="24"/>alterari et ad alterius formae successionem disponi ita est de corpore christi <pc type="punctus"/> videlicet <pc type="virgula">/</pc> quod species 
+              <lb ed="#P" n="25"/>alterabuntur et non tamen <del rend="strikethrough">v</del> corpus christi <pc type="punctus"/> sed deus <unclear>resumit</unclear> materiam praeiacentem in illo eodem instanti 
+              <lb ed="#P" n="26"/>in quo alteratur recreando materiam panis in qua ponit subiective quantitatis et in illo eodem instanti cessat 
+              <lb ed="#P" n="27"/>corpus christi esse <pc type="punctus"/> et tunc accidentia inducta ponuntur in materia sub qua tunc corpus christi desinit esse 
+              <lb ed="#P" n="28"/>et sic de unio quo ad hoc scilicet de speciebus ipsius sanguinis <pc type="punctus"/>
+            </p>
+            <p xml:id="ppra-prIV-eqsado">
+              <pc type="pilcrow"/> Ex quo infertur quod 
+              <lb ed="#P" n="29"/>derisio tanti sacramenti procedit ex ignorantia et fatuitate <del rend="strikethrough">ignorantiae</del> deridentium <pc type="virgula">/</pc> patet quia 
+              <lb ed="#P" n="30"/>omnia concurrentia in illo sunt ex immensa et divina institutione ordinata quae quidam humanam capacitatem 
+              <lb ed="#P" n="31"/>transcendunt 
+            </p> 
+            <p xml:id="ppra-prIV-eehdep">
+              <pc type="pilcrow"/> Ex quo patet quod <name ref="#Averroes">averroys</name> prius irrisorio modo fidem nostram <unclear>intellexerit</unclear> 
+              <lb ed="#P" n="32"/>esse blaphemiam iudicaverit quam misterium eius intellexerit dicens christianos comedere 
+              <lb ed="#P" n="33"/>deum suum <pc type="virgula">/</pc> et similia mures <pc type="punctus"/> Faciens in hoc fallaciam consequentis ac si diceret sic 
+              <lb ed="#P" n="34"/>non hoc vidi ergo non <del rend="strikethrough">po</del> sic est <pc type="virgula">/</pc> licet tamen ipse fuisset optimus clericus in hoc fuit deceptus
+            </p>
+            <!--
+              not clear if present, but "dubia follow" that don't seem to have further parallels
+              <p xml:id="ppra-prIV-asdpec">
+              Aliae sunt difficultates particulares tangentes 
+              materiam quae possunt solvi ex radicibus praetactis, et cetera.
+            </p>-->
+            <!-- note there are few more sections / dubia (approximately a page and half) that don't seem to belong to a "lectio" but probably still need to find a place.-->
+            
+            <!--<p>
+              <lb ed="#P"/>Dubium in serbona positum bacallario legenti sententias et est articulus parisius condempnatus 
+              <lb ed="#P"/>scilicet <quote>dicere quod anima christi non sit perfectior anima iudae <pc type="virgula">/</pc> error</quote>  et quaeritur quomodo debeat intelligi <pc type="punctus"/> Ad quod 
+              <lb ed="#P"/>respondetur quod multipliciter 
+            </p>
+            <p>
+              <pc type="pilcrow"/> Uno modo secundum illos qui ponunt quod in eadem specie unum individuum est essentialiter 
+              <lb ed="#P"/>perfectius alio intrinsece non quod illa perfectio sit maior intensive per additionem gradus ad gradum <pc type="virgula">/</pc> quia 
+              <lb ed="#P"/>in aliquibus non haberet hoc locum quoniam anima intellectiva non est intensibilis nec remissibilis eo modo nam <unclear>isbi</unclear> 
+              <lb ed="#P"/>qui sic oppinantur ponuntur latitudinem perfectionis essentialis in eadem specie  <pc type="punctus"/> quia in eadem perfectione specifica <unclear>continentur</unclear> 
+              <lb ed="#P"/>plures gradus perfectionis Et tunc in illo casu diceretur quod anima christi haberet suppremum gradum in tota 
+              <lb ed="#P"/>speciei humana 
+            </p>
+            <p>
+              <pc type="pilcrow"/> 2o dicitur aliter scilicet quod animae christi<!-\- could be crossed out-\-> cuilibet in creatione conferetur lumen naturale differenter tamen <pc type="punctus"/> nam 
+              <lb ed="#P"/>alicui intensius alteri vero remissius Et isto modo diceretur quod praeter dona gratuita suppremeus gradus luminis 
+              <lb ed="#P"/>naturalis est animae christi communicatus <pc type="punctus"/> quia novit omnia quae verbum <pc type="punctus"/> ut patet per magistrum <pc type="punctus"/>
+            </p>
+            <p>
+              <pc type="pilcrow"/> 2o aliter diceretur quod anima 
+              <lb ed="#P"/>christi secundum totam latitudinem divinae omnipotentiae est tantae perfectionis quod non potest esse maior <pc type="virgula">/</pc> non solum 
+              <lb ed="#P"/>quantum ad dona gratuita sed etiam et quantum ad causalitate activam <pc type="punctus"/> nam anima christi posset in nobilioribus 
+              <lb ed="#P"/>operationibus et actibus superioris speciei quam anima iudae
+            </p>
+            <p>
+              <pc type="virgula">/</pc> Conceditur tamen quod causalitas activa mensuratur 
+              <lb ed="#P"/>secundum decretum divinae voluntatis Et ideo quantum ad causalitatem et quantum ad omnes modos naturales anima christi perfectior anima iudae
+            </p>
+            <p>
+              <lb ed="#P"/><pc type="pilcrow"/> 4o et ultimo dicitur quod articulus ille intelligitur quantum ad habitus morales et supernaturales et ergo anima christi 
+              <lb ed="#P"/>perfectior est anima iudae simpliciter quia ipsa est in infinitum perfecta <pc type="virgula">/</pc> Tamen aliqui dicunt quod sufficit dicere quod sit melior 
+              <lb ed="#P"/>anima iudae <pc type="punctus"/> sed apparet mihi quod adhuc alia via sit melior scilicet praedicta ergo etc
+            </p>
+            <p>
+              <lb ed="#P"/><pc type="pilcrow"/>Qui multum scribi miser ac ydiota redibit
+              <lb ed="#P"/>Ad primam <unclear>mestus</unclear> de tanto tempore questus
+            </p>
+            
+            A few more sections follows
+            -->
+            
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

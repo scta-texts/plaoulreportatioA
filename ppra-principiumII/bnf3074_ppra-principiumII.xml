@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium II [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium II [Bnf 3074 Transcription]</title>
+          <date when="2024-08-02">August 02, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-02" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="18-r"/>
+      </div>
+    </front>
+    <body>
+        <div xml:id="ppra-principiumII">
+        <head xml:id="ppra-prII-Hpriium">Principium II</head>
+        <div xml:id="ppra-prII-Dd1e105">
+          <head xml:id="ppra-prII-Hucrpsf">Utrum creatura rationalis sic ascendere possit in palmam summae fecunditatis</head>
+          <p xml:id="ppra-prII-aipfsf">
+            <lb ed="#P" n="1"/>Ascendam in palmam et apprehendam fructus eius <pc type="punctus"/> haec sunt verba sumpta pro principio bacallarii 
+            <lb ed="#P" n="2"/>legentis sententias in serbona parisius et hoc supra 2m librum sententiarum Et intulit post quod 
+            <lb ed="#P" n="3"/>sapientes se esse facientes <pc type="virgula">/</pc> stulti facti sunt <pc type="virgula">/</pc> unde multa alia dixit quae hic non scripsi quia 
+            <lb ed="#P" n="4"/>valde praecipitanter legit sive protulit ipsa tenentis conclusa <pc type="punctus"/> Sed venit descendendo a 
+            <lb ed="#P" n="5"/>proposito sive tenente suo ad respondendum obiectibus factis qua dicta sua in lectura supra primum quae quidam 
+            <lb ed="#P" n="6"/>obiectiones fiebant a bacalariis sententias alibi legentibus <pc type="punctus"/> sicut primo a domino petro de saliente 2o 
+            <lb ed="#P" n="7"/>ab uno bernardista <pc type="punctus"/> 3o ab uno <unclear>cor digno</unclear> <pc type="virgula">/</pc> 4o ab uno augustinensi <pc type="virgula">/</pc> unde unus ponebat 
+            <lb ed="#P" n="8"/>quod latitudo entium <pc type="virgula">/</pc> erat finita Sed antequam respondeatur ad eorum obiecta movetur iuxta teuma 
+            <lb ed="#P" n="9"/>talis quaestio <pc type="virgula">/</pc> Utrum humana creatura possit ascendere in palmam suae fecunditatis  
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e117">
+          <head xml:id="ppra-prII-Hqnnqnn">Quod non</head>
+          <p xml:id="ppra-prII-eanapm">
+            Et arguitur primo quod <subst><del rend="strikethrough">sic</del> <add place="above-line">non</add></subst>
+            <lb ed="#P" n="10"/>via sursum erigens non est a creatura <unclear>erigibilis</unclear> igitur etc consequentia tenet et antecedens 
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-prII-nppdba">
+            per cathena auream et per 
+            <lb ed="#P" n="11"/>scalam patriarchae iacob <pc type="punctus"/> et tamen per eam non attingerit futura fecunditatem 2o probatur antecedens per reverendum bacallarium 
+            <lb ed="#P" n="12"/>minorem tunc legentem qui tenet quod latitudo etc
+          </p>
+          <p xml:id="ppra-prII-sppiac">
+            <pc type="pilcrow"/> 2o arguitur ex latitudine fecunditatis et dixit idem <name>baccalarius
+            <lb ed="#P" n="13"/>de ordine minorum</name> quod tota latitudo sive humana capacitas est finita <pc type="punctus"/> Et tenetur obiectum a <name>plaoust</name> legente 
+            <lb ed="#P" n="14"/>praedicto loco <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-taeeaf">
+            <pc type="virgula">/</pc> Arguitur ergo quod sit infinitae capacitatis tunc sic est infinitae capacitatis igitur infinita et per consequens capax summae 
+            <lb ed="#P" n="15"/>fecunditatis <pc type="virgula">/</pc>  
+          </p>
+        </div>
+        <!--
+          Doesn't seem present
+          <div xml:id="ppra-prII-Dd1e159">
+          <head xml:id="ppra-prII-Hiomiom">In oppositum</head>
+          <p xml:id="ppra-prII-iotcsf">
+            In oppositum tamen arguitur humana capacitas est 
+            infinite a deo dilatabilis, ergo etc. consequentia est nota 
+            et antecedens patet per <rs>patrem meum</rs> statim allegatum 
+            <name ref="#PeterLeMaistre">dominum petrum</name>, etc., quia secunda quaestione sua 
+            posuit quod capacitas animae est infinite a deo 
+            dilatabilis, ergo infinitae capacitatis, et per consequens et 
+            capax summae fecunditatis.
+          </p> 
+        </div>-->
+        <div xml:id="ppra-prII-Dd1e174">
+          <head xml:id="ppra-prII-Hprones">Protestationes</head>
+          <p xml:id="ppra-prII-aupffc">
+            Et antequam procedam protestor 
+          </p>
+          <p xml:id="ppra-prII-pepqmp">
+            nihil contra sacramentum scripturam aliquid <unclear>temere</unclear> affirmare maxime contra articulos 
+            <lb ed="#P" n="16"/>parisiensis in materia tangente fidem nostram 
+          </p>
+          <p xml:id="ppra-prII-spqppe">
+            <pc type="punctus"/> Reverenterque dicta praedictorum bacallarium tangere
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e205">
+          <head xml:id="ppra-prII-Hcpppds">Contra positionem Petri de Salliente</head>
+          <p xml:id="ppra-prII-ipspgc">
+            <pc type="pilcrow"/> Istis praemissis 
+            <lb ed="#P" n="17"/>sciendum est quod sunt et alii gradus ascensus in palmam <pc type="punctus"/> unus est per gradus emptitatis <pc type="virgula">/</pc> 2us per gradus ca<lb ed="#P" break="no" n="18"/>pacitatis
+          </p>
+          <p xml:id="ppra-prII-qamtdc">
+            <pc type="pilcrow"/> Ulterius rememorandum est mihi 
+          </p>
+          <p xml:id="ppra-prII-uqasfc">
+            quod tenui quod anima nostra est infinitae capacitatis contra <name>dominum petrum 
+            <lb ed="#P" n="19"/>de saliente</name> <pc type="punctus"/> et ergo potest competere creaturae finitae
+          </p> 
+          <p xml:id="ppra-prII-hprsem">
+            <pc type="pilcrow"/> Unde sciendum est quod esse capax vitaliter non est denominatio proprie dicta 
+            <lb ed="#P" n="20"/>sed potius modalis <pc type="virgula">/</pc> sicut de causalitate activa <pc type="punctus"/> nam potest creatura recipere gradum maiorem vel minorem secundum 
+            <lb ed="#P" n="21"/>decretum divini <pc type="punctus"/> et sic non est inconveniens <pc type="punctus"/>
+          </p>
+          <!--
+            doesn't seem present
+            <p xml:id="ppra-prII-upimdd">
+            Ulterius particularius 
+          intrabo materiam deo duce.
+          </p>-->
+        </div>
+        <div xml:id="ppra-prII-Dd1e257">
+          <head xml:id="ppra-prII-Hcppppd">Contra positionem Petri Domini</head>
+          <p xml:id="ppra-prII-ctqdba">
+            <pc type="pilcrow"/> ulterius ego tenui quod in statu innocentiae adam ex 
+            <lb ed="#P" n="22"/>creaturarum notitia potuit concludere personas trinitatis cuius oppositum tenuit <name>bacallarius in augustinientibus</name> 
+          </p>
+          <!-- review break and heading -->
+          <div xml:id="ppra-prII-Dd1e271">
+            <head xml:id="ppra-prII-Hprpppd">Prima radix positionis Petri Domini</head>
+            <p xml:id="ppra-prII-cpraee">
+              <lb ed="#P" n="23"/> Cuius radix est unde <unclear>quidquid</unclear> dicat <subst><del rend="strikethrough">alio</del> <add place="above-line">quod</add></subst> articulus trinitatis relucet in natura 
+            </p>
+            <!--
+              doesn't seem present 
+              <p xml:id="ppra-prII-dbqipp">
+              dico breviter quod articulus 
+              trinitatis relucet in natura sicut tenui 
+              in 
+              <cit>
+                <ref xml:id="ppra-prII-Rd1e286">primo principio</ref>
+                <bibl>XXX</bibl>
+              </cit>.
+            </p>
+            <p xml:id="ppra-prII-sdqhde">
+              Secundo dico quod non legitur 
+              pro statu praesentis naturae quod ratione culpae 
+              originalis vivacitas ingenii humani 
+              depravata est.
+            </p>-->
+            <p xml:id="ppra-prII-dtqhsp">
+              dico etiam quod vivacitas 
+              <lb ed="#P" n="24"/>ipsius adae sufficiebat sine cognitione supernaturali concludere trinitatem esse sine adiutorio cognitionis divinae 
+              <lb ed="#P" n="25"/>nam dicunt doctores quod fuit perfecte creatus
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e304">
+            <head xml:id="ppra-prII-Hsrppdd">Secunda radix positionis Petri Domini</head>
+            <p xml:id="ppra-prII-sresda">
+              <pc type="pilcrow"/> 2a radix sequeretur sicut dixit idem quod quis posset di<lb ed="#P" break="no" n="26"/>stinguere 
+              ex puris naturalibus et concludere articulum trinitatis 
+            </p>
+            <p xml:id="ppra-prII-dininc">
+              <pc type="virgula">/</pc> Et hoc concedetur sibi si sic perfecte esset creatus 
+              <lb ed="#P" n="27"/>sive dispositus sicut fuit <name>adam</name> <pc type="punctus"/>
+            </p>
+          </div>
+          <!-- fuzzy parallel -->
+          <div xml:id="ppra-prII-Dd1e319">
+            <head xml:id="ppra-prII-Htrppdd">Tertia radix positionis Petri Domini</head>
+            <p xml:id="ppra-prII-trssoe">
+              <pc type="pilcrow"/> Aliter dicit idem sequeretur quod ex puris naturalibus deum demonstrare 
+            </p> 
+            <p xml:id="ppra-prII-cneisp">
+              <pc type="pilcrow"/> Ad hoc 
+              <lb ed="#P" n="28"/>sibi respondetur quod non est inconveniens <pc type="punctus"/> et adhuc in stat naturae lapsae
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e339">
+            <head xml:id="ppra-prII-Hqrpppd">Quarta radix positionis Petri Domini</head>
+            <p xml:id="ppra-prII-qrsnee">
+              <pc type="pilcrow"/> 4a radix stat in hoc 
+            </p> 
+            <!-- fuzzy break -->
+            <p xml:id="ppra-prII-ceqneqe">
+              <lb ed="#P" n="29"/>quod verum est quantum ad ea quae non habebant necessariam habitudinem ad deum <pc type="virgula">/</pc> sed tamen in aliis bene <pc type="punctus"/> quare suae 
+              <lb ed="#P" n="30"/>rationes non procedunt
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-prII-esapmc">
+              Et sic apparet quod istae rationes non 
+              procedunt multum contradictam.
+            </p> -->
+          </div>
+        </div>
+        <div xml:id="ppra-prII-Dd1e358">
+          <head xml:id="ppra-prII-dgbbee">De gradus bonitatis et entitatis</head>
+          <p xml:id="ppra-prII-pdtilo">
+            <pc type="pilcrow"/> Sed nihilominus pro declaratione materiae quantum ad gradus emptitatis advertendum est quod licet nullus gradus 
+            <lb ed="#P" n="31"/>emptitatis possit augeri vel minui quantum ad essentiam sive denominationem specificam quilibet tamen gradus specificus potest et hoc 
+            <lb ed="#P" n="32"/>probabitur latius in sequentibus
+          </p>
+          <p xml:id="ppra-prII-iscsvg">
+            <pc type="pilcrow"/> Item si creatura quantum ad essentialem perfectionem posset excedere aliud 
+            <lb ed="#P" n="33"/>ab excessu addito posset sumi conceptus includens maiorem vel minorem perfectionem <pc type="punctus"/> Et sic 
+            <lb ed="#P" n="34"/>individua non essent eiusdem speciei
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e373">
+          <head xml:id="ppra-prII-Hqssfsp">Quod sum speciei humana sunt solum finitae species producibiles</head>
+          <p xml:id="ppra-prII-eqspfm">
+            <pc type="pilcrow"/> Ex quo sequitur quod sub specie humana sunt solum species creabiles et numerales 
+            <lb ed="#P" n="35"/>probatur 
+          </p> 
+          <p xml:id="ppra-prII-perppn">
+            primo ex deductione specierum creabilium in numeros finitos ut patet per <name>ptolomeum</name> qui dicit quod quaelibet species <unclear>subdividitur</unclear> 
+            <lb ed="#P" n="36"/>corporibus caelestibus <pc type="punctus"/> et per commentatorem etiam dicentem quod quaelibet species habet in caelo suam ymaginem <pc type="virgula">/</pc> et ex hoc 
+            <lb ed="#P" n="37"/>multi mali composuerunt ymagines artificiose factas ad <unclear>machi?dum</unclear> in divisionibus et furturis et ceteris 
+          </p>
+          <p xml:id="ppra-prII-ipildi">
+            <lb ed="#P" n="38"/>Item <ref><name>ptolomeus</name> in fine almagestis</ref> enumerat causas specierum effectivas
+          </p>
+          <p xml:id="ppra-prII-irmveg">
+            <pc type="pilcrow"/> Item <name ref="#Maimonides">rabbi moyses</name> 
+            <lb ed="#P" n="39"/>in libro <title ref="#GuideForThePerplexed">de vice iudaeorum</title> dicit quod non est corpus hic inferius <pc type="punctus"/> planta etc quin habeat suam stellam 
+            <lb ed="#P" n="40"/>in caelo a qua regatur et causetur secundum retrogradationes motuum suorum et mutationes <pc type="punctus"/> et hoc patet per 
+            <lb ed="#P" n="41"/><ref><name>albertum</name> in 2o de generatione</ref> Quare patet quod tota latitudo creaturarum reducitur ad causas superiores <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-earsph">
+            <lb ed="#P" n="42"/><pc type="pilcrow"/> Ex alia radice potest fundari quod creaturae sunt propter hoc factae
+          </p>
+          <p xml:id="ppra-prII-ssqaac">
+            <pc type="pilcrow"/> 2o quia deus et natura nihil faciunt frustra <pc type="virgula">/</pc> Et 
+            <lb ed="#P" n="43"/>sicut non est nisi ex nullae humanae negligentia quin cognoscatur a creatura 
+          </p>
+          <p xml:id="ppra-prII-ifsmsc">
+            <pc type="pilcrow"/> Item sunt infinitae species <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-prII-ihpiss">
+            <pc type="pilcrow"/> Item ex <unclear>praedicata</unclear> 
+            <lb ed="#P" n="44"/>resolutionis elementorum et praecise in hiis quae habent ordinem essentialem et sic prima pars conclusionis satis patet <unclear>declarativa</unclear> 
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e490">
+          <head xml:id="ppra-prII-Hqbrrie">Quod bonitas rei sit intensibilis et remissibilis in esse</head>
+          <p xml:id="ppra-prII-qasbee">
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Quantum ad 2am partem probatur conclusio nam causalitas rerum sunt intensivae et remissibiles
+          </p>
+          <p xml:id="ppra-prII-itreee">
+            <pc type="pilcrow"/> Item tendentiae 
+            <lb ed="#P" n="46"/>rerum licet non sint remissibiles a fine <pc type="punctus"/> fines tamen medii sunt intensibiles igitur etc
+          </p>
+          <!--
+            Doesn't seem present, but could be somehow mixed in with the above
+            <p xml:id="ppra-prII-ifmsee">
+            Item <unclear>fureo[?]</unclear> 
+            medii sunt <unclear>multiplicibiles[?]</unclear> et <unclear>diminuibiles[?]</unclear> et quilibet 
+            habet rationem boni, ergo nedum intrinseca bonitas 
+            rei est remissibilis sed etiam extrinseca.
+          </p>-->
+        </div>
+        <div xml:id="ppra-prII-Dd1e514">
+          <head xml:id="ppra-prII-Hdbcbcr">De bonitate creature rationalis</head>
+          <p xml:id="ppra-prII-nvamrb">
+            <pc type="pilcrow"/> Nunc veniendum est ad bonitatem creaturae rationabilis 
+            <lb ed="#P" n="47"/>ubi est advertendum quod in creatura rationali multiplex reperitur bonitas <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-pepsed">
+            <pc type="virgula">/</pc> prima pure essentialis quae est bonitatis proprie diffusio 
+            <lb ed="#P" n="48"/>unde <name>albertus</name> dicit quod bonum est prius ente iuxta platonica sententiam <pc type="virgula">/</pc> unde allegat <name ref="#Boethius">boetium</name> unde si per 
+            <lb ed="#P" n="49"/>ymaginationem primum ens esset <pc type="punctus"/> et non esset bonum entia essent et non essent bona <pc type="virgula">/</pc> unde bonitas divina ad ymaginationem 
+            <lb ed="#P" n="50"/>videtur habere rationem prioritatis in ipso deo
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prII-eqiace">
+            <pc type="pilcrow"/> nam ex infinita bonitate dei consurgit personarum emanatio et per consequens 
+            <lb ed="#P" n="51"/>prioritatem videtur habere et in productione creaturarum bonitas infinita videtur primo concurrere <pc type="punctus"/> ut causa efficiens 
+            <lb ed="#P" n="52"/>unde respectu effectus <pc type="punctus"/> causa finalis habet esse prior in intensive sed bonitas divina est huiusmodi ergo etc
+          </p>
+          <p xml:id="ppra-prII-aemsge">
+            <pc type="pilcrow"/> Alia est bonitas 
+            <lb ed="#P" n="53"/>per actus et habitus <pc type="punctus"/> <pc type="pilcrow"/> Alia per divinam acceptationem et de qualibet excepta prima intelligentia potest quod quaelibet est intensibilis 
+            <lb ed="#P" n="54"/>et remissibilis unde non datur actus beatificus quin possit perfici <pc type="punctus"/> sed de aliis possunt intendi vel remitti 
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e572">
+          <head xml:id="ppra-prII-Hcorria">Corollaria</head>
+          <p xml:id="ppra-prII-ciapie">
+            <pc type="pilcrow"/> Consequenter infertur quod creatura aliqua est melior quam sit essentia sua sicut patet evidenter de christo secundum humanitatem suam 
+            <lb ed="#P" n="55"/>a tamen est finitate emptitatis
+          </p>
+          <p xml:id="ppra-prII-scpesp">
+            <pc type="pilcrow"/> Sequitur ulterius quod peccatum tollit aliquam positivam bonitatem in creatura et experimur quod <unclear>ini?it</unclear> 
+            <lb ed="#P" n="56"/>libertatem gratiae <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-tsqtin">
+            <pc type="pilcrow"/> Sequitur ulterius quod nisi esset naturalis tendentia in deum liberum arbitrium per peccatum anihilaretur 
+            <pb ed="#P" n="18-v"/>
+            <lb ed="#P" n="1"/>patet <pc type="virgula">/</pc> quia peccatum totum anihilat et destruit unde apostolus si consummatum fuerit generat mortem <pc type="virgula">/</pc> et si naturalis tendentia 
+            <lb ed="#P" n="2"/>defficeret creatura nihil esset <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-qsqeqd">
+            <pc type="pilcrow"/> Infertur etiam a minimo gradu causalitatis libere est quaedam difformitas quae remanet in creatura 
+          </p>
+          <p xml:id="ppra-prII-eqsvnt">
+            <lb ed="#P" n="3"/>Ex quo patet quod per peccatum homo desinit esse homo secundum quod dicit <name>boetius</name> in libro de consolatione quia desint habere 
+            <lb ed="#P" n="4"/>aliquem gradum perfectionis <pc type="punctus"/> Et sic homo efficitur brutalis
+          </p>
+          <!-- doesn't seem prsent 
+          <p xml:id="ppra-prII-cdqhcd">
+            Consequenter dicitur quod non stat totam huiusmodi 
+            causalitatem deperdi.
+          </p>-->
+          <p xml:id="ppra-prII-eqspde">
+            <pc type="pilcrow"/> Consequenter potest dici quod in daemonibus non est 
+            <lb ed="#P" n="5"/>deperdita totaliter libertas haec <pc type="punctus"/> nam perditionem libertatis potest salvari quod homo <unclear>fueret</unclear> brutalis sicut iam dictum est <pc type="punctus"/> 
+          </p>
+          <p xml:id="ppra-prII-eqsepe">
+            <lb ed="#P" n="6"/>Ex quo infertur etiam quod quanto creatura est perfectior tanto liberior <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e628">
+          <head xml:id="ppra-prII-Hccfccf">Conferendum cum fratribus</head>
+          <p xml:id="ppra-prII-acietc">
+            Sed nunc venio ad dictum aliorum <unclear>bacalarum</unclear> 
+            <lb ed="#P" n="7"/>Inferendo quod bonum in re est prior ente
+          </p>
+          <p xml:id="ppra-prII-sndeeb">
+            <pc type="pilcrow"/> 2o nolo dicere quod sit distinctio inter ens et bonum 
+          </p>
+          <p xml:id="ppra-prII-tdqque">
+            sed volo 
+            <lb ed="#P" n="8"/>dicere quod res prius natura efficitur bona <pc type="punctus"/> quam efficiatur ens 
+          </p>
+          <p xml:id="ppra-prII-aiiaca">
+            <pc type="punctus"/> ad sensum tactum in quaestione quam movi supra primum 
+            <lb ed="#P" n="9"/>et etiam potest probari nam a fine suo res denominatur bona vel mala modo sic est quod finis est prior intentione 
+            <lb ed="#P" n="10"/>licet posterior in prosecutione et hoc est de intentione <ref>philosophi 2o phyiscorum</ref> <pc type="virgula">/</pc> Et istam viam tenet <name>albertus</name> 
+            <lb ed="#P" n="11"/>et platonici patet ergo ex concursu causarum <pc type="virgula">/</pc> nam activa non potest agere nisi concurrat finalis <pc type="punctus"/> 
+            <lb ed="#P" n="12"/>igitur secundum prioritatem causarum erit effectus et capiet suum esse
+          </p>
+          <p xml:id="ppra-prII-ciaiee">
+            <pc type="pilcrow"/> Sed contra hoc arguit bacallarius de domo 
+            <lb ed="#P" n="13"/>sancti bernardi quaerendo de qua prioritate vel de <add place="above-line">quo</add> conceptu entis sive boni <pc type="punctus"/> sed quicquid breviter 
+            <lb ed="#P" n="14"/>dicat 
+          </p> 
+          <p xml:id="ppra-prII-iriiee">
+            Respondeo sibi ad hoc quod dicit quod conceptus entis prius est concedendo sibi <pc type="punctus"/> sed tamen a parte 
+            <lb ed="#P" n="15"/>rei non est distinctio sed prius res non obstante capit suum esse a causa finali quam quam ab activa et hoc in esse entis 
+            <lb ed="#P" n="16"/>quia ut dictum finis prior et intentione
+          </p>
+          <p xml:id="ppra-prII-sdqacm">
+            <pc type="pilcrow"/> Et arguit post <name>idem bacallarius</name> quod ratio entis est communissima <pc type="punctus"/> 
+            <lb ed="#P" n="17"/>Sed sibi respondeo quod hoc non vadit ad mentem <pc type="virgula">/</pc> quoniam arguit quod non est distinctio a parte 
+            <lb ed="#P" n="18"/>rei et hoc sibi iam concessum est <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-ciccee">
+            <pc type="pilcrow"/> Consequenter infero contra reverendum bacallarium de <!-- gap -->
+            <lb ed="#P" n="19"/>quod beatitudo divina non est <!-- gap --> Nam dicitur quod dona spiritus sancti concurrunt ad hoc <pc type="punctus"/> sed adhuc totum 
+            <lb ed="#P" n="20"/>illud non sufficit nec cum hoc caritas sine divina acceptatione 
+          </p>
+          <!-- very fuzzy break -->
+          <p xml:id="ppra-prII-idcsbf">
+            <pc type="virgula">/</pc> quia deus posset acceptare personam 
+            <lb ed="#P" n="21"/>sine istis et per consequens sola dei acceptatio et sic est principale bonum ipsius creaturae circa obiectum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-ciaava">
+            <pc type="pilcrow"/> Contra 
+            <lb ed="#P" n="22"/>tamen arguit <name>bacallarius de domo sancti bernardi</name> nam si sic sequeretur quod ab aeterno essent aliqui beati <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-aireia">
+            <lb ed="#P" n="23"/><pc type="pilcrow"/> Ad hoc sibi respondetur quod duplex est acceptatio 
+          </p>
+          <p xml:id="ppra-prII-aeqscc">
+            nam quaedam est ab aeterno et talis non iustificat et tamen 
+            <lb ed="#P" n="24"/>stante ipsa quis posset peccare sicut patet de multis sanctis ut de petro et paulo etc
+          </p>
+          <p xml:id="ppra-prII-aeaaie">
+            <pc type="pilcrow"/> Alia est quaedam reputatio qua deus vult esse creaturam rationalem dignam <pc type="virgula">/</pc> et secundum quod vult eam esse 
+            <lb ed="#P" n="25"/>dignam <pc type="punctus"/> talis et talis gradus est sibi <pc type="virgula">/</pc> modo ista staret alia non existente 
+          </p>
+          <p xml:id="ppra-prII-siafvo">
+            <pc type="virgula">/</pc> Et quando dicit 2o vel esset pars obiectalis 
+            <lb ed="#P" n="26"/>beatitudinis vel etc 
+          </p>
+          <!--
+            Doesn't really seem present or is somehow included in the following paragraph
+            <p xml:id="ppra-prII-bdpnes">
+            Breviter <unclear>dio[??]</unclear> posset negari primo 
+            quia non esset sufficiens.
+          </p>-->
+          <p xml:id="ppra-prII-sqdcie">
+            <pc type="virgula">/</pc> Respondetur quod est mixta et magis formalis quam obiectalis quia realiter denominat creaturam bonam 
+            <lb ed="#P" n="27"/>et ratione huius recipit denominationem concretam <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prII-sqsice">
+            <pc type="pilcrow"/> 3o Ipse arguit sic <pc type="punctus"/> nam si sic divina acceptatio 
+            <lb ed="#P" n="28"/>deacceptaret 
+          </p>
+          <p xml:id="ppra-prII-hedncp">
+            <pc type="pilcrow"/> Respondetur quod secus est ibi nam deacceptatio non potest esse sine culpa stante <pc type="punctus"/> <pc type="virgula">/</pc> nam in 
+            <lb ed="#P" n="29"/>acceptatione habet actum <pc type="punctus"/> in deacceptatione autem non <pc type="virgula">/</pc> Et sic ex istis potest apparere quod rationes eius non 
+            <lb ed="#P" n="30"/>concludunt multum quam plaoust
+          </p>
+          <!--
+            Not present or somehow included in the above
+            <p xml:id="ppra-prII-uliddc">
+            Unde 
+            licet in eodem instanti deus deacceptet 
+            actum creaturae in quo creatura peccat, nihilominus 
+            tamen creatura prius natura peccat 
+            communissime producendo actum debitum quam 
+            deus ipsam deacceptet ita quod creatura 
+            habet causalitatem priorem in deacceptationis 
+            quia se solo potest deus deacceptare creatura.
+          </p>
+          <p xml:id="ppra-prII-tdqmcm">
+            Tertio diceretur quod deacceptatio non sufficeret 
+            ad integritatem peccati, quia licet acceptatio 
+            sufficeret ad dignificationem creaturae, ideo etc. 
+            et sic apparet quod ambae conclusiones adhuc stant 
+            in veritate et quod aliorum rationes non multum 
+            militantur contra me.
+          </p>-->
+          <p xml:id="ppra-prII-ccbesi">
+            <pc type="pilcrow"/> Sed contra <name>reverendum bacallarium minorem</name> de accidentibus in latitudine 
+            <lb ed="#P" n="31"/>specierum 
+          </p>
+          <p xml:id="ppra-prII-chsqee">
+            <pc type="punctus"/> dico quod nec accidentia nec materia prima reponuntur in latitudine universi <pc type="punctus"/> Unde materia prima ut est 
+            <lb ed="#P" n="32"/>metaphysicae considerationis est pura potentia nec est in aliquo genere <pc type="virgula">/</pc> modo metaphysica sic considerat res sed 
+            <lb ed="#P" n="33"/>de accidentibus restat  
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e780">
+          <head xml:id="ppra-prII-supnes">Suppositiones</head>
+          <p xml:id="ppra-prII-esnpss">
+            <pc type="punctus"/> Unde praemitto suppositiones 
+          </p>
+          <p xml:id="ppra-prII-psesie">
+            <pc type="virgula">/</pc> prima igitur suppositio est quod alicuiuslibet speciei convenientia conditionibus 
+            <lb ed="#P" n="34"/><unclear>suppositibus</unclear> <pc type="punctus"/> potest sumi conceptus transcendens dicens perfectionem sumitur <pc type="punctus"/> Unde quacumque data specie 
+            <lb ed="#P" n="35"/>potest sumi conceptus excludens species inferiores
+          </p>
+          <p xml:id="ppra-prII-ssoces">
+            <pc type="pilcrow"/> 2a suppositio omnis denominatio perfectionis speciei competens 
+            <lb ed="#P" n="36"/>superiori competit inferiori et sic est communis
+          </p>
+          <p xml:id="ppra-prII-cedcnc">
+            <pc type="pilcrow"/> Confirmatur ab <ref xml:id="ppra-prII-Rd1e800"><name ref="#Anselm">ancelmo</name></ref> dicente quod perfectum sumitur est melius quam 
+            <lb ed="#P" n="37"/>non ipsum 
+          </p>
+          <p xml:id="ppra-prII-eieqic">
+            <pc type="punctus"/> et sic oportet concedere quod eo ipso competet denominatio
+          </p>
+          <p xml:id="ppra-prII-tsneip">
+            <pc type="pilcrow"/> 3a suppositio nulli speciei finitae 
+            <lb ed="#P" n="38"/>possunt competere infinitae igitur etc et quod hoc sit verum patet manifeste
+          </p>
+          <p xml:id="ppra-prII-insede">
+            <pc type="pilcrow"/> Item nisi sic esset sequeretur quod 
+            <lb ed="#P" n="39"/>esset processus in infinitum
+          </p>
+          <p xml:id="ppra-prII-qslnml">
+            <pc type="pilcrow"/> 4a suppositio latitudo entium est infinita sumitur ad talem sensum quod infinite sunt 
+            <lb ed="#P" n="40"/>species in genere accidentium 
+          </p>
+          <p xml:id="ppra-prII-pisnsa">
+            probatur quia in genere substantiae sunt infinitae modo quaelibet potest producere aliam speciem igitur etc et per 
+            <lb ed="#P" n="41"/>consequens ex infinitate specierum sive intelligentiarum potest argui infinitas accidentium et sic erit infinita latitudo entium 
+            <lb ed="#P" n="42"/>quod fuit declarandum
+          </p>
+          <p xml:id="ppra-prII-idfcen">
+            <pc type="pilcrow"/> Item in speciebus minorum est processus in infinitum et tamen sunt diversarum conceptuum
+          </p>
+          <p xml:id="ppra-prII-iipcas">
+            <lb ed="#P" n="43"/><pc type="pilcrow"/> Item de speciebus figurarum processus est in infinitum in illis <pc type="punctus"/> ut patet de triangulo
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-prII-iippin">
+            <pc type="pilcrow"/> Item etiam de quaestionibus 
+            <lb ed="#P" n="44"/>geometricis
+          </p>
+          <p xml:id="ppra-prII-iiaepe">
+            <pc type="pilcrow"/> Item in actibus reflexis <pc type="punctus"/> Et quibus omnibus sequitur quod latitudo entium infinita est ponenda 
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e859">
+          <head xml:id="ppra-prII-cesces">Conclusiones ex suppositionibus</head>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prII-eispei">
+            <pc type="pilcrow"/> Et tunc 
+            <lb ed="#P" n="45"/>ad quaesitum quando quaerit in quo genere reponantur
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e880">
+          <head xml:id="ppra-prII-Hrpbipp">Rationes praefati baccalarii contra mea propositio posita in primo principio</head>
+          <p xml:id="ppra-prII-eifcmm">
+            <pc type="pilcrow"/> Respondetur quod in nullo et hoc satis est ostensum superius <pc type="punctus"/>
+            <lb ed="#P" n="46"/><pc type="pilcrow"/> Sed tunc arguit multipliciter sed quidquid arguat negatur
+          </p>
+          <div xml:id="ppra-prII-Dd1e895">
+            <head xml:id="ppra-prII-Hpropro">Prima ratio</head>
+            <p xml:id="ppra-prII-prsiee">
+              unde dicot quod ratio sua stat in hoc quod 
+              <lb ed="#P" n="47"/>in quolibet continuo ymaginabilia sunt infinita puncta <pc type="virgula">/</pc> et species sunt sic ymaginabiles infert hoc 
+            </p>
+            <p xml:id="ppra-prII-hercti">
+              <pc type="virgula">/</pc> Sed tamen hic dicitur 
+              <lb ed="#P" n="48"/>quod non valet <pc type="punctus"/> et quando probat de catena aurea <pc type="punctus"/> dico quod hoc non est ad propositum sed <name>macrobius</name> 
+              <lb ed="#P" n="49"/>ponit hoc propter continuationem
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e922">
+            <head xml:id="ppra-prII-Hsrosro">Secunda ratio</head>
+            <p xml:id="ppra-prII-silsfp">
+              <pc type="pilcrow"/> 2o dicit ipse <name>bacallarius minorum</name> quod debet ymaginari per lineam perpendicularem 
+              <lb ed="#P" n="50"/>vel per modum circuli vel sicut numeri si sicut prima habetur intentionem si alio modo non <pc type="pilcrow"/> Breviter respondetur quod 
+              <lb ed="#P" n="51"/>secundum numerum Et ad improbationem nam inter quaslibet duorum species sunt <seg type="correction"><del rend="strikethrough expunctuation">in</del>finite</seg> non volo hoc dicere <pc type="punctus"/> sed 
+              <lb ed="#P" n="52"/>solum inter aliquas 
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e943">
+            <head xml:id="ppra-prII-Htrotro">Tertia ratio</head>
+            <p xml:id="ppra-prII-tiaipp">
+              <pc type="virgula">/</pc> Et quando dicitur ultra negatur sibi consequentiam quia est petere principium  
+            </p>
+            <!-- very fuzzy parallel -->
+            <p xml:id="ppra-prII-bnamee">
+              unde sibi dicitur quod dandae sunt immediate
+            </p>
+            <p xml:id="ppra-prII-hrdtee">
+              <pb ed="#P" n="19-r"/>
+              <lb ed="#P" n="1"/>Et dico quod ymaginatio sua est impossibilis quia si omnes ars demonstrativa periret quoniam diffinitio humanitatis 
+              <lb ed="#P" n="2"/>sic competeret <unclear>asino<!-- possible correction here --></unclear> et sic risibile competeret asino quod est absurdum ymaginari 
+            </p>
+            <p xml:id="ppra-prII-ntaeds">
+              <pc type="virgula">/</pc> Et nichilominus amissa 
+              <lb ed="#P" n="3"/>ymaginatione sua <pc type="virgula">/</pc> res esset duae species 
+            </p>
+            <p xml:id="ppra-prII-sdqess">
+              et sic dicitur quod esset superior speciei et eadem species cum specie prima
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e990">
+            <head xml:id="ppra-prII-Hqroqro">Quarta ratio</head>
+            <p xml:id="ppra-prII-qrsiie">
+              <pc type="pilcrow"/> 4ta 
+              <lb ed="#P" n="4"/>ratio sua stat in hoc
+            </p>
+            <p xml:id="ppra-prII-pdqeev">
+              <pc type="pilcrow"/> Instans temporis est divisibile igitur latitudo specifica est divisibilis et per consequens non est infinita 
+            </p>
+            <p xml:id="ppra-prII-sdqmle">
+              <lb ed="#P" n="5"/><pc type="pilcrow"/> Ad hoc dicitur quod instans tale nihil est et dato quod esset aliquid non esset divisibile nec oportet sed est talis
+              modus loquendi <pc type="punctus"/>
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e1012">
+            <head xml:id="ppra-prII-Hqnoqno">Quinta ratio</head>
+            <p xml:id="ppra-prII-ursdie">
+              <pc type="pilcrow"/> Ultimo dicat quod non implicat contradictionem quod deus faciat plures species sed negatur sibi 
+            </p>
+            <!--
+              Doesn't seem present 
+              <p xml:id="ppra-prII-dadetm">
+              Disposueram aliqua dimissa 
+              in secundo principio declarare quia propter conferendum 
+              cum patribus meis diversi et truncavi 
+              multa.
+            </p>
+            <p xml:id="ppra-prII-qeeami">
+              Quantum enim est de materiam finitis 
+              specierum corporearum quantum ad reductionem earum in 
+              corporea caelestia ista materia esset pulchrae 
+              speculationis, sed eam dimitto, ut veniam 
+              ad aliam materiam inceptam.
+            </p>-->
+            <!-- fuzzy parallel -->
+            <p xml:id="ppra-prII-qedmgb">
+              <lb ed="#P" n="6"/>Et consequenter de materia simplicitatis specierum maximeque de bonitate entis Tenetur quod ens prius habet entitatem 
+              <lb ed="#P" n="7"/>bonitatis quam entitatis et habet multas gradus
+            </p>
+            <p xml:id="ppra-prII-pemeed">
+              primus est extrinsecus scilicet divina acceptatio super actualis 
+              <lb ed="#P" n="8"/>gratitudo ista quod datur a deo et reputatur ab ipso eligibilis <pc type="virgula">/</pc> modo eo ipso consequentia non valet deus vult creatura 
+              <lb ed="#P" n="9"/>esse bonam igitur creatura est bona unde potest gratificari absque beatitudine formali Unde nulla videtur repugnantia 
+              <lb ed="#P" n="10"/>quod deus immutet creaturam et tamen non acceptet eam et sic primus gradus est posterior ad esse
+            </p>
+            <p xml:id="ppra-prII-agbeep">
+              <pc type="pilcrow"/> Alius 
+              <lb ed="#P" n="11"/>gradus scilicet bene essendi est formalis beatitudo 
+            </p>
+            <p xml:id="ppra-prII-agbpae">
+              et aliae virtutes sunt posteriores
+            </p>
+            <p xml:id="ppra-prII-agpdso">
+              <pc type="pilcrow"/> Alius diffusivus sui ipsius et iste est quodammodo 
+              <lb ed="#P" n="12"/>posterior qui respondet adaequate <pc type="virgula">/</pc> et sic sunt intrinseci <pc type="virgula">/</pc> et est ad primum gradum intensivum et remissibilem 
+            </p>
+            <p xml:id="ppra-prII-aegiee">
+              <pc type="pilcrow"/> Alius 
+              <lb ed="#P" n="13"/>gradus pure essentialis est et comparatur ad esse <pc type="virgula">/</pc> unde creatura est bona quidam prioritate naturae 
+            </p>
+            <p xml:id="ppra-prII-aetide">
+              <pc type="virgula">/</pc> unde perfectio specierum magis 
+              <lb ed="#P" n="14"/>debet attendi circa finem quam circa activum principium <pc type="virgula">/</pc> nam finis habet duplicem habitudinem respectu eius quod 
+              <lb ed="#P" n="15"/>producit unde habet actum remissivum et finem directivum vel etc <pc type="virgula">/</pc> Unde bonitas ipsius dei est alpha et omega scilicet 
+              <lb ed="#P" n="16"/>principium et finis et sic a causa finali producitur in esse et a finali dirigitur in mente <pc type="pilcrow"/> Unde <name>albertus</name> 
+              <lb ed="#P" n="17"/>allegando aspasium et et maximum dicit quod bonum dicitur a <unclear>voo boas</unclear> id est voco vocas unde prius concurrit 
+              <lb ed="#P" n="18"/>quam effectiva causa Et allegat apostolum dicentem ea quae non sunt tamquam ea quae sunt <pc type="punctus"/> Et sic non est multum 
+              <lb ed="#P" n="19"/>mirabile quod effectus capiat suum esse sicut causae ordinant
+            </p>
+          </div>
+          <div xml:id="ppra-prII-Dd1e1148">
+            <head xml:id="ppra-prII-Hudmudm">Unum dubium</head>
+            <p xml:id="ppra-prII-crucvm">
+              <pc type="pilcrow"/> Restat tamen scire utrum voluntas 
+              <lb ed="#P" n="20"/>respectu unius et eiusdem rei potest esse maior vel minor <pc type="virgula">/</pc> Sed utrum deus possit concurrere 
+              <lb ed="#P" n="21"/>magis in unam quam aliam 
+            </p>
+            <p xml:id="ppra-prII-qahcam">
+              tenetur quod non de potentia dei absoluta nam sicut deus non potest concurrere 
+              <lb ed="#P" n="22"/>principalius in genere causae efficientis quae respectu productionis illius effectus <pc type="punctus"/> ita nec in genere causae finalis 
+              <lb ed="#P" n="23"/>Et sic ex illa radice non potest intensius concurrere 
+            </p>
+            <p xml:id="ppra-prII-qeeuge">
+              <pc type="punctus"/> Tamen ordinative et dilective potest communicare sibi 
+              <lb ed="#P" n="24"/>et coexistere habet perfectionem suam
+            </p>
+            <!--
+              Doesn't seem prsent or is somehow included in the above
+              <p xml:id="ppra-prII-sditgb">
+              Sed de ista bonitate quae habet rationem prioritatis 
+              ad esse rei communicatur correspondenter secundum quantitatem 
+              speciei, immo <unclear>exi??re[?]</unclear> speciei habet perfectionem 
+              a tali gradu bonitatis.
+            </p>-->
+          </div>
+        </div>
+        <div xml:id="ppra-prII-Dx8zhhh">
+          <p xml:id="ppra-prII-cj8aaa">
+            <pc type="punctus"/> et haec sint dicta de principio <name>magistri petri plaoust</name> super 
+            <lb ed="#P" n="25"/>2m sententiarum die sabbati facto ante festum sanctorum fabiani et sebastiani in quibus non feria?mus sed 
+            <lb ed="#P" n="26"/>ad studium fuimus <pc type="punctus"/> Processio die dominica sequente fuit ad sanctum germanum de partis non tamen 
+            <lb ed="#P" n="27"/>universitatis sed personarum ville parisiensis et fuit ibidem rex francorum cum ducibus et comitibus et ceteris et fuit 
+            <lb ed="#P" n="28"/>dicta processio pro pace tam ecclesiae quam patriae <pc type="pilcrow"/> Explicit de gratias Sequitur 3m principium
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

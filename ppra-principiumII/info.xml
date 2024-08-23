@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-principiumII">
+      <head xml:id="ppra-prII-Hpriium">Principium II</head>
+      <div xml:id="ppra-prII-Dd1e105">
+        <head xml:id="ppra-prII-Hucrpsf">Utrum creatura rationalis sic ascendere possit in palmam
+          summae fecunditatis</head>
+        <p xml:id="ppra-prII-aipfsf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aipfsf"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e117">
+        <head xml:id="ppra-prII-Hqnnqnn">Quod non</head>
+        <p xml:id="ppra-prII-eanapm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eanapm"/>
+          </assertions>
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="ppra-prII-nppdba">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-nppdba"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-sppiac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sppiac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-taeeaf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-taeeaf"/>
+          </assertions>
+        </p>
+      </div>
+      <!--
+          Doesn't seem present
+          <div xml:id="ppra-prII-Dd1e159">
+          <head xml:id="ppra-prII-Hiomiom">In oppositum</head>
+          <p xml:id="ppra-prII-iotcsf">
+            In oppositum tamen arguitur humana capacitas est 
+            infinite a deo dilatabilis, ergo etc. consequentia est nota 
+            et antecedens patet per <rs>patrem meum</rs> statim allegatum 
+            <name ref="#PeterLeMaistre">dominum petrum</name>, etc., quia secunda quaestione sua 
+            posuit quod capacitas animae est infinite a deo 
+            dilatabilis, ergo infinitae capacitatis, et per consequens et 
+            capax summae fecunditatis.
+          </p> 
+        </div>-->
+      <div xml:id="ppra-prII-Dd1e174">
+        <head xml:id="ppra-prII-Hprones">Protestationes</head>
+        <p xml:id="ppra-prII-aupffc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aupffc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-pepqmp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pepqmp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-spqppe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-spqppe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e205">
+        <head xml:id="ppra-prII-Hcpppds">Contra positionem Petri de Salliente</head>
+        <p xml:id="ppra-prII-ipspgc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ipspgc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-qamtdc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qamtdc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-uqasfc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-uqasfc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-hprsem">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-hprsem"/>
+          </assertions>
+        </p>
+        <!--
+            doesn't seem present
+            <p xml:id="ppra-prII-upimdd">
+            Ulterius particularius 
+          intrabo materiam deo duce.
+          </p>-->
+      </div>
+      <div xml:id="ppra-prII-Dd1e257">
+        <head xml:id="ppra-prII-Hcppppd">Contra positionem Petri Domini</head>
+        <p xml:id="ppra-prII-ctqdba">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ctqdba"/>
+          </assertions>
+        </p>
+        <!-- review break and heading -->
+        <div xml:id="ppra-prII-Dd1e271">
+          <head xml:id="ppra-prII-Hprpppd">Prima radix positionis Petri Domini</head>
+          <p xml:id="ppra-prII-cpraee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-cpraee"/>
+            </assertions>
+          </p>
+          <!--
+              doesn't seem present 
+              <p xml:id="ppra-prII-dbqipp">
+              dico breviter quod articulus 
+              trinitatis relucet in natura sicut tenui 
+              in 
+              <cit>
+                <ref xml:id="ppra-prII-Rd1e286">primo principio</ref>
+                <bibl>XXX</bibl>
+              </cit>.
+            </p>
+            <p xml:id="ppra-prII-sdqhde">
+              Secundo dico quod non legitur 
+              pro statu praesentis naturae quod ratione culpae 
+              originalis vivacitas ingenii humani 
+              depravata est.
+            </p>-->
+          <p xml:id="ppra-prII-dtqhsp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-dtqhsp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e304">
+          <head xml:id="ppra-prII-Hsrppdd">Secunda radix positionis Petri Domini</head>
+          <p xml:id="ppra-prII-sresda">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sresda"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-dininc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-dininc"/>
+            </assertions>
+          </p>
+        </div>
+        <!-- fuzzy parallel -->
+        <div xml:id="ppra-prII-Dd1e319">
+          <head xml:id="ppra-prII-Htrppdd">Tertia radix positionis Petri Domini</head>
+          <p xml:id="ppra-prII-trssoe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-trssoe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-cneisp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-cneisp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e339">
+          <head xml:id="ppra-prII-Hqrpppd">Quarta radix positionis Petri Domini</head>
+          <p xml:id="ppra-prII-qrsnee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qrsnee"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-prII-ceqneqe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ceqneqe"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-prII-esapmc">
+              Et sic apparet quod istae rationes non 
+              procedunt multum contradictam.
+            </p> -->
+        </div>
+      </div>
+      <div xml:id="ppra-prII-Dd1e358">
+        <head xml:id="ppra-prII-dgbbee">De gradus bonitatis et entitatis</head>
+        <p xml:id="ppra-prII-pdtilo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pdtilo"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-iscsvg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-iscsvg"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e373">
+        <head xml:id="ppra-prII-Hqssfsp">Quod sum speciei humana sunt solum finitae species
+          producibiles</head>
+        <p xml:id="ppra-prII-eqspfm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eqspfm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-perppn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-perppn"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ipildi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ipildi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-irmveg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-irmveg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-earsph">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-earsph"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ssqaac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ssqaac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ifsmsc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ifsmsc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ihpiss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ihpiss"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e490">
+        <head xml:id="ppra-prII-Hqbrrie">Quod bonitas rei sit intensibilis et remissibilis in
+          esse</head>
+        <p xml:id="ppra-prII-qasbee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qasbee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-itreee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-itreee"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't seem present, but could be somehow mixed in with the above
+            <p xml:id="ppra-prII-ifmsee">
+            Item <unclear>fureo[?]</unclear> 
+            medii sunt <unclear>multiplicibiles[?]</unclear> et <unclear>diminuibiles[?]</unclear> et quilibet 
+            habet rationem boni, ergo nedum intrinseca bonitas 
+            rei est remissibilis sed etiam extrinseca.
+          </p>-->
+      </div>
+      <div xml:id="ppra-prII-Dd1e514">
+        <head xml:id="ppra-prII-Hdbcbcr">De bonitate creature rationalis</head>
+        <p xml:id="ppra-prII-nvamrb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-nvamrb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-pepsed">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pepsed"/>
+          </assertions>
+        </p>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-prII-eqiace">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eqiace"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-aemsge">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aemsge"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e572">
+        <head xml:id="ppra-prII-Hcorria">Corollaria</head>
+        <p xml:id="ppra-prII-ciapie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ciapie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-scpesp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-scpesp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-tsqtin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-tsqtin"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-qsqeqd">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qsqeqd"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-eqsvnt">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eqsvnt"/>
+          </assertions>
+        </p>
+        <!-- doesn't seem prsent 
+          <p xml:id="ppra-prII-cdqhcd">
+            Consequenter dicitur quod non stat totam huiusmodi 
+            causalitatem deperdi.
+          </p>-->
+        <p xml:id="ppra-prII-eqspde">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eqspde"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-eqsepe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eqsepe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e628">
+        <head xml:id="ppra-prII-Hccfccf">Conferendum cum fratribus</head>
+        <p xml:id="ppra-prII-acietc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-acietc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-sndeeb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sndeeb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-tdqque">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-tdqque"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-aiiaca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aiiaca"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ciaiee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ciaiee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-iriiee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-iriiee"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-sdqacm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sdqacm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ciccee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ciccee"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy break -->
+        <p xml:id="ppra-prII-idcsbf">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-idcsbf"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ciaava">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ciaava"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-aireia">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aireia"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-aeqscc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aeqscc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-aeaaie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aeaaie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-siafvo">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-siafvo"/>
+          </assertions>
+        </p>
+        <!--
+            Doesn't really seem present or is somehow included in the following paragraph
+            <p xml:id="ppra-prII-bdpnes">
+            Breviter <unclear>dio[??]</unclear> posset negari primo 
+            quia non esset sufficiens.
+          </p>-->
+        <p xml:id="ppra-prII-sqdcie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sqdcie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-sqsice">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sqsice"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-hedncp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-hedncp"/>
+          </assertions>
+        </p>
+        <!--
+            Not present or somehow included in the above
+            <p xml:id="ppra-prII-uliddc">
+            Unde 
+            licet in eodem instanti deus deacceptet 
+            actum creaturae in quo creatura peccat, nihilominus 
+            tamen creatura prius natura peccat 
+            communissime producendo actum debitum quam 
+            deus ipsam deacceptet ita quod creatura 
+            habet causalitatem priorem in deacceptationis 
+            quia se solo potest deus deacceptare creatura.
+          </p>
+          <p xml:id="ppra-prII-tdqmcm">
+            Tertio diceretur quod deacceptatio non sufficeret 
+            ad integritatem peccati, quia licet acceptatio 
+            sufficeret ad dignificationem creaturae, ideo etc. 
+            et sic apparet quod ambae conclusiones adhuc stant 
+            in veritate et quod aliorum rationes non multum 
+            militantur contra me.
+          </p>-->
+        <p xml:id="ppra-prII-ccbesi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ccbesi"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-chsqee">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-chsqee"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e780">
+        <head xml:id="ppra-prII-supnes">Suppositiones</head>
+        <p xml:id="ppra-prII-esnpss">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-esnpss"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-psesie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-psesie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-ssoces">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ssoces"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-cedcnc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-cedcnc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-eieqic">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eieqic"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-tsneip">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-tsneip"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-insede">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-insede"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-qslnml">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qslnml"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-pisnsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pisnsa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-idfcen">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-idfcen"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-iipcas">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-iipcas"/>
+          </assertions>
+        </p>
+        <!-- very fuzzy parallel -->
+        <p xml:id="ppra-prII-iippin">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-iippin"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prII-iiaepe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-iiaepe"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e859">
+        <head xml:id="ppra-prII-cesces">Conclusiones ex suppositionibus</head>
+        <!-- fuzzy parallel -->
+        <p xml:id="ppra-prII-eispei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eispei"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="ppra-prII-Dd1e880">
+        <head xml:id="ppra-prII-Hrpbipp">Rationes praefati baccalarii contra mea propositio posita
+          in primo principio</head>
+        <p xml:id="ppra-prII-eifcmm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prII-eifcmm"/>
+          </assertions>
+        </p>
+        <div xml:id="ppra-prII-Dd1e895">
+          <head xml:id="ppra-prII-Hpropro">Prima ratio</head>
+          <p xml:id="ppra-prII-prsiee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-prsiee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-hercti">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-hercti"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e922">
+          <head xml:id="ppra-prII-Hsrosro">Secunda ratio</head>
+          <p xml:id="ppra-prII-silsfp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-silsfp"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e943">
+          <head xml:id="ppra-prII-Htrotro">Tertia ratio</head>
+          <p xml:id="ppra-prII-tiaipp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-tiaipp"/>
+            </assertions>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-prII-bnamee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-bnamee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-hrdtee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-hrdtee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-ntaeds">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ntaeds"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-sdqess">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sdqess"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e990">
+          <head xml:id="ppra-prII-Hqroqro">Quarta ratio</head>
+          <p xml:id="ppra-prII-qrsiie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qrsiie"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-pdqeev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pdqeev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-sdqmle">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-sdqmle"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e1012">
+          <head xml:id="ppra-prII-Hqnoqno">Quinta ratio</head>
+          <p xml:id="ppra-prII-ursdie">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-ursdie"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem present 
+              <p xml:id="ppra-prII-dadetm">
+              Disposueram aliqua dimissa 
+              in secundo principio declarare quia propter conferendum 
+              cum patribus meis diversi et truncavi 
+              multa.
+            </p>
+            <p xml:id="ppra-prII-qeeami">
+              Quantum enim est de materiam finitis 
+              specierum corporearum quantum ad reductionem earum in 
+              corporea caelestia ista materia esset pulchrae 
+              speculationis, sed eam dimitto, ut veniam 
+              ad aliam materiam inceptam.
+            </p>-->
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prII-qedmgb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qedmgb"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-pemeed">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-pemeed"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-agbeep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-agbeep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-agbpae">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-agbpae"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-agpdso">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-agpdso"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-aegiee">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aegiee"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-aetide">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-aetide"/>
+            </assertions>
+          </p>
+        </div>
+        <div xml:id="ppra-prII-Dd1e1148">
+          <head xml:id="ppra-prII-Hudmudm">Unum dubium</head>
+          <p xml:id="ppra-prII-crucvm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-crucvm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-qahcam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qahcam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prII-qeeuge">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prII-qeeuge"/>
+            </assertions>
+          </p>
+          <!--
+              Doesn't seem prsent or is somehow included in the above
+              <p xml:id="ppra-prII-sditgb">
+              Sed de ista bonitate quae habet rationem prioritatis 
+              ad esse rei communicatur correspondenter secundum quantitatem 
+              speciei, immo <unclear>exi??re[?]</unclear> speciei habet perfectionem 
+              a tali gradu bonitatis.
+            </p>-->
+        </div>
+      </div>
+      <div xml:id="ppra-prII-Dx8zhhh">
+        <p xml:id="ppra-prII-cj8aaa">
+        </p>
+      </div>
+    </div>
+  </body>
+</info>

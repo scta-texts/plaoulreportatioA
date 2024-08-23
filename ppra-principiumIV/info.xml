@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="ppra-principiumIV">
+      <head xml:id="ppra-prIV-Hpripia">Principium IV</head>
+      <div>
+        <head xml:id="ppra-prIV-Hucaaef">Utrum Christus ascendens in palmam sufficienter pro omnibus
+          viatoribus apprehendit eius fructum</head>
+        <p xml:id="ppra-prIV-aipafe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-aipafe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-euceps">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-euceps"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hdesdes">De efficacia sacramentorum</head>
+        <p xml:id="ppra-prIV-iaeeso">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-iaeeso"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-epasie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-epasie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-srhdse">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-srhdse"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-tfapns">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tfapns"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hsupnes">Suppositiones</head>
+        <!--
+            Doesn't really seem present 
+            <p xml:id="ppra-prIV-ptpaps">
+            Pro tamen 
+            principali puncto declarando puncto suppositiones ex principio <unclear>modo[?meo[?]</unclear> 
+            alias praemisso sequentes.
+          </p>-->
+        <p xml:id="ppra-prIV-peqthc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-peqthc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ssqcep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssqcep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-stqnpc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-stqnpc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qsoqsi">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qsoqsi"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hcorria">Corollaria</head>
+        <p xml:id="ppra-prIV-eqsspp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsspp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ssqeid">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssqeid"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-eqtaai">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqtaai"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hocioci">Obiectio socii</head>
+        <p xml:id="ppra-prIV-cqavac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-cqavac"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ubsqpm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ubsqpm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-saiide">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-saiide"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-tiasna">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tiasna"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-aidein">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-aidein"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qedrel">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qedrel"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qaipac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qaipac"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hrsaarm">Responsio socii ad rationes meas</head>
+        <div>
+          <head xml:id="ppra-prIV-aprprm">Ad primam rationem meam</head>
+          <p xml:id="ppra-prIV-caraep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-caraep"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-rpnidl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-rpnidl"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prIV-snppep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-snppep"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prIV-sirdic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sirdic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-scqifb">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-scqifb"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-asrsrm">Ad secundam rationem meam</head>
+          <p xml:id="ppra-prIV-sasnps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sasnps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-irqned">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-irqned"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ehcded">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ehcded"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eqssad">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqssad"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-atrtrm">Ad tertiam rationem meam</head>
+          <p xml:id="ppra-prIV-tassiv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tassiv"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hdtedte">De transubstantione</head>
+        <p xml:id="ppra-prIV-icqeae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-icqeae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-uneqpe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-uneqpe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-seaish">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-seaish"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-iaiicc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-iaiicc"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hpdtpdt">Propositiones de transubstantione</head>
+        <p> </p>
+        <p xml:id="ppra-prIV-ppnpsa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ppnpsa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-snscnv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-snscnv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-tpbcei">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tpbcei"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-eqsnec">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsnec"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qpqccs">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qpqccs"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-spqaeh">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-spqaeh"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-spqpie">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-spqpie"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-acpspn">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-acpspn"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hdqdhcm">Dubium: quid denotatur quando dicitur <mentioned>'hoc
+            corpus meum'</mentioned></head>
+        <p xml:id="ppra-prIV-tmuecc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tmuecc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-dsiivr">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-dsiivr"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-peqpev">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-peqpev"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-avetpv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-avetpv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-scaecp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-scaecp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-reprac">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-reprac"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hcdaacs">Conclusiones de acceptatio contra socium</head>
+        <p xml:id="ppra-prIV-ciqqce">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ciqqce"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-depeci">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-depeci"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-tqdafp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tqdafp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-pqdedm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pqdedm"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-saepcg">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-saepcg"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ttbqda">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ttbqda"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qoanhe">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qoanhe"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qqfied">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qqfied"/>
+          </assertions>
+        </p>
+        <!--
+            not sure this is present 
+            <p xml:id="ppra-prIV-sqpidc">
+            Secundo quia 
+            praemium est omino impertinens ad intrinsecam dignitatem creaturae.
+          </p>-->
+        <p xml:id="ppra-prIV-ciabpp">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ciabpp"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ciqinc">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ciqinc"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-sdqneb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sdqneb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-tdqnae">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tdqnae"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-qerbiv">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qerbiv"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-teunri">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-teunri"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-srseeb">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-srseeb"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-csdnam">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-csdnam"/>
+          </assertions>
+        </p>
+        <!-- not present or possibily combined in the above
+            <p xml:id="ppra-prIV-sdaqnc">
+            Secundo divina acceptatio 
+            respectu operis meritorii concurrit prius taliter et deacceptatio posterius 
+            concurrit et habet rationem posteritis quia prius declinat a deo creatura 
+            quam deus eam deacceptet et sic consequentur apparet quod non concludit.
+          </p>-->
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hcdacas">Conclusiones de anima christi contra alius socius</head>
+        <p xml:id="ppra-prIV-aspaep">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-aspaep"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-ppceca">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ppceca"/>
+          </assertions>
+        </p>
+        <!-- new paragraph not in other edition -->
+        <p xml:id="ppra-prIV-xx77aa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-xx77aa"/>
+          </assertions>
+        </p>
+        <!--<p xml:id="ppra-prIV-saadch">
+            Secundo 
+            <ref xml:id="ppra-prIV-Rqwi33i" corresp="#prIV-Qaskv3d">
+              <name ref="#Augustine">Augustinus</name> 
+              ait in libro 
+              <title ref="#Confessions">Confessionum</title>
+            </ref> 
+            <cit>
+              <quote xml:id="ppra-prIV-Qaskv3d" source="http://scta.info/resource/aconf-l12-d1e134">
+                domine duo fecisti unum prope te 
+                et aliud prope nihil
+              </quote>
+            </cit>, 
+            nam anima separata ratione habitudinis tendentiae 
+            ad materiam non <unclear>potuerit[?]</unclear> esse persona 
+            et tamen quilibet angelus est persona. 
+            Item ipsa 
+            anima christi habet inclinationem ad corpus et est constitutiva idoe videtur esse ultima 
+            intelligentiarum et ideo dictum psalmistae et <unclear>au?m[?]</unclear> possunt <unclear>intendi[?]</unclear> de christi 
+            humanitate.
+          </p>
+          <p xml:id="ppra-prIV-eqaose">
+            Ex quibus apparet quod positio istius obviat scripturae etc.
+          </p>-->
+      </div>
+      <!-- lecture break -->
+      <div>
+        <head xml:id="ppra-prIV-Hdmscis">De mirabili situatione corporis christi in
+          sacramenti</head>
+        <p xml:id="ppra-prIV-pmqeme">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pmqeme"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-eqsdqa">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsdqa"/>
+          </assertions>
+        </p>
+        <p xml:id="ppra-prIV-sqtlch">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sqtlch"/>
+          </assertions>
+        </p>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hvaeihm">Viae ad exercitationem intellectus in hac materia</head>
+        <p xml:id="ppra-prIV-uechpm">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-uechpm"/>
+          </assertions>
+        </p>
+        <div>
+          <head xml:id="ppra-prIV-Hpvapva">Prima via</head>
+          <p xml:id="ppra-prIV-pvedsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pvedsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-stqnei">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-stqnei"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hsvasva">Secunda via</head>
+          <p xml:id="ppra-prIV-smssve">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-smssve"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-peqdlc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-peqdlc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ssqesp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssqesp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-epicvp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-epicvp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-idivaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-idivaa"/>
+            </assertions>
+          </p>
+          <!-- Doesn't seem present
+              <p xml:id="ppra-prIV-tedssc">
+              Tertio exeundo de sepulchro exivit absque apertura 
+              penetrando corpus circumstans, et sic apparet quod suppositiones 
+              sint concedendae.
+            </p>-->
+          <p xml:id="ppra-prIV-eidepe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eidepe"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ecpuai">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ecpuai"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Htvatva">Tertia via</head>
+          <p xml:id="ppra-prIV-tvevno">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tvevno"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-airepq">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-airepq"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-spaips">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-spaips"/>
+            </assertions>
+          </p>
+          <!-- reason for paragraph break unclear; reconsider break -->
+          <!--
+              Not exactly present, more like included in the above
+              <p xml:id="ppra-prIV-chtism">
+              Cum hoc tamen stat quod imago 
+              apparens in speculo apparebit maior quam sit speculum, 
+              quia imago rei maxime potest videri in speculo 
+              minimo.
+            </p>-->
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hqvaqva">Quarta via</head>
+          <p xml:id="ppra-prIV-qveiqp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qveiqp"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hqnvqnv">Quinta via</head>
+          <p xml:id="ppra-prIV-avssst">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-avssst"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-sxasxa">Sexta via</head>
+          <p xml:id="ppra-prIV-svsddm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-svsddm"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-prones">Propositiones</head>
+        <p xml:id="ppra-prIV-pdinha">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pdinha"/>
+          </assertions>
+        </p>
+        <div>
+          <head xml:id="ppra-prIV-ppoppo">Prima propositio</head>
+          <p xml:id="ppra-prIV-pqaamp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pqaamp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-spdssh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-spdssh"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eihiqp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eihiqp"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hsapsap">Secunda Propositio</head>
+          <p xml:id="ppra-prIV-splpaa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-splpaa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-pinehc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pinehc"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-tpotpo">Tertia propositio</head>
+          <p xml:id="ppra-prIV-tpserd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tpserd"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hqpoqpo">Quarta propositio</head>
+          <p xml:id="ppra-prIV-qpsphm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qpsphm"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-qnoqno">Quinta propositio</head>
+          <p xml:id="ppra-prIV-eehdam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eehdam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-citcac">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-citcac"/>
+            </assertions>
+          </p>
+          <!-- extremely fuzzy parallel; needs review -->
+          <p xml:id="ppra-prIV-nnevea">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-nnevea"/>
+            </assertions>
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-prIV-ssscvp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssscvp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-tsdnsi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tsdnsi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-bfencf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-bfencf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eiahil">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eiahil"/>
+            </assertions>
+          </p>
+        </div>
+      </div>
+      <div>
+        <head xml:id="ppra-prIV-Hncvvut">Notabilia circa viam ultimo tractam</head>
+        <div>
+          <head xml:id="ppra-prIV-Hpnmpnm">Primum notandum</head>
+          <p xml:id="ppra-prIV-cvuces">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-cvuces"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-smnsmn">Secundum notandum</head>
+          <p xml:id="ppra-prIV-snesmc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-snesmc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-aamuqh">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-aamuqh"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Htnmtnm">Tertium notandum</head>
+          <p xml:id="ppra-prIV-eiunat">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eiunat"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hqnmqnm">Quartum notandum</head>
+          <p xml:id="ppra-prIV-qaqsqc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qaqsqc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eqahra">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqahra"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hqmnqmn">Quintum notandum</head>
+          <p xml:id="ppra-prIV-qnehqr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qnehqr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eqsami">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsami"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ssnihm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssnihm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-tsaesa">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-tsaesa"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-citear">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-citear"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-sduelr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sduelr"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ttrssp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ttrssp"/>
+            </assertions>
+          </p>
+        </div>
+        <div>
+          <head xml:id="ppra-prIV-Hdiftes">Difficultates</head>
+          <p xml:id="ppra-prIV-cpmamd">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-cpmamd"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-pedepc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pedepc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-echpoi">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-echpoi"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-aepaps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-aepaps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-qstpev">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-qstpev"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-crdmpl">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-crdmpl"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ebcaia">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ebcaia"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-spisps">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-spisps"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eiviic">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eiviic"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-hdqhre">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-hdqhre"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ccsfam">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ccsfam"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eqsigc">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsigc"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-ssqevv">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-ssqevv"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-pqnnhe">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-pqnnhe"/>
+            </assertions>
+          </p>
+          <!-- fuzzy break -->
+          <p xml:id="ppra-prIV-scairn">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-scairn"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-airshr">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-airshr"/>
+            </assertions>
+          </p>
+          <!-- fuzzy paralell -->
+          <p xml:id="ppra-prIV-sciapf">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-sciapf"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-suqrdp">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-suqrdp"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-uieimm">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-uieimm"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eqsado">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eqsado"/>
+            </assertions>
+          </p>
+          <p xml:id="ppra-prIV-eehdep">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/prIV-eehdep"/>
+            </assertions>
+          </p>
+          <!--
+              not clear if present, but "dubia follow" that don't seem to have further parallels
+              <p xml:id="ppra-prIV-asdpec">
+              Aliae sunt difficultates particulares tangentes 
+              materiam quae possunt solvi ex radicibus praetactis, et cetera.
+            </p>-->
+          <!-- note there are few more sections / dubia (approximately a page and half) that don't seem to belong to a "lectio" but probably still need to find a place.-->
+
+          <!--<p>
+              <lb ed="#P"/>Dubium in serbona positum bacallario legenti sententias et est articulus parisius condempnatus 
+              <lb ed="#P"/>scilicet <quote>dicere quod anima christi non sit perfectior anima iudae <pc type="virgula">/</pc> error</quote>  et quaeritur quomodo debeat intelligi <pc type="punctus"/> Ad quod 
+              <lb ed="#P"/>respondetur quod multipliciter 
+            </p>
+            <p>
+              <pc type="pilcrow"/> Uno modo secundum illos qui ponunt quod in eadem specie unum individuum est essentialiter 
+              <lb ed="#P"/>perfectius alio intrinsece non quod illa perfectio sit maior intensive per additionem gradus ad gradum <pc type="virgula">/</pc> quia 
+              <lb ed="#P"/>in aliquibus non haberet hoc locum quoniam anima intellectiva non est intensibilis nec remissibilis eo modo nam <unclear>isbi</unclear> 
+              <lb ed="#P"/>qui sic oppinantur ponuntur latitudinem perfectionis essentialis in eadem specie  <pc type="punctus"/> quia in eadem perfectione specifica <unclear>continentur</unclear> 
+              <lb ed="#P"/>plures gradus perfectionis Et tunc in illo casu diceretur quod anima christi haberet suppremum gradum in tota 
+              <lb ed="#P"/>speciei humana 
+            </p>
+            <p>
+              <pc type="pilcrow"/> 2o dicitur aliter scilicet quod animae christi<!-\- could be crossed out-\-> cuilibet in creatione conferetur lumen naturale differenter tamen <pc type="punctus"/> nam 
+              <lb ed="#P"/>alicui intensius alteri vero remissius Et isto modo diceretur quod praeter dona gratuita suppremeus gradus luminis 
+              <lb ed="#P"/>naturalis est animae christi communicatus <pc type="punctus"/> quia novit omnia quae verbum <pc type="punctus"/> ut patet per magistrum <pc type="punctus"/>
+            </p>
+            <p>
+              <pc type="pilcrow"/> 2o aliter diceretur quod anima 
+              <lb ed="#P"/>christi secundum totam latitudinem divinae omnipotentiae est tantae perfectionis quod non potest esse maior <pc type="virgula">/</pc> non solum 
+              <lb ed="#P"/>quantum ad dona gratuita sed etiam et quantum ad causalitate activam <pc type="punctus"/> nam anima christi posset in nobilioribus 
+              <lb ed="#P"/>operationibus et actibus superioris speciei quam anima iudae
+            </p>
+            <p>
+              <pc type="virgula">/</pc> Conceditur tamen quod causalitas activa mensuratur 
+              <lb ed="#P"/>secundum decretum divinae voluntatis Et ideo quantum ad causalitatem et quantum ad omnes modos naturales anima christi perfectior anima iudae
+            </p>
+            <p>
+              <lb ed="#P"/><pc type="pilcrow"/> 4o et ultimo dicitur quod articulus ille intelligitur quantum ad habitus morales et supernaturales et ergo anima christi 
+              <lb ed="#P"/>perfectior est anima iudae simpliciter quia ipsa est in infinitum perfecta <pc type="virgula">/</pc> Tamen aliqui dicunt quod sufficit dicere quod sit melior 
+              <lb ed="#P"/>anima iudae <pc type="punctus"/> sed apparet mihi quod adhuc alia via sit melior scilicet praedicta ergo etc
+            </p>
+            <p>
+              <lb ed="#P"/><pc type="pilcrow"/>Qui multum scribi miser ac ydiota redibit
+              <lb ed="#P"/>Ad primam <unclear>mestus</unclear> de tanto tempore questus
+            </p>
+            
+            A few more sections follows
+            -->
+
+        </div>
+      </div>
+    </div>
+  </body>
+</info>

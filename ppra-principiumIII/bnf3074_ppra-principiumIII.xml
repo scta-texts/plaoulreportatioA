@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium III [Bnf 3074 Transcription]</title>
+        <author xml:id="PP">Petrus Plaoul</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium III [Bnf 3074 Transcription]</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>An SCTA Project</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="bnf3074">Bnf 3074</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>  
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="19-r"/>
+      </div>
+    </front>
+    <body>
+        <div xml:id="ppra-principiumIII">
+        <head xml:id="ppra-prIII-Hpriium">Principium III</head>
+        <div xml:id="ppra-prIII-Dd1e96">
+          <head xml:id="ppra-prIII-Huimrin">Utrum incarnationis mysterium reluceat in natura</head>
+          <p xml:id="ppra-prIII-aiprin">
+            <lb ed="#P" n="30"/>Ascendam in palmam et accipiam fructus eius canticorum 2o capitulo Ascendit christus reliquens
+            <lb ed="#P" n="31"/>vestigium caritatis impensae sumens fructum fecunditatis intensae dono succurrens
+            <lb ed="#P" n="32"/>nobis pietatis immensae <pc type="virgula">/</pc> christus est igitur vera palma unde micheae 2o statura tua <unclear>assistentia</unclear>
+            <lb ed="#P" n="33"/>palmae <pc type="pilcrow"/> Trinitatem si quid <unclear>repa?</unclear> apprehensionem prima de incarnatione 2a de ipsius flagellatione et passione 
+            <lb ed="#P" n="34"/>3a de virtutam et salutis restauratione sed cessent ista quia nihil plus habeo de hoc principio sed 
+            <lb ed="#P" n="35"/>venio ad quaestionis titulum <pc type="pilcrow"/>Utrum incarnationis misterium reluceat in natura 
+          </p>
+        </div>
+        <div xml:id="ppra-prIII-Dd1e109">
+          <head xml:id="ppra-prIII-Hrqsrqs">Rationes quod sic</head>
+          <p xml:id="ppra-prIII-eapatn">
+            <pc type="virgula">/</pc> Et probatur 
+            <lb ed="#P" n="36"/>quod sic nam articulus trinitatis relucet in natura igitur et illud consequentia tenet quia misterium trinitatis distantius est quam aliud 
+            <lb ed="#P" n="37"/>antecedens patet per <name>apostolum</name> quoniam invisibilia facta sunt visibilia vel conformiter <unclear>videtur</unclear> tangere et per consequens possunt relucere 
+            <lb ed="#P" n="38"/>in natura
+          </p>
+          <p xml:id="ppra-prIII-sssfad">
+            <pc type="pilcrow"/> 2o spirituale regimen christi quantum ad sacramenta relucet in astrorum dispositione sive consuetudine 
+            <lb ed="#P" n="39"/>et temporis praefixione igitur et incarnatio consequentia tenet antecedens est nomen ut dicunt astrologi <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-tsaatr">
+            <pc type="pilcrow"/> 3o arguitur auctoritate 
+            <lb ed="#P" n="40"/>astrologiarum et primo <name>albumazor</name> in suo <unclear>introductorio</unclear> qui omnes sectas reducit in astrorum dispositione 
+            <lb ed="#P" n="41"/>et omnes prophetias 
+          </p>
+          <p xml:id="ppra-prIII-upqvls">
+            <pc type="punctus"/> primo de saturno dicitur etiam in ovidio de vetula quod significat legem primitivam 
+            <lb ed="#P" n="42"/>scilicet iudeorum iupiter paganorum 
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-prIII-ueacaa">
+            <pc type="virgula">/</pc> venus sar? mars etiam mercurius autem legem nostram et 
+            <lb ed="#P" n="43"/>sicut in mercurio sunt multae proprietates valde mirabiles Ita in lege nostra multi articuli difficiles 
+            <lb ed="#P" n="44"/>satis ad concipiendum et credendum
+          </p>
+          <p xml:id="ppra-prIII-aieeqv">
+            Etiam huic videtur <name>iacob alkindi</name> concordare dicens 
+            <lb ed="#P" n="45"/>quod celum describit omnes effectus distincte <pc type="punctus"/> unde dicit quod si quis cognosceret effectus astrorum omnia distincte cognosceret 
+            <lb ed="#P" n="46"/>et per consequens si omnia cognosceret cum misterium incarnationis sit quid bonum et excellentissimum cognosceret ipsum
+          </p>
+        </div>
+        <div xml:id="ppra-prIII-Dd1e233">
+          <head xml:id="ppra-prIII-Haopaop">Ad oppositum</head>
+          <p xml:id="ppra-prIII-aoatnp">
+            <lb ed="#P" n="47"/><pc type="pilcrow"/> In oppositum tamen arguitur quoniam tale misterium est supernaturale igitur nullam naturalem habet habitudinem 
+            <lb ed="#P" n="48"/>ad causas tales 
+          </p>
+          <p xml:id="ppra-prIII-heceqf">
+            et hoc concederet purus philosophus ex <unclear>ypothey</unclear> et per consequens omnis rationalis 
+            <lb ed="#P" n="49"/>habet hoc dicere etiam omnis paganus conditionaliter hoc concederet quod si hoc fieret miraculose 
+            <lb ed="#P" n="50"/>fieret <pc type="punctus"/>
+          </p>
+        </div>
+        <div xml:id="ppra-prIII-Dd1e248">
+          <head xml:id="ppra-prIII-Hprones">Protestationes</head>
+          <p xml:id="ppra-prIII-eppame">
+            <pc type="pilcrow"/> Antequam tamen ulterius procedam protestor <pc type="pilcrow"/> primo non intendere fidei contradicere <pc type="punctus"/> sed quantum pro 
+            <lb ed="#P" n="51"/>exercitio <unclear>sco?co</unclear> iuvat fieri 
+          </p>
+          <p xml:id="ppra-prIII-spqsqp">
+            <pc type="pilcrow"/> 2o protestor quod dicta reverendorum patrum minorum bacallarium gratioise et reverenter 
+            <lb ed="#P" n="52"/>recitabo et ea quo ad aqua replicabo secundum mei ymaginationem 
+            <!-- possible break point -->
+            <pc type="pilcrow"/> 3o protestor si qua <unclear>dicerem</unclear> 
+            <lb ed="#P" n="53"/>non bene sonantia ea revocanda ut decebit
+          </p>
+          <p xml:id="ppra-prIII-tpqmld">
+            <pc type="pilcrow"/> <sic>4o</sic> et non intendo praeiudicare alicui in 
+            <lb ed="#P" n="54"/>aliquo quodcumque dixerim ego <pc type="punctus"/>
+            <!-- possible break point -->
+            <pc type="pilcrow"/> Istis ergo praemissis recitabo aliquas propositiones duorum bacallarum 
+            <lb ed="#P" n="55"/>Sed ante hoc ponam propositiones <unclear>quo?ni</unclear> deservientes
+          </p>
+        </div>
+        <div xml:id="ppra-prIII-Dd1e272">
+          <head xml:id="ppra-prIII-Hprotio">Propositio</head>
+          <p xml:id="ppra-prIII-ppqgdo">
+            <pc type="punctus"/> prima ergo propositio sicut deus est essentialiter finis vim 
+            <pb ed="#P" n="19-v"/>
+            <lb ed="#P" n="1"/>et causa ita et incarnationis est finis licet gratuite ordinationis
+          </p>
+          <p xml:id="ppra-prIII-ichacf">
+            prima pars propositionis satis clara nam 
+            <lb ed="#P" n="2"/>de deo dicitur ego dicit ipse sum alpha et omega id est principium et finis et <ref>primo metaphysicae</ref> et <ref>duodecimo</ref> etiam et probatur ratione
+            <lb ed="#P" n="3"/>sic nam sicut causa 2a in genere causae efficientis non potest esse causa nisi prima praevia ita nec <unclear>mihi</unclear>
+            <lb ed="#P" n="4"/>genere causae finalis modo deus est prima causa igitur etc 
+          </p>
+          <p xml:id="ppra-prIII-sppqas">
+            <pc type="virgula">/</pc> 2a pars propositionis probatur quia in hiis quae non 
+            <lb ed="#P" n="5"/>deppendent a natura <pc type="punctus"/> sufficit persuasio aliqualis <pc type="virgula">/</pc> Arguitur tamen sic primo nam inter omnia opera 
+            <lb ed="#P" n="6"/>dei maxime est ad extra igitur videtur quod sit medium et mensura omnium <pc type="virgula">/</pc> antecedens patet per augustinum 
+            <lb ed="#P" n="7"/>dicentem quod in rebus per tempus ortis maxima gratia fuit quod deus <del rend="strikethrough">fuit</del> sit homo et homo deus <pc type="punctus"/> <pc type="pilcrow"/> unde 
+            <lb ed="#P" n="8"/>gratia dei creati sumus augustinus epistola 3a ad innocentiam papam <pc type="punctus"/> Et paulus gratia dei sum id quod 
+            <lb ed="#P" n="9"/><unclear>2o</unclear> sum etiam quantum ad substantiam <pc type="pilcrow"/> Tunc secuntur aliqua correllaria materiae declarativa
+          </p>
+        </div>
+        <div xml:id="ppra-prIII-Dd1e344">
+          <head xml:id="ppra-prIII-Hcorria">Corollaria</head>
+          <p xml:id="ppra-prIII-pcqrgh">
+            <pc type="virgula">/</pc> primum est incarnatio 
+            <lb ed="#P" n="10"/>verbi non ordinata fuit primitus propter peccati medelam sed propter bonum vel in bonum simpliciter patet 
+            <lb ed="#P" n="11"/>quia consideratio totius ordinationis dei sit sub ratione boni tamquam finis medelae peccatorum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-sposdu">
+            <lb ed="#P" n="12"/><pc type="pilcrow"/> Ex quo sequitur <sic>propabilitas</sic> oppinionis <ref xml:id="ppra-prIII-Rd1e362"><name>alexandri de hallis</name></ref> videlicet quod ad finem rerum universitatis 
+            <lb ed="#P" n="13"/>factum est incarnationis misterius <pc type="virgula">/</pc> Et hoc ut omnis creatura in se vel in suo genere deo iungeretur 
+            <lb ed="#P" n="14"/>quod maxime constat factum pro naturae humanae assumptionem <pc type="virgula">/</pc> nam homo sentit cum brutis 
+            <lb ed="#P" n="15"/>vegetatur cum arboribus ratiocinat cum angelis
+          </p>
+          <p xml:id="ppra-prIII-stpqec">
+            <pc type="pilcrow"/> Ex quo sequitur 2o probabilitas dicentium quod hoc misterium 
+            <lb ed="#P" n="16"/>ad <unclear>contemplandum</unclear> honinis felicitatem est factum nam homo per hoc habet beatificationem divinam iuxta naturae suae 
+            <lb ed="#P" n="17"/>capacitate quo ad corpus post magnam resurrectionem <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-qpdpii">
+            <pc type="pilcrow"/> 3o sequitur etiam probabilitas dicentium hoc 
+            <lb ed="#P" n="18"/>misterium esse factum pura singulari et gratuita dei voluntate et dilectione ad humanam naturam 
+            <lb ed="#P" n="19"/>nam hanc speciem magis dilexit quapropter lucifer in invidia prorupit et vena mortis 
+            <lb ed="#P" n="20"/>nobis infundit unde mors in orbem terrae per ipsum intravit
+          </p> 
+            <!-- seems like this might need to be the fifth corollary -->
+          <p xml:id="ppra-prIII-eoinae">
+            <pc type="virgula">/</pc> Et omnes istae probabilitates videtur 
+            <lb ed="#P" n="21"/>contendere quod si adhuc <name>adam</name> non peccasset adhuc christus carnem humanam sumpsisset <pc type="virgula">/</pc> et hoc 
+            <lb ed="#P" n="22"/>ad ostendum suam omnipotentiam factum fuisset scilicet ad extra quae inter omnia divinam arguit immensitatem 
+            <lb ed="#P" n="23"/>scilicet quod si homo <pc type="punctus"/> Emanatio vero personarum in trinitate est ab intra <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-sspire">
+            <pc type="pilcrow"/> Ulterius sequitur hoc esse factum propter 
+            <lb ed="#P" n="24"/>divinum cultum deo exibendum Et haec causa iudicio meo sine aliis sufficeret nam sicut deus 
+            <lb ed="#P" n="25"/>est immensae perfectionis ab intra quod non potest cognosci <pc type="punctus"/> voluit quod cognosceretur ad extra quo ad opera 
+            <lb ed="#P" n="26"/>sua <pc type="punctus"/> et sic dicetur quod propter istud praedictum vel saltim pro ipso sive alio fuisset incarnationis misterium 
+            <lb ed="#P" n="27"/>mentum celebrante misterium tota trinitate <pc type="virgula">/</pc> unde christus fuit hostia oblata deo patri infinite beata et 
+            <lb ed="#P" n="28"/>multa alia et tamen hoc omnia in filio redundabant et totum cultum decuit trinitatem et in hoc consistit 
+            <lb ed="#P" n="29"/>tota influentia regiminis ecclesiae <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-csphfn">
+            <pc type="pilcrow"/> Consequenter infertur <sic>6o</sic> quod hoc sacrificium fuit in ordine et redemptione 
+            <lb ed="#P" n="30"/>totius universi
+          </p> 
+        </div>
+        <div xml:id="ppra-prIII-Dd1e452">
+          <head xml:id="ppra-prIII-Hdvgdvg">De virgine gloriosa</head>
+          <p xml:id="ppra-prIII-eqpspe">
+            <pc type="pilcrow"/> Ex quibus infertur quod virgo gloriosa ex superna dei ordinatione est <subst><del rend="strikethrough">propter</del> <add place="above-line">per</add></subst> quid tota 
+            <lb ed="#P" n="31"/>humana redeptio facta est et sic fuit pars tanti misterii ergo habuit finem omnium rerum <pc type="punctus"/> maxime 
+            <lb ed="#P" n="32"/>creaturarum <pc type="punctus"/> Et sic de ea bonae dicitur <quote>Ad initio et ante saecula creata sum</quote> ymo saecula propter eam facta
+            <lb ed="#P" n="33"/>sunt <pc type="pilcrow"/> Unde potest dici quod tota ecclesia sit propter eam
+          </p> 
+          <p xml:id="ppra-prIII-uampmm">
+            <pc type="pilcrow"/> Unde <ref xml:id="ppra-prIII-Rd1e483"><name ref="#Albert">albertus magnus</name></ref> concedit quod christus 
+            <lb ed="#P" n="34"/>sit secundum humanitatem sicut sol lucens in firmamento licet non obiective <pc type="punctus"/> sed tamen active qui radios 
+            <lb ed="#P" n="35"/>ubique terrarum infundit et virgo <unclear>maria</unclear> sit sicut luna a qua etiam peccatores <pc type="punctus"/> et maxime pii 
+            <lb ed="#P" n="36"/>recipiunt influentiam suae gratiae <pc type="pilcrow"/> Unde <name>bernardus</name> in expositione super missus est <pc type="punctus"/> Non 
+            <lb ed="#P" n="37"/>datur influxus gratiae nisi per manus mariae
+          </p>
+          <!--
+            Doesn't seem present
+            <p xml:id="ppra-prIII-suqged">
+            Sequitur ulterius quod scriptura sacra non 
+            obstante eius auctoritate ordinata est in 
+            <name ref="#Mary">virginem mariam</name> 
+            veluti in fine,
+            <unclear>ide</unclear> ipsa 
+            <name ref="#Mary">virgo gloriosa</name> 
+            est dignior.
+          </p>
+          <p xml:id="ppra-prIII-suqpps">
+            Sequitur ulterius quod ubi fides 
+            non obviat scriptura sacra debet trahi 
+            ad honorem <name ref="#Mary">virginis gloriosae</name> tamquam res in eius 
+            excellentiam et dignitatem ordinata
+          </p>-->
+          <p xml:id="ppra-prIII-av3vva">
+            <pc type="pilcrow"/> Ulterius sequitur eius infinitas mobilis scilicet ab initio etc 
+            <lb ed="#P" n="38"/>scilicet creationis eius nam deus intendens hoc incarnationis misterium habuit ad hoc respectum <pc type="virgula">/</pc> Et 
+            <lb ed="#P" n="39"/>sic licite potest dici quod in peccato originali non fuit concepta <pc type="virgula">/</pc> nam si adhuc scriptura diceret reverenter 
+            <lb ed="#P" n="40"/>glosari deberet <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-iiptpm">
+            <pc type="pilcrow"/> Item coloratur hoc sic nam peccato fuit sanctificatus in utero et 
+            <lb ed="#P" n="41"/>purgatus a peccato igitur multo magis mater christi nam templum fuit vivum <pc type="virgula">/</pc> homo scientiae vivae et verae sive 
+            <lb ed="#P" n="42"/>in <unclear>acula</unclear> et nube <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-ieqlmm">
+            <pc type="pilcrow"/> Item ex quo virgo gloriosa a veniali culpa fuit praeservata <pc type="punctus"/> videtur 
+            <lb ed="#P" n="43"/>quod fuit sine macula etc sed nihilominus habuit penalitates aliquas sicut frigus fames sitis et talia 
+            <lb ed="#P" n="44"/>ymo et christus inquantum homo sed alias intrinsecas non quam sicut habere <unclear>stininlum carminis</unclear> ymo a talibus 
+            <lb ed="#P" n="45"/>fuit optime praeservata et libera 
+          </p>
+          <p xml:id="ppra-prIII-cpiicr">
+            <pc type="pilcrow"/> Ulterius sequitur quod habuit divinum super vires inferiores maius 
+            <lb ed="#P" n="46"/>quam <name>adam</name> et plenius quoniam nullam penitus habuit rebellionem et sic non fuit in ea aliquod 
+            <lb ed="#P" n="47"/>vicium ad quantumcumque medicum effectum <pc type="punctus"/> unde statum innocentiae habuit plenarium <pc type="punctus"/>
+          </p>
+          <!-- very fuzzy parallel -->
+          <p xml:id="ppra-prIII-eqsqah">
+            Et ex hoc fundatur 
+            <lb ed="#P" n="48"/>in ea potestas regia <pc type="punctus"/> respectu universorum et ex consequenti multiplex divinum scilicet in caelo et in terra <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-cpcsdd">
+            <pc type="pilcrow"/> Ulterius 
+            <lb ed="#P" n="49"/>sequitur quod ab instanti suae conceptionis fuit plena innocentiae quantum ad gradus certos sed in <unclear>anunctione</unclear> 
+            <lb ed="#P" n="50"/>recepit maiores 
+          </p> 
+        </div>
+        <div xml:id="ppra-prIII-Dd1e612">
+          <head xml:id="ppra-prIII-qcaasi">Quod caritas animae sit infinita</head>
+          <p xml:id="ppra-prIII-ueqidr">
+            <pc type="virgula">/</pc> Unde eius <unclear>caritas</unclear> fuit infinita Quod non tenet <name>dominus bacallarius 
+            <lb ed="#P" n="51"/>petrus de salliente</name> nam dicit quod essentia animae est finia igitur et capacitas naturae humanae erit finita <pc type="punctus"/> sed tamen 
+            <lb ed="#P" n="52"/>ulterius ponit quod deus posset dilatare sed illi modi non sunt compossibiles 
+          </p>
+          <p xml:id="ppra-prIII-peqeec">
+            patet secundum radicem primam 
+            <lb ed="#P" n="53"/>stant capacitas et essentia simul modo deus non potest augere essentiam igitur nec capacitatem et per consequens 
+            <lb ed="#P" n="54"/>cum eum <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-sreicc">
+            <pc type="pilcrow"/> Item ex 2a radice si sic adhuc non potest esse denominatio essentialis 
+          </p>
+          <!--
+            Doesn't seem present
+            <p xml:id="ppra-prIII-veqiss">
+            Verum est quod in alia 
+            conclusione in secunda eius parte ponit quod absolute et simpliciter 
+            deus posset dilatare potentiam animae perceptivam 
+            modo ista duo dicta non possunt stare 
+            immo sunt minus possibilia quod probatur evidenter 
+            nam si duae primae rationes valeant ad dictum 
+            de potentiali obedientali non potest ampliare 
+            essentiam alicuius rei ergo nec capacitatis 
+            antecedens patet nam sicut des non potest augere 
+            <unclear>numerum[?]</unclear> remanente in sua specie nisi covertatur in aliud 
+            et sic non remanebit et per consequens non augmentabitur 
+            sic non potest augmentare essentiam 
+            remanente ipso in sua specie.
+          </p>-->
+          <p xml:id="ppra-prIII-iaeccs">
+            <pc type="punctus"/> et sic aliqua creatura 
+            <lb ed="#P" n="55"/>non erit finitae capacitatis non infinitae
+          </p>
+          <p xml:id="ppra-prIII-ciqqse">
+            <pc type="pilcrow"/> Consequenter infero quod sicut finis est prior causa ita effectus obiective <lb ed="#P" n="56"/><pc type="pilcrow"/> Unde volo dicere et <ref>dixi alias</ref> quod ratio bonitatis priori est in re quam res sit <pc type="punctus"/> nam concurrunt 
+            <lb ed="#P" n="57"/>ibi duae causae scilicet efficiens et finalis modo finis habet rationem prioris igitur et suus effectus <pc type="virgula">/</pc> probatur etiam ex conservatione 
+            <pb ed="#P" n="20-r"/>
+            <lb ed="#P" n="1"/>reducitur ad causam finalem 
+          </p>
+          <!-- fuzzy break point -->
+          <p xml:id="ppra-prIII-iinqvv">
+            sicut patet per <ref><name>boetium</name> in libro <title>de consolatione</title></ref> quia procedit sicut per modum circuli 
+            <lb ed="#P" n="2"/>nam sortitur conservare antequam sit scilicet ratio sua <pc type="punctus"/> sortitur Et hoc <name>sanctus thomas de aquino</name> recitat 
+            <lb ed="#P" n="3"/>quod bonum sit prius ente <pc type="punctus"/> Et etiam <name>albertus magnus</name> supra primum ethicorum et dicit quod bonum dicitur 
+            <lb ed="#P" n="4"/>a bono quod est vacuo 
+          </p> 
+          <p xml:id="ppra-prIII-uahsre">
+            Nam dicit quidam scilicet <name>augustinus</name> vocasti ea quae non sunt tamquam ea quae sunt <pc type="virgula">/</pc> unde alibi 
+            <lb ed="#P" n="5"/>ipsi dicit et facta sunt etc Et hoc est contra <name>bacallarium de domo beati bernardi</name> Et resolvit 
+            <lb ed="#P" n="6"/>se ad conceptum entis <pc type="virgula">/</pc> exclusi tamen hoc sicut alias dixi nihilominus dico sibi quod iuxta sententiam 
+            <lb ed="#P" n="7"/>philosophi in primo physicorum si consideremus secundum naturam tunc conceptus boni erit ante conceptum entis 
+            <lb ed="#P" n="8"/>Et ergo si eadem essent notiora nobis et nullae ad hoc esset prior <pc type="punctus"/>
+          </p>
+          <p xml:id="ppra-prIII-cicvea">
+            <pc type="pilcrow"/> Consequenter infertur contra <name>patrem 
+            <lb ed="#P" n="9"/>meum de domo minorum</name> videlicet de concathenatione aurea satis patet quod species se habent sicut numerus 
+            <lb ed="#P" n="10"/>cuius contrarium ponit <pc type="punctus"/> sed tamen talis modus est antiquus de concathenatione sicut <name>omerus</name> posuit 
+            <lb ed="#P" n="11"/>scilicet quod sit una confusio <pc type="virgula">/</pc> de istis sibi respondi alias <pc type="punctus"/> nam a tali convenientia potest sumi 
+            <lb ed="#P" n="12"/>aliquis conceptus etc 
+          </p> 
+          <p xml:id="ppra-prIII-eppesd">
+            <pc type="virgula">/</pc> concedit hoc et 3es suppositiones quas praemisi in alio principio super 2m 
+            <lb ed="#P" n="13"/>et per consequens si concedat videtur sequi propositum nam si quaelibet species competens inferiori <pc type="punctus"/> 
+            <lb ed="#P" n="14"/>competat et superiori
+          </p>
+          <p xml:id="ppra-prIII-eisisp">
+            <pc type="punctus"/> modo tales infinitae sunt species igitur erunt infinitae denominationes sub materia prima 
+          </p>
+          <p xml:id="ppra-prIII-eieinc">
+            et sic 
+            <lb ed="#P" n="15"/>inferretur quod materiae primae competerent <pc type="punctus"/> Negat tamen suppositionem primam scilicet quod possit huiusmodi species addere 
+            <lb ed="#P" n="16"/>aliquam denominationem perfectionis simpliciter
+          </p> 
+          <p xml:id="ppra-prIII-ebiiee">
+            sed sua responsio cum reverentia non videtur satisfacere <pc type="virgula">/</pc> nam 
+            <lb ed="#P" n="17"/>dico quod a quacumque specie potest sumi conceptus <pc type="punctus"/> sic et tamen non competet alicui inferiori igitur sequitur 
+            <lb ed="#P" n="18"/>quod huiusmodi species addit aliquid denominationis <pc type="virgula">/</pc> et sic sequitur propositum Et quod ita sit ipsemet condit 
+            <lb ed="#P" n="19"/>sed quod non inferioribus competat patet nam ponam unum agnelum tunc evidenter sequitur quod conceptus 
+            <lb ed="#P" n="20"/>communis erit superioribus et non inferioribus ergo a qualibet specie potest sumi sic conceptus competens superioribus 
+            <lb ed="#P" n="21"/>et non inferioribus
+          </p>
+          <p xml:id="ppra-prIII-iqsndp">
+            <pc type="pilcrow"/> Item quaelibet species participat essentiam divinam sicut esse vivens etc ergo quaelibet superior 
+            <lb ed="#P" n="22"/>participat alio modo quam inferior 
+          </p>
+          <p xml:id="ppra-prIII-ideeip">
+            <pc type="pilcrow"/> Item deus est infinite participat sub materia prima ergo materia prima participat 
+            <lb ed="#P" n="23"/>infinite
+          </p>
+          <p xml:id="ppra-prIII-ineqef">
+            <pc type="pilcrow"/> Item adhuc fortius arguo <pc type="punctus"/> et quaero utrum tales species se habeant per modum 
+            <lb ed="#P" n="24"/><unclear>continui</unclear> <pc type="punctus"/> vel numeri si continui sunt infinitae <unclear>communicabiles</unclear> <pc type="punctus"/>  si ad modum numerorum habetur propositum
+          </p>
+          <p xml:id="ppra-prIII-ipqrec">
+            <pc type="pilcrow"/> Item 
+            <lb ed="#P" n="25"/>fortius probo scilicet quod quaelibet addat perfectionem simpliciter et sit <c>a</c> prima et <c>b</c> super quam tunc hoc complexum <c>a</c>
+            <lb ed="#P" n="26"/>dicit perfectionem simpliciter et sic esse perfectius bruto est perfectius quam sit ipsum brutum et sic de aliis 
+            <lb ed="#P" n="27"/>procedendo igitur etc 
+          </p>
+          <p xml:id="ppra-prIII-scrtnf">
+            <pc type="pilcrow"/> Sequitur tamen quo responsalis ad quaestionem motam scilicet quod misterium incarnationis 
+            <lb ed="#P" n="28"/>verbi dei nullo modo relucet in natura 
+          </p>
+          <p xml:id="ppra-prIII-ioevde">
+            patet per rationem ante oppositum factam et etiam esset inconveniens 
+            <lb ed="#P" n="29"/>maximum hoc tenere et haec de privatio super 3m librum sententiarum die martis post <unclear>remiviscere</unclear>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
