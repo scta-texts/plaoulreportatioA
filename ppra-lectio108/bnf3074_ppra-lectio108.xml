@@ -134,38 +134,20 @@
           <p xml:id="ppra-l108-sctcao">
             <pc type="pilcrow"/> Ulterius sequitur contra <name xml:id="ppra-l108-Nd1e289" ref="#Cicero">tullium</name> et suos sequaces <unclear>dicentem</unclear> quod cum immutabilitate divinae potentiae et providentiae stat executionis contingentia 
             <lb ed="#P" n="32"/>patet quia sua copulativa eius opposita est a catholico concedenda ymmo a quolibet philosophus debite phante Et 
-            <lb ed="#P" n="33"/>de modo explicandi patebit ulterius in processu <pc type="virgula">/</pc> Ex quo etiam patet error aliquorum 
-            <lb ed="#P" n="34"/>necessitatem fati assignantium <pc type="pilcrow"/> unde dicunt aliqui quod divina providentia statuit omnia 
-            <lb ed="#P" n="35"/>sed addit quod non possunt aliter eveniri quia series causarum mutaretur Et haec vocant 
-            <lb ed="#P" n="36"/>fatum scilicet executio divinae providentiae et dicunt hunc esse immutabilem
-            
-            
-            
-            deus incommunicabiliter omnibus providet et 
-            contingenter evenit illud quod accidit, prima pars est concessa 
-            et deducta et conceditur ab omnibus.
+            <lb ed="#P" n="33"/>de modo explicandi patebit ulterius in processu 
           </p>
         </div>
         <div xml:id="ppra-l108-Dd1e295">
           <head xml:id="ppra-l108-Haeraer">Alia error</head>
           <p xml:id="ppra-l108-eqpier">
-            Ex quo patet error 
-            illorum qui ex hac radice fatum necessario assentiunt res 
-            <unclear>necessitative</unclear>. unde imaginatio aliquorum fuit quod divina providentia 
-            ab aeterno vidit et disposuit de futuris et illud eis 
-            conceditur. Sed ipsi addunt aliud quod non conceditur, scilicet, quod non 
-            stat deum aliqualiter facere quam disposuerit. primo quia ipse mutaretur 
-            ex suo consilio. secundo quia ipse eligeret peius et 
-            deordinationem universi quod est malum modo utrumque istorum 
-            ei repugnat.
+            <pc type="virgula">/</pc> Ex quo etiam patet error aliquorum 
+            <lb ed="#P" n="34"/>necessitatem fati assignantium 
           </p>
+          <!-- fuzzy parallels -->
           <p xml:id="ppra-l108-eehssm">
-            Ex ex hoc ista imaginatio infert 
-            quod series causarum et effectuum est absolute necessaria, nam 
-            vocat fatum executionem divinae providentiae, sed patet quod iste sit 
-            error, nam quamquam divina providentia sit immutabilis nihilominus 
-            cum libertatem arbitrii quidquid praevidit futurum potest non fore 
-            sine sui mutatione.
+            <pc type="pilcrow"/> unde dicunt aliqui quod divina providentia statuit omnia 
+            <lb ed="#P" n="35"/>sed addit quod non possunt aliter eveniri quia series causarum mutaretur Et haec vocant 
+            <lb ed="#P" n="36"/>fatum scilicet executio divinae providentiae et dicunt hunc esse immutabilem
           </p>
         </div>
         <div xml:id="ppra-l108-Dd1e310">
@@ -196,15 +178,13 @@
             Et haec videtur retractare <name>albertus</name> dicens quod aliqua sunt propter semen sicut cor caelestiam immutabilia quo ad aliquid
             <lb ed="#P" n="46"/>et nisi esset ex parte materiae fluitantis omnia de necessitate evenirent sed haec videtur erroneum et falsum 
             <lb ed="#P" n="47"/>dicit ipse quoniam haec tolleret libertatem primae <unclear>a</unclear> quae non potest tolli et resolvit contingentiam in aliud quam de<lb ed="#P" break="no" n="48"/>beat 
-            resolvi Et sic patet quod factam est erroneae fictum 
+            resolvi  
           </p>
         </div>
         <div xml:id="ppra-l108-Dd1e367">
           <head xml:id="ppra-l108-Hcnocno">Conclusio</head>
           <p xml:id="ppra-l108-eehede">
-            Et ex hoc apparet quod omnibus praedictis 
-            modis fatum nihil est immo oppositum ponere est imaginatio 
-            haeretica et deceptio erronea.
+            Et sic patet quod factam est erroneae fictum
           </p>
           <p xml:id="ppra-l108-netpeb">
             <pc type="pilcrow"/> Sed tamen potest capi multipliciter 
@@ -214,25 +194,53 @@
         <div xml:id="ppra-l108-Dxxxx1">
           <head xml:id="ppra-l108-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l108-xxxxx3">
-            <pc type="pilcrow"/> Secuntur conclusiones textuales supra distinctionem 28vam 3ii libri 
-            <lb ed="#P" n="50"/><!-- possibly something in the margin here -->quod est vanitates et <unclear>menda?a</unclear>
+            <pc type="pilcrow"/> Secuntur conclusiones textuales supra distinctionem 28vam 3ii libri
+            <!--
+              this is some kind of marginal note; line coord file needs to remove these lines 
+              
+              <pc type="virgula">/</pc> 2o dicitur quod per accidens potuit contingere quod ad tale quid sequitur effectus non per se sed per accidens <pc type="punctus"/> Si 
+              <lb ed="#P" n="51"/>ab aliqua tali causa contingeret loco effectus oppositi
+            </p>
+            <p xml:id="ppra-l108-xxxxx5">
+              <pc type="pilcrow"/> 3o dicitur quod <unclear>deverunt</unclear> homini exigentibus creatura aliquando illuditur a diabolo 
+              <lb ed="#P" n="52"/>ut dicit <name>salberiensis</name> tamen divina providentia ad terrorem peccatorum et revocationem ad honestatem morum consueverit facere 
+              <lb ed="#P" n="53"/>signa et per <unclear>digia</unclear> ut terreantur fideles et hoc habetur in libro <name>salberiensis</name> capitulo Xo et allegat ibi ideo sephum et 
+              <lb ed="#P" n="54"/><unclear>spant?</unclear> de hiis quae non possunt fieri per naturam ut de eclipsi <unclear>luce</unclear> per 12 noctes <pc type="punctus"/> 
+            </p>
+            <p xml:id="ppra-l108-xxxxx6">
+              <pc type="pilcrow"/>Ultimo dicitur quod textu 
+              <lb ed="#P" n="55"/>decreti condempnatur astrologia sed haec intelligitur quantum ad fabricationem ymagini et ad horas ibidem abservatas 
+              <lb ed="#P" n="56"/>et alia superstitiosa quilibet homines alios decipiunt <pc type="virgula">/</pc> Et etiam usus astralabii reprobatur quantum ad applicationem concerta 
+              <lb ed="#P" n="57"/>coniuratione non tamen condempnatur in praedicto textu scientia astrologiae quantum ad modum et iudicia de quilibet forte deo favente aliquid dicetur 
+              <lb ed="#P" n="58"/>et in hoc terminatur ista <unclear>lectio</unclear> ad quam et alias duas non fuit quia infirmus de <unclear>febri?bus</unclear> <unclear>eram</unclear> valde sed ad <unclear>subsequentes</unclear> <unclear>fi?i</unclear> deo gratias
+              
+              quod est vanitates et <unclear>menda?a</unclear>
+            </p>
+            </p>-->
+            <pb ed="#P" n="109-v"/>
+            <lb ed="#P" n="1"/>prima conclusio deus voluit homine libere vel aliter
           </p>
           <p xml:id="ppra-l108-xxxxx4">
-            <pc type="virgula">/</pc> 2o dicitur quod per accidens potuit contingere quod ad tale quid sequitur effectus non per se sed per accidens <pc type="punctus"/> Si 
-            <lb ed="#P" n="51"/>ab aliqua tali causa contingeret loco effectus oppositi
+            <pc type="pilcrow"/> 2a conclusio voluit a dyabolo creaturam suam 
+            <lb ed="#P" n="2"/>liberare scilicet merendo dona aeterna <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l108-xxxxx5">
-            <pc type="pilcrow"/> 3o dicitur quod <unclear>deverunt</unclear> homini exigentibus creatura aliquando illuditur a diabolo 
-            <lb ed="#P" n="52"/>ut dicit <name>salberiensis</name> tamen divina providentia ad terrorem peccatorum et revocationem ad honestatem morum consueverit facere 
-            <lb ed="#P" n="53"/>signa et per <unclear>digia</unclear> ut terreantur fideles et hoc habetur in libro <name>salberiensis</name> capitulo Xo et allegat ibi ideo sephum et 
-            <lb ed="#P" n="54"/><unclear>spant?</unclear> de hiis quae non possunt fieri per naturam ut de eclipsi <unclear>luce</unclear> per 12 noctes <pc type="punctus"/> 
+            <pc type="pilcrow"/> 3a conclusio homo inuste a dyabolo tenebatur iuste subitus 
+            <lb ed="#P" n="3"/>erat dyabolo licet iniuste dyabolus dominaretur supra ipsum hoc exempli gratiae patet de tyranno
           </p>
           <p xml:id="ppra-l108-xxxxx6">
-            <pc type="pilcrow"/>Ultimo dicitur quod textu 
-            <lb ed="#P" n="55"/>decreti condempnatur astrologia sed haec intelligitur quantum ad fabricationem ymagini et ad horas ibidem abservatas 
-            <lb ed="#P" n="56"/>et alia superstitiosa quilibet homines alios decipiunt <pc type="virgula">/</pc> Et etiam usus astralabii reprobatur quantum ad applicationem concerta 
-            <lb ed="#P" n="57"/>coniuratione non tamen condempnatur in praedicto textu scientia astrologiae quantum ad modum et iudicia de quilibet forte deo favente aliquid dicetur 
-            <lb ed="#P" n="58"/>et in hoc terminatur ista <unclear>lectio</unclear> ad quam et alias duas non fuit quia infirmus de <unclear>febri?bus</unclear> <unclear>eram</unclear> valde sed ad <unclear>subsequentes</unclear> <unclear>fi?i</unclear> deo gratias
+            <pc type="pilcrow"/> 4o conclusio christus 
+            <lb ed="#P" n="4"/>fuit in ara crucis hostia pro omnibus scilicet fidelibus et voluit mori pro ipsis
+          </p>
+          <p xml:id="ppra-l108-xxxxx7">
+            <pc type="pilcrow"/> 5a conclusio christus 
+            <lb ed="#P" n="5"/>traditus est a seipso a <unclear>iuda</unclear> et a <unclear>iudaeis</unclear> a seipso quia ex voluntate patris et ipsius <pc type="virgula">/</pc> a <unclear>iuda</unclear> veniendo 
+            <lb ed="#P" n="6"/>et a <unclear>iudaeis</unclear> flagellando et mortem inferendo
+          </p>
+          <p xml:id="ppra-l108-xxxxx8">
+            <pc type="pilcrow"/> 6ta conclusio potest dici quod iudaei operati sunt 
+            <lb ed="#P" n="7"/>bonum in morte christi et malum et haec respectu diversarum causarum vel effectuum <pc type="virgula">/</pc> bonum quo ad redemptionum 
+            <lb ed="#P" n="8"/>nostram malum quo ad christi innocentiam etc et hoc de lectione vigilia beatorum apostolorum philipi et ioacibi 
           </p>
         </div>
       </div>
