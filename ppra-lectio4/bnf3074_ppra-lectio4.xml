@@ -54,8 +54,8 @@
             <supplied>Fides est conformis divino iudicio: solutiones ad multas instantias</supplied>
           </head>
           <p xml:id="ppra-l4-seqtoa">
-            <lb ed="#P"/>Consequenter circa materiam praetactam ex ymaginatione dicta possunt solvi multae difficultates ad materiam fidei 
-            <lb ed="#P"/>pertinentes 
+            <lb ed="#P" n="34"/>Consequenter circa materiam praetactam ex ymaginatione dicta possunt solvi multae difficultates ad materiam fidei 
+            <lb ed="#P" n="35"/>pertinentes 
           </p>
         </div>
         <div xml:id="ppra-l4-Dd1e134">
@@ -64,8 +64,8 @@
           </head>
           <p xml:id="ppra-l4-upaneu">
             <pc type="punctus"/> prima difficultas est utrum aequali certitudiine ex fide credatur futuris contingentibus et articulo 
-            <lb ed="#P"/>necessario sicut huic resurrectio mortis erit et huic deus est <pc type="punctus"/> et videtur aliquibus quod non <pc type="virgula">/</pc> quia unum est 
-            <lb ed="#P"/>necessarium et aliud est contingens quia potest non fore <pc type="punctus"/> igitur respectu istorum non est aequalis certitudo
+            <lb ed="#P" n="36"/>necessario sicut huic resurrectio mortis erit et huic deus est <pc type="punctus"/> et videtur aliquibus quod non <pc type="virgula">/</pc> quia unum est 
+            <lb ed="#P" n="37"/>necessarium et aliud est contingens quia potest non fore <pc type="punctus"/> igitur respectu istorum non est aequalis certitudo
           </p>
         </div>
         <div xml:id="ppra-l4-Dd1e232">
@@ -74,9 +74,9 @@
           </head>
           <p xml:id="ppra-l4-beiqnv">
             <pc type="pilcrow"/> Ex dictis faciliter 
-            <lb ed="#P"/>potest solvi quoniam licet iudicium futurum possit non fore tamen assensus fidei respectu illius est tantae 
-            <lb ed="#P"/>firmitatis quod assentiendo non potest quis decipi nec amplius potest contingere error in 
-            <lb ed="#P"/>credo illud futurum <pc type="punctus"/> sicut in credendo istam deus est 
+            <lb ed="#P" n="38"/>potest solvi quoniam licet iudicium futurum possit non fore tamen assensus fidei respectu illius est tantae 
+            <lb ed="#P" n="39"/>firmitatis quod assentiendo non potest quis decipi nec amplius potest contingere error in 
+            <lb ed="#P" n="40"/>credo illud futurum <pc type="punctus"/> sicut in credendo istam deus est 
             
           </p>
           <!-- might not be present -->
@@ -96,40 +96,40 @@
             <supplied>Secunda instantia et rationes</supplied>
           </head>
           <p xml:id="ppra-l4-ptqsef">
-            <lb ed="#P"/><pc type="pilcrow"/> Sed probatur quod fides non sit tantae certitudinis sicut dicitur ymmo quod sibi possit subesse falsum <pc type="punctus"/> 
+            <lb ed="#P" n="41"/><pc type="pilcrow"/> Sed probatur quod fides non sit tantae certitudinis sicut dicitur ymmo quod sibi possit subesse falsum <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l4-pqdpem">
             <pc type="virgula">/</pc> quia 
-            <lb ed="#P"/>spei potest subesse falsum ergo et fidei <pc type="virgula">/</pc> cum species videatur tantae excellentiae sicut fides <pc type="virgula">/</pc> <del rend="strikethrough">quia nihil desit 
-              <lb ed="#P"/>hic</del> probatur antecedens de praescito existenti in gratiae qui credit habere vitam aeternam <pc type="punctus"/> licet hoc sit falsum 
-            <lb ed="#P"/>licet etiam hoc sit licitum et per hoc mereatur <pc type="pilcrow"/> Eodem modo diceretur de fide 
+            <lb ed="#P" n="42"/>spei potest subesse falsum ergo et fidei <pc type="virgula">/</pc> cum species videatur tantae excellentiae sicut fides <pc type="virgula">/</pc> <del rend="strikethrough">quia nihil desit 
+              <lb ed="#P" n="43"/>hic</del> probatur antecedens de praescito existenti in gratiae qui credit habere vitam aeternam <pc type="punctus"/> licet hoc sit falsum 
+            <lb ed="#P" n="44"/>licet etiam hoc sit licitum et per hoc mereatur <pc type="pilcrow"/> Eodem modo diceretur de fide 
           </p>
           <p xml:id="ppra-l4-cqpcrc">
             <pc type="virgula">/</pc> Et confirmatur quia in casu 
-            <lb ed="#P"/>extremae necessitatis credens recipere viaticum scilicet corpus christi recipiat hostiam non consecratam 
-            <lb ed="#P"/>ubi deffectus esset <del rend="strikethrough">sacerdos</del> petat eum sacerdos utrum credat quod sit verum christi corpus dicet sic 
-            <lb ed="#P"/>et ex fide <pc type="punctus"/>
+            <lb ed="#P" n="45"/>extremae necessitatis credens recipere viaticum scilicet corpus christi recipiat hostiam non consecratam 
+            <lb ed="#P" n="46"/>ubi deffectus esset <del rend="strikethrough">sacerdos</del> petat eum sacerdos utrum credat quod sit verum christi corpus dicet sic 
+            <lb ed="#P" n="47"/>et ex fide <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l4-tcaiaf">
             <pc type="pilcrow"/> Item capiatur etiam quod aliquis ex habitu fidei exierit in actum respectu istius verbum 
-            <lb ed="#P"/>incarnabitur et continuetur ille actus <pc type="virgula">/</pc> in isto casu tunc credet falsum in instanti post incarnationem
-            <lb ed="#P"/>vel de facto nunc <pc type="punctus"/> quia iam incarnatum ergo fidei potest subesse falsum et de facto subest sic credendo <pc type="pilcrow"/> Item 
-            <lb ed="#P"/>iste aliquando assensit huic christus incarnabitur modo consequens est falsum et hoc ex fide <pc type="punctus"/> 
+            <lb ed="#P" n="48"/>incarnabitur et continuetur ille actus <pc type="virgula">/</pc> in isto casu tunc credet falsum in instanti post incarnationem
+            <lb ed="#P" n="49"/>vel de facto nunc <pc type="punctus"/> quia iam incarnatum ergo fidei potest subesse falsum et de facto subest sic credendo <pc type="pilcrow"/> Item 
+            <lb ed="#P" n="50"/>iste aliquando assensit huic christus incarnabitur modo consequens est falsum et hoc ex fide <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l4-qdaeam">
             <pc type="pilcrow"/> Etiam ab hac 
-            <lb ed="#P"/>credidit falsum et tamen sibi repraesentatum est ad iustitiam unde credidit filium suum esse immolandum 
-            <lb ed="#P"/>et hoc fuit falsum
+            <lb ed="#P" n="51"/>credidit falsum et tamen sibi repraesentatum est ad iustitiam unde credidit filium suum esse immolandum 
+            <lb ed="#P" n="52"/>et hoc fuit falsum
           </p>
           <p xml:id="ppra-l4-qaacep">
             <pc type="pilcrow"/> Item spiritus sanctus potest concurrere active ad assensum falsum ergo fides cum non sit 
-            <lb ed="#P"/>maioris bonitatis et ergo si spiritus sanctus propter hoc <pc type="punctus"/> et etiam fides <pc type="punctus"/> antecedens patet <pc type="virgula">/</pc> quia nihil producitur quin 3ae 
-            <lb ed="#P"/>personae divinae concurrant
+            <lb ed="#P" n="53"/>maioris bonitatis et ergo si spiritus sanctus propter hoc <pc type="punctus"/> et etiam fides <pc type="punctus"/> antecedens patet <pc type="virgula">/</pc> quia nihil producitur quin 3ae 
+            <lb ed="#P" n="54"/>personae divinae concurrant
           </p>
           <p xml:id="ppra-l4-ssffee">
             <pc type="pilcrow"/>Item fides est in potentia obedientali ad cuiuscumque effectus productionem 
-            <lb ed="#P"/>secundum quod deus voluerit eam assumere <pc type="punctus"/> ergo potest assumere fidem in genere causae efficientis respectu 
-            <lb ed="#P"/>assensus falsi <pc type="punctus"/>
+            <lb ed="#P" n="55"/>secundum quod deus voluerit eam assumere <pc type="punctus"/> ergo potest assumere fidem in genere causae efficientis respectu 
+            <lb ed="#P" n="56"/>assensus falsi <pc type="punctus"/>
           </p>
         </div>
         <div xml:id="ppra-l4-Dd1e702">
@@ -149,49 +149,50 @@
           <p xml:id="ppra-l4-ucdnmh">
             <pc type="pilcrow"/> Unde dixi quod actus fide libere producitur a voluntate <pc type="virgula">/</pc> Et <ref xml:id="ppra-l4-Rd1e733"><name ref="#Holcot">holcot</name></ref> tenet oppositum
             <pb ed="#P" n="29-r"/>
-            <lb ed="#P"/>et quod intellectus non credit nisi necessitatus et ad hoc facit rationes <pc type="punctus"/> verum est tamen quod excludit 
-            <lb ed="#P"/>habitum fidei <pc type="punctus"/> quia non esset difficultas utrum habituatus possit exire libere in actum <pc type="punctus"/> sed 
-            <lb ed="#P"/>videtur cum reverentia sua <pc type="punctus"/> quod male incipiat quia nullus ponit quod actus fidei eliciatur sic libere 
-            <lb ed="#P"/>eo quod actus fidei est supernaturalis et etiam habitus est supernaturalis 
+            <lb ed="#P" n="1"/>et quod intellectus non credit nisi necessitatus et ad hoc facit rationes <pc type="punctus"/> verum est tamen quod excludit 
+            <lb ed="#P" n="2"/>habitum fidei <pc type="punctus"/> quia non esset difficultas utrum habituatus possit exire libere in actum <pc type="punctus"/> sed 
+            <lb ed="#P" n="3"/>videtur cum reverentia sua <pc type="punctus"/> quod male incipiat quia nullus ponit quod actus fidei eliciatur sic libere 
+            <lb ed="#P" n="4"/>eo quod actus fidei est supernaturalis et etiam habitus est supernaturalis 
           </p>
           <p xml:id="ppra-l4-nchqhi">
             <pc type="punctus"/> tamen creatura habet aliquam 
-            <lb ed="#P"/>praeviam dispositionem in sua potestate <pc type="punctus"/> <unclear>contra</unclear> posita ponuntur habitus et actus <pc type="punctus"/> in baptismus 
-            <lb ed="#P"/>est magna difficultas exire in actum <pc type="punctus"/> in tantum quia se solo non sufficit in actum credibilem ut 
-            <lb ed="#P"/>quod aliquis baptizatus <sic>nuttriatur</sic> cum sarracenis <pc type="virgula">/</pc> tunc si post <unclear>praesentetur</unclear> articuli fidei non credet 
-            <lb ed="#P"/>Et tunc si quaeratur quae differentia est inter istum et illum qui non habet habitu <pc type="punctus"/> fidei dicitur quod differentia est 
-            <lb ed="#P"/>quia iste qui habet habitum cicius disponitur ad habendum actum quam alter cum minori 
+            <lb ed="#P" n="5"/>praeviam dispositionem in sua potestate <pc type="punctus"/> qua posita ponuntur habitus et actus supernaturales 
+            <lb ed="#P" n="6"/>Et sic iste non vadit ad <unclear>difficultatem</unclear> quia stante habitu solo qualis infunditur in baptismus 
+            <lb ed="#P" n="7"/>est magna difficultas exire in actum <pc type="punctus"/> in tantum quia se solo non sufficit in actum credibilem ut 
+            <lb ed="#P" n="8"/>quod aliquis baptizatus <sic>nuttriatur</sic> cum sarracenis <pc type="virgula">/</pc> tunc si post <unclear>praesentetur</unclear> articuli fidei non credet 
+            <lb ed="#P" n="9"/>Et tunc si quaeratur quae differentia est inter istum et illum qui non habet habitu <pc type="punctus"/> fidei dicitur quod differentia est 
+            <lb ed="#P" n="10"/>quia iste qui habet habitum cicius disponitur ad habendum actum quam alter cum minori 
           </p>
           <p xml:id="ppra-l4-idfeip">
             etiam 
-            <lb ed="#P"/>diligentia facta post quam habet usum rationis est meritoria et illa disponit ad habendum actum et 
-            <lb ed="#P"/>intenditur caritas in eo <pc type="punctus"/> et talis intensio caritatis confertur ad actus et sic actus 
-            <lb ed="#P"/>cicius et facilius producuntur ab isto habentem habitam quam ab alio
+            <lb ed="#P" n="11"/>diligentia facta post quam habet usum rationis est meritoria et illa disponit ad habendum actum et 
+            <lb ed="#P" n="12"/>intenditur caritas in eo <pc type="punctus"/> et talis intensio caritatis confertur ad actus et sic actus 
+            <lb ed="#P" n="13"/>cicius et facilius producuntur ab isto habentem habitam quam ab alio
           </p>
           <p xml:id="ppra-l4-iupvat">
             <pc type="pilcrow"/> Istis tamen positis quantumcumque sit habitus 
-            <lb ed="#P"/>et caritas posset faciliter et libere exire in actum credendi <pc type="punctus"/> Et vere hoc est magnae difficultatis 
-            <lb ed="#P"/>et in hoc decipiuntur aliquando homines <pc type="virgula">/</pc> quia inducunt quandoque actum propter rationem qui non est tantum 
-            <lb ed="#P"/>meritorius <pc type="pilcrow"/> Etiam actus fidei est tantae virtutis quod per hoc summae boni odiunt malum 
-            <lb ed="#P"/>et diligunt bonum et si <!-- something above line ?? --> crederent quod essent tanta bona post istam vitam non sic facerent 
-            <lb ed="#P"/>sicut faciunt Ideo <ref xml:id="ppra-l4-Rdiapap" target="http://scta.info/resource/Itim6_10">apostolus</ref> multi propter avaritiam apostataverunt a fide <pc type="punctus"/> <pc type="pilcrow"/> Ideo quantum est 
-            <lb ed="#P"/>de rationibus <name>holcot</name> dicitur quod videtur quod arguunt de habitu fidei generato per rationes qui non est 
-            <lb ed="#P"/>verus habitus fidei 
+            <lb ed="#P" n="14"/>et caritas posset faciliter et libere exire in actum credendi <pc type="punctus"/> Et vere hoc est magnae difficultatis 
+            <lb ed="#P" n="15"/>et in hoc decipiuntur aliquando homines <pc type="virgula">/</pc> quia inducunt quandoque actum propter rationem qui non est tantum 
+            <lb ed="#P" n="16"/>meritorius <pc type="pilcrow"/> Etiam actus fidei est tantae virtutis quod per hoc summae boni odiunt malum 
+            <lb ed="#P" n="17"/>et diligunt bonum et si <!-- something above line ?? --> crederent quod essent tanta bona post istam vitam non sic facerent 
+            <lb ed="#P" n="18"/>sicut faciunt Ideo <ref xml:id="ppra-l4-Rdiapap" target="http://scta.info/resource/Itim6_10">apostolus</ref> multi propter avaritiam apostataverunt a fide <pc type="punctus"/> <pc type="pilcrow"/> Ideo quantum est 
+            <lb ed="#P" n="19"/>de rationibus <name>holcot</name> dicitur quod videtur quod arguunt de habitu fidei generato per rationes qui non est 
+            <lb ed="#P" n="20"/>verus habitus fidei 
           </p>
         </div>
         <div xml:id="ppra-l4-Dd1e1048">
           <head xml:id="ppra-l4-Hrdhrdh">Rationes de Holcot</head>
           <p xml:id="ppra-l4-otrree">
             <pc type="punctus"/> Oportet tamen respondere ad rationes suas <pc type="punctus"/> unde dicit non est in potestate 
-            <lb ed="#P"/>nostra oppinari sine motivo nec in potestate nostra credere proximi dubie <pc type="virgula">/</pc> ut datis duabus propositionibus 
-            <lb ed="#P"/>inevidentibus ego non possum vel tamen assentire magis evidenti ergo nec minori sed est maxima
-            <lb ed="#P"/>inevidentia articulis fidei ergo non possumus assentire 
+            <lb ed="#P" n="21"/>nostra oppinari sine motivo nec in potestate nostra credere proximi dubie <pc type="virgula">/</pc> ut datis duabus propositionibus 
+            <lb ed="#P" n="22"/>inevidentibus ego non possum vel tamen assentire magis evidenti ergo nec minori sed est maxima
+            <lb ed="#P" n="23"/>inevidentia articulis fidei ergo non possumus assentire 
           </p>
           <p xml:id="ppra-l4-iqtvvf">
             <pc type="pilcrow"/> Etiam si esset in potestate nostra tunc 
-            <lb ed="#P"/>nos possemus causare tantum assensum quantum nobis placeret <pc type="punctus"/> et sic videtur quod intellectus non 
-            <lb ed="#P"/>posset assentire alicui propositioni nisi per rationes praedictas modo non est in potestate voluntatis quod aliqua propositio 
-            <lb ed="#P"/>appareat vera sic se sola <pc type="punctus"/>
+            <lb ed="#P" n="24"/>nos possemus causare tantum assensum quantum nobis placeret <pc type="punctus"/> et sic videtur quod intellectus non 
+            <lb ed="#P" n="25"/>posset assentire alicui propositioni nisi per rationes praedictas modo non est in potestate voluntatis quod aliqua propositio 
+            <lb ed="#P" n="26"/>appareat vera sic se sola <pc type="punctus"/>
           </p>
         </div>
         <div xml:id="ppra-l4-Dd1e1245">
@@ -200,36 +201,36 @@
           </head>
           <p xml:id="ppra-l4-aehrma">
             <pc type="pilcrow"/> Notandum est tamen quod lata est differentia inter propositiones indifferentes quantum 
-            <lb ed="#P"/>ad finem hominis consideratas <pc type="punctus"/> et inter alias quae habent ordinem ad sui finis consecutionem 
-            <lb ed="#P"/>verbi gratia ut de ista res sedet vel non hoc inpertinens est ad salutem <pc type="virgula">/</pc> sed utrum bene fecit 
-            <lb ed="#P"/>vel sic recognoscere bona sibi facta <pc type="punctus"/> est de salutis necessitate unde natura dedit homini quod appeteret 
-            <lb ed="#P"/>civiliter conversari <pc type="punctus"/> ut eius indigentia relevetur 
+            <lb ed="#P" n="27"/>ad finem hominis consideratas <pc type="punctus"/> et inter alias quae habent ordinem ad sui finis consecutionem 
+            <lb ed="#P" n="28"/>verbi gratia ut de ista res sedet vel non hoc inpertinens est ad salutem <pc type="virgula">/</pc> sed utrum bene fecit 
+            <lb ed="#P" n="29"/>vel sic recognoscere bona sibi facta <pc type="punctus"/> est de salutis necessitate unde natura dedit homini quod appeteret 
+            <lb ed="#P" n="30"/>civiliter conversari <pc type="punctus"/> ut eius indigentia relevetur 
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l4-iiasei">
             <pc type="pilcrow"/> Alii sunt instinctus Et de hoc habetur <unclear>pulchrum</unclear>
-            <lb ed="#P"/>exemplum in <ref xml:id="ppra-l4-Rd1e1516"><name>macrobio </name></ref> <sic>ubit</sic> dicit unus quod <unclear>prioriata</unclear> sompnia sunt contempnenda et sompnia principium 
-            <lb ed="#P"/>sunt significativa et occurrunt sibi propter necessitatem regiminis Ideo <name>guillelmus parisiensis</name> et <name>de lyra</name> dicunt quod ad 
-            <lb ed="#P"/>personas <unclear>pu?tis</unclear> consue?runt aliquando fieri revelationes Cum ergo provisio naturae sit in rebus 
-            <lb ed="#P"/>politicis a fortiori erit in gratuitis cum non magis in illo deffiniat Ideo <pc type="punctus"/> deus et natura 
-            <lb ed="#P"/>fecerunt ista Ita quod deus dedit creaturae instinctum quod deus <pc type="punctus"/> <pc type="virgula">/</pc> tamen aliquando non percipit propter 
-            <lb ed="#P"/>animae <unclear>tenebro?tem</unclear> et in hoc fundatur ydolatria <pc type="virgula">/</pc> quoniam ratio debilis est in illo instinctu creaturam 
-            <lb ed="#P"/>in cultu hominis sumpserunt <pc type="punctus"/> <pc type="pilcrow"/> Unde deus multipliciter regit et astitit creaturae ad civiliter <pc type="punctus"/>  
-            <lb ed="#P"/>conversandum ad credendum non solum quo ad unum <pc type="punctus"/> sed quod ad omnes
+            <lb ed="#P" n="31"/>exemplum in <ref xml:id="ppra-l4-Rd1e1516"><name>macrobio </name></ref> <sic>ubit</sic> dicit unus quod <unclear>prioriata</unclear> sompnia sunt contempnenda et sompnia principium 
+            <lb ed="#P" n="32"/>sunt significativa et occurrunt sibi propter necessitatem regiminis Ideo <name>guillelmus parisiensis</name> et <name>de lyra</name> dicunt quod ad 
+            <lb ed="#P" n="33"/>personas <unclear>pu?tis</unclear> consue?runt aliquando fieri revelationes Cum ergo provisio naturae sit in rebus 
+            <lb ed="#P" n="34"/>politicis a fortiori erit in gratuitis cum non magis in illo deffiniat Ideo <pc type="punctus"/> deus et natura 
+            <lb ed="#P" n="35"/>fecerunt ista Ita quod deus dedit creaturae instinctum quod deus <pc type="punctus"/> <pc type="virgula">/</pc> tamen aliquando non percipit propter 
+            <lb ed="#P" n="36"/>animae <unclear>tenebro?tem</unclear> et in hoc fundatur ydolatria <pc type="virgula">/</pc> quoniam ratio debilis est in illo instinctu creaturam 
+            <lb ed="#P" n="37"/>in cultu hominis sumpserunt <pc type="punctus"/> <pc type="pilcrow"/> Unde deus multipliciter regit et astitit creaturae ad civiliter <pc type="punctus"/>  
+            <lb ed="#P" n="38"/>conversandum ad credendum non solum quo ad unum <pc type="punctus"/> sed quod ad omnes
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l4-epheda">
             <pc type="punctus"/> et sic patet solutio eorum quae 
-            <lb ed="#P"/>tangit <name ref="#Holcot">holcot</name> <pc type="punctus"/> Cum dicitur quod non posset etc si dicatur de illis quae habent ordinem ad suum finem 
-            <lb ed="#P"/>dicitur quod illi sunt speciales motivitates et quod ibi sunt specialiter angeli assistentes <pc type="virgula">/</pc> sed nostri <unclear>teneb?otem</unclear> 
-            <lb ed="#P"/>non capimus hoc <pc type="punctus"/> Et cum dicitur quod non possumus assentire magis evidenti etc negatur consequentia quia 
-            <lb ed="#P"/>habemus ibi specialem instinctum 
+            <lb ed="#P" n="39"/>tangit <name ref="#Holcot">holcot</name> <pc type="punctus"/> Cum dicitur quod non posset etc si dicatur de illis quae habent ordinem ad suum finem 
+            <lb ed="#P" n="40"/>dicitur quod illi sunt speciales motivitates et quod ibi sunt specialiter angeli assistentes <pc type="virgula">/</pc> sed nostri <unclear>teneb?otem</unclear> 
+            <lb ed="#P" n="41"/>non capimus hoc <pc type="punctus"/> Et cum dicitur quod non possumus assentire magis evidenti etc negatur consequentia quia 
+            <lb ed="#P" n="42"/>habemus ibi specialem instinctum 
           </p>
           <p xml:id="ppra-l4-eaease">
             <pc type="virgula">/</pc> Etiam fides non movetur propter apparentiam obiecti <pc type="punctus"/> ideo oppinio ipsius 
-            <lb ed="#P"/><name>holcot</name> <pc type="punctus"/> est de fide proveniente ab obiecto vel ratione <pc type="punctus"/> Et si dicatur quod oportet obiectum intellectus esse 
-            <lb ed="#P"/>apparens <pc type="punctus"/> <pc type="virgula">/</pc> verum est <pc type="virgula">/</pc> sic quod notitia per quam apparet sit quoddam verum <pc type="virgula">/</pc> et istud non habet ab obiecto <pc type="punctus"/> et 
-            <lb ed="#P"/>ideo videtur quod <name>holcot</name> defecerit <pc type="punctus"/>
+            <lb ed="#P" n="43"/><name>holcot</name> <pc type="punctus"/> est de fide proveniente ab obiecto vel ratione <pc type="punctus"/> Et si dicatur quod oportet obiectum intellectus esse 
+            <lb ed="#P" n="44"/>apparens <pc type="punctus"/> <pc type="virgula">/</pc> verum est <pc type="virgula">/</pc> sic quod notitia per quam apparet sit quoddam verum <pc type="virgula">/</pc> et istud non habet ab obiecto <pc type="punctus"/> et 
+            <lb ed="#P" n="45"/>ideo videtur quod <name>holcot</name> defecerit <pc type="punctus"/>
           </p>
         </div>
       </div>

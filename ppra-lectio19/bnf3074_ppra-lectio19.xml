@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,8 +15,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -27,8 +25,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a diplomatic edition. </p>
@@ -56,26 +53,26 @@
             <supplied>Recapitulatio de primis tres principiis nostrae theologiae</supplied>
           </head>
           <p xml:id="ppra-l19-seqilp">
-            <lb ed="#P"/>Consequenter circa materiam putabam ulterius procedere de principiis <unclear>adhuc</unclear> materia theologiae sed non 
-            <lb ed="#P"/>possum 
+            <lb ed="#P" n="29"/>Consequenter circa materiam putabam ulterius procedere de principiis <unclear>adhuc</unclear> materia theologiae sed non 
+            <lb ed="#P" n="30"/>possum 
           </p>
           <p xml:id="ppra-l19-isqnic">
             Ideo advertendum est quod omnia principia vel conclusiones affirmantes perfectionem divinae essentiae consequenter 
-            <lb ed="#P"/>necessario ad deum esse tamquam sequentes quia ex quid nominis dei sequitur quod in eo est omnis perfectio Ideo 
-            <lb ed="#P"/>omnis propositio particularis exprimens 2as nobilitates est conclusio respectu illius sicut habere immensam potentiam 
-            <lb ed="#P"/>contra divinae liberam et quod potest facere quicquid non implicat contradictionem 
+            <lb ed="#P" n="31"/>necessario ad deum esse tamquam sequentes quia ex quid nominis dei sequitur quod in eo est omnis perfectio Ideo 
+            <lb ed="#P" n="32"/>omnis propositio particularis exprimens 2as nobilitates est conclusio respectu illius sicut habere immensam potentiam 
+            <lb ed="#P" n="33"/>contra divinae liberam et quod potest facere quicquid non implicat contradictionem 
           </p>
           <p xml:id="ppra-l19-seirsl">
             <pc type="virgula">/</pc> Ex quo sequitur 
-            <lb ed="#P"/>multae conclusiones <pc type="virgula">/</pc> et sequitur ipsum esse sapientissimum et clementissimum et sic de talibus perfectionibus <pc type="virgula">/</pc> sed de istis 
-            <lb ed="#P"/>videbitur locis suis 
+            <lb ed="#P" n="34"/>multae conclusiones <pc type="virgula">/</pc> et sequitur ipsum esse sapientissimum et clementissimum et sic de talibus perfectionibus <pc type="virgula">/</pc> sed de istis 
+            <lb ed="#P" n="35"/>videbitur locis suis 
           </p>
           <p xml:id="ppra-l19-eceesp">
             <pc type="virgula">/</pc> ymmo ex illo principio sequitur quod deus est summe providentiae et ad ista duo 
-            <lb ed="#P"/>principia reducuntur vel secuntur aliae conclusiones quia sub 2o secuntur omnia opera <unclear>misericordiae</unclear> quae fecit pro nobis scilicet 
-            <lb ed="#P"/>sub articulo divinae providentiae <pc type="virgula">/</pc> et ergo ad ista duo principia reducuntur omnia alia principia et haec secundum doctrinam 
-            <lb ed="#P"/>apostoli ad hebraeos 11o <pc type="virgula">/</pc> <quote xml:id="ppra-l19-Qaadqre" source="http://scta.info/resource/hebr11_6">accedentem ad deum oportet credere quod deus est <pc type="punctus"/> et quod remunerator et quod providet 
-              <lb ed="#P"/>de salute sufficienter</quote>
+            <lb ed="#P" n="36"/>principia reducuntur vel secuntur aliae conclusiones quia sub 2o secuntur omnia opera <unclear>misericordiae</unclear> quae fecit pro nobis scilicet 
+            <lb ed="#P" n="37"/>sub articulo divinae providentiae <pc type="virgula">/</pc> et ergo ad ista duo principia reducuntur omnia alia principia et haec secundum doctrinam 
+            <lb ed="#P" n="38"/>apostoli ad hebraeos 11o <pc type="virgula">/</pc> <quote xml:id="ppra-l19-Qaadqre" source="http://scta.info/resource/hebr11_6">accedentem ad deum oportet credere quod deus est <pc type="punctus"/> et quod remunerator et quod providet 
+              <lb ed="#P" n="39"/>de salute sufficienter</quote>
           </p>
         </div>
         <div xml:id="ppra-l19-Dd1e375">
@@ -85,18 +82,18 @@
             </supplied>
           </head>
           <p xml:id="ppra-l19-aeqtpd">
-            <lb ed="#P"/>Ulterius advertendum est quod volentibus procedere theologice duo praecepta 
-            <lb ed="#P"/>directiva sunt observanda <pc type="virgula">/</pc> licet non sint principia 
+            <lb ed="#P" n="40"/>Ulterius advertendum est quod volentibus procedere theologice duo praecepta 
+            <lb ed="#P" n="41"/>directiva sunt observanda <pc type="virgula">/</pc> licet non sint principia 
           </p>
           <p xml:id="ppra-l19-peqsms">
             <pc type="pilcrow"/> primum est quod praemittit <ref xml:id="ppra-l19-Rd1e441"><name ref="#Boethius">boethius</name> in libro suo <title ref="#deTrinitateBoethius">de 
-            <lb ed="#P"/>trinitate</title></ref> scilicet quod eruditi hominis est loqui secundum materiam subiectam et est etiam <name>aristotelis</name>
+            <lb ed="#P" n="42"/>trinitate</title></ref> scilicet quod eruditi hominis est loqui secundum materiam subiectam et est etiam <name>aristotelis</name>
           </p>
           <p xml:id="ppra-l19-apecic">
             <pc type="virgula">//</pc> Aliud est quoddam est directivum 
-            <lb ed="#P"/>scilicet debilitas humani ingenii <pc type="punctus"/> Unde <ref xml:id="ppra-l19-Rd1e535"><name ref="#Paul">apostolus</name></ref> quod <quote xml:id="ppra-l19-Qd1e543" source="http://scta.info/resource/IIcor3_5">nihil est nobis tamquam ex nobis</quote> <pc type="pilcrow"/> Unde si consi<lb ed="#P"/>deretur 
+            <lb ed="#P" n="43"/>scilicet debilitas humani ingenii <pc type="punctus"/> Unde <ref xml:id="ppra-l19-Rd1e535"><name ref="#Paul">apostolus</name></ref> quod <quote xml:id="ppra-l19-Qd1e543" source="http://scta.info/resource/IIcor3_5">nihil est nobis tamquam ex nobis</quote> <pc type="pilcrow"/> Unde si consi<lb ed="#P" n="44"/>deretur 
             habitudo creaturae ad deum secundum <ref xml:id="ppra-l19-Rd1e581"><name>lynconiensem</name></ref> deus se habet ad creaturam sicut sigillum ad ceram 
-            <lb ed="#P"/>Et <ref xml:id="ppra-l19-Rd1e606"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> dicit quod creatura non habet esse nisi extrinsece scilicet a deo <pc type="punctus"/> Et sic differt esse ab essentia <pc type="punctus"/> 
+            <lb ed="#P" n="45"/>Et <ref xml:id="ppra-l19-Rd1e606"><name ref="#WilliamOfParis">guillelmus parisiensis</name></ref> dicit quod creatura non habet esse nisi extrinsece scilicet a deo <pc type="punctus"/> Et sic differt esse ab essentia <pc type="punctus"/> 
           </p>
         </div>
         <div xml:id="ppra-l19-Dd1e618">
@@ -104,9 +101,9 @@
             <supplied>Quartum principium theologiae</supplied>
           </head>
           <p xml:id="ppra-l19-appese">
-            <lb ed="#P"/><pc type="pilcrow"/> Ad principium quod deus est ultima regula et prima ad quam resolvitur omne bonum esse iustum <pc type="punctus"/> esse decens <pc type="punctus"/> etc 
-            <lb ed="#P"/>et ista regula videtur esse magnae utilitatis ut videtur <pc type="virgula">/</pc> prius tactum ergo quod omnis veritas a deo est <unclear>exe?ta</unclear> 
-            <lb ed="#P"/>etiam omnis bonitas sit deo conformis et sic de aliis perfectionibus
+            <lb ed="#P" n="46"/><pc type="pilcrow"/> Ad principium quod deus est ultima regula et prima ad quam resolvitur omne bonum esse iustum <pc type="punctus"/> esse decens <pc type="punctus"/> etc 
+            <lb ed="#P" n="47"/>et ista regula videtur esse magnae utilitatis ut videtur <pc type="virgula">/</pc> prius tactum ergo quod omnis veritas a deo est <unclear>exe?ta</unclear> 
+            <lb ed="#P" n="48"/>etiam omnis bonitas sit deo conformis et sic de aliis perfectionibus
           </p>
           <div xml:id="ppra-l19-Dd1e767">
             <head xml:id="ppra-l19-Hceqsri">
@@ -116,11 +113,11 @@
             </head>
             <p xml:id="ppra-l19-eqsivr">
               <pc type="pilcrow"/> Ex quo patet quod iudicium humanum 
-              <lb ed="#P"/>non est sufficiens regula rectitudinis
+              <lb ed="#P" n="49"/>non est sufficiens regula rectitudinis
             </p>
             <p xml:id="ppra-l19-uaqaur">
               <pc type="pilcrow"/> Unde advertendum est quod <name ref="#Aristotle">philosophus</name> libro <title ref="#Ethics">ethicorum</title> resolvit <sic>ditamen</sic> 
-              <lb ed="#P"/>actuum ad ditamen rationis tamquam regula tamen non est ultima regula ut videtur 
+              <lb ed="#P" n="50"/>actuum ad ditamen rationis tamquam regula tamen non est ultima regula ut videtur 
             </p>
             <!--Doesn't seem present
               <p xml:id="ppra-l19-iaemeh">
@@ -131,60 +128,60 @@
             </p>--> 
             <p xml:id="ppra-l19-eqseoh">
               <pc type="virgula">/</pc> unde sequitur quod deus non 
-              <lb ed="#P"/>vult sic fore quia boni est fieri sed viceversa <pc type="punctus"/> quia vult sic fieri ideo bonum est ita quod non a parte 
-              <lb ed="#P"/><unclear>olii</unclear> oritur determinatus <unclear>diem</unclear> voluntatis ad hoc quod sic regat 
+              <lb ed="#P" n="51"/>vult sic fore quia boni est fieri sed viceversa <pc type="punctus"/> quia vult sic fieri ideo bonum est ita quod non a parte 
+              <lb ed="#P" n="52"/><unclear>olii</unclear> oritur determinatus <unclear>diem</unclear> voluntatis ad hoc quod sic regat 
             </p>
             <p xml:id="ppra-l19-eqsosb">
               <pc type="virgula">/</pc> Quia ex hoc deus vult ordinari quia 
-              <lb ed="#P"/>bonum sed quia vult bonum est <pc type="virgula">/</pc> et sic prout esse bonum quod omnes dyaboli salvantur et beati dampnantur <pc type="virgula">/</pc> Et licet prima 
-              <lb ed="#P"/>facie videatur esse contra dei pietatem tamen istud quantum est de se non est bonum vel malum nisi in ordine ad deum 
+              <lb ed="#P" n="53"/>bonum sed quia vult bonum est <pc type="virgula">/</pc> et sic prout esse bonum quod omnes dyaboli salvantur et beati dampnantur <pc type="virgula">/</pc> Et licet prima 
+              <lb ed="#P" n="54"/>facie videatur esse contra dei pietatem tamen istud quantum est de se non est bonum vel malum nisi in ordine ad deum 
               <pb ed="#P" n="42-r"/>
-              <lb ed="#P"/>et quia vellet bonum esset <pc type="punctus"/> non tamen cum <unclear>connotatione</unclear> quod sit bonus quia sic esse non est primarie bonum <pc type="punctus"/> sed quia 
-              <lb ed="#P"/>deus vult a quo <pc type="punctus"/> capit originem boni <pc type="punctus"/>
+              <lb ed="#P" n="1"/>et quia vellet bonum esset <pc type="punctus"/> non tamen cum <unclear>connotatione</unclear> quod sit bonus quia sic esse non est primarie bonum <pc type="punctus"/> sed quia 
+              <lb ed="#P" n="2"/>deus vult a quo <pc type="punctus"/> capit originem boni <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l19-eqsdgt">
               <pc type="pilcrow"/> Et sic sequitur quod non est standum iudicio humano circa 
-              <lb ed="#P"/>materiam reprobationis illorum qui nihil mali egerunt sicut de esau <pc type="punctus"/> antequam aliquid egissent <name>iacob</name> 
-              <lb ed="#P"/>dilexi <name>esau</name> 6o odio habui 
+              <lb ed="#P" n="3"/>materiam reprobationis illorum qui nihil mali egerunt sicut de esau <pc type="punctus"/> antequam aliquid egissent <name>iacob</name> 
+              <lb ed="#P" n="4"/>dilexi <name>esau</name> 6o odio habui 
             </p>
             <!-- fuzzy break and parallel -->
             <p xml:id="ppra-l19-epeepf">
               <!-- possible break point -->
               <pc type="punctus"/> Et sic secundum iudicium humanum videretur esse acceptio personarum 
-              <lb ed="#P"/>nec deus praedestinavit propter bonum futurum vel praescivit propter malum futurum per ipsum <pc type="punctus"/> sed etiam 
-              <lb ed="#P"/>Et in tali casu non debet se resolvere ad conclusionem apparentiam quia humana ratio non est iudicium 
-              <lb ed="#P"/>sufficiens
+              <lb ed="#P" n="5"/>nec deus praedestinavit propter bonum futurum vel praescivit propter malum futurum per ipsum <pc type="punctus"/> sed etiam 
+              <lb ed="#P" n="6"/>Et in tali casu non debet se resolvere ad conclusionem apparentiam quia humana ratio non est iudicium 
+              <lb ed="#P" n="7"/>sufficiens
               <!-- break point -->
               <pc type="pilcrow"/> Item non est <seg type="correction">returrdum</seg> de concursu perpetuo ad humanum iudicium quia prima facie 
-              <lb ed="#P"/>diceret quis quod non esset sufficiens minima 
+              <lb ed="#P" n="8"/>diceret quis quod non esset sufficiens minima 
             </p>
             <!-- fuzzy parallel -->
             <p xml:id="ppra-l19-ienomf">
               <pc type="virgula">/</pc> Ideo in deffectione animae ubi anima iudicaret quod non 
-              <lb ed="#P"/>esset equitas sicut de infectione animae <unclear>in p?vo</unclear> suae creationis quia est culpabilis et dampnabilis si decedat 
-              <lb ed="#P"/>in hoc non bene iudicaret ratio sibi derelicta quia tota resolutio est quod bonum est quia deus vult <pc type="punctus"/> Et sic 
-              <lb ed="#P"/>regula nostra sibi derelicta fallit <pc type="punctus"/>
+              <lb ed="#P" n="9"/>esset equitas sicut de infectione animae <unclear>in p?vo</unclear> suae creationis quia est culpabilis et dampnabilis si decedat 
+              <lb ed="#P" n="10"/>in hoc non bene iudicaret ratio sibi derelicta quia tota resolutio est quod bonum est quia deus vult <pc type="punctus"/> Et sic 
+              <lb ed="#P" n="11"/>regula nostra sibi derelicta fallit <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l19-eqsbov">
               <pc type="virgula">/</pc> Et ex hoc sumpsit origines radicem sui erroris <pc type="punctus"/> quia stetit 
-              <lb ed="#P"/>in iudicio humano <pc type="punctus"/> sic videtur durum secundum rationem aliquem perpetuo <unclear>cru?ri</unclear> sine redemptione et secundum <unclear>ia?nem</unclear> 
-              <lb ed="#P"/>istud videtur <unclear>impie?le</unclear> sed istud <unclear>evi?tur</unclear> quia non est standum iudicio humano <pc type="virgula">/</pc> quia tota radix boni et 
-              <lb ed="#P"/>rectitudinis sumit <name>originem</name> quia ita vult deus <pc type="punctus"/> <pc type="virgula">/</pc> et quia ita vult <unclear>sanctum</unclear> est Et istud est 
-              <lb ed="#P"/>optimum considerata ingenii nostri debilitate
+              <lb ed="#P" n="12"/>in iudicio humano <pc type="punctus"/> sic videtur durum secundum rationem aliquem perpetuo <unclear>cru?ri</unclear> sine redemptione et secundum <unclear>ia?nem</unclear> 
+              <lb ed="#P" n="13"/>istud videtur <unclear>impie?le</unclear> sed istud <unclear>evi?tur</unclear> quia non est standum iudicio humano <pc type="virgula">/</pc> quia tota radix boni et 
+              <lb ed="#P" n="14"/>rectitudinis sumit <name>originem</name> quia ita vult deus <pc type="punctus"/> <pc type="virgula">/</pc> et quia ita vult <unclear>sanctum</unclear> est Et istud est 
+              <lb ed="#P" n="15"/>optimum considerata ingenii nostri debilitate
             </p>
             <p xml:id="ppra-l19-eqsdes">
               <pc type="pilcrow"/> Ex quo patet quod pro <sic>sattisfactione</sic> iudicii humani homines 
-              <lb ed="#P"/>instruendi sunt de sua falsa ymaginatione et praesumptione nec sunt talia eis solvenda <pc type="punctus"/> sed declaranda 
-              <lb ed="#P"/>ut pateat praesumptio eorum quia radix materiae quam resolvit iudicio humano non est resolvenda 
-              <lb ed="#P"/>et sic haec non est faciendum ultimate sed debet sufficere quod resolvat se in hoc quia quia vult ita est ita 
-              <lb ed="#P"/>bonum est et ista est fontalis regulam
+              <lb ed="#P" n="16"/>instruendi sunt de sua falsa ymaginatione et praesumptione nec sunt talia eis solvenda <pc type="punctus"/> sed declaranda 
+              <lb ed="#P" n="17"/>ut pateat praesumptio eorum quia radix materiae quam resolvit iudicio humano non est resolvenda 
+              <lb ed="#P" n="18"/>et sic haec non est faciendum ultimate sed debet sufficere quod resolvat se in hoc quia quia vult ita est ita 
+              <lb ed="#P" n="19"/>bonum est et ista est fontalis regulam
             </p>
             <p xml:id="ppra-l19-eqslln">
               <pc type="pilcrow"/> Ex quo patet quod <del rend="strikethrough">quilibet</del> quicumque <unclear>capet</unclear> divinam providentiam 
-              <lb ed="#P"/>iudicaret omnia fieri optime quia deffectus iudicii in resolvendo contra divinam iustitiam arguendo est propter ingorantiam 
-              <lb ed="#P"/>divini consilii <pc type="virgula">/</pc> unde aliqua sunt quae fiunt iudicio humano et divino <del rend="strikethrough">licet occulto</del> ut beneficia aliqua 
-              <lb ed="#P"/>quae fiunt iudicio divino licet occulto <pc type="punctus"/> et in talibus non resolvamus nos in iudicium humani sicut est istud 
-              <lb ed="#P"/>quod boni deprimuntur et mali elevantur <pc type="virgula">/</pc> et hoc facit deus propter bonum licet finis nos <unclear>lateat</unclear>
+              <lb ed="#P" n="20"/>iudicaret omnia fieri optime quia deffectus iudicii in resolvendo contra divinam iustitiam arguendo est propter ingorantiam 
+              <lb ed="#P" n="21"/>divini consilii <pc type="virgula">/</pc> unde aliqua sunt quae fiunt iudicio humano et divino <del rend="strikethrough">licet occulto</del> ut beneficia aliqua 
+              <lb ed="#P" n="22"/>quae fiunt iudicio divino licet occulto <pc type="punctus"/> et in talibus non resolvamus nos in iudicium humani sicut est istud 
+              <lb ed="#P" n="23"/>quod boni deprimuntur et mali elevantur <pc type="virgula">/</pc> et hoc facit deus propter bonum licet finis nos <unclear>lateat</unclear>
             </p>
           </div>
         </div>
@@ -194,8 +191,8 @@
           </head>
           <p xml:id="ppra-l19-appipo">
             <pc type="pilcrow"/> Aliud potest poni principium generale quod aliquis ponit obicem gratiam dei consequenter <unclear>du?us</unclear> <unclear>sit</unclear> 
-            <lb ed="#P"/>in statu usus rationis <pc type="punctus"/> et in statu viae et per hoc salvatur de multae dampnatarum quia deus vult 
-            <lb ed="#P"/>omnes homines salvos fieri licet multi teneant aliam legem tamen hoc stat per eos
+            <lb ed="#P" n="24"/>in statu usus rationis <pc type="punctus"/> et in statu viae et per hoc salvatur de multae dampnatarum quia deus vult 
+            <lb ed="#P" n="25"/>omnes homines salvos fieri licet multi teneant aliam legem tamen hoc stat per eos
           </p>
         </div>
         <div xml:id="ppra-l19-Dd1e1598">
@@ -204,18 +201,18 @@
           </head>
           <p xml:id="ppra-l19-apdssc">
             <pc type="pilcrow"/> Aliud 
-            <lb ed="#P"/>principium credendum est doctoribus approbantis in hiis quae tangunt sacrae fidei expositione et fidem catholicam 
-            <lb ed="#P"/>ubi sibi non contradicunt <pc type="punctus"/> et etiam nisi materia sit pure speculativa probatur hoc et proficiet probandum 
-            <lb ed="#P"/>quod credendum est quod in expositione sacrae scripturae <pc type="punctus"/> ex alio scripturae dicto vel declaratione eliciunt ergo eis est 
-            <lb ed="#P"/>credendum
+            <lb ed="#P" n="26"/>principium credendum est doctoribus approbantis in hiis quae tangunt sacrae fidei expositione et fidem catholicam 
+            <lb ed="#P" n="27"/>ubi sibi non contradicunt <pc type="punctus"/> et etiam nisi materia sit pure speculativa probatur hoc et proficiet probandum 
+            <lb ed="#P" n="28"/>quod credendum est quod in expositione sacrae scripturae <pc type="punctus"/> ex alio scripturae dicto vel declaratione eliciunt ergo eis est 
+            <lb ed="#P" n="29"/>credendum
             <pc type="pilcrow"/> Item propter laborem circa sacrae scripturae expositionem nam ipsi fuerunt tamquam artifices 
-            <lb ed="#P"/>nos tamquam opifices sive <unclear>discipuli</unclear> et oportet adiscentem credere considerata bonitate dicentium <pc type="punctus"/>
-            <lb ed="#P"/><pc type="pilcrow"/> Ubi tamen materiam esset speculativa non esset eis credendum nisi in quantum rationes probat <pc type="virgula">/</pc> et hoc dicit <name>augustinus</name>
-            <lb ed="#P"/>in quadam epistola quam scripsit ad <name>ieromium</name> ubi dicit quod solum in sacris est credendum et suis credendum 
-            <lb ed="#P"/>quantum sacrae scripturae sonat vel rationi
+            <lb ed="#P" n="30"/>nos tamquam opifices sive <unclear>discipuli</unclear> et oportet adiscentem credere considerata bonitate dicentium <pc type="punctus"/>
+            <lb ed="#P" n="31"/><pc type="pilcrow"/> Ubi tamen materiam esset speculativa non esset eis credendum nisi in quantum rationes probat <pc type="virgula">/</pc> et hoc dicit <name>augustinus</name>
+            <lb ed="#P" n="32"/>in quadam epistola quam scripsit ad <name>ieromium</name> ubi dicit quod solum in sacris est credendum et suis credendum 
+            <lb ed="#P" n="33"/>quantum sacrae scripturae sonat vel rationi
             <pc type="pilcrow"/> Ubi est advertendum quod doctores sacri licet sint approbanti 
-            <lb ed="#P"/>non tamen omnia eorum dicta sunt approbata nec oportet quia omnia sua dicta non sunt catholica quia falsum non est 
-            <lb ed="#P"/>catholicum et saepe contradicit
+            <lb ed="#P" n="34"/>non tamen omnia eorum dicta sunt approbata nec oportet quia omnia sua dicta non sunt catholica quia falsum non est 
+            <lb ed="#P" n="35"/>catholicum et saepe contradicit
           </p>
         </div>
         <div xml:id="ppra-l19-Dd1e1864">
@@ -224,47 +221,47 @@
           </head>
           <p xml:id="ppra-l19-apqudi">
             <pc type="pilcrow"/> Aliud principium ponitur quod scribentibus non habentibus fidem 
-            <lb ed="#P"/>non est credendum nec eorum auctoribus est adhaerendum nisi haec appareat fidei consonum <pc type="virgula">/</pc> vel per 
-            <lb ed="#P"/>doctores sacros sit approbatum <pc type="virgula">/</pc> vel consonet rationi <pc type="punctus"/>
+            <lb ed="#P" n="36"/>non est credendum nec eorum auctoribus est adhaerendum nisi haec appareat fidei consonum <pc type="virgula">/</pc> vel per 
+            <lb ed="#P" n="37"/>doctores sacros sit approbatum <pc type="virgula">/</pc> vel consonet rationi <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l19-eiclsc">
             <pc type="pilcrow"/> Ideo circa haec <name>ieronimus</name> in quadam epistola 
-            <lb ed="#P"/>loquitur de muliere captiva de qua in <unclear>utero?</unclear> <pc type="virgula">/</pc> <quote>mulier talis radatur et scindantur ungues</quote> et 
-            <lb ed="#P"/>post ea imbat <pc type="punctus"/> <pc type="virgula">/</pc> per talem mulierem intelligit paganarum scriptura <pc type="virgula">/</pc> quaedam mundari per fidem vel quia 
-            <lb ed="#P"/>sic sunt usi doctores <pc type="virgula">/</pc> et tunc tales <pc type="virgula">/</pc> veritates potest fidellis allegare <pc type="punctus"/> nam paulus 
-            <lb ed="#P"/>apostolus ait  <pc type="pilcrow"/> <quote>bonos mores corrumpunt eloqui prava</quote> sed hoc est quia non fuerunt illi in 
-            <lb ed="#P"/>caritate et sic malos fines constituerunt <pc type="virgula">/</pc> Ideo propter superbia fixerunt haereses et de talibus sunt 
-            <lb ed="#P"/><unclear>extra</unclear> multa <pc type="punctus"/> unde <name>augustinus</name> in libro de civitate die recitat quod quidam sacerdos tradidit epistolam 
-            <lb ed="#P"/>quam misit <unclear>ob?dam</unclear> <name><unclear>magistri</unclear> alexandri</name> de <unclear>diuturnitate</unclear> regni ubi erat quod quasi erat innumeralis numerus 
-            <lb ed="#P"/>temporis et consimile fecerunt aliqui <pc type="virgula">/</pc> et talibus non est credendum quia hoc ad extollendum statum 
-            <lb ed="#P"/>suum fecerunt 
+            <lb ed="#P" n="38"/>loquitur de muliere captiva de qua in <unclear>utero?</unclear> <pc type="virgula">/</pc> <quote>mulier talis radatur et scindantur ungues</quote> et 
+            <lb ed="#P" n="39"/>post ea imbat <pc type="punctus"/> <pc type="virgula">/</pc> per talem mulierem intelligit paganarum scriptura <pc type="virgula">/</pc> quaedam mundari per fidem vel quia 
+            <lb ed="#P" n="40"/>sic sunt usi doctores <pc type="virgula">/</pc> et tunc tales <pc type="virgula">/</pc> veritates potest fidellis allegare <pc type="punctus"/> nam paulus 
+            <lb ed="#P" n="41"/>apostolus ait  <pc type="pilcrow"/> <quote>bonos mores corrumpunt eloqui prava</quote> sed hoc est quia non fuerunt illi in 
+            <lb ed="#P" n="42"/>caritate et sic malos fines constituerunt <pc type="virgula">/</pc> Ideo propter superbia fixerunt haereses et de talibus sunt 
+            <lb ed="#P" n="43"/><unclear>extra</unclear> multa <pc type="punctus"/> unde <name>augustinus</name> in libro de civitate die recitat quod quidam sacerdos tradidit epistolam 
+            <lb ed="#P" n="44"/>quam misit <unclear>ob?dam</unclear> <name><unclear>magistri</unclear> alexandri</name> de <unclear>diuturnitate</unclear> regni ubi erat quod quasi erat innumeralis numerus 
+            <lb ed="#P" n="45"/>temporis et consimile fecerunt aliqui <pc type="virgula">/</pc> et talibus non est credendum quia hoc ad extollendum statum 
+            <lb ed="#P" n="46"/>suum fecerunt 
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l19-ieapvm">
             <pc type="virgula">/</pc> Et <name>solinus</name> dicit quod infinita praecesserunt saecula et <name>albumazar</name> similiter quibus 
-            <lb ed="#P"/>esset credendum nisi fuissent mali homines <pc type="punctus"/> sed non abhorrebat mentiri propter mundanas 
-            <lb ed="#P"/>varietates in quibus fixa erant eorum corda <pc type="virgula">/</pc> et pro certo multi sunt nunc tales <pc type="pilcrow"/> de <name>solinus</name>
-            <lb ed="#P"/>autem dicitur quod praesumptose fecit unde dicit quod mercurius et sol erant in figuris oppositis et hoc est falsum 
-            <lb ed="#P"/>quia sunt valde proprie <pc type="punctus"/> et sic locutus est contra principia astrologica Et ita verisimile est de aliis multis <pc type="pilcrow"/>
+            <lb ed="#P" n="47"/>esset credendum nisi fuissent mali homines <pc type="punctus"/> sed non abhorrebat mentiri propter mundanas 
+            <lb ed="#P" n="48"/>varietates in quibus fixa erant eorum corda <pc type="virgula">/</pc> et pro certo multi sunt nunc tales <pc type="pilcrow"/> de <name>solinus</name>
+            <lb ed="#P" n="49"/>autem dicitur quod praesumptose fecit unde dicit quod mercurius et sol erant in figuris oppositis et hoc est falsum 
+            <lb ed="#P" n="50"/>quia sunt valde proprie <pc type="punctus"/> et sic locutus est contra principia astrologica Et ita verisimile est de aliis multis <pc type="pilcrow"/>
           </p>
           <p xml:id="ppra-l19-aeesde">
-            <lb ed="#P"/><pc type="pilcrow"/> Aliud exemplum in libro de proprietatibus rerum habetur quod quidam deceptus ponit quod cauda et draco sunt 
-            <lb ed="#P"/>duae stellae quod falsum est <pc type="punctus"/> et illud in talibus fides non est adhibendae <pc type="pilcrow"/> Etiam <name>albumazar</name> ut 
-            <lb ed="#P"/>dicit hali in commenta <unclear>quadripertiti</unclear> quod replevit liberos suos de mendaciis <pc type="virgula">/</pc> Et <name>augustinus</name> de 
-            <lb ed="#P"/>sacerdote prae dicto qui scripsit <unclear>nucia</unclear> <del rend="strikethrough">egiptorum</del> regnorum et ponit numerum annorum secundum graecum
-            <pb ed="#P" n="42-r"/>
-            <lb ed="#P"/>qui consonat <unclear>numero</unclear> nostro et tamen numerus <unclear>ficticius</unclear> erat
+            <lb ed="#P" n="51"/><pc type="pilcrow"/> Aliud exemplum in libro de proprietatibus rerum habetur quod quidam deceptus ponit quod cauda et draco sunt 
+            <lb ed="#P" n="52"/>duae stellae quod falsum est <pc type="punctus"/> et illud in talibus fides non est adhibendae <pc type="pilcrow"/> Etiam <name>albumazar</name> ut 
+            <lb ed="#P" n="53"/>dicit hali in commenta <unclear>quadripertiti</unclear> quod replevit liberos suos de mendaciis <pc type="virgula">/</pc> Et <name>augustinus</name> de 
+            <lb ed="#P" n="54"/>sacerdote prae dicto qui scripsit <unclear>nucia</unclear> <del rend="strikethrough">egiptorum</del> regnorum et ponit numerum annorum secundum graecum
+            <pb ed="#P" n="42-v"/>
+            <lb ed="#P" n="1"/>qui consonat <unclear>numero</unclear> nostro et tamen numerus <unclear>ficticius</unclear> erat
           </p>
           <p xml:id="ppra-l19-tqeeit">
             <pc type="pilcrow"/> Unde tales non adhorrent vicia 
-            <lb ed="#P"/>ideo de tempore quod fluxit non est credendum quia suspecti de mendacio 
+            <lb ed="#P" n="2"/>ideo de tempore quod fluxit non est credendum quia suspecti de mendacio 
             <pc type="punctus"/> Etiam quia illud est 
-            <lb ed="#P"/>ignotum et scriptura sacra nota est ideo talia dicta sunt reppellenda et dicta scripturae sacrae capienda
+            <lb ed="#P" n="3"/>ignotum et scriptura sacra nota est ideo talia dicta sunt reppellenda et dicta scripturae sacrae capienda
             <!-- possible break point -->
-            <lb ed="#P"/><pc type="pilcrow"/> Et si dicatur quod similiter diceretur de <name>aristotele</name> dicitur quod non immo pluries videtur fidei consonare 
-            <lb ed="#P"/>ubi tamen contra dicit reppellitur et abradicatur secundum quod est de aeternitate mundi quia non consonat 
-            <lb ed="#P"/>fidei et <unclear>residium</unclear> est capiendum Et si vixit ut in scriptis ostendit verissimile est quod bene vixit 
-            <lb ed="#P"/>et licet erraverit ita fecerunt doctores acri
+            <lb ed="#P" n="4"/><pc type="pilcrow"/> Et si dicatur quod similiter diceretur de <name>aristotele</name> dicitur quod non immo pluries videtur fidei consonare 
+            <lb ed="#P" n="5"/>ubi tamen contra dicit reppellitur et abradicatur secundum quod est de aeternitate mundi quia non consonat 
+            <lb ed="#P" n="6"/>fidei et <unclear>residium</unclear> est capiendum Et si vixit ut in scriptis ostendit verissimile est quod bene vixit 
+            <lb ed="#P" n="7"/>et licet erraverit ita fecerunt doctores acri
           </p>
         </div>
         <div xml:id="ppra-l19-Dd1e2509">
@@ -279,21 +276,21 @@
           <!-- fuzzy break and parallel -->
           <p xml:id="ppra-l19-vepshi">
             <pc type="punctus"/> sed 
-            <lb ed="#P"/>descendam ad materiam distinctionum fidei videlicet <pc type="punctus"/> quod ipsa fides non subicitur humano iudicio 
+            <lb ed="#P" n="8"/>descendam ad materiam distinctionum fidei videlicet <pc type="punctus"/> quod ipsa fides non subicitur humano iudicio 
           </p>
           <!-- fuzzy break and parallel -->
           <p xml:id="ppra-l19-sdfaef">
             <pc type="punctus"/> et quod humana 
-            <lb ed="#P"/>investigatio est tamquam serva <pc type="virgula">/</pc> quae sunt duae scilicet perfecte obedire domino et nihil facere sine domino 
-            <lb ed="#P"/>quia homo non sufficit ex se <pc type="virgula">/</pc> Ideo propter excellentiam auctoritatem fidei <add place="above-line"><unclear>ut</unclear></add> fides quae participat in utroque 
-            <lb ed="#P"/>Ideo theologia instituitur ad curandum humanam investigationem et dabitur sibi audientia et 
-            <lb ed="#P"/>respondebit et curabit errores 
+            <lb ed="#P" n="9"/>investigatio est tamquam serva <pc type="virgula">/</pc> quae sunt duae scilicet perfecte obedire domino et nihil facere sine domino 
+            <lb ed="#P" n="10"/>quia homo non sufficit ex se <pc type="virgula">/</pc> Ideo propter excellentiam auctoritatem fidei <add place="above-line"><unclear>ut</unclear></add> fides quae participat in utroque 
+            <lb ed="#P" n="11"/>Ideo theologia instituitur ad curandum humanam investigationem et dabitur sibi audientia et 
+            <lb ed="#P" n="12"/>respondebit et curabit errores 
           </p>
           <p xml:id="ppra-l19-epince">
             et incipiam deo duce quomodo humana investigatio 
-            <lb ed="#P"/>adducet quod non est <unclear>du?us</unclear> et <unclear>protogorem</unclear> dubitatem et <unclear>abius</unclear> ponentem deum corporalem
-            <lb ed="#P"/>deinde arguetur testibus scripturae quod deum nemo vidit unquam et quod deus est lumen in accessibile 
-            <lb ed="#P"/>et quod deus non potest cognosci et intrabitur materia de notitiis <pc type="punctus"/>
+            <lb ed="#P" n="13"/>adducet quod non est <unclear>du?us</unclear> et <unclear>protogorem</unclear> dubitatem et <unclear>abius</unclear> ponentem deum corporalem
+            <lb ed="#P" n="14"/>deinde arguetur testibus scripturae quod deum nemo vidit unquam et quod deus est lumen in accessibile 
+            <lb ed="#P" n="15"/>et quod deus non potest cognosci et intrabitur materia de notitiis <pc type="punctus"/>
           </p>
         </div>
       </div>

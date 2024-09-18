@@ -43,7 +43,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="32-v"/> 
+        <pb ed="#P" n="33-v"/> 
       </div>
     </front>
     <body>
@@ -52,34 +52,34 @@
         <div xml:id="ppra-l9-Dd1e3491">
           <head xml:id="ppra-l9-Hrlprlp">[Recapitulatio lectionis praecedentis]</head>
           <p xml:id="ppra-l9-seqcpt">
-            <lb ed="#P"/>Consequenter circa materiam praetactam de generis humani infirmitate quia aliqua exempla fuere posita 
-            <lb ed="#P"/>de quantitate continua quae non omnino sunt satis declarata scilicet quod nos non habemus aliquod medium 
-            <lb ed="#P"/>concludendi de re quanta sit praecise quia quacumque quantitate data ipsa est notat per aliam <pc type="virgula">/</pc> et alia per alia  
-            <lb ed="#P"/>et ut dictum fuit adaequata proportio non potest nobis esse nobis nota quia licet non percipiatur excessus 
-            <lb ed="#P"/>forte quod est nec quantitas potest esse sumitur nota quia staret quod eadem quantitas apparet continue crescere 
-            <lb ed="#P"/>et tamen non sic Etiam continue decrescere et maneret in eadem Etiam staret quod augeretur 
-            <lb ed="#P"/>ad <unclear>millesimum</unclear> et <unclear>indicatur</unclear> eiusdem quantitatis Et hoc sic declaratur unde sit aliqua quantitas sorti <unclear>nota</unclear> 
-            <lb ed="#P"/>et ponatur quod aliae quantitates continue crescant illa remanante in sua quantitate et lateat hoc sorti <pc type="virgula">/</pc> illa res <unclear>ma?es</unclear> 
-            <lb ed="#P"/>eadem <unclear>az?bit</unclear> continue di?i quia ex quo aliae res servabunt eandem proportionem inter se et quia illa continue 
-            <lb ed="#P"/>comparatur ad alias ideo iudicatur continue diminui et sic posset apparere in infinitum minor et tamen remanet
-            <lb ed="#P"/>in eadem quantitate 
+            <lb ed="#P" n="33"/>Consequenter circa materiam praetactam de generis humani infirmitate quia aliqua exempla fuere posita 
+            <lb ed="#P" n="34"/>de quantitate continua quae non omnino sunt satis declarata scilicet quod nos non habemus aliquod medium 
+            <lb ed="#P" n="35"/>concludendi de re quanta sit praecise quia quacumque quantitate data ipsa est notat per aliam <pc type="virgula">/</pc> et alia per alia  
+            <lb ed="#P" n="36"/>et ut dictum fuit adaequata proportio non potest nobis esse nobis nota quia licet non percipiatur excessus 
+            <lb ed="#P" n="37"/>forte quod est nec quantitas potest esse sumitur nota quia staret quod eadem quantitas apparet continue crescere 
+            <lb ed="#P" n="38"/>et tamen non sic Etiam continue decrescere et maneret in eadem Etiam staret quod augeretur 
+            <lb ed="#P" n="39"/>ad <unclear>millesimum</unclear> et <unclear>indicatur</unclear> eiusdem quantitatis Et hoc sic declaratur unde sit aliqua quantitas sorti <unclear>nota</unclear> 
+            <lb ed="#P" n="40"/>et ponatur quod aliae quantitates continue crescant illa remanante in sua quantitate et lateat hoc sorti <pc type="virgula">/</pc> illa res <unclear>ma?es</unclear> 
+            <lb ed="#P" n="41"/>eadem <unclear>az?bit</unclear> continue di?i quia ex quo aliae res servabunt eandem proportionem inter se et quia illa continue 
+            <lb ed="#P" n="42"/>comparatur ad alias ideo iudicatur continue diminui et sic posset apparere in infinitum minor et tamen remanet
+            <lb ed="#P" n="43"/>in eadem quantitate 
             <!-- possible break point -->
             <pc type="pilcrow"/> Eodem modo proportionaliter de augmento eius si aliae res augeantur quod iudicatur maior quia 
-            <lb ed="#P"/>servabunt eandem proportionem inter se <pc type="punctus"/> et ista comparatur ad illas ideo continue iudicatur maior <pc type="virgula">/</pc> et sic 
-            <lb ed="#P"/>continue in uno casu apparebit crescere et continue decrescere 
+            <lb ed="#P" n="44"/>servabunt eandem proportionem inter se <pc type="punctus"/> et ista comparatur ad illas ideo continue iudicatur maior <pc type="virgula">/</pc> et sic 
+            <lb ed="#P" n="45"/>continue in uno casu apparebit crescere et continue decrescere 
             <!-- possible break point -->
             <pc type="virgula">//</pc> Etiam posset iudicari eadem quantitas et tamen 
-            <lb ed="#P"/>continue augeretur si augeretur cum aliis et servaretur eadem proportio eius cum aliis et sic intellectus non haberet 
-            <lb ed="#P"/>membrum concludendi ipsam esse maiorem quam ante <pc type="punctus"/> et sic staret quod homo efficeretur tantae altitudinis 
-            <lb ed="#P"/>sicut turres nostrae duae parisiensis et tamen nesciremus ipsum augmentiri Et ideo si intellectus 
-            <lb ed="#P"/>non possit hoc scire non est mirum <pc type="punctus"/> si indigeat revelatione per articulos fidei cum sint 
-            <lb ed="#P"/>magnae altitudinis
+            <lb ed="#P" n="46"/>continue augeretur si augeretur cum aliis et servaretur eadem proportio eius cum aliis et sic intellectus non haberet 
+            <lb ed="#P" n="47"/>membrum concludendi ipsam esse maiorem quam ante <pc type="punctus"/> et sic staret quod homo efficeretur tantae altitudinis 
+            <lb ed="#P" n="48"/>sicut turres nostrae duae parisiensis et tamen nesciremus ipsum augmentiri Et ideo si intellectus 
+            <lb ed="#P" n="49"/>non possit hoc scire non est mirum <pc type="punctus"/> si indigeat revelatione per articulos fidei cum sint 
+            <lb ed="#P" n="50"/>magnae altitudinis
             <!-- possible break point -->
             <pc type="pilcrow"/> Etiam sit argueretur de motu et quod posset fieri resolutiones anni in uno 
-            <lb ed="#P"/>die quia natura particulariter obedit naturae unibili ideo si potentiae divinae congrueret facere 
-            <lb ed="#P"/>tales revolutiones non esset inconveniens naturae particulari <pc type="virgula">/</pc> Et iuxta posset salvari quod a primaevo 
-            <lb ed="#P"/>motus caelestes erant velocitatis et ideo licet vixissent ita diu sicut narrat dubium tamen non ita diu 
-            <lb ed="#P"/>durabant sicut nunc facerent <pc type="punctus"/>
+            <lb ed="#P" n="51"/>die quia natura particulariter obedit naturae unibili ideo si potentiae divinae congrueret facere 
+            <lb ed="#P" n="52"/>tales revolutiones non esset inconveniens naturae particulari <pc type="virgula">/</pc> Et iuxta posset salvari quod a primaevo 
+            <lb ed="#P" n="53"/>motus caelestes erant velocitatis et ideo licet vixissent ita diu sicut narrat dubium tamen non ita diu 
+            <lb ed="#P" n="54"/>durabant sicut nunc facerent <pc type="punctus"/>
           </p>
           <div xml:id="ppra-l9-Dd1e3729">
             <head xml:id="ppra-l9-Hcercer">
@@ -87,8 +87,8 @@
             </head>
             <p xml:id="ppra-l9-eiefhs">
               <pc type="pilcrow"/> Ista materia de infirmitate ingenii fides est acceptanda tamquam 
-              <lb ed="#P"/>necessaria et sine ea modicum acquireret <pc type="virgula">/</pc> Ideo philosophi aliquis propter deffectum fidei fuerunt <unclear>dis?des</unclear> 
-              <lb ed="#P"/>de felicitate
+              <lb ed="#P" n="55"/>necessaria et sine ea modicum acquireret <pc type="virgula">/</pc> Ideo philosophi aliquis propter deffectum fidei fuerunt <unclear>dis?des</unclear> 
+              <lb ed="#P" n="56"/>de felicitate
             </p>
           </div>
         </div>
@@ -98,17 +98,17 @@
           </head>
           <p xml:id="ppra-l9-pisiid">
             <pc type="pilcrow"/> Praeter infirmitates dictas est et alia infirmitas scilicet daemonis temptatio quae provenit 
-            <lb ed="#P"/>ex culpa et non solum caro rebellat rationi sed et daemon et causat magnam erroris partem in nobis 
+            <lb ed="#P" n="57"/>ex culpa et non solum caro rebellat rationi sed et daemon et causat magnam erroris partem in nobis 
           </p>
           <p xml:id="ppra-l9-eetsiv">
-            <lb ed="#P"/>Est etiam torpor et curiositas quae vocatur quaedam adhaesio ad veritates <unclear>inperti?tes</unclear> ultimate perfectioni
+            <lb ed="#P" n="58"/>Est etiam torpor et curiositas quae vocatur quaedam adhaesio ad veritates <unclear>inperti?tes</unclear> ultimate perfectioni
             <pb ed="#P" n="34-r"/>
-            <lb ed="#P"/>propter quod notandum est iuxta <ref xml:id="ppra-l9-Rd1e3836"><name ref="#WilliamOfParis">guillelmum parisiensem</name></ref> et <ref><name ref="#WilliamOfAuxerre">autissiodorensem</name></ref> in libro <title>de fide et legibus</title>
-            <lb ed="#P"/>quod intellectus habet primam veritatem pro sponsa <pc type="punctus"/> et omnis anima debet <unclear>inq?li?ri<!-- possible correciton here --></unclear> in ordine ad illam <pc type="punctus"/> dicit 
-            <lb ed="#P"/>consequenter quod omnis alia veritas est ab intellectum amplexanda in ordine ad primam veritatem Ita quod 
-            <lb ed="#P"/>sicut dilectio non est bene regulata <unclear>nisi in deum</unclear> relata <pc type="virgula">/</pc> ita de veritatibus Ita quod debent fieri in irdine 
-            <lb ed="#P"/>ad primam et tunc servatur debitus ordo et perfectio intellectus <pc type="virgula">/</pc> et si intellectus aliquibus adhaereat 
-            <lb ed="#P"/>sine relatione in primam tunc est fornicatio spiritus quae dicitur curiositas et est peccatum
+            <lb ed="#P" n="1"/>propter quod notandum est iuxta <ref xml:id="ppra-l9-Rd1e3836"><name ref="#WilliamOfParis">guillelmum parisiensem</name></ref> et <ref><name ref="#WilliamOfAuxerre">autissiodorensem</name></ref> in libro <title>de fide et legibus</title>
+            <lb ed="#P" n="2"/>quod intellectus habet primam veritatem pro sponsa <pc type="punctus"/> et omnis anima debet <unclear>inq?li?ri<!-- possible correciton here --></unclear> in ordine ad illam <pc type="punctus"/> dicit 
+            <lb ed="#P" n="3"/>consequenter quod omnis alia veritas est ab intellectum amplexanda in ordine ad primam veritatem Ita quod 
+            <lb ed="#P" n="4"/>sicut dilectio non est bene regulata <unclear>nisi in deum</unclear> relata <pc type="virgula">/</pc> ita de veritatibus Ita quod debent fieri in irdine 
+            <lb ed="#P" n="5"/>ad primam et tunc servatur debitus ordo et perfectio intellectus <pc type="virgula">/</pc> et si intellectus aliquibus adhaereat 
+            <lb ed="#P" n="6"/>sine relatione in primam tunc est fornicatio spiritus quae dicitur curiositas et est peccatum
           </p>
         </div>
         <div xml:id="ppra-l9-Dd1e3902">
@@ -117,26 +117,26 @@
           </head>
           <p xml:id="ppra-l9-epiaca">
             <pc type="pilcrow"/> Ex istis 
-            <lb ed="#P"/>infirmitatibus inferuntur duae propositiones prima est quod respectu temporalium et naturaliter cognoscibilium et veritatum 
-            <lb ed="#P"/>politice cognoscibilium oportet uti fide <pc type="punctus"/> patet quia ratione depressionis ingenii cum quo servus regatur a domino 
-            <lb ed="#P"/>et quia homo non sufficit de ipso ideo indiget fide <pc type="punctus"/> Etiam infirmi credunt medico quia nescit 
-            <lb ed="#P"/>investigare herbam curativam sui morbi Etiam in consiliis sunt aliqui qui non possunt 
-            <lb ed="#P"/>de se attingere veritatem ideo credunt aliter <pc type="punctus"/> Ita in aliis artificis <pc type="punctus"/> Etiam caecus credit <unclear>dubitati<!-- duplici ? --></unclear> 
-            <lb ed="#P"/>ymmo credit quandoque bruto sicut causam <pc type="punctus"/> ergo ordo positus est quod oportet credere ubi est deffectus non solum perfectiori 
-            <lb ed="#P"/>ymmo et imperfectiori <pc type="punctus"/> ergo cum intellectus humanus sit sicut oculus caecus ergo omnino fides est acceptanda circa 
-            <lb ed="#P"/>arduissima cum fide indigeamus circa parvissima
+            <lb ed="#P" n="7"/>infirmitatibus inferuntur duae propositiones prima est quod respectu temporalium et naturaliter cognoscibilium et veritatum 
+            <lb ed="#P" n="8"/>politice cognoscibilium oportet uti fide <pc type="punctus"/> patet quia ratione depressionis ingenii cum quo servus regatur a domino 
+            <lb ed="#P" n="9"/>et quia homo non sufficit de ipso ideo indiget fide <pc type="punctus"/> Etiam infirmi credunt medico quia nescit 
+            <lb ed="#P" n="10"/>investigare herbam curativam sui morbi Etiam in consiliis sunt aliqui qui non possunt 
+            <lb ed="#P" n="11"/>de se attingere veritatem ideo credunt aliter <pc type="punctus"/> Ita in aliis artificis <pc type="punctus"/> Etiam caecus credit <unclear>dubitati<!-- duplici ? --></unclear> 
+            <lb ed="#P" n="12"/>ymmo credit quandoque bruto sicut causam <pc type="punctus"/> ergo ordo positus est quod oportet credere ubi est deffectus non solum perfectiori 
+            <lb ed="#P" n="13"/>ymmo et imperfectiori <pc type="punctus"/> ergo cum intellectus humanus sit sicut oculus caecus ergo omnino fides est acceptanda circa 
+            <lb ed="#P" n="14"/>arduissima cum fide indigeamus circa parvissima
           </p>
           <p xml:id="ppra-l9-cimnei">
             <pc type="pilcrow"/> Circa istam materiam volebam aliquas 
-            <lb ed="#P"/>apparentias inducere <pc type="punctus"/> Sed dico quod debilitatem ingenii experimur alibi quam in fide patet in certis sophisticibus 
-            <lb ed="#P"/>et propositionibus geometrie <pc type="virgula">/</pc> et in materia de proportionibus quia ibi reperiuntur propositiones ita difficiles sicut articulus 
-            <lb ed="#P"/>trinitatis unde in materia insolubilium quicquid invenerunt multi materia non ita clare resolvitur sicut 
-            <lb ed="#P"/>materia trinitatis <pc type="virgula">/</pc> Etiam de minimo <pc type="virgula">/</pc> sicut de istis sortes dicit falsum posito quod nihil aliud dicat difficultas 
-            <lb ed="#P"/>est hic propter circulationem quia intellectus in iudicando de veritate propositionis considerat obiectum scilicet rem <del rend="strikethrough">illius</del> 
-            <lb ed="#P"/>et considerat utrum sic se habeat et utrum sit conformitas rei et <unclear>modice<!--possible correction --></unclear> habendi ad propositionem et si sic 
-            <lb ed="#P"/>iudicat eam esse veram et in insolubilem est circulatio magna <pc type="punctus"/> quia oportet videre utrum ita sit 
-            <lb ed="#P"/>ut patet introitus nobis <pc type="virgula">/</pc> eo quod modus ille est multum remotus a nobis <pc type="punctus"/> Ideo intellectus non 
-            <lb ed="#P"/>habet modum <pc type="punctus"/> utrum illa sit vera
+            <lb ed="#P" n="15"/>apparentias inducere <pc type="punctus"/> Sed dico quod debilitatem ingenii experimur alibi quam in fide patet in certis sophisticibus 
+            <lb ed="#P" n="16"/>et propositionibus geometrie <pc type="virgula">/</pc> et in materia de proportionibus quia ibi reperiuntur propositiones ita difficiles sicut articulus 
+            <lb ed="#P" n="17"/>trinitatis unde in materia insolubilium quicquid invenerunt multi materia non ita clare resolvitur sicut 
+            <lb ed="#P" n="18"/>materia trinitatis <pc type="virgula">/</pc> Etiam de minimo <pc type="virgula">/</pc> sicut de istis sortes dicit falsum posito quod nihil aliud dicat difficultas 
+            <lb ed="#P" n="19"/>est hic propter circulationem quia intellectus in iudicando de veritate propositionis considerat obiectum scilicet rem <del rend="strikethrough">illius</del> 
+            <lb ed="#P" n="20"/>et considerat utrum sic se habeat et utrum sit conformitas rei et <unclear>modice<!--possible correction --></unclear> habendi ad propositionem et si sic 
+            <lb ed="#P" n="21"/>iudicat eam esse veram et in insolubilem est circulatio magna <pc type="punctus"/> quia oportet videre utrum ita sit 
+            <lb ed="#P" n="22"/>ut patet introitus nobis <pc type="virgula">/</pc> eo quod modus ille est multum remotus a nobis <pc type="punctus"/> Ideo intellectus non 
+            <lb ed="#P" n="23"/>habet modum <pc type="punctus"/> utrum illa sit vera
           </p>
         </div>
         <div xml:id="ppra-l9-Dd1e4202">
@@ -148,37 +148,37 @@
           </p>
           <p xml:id="ppra-l9-peqsdd">
             primo stat quod sortes non possit 
-            <lb ed="#P"/>habere nisi fidem de propositione <sic>de propositione</sic> quae est scita a <name>platone</name><pc type="punctus"/> et capiatur propositio quae 
-            <lb ed="#P"/>excedit totam latitudinem reperibilium a <name>sorte</name> et capiatur aliqua quae sit extra latitudinem 
-            <lb ed="#P"/>scibilium et capiatur quod <name>plato</name> sit nobiliter ingenii <pc type="punctus"/> tunc illum bene intelliget <pc type="punctus"/> et sic si <name>sortes</name> 
-            <lb ed="#P"/>debeat assentire oportebit tunc hoc esse per fidem <pc type="virgula">/</pc> et sicut dabitur in geometria erunt 
-            <lb ed="#P"/>aliquae propositiones scibiles solum per fidem <pc type="punctus"/> Ideo non est dubium si deus ostendatur nobis per modum fidei
+            <lb ed="#P" n="24"/>habere nisi fidem de propositione <sic>de propositione</sic> quae est scita a <name>platone</name><pc type="punctus"/> et capiatur propositio quae 
+            <lb ed="#P" n="25"/>excedit totam latitudinem reperibilium a <name>sorte</name> et capiatur aliqua quae sit extra latitudinem 
+            <lb ed="#P" n="26"/>scibilium et capiatur quod <name>plato</name> sit nobiliter ingenii <pc type="punctus"/> tunc illum bene intelliget <pc type="punctus"/> et sic si <name>sortes</name> 
+            <lb ed="#P" n="27"/>debeat assentire oportebit tunc hoc esse per fidem <pc type="virgula">/</pc> et sicut dabitur in geometria erunt 
+            <lb ed="#P" n="28"/>aliquae propositiones scibiles solum per fidem <pc type="punctus"/> Ideo non est dubium si deus ostendatur nobis per modum fidei
             <!-- possible break point -->
-            <lb ed="#P"/><pc type="pilcrow"/> Ex quo inferretur quod in vita politica aliquae sunt propositiones ad quas quis obligatur et tamen 
-            <lb ed="#P"/>non potest pervenire ad cognitionem nisi per fidem
+            <lb ed="#P" n="29"/><pc type="pilcrow"/> Ex quo inferretur quod in vita politica aliquae sunt propositiones ad quas quis obligatur et tamen 
+            <lb ed="#P" n="30"/>non potest pervenire ad cognitionem nisi per fidem
           </p>
           <p xml:id="ppra-l9-suqads">
             <pc type="pilcrow"/> Ulterius sequitur quod in regiminibus politicis 
-            <lb ed="#P"/>periculosum est inniti iudicio humano Ex quo patet quod regentes civitatis habent consuli per 
-            <lb ed="#P"/>sacram scripturam quia innititur medio infallibili et etiam quia bene revoluta considerat 
-            <lb ed="#P"/>quicquid pertinet ad vitam politicam
+            <lb ed="#P" n="31"/>periculosum est inniti iudicio humano Ex quo patet quod regentes civitatis habent consuli per 
+            <lb ed="#P" n="32"/>sacram scripturam quia innititur medio infallibili et etiam quia bene revoluta considerat 
+            <lb ed="#P" n="33"/>quicquid pertinet ad vitam politicam
           </p>
           <p xml:id="ppra-l9-suqetc">
             <pc type="pilcrow"/> Sequitur ulterius quod non est sine periculo uti 
-            <lb ed="#P"/>legibus romanorum tamquam regulae ultimate nec legiste <del rend="strikethrough">qui</del> contradicunt quia inititur debili fundamento 
-            <lb ed="#P"/>et forte non bene sed vi insti?te fuerunt quia quando romani per tyrranidem leges introduxerunt 
+            <lb ed="#P" n="34"/>legibus romanorum tamquam regulae ultimate nec legiste <del rend="strikethrough">qui</del> contradicunt quia inititur debili fundamento 
+            <lb ed="#P" n="35"/>et forte non bene sed vi insti?te fuerunt quia quando romani per tyrranidem leges introduxerunt 
           </p>
           <p xml:id="ppra-l9-stqfad">
-            <lb ed="#P"/> <pc type="pilcrow"/> Ulterius sequitur quod in omnibus agibilibus tangentibus fidem sive politicam invocari debet auxilium 
-            <lb ed="#P"/>divinum et istud sensit <name>plato</name> quia cognovit seipsum nihil scire <pc type="virgula">/</pc> ideo <name>socrates</name> ad magnam 
-            <lb ed="#P"/>sapientiam dicit hoc unum scio quod nihil scio <pc type="punctus"/> et sic invocavit divinum auxilium <pc type="virgula">/</pc> Et dicit 
-            <lb ed="#P"/>quod in omnibus sive magnis sive parvis auxilium divinum debet invocari <pc type="punctus"/> et istud nonquam pro<lb ed="#P"/>mitteret 
+            <lb ed="#P" n="36"/> <pc type="pilcrow"/> Ulterius sequitur quod in omnibus agibilibus tangentibus fidem sive politicam invocari debet auxilium 
+            <lb ed="#P" n="37"/>divinum et istud sensit <name>plato</name> quia cognovit seipsum nihil scire <pc type="virgula">/</pc> ideo <name>socrates</name> ad magnam 
+            <lb ed="#P" n="38"/>sapientiam dicit hoc unum scio quod nihil scio <pc type="punctus"/> et sic invocavit divinum auxilium <pc type="virgula">/</pc> Et dicit 
+            <lb ed="#P" n="39"/>quod in omnibus sive magnis sive parvis auxilium divinum debet invocari <pc type="punctus"/> et istud nonquam pro<lb ed="#P" n="40"/>mitteret 
             hominem falli in pertinentibus ad fidem quia omnis deceptio est deffectus culpae originalis 
-            <lb ed="#P"/>Ita quod in statu innocentiae nullus fuit error
+            <lb ed="#P" n="41"/>Ita quod in statu innocentiae nullus fuit error
           </p>
           <p xml:id="ppra-l9-suqeoc">
             <pc type="pilcrow"/> Sequitur quod probabiliter est ex parte culpae originalis et omnis 
-            <lb ed="#P"/>error 
+            <lb ed="#P" n="42"/>error 
           </p>
           <!-- fuzzy parallels; review breaks -->
           <p xml:id="ppra-l9-suqnhl">
@@ -186,51 +186,51 @@
           </p>
           <!-- fuzzy parallels; review breaks -->
           <p xml:id="ppra-l9-seqnff">
-            <lb ed="#P"/>nec fuisset oppinionum contrarietas 
+            <lb ed="#P" n="43"/>nec fuisset oppinionum contrarietas 
           </p>
           <!-- fuzzy parallels; review breaks -->
           <p xml:id="ppra-l9-suqhne">
             <pc type="virgula">/</pc> de modo autem cognoscendi veritatis in illo statu posset 
-            <lb ed="#P"/><!-- possibly something here --> aliquae poni propositiones unde posset probari quod respectu cuiuscumque veritatis quam considerabat <add place="above-line"><unclear>a deo</unclear></add> habebat evidentiam
+            <lb ed="#P" n="44"/><!-- possibly something here --> aliquae poni propositiones unde posset probari quod respectu cuiuscumque veritatis quam considerabat <add place="above-line"><unclear>a deo</unclear></add> habebat evidentiam
           </p>
           <div xml:id="ppra-l9-Dd1e4625">
             <head xml:id="ppra-l9-Hoauper">
               <supplied>Obiecto ad ultimam propositionem et responsiones</supplied>
             </head>
             <p xml:id="ppra-l9-stdcsd">
-              <lb ed="#P"/>Sed contra tunc sequeretur quod cognovisset tantum sicut deus <pc type="punctus"/> sed naturae
+              <lb ed="#P" n="45"/>Sed contra tunc sequeretur quod cognovisset tantum sicut deus <pc type="punctus"/> sed naturae
             </p>
             <p xml:id="ppra-l9-rncesi">
               <pc type="pilcrow"/> Unde modus ymaginandi potest esse 
-              <lb ed="#P"/>multiplex <pc type="punctus"/> unus quia veritas quaelibet quantum est de se est immediate cognoscibilis et ita immediate cognoscitur a deo ita quod 
-              <lb ed="#P"/>absolute non est dependentia conclusionum a praemissis <pc type="punctus"/> sed ex deffectum nostro provenit hoc ergo ymaginabile 
-              <lb ed="#P"/>est quod <name>adam</name> poterat exire in assensum propositorum sibi <del rend="strikethrough">pro discursum</del> sine discursu 
-              <lb ed="#P"/>et habuit lumen tantum quod habebat statim assensum percepta veritate sine alio Tamen adhuc 
-              <lb ed="#P"/>istud lumen fuit in infinitum distans a lumine dei Sed aliqua moralia quae habebant ordinem 
-              <lb ed="#P"/>ad errorem sui status statim poterat exire in actus et non respectu aliarum 
+              <lb ed="#P" n="46"/>multiplex <pc type="punctus"/> unus quia veritas quaelibet quantum est de se est immediate cognoscibilis et ita immediate cognoscitur a deo ita quod 
+              <lb ed="#P" n="47"/>absolute non est dependentia conclusionum a praemissis <pc type="punctus"/> sed ex deffectum nostro provenit hoc ergo ymaginabile 
+              <lb ed="#P" n="48"/>est quod <name>adam</name> poterat exire in assensum propositorum sibi <del rend="strikethrough">pro discursum</del> sine discursu 
+              <lb ed="#P" n="49"/>et habuit lumen tantum quod habebat statim assensum percepta veritate sine alio Tamen adhuc 
+              <lb ed="#P" n="50"/>istud lumen fuit in infinitum distans a lumine dei Sed aliqua moralia quae habebant ordinem 
+              <lb ed="#P" n="51"/>ad errorem sui status statim poterat exire in actus et non respectu aliarum 
             </p>
             <!-- very fuzzy parallel; needs review -->
             <p xml:id="ppra-l9-scseec">
               <pc type="punctus"/> Sed diceretur ergo 
-              <lb ed="#P"/>dubitasset respectu <sic>respectu</sic> istarum quia si non habuit omnium voluntatum notitiam tunc aliqua fuit fieri 
-              <lb ed="#P"/>ignota et sic si fuisset sibi proposita dubitasset
+              <lb ed="#P" n="52"/>dubitasset respectu <sic>respectu</sic> istarum quia si non habuit omnium voluntatum notitiam tunc aliqua fuit fieri 
+              <lb ed="#P" n="53"/>ignota et sic si fuisset sibi proposita dubitasset
             </p>
             <p xml:id="ppra-l9-ruedss">
               <pc type="pilcrow"/> Ad hoc respondetur quod in isto casu 
-              <lb ed="#P"/>circa veritatem habebit assensum quo deum glorificabat et ultra habebat assensum quo infinite fieri 
-              <lb ed="#P"/>latebant licet non necessarie et adhuc hoc erat ad sui decorem <pc type="punctus"/> Etiam <unclear>b?rtus</unclear> multas veritates 
-              <lb ed="#P"/>vidit et scit quod deus plures videt et habet de hos gaudium quod videt quod deus est tanta noblitas 
-              <lb ed="#P"/>nec <name>adam</name> appetebat praedictas veritates 
+              <lb ed="#P" n="54"/>circa veritatem habebit assensum quo deum glorificabat et ultra habebat assensum quo infinite fieri 
+              <lb ed="#P" n="55"/>latebant licet non necessarie et adhuc hoc erat ad sui decorem <pc type="punctus"/> Etiam <unclear>b?rtus</unclear> multas veritates 
+              <lb ed="#P" n="56"/>vidit et scit quod deus plures videt et habet de hos gaudium quod videt quod deus est tanta noblitas 
+              <lb ed="#P" n="57"/>nec <name>adam</name> appetebat praedictas veritates 
             </p>
             <p xml:id="ppra-l9-srpivi">
               <pc type="pilcrow"/> 2a responsio potest esse quod respectu cuiuscumque veritatis 
-              <lb ed="#P"/>potuisset habere notitiam et tamen non cognovisset infinita secundum unicam cum illa non haberent 
+              <lb ed="#P" n="58"/>potuisset habere notitiam et tamen non cognovisset infinita secundum unicam cum illa non haberent 
               <pb ed="#P" n="34-v"/>
-              <lb ed="#P"/>dependentiam et ista via est satis probabilis licet non consueta
+              <lb ed="#P" n="1"/>dependentiam et ista via est satis probabilis licet non consueta
               <!-- possible break point -->
               <pc type="pilcrow"/> Ulterius sequitur quod multae
-              <lb ed="#P"/>sunt uni demonstrativa quae praecise sunt alteri oppiniativa et econverso <pc type="punctus"/> sed omnia talia sunt effectus culpae 
-              <lb ed="#P"/>originalis <pc type="punctus"/> et in alia lectione forte deo dante de hoc videbitur 
+              <lb ed="#P" n="2"/>sunt uni demonstrativa quae praecise sunt alteri oppiniativa et econverso <pc type="punctus"/> sed omnia talia sunt effectus culpae 
+              <lb ed="#P" n="3"/>originalis <pc type="punctus"/> et in alia lectione forte deo dante de hoc videbitur 
             </p>
           </div>
         </div>

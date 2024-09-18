@@ -43,7 +43,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="32-v"/> 
+        <pb ed="#P" n="34-v"/> 
       </div>
     </front>
     <body>
@@ -54,45 +54,45 @@
             <supplied>Plus evidentia de debilitate intellectus</supplied>
           </head>
           <p xml:id="ppra-l10-cmdetm">
-            <lb ed="#P"/>Consequenter continuandum materiam de intellectus debilitate circa res notissimas ut circa magnitudinem 
-            <lb ed="#P"/>adducitur ratio <name ref="#Zeno">zenonis</name> quae licet non appareat difficilis tamen est satis difficilis quod intelligendum 
-            <lb ed="#P"/>Ratio enim huius est quod nihil movetur localiter <pc type="virgula">/</pc> modo si intellectus decipiatur circa istas res 
-            <lb ed="#P"/>altissimas et non ita notas <pc type="punctus"/> unde dicit quod si possibile esset quod aliquid moveretur localiter sequeretur quod 
-            <lb ed="#P"/>equus non posset attingere formicam <pc type="punctus"/> propter quod supponitur quod corpus spericum movetur supra 
-            <lb ed="#P"/>planum 
+            <lb ed="#P" n="4"/>Consequenter continuandum materiam de intellectus debilitate circa res notissimas ut circa magnitudinem 
+            <lb ed="#P" n="5"/>adducitur ratio <name ref="#Zeno">zenonis</name> quae licet non appareat difficilis tamen est satis difficilis quod intelligendum 
+            <lb ed="#P" n="6"/>Ratio enim huius est quod nihil movetur localiter <pc type="virgula">/</pc> modo si intellectus decipiatur circa istas res 
+            <lb ed="#P" n="7"/>altissimas et non ita notas <pc type="punctus"/> unde dicit quod si possibile esset quod aliquid moveretur localiter sequeretur quod 
+            <lb ed="#P" n="8"/>equus non posset attingere formicam <pc type="punctus"/> propter quod supponitur quod corpus spericum movetur supra 
+            <lb ed="#P" n="9"/>planum 
             
-            <pc type="punctus"/> Et pro planiori intellectu supponitur quod solum tangat in puncto ipsum et revol<lb ed="#P"/>vatur 
+            <pc type="punctus"/> Et pro planiori intellectu supponitur quod solum tangat in puncto ipsum et revol<lb ed="#P" n="10"/>vatur 
             sic quod faciat certitudinem tunc probatur quod istud spericum non possit nihilominus moveri <pc type="punctus"/> et ergo non 
-            <lb ed="#P"/>potest volocius nec tardius quia ad quodlibet punctum sperici fuit supra quodlibet punctum plani 
-            <lb ed="#P"/>solum per instans ergo non tardius et per consequens movetur sua velocitate et sua tarditate qua <unclear>poterunt maiori</unclear>
-            <lb ed="#P"/>quia cum punctum sperici fuerit praecise per instans super planum non potest plus tangere sine motus interruptione 
-            <lb ed="#P"/>et quod velocius non possit patet quia quodlibet punctum praecise tetigit aliud punctum per instans 
-            <lb ed="#P"/>et non plus movetur ibi quam per instans quia tunc motus interrumperetur 
+            <lb ed="#P" n="11"/>potest volocius nec tardius quia ad quodlibet punctum sperici fuit supra quodlibet punctum plani 
+            <lb ed="#P" n="12"/>solum per instans ergo non tardius et per consequens movetur sua velocitate et sua tarditate qua <unclear>poterunt maiori</unclear>
+            <lb ed="#P" n="13"/>quia cum punctum sperici fuerit praecise per instans super planum non potest plus tangere sine motus interruptione 
+            <lb ed="#P" n="14"/>et quod velocius non possit patet quia quodlibet punctum praecise tetigit aliud punctum per instans 
+            <lb ed="#P" n="15"/>et non plus movetur ibi quam per instans quia tunc motus interrumperetur 
           </p>
           <p xml:id="ppra-l10-spqacm">
             <pc type="pilcrow"/> Et iuxta hoc posset 
-            <lb ed="#P"/>ymaginari quod circumferentia per <num>iii</num> circuli movetur aequae velociter sicut magni <pc type="punctus"/> Et quod ita sit 
-            <lb ed="#P"/>capiantur duae lineae aeque distantes et aeque longe et moveantur ibi illae circumferentiae 
-            <lb ed="#P"/>magni et parvi circuli tunc circumferentia parvi circuli transivit aeque cito lineam sicut 
-            <lb ed="#P"/>circumferentia magnum circuli et sic haberetur quod quilibet motus est aequalis alteri sive quod quaecumque 
-            <lb ed="#P"/>duae magnitudines sunt aequales et sic de aliis <pc type="punctus"/> sicut posset induci de substantia
+            <lb ed="#P" n="16"/>ymaginari quod circumferentia per <num>iii</num> circuli movetur aequae velociter sicut magni <pc type="punctus"/> Et quod ita sit 
+            <lb ed="#P" n="17"/>capiantur duae lineae aeque distantes et aeque longe et moveantur ibi illae circumferentiae 
+            <lb ed="#P" n="18"/>magni et parvi circuli tunc circumferentia parvi circuli transivit aeque cito lineam sicut 
+            <lb ed="#P" n="19"/>circumferentia magnum circuli et sic haberetur quod quilibet motus est aequalis alteri sive quod quaecumque 
+            <lb ed="#P" n="20"/>duae magnitudines sunt aequales et sic de aliis <pc type="punctus"/> sicut posset induci de substantia
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l10-esieco">
             <pc type="pilcrow"/> unde 
-            <lb ed="#P"/><name>magister nicolaus de articuria</name> dicit quod non est possibile quod aliqua substantia incipiat esse bene 
-            <lb ed="#P"/>seclusa fide aeque faciliter teneretur secundum eum quod omnia <unclear>sunt</unclear> a principio sicut contrarium <pc type="punctus"/> sed <sic>dimito</sic> 
-            <lb ed="#P"/>quia in hoc non tenetur nec facit approbatus in hoc <pc type="punctus"/>
+            <lb ed="#P" n="21"/><name>magister nicolaus de articuria</name> dicit quod non est possibile quod aliqua substantia incipiat esse bene 
+            <lb ed="#P" n="22"/>seclusa fide aeque faciliter teneretur secundum eum quod omnia <unclear>sunt</unclear> a principio sicut contrarium <pc type="punctus"/> sed <sic>dimito</sic> 
+            <lb ed="#P" n="23"/>quia in hoc non tenetur nec facit approbatus in hoc <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l10-aedasb">
             <pc type="pilcrow"/> item habere actum reflexum 
-            <lb ed="#P"/>supra propositionem habet difficultatem et sic stabit quod fient tot reflectiones <pc type="punctus"/> quod venietur ad aliquam supra 
-            <lb ed="#P"/>quam intellectus non habebit reflectionem <pc type="virgula">/</pc> Et tunc argueretur sic haec propositio nondum 
-            <lb ed="#P"/>est demonstrabilis sed nec capitibilis ergo 
+            <lb ed="#P" n="24"/>supra propositionem habet difficultatem et sic stabit quod fient tot reflectiones <pc type="punctus"/> quod venietur ad aliquam supra 
+            <lb ed="#P" n="25"/>quam intellectus non habebit reflectionem <pc type="virgula">/</pc> Et tunc argueretur sic haec propositio nondum 
+            <lb ed="#P" n="26"/>est demonstrabilis sed nec capitibilis ergo 
           </p>
           <p xml:id="ppra-l10-ciassc">
             <pc type="pilcrow"/> Item ratio numerandi non est infinita ergo dabitur aliqua quae 
-            <lb ed="#P"/>non erit capitibilis ad intellectum et sic a creatura veniemus ad aliquas propositiones incaptibiles ab intellectu 
+            <lb ed="#P" n="27"/>non erit capitibilis ad intellectum et sic a creatura veniemus ad aliquas propositiones incaptibiles ab intellectu 
           </p>
         </div>
         <div xml:id="ppra-l10-Dd1e409">
@@ -100,24 +100,24 @@
             <supplied>Aliquae propositiones sequentes</supplied>
           </head>
           <p xml:id="ppra-l10-seasgd">
-            <lb ed="#P"/><pc type="pilcrow"/> Confirmatur de figuris gemoetricis <pc type="punctus"/> nam ille procedunt in infinitum secundum species numerorum 
-            <lb ed="#P"/>Aliquae etiam distant tantum a principiis quod sunt incaptibiles ab intellectu
+            <lb ed="#P" n="28"/><pc type="pilcrow"/> Confirmatur de figuris gemoetricis <pc type="punctus"/> nam ille procedunt in infinitum secundum species numerorum 
+            <lb ed="#P" n="29"/>Aliquae etiam distant tantum a principiis quod sunt incaptibiles ab intellectu
           </p>
           <p xml:id="ppra-l10-ehsssg">
             <pc type="pilcrow"/> Item capacitas intellectus 
-            <lb ed="#P"/>non potest in infinitum procedere in conclusionibus geometricis ergo dabatur aliqua propositio extra latitudinem 
-            <lb ed="#P"/>scibilitatis intellectus Et haec inducuntur ad hoc quod non est mirum si de deo habemus aliquas propositiones 
-            <lb ed="#P"/>non captibiles cum de omnibus scibilibus hoc non possit 
+            <lb ed="#P" n="30"/>non potest in infinitum procedere in conclusionibus geometricis ergo dabatur aliqua propositio extra latitudinem 
+            <lb ed="#P" n="31"/>scibilitatis intellectus Et haec inducuntur ad hoc quod non est mirum si de deo habemus aliquas propositiones 
+            <lb ed="#P" n="32"/>non captibiles cum de omnibus scibilibus hoc non possit 
           </p>
           <p xml:id="ppra-l10-eqstre">
             Et sic si creatura esset deus non ad hoc de ipsa etc
           </p>
           <p xml:id="ppra-l10-eqshna">
-            <lb ed="#P"/><pc type="pilcrow"/> Ex praedictis sequitur quod puri philosophi non potuerunt attingere ad articulos fidei
+            <lb ed="#P" n="33"/><pc type="pilcrow"/> Ex praedictis sequitur quod puri philosophi non potuerunt attingere ad articulos fidei
           </p>
           <p xml:id="ppra-l10-suqsda">
             <pc type="pilcrow"/> Ulterius 
-            <lb ed="#P"/>sequitur quod ponere quod quis posset attingere articulos fidei ex se est incidere in errorem pelagii 
+            <lb ed="#P" n="34"/>sequitur quod ponere quod quis posset attingere articulos fidei ex se est incidere in errorem pelagii 
           </p>
         </div>
         <div xml:id="ppra-l10-Dd1e610">
@@ -125,43 +125,43 @@
             <supplied>Utrum philosophi cognoverint de articulis fide</supplied>
           </head>
           <p xml:id="ppra-l10-suqsic">
-            <lb ed="#P"/><pc type="pilcrow"/> Ulterius sequitur quod philosophi loquentes de fide sicut <ref xml:id="ppra-l10-Rd1e620"><name ref="#Trismegistus">hermes</name></ref> ductus ratione naturali non intellexit 
-            <lb ed="#P"/>trinitatem et dicitur quod per monadem intellexit mundum <pc type="punctus"/> et per 2m intellexit habitudinem ad deum 
-            <lb ed="#P"/>tamquam ad causam finalem scilicet quod monas genuit monadem id est mundum nec per hoc 
-            <lb ed="#P"/>intellexit trinitatem sed bene poterat sibi attribuere diversa attributa non tamquam diversis personis 
+            <lb ed="#P" n="35"/><pc type="pilcrow"/> Ulterius sequitur quod philosophi loquentes de fide sicut <ref xml:id="ppra-l10-Rd1e620"><name ref="#Trismegistus">hermes</name></ref> ductus ratione naturali non intellexit 
+            <lb ed="#P" n="36"/>trinitatem et dicitur quod per monadem intellexit mundum <pc type="punctus"/> et per 2m intellexit habitudinem ad deum 
+            <lb ed="#P" n="37"/>tamquam ad causam finalem scilicet quod monas genuit monadem id est mundum nec per hoc 
+            <lb ed="#P" n="38"/>intellexit trinitatem sed bene poterat sibi attribuere diversa attributa non tamquam diversis personis 
           </p>
           <p xml:id="ppra-l10-sdadfd">
-            <lb ed="#P"/><pc type="pilcrow"/> Sed contra diceretur nam <ref xml:id="ppra-l10-Rd1e738" target="http://scta.info/resource/aconf-l7-d1e159"> <name ref="#Augustine">beatus augustinus</name> dicit</ref> se in libris platonicis legisse <title ref="#io">iohannis euvangelium</title>
-            <lb ed="#P"/>usque ad illum passum <quote xml:id="ppra-l10-Qd1e764" source="http://scta.info/resource/io1_14">Et verbum caro factum est</quote> ergo contra te <pc type="virgula">/</pc> dicitur quod si philosophi tractaverunt aliquid de 
-            <lb ed="#P"/>materia trinitatis hoc non fuit <unclear>conveniendo</unclear> nobiscum Ideo licet littera eorum videretur articulis nostris 
-            <lb ed="#P"/>sonare non tamen intelligebat de trinitate loqui <pc type="pilcrow"/> 2us modus solvendi <pc type="punctus"/> philosophi et poetae 
-            <lb ed="#P"/>fidem nostram descripserunt et tamen non intellexerunt quia ad hoc non requiritur sanctitas <pc type="punctus"/> 
-            <lb ed="#P"/>unde <name>ballaam</name> malus homo prophetavit quod oriretur stella ex <name>iacob</name> etc et nihilominus vellet 
-            <lb ed="#P"/>nollet de incarnatione prophetavit numeri XXIIo ymmo adventum <sic>messyem</sic> descripsit <pc type="virgula">/</pc> Et <ref xml:id="ppra-l10-Rd1e860"><name>augustinus</name>
-            <lb ed="#P"/>in <title>sermone quod de adventu</title></ref> introduxit quod <name ref="#Nebuchadnezzar">nabugodenozor</name> <ref><title>danielis</title> 3o</ref> dicit se 
-            <lb ed="#P"/>vidisse quartum puerum esse similem filio dei non tamen quod intellexerit
+            <lb ed="#P" n="39"/><pc type="pilcrow"/> Sed contra diceretur nam <ref xml:id="ppra-l10-Rd1e738" target="http://scta.info/resource/aconf-l7-d1e159"> <name ref="#Augustine">beatus augustinus</name> dicit</ref> se in libris platonicis legisse <title ref="#io">iohannis euvangelium</title>
+            <lb ed="#P" n="40"/>usque ad illum passum <quote xml:id="ppra-l10-Qd1e764" source="http://scta.info/resource/io1_14">Et verbum caro factum est</quote> ergo contra te <pc type="virgula">/</pc> dicitur quod si philosophi tractaverunt aliquid de 
+            <lb ed="#P" n="41"/>materia trinitatis hoc non fuit <unclear>conveniendo</unclear> nobiscum Ideo licet littera eorum videretur articulis nostris 
+            <lb ed="#P" n="42"/>sonare non tamen intelligebat de trinitate loqui <pc type="pilcrow"/> 2us modus solvendi <pc type="punctus"/> philosophi et poetae 
+            <lb ed="#P" n="43"/>fidem nostram descripserunt et tamen non intellexerunt quia ad hoc non requiritur sanctitas <pc type="punctus"/> 
+            <lb ed="#P" n="44"/>unde <name>ballaam</name> malus homo prophetavit quod oriretur stella ex <name>iacob</name> etc et nihilominus vellet 
+            <lb ed="#P" n="45"/>nollet de incarnatione prophetavit numeri XXIIo ymmo adventum <sic>messyem</sic> descripsit <pc type="virgula">/</pc> Et <ref xml:id="ppra-l10-Rd1e860"><name>augustinus</name>
+            <lb ed="#P" n="46"/>in <title>sermone quod de adventu</title></ref> introduxit quod <name ref="#Nebuchadnezzar">nabugodenozor</name> <ref><title>danielis</title> 3o</ref> dicit se 
+            <lb ed="#P" n="47"/>vidisse quartum puerum esse similem filio dei non tamen quod intellexerit
           </p>
           <p xml:id="ppra-l10-scpimc">
             <pc type="pilcrow"/> Similiter <name ref="#Caiaphas">cayphas</name>
-            <lb ed="#P"/>prophetavit de christi passione dicens <quote xml:id="ppra-l10-Qd1e943" source="http://scta.info/resource/io11_50">Expedit unum hominem mori pro populo</quote> <pc type="punctus"/> et tamen non intellexit 
-            <lb ed="#P"/>sed dicebat malo zelo <pc type="punctus"/> ymmo et intentionem contraria habebat suae prophetiae <pc type="punctus"/>
+            <lb ed="#P" n="48"/>prophetavit de christi passione dicens <quote xml:id="ppra-l10-Qd1e943" source="http://scta.info/resource/io11_50">Expedit unum hominem mori pro populo</quote> <pc type="punctus"/> et tamen non intellexit 
+            <lb ed="#P" n="49"/>sed dicebat malo zelo <pc type="punctus"/> ymmo et intentionem contraria habebat suae prophetiae <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l10-cdqavi">
             <pc type="pilcrow"/> <ref xml:id="ppra-l10-Rd1e978">Virgilius etiam 
-            <lb ed="#P"/>in bucolicis</ref> <quote xml:id="ppra-l10-Qd1e989">Iam reditur virgo <unclear>redenter</unclear> saturnia regna</quote> <pc type="punctus"/> potest tamen dici quod fuit prophetia 
-            <lb ed="#P"/>licet non intelligeret aliud sensum ad quem potest applicari sed de filio <name>pollionis</name> <pc type="virgula">/</pc> Et hoc fuit 
-            <lb ed="#P"/>forte ut inexcusabiles essent a christi fide et ut rebelles magis punirentur <pc type="punctus"/> Ideo 
-            <lb ed="#P"/>si aliqui inveniuntur de philosophis et poetis aliquid de trinitate tractantes <pc type="punctus"/> hoc erat spiritu divino 
-            <lb ed="#P"/>suggerente <pc type="punctus"/> licet non intelligerent
+            <lb ed="#P" n="50"/>in bucolicis</ref> <quote xml:id="ppra-l10-Qd1e989">Iam reditur virgo <unclear>redenter</unclear> saturnia regna</quote> <pc type="punctus"/> potest tamen dici quod fuit prophetia 
+            <lb ed="#P" n="51"/>licet non intelligeret aliud sensum ad quem potest applicari sed de filio <name>pollionis</name> <pc type="virgula">/</pc> Et hoc fuit 
+            <lb ed="#P" n="52"/>forte ut inexcusabiles essent a christi fide et ut rebelles magis punirentur <pc type="punctus"/> Ideo 
+            <lb ed="#P" n="53"/>si aliqui inveniuntur de philosophis et poetis aliquid de trinitate tractantes <pc type="punctus"/> hoc erat spiritu divino 
+            <lb ed="#P" n="54"/>suggerente <pc type="punctus"/> licet non intelligerent
           </p>
           <p xml:id="ppra-l10-amsvpe">
             <pc type="pilcrow"/> Alius modus potest esse quod philosophi viventes secundum dictamen 
-            <lb ed="#P"/>rectae rationis quantum erat eis possibile disponebant se bene ideo deus infundebat in eis gratiam
+            <lb ed="#P" n="55"/>rectae rationis quantum erat eis possibile disponebant se bene ideo deus infundebat in eis gratiam
             <pb ed="#P" n="35-r"/>
-            <lb ed="#P"/>ymmo et illi qui fecerunt quod in se potuerunt salvi facti sunt licet gentiles essent 
-            <lb ed="#P"/>unde ymaginandum est quod philosophi ante christ adventum <pc type="virgula">/</pc> si fecerit quod potuerunt deus dedit enim 
-            <lb ed="#P"/>gratiam et fidem <pc type="punctus"/> licet non probaverit quia deus eis non ordinavit <pc type="pilcrow"/> Alios modos 
-            <lb ed="#P"/>tradit <ref xml:id="ppra-l10-Rd1e1209"><name>bacon</name> in epistola ad clementem</ref> quantum quod videtur ponere <ref xml:id="ppra-l10-Rd1e1239"><name>magister henricus de hacia</name></ref>
+            <lb ed="#P" n="1"/>ymmo et illi qui fecerunt quod in se potuerunt salvi facti sunt licet gentiles essent 
+            <lb ed="#P" n="2"/>unde ymaginandum est quod philosophi ante christ adventum <pc type="virgula">/</pc> si fecerit quod potuerunt deus dedit enim 
+            <lb ed="#P" n="3"/>gratiam et fidem <pc type="punctus"/> licet non probaverit quia deus eis non ordinavit <pc type="pilcrow"/> Alios modos 
+            <lb ed="#P" n="4"/>tradit <ref xml:id="ppra-l10-Rd1e1209"><name>bacon</name> in epistola ad clementem</ref> quantum quod videtur ponere <ref xml:id="ppra-l10-Rd1e1239"><name>magister henricus de hacia</name></ref>
           </p>
         </div>
       </div>

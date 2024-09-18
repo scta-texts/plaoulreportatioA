@@ -54,27 +54,27 @@
               potest contra articulos fidei</supplied>
           </head>
           <p xml:id="ppra-l11-cmdcaf">
-            <lb ed="#P"/>Consequenter materiam continuando iam inceptam pono aliquas propositiones quarum prima est 
-            <lb ed="#P"/>Quamvis intellectus plus moveatur ratione suae infirmitatis in falsum processum quam verum 
-            <lb ed="#P"/>artis tamen nihil concluderet contra fidei articulos 
+            <lb ed="#P" n="5"/>Consequenter materiam continuando iam inceptam pono aliquas propositiones quarum prima est 
+            <lb ed="#P" n="6"/>Quamvis intellectus plus moveatur ratione suae infirmitatis in falsum processum quam verum 
+            <lb ed="#P" n="7"/>artis tamen nihil concluderet contra fidei articulos 
           </p>
           <p xml:id="ppra-l11-pphbea">
             patet prima pars per exemplum prius datam quia sicut est 
-            <lb ed="#P"/>de gustu corporali ita de gustu spirituali sed indispositio organi facit iudicare dulce 
-            <lb ed="#P"/>amarum esse <pc type="punctus"/> ergo sic de gustu spirituali quoniam rectae infirmitatis intellectus iudicat malum 
-            <lb ed="#P"/>et bonum et econtra <pc type="pilcrow"/> Item per comparationem intellectus ad voluntatem quai post infirmitatem movetur ad 
-            <lb ed="#P"/>creaturam dimittendo ergo etc maior patet quia semper potentia lia divertitur a bono incommutabili attendo ad bonum 
-            <lb ed="#P"/>commutabile et in isto fundatur illud quod dicunt doctores videlicet quod sine donis spiritualibus 
-            <lb ed="#P"/>scilicet fide et caritate non contingit vere moralis operari <pc type="punctus"/> et origines <pc type="punctus"/> lattentius <pc type="punctus"/>
-            <lb ed="#P"/>augustinus et moderni dicunt quod requiritur aliqua gratia spiritualis et <name>gregorius</name> et <name>bradoardin</name> 
-            <lb ed="#P"/>dicunt etc <pc type="punctus"/>
+            <lb ed="#P" n="8"/>de gustu corporali ita de gustu spirituali sed indispositio organi facit iudicare dulce 
+            <lb ed="#P" n="9"/>amarum esse <pc type="punctus"/> ergo sic de gustu spirituali quoniam rectae infirmitatis intellectus iudicat malum 
+            <lb ed="#P" n="10"/>et bonum et econtra <pc type="pilcrow"/> Item per comparationem intellectus ad voluntatem quai post infirmitatem movetur ad 
+            <lb ed="#P" n="11"/>creaturam dimittendo ergo etc maior patet quia semper potentia lia divertitur a bono incommutabili attendo ad bonum 
+            <lb ed="#P" n="12"/>commutabile et in isto fundatur illud quod dicunt doctores videlicet quod sine donis spiritualibus 
+            <lb ed="#P" n="13"/>scilicet fide et caritate non contingit vere moralis operari <pc type="punctus"/> et origines <pc type="punctus"/> lattentius <pc type="punctus"/>
+            <lb ed="#P" n="14"/>augustinus et moderni dicunt quod requiritur aliqua gratia spiritualis et <name>gregorius</name> et <name>bradoardin</name> 
+            <lb ed="#P" n="15"/>dicunt etc <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l11-spcsss">
             <pc type="virgula">/</pc> 2a pars propositionis ponit quod per processum artis nihil concluderet probatur quoniam ars in 
-            <lb ed="#P"/>suo processu non praesupponit principium falsum alias non procederet artificialiter ergo ars nihil infert 
-            <lb ed="#P"/>patet quia vero non infertur falsum <unclear>prima priorum <!-- ??? --></unclear> <pc type="punctus"/> et per consequens artis processu non concluderetur 
-            <lb ed="#P"/>conclusio contra articulos fidei quia semper est falsa <pc type="punctus"/> et ideo contra articulos concludendo decipitur vel 
-            <lb ed="#P"/>in logica vel in assumptione principiorum
+            <lb ed="#P" n="16"/>suo processu non praesupponit principium falsum alias non procederet artificialiter ergo ars nihil infert 
+            <lb ed="#P" n="17"/>patet quia vero non infertur falsum <unclear>prima priorum <!-- ??? --></unclear> <pc type="punctus"/> et per consequens artis processu non concluderetur 
+            <lb ed="#P" n="18"/>conclusio contra articulos fidei quia semper est falsa <pc type="punctus"/> et ideo contra articulos concludendo decipitur vel 
+            <lb ed="#P" n="19"/>in logica vel in assumptione principiorum
           </p>
         </div>
         <div xml:id="ppra-l11-Dd1e383">
@@ -83,63 +83,64 @@
           </head>
           <p xml:id="ppra-l11-eiiovc">
             <pc type="pilcrow"/> Ex quo inferuntur aliqua <sic>correllaria</sic> primum quod nulla veritas 
-            <lb ed="#P"/>inventionis humanae repugnat sacrae fidei vel theologiae <pc type="punctus"/> patet quia omne verum omnium vero 
-            <lb ed="#P"/>consonat
+            <lb ed="#P" n="20"/>inventionis humanae repugnat sacrae fidei vel theologiae <pc type="punctus"/> patet quia omne verum omnium vero 
+            <lb ed="#P" n="21"/>consonat
           </p>
           <p xml:id="ppra-l11-sccepi">
             <pc type="pilcrow"/> Ex quo sequitur 2o contra <name ref="#Holcot">holcot</name> dicentem quod articuli fidei sunt contra rationem naturalem 
-            <lb ed="#P"/>sicut deum incarnari <pc type="punctus"/> virginem pari <pc type="punctus"/> et talia huiusmodi <pc type="virgula">/</pc> sed videtur quod defficiat quia nullum 
-            <lb ed="#P"/>verum vero repugnat ideo si ex veris principiis concluderet quod virgo non posset 
-            <lb ed="#P"/>parere deciperetur in concludendo ideo non bene dicit cum reverentia <pc type="virgula">/</pc> Ex quo patet quod nulla scientia 
-            <lb ed="#P"/>humanitus acquisita <del rend="strikethrough">non</del> docet aliquid quod sit contra fidem
+            <lb ed="#P" n="22"/>sicut deum incarnari <pc type="punctus"/> virginem pari <pc type="punctus"/> et talia huiusmodi <pc type="virgula">/</pc> sed videtur quod defficiat quia nullum 
+            <lb ed="#P" n="23"/>verum vero repugnat ideo si ex veris principiis concluderet quod virgo non posset 
+            <lb ed="#P" n="24"/>parere deciperetur in concludendo ideo non bene dicit cum reverentia <pc type="virgula">/</pc> Ex quo patet quod nulla scientia 
+            <lb ed="#P" n="25"/>humanitus acquisita <del rend="strikethrough">non</del> docet aliquid quod sit contra fidem
           </p>
           <p xml:id="ppra-l11-suqovc">
             <pc type="pilcrow"/> Ulterius sequitur quod iste propositiones 
-            <lb ed="#P"/>mundus fuit ab aeterno <pc type="punctus"/> et ista ab eodem uniformiter se habente non possunt diversi effectus 
-            <lb ed="#P"/>produci <pc type="punctus"/> tales propositiones non sunt prophetiae sed sunt propositiones falsae et praesumptuose asserte <pc type="punctus"/> 
-            <lb ed="#P"/>absque hoc quod sequatur ex philosophica naturali <pc type="punctus"/> Et specialiter 2a est fundamentum pessimum 
-            <lb ed="#P"/>causativum erroris in philosophiam quia per hoc dixerunt nonnulli philosophi deus non habere libertatem 
-            <lb ed="#P"/>contradictionis Ex quo se habuit eodem modo ab aeterno <pc type="punctus"/> sicut nunc <pc type="virgula">/</pc> Ex hoc <name>avicenna</name> finxit unicam 
-            <lb ed="#P"/>intelligentiam immediate quia concessa bonitate divinae potentiae habetur quod ab aeterno potuisset omnia quae fecit 
-            <lb ed="#P"/>veram secundum unam scientiam et secundum aliam et si falsa secundum unam et secundum aliam
+            <lb ed="#P" n="26"/>mundus fuit ab aeterno <pc type="punctus"/> et ista ab eodem uniformiter se habente non possunt diversi effectus 
+            <lb ed="#P" n="27"/>produci <pc type="punctus"/> tales propositiones non sunt prophetiae sed sunt propositiones falsae et praesumptuose asserte <pc type="punctus"/> 
+            <lb ed="#P" n="28"/>absque hoc quod sequatur ex philosophica naturali <pc type="punctus"/> Et specialiter 2a est fundamentum pessimum 
+            <lb ed="#P" n="29"/>causativum erroris in philosophiam quia per hoc dixerunt nonnulli philosophi deus non habere libertatem 
+            <lb ed="#P" n="30"/>contradictionis Ex quo se habuit eodem modo ab aeterno <pc type="punctus"/> sicut nunc <pc type="virgula">/</pc> Ex hoc <name>avicenna</name> finxit unicam 
+            <lb ed="#P" n="31"/>intelligentiam immediate quia concessa bonitate divinae potentiae habetur quod ab aeterno potuisset omnia quae fecit
+            <lb ed="#P" n="32"/>Ex quo patet <del rend="s">ab</del> falsum esse aliquam propositionem esse falsam secundum fidem et vera secundum prophetiam quia si esset
+            <lb ed="#P" n="33"/>veram secundum unam scientiam et secundum aliam et si falsa secundum unam et secundum aliam
           </p>
           <p xml:id="ppra-l11-suqsld">
             <pc type="pilcrow"/> Ulterius sequitur 
-            <lb ed="#P"/> quod omnes leges humana legi divinae consonant patet quia leges humanae non sortiuntur denominationem 
-            <lb ed="#P"/>legis nisi inquantum directe et omne directum consonat rationi ideo propositum unde denominatio 
-            <lb ed="#P"/>legis est proportionalis sicut denominatio causalis <pc type="punctus"/> Et sicut impossibile est secundam causam agere nisi 
-            <lb ed="#P"/>prima concurrente ita impossibile est legem esse legem nisi esset conformis divinae legi
+            <lb ed="#P" n="34"/> quod omnes leges humana legi divinae consonant patet quia leges humanae non sortiuntur denominationem 
+            <lb ed="#P" n="35"/>legis nisi inquantum directe et omne directum consonat rationi ideo propositum unde denominatio 
+            <lb ed="#P" n="36"/>legis est proportionalis sicut denominatio causalis <pc type="punctus"/> Et sicut impossibile est secundam causam agere nisi 
+            <lb ed="#P" n="37"/>prima concurrente ita impossibile est legem esse legem nisi esset conformis divinae legi
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l11-uvihsv">
-            <lb ed="#P"/><pc type="pilcrow"/>Unde <ref>tullius libro de legibus</ref> dicit quod non est audienda iuris disciplina nisi ratione firmiter
-            <lb ed="#P"/><pc type="pilcrow"/> Pro quo notandum quod 3es sunt leges subordinatae scilicet lex divina humana et positiva primae semper est obiediendum 
+            <lb ed="#P" n="38"/><pc type="pilcrow"/>Unde <ref>tullius libro de legibus</ref> dicit quod non est audienda iuris disciplina nisi ratione firmiter
+            <lb ed="#P" n="39"/><pc type="pilcrow"/> Pro quo notandum quod 3es sunt leges subordinatae scilicet lex divina humana et positiva primae semper est obiediendum 
             2ae etiam inquantum non discederet a bono fundamento sed videretur quod eo ipso non consonaret divinae 
-            <lb ed="#P"/>Et etiam ubi lex rationis et non principis concordarent obediendum esset legi rationis
-            <lb ed="#P"/>nec tunc esset lex proprie dicta <pc type="punctus"/> sed discederet a lege rationis <pc type="punctus"/> et sicut oportet quod lex emanat a ratione 
-            <lb ed="#P"/>nisi ubi contingeret quod ratio non esset lex propter actus fiendos et tunc ratio non eligit 
-            <lb ed="#P"/>sed dimittit ad <unclear>iuctum</unclear> principium et sic bonitas principia est causa sufficiens ad legem considerandam 
-            <lb ed="#P"/>Adhuc tamen derivatur a ratione <pc type="punctus"/> eo quod ratio dimittit suae bonitati
+            <lb ed="#P" n="40"/>Et etiam ubi lex rationis et non principis concordarent obediendum esset legi rationis
+            <lb ed="#P" n="41"/>nec tunc esset lex proprie dicta <pc type="punctus"/> sed discederet a lege rationis <pc type="punctus"/> et sicut oportet quod lex emanat a ratione 
+            <lb ed="#P" n="42"/>nisi ubi contingeret quod ratio non esset lex propter actus fiendos et tunc ratio non eligit 
+            <lb ed="#P" n="43"/>sed dimittit ad <unclear>iuctum</unclear> principium et sic bonitas principia est causa sufficiens ad legem considerandam 
+            <lb ed="#P" n="44"/>Adhuc tamen derivatur a ratione <pc type="punctus"/> eo quod ratio dimittit suae bonitati
           </p>
           <p xml:id="ppra-l11-suqqcr">
             <pc type="pilcrow"/> Ulterius sequitur quod omnes 
-            <lb ed="#P"/>leges humana consonant inter se quia rationi consonant ergo
+            <lb ed="#P" n="45"/>leges humana consonant inter se quia rationi consonant ergo
           </p>
           <p xml:id="ppra-l11-suqets">
             <pc type="pilcrow"/> Ulterius quod in secta 
-            <lb ed="#P"/>macometi sunt traditiones plurime quae verae legi sunt consonae <pc type="punctus"/> Et ita diceretur de tyrannis 
-            <lb ed="#P"/>quod multas faciunt constitutiones contra legem <pc type="punctus"/> Et quod ita sit de secta macometi patet per avicennam 
-            <lb ed="#P"/>qui dicit in sua metaphysica legem voluptatis tradidit noster philosophia macomet quia fuit 
-            <lb ed="#P"/><name>avicena</name> de illa secta <pc type="punctus"/> sed legem animae alicuius tradunt theologi <pc type="virgula">/</pc> et sic est ista lex contraria 
-            <lb ed="#P"/><unclear>mae</unclear> quia voluptates debet evictare et corpus domare ne videatur super carnem obtinere 
-            <lb ed="#P"/>divinum Et illi tantum procedit quod dicit quod per evitantiam talium de futuris cognosceret <pc type="virgula">/</pc> Ex quo patet quod 
-            <lb ed="#P"/>lex <name>macometi</name> vilipenditur a suis et logi contraria <pc type="punctus"/> et ergo talia non sunt leges <pc type="punctus"/> sed contra leges 
-            <lb ed="#P"/>est isti credendum est cum fuerit de illa secta 
+            <lb ed="#P" n="46"/>macometi sunt traditiones plurime quae verae legi sunt consonae <pc type="punctus"/> Et ita diceretur de tyrannis 
+            <lb ed="#P" n="47"/>quod multas faciunt constitutiones contra legem <pc type="punctus"/> Et quod ita sit de secta macometi patet per avicennam 
+            <lb ed="#P" n="48"/>qui dicit in sua metaphysica legem voluptatis tradidit noster philosophia macomet quia fuit 
+            <lb ed="#P" n="49"/><name>avicena</name> de illa secta <pc type="punctus"/> sed legem animae alicuius tradunt theologi <pc type="virgula">/</pc> et sic est ista lex contraria 
+            <lb ed="#P" n="50"/><unclear>mae</unclear> quia voluptates debet evictare et corpus domare ne videatur super carnem obtinere 
+            <lb ed="#P" n="51"/>divinum Et illi tantum procedit quod dicit quod per evitantiam talium de futuris cognosceret <pc type="virgula">/</pc> Ex quo patet quod 
+            <lb ed="#P" n="52"/>lex <name>macometi</name> vilipenditur a suis et logi contraria <pc type="punctus"/> et ergo talia non sunt leges <pc type="punctus"/> sed contra leges 
+            <lb ed="#P" n="53"/>est isti credendum est cum fuerit de illa secta 
           </p>
           <p xml:id="ppra-l11-suqpmc">
             <pc type="pilcrow"/> Ulterius sequitur quod lex humana aliter consonat logi 
-            <lb ed="#P"/>naturali quam divina ubi notandum est quod lex humana derivatur a lege naturali et est quas consequens ad 
-            <lb ed="#P"/>suum antecedens <pc type="punctus"/> Ita quod lex naturalis debet ymaginari quasi antecedens inferens consequens 
+            <lb ed="#P" n="54"/>naturali quam divina ubi notandum est quod lex humana derivatur a lege naturali et est quas consequens ad 
+            <lb ed="#P" n="55"/>suum antecedens <pc type="punctus"/> Ita quod lex naturalis debet ymaginari quasi antecedens inferens consequens 
           </p>
           <div xml:id="ppra-l11-Dd1e748">
             <head xml:id="ppra-l11-Hslnsln">
@@ -147,22 +148,22 @@
             </head>
             <p xml:id="ppra-l11-pcilhp">
               Unde lex naturalis 
-              <lb ed="#P"/>potest capi <unclear>tripliciter</unclear> pro instinctu ad bonum et ista lex naturalis est communis omnibus <pc type="virgula">/</pc> unde <sic>gacianus</sic> dicit quod <quote>ius naturale est 
+              <lb ed="#P" n="56"/>potest capi <unclear>tripliciter</unclear> pro instinctu ad bonum et ista lex naturalis est communis omnibus <pc type="virgula">/</pc> unde <sic>gacianus</sic> dicit quod <quote>ius naturale est 
               <pb ed="#P" n="35-v"/>
-              <lb ed="#P"/>quod omnia animalia edocuit</quote> <pc type="pilcrow"/> Alio modo strictius capitur potest pertinet ad intellectum practicum et 
-              <lb ed="#P"/>est lumen probatum innatum in quo relucent principia mobilia quo assentimus principiis motibus 
-              <lb ed="#P"/>deinde pro illis principiis quibus assentitur et postea pro conclusionibus elicitis et sunt dictaminia 
-              <lb ed="#P"/>rectae rationis et ab istis debent leges derivari scilicet humanae et positivae
+              <lb ed="#P" n="1"/>quod omnia animalia edocuit</quote> <pc type="pilcrow"/> Alio modo strictius capitur potest pertinet ad intellectum practicum et 
+              <lb ed="#P" n="2"/>est lumen probatum innatum in quo relucent principia mobilia quo assentimus principiis motibus 
+              <lb ed="#P" n="3"/>deinde pro illis principiis quibus assentitur et postea pro conclusionibus elicitis et sunt dictaminia 
+              <lb ed="#P" n="4"/>rectae rationis et ab istis debent leges derivari scilicet humanae et positivae
             </p>
             <p xml:id="ppra-l11-viisaa">
-              <lb ed="#P"/><pc type="pilcrow"/> Visa autem 
-              <lb ed="#P"/>derivatione legis humanae ad rationem <pc type="virgula">/</pc> patet conclusio quia ex dictaminibus rationis non possunt deduci principia 
-              <lb ed="#P"/>fidei nec praecepta euvangelica <pc type="pilcrow"/> Dico tamen quod lex naturalis est dispositio quaedam praevia ad legem divinam 
-              <lb ed="#P"/>licet non sufficit quia sequendo eam quis bene disponeret et tunc sibi infunderetur gratia et sic dispositive antecedit
-              <lb ed="#P"/><pc type="pilcrow"/> Item nec deducitur ab aliquo nec a deo quia non contineret omnia <pc type="punctus"/> <pc type="pilcrow"/> Ulterius sequitur quod viceversa ius 
-              <lb ed="#P"/>naturale christi consequens ad ius divinum et non antecedens <pc type="punctus"/> <pc type="virgula">/</pc> unde <name><sic>gatianus</sic></name> <quote>ius naturale est quod in evvangelio 
-              <lb ed="#P"/>continetur</quote> Etiam ius divinum quamquam est inter continet <pc type="virgula">/</pc>  Et sit quicquid continet ius naturale et ius divinum continet 
-              <lb ed="#P"/>et sic ius naturale est consequens ad ius divinum ergo de primo ad ultimum sequitur etc 
+              <lb ed="#P" n="5"/><pc type="pilcrow"/> Visa autem 
+              <lb ed="#P" n="6"/>derivatione legis humanae ad rationem <pc type="virgula">/</pc> patet conclusio quia ex dictaminibus rationis non possunt deduci principia 
+              <lb ed="#P" n="7"/>fidei nec praecepta euvangelica <pc type="pilcrow"/> Dico tamen quod lex naturalis est dispositio quaedam praevia ad legem divinam 
+              <lb ed="#P" n="8"/>licet non sufficit quia sequendo eam quis bene disponeret et tunc sibi infunderetur gratia et sic dispositive antecedit
+              <lb ed="#P" n="9"/><pc type="pilcrow"/> Item nec deducitur ab aliquo nec a deo quia non contineret omnia <pc type="punctus"/> <pc type="pilcrow"/> Ulterius sequitur quod viceversa ius 
+              <lb ed="#P" n="10"/>naturale christi consequens ad ius divinum et non antecedens <pc type="punctus"/> <pc type="virgula">/</pc> unde <name><sic>gatianus</sic></name> <quote>ius naturale est quod in evvangelio 
+              <lb ed="#P" n="11"/>continetur</quote> Etiam ius divinum quamquam est inter continet <pc type="virgula">/</pc>  Et sit quicquid continet ius naturale et ius divinum continet 
+              <lb ed="#P" n="12"/>et sic ius naturale est consequens ad ius divinum ergo de primo ad ultimum sequitur etc 
             </p>
           </div>
         </div>
@@ -172,37 +173,37 @@
           </head>
           <p xml:id="ppra-l11-eppiea">
             <pc type="pilcrow"/> Ulterius sequitur quod peccat 
-            <lb ed="#P"/>in processu naturalis investigationis concludere virginem etiam posse parerere quia concludit falsum patet 
-            <lb ed="#P"/>primo quod peccat contra divinam potentiam praesumptuose arguit quasi diceret non sive de hoc expertus igitur 
-            <lb ed="#P"/>non ita est nec potest esse <pc type="punctus"/> consequentia talis est absurda <pc type="punctus"/> quia non est aliquis verus philosophus qui negaret 
-            <lb ed="#P"/>istam proprietatem huic plantae nisi viderit quod fuerit applicata et nihil factum fuerit nec debet negare 
-            <lb ed="#P"/>quin haberet multas multas proprietas quas nonquam viderit quod non potest constare de negativa 
-            <lb ed="#P"/>in fuerit facta applicatio verba gratia magnes attrahit ferrum <pc type="punctus"/> et tamen impeditur per aliud 
-            <lb ed="#P"/>licet fuerit applicatio quia per aliquam influentiam et sic de non applicatis non potest concludi negativa 
-            <lb ed="#P"/>et supposito quod per applicationem possit constare <pc type="punctus"/> tamen infinita sunt passa <pc type="punctus"/> ad quae non posset 
-            <lb ed="#P"/>applicari 
+            <lb ed="#P" n="13"/>in processu naturalis investigationis concludere virginem etiam posse parerere quia concludit falsum patet 
+            <lb ed="#P" n="14"/>primo quod peccat contra divinam potentiam praesumptuose arguit quasi diceret non sive de hoc expertus igitur 
+            <lb ed="#P" n="15"/>non ita est nec potest esse <pc type="punctus"/> consequentia talis est absurda <pc type="punctus"/> quia non est aliquis verus philosophus qui negaret 
+            <lb ed="#P" n="16"/>istam proprietatem huic plantae nisi viderit quod fuerit applicata et nihil factum fuerit nec debet negare 
+            <lb ed="#P" n="17"/>quin haberet multas multas proprietas quas nonquam viderit quod non potest constare de negativa 
+            <lb ed="#P" n="18"/>in fuerit facta applicatio verba gratia magnes attrahit ferrum <pc type="punctus"/> et tamen impeditur per aliud 
+            <lb ed="#P" n="19"/>licet fuerit applicatio quia per aliquam influentiam et sic de non applicatis non potest concludi negativa 
+            <lb ed="#P" n="20"/>et supposito quod per applicationem possit constare <pc type="punctus"/> tamen infinita sunt passa <pc type="punctus"/> ad quae non posset 
+            <lb ed="#P" n="21"/>applicari 
           </p>
           <!-- EXTREMELY fuzzy parallell; needs review -->
           <p xml:id="ppra-l11-idqphf">
             <pc type="pilcrow"/> Etiam stat quod aliquod agens non posset producere suum effectum nisi alio concurrente 
-            <lb ed="#P"/>quare dato quod expiretur aliquam non tamen omnem <pc type="punctus"/> quam ergo denegabit a deo qui est supremus 
-            <lb ed="#P"/>Etiam potestas naturae non est nota philosopho et sic fortius nec natura divina erit sibi nota
+            <lb ed="#P" n="22"/>quare dato quod expiretur aliquam non tamen omnem <pc type="punctus"/> quam ergo denegabit a deo qui est supremus 
+            <lb ed="#P" n="23"/>Etiam potestas naturae non est nota philosopho et sic fortius nec natura divina erit sibi nota
           </p>
           <p xml:id="ppra-l11-ipnmvp">
             <pc type="pilcrow"/> Unde 
-            <lb ed="#P"/>advertendum est quod potestas naturae et <sic>accidentis</sic> est secundum quod congruit decori universi et divinae providentiae 
-            <lb ed="#P"/>primo capiatur aer vel aliud agens naturale nam potentia motiva ad vacui repletionem videtur 
-            <lb ed="#P"/>infinita quia subito accederet ad repletionem <pc type="punctus"/> modo processus subitus videtur provenire a potentia 
-            <lb ed="#P"/>infinita Et ergo si propter bonum universi natura sic faceret si congrueret divinam providentiam 
-            <lb ed="#P"/>non haberet negare quin virgo pareret ymmo suppositus quod non esset nisi una 
-            <lb ed="#P"/>mulier philosophus haberet dicere quod generaret <pc type="punctus"/> non tamen per hoc volo dicere quod virgo 
-            <lb ed="#P"/>peperit naturaliter sed volo dicere quod philosophus non habet hoc negare <pc type="virgula">/</pc> vel aliter decipitur in 
-            <lb ed="#P"/>veritatis inquisitione quia assentit propositionibus falsis <pc type="punctus"/> non facta diligentia sufficiente
+            <lb ed="#P" n="24"/>advertendum est quod potestas naturae et <sic>accidentis</sic> est secundum quod congruit decori universi et divinae providentiae 
+            <lb ed="#P" n="25"/>primo capiatur aer vel aliud agens naturale nam potentia motiva ad vacui repletionem videtur 
+            <lb ed="#P" n="26"/>infinita quia subito accederet ad repletionem <pc type="punctus"/> modo processus subitus videtur provenire a potentia 
+            <lb ed="#P" n="27"/>infinita Et ergo si propter bonum universi natura sic faceret si congrueret divinam providentiam 
+            <lb ed="#P" n="28"/>non haberet negare quin virgo pareret ymmo suppositus quod non esset nisi una 
+            <lb ed="#P" n="29"/>mulier philosophus haberet dicere quod generaret <pc type="punctus"/> non tamen per hoc volo dicere quod virgo 
+            <lb ed="#P" n="30"/>peperit naturaliter sed volo dicere quod philosophus non habet hoc negare <pc type="virgula">/</pc> vel aliter decipitur in 
+            <lb ed="#P" n="31"/>veritatis inquisitione quia assentit propositionibus falsis <pc type="punctus"/> non facta diligentia sufficiente
           </p>
            <p xml:id="ppra-l11-aehapn">
              <pc type="pilcrow"/> Item <unclear>valius</unclear> 
-             <lb ed="#P"/>de filio <unclear>pyrri</unclear> cuius pater facit captus et erat filius mutus tamen pater non fuit cognitus sed filius 
-             <lb ed="#P"/>tunc locutus <pc type="virgula">/</pc> et hoc potest reduci ad naturam
+             <lb ed="#P" n="32"/>de filio <unclear>pyrri</unclear> cuius pater facit captus et erat filius mutus tamen pater non fuit cognitus sed filius 
+             <lb ed="#P" n="33"/>tunc locutus <pc type="virgula">/</pc> et hoc potest reduci ad naturam
           </p>
         </div>
         <div xml:id="ppra-l11-Dd1e1347">
@@ -211,13 +212,13 @@
           </head>
           <p xml:id="ppra-l11-eppeiq">
             <pc type="pilcrow"/> Ex dictis ergo patet quod articuli fidei reliquandi 
-            <lb ed="#P"/>sunt neutri apud verum philosophum et per consequens debite philosophando debet discrete facere circa talia <pc type="punctus"/> 
-            <lb ed="#P"/>Ex quo patet ultimo quod vere prophetando essent paucae propositiones scitae extra mathematica 
+            <lb ed="#P" n="34"/>sunt neutri apud verum philosophum et per consequens debite philosophando debet discrete facere circa talia <pc type="punctus"/> 
+            <lb ed="#P" n="35"/>Ex quo patet ultimo quod vere prophetando essent paucae propositiones scitae extra mathematica 
           </p>
           <!-- fuzzy parallel and break -->
           <p xml:id="ppra-l11-sfqevp">
             quia in philosophia 
-            <lb ed="#P"/>procedendo vere paucae essent scitae ymmo scientia naturalis est quasi theologia quare etc
+            <lb ed="#P" n="36"/>procedendo vere paucae essent scitae ymmo scientia naturalis est quasi theologia quare etc
           </p>
         </div>
       </div>

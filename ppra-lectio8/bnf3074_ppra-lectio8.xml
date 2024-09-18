@@ -54,54 +54,54 @@
             <supplied>Conclusio ad questionem originalem</supplied>
           </head>
           <p xml:id="ppra-l8-seqses">
-            <lb ed="#P"/>Consequenter restat circa materiam resopndere ad 2m argumentum unde rememorandum est quod fides non subicitur 
-            <lb ed="#P"/>humano iudicio 
+            <lb ed="#P" n="25"/>Consequenter restat circa materiam resopndere ad 2m argumentum unde rememorandum est quod fides non subicitur 
+            <lb ed="#P" n="26"/>humano iudicio 
           </p>
         </div>
         <div xml:id="ppra-l8-Dd1e184">
           <head xml:id="ppra-l8-Hncefea">Nova conclusio et rationes: quod fides elevat animam</head>
           <p xml:id="ppra-l8-eqpscv">
             ex quo cum aliis dictis sequitur quod fides elevat <pc type="punctus"/> roborat et illuminat potentiam 
-            <lb ed="#P"/>supra omnes habitus acquisitos et ex hoc sequitur contra <ref xml:id="ppra-l8-Rd1e211"><name ref="#Averroes">Averroes</name> qui ponit in prologo 3i physicorum</ref> quod 
-            <lb ed="#P"/><quote xml:id="ppra-l8-Qd1e222">leges impediunt inquisitionem veritatis</quote> <unclear>si similo modo</unclear> intelligat de aliis legibus a lege 
-            <lb ed="#P"/>christiana verum est propter hoc quod docent corruptiones morum sed de fide et lege nostra falsum est <pc type="virgula">/</pc> probatur 
-            <lb ed="#P"/>correlarium scilicet quod fides elevet <pc type="punctus"/> roboret et illuminet potentiam supra omnes habitus acquisitos quia fides 
-            <lb ed="#P"/>facit veritates arduissimas attingere et post intelligere iuxta illud <quote xml:id="ppra-l8-Qd1e277" source="http://scta.info/resource/is7_9"><!-- src:imprecise -->Si non credideritis, non 
-            <lb ed="#P"/>intelligetis</quote>
+            <lb ed="#P" n="27"/>supra omnes habitus acquisitos et ex hoc sequitur contra <ref xml:id="ppra-l8-Rd1e211"><name ref="#Averroes">Averroes</name> qui ponit in prologo 3i physicorum</ref> quod 
+            <lb ed="#P" n="28"/><quote xml:id="ppra-l8-Qd1e222">leges impediunt inquisitionem veritatis</quote> <unclear>si similo modo</unclear> intelligat de aliis legibus a lege 
+            <lb ed="#P" n="29"/>christiana verum est propter hoc quod docent corruptiones morum sed de fide et lege nostra falsum est <pc type="virgula">/</pc> probatur 
+            <lb ed="#P" n="30"/>correlarium scilicet quod fides elevet <pc type="punctus"/> roboret et illuminet potentiam supra omnes habitus acquisitos quia fides 
+            <lb ed="#P" n="31"/>facit veritates arduissimas attingere et post intelligere iuxta illud <quote xml:id="ppra-l8-Qd1e277" source="http://scta.info/resource/is7_9"><!-- src:imprecise -->Si non credideritis, non 
+            <lb ed="#P" n="32"/>intelligetis</quote>
           </p>
           <p xml:id="ppra-l8-aiaesa">
-            <lb ed="#P"/><pc type="pilcrow"/> Ad idem arguitur sic fides est supprema dispositio intellectus ergo suppreme debet elevare supra 
-            <lb ed="#P"/>alias dispositiones acquisitas antecedens patet <pc type="punctus"/> quia maximus vigor intellectus est huiusmodi dispositionem 
-            <lb ed="#P"/>habere
+            <lb ed="#P" n="33"/><pc type="pilcrow"/> Ad idem arguitur sic fides est supprema dispositio intellectus ergo suppreme debet elevare supra 
+            <lb ed="#P" n="34"/>alias dispositiones acquisitas antecedens patet <pc type="punctus"/> quia maximus vigor intellectus est huiusmodi dispositionem 
+            <lb ed="#P" n="35"/>habere
           </p>
           <p xml:id="ppra-l8-ifeqqa">
             <pc type="pilcrow"/> Item fides est lumen expressivum erroris circa felicitatem suppremam igitur est 
-            <lb ed="#P"/>res nobilissima et supra omnes habitus acquisitos elevans roborans et illuminans potentiam antecedens patet quia 
-            <lb ed="#P"/>iuxta proportionem obiectorum est proportio habituum Unde habitus concernentes felicitatem sunt nobilissimi 
+            <lb ed="#P" n="36"/>res nobilissima et supra omnes habitus acquisitos elevans roborans et illuminans potentiam antecedens patet quia 
+            <lb ed="#P" n="37"/>iuxta proportionem obiectorum est proportio habituum Unde habitus concernentes felicitatem sunt nobilissimi 
           </p>
           <p xml:id="ppra-l8-ifaaid">
-            <lb ed="#P"/><pc type="pilcrow"/> Item habitui fidei annectitur specialis dei assistentia quae quidam specialis assistentia aliis habitibus 
-            <lb ed="#P"/>non annectitur ergo  correlarium verum <pc type="punctus"/> 
+            <lb ed="#P" n="38"/><pc type="pilcrow"/> Item habitui fidei annectitur specialis dei assistentia quae quidam specialis assistentia aliis habitibus 
+            <lb ed="#P" n="39"/>non annectitur ergo  correlarium verum <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l8-iftete">
             <pc type="pilcrow"/> Item fides tollit multiplicitatem rationum sophisticorum et errorum 
-            <lb ed="#P"/>circa felicitatem ergo est in intellectu dispositio nobilissima patet consequentia quia non est parva perfectio in intellectu 
-            <lb ed="#P"/>tollere errores circa felicitatem quia quam bonum est bene sentire circa felicitatem tam malum est 
-            <lb ed="#P"/>male sentire circa huiusmodi felicitatem 
+            <lb ed="#P" n="40"/>circa felicitatem ergo est in intellectu dispositio nobilissima patet consequentia quia non est parva perfectio in intellectu 
+            <lb ed="#P" n="41"/>tollere errores circa felicitatem quia quam bonum est bene sentire circa felicitatem tam malum est 
+            <lb ed="#P" n="42"/>male sentire circa huiusmodi felicitatem 
           </p>
           <p xml:id="ppra-l8-qacfcp">
             <pc type="pilcrow"/> Item 6o iuxta scriptura corpus quod corrumpitur 
-            <lb ed="#P"/>aggravat animam et fides elevat ad celestia capienda <pc type="punctus"/> ergo nullus habitus tantum elevat 
-            <lb ed="#P"/>sicut fides <pc type="punctus"/> et sic videtur quod fides est habitus elevans potentiam et omnes habitus quam fuit probandum
+            <lb ed="#P" n="43"/>aggravat animam et fides elevat ad celestia capienda <pc type="punctus"/> ergo nullus habitus tantum elevat 
+            <lb ed="#P" n="44"/>sicut fides <pc type="punctus"/> et sic videtur quod fides est habitus elevans potentiam et omnes habitus quam fuit probandum
           </p>
         </div>
         <div xml:id="ppra-l8-Dd1e585">
           <head xml:id="ppra-l8-Hlalala"><supplied>Languores animae</supplied></head>
           <p xml:id="ppra-l8-cvqrpa">
             <pc type="pilcrow"/> 
-            <lb ed="#P"/><pc type="pilcrow"/> Pro cuius intellectu ut magis appareat videndum est quae sin langores animae qui per 
-            <lb ed="#P"/>fidem habent curari unde circa istud est advertendum quod patria radix omnium langorum est poena 
-            <lb ed="#P"/>originalis culpae <pc type="punctus"/> cuius causa fuit peccatum originale 
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Pro cuius intellectu ut magis appareat videndum est quae sin langores animae qui per 
+            <lb ed="#P" n="46"/>fidem habent curari unde circa istud est advertendum quod patria radix omnium langorum est poena 
+            <lb ed="#P" n="47"/>originalis culpae <pc type="punctus"/> cuius causa fuit peccatum originale 
           </p>
           <div xml:id="ppra-l8-Dd1e658">
             <head xml:id="ppra-l8-Hplddid">
@@ -109,33 +109,33 @@
             </head>
             <p xml:id="ppra-l8-pelmis">
               Primus ergo languor est culpa per quam ymago 
-              <lb ed="#P"/>dei scilicet anima perdidit vigorem et divinum in tantum quod sensitivi subiciatur cuius deberet dominari 
-              <lb ed="#P"/>quia secundum <ref xml:id="ppra-l8-Rd1e720" corresp="#ppra-l8-Qihbads">philosophum primo politice capitulo 3o</ref> si servetur debitus ordo anima dominaretur corporis divino <unclear>despoticus</unclear>
-              <lb ed="#P"/>sic quod corpus ad libitum suum sibi obediret et istud dominum vocatur despoticum Sed ex dei influentia 
-              <lb ed="#P"/>generali mutatur dominum <pc type="punctus"/> viceversa <pc type="virgula">/</pc> ita quod sensus dominatur rationi 
+              <lb ed="#P" n="48"/>dei scilicet anima perdidit vigorem et divinum in tantum quod sensitivi subiciatur cuius deberet dominari 
+              <lb ed="#P" n="49"/>quia secundum <ref xml:id="ppra-l8-Rd1e720" corresp="#ppra-l8-Qihbads">philosophum primo politice capitulo 3o</ref> si servetur debitus ordo anima dominaretur corporis divino <unclear>despoticus</unclear>
+              <lb ed="#P" n="50"/>sic quod corpus ad libitum suum sibi obediret et istud dominum vocatur despoticum Sed ex dei influentia 
+              <lb ed="#P" n="51"/>generali mutatur dominum <pc type="punctus"/> viceversa <pc type="virgula">/</pc> ita quod sensus dominatur rationi 
             </p>
             <!-- fuzzy parallel -->
             <p xml:id="ppra-l8-pelrdt">
               et ista est radix ex qua anima constituitur 
-              <lb ed="#P"/>in langore nec ponit movere ad libitum et in hoc detur patitur prima pars ymaginis scilicet memoria 
-              <lb ed="#P"/>unde 2a pars langoris primi est quae per huiusmodi penam perdit iustitiam seu iudicii rectitudinem 
-              <lb ed="#P"/>spiritualia contempnendo et temperantia acceptando et in hoc deformatur
+              <lb ed="#P" n="52"/>in langore nec ponit movere ad libitum et in hoc detur patitur prima pars ymaginis scilicet memoria 
+              <lb ed="#P" n="53"/>unde 2a pars langoris primi est quae per huiusmodi penam perdit iustitiam seu iudicii rectitudinem 
+              <lb ed="#P" n="54"/>spiritualia contempnendo et temperantia acceptando et in hoc deformatur
             </p>
             <p xml:id="ppra-l8-slvaot">
               <pc type="virgula">//</pc> 2a pars 
               <pb ed="#P" n="33-r"/>
-              <lb ed="#P"/>ymaginaationis scilicet intelligentia quae correspondet filio in divinis cui attribuitur intelligentia et in tantum 
-              <lb ed="#P"/>quod detur patitur per quamdam similitudinem ita quod iudicium animae est quod amara sunt dulcia et econverso et in hoc 
-              <lb ed="#P"/>illud quod habetur <ref xml:id="ppra-l8-Rd1e934"><title ref="#is">ysaie</title></ref> <pc type="pilcrow"/> <quote xml:id="ppra-l8-Qd1e941" source="http://scta.info/resource/is5_20"><!--src:imprecise-->vhe qui dicitis bonum malum</quote> etc Item est 2us langor quae 
-              <lb ed="#P"/>participat philosophi dicentes quod anima mebriatur fluvio letheo <pc type="punctus"/> scilicet infernali fluvio ubi 
-              <lb ed="#P"/>cum anima fuerit quae prius scivit dicunt horum oblivisci <pc type="pilcrow"/> Unde <ref xml:id="ppra-l8-Rd1e985"><name ref="#Macrobius">macrobius</name></ref> dicit
-              <lb ed="#P"/>quod talis fluvius in hac vita reperitur et <sic>maxe</sic> quando homo ad temporalia convertitur caelestia 
-              <lb ed="#P"/>relinquendo et istud facere anima nisi specialiter a deo iuvaretur 
+              <lb ed="#P" n="1"/>ymaginaationis scilicet intelligentia quae correspondet filio in divinis cui attribuitur intelligentia et in tantum 
+              <lb ed="#P" n="2"/>quod detur patitur per quamdam similitudinem ita quod iudicium animae est quod amara sunt dulcia et econverso et in hoc 
+              <lb ed="#P" n="3"/>illud quod habetur <ref xml:id="ppra-l8-Rd1e934"><title ref="#is">ysaie</title></ref> <pc type="pilcrow"/> <quote xml:id="ppra-l8-Qd1e941" source="http://scta.info/resource/is5_20"><!--src:imprecise-->vhe qui dicitis bonum malum</quote> etc Item est 2us langor quae 
+              <lb ed="#P" n="4"/>participat philosophi dicentes quod anima mebriatur fluvio letheo <pc type="punctus"/> scilicet infernali fluvio ubi 
+              <lb ed="#P" n="5"/>cum anima fuerit quae prius scivit dicunt horum oblivisci <pc type="pilcrow"/> Unde <ref xml:id="ppra-l8-Rd1e985"><name ref="#Macrobius">macrobius</name></ref> dicit
+              <lb ed="#P" n="6"/>quod talis fluvius in hac vita reperitur et <sic>maxe</sic> quando homo ad temporalia convertitur caelestia 
+              <lb ed="#P" n="7"/>relinquendo et istud facere anima nisi specialiter a deo iuvaretur 
             </p>
             <p xml:id="ppra-l8-itaqat">
               Incipit tamen cupiditatem quae generale est 
-              <lb ed="#P"/><unclear>n?n</unclear> ad omnia vitia et in hoc deturpatur vis concupiscibilis per <del rend="strikethrough">cupiditatem</del> vitia et per cupiditatem 3a pars 
-              <lb ed="#P"/>ymaginationis quae spiritui sancto attribuitur scilicet amor insolitus
+              <lb ed="#P" n="8"/><unclear>n?n</unclear> ad omnia vitia et in hoc deturpatur vis concupiscibilis per <del rend="strikethrough">cupiditatem</del> vitia et per cupiditatem 3a pars 
+              <lb ed="#P" n="9"/>ymaginationis quae spiritui sancto attribuitur scilicet amor insolitus
             </p>
           </div>
           <div xml:id="ppra-l8-Dd1e1108">
@@ -144,19 +144,19 @@
             </head>
             <p xml:id="ppra-l8-spissd">
               <pc type="pilcrow"/> 2us <sic>langor</sic> principalis animae 
-              <lb ed="#P"/>habens ex primo originem <pc type="virgula">/</pc> est ex parte completionis humanae <pc type="punctus"/> quia in statu innocentiae non fuisset 
-              <lb ed="#P"/>deffectus in completione modo in effusione animae primaria caret anima usu rationis <pc type="punctus"/> ymmo 
-              <lb ed="#P"/>et diu post nativitatem Et sic corpus aggravat animam propter culpam originalem <pc type="punctus"/> tamen non 
-              <lb ed="#P"/>dicitur <seg type="correction">uni?t<del rend="expunctuation">lis</del></seg> propter christum et virginem beatam 
+              <lb ed="#P" n="10"/>habens ex primo originem <pc type="virgula">/</pc> est ex parte completionis humanae <pc type="punctus"/> quia in statu innocentiae non fuisset 
+              <lb ed="#P" n="11"/>deffectus in completione modo in effusione animae primaria caret anima usu rationis <pc type="punctus"/> ymmo 
+              <lb ed="#P" n="12"/>et diu post nativitatem Et sic corpus aggravat animam propter culpam originalem <pc type="punctus"/> tamen non 
+              <lb ed="#P" n="13"/>dicitur <seg type="correction">uni?t<del rend="expunctuation">lis</del></seg> propter christum et virginem beatam 
             </p>
             <p xml:id="ppra-l8-eihsis">
               <pc type="pilcrow"/> Unde et ista infirmitas ascendit per gradus 
-              <lb ed="#P"/>remissos impedientes operationes nobiles <pc type="punctus"/> et sic staret esse hominem qui non cogitaret 
-              <lb ed="#P"/>nisi per sensum tactus <pc type="punctus"/> nec posset aliis sensibus uti <pc type="virgula">/</pc> patet quia deffecto non requiritur visus 
-              <lb ed="#P"/>quia multi fuerunt nati caeci <pc type="punctus"/> nec requiritur gustus <pc type="punctus"/> quia quilibet potest non esse in homine <pc type="punctus"/> sed 
-              <lb ed="#P"/>non potest deesse tactus <unclear>ideo</unclear> possibilis est quod sit homo qui non habeat nisi vim tactivam <pc type="punctus"/> 
-              <lb ed="#P"/><pc type="pilcrow"/> Confirmatur quia forma substantialis potest educi sub aliqua dispositione sub qua non potest omnes operationes 
-              <lb ed="#P"/>formare
+              <lb ed="#P" n="14"/>remissos impedientes operationes nobiles <pc type="punctus"/> et sic staret esse hominem qui non cogitaret 
+              <lb ed="#P" n="15"/>nisi per sensum tactus <pc type="punctus"/> nec posset aliis sensibus uti <pc type="virgula">/</pc> patet quia deffecto non requiritur visus 
+              <lb ed="#P" n="16"/>quia multi fuerunt nati caeci <pc type="punctus"/> nec requiritur gustus <pc type="punctus"/> quia quilibet potest non esse in homine <pc type="punctus"/> sed 
+              <lb ed="#P" n="17"/>non potest deesse tactus <unclear>ideo</unclear> possibilis est quod sit homo qui non habeat nisi vim tactivam <pc type="punctus"/> 
+              <lb ed="#P" n="18"/><pc type="pilcrow"/> Confirmatur quia forma substantialis potest educi sub aliqua dispositione sub qua non potest omnes operationes 
+              <lb ed="#P" n="19"/>formare
             </p>
             <div xml:id="ppra-l8-Dd1e1331">
               <head xml:id="ppra-l8-Hapapap">
@@ -164,34 +164,34 @@
               </head>
               <p xml:id="ppra-l8-uchqav">
                 <pc type="pilcrow"/> Unde ponuntur aliquae propositiones prima non stat formam substantialem esse in materia cum dispositione 
-                <lb ed="#P"/>quin possit cum illa aliquam operationem facere patet quia <sic>octium</sic> maxime abhoreri debet <pc type="punctus"/> ideo natura 
-                <lb ed="#P"/>nonquam daret dispositionem sub qua non posset aliquid operari
+                <lb ed="#P" n="20"/>quin possit cum illa aliquam operationem facere patet quia <sic>octium</sic> maxime abhoreri debet <pc type="punctus"/> ideo natura 
+                <lb ed="#P" n="21"/>nonquam daret dispositionem sub qua non posset aliquid operari
                 
                 <pc type="pilcrow"/> 2a propositio est quod dispositio sub 
-                <lb ed="#P"/>qua aliqua operationem exercere sufficit ad eius nuctritionem et vivere ergo etc <pc type="virgula">//</pc> Ex istis 
-                <lb ed="#P"/>potest fundari quod complexio sub qua educitur vel creatur anima illa est immediata disponi sub qua 
-                <lb ed="#P"/>est forma bruti vel vegetabilis <pc type="virgula">//</pc> patet <pc type="virgula">/</pc> quia stat quod forma educitur sub minima operatione humana et ista 
-                <lb ed="#P"/>operatio esset minima pro operatione rationalis creaturae ergo quaecumque minima daretur esset complexio bruti 
-                <lb ed="#P"/>vel vegetibilis si non sit essentialis ordo 
+                <lb ed="#P" n="22"/>qua aliqua operationem exercere sufficit ad eius nuctritionem et vivere ergo etc <pc type="virgula">//</pc> Ex istis 
+                <lb ed="#P" n="23"/>potest fundari quod complexio sub qua educitur vel creatur anima illa est immediata disponi sub qua 
+                <lb ed="#P" n="24"/>est forma bruti vel vegetabilis <pc type="virgula">//</pc> patet <pc type="virgula">/</pc> quia stat quod forma educitur sub minima operatione humana et ista 
+                <lb ed="#P" n="25"/>operatio esset minima pro operatione rationalis creaturae ergo quaecumque minima daretur esset complexio bruti 
+                <lb ed="#P" n="26"/>vel vegetibilis si non sit essentialis ordo 
               </p>
               <p xml:id="ppra-l8-eirsci">
                 <pc type="pilcrow"/> Ex quo infertur quod in gradibus cognoscendi specifice 
-                <lb ed="#P"/><del rend="strikethrough">contentis</del> distinctis gradu intellectivo non arguitur diversitas specifica producibilium sub specie humana <pc type="punctus"/>
+                <lb ed="#P" n="27"/><del rend="strikethrough">contentis</del> distinctis gradu intellectivo non arguitur diversitas specifica producibilium sub specie humana <pc type="punctus"/>
                 
                 <pc type="pilcrow"/> Aliis 
-                <lb ed="#P"/>tamen voluerunt dicere quod esset ymaginabilis aliqua creatura quae intelligeret confuse <pc type="virgula">/</pc> alia componendo et 
-                <lb ed="#P"/>dividendo alia sillogizando et sic ymaginantur quod essent gradus specifice in specie humana causabiles sed 
-                <lb ed="#P"/>istud non potest stare quia diverse operationes possunt esse in eadem specie propter diversitatem organorum 
-                <lb ed="#P"/>Et sic diversitas talium graduum cognoscendi est reducenda ad diversitatem organorum et non specierum 
+                <lb ed="#P" n="28"/>tamen voluerunt dicere quod esset ymaginabilis aliqua creatura quae intelligeret confuse <pc type="virgula">/</pc> alia componendo et 
+                <lb ed="#P" n="29"/>dividendo alia sillogizando et sic ymaginantur quod essent gradus specifice in specie humana causabiles sed 
+                <lb ed="#P" n="30"/>istud non potest stare quia diverse operationes possunt esse in eadem specie propter diversitatem organorum 
+                <lb ed="#P" n="31"/>Et sic diversitas talium graduum cognoscendi est reducenda ad diversitatem organorum et non specierum 
               </p>
               <!-- fuzzy parallel -->
               <p xml:id="ppra-l8-eqpsec">
                 <pc type="punctus"/> Et 
-                <lb ed="#P"/>si dicatur quod esse volitum sunt denominationes essentiales habentes ordinem ergo una potest communicari sine 
-                <lb ed="#P"/>alia <pc type="punctus"/> Ista tamen ratio non multum concludit esse volitum non est communicabile sine intellectio 
-                <lb ed="#P"/>et econtra nam esse volitivum est esse appetetivum intelligenter <pc type="punctus"/> ita quod iste denominationes sunt conversibiles <pc type="virgula">/</pc> sed esse volitivum 
-                <lb ed="#P"/>se habet quodam modo passive et ista est 2a infirmitas quae sumpsit originem ex peccato originali 
-                <lb ed="#P"/>et ista infirmitas est <unclear>intellectu</unclear> causa ignoscendi ymmo et communis nihil causandi
+                <lb ed="#P" n="32"/>si dicatur quod esse volitum sunt denominationes essentiales habentes ordinem ergo una potest communicari sine 
+                <lb ed="#P" n="33"/>alia <pc type="punctus"/> Ista tamen ratio non multum concludit esse volitum non est communicabile sine intellectio 
+                <lb ed="#P" n="34"/>et econtra nam esse volitivum est esse appetetivum intelligenter <pc type="punctus"/> ita quod iste denominationes sunt conversibiles <pc type="virgula">/</pc> sed esse volitivum 
+                <lb ed="#P" n="35"/>se habet quodam modo passive et ista est 2a infirmitas quae sumpsit originem ex peccato originali 
+                <lb ed="#P" n="36"/>et ista infirmitas est <unclear>intellectu</unclear> causa ignoscendi ymmo et communis nihil causandi
               </p>
             </div>
           </div>
@@ -200,27 +200,27 @@
           <head xml:id="ppra-l8-Htltltl"><supplied>Tertius languor</supplied></head>
           <p xml:id="ppra-l8-tlarqa">
             <pc type="pilcrow"/> 3us <sic>langor</sic> est consuetudo 
-            <lb ed="#P"/>audiendi errores <pc type="punctus"/> unde <ref xml:id="ppra-l8-Rd1e1740"><name ref="#Averroes">commentator</name> in 3o <title type="PhysicsCommentary">physicorum</title></ref> dicit <quote xml:id="ppra-l8-Qd1e1768">consuetudo audiendi falsa maxime impedit</quote> 
-            <lb ed="#P"/>veritatem et <ref xml:id="ppra-l8-Rd1e1804"><name>tullius</name> in libro de tusculanis quaestionibus</ref> dicit quod <quote xml:id="ppra-l8-Qd1e1815">natura nos tales genuit 
-            <lb ed="#P"/>ut si ipsam intueremur nos duceret ad vitam beatam sed illos <unclear>igniculos</unclear> quo natura 
-            <lb ed="#P"/>dedit mala consuetudine extinguimus</quote> Causa est quia maior pars cum quibus conversatur 
-            <lb ed="#P"/>iuvenes est minus docta <pc type="punctus"/> Et quia natura a principio est avida <pc type="punctus"/> Ideo a principio falsitatem pro vero <unclear>caput</unclear> 
-            <lb ed="#P"/>et fortissime imprimit et retinet nisi per virtutes expurgetur <pc type="virgula">/</pc> et ista fuit causa ydolatrie 
-            <lb ed="#P"/>filiorum israel et vetulae nunc etiam operantur sortilegiis quae habuerunt ortum in egipto <pc type="punctus"/> Et 
-            <lb ed="#P"/>quia populus vidit cerimonias cepit in ymaginatione et continuavit et hoc fuit quia a puero caldeo 
-            <lb ed="#P"/>viderunt sic facere scilicet a <unclear>nyerno</unclear> filio beeli <pc type="punctus"/> Et sic malum est dare tale exemplum quia in perpetuum 
-            <lb ed="#P"/>continuatur et ista est magna infirmitas animae <pc type="virgula">/</pc> Ideo <ref xml:id="ppra-l8-Rd1e1977"><name>aristoteles</name></ref> <quote xml:id="ppra-l8-Qd1e2000" source="http://scta.info/resource/aristneth-l1">non parum refert iuvenem sic 
-            <lb ed="#P"/>vel sic assuesci</quote> <pc type="punctus"/>
+            <lb ed="#P" n="37"/>audiendi errores <pc type="punctus"/> unde <ref xml:id="ppra-l8-Rd1e1740"><name ref="#Averroes">commentator</name> in 3o <title type="PhysicsCommentary">physicorum</title></ref> dicit <quote xml:id="ppra-l8-Qd1e1768">consuetudo audiendi falsa maxime impedit</quote> 
+            <lb ed="#P" n="38"/>veritatem et <ref xml:id="ppra-l8-Rd1e1804"><name>tullius</name> in libro de tusculanis quaestionibus</ref> dicit quod <quote xml:id="ppra-l8-Qd1e1815">natura nos tales genuit 
+            <lb ed="#P" n="39"/>ut si ipsam intueremur nos duceret ad vitam beatam sed illos <unclear>igniculos</unclear> quo natura 
+            <lb ed="#P" n="40"/>dedit mala consuetudine extinguimus</quote> Causa est quia maior pars cum quibus conversatur 
+            <lb ed="#P" n="41"/>iuvenes est minus docta <pc type="punctus"/> Et quia natura a principio est avida <pc type="punctus"/> Ideo a principio falsitatem pro vero <unclear>caput</unclear> 
+            <lb ed="#P" n="42"/>et fortissime imprimit et retinet nisi per virtutes expurgetur <pc type="virgula">/</pc> et ista fuit causa ydolatrie 
+            <lb ed="#P" n="43"/>filiorum israel et vetulae nunc etiam operantur sortilegiis quae habuerunt ortum in egipto <pc type="punctus"/> Et 
+            <lb ed="#P" n="44"/>quia populus vidit cerimonias cepit in ymaginatione et continuavit et hoc fuit quia a puero caldeo 
+            <lb ed="#P" n="45"/>viderunt sic facere scilicet a <unclear>nyerno</unclear> filio beeli <pc type="punctus"/> Et sic malum est dare tale exemplum quia in perpetuum 
+            <lb ed="#P" n="46"/>continuatur et ista est magna infirmitas animae <pc type="virgula">/</pc> Ideo <ref xml:id="ppra-l8-Rd1e1977"><name>aristoteles</name></ref> <quote xml:id="ppra-l8-Qd1e2000" source="http://scta.info/resource/aristneth-l1">non parum refert iuvenem sic 
+            <lb ed="#P" n="47"/>vel sic assuesci</quote> <pc type="punctus"/>
           </p>
         </div>
         <div xml:id="ppra-l8-Dd1e2023">
           <head xml:id="ppra-l8-Hd1e2025">Quartus languor</head>
           <p xml:id="ppra-l8-qianem">
             <pc type="pilcrow"/> 4a infirmitas est affectio prava quae est sui obiecti ostensiva sub ratione 
-            <lb ed="#P"/>boni <pc type="punctus"/> quia amor et odium pervertunt iudicium ideo <ref xml:id="ppra-l8-Rd1e2065"><name>boetius</name> in fine primi <title>de consolatione</title></ref> docet fugere 
-            <lb ed="#P"/>passiones si velit bene videre verum unde <ref xml:id="ppra-l8-Rd1e2087">sapientiae 2o</ref> <quote xml:id="ppra-l8-Qd1e2103" source="http://scta.info/resource/sap2_21@5-9">malitia eorum excaecavit eos</quote> ut eos ut veritas
-            <lb ed="#P"/>appareat falsa et econverso Et psalmista <quote xml:id="ppra-l8-Qd1e2125" source="http://scta.info/resource/ps37_5">iniquitates meae supergressae</quote> etc et sequitur et <quote xml:id="ppra-l8-Qd1e2135" source="http://scta.info/resource/ps37_11">lumen oculorum 
-            <lb ed="#P"/>meorum non est mecum</quote> Et isti sunt <sic>langores</sic> quos incipit anima ex peccato originali
+            <lb ed="#P" n="48"/>boni <pc type="punctus"/> quia amor et odium pervertunt iudicium ideo <ref xml:id="ppra-l8-Rd1e2065"><name>boetius</name> in fine primi <title>de consolatione</title></ref> docet fugere 
+            <lb ed="#P" n="49"/>passiones si velit bene videre verum unde <ref xml:id="ppra-l8-Rd1e2087">sapientiae 2o</ref> <quote xml:id="ppra-l8-Qd1e2103" source="http://scta.info/resource/sap2_21@5-9">malitia eorum excaecavit eos</quote> ut eos ut veritas
+            <lb ed="#P" n="50"/>appareat falsa et econverso Et psalmista <quote xml:id="ppra-l8-Qd1e2125" source="http://scta.info/resource/ps37_5">iniquitates meae supergressae</quote> etc et sequitur et <quote xml:id="ppra-l8-Qd1e2135" source="http://scta.info/resource/ps37_11">lumen oculorum 
+            <lb ed="#P" n="51"/>meorum non est mecum</quote> Et isti sunt <sic>langores</sic> quos incipit anima ex peccato originali
           </p>
         </div>
         <div xml:id="ppra-l8-Dd1e2155">
@@ -229,70 +229,70 @@
           </head>
           <p xml:id="ppra-l8-ipsdda">
             <pc type="pilcrow"/> Et 
-            <lb ed="#P"/>tunc istis visis sit haec propositio <pc type="virgula">/</pc> anima cum <unclear>ali</unclear> influentia dei generali derelicta est plus movetur 
-            <lb ed="#P"/>falsitas apparentia quam veritatis exceptis primis principiis evidentissimis et hoc tetigit philosophus 
-            <lb ed="#P"/>in theologicis scilicet quaedam falsa quibusdam veris pro?ra hoc est ex animae corruptela <pc type="punctus"/> quia verum non 
-            <lb ed="#P"/>movet nisi ad verum nec assensus verus nisi ad assensum verum <pc type="virgula">/</pc> unde <del rend="strikethrough">falsitas assentit</del> 
-            <lb ed="#P"/>quaelibet veritas movet assensum verum et quaelibet falsitas assensum falsum <pc type="punctus"/>
+            <lb ed="#P" n="52"/>tunc istis visis sit haec propositio <pc type="virgula">/</pc> anima cum <unclear>ali</unclear> influentia dei generali derelicta est plus movetur 
+            <lb ed="#P" n="53"/>falsitas apparentia quam veritatis exceptis primis principiis evidentissimis et hoc tetigit philosophus 
+            <lb ed="#P" n="54"/>in theologicis scilicet quaedam falsa quibusdam veris pro?ra hoc est ex animae corruptela <pc type="punctus"/> quia verum non 
+            <lb ed="#P" n="55"/>movet nisi ad verum nec assensus verus nisi ad assensum verum <pc type="virgula">/</pc> unde <del rend="strikethrough">falsitas assentit</del> 
+            <lb ed="#P" n="56"/>quaelibet veritas movet assensum verum et quaelibet falsitas assensum falsum <pc type="punctus"/>
           </p>
           <p xml:id="ppra-l8-scamic">
             <pc type="pilcrow"/> 2a propositio attenta animae vulneratione 
-            <lb ed="#P"/>indiget fide etiam in quasi et naturali investigatione veritatis et istud testatur <ref xml:id="ppra-l8-Rd1e2304" corresp="#ppra-l8-Qoeaacv">philosophus in primo <title ref="#SophisticalRefutations">elenchorum</title></ref> dicens 
+            <lb ed="#P" n="57"/>indiget fide etiam in quasi et naturali investigatione veritatis et istud testatur <ref xml:id="ppra-l8-Rd1e2304" corresp="#ppra-l8-Qoeaacv">philosophus in primo <title ref="#SophisticalRefutations">elenchorum</title></ref> dicens 
             <pb ed="#P" n="33-v"/>
-            <lb ed="#P"/><quote xml:id="ppra-l8-Qoeaacv">oportet <sic>adiscentem</sic> credere</quote> <pc type="punctus"/> 
+            <lb ed="#P" n="1"/><quote xml:id="ppra-l8-Qoeaacv">oportet <sic>adiscentem</sic> credere</quote> <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l8-eqssda">
             <pc type="pilcrow"/> Unde <del rend="strikethrough">quae</del> in philosophia quaedam recipiuntur principia quasi 
-            <lb ed="#P"/>pro fide quae non sunt evidentissima ymmo mathematice <unclear>sup?ut</unclear> credita <pc type="virgula">/</pc> licet sunt in supremo
-            <lb ed="#P"/>gradu certitudinis <pc type="virgula">/</pc> et sic geometria indiget fide quae certissima est inter scientias humanitus <unclear>adinventas</unclear>
+            <lb ed="#P" n="2"/>pro fide quae non sunt evidentissima ymmo mathematice <unclear>sup?ut</unclear> credita <pc type="virgula">/</pc> licet sunt in supremo
+            <lb ed="#P" n="3"/>gradu certitudinis <pc type="virgula">/</pc> et sic geometria indiget fide quae certissima est inter scientias humanitus <unclear>adinventas</unclear>
             <!-- possible break point -->
-            <lb ed="#P"/><pc type="pilcrow"/> Unde <name>ptolomeus</name> in libro <title>almagestis</title> supponit epicyclos esse licet nonquam fuerint probat probante creata 
-            <lb ed="#P"/>et sic <unclear>indignitus</unclear> fide <pc type="punctus"/> Etiam supponit aliqua alia a quodam alia doctore antiquo
+            <lb ed="#P" n="4"/><pc type="pilcrow"/> Unde <name>ptolomeus</name> in libro <title>almagestis</title> supponit epicyclos esse licet nonquam fuerint probat probante creata 
+            <lb ed="#P" n="5"/>et sic <unclear>indignitus</unclear> fide <pc type="punctus"/> Etiam supponit aliqua alia a quodam alia doctore antiquo
             <!-- possible break point -->
             <pc type="pilcrow"/> Ulterius 
-            <lb ed="#P"/>dici potest quod maxima pars scientiae humanitus adinvente est quaedam fides pro deffectu rationis ad oppositum vel ad 
-            <lb ed="#P"/>probandum illud unde anima ex vigore proprie communi nihil ponit cognoscere Unde inquit <ref xml:id="ppra-l8-Rd1e2498"><name>bradouardin</name></ref>
-            <lb ed="#P"/>quid cognoscimus non minima aquae gutam quia ibi sunt infiniti numeri infinitae proprietates quantitatis ibi infinitae 
-            <lb ed="#P"/>formae <pc type="punctus"/> et tamen solum finitas cognoscimus 
+            <lb ed="#P" n="6"/>dici potest quod maxima pars scientiae humanitus adinvente est quaedam fides pro deffectu rationis ad oppositum vel ad 
+            <lb ed="#P" n="7"/>probandum illud unde anima ex vigore proprie communi nihil ponit cognoscere Unde inquit <ref xml:id="ppra-l8-Rd1e2498"><name>bradouardin</name></ref>
+            <lb ed="#P" n="8"/>quid cognoscimus non minima aquae gutam quia ibi sunt infiniti numeri infinitae proprietates quantitatis ibi infinitae 
+            <lb ed="#P" n="9"/>formae <pc type="punctus"/> et tamen solum finitas cognoscimus 
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l8-eqsdaf">
             Et sic quantumcumque magis cognoscimus rem tanto magis 
-            <lb ed="#P"/>dubitamus circa eam <pc type="pilcrow"/> Et sic posset poni quod cognoscere se modicum posse congoscere est 
-            <lb ed="#P"/>nobilissimum naturaliter omnium cognoscibilium
+            <lb ed="#P" n="10"/>dubitamus circa eam <pc type="pilcrow"/> Et sic posset poni quod cognoscere se modicum posse congoscere est 
+            <lb ed="#P" n="11"/>nobilissimum naturaliter omnium cognoscibilium
             
             <pc type="pilcrow"/> Ideo de caelo venit notizelitos id est <quote xml:id="ppra-l8-Qd1e2679">teipsum cognosce</quote>
-            <lb ed="#P"/>quia hoc maxime disponit ad fidem 
+            <lb ed="#P" n="12"/>quia hoc maxime disponit ad fidem 
           </p>
           <p xml:id="ppra-l8-uhivms">
             <pc type="virgula">/</pc> Ideo ad hanc veritatem veniens maximus philosophorum 
-            <lb ed="#P"/><unclear>?ondam</unclear> reputatus scilicet <name>socrates</name> quando satis didiscit cognovit se communi nihil scire unde dicit hoc 
-            <lb ed="#P"/><quote xml:id="ppra-l8-Qd1e2767">unum scio quod nescio</quote> 
+            <lb ed="#P" n="13"/><unclear>?ondam</unclear> reputatus scilicet <name>socrates</name> quando satis didiscit cognovit se communi nihil scire unde dicit hoc 
+            <lb ed="#P" n="14"/><quote xml:id="ppra-l8-Qd1e2767">unum scio quod nescio</quote> 
           </p>
           <p xml:id="ppra-l8-duqipi">
             dico ergo particulariter quod licet geometria sit de quantitate continua propter quod daemones 
-            <lb ed="#P"/>sunt evidentissime dico quod humanitus non est scibile de aliqua re praecise <pc type="punctus"/> proprie quanta sit 
-            <lb ed="#P"/>Et quod non sit possibile probatur quia vel hoc esset per aliam quidditatem et hoc non quia non ponit constare 
-            <lb ed="#P"/>quin sit excessus quia non sequitur non partitur excessus ergo non est
+            <lb ed="#P" n="15"/>sunt evidentissime dico quod humanitus non est scibile de aliqua re praecise <pc type="punctus"/> proprie quanta sit 
+            <lb ed="#P" n="16"/>Et quod non sit possibile probatur quia vel hoc esset per aliam quidditatem et hoc non quia non ponit constare 
+            <lb ed="#P" n="17"/>quin sit excessus quia non sequitur non partitur excessus ergo non est
             <!-- possibl break point -->
             <pc type="pilcrow"/> Item de quantitate 
-            <lb ed="#P"/>applicata quaeritur <unclear>quo?us</unclear> est nota nisi dicatur est de se nota quia pluries visa <pc type="punctus"/> sed istud non sufficit 
-            <lb ed="#P"/>quia omnis <unclear>conti?tus</unclear> fit semper per aliud <pc type="pilcrow"/> Ponamus ergo quod sit aliqua quantitas quae sit tibi notissima tunc 
-            <lb ed="#P"/>ponitur quod omnes res praeter istam subduplentur tunc tu iudicabis istam esse maiorem quam 
-            <lb ed="#P"/>sit vel quod erit dupla ad primam vel ponatur quod augeatur tunc iudicatur minor vel ponatur quod mutatur 
-            <lb ed="#P"/>cum aliis iudicabitur aequalis quia aliae efficiuntur minores quam ante intellectus iudicabit ipsas esse 
-            <lb ed="#P"/>maiores remanente in sua quantitate Alia duplatur videtur minor quam ante nec scimus contingere motum quia 
-            <lb ed="#P"/>si motus velocitur et potentiae motivae staret quod sortes non viveret nisi per modicum tempus et 
-            <lb ed="#P"/>tamen viveret per centum annos quia in tempore in quo fieret motus unius diei propter velocitatem posset 
-            <lb ed="#P"/>fieri in tanto spatio quod posset fieri centum aliarum et sic vixisset per centum Et de istis resolubilis 
-            <lb ed="#P"/>ponatur unum gratum
+            <lb ed="#P" n="18"/>applicata quaeritur <unclear>quo?us</unclear> est nota nisi dicatur est de se nota quia pluries visa <pc type="punctus"/> sed istud non sufficit 
+            <lb ed="#P" n="19"/>quia omnis <unclear>conti?tus</unclear> fit semper per aliud <pc type="pilcrow"/> Ponamus ergo quod sit aliqua quantitas quae sit tibi notissima tunc 
+            <lb ed="#P" n="20"/>ponitur quod omnes res praeter istam subduplentur tunc tu iudicabis istam esse maiorem quam 
+            <lb ed="#P" n="21"/>sit vel quod erit dupla ad primam vel ponatur quod augeatur tunc iudicatur minor vel ponatur quod mutatur 
+            <lb ed="#P" n="22"/>cum aliis iudicabitur aequalis quia aliae efficiuntur minores quam ante intellectus iudicabit ipsas esse 
+            <lb ed="#P" n="23"/>maiores remanente in sua quantitate Alia duplatur videtur minor quam ante nec scimus contingere motum quia 
+            <lb ed="#P" n="24"/>si motus velocitur et potentiae motivae staret quod sortes non viveret nisi per modicum tempus et 
+            <lb ed="#P" n="25"/>tamen viveret per centum annos quia in tempore in quo fieret motus unius diei propter velocitatem posset 
+            <lb ed="#P" n="26"/>fieri in tanto spatio quod posset fieri centum aliarum et sic vixisset per centum Et de istis resolubilis 
+            <lb ed="#P" n="27"/>ponatur unum gratum
             <!-- possible break point -->
             <pc type="pilcrow"/> Ponatur quod planetae capiunt influentiam ab ultimo caelo <pc type="punctus"/> ideo moveretur 
-            <lb ed="#P"/>contra motum diurnum et sic quam totius moventur planetae tanto meliorem influentiam reciperent 
-            <lb ed="#P"/>et sic salvatur divinitas annorum nunc <pc type="virgula">/</pc> et annorum tunc quia tunc elevata <unclear>elevat memoria</unclear> sicut influentiae 
-            <lb ed="#P"/>melioris quam nunc <pc type="punctus"/> Quod in scriptura habetur <quote>dabis eis caelum ferreum</quote> quod forte fit propter motus <unclear>retardativus</unclear>
-            <lb ed="#P"/><pc type="pilcrow"/> Et sic ex dictis patet de infirmitate humani iudicii Sed videbitur deo <unclear>iuvente</unclear> de curatione 
-            <lb ed="#P"/>eius per fidem et hoc pro nunc de lectione 
+            <lb ed="#P" n="28"/>contra motum diurnum et sic quam totius moventur planetae tanto meliorem influentiam reciperent 
+            <lb ed="#P" n="29"/>et sic salvatur divinitas annorum nunc <pc type="virgula">/</pc> et annorum tunc quia tunc elevata <unclear>elevat memoria</unclear> sicut influentiae 
+            <lb ed="#P" n="30"/>melioris quam nunc <pc type="punctus"/> Quod in scriptura habetur <quote>dabis eis caelum ferreum</quote> quod forte fit propter motus <unclear>retardativus</unclear>
+            <lb ed="#P" n="31"/><pc type="pilcrow"/> Et sic ex dictis patet de infirmitate humani iudicii Sed videbitur deo <unclear>iuvente</unclear> de curatione 
+            <lb ed="#P" n="32"/>eius per fidem et hoc pro nunc de lectione 
           </p>
         </div>
       </div>

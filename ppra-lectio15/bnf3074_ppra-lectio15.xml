@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,8 +15,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -27,8 +25,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a diplomatic edition. </p>
@@ -87,8 +84,8 @@
             <supplied>Opinio Petri de Candia</supplied>
           </head>
           <p xml:id="ppra-l15-ncmani">
-            <lb ed="#P"/>Consequenter circa materiam <add place="above-line">praedictam</add> <name ref="#Candia">de candia</name> ponit istam conclusionem videlicet quod actus credendi et sciendi
-            <lb ed="#P"/>sunt compossibiles quantum ad habitudinem subiectivam <pc type="virgula">/</pc> non tamen sic quod uterque immutet potentiam
+            <lb ed="#P" n="26"/>Consequenter circa materiam <add place="above-line">praedictam</add> <name ref="#Candia">de candia</name> ponit istam conclusionem videlicet quod actus credendi et sciendi
+            <lb ed="#P" n="27"/>sunt compossibiles quantum ad habitudinem subiectivam <pc type="virgula">/</pc> non tamen sic quod uterque immutet potentiam
           </p>
         </div>
         <div xml:id="ppra-l15-Dd1e328">
@@ -97,8 +94,8 @@
               cognitionis</supplied>
           </head>
           <p xml:id="ppra-l15-cicimc">
-            <lb ed="#P"/><pc type="pilcrow"/> pro cuius declaratione ymaginatur quod possibile esset quod tales duo actus essent in potentia non tamen quilibet 
-            <lb ed="#P"/>immutaret sed solum unus <pc type="punctus"/> <pc type="pilcrow"/> pro cuius evidentia ponuntur aliqua in generali
+            <lb ed="#P" n="28"/><pc type="pilcrow"/> pro cuius declaratione ymaginatur quod possibile esset quod tales duo actus essent in potentia non tamen quilibet 
+            <lb ed="#P" n="29"/>immutaret sed solum unus <pc type="punctus"/> <pc type="pilcrow"/> pro cuius evidentia ponuntur aliqua in generali
           </p>
           <div xml:id="ppra-l15-Dd1e374">
             <head xml:id="ppra-l15-Hpccdce">
@@ -106,21 +103,21 @@
             </head>
             <p xml:id="ppra-l15-pdenep">
               primum est quod cognitio 
-              <lb ed="#P"/>non dicitur intrinsece et essentialiter cognitio <pc type="virgula">/</pc> probatur quia circumscriptis potentia et obiecto non remaneret ocgnitio 
-              <lb ed="#P"/>ergo non est intrinsece cognitio quia illud quod est intrinsece aliquale manet tale vel <pc type="virgula">/</pc> circumscriptis 
-              <lb ed="#P"/>antecedens patet <pc type="virgula">/</pc> quia nisi esset cognitio nullius etc <pc type="punctus"/>
+              <lb ed="#P" n="30"/>non dicitur intrinsece et essentialiter cognitio <pc type="virgula">/</pc> probatur quia circumscriptis potentia et obiecto non remaneret ocgnitio 
+              <lb ed="#P" n="31"/>ergo non est intrinsece cognitio quia illud quod est intrinsece aliquale manet tale vel <pc type="virgula">/</pc> circumscriptis 
+              <lb ed="#P" n="32"/>antecedens patet <pc type="virgula">/</pc> quia nisi esset cognitio nullius etc <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l15-spcsqq">
               <pc type="pilcrow"/> Item si cognitio esset intrinsece cognitio cum omnis 
-              <lb ed="#P"/>gradus repositus in latitudine <unclear>cognitiorum</unclear> sit in latitudine vitae sequitur quod cognitio viveret <pc type="pilcrow"/> Etiam 
-              <lb ed="#P"/>sequeretur quod cognitio esset vita intrinsece et sic esset perfectior quam concederetur
+              <lb ed="#P" n="33"/>gradus repositus in latitudine <unclear>cognitiorum</unclear> sit in latitudine vitae sequitur quod cognitio viveret <pc type="pilcrow"/> Etiam 
+              <lb ed="#P" n="34"/>sequeretur quod cognitio esset vita intrinsece et sic esset perfectior quam concederetur
             </p>
             <p xml:id="ppra-l15-taippp">
               <pc type="pilcrow"/> 3o quia cognitio esset 
-              <lb ed="#P"/>intrinsece cognitio et poneretur in lapide denominari lapidem intrinsece cognoscentem consequens est falsum 
-              <lb ed="#P"/>quia non stat <unclear>cum natura lapidis</unclear> <pc type="punctus"/> et sic si poneretur cognitio in lapide non cognosceret <pc type="punctus"/> et sum 
-              <lb ed="#P"/>cognitio non est intrinsece cognitio Et pari ratione verum est de omnibus actibus <pc type="punctus"/> volendi credendi 
-              <lb ed="#P"/>ymmo et de actibus voluntatis <pc type="punctus"/> sicut de actibus intellectus et sic patet propositio praedicta <pc type="punctus"/>
+              <lb ed="#P" n="35"/>intrinsece cognitio et poneretur in lapide denominari lapidem intrinsece cognoscentem consequens est falsum 
+              <lb ed="#P" n="36"/>quia non stat <unclear>cum natura lapidis</unclear> <pc type="punctus"/> et sic si poneretur cognitio in lapide non cognosceret <pc type="punctus"/> et sum 
+              <lb ed="#P" n="37"/>cognitio non est intrinsece cognitio Et pari ratione verum est de omnibus actibus <pc type="punctus"/> volendi credendi 
+              <lb ed="#P" n="38"/>ymmo et de actibus voluntatis <pc type="punctus"/> sicut de actibus intellectus et sic patet propositio praedicta <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l15-Dd1e557">
@@ -130,15 +127,15 @@
             </head>
             <p xml:id="ppra-l15-scnicv">
               <pc type="pilcrow"/> 2a propositio 
-              <lb ed="#P"/>non ex habitudine potentiae ut activa est dicitur cognitio ita quod cognitio habet multiplicem habitudinem potentiae 
-              <lb ed="#P"/>quia habet habitudinem effectus et formae inhaerent probatur conclusio quia habitudo productionis notitiae est prior immutatione 
-              <lb ed="#P"/>potentiae quia prius producatur quam immutet <pc type="virgula">/</pc> et sic deus posset facere quod produceret in aliquo cognitionem et tamen 
-              <lb ed="#P"/>illud non cognosceret per eam Et sic ex tali habitudine non dicitur huiusmodi cognitio notitia quia 
-              <lb ed="#P"/>posita habitudine staret quod non esset notitia 
+              <lb ed="#P" n="39"/>non ex habitudine potentiae ut activa est dicitur cognitio ita quod cognitio habet multiplicem habitudinem potentiae 
+              <lb ed="#P" n="40"/>quia habet habitudinem effectus et formae inhaerent probatur conclusio quia habitudo productionis notitiae est prior immutatione 
+              <lb ed="#P" n="41"/>potentiae quia prius producatur quam immutet <pc type="virgula">/</pc> et sic deus posset facere quod produceret in aliquo cognitionem et tamen 
+              <lb ed="#P" n="42"/>illud non cognosceret per eam Et sic ex tali habitudine non dicitur huiusmodi cognitio notitia quia 
+              <lb ed="#P" n="43"/>posita habitudine staret quod non esset notitia 
             </p>
             <p xml:id="ppra-l15-sncapc">
               <pc type="pilcrow"/> Item si ita esset sic videretur de qualibet notitia 
-              <lb ed="#P"/>modo instantia datur de notitia divina
+              <lb ed="#P" n="44"/>modo instantia datur de notitia divina
             </p>
           </div>
           <div xml:id="ppra-l15-Dd1e677">
@@ -148,13 +145,13 @@
             </head>
             <p xml:id="ppra-l15-tccsis">
               <pc type="pilcrow"/> 3a propositio cognitio non dicitur cognitio in habitudine ad suam 
-              <lb ed="#P"/>potentia ut est subiectiva vel receptiva <pc type="virgula">/</pc> probatur quia de facto est aliqua cognitio quae non in aliquo subiecto 
-              <lb ed="#P"/>ut patet de divina <pc type="virgula">/</pc> et sic de ratione formalis cognitionis non est quod sit in subiecto <pc type="punctus"/>
+              <lb ed="#P" n="45"/>potentia ut est subiectiva vel receptiva <pc type="virgula">/</pc> probatur quia de facto est aliqua cognitio quae non in aliquo subiecto 
+              <lb ed="#P" n="46"/>ut patet de divina <pc type="virgula">/</pc> et sic de ratione formalis cognitionis non est quod sit in subiecto <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l15-spccee">
               <pc type="pilcrow"/> Confirmatur 
-              <lb ed="#P"/>quia per dei potentiam si cognitio poneretur in lapidem <pc type="virgula">/</pc> haberet habitudinem subiectivam et tamen 
-              <lb ed="#P"/>lapis non denominaretur cognoscens <pc type="punctus"/>
+              <lb ed="#P" n="47"/>quia per dei potentiam si cognitio poneretur in lapidem <pc type="virgula">/</pc> haberet habitudinem subiectivam et tamen 
+              <lb ed="#P" n="48"/>lapis non denominaretur cognoscens <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l15-Dd1e745">
@@ -164,9 +161,9 @@
             </head>
             <p xml:id="ppra-l15-qccasp">
               <pc type="pilcrow"/> 4a propositio cogniti dicitur esse cognitio in habitudine ad 
-              <lb ed="#P"/>suam potentiam ut <seg type="correction">perceptiva<del rend="strikethrough">m</del></seg> est immutabilis potentiae quia ex quo non est intrinsece cognitio oportet quod hoc 
-              <lb ed="#P"/>sit ex aliqua habitudine extrinseca et non in habitudine aliud potentiam ut activa est nec ut passiva
-              <lb ed="#P"/>ergo conclusio vera cum non videantur plures esse habitudines
+              <lb ed="#P" n="49"/>suam potentiam ut <seg type="correction">perceptiva<del rend="strikethrough">m</del></seg> est immutabilis potentiae quia ex quo non est intrinsece cognitio oportet quod hoc 
+              <lb ed="#P" n="50"/>sit ex aliqua habitudine extrinseca et non in habitudine aliud potentiam ut activa est nec ut passiva
+              <lb ed="#P" n="51"/>ergo conclusio vera cum non videantur plures esse habitudines
             </p>
           </div>
         </div>
@@ -180,8 +177,8 @@
             </head>
             <p xml:id="ppra-l15-eppdah">
               <pc type="pilcrow"/> Unde inter cognitionem et suam potentiam sunt 
-              <lb ed="#P"/>3es habitudines scilicet habitudo subiectiva quae recipit formam <pc type="punctus"/> alia activam <pc type="punctus"/> alia cognitiva quia per eam cognoscit 
-              <lb ed="#P"/>et potentia per eam fertur in obiectum
+              <lb ed="#P" n="52"/>3es habitudines scilicet habitudo subiectiva quae recipit formam <pc type="punctus"/> alia activam <pc type="punctus"/> alia cognitiva quia per eam cognoscit 
+              <lb ed="#P" n="53"/>et potentia per eam fertur in obiectum
             </p>
           </div>
           <!-- fuzzy break and parallel -->
@@ -189,7 +186,7 @@
             <head xml:id="ppra-l15-Hcepcne">[Cognitio extra potentiam cognitivam cognitionem non est]</head>
             <p xml:id="ppra-l15-eipncb">
               <pc type="pilcrow"/> Unde dicit <name>de rippa</name> quod istae 3es habitudines sunt separabiles <pc type="pilcrow"/> Utrum tamen 
-              <lb ed="#P"/>possunt immutari post videbitur deo dante postea
+              <lb ed="#P" n="54"/>possunt immutari post videbitur deo dante postea
             </p>
           </div>
         </div>
@@ -197,12 +194,12 @@
           <head xml:id="ppra-l15-Hd1e3972">Circa textum</head>
           <p xml:id="ppra-l15-d1e3975">
             hic incepi reaportare distinctiones textuales
-            <lb ed="#P"/><pc type="pilcrow"/> Prima distinctio cuius conclusio prima quod filius procedit a patre per modum naturae spiritus vero per modum spirationis 
-            <lb ed="#P"/>unde nota quod spiritus sanctus procedit ab ambobus per modum dati filius a patre per modum nati <pc type="pilcrow"/> unde notandum est quod omne quod 
+            <lb ed="#P" n="55"/><pc type="pilcrow"/> Prima distinctio cuius conclusio prima quod filius procedit a patre per modum naturae spiritus vero per modum spirationis 
+            <lb ed="#P" n="56"/>unde nota quod spiritus sanctus procedit ab ambobus per modum dati filius a patre per modum nati <pc type="pilcrow"/> unde notandum est quod omne quod 
             <pb ed="#P" n="38-v"/>
-            <lb ed="#P"/>nascitur procedit <pc type="punctus"/> sed non omne quod procedit nascitur <pc type="pilcrow"/> Sciendum est quod <name>augustinus</name> 
-            <lb ed="#P"/>dicit spiritum sanctum genitum <name>ierominus</name> vero ingenitum <pc type="punctus"/> Et uterque benedixit quia <name>augustinus</name> 
-            <lb ed="#P"/>utebatur illo termino genitum id est spiratum et <name>ierominus</name> ingenitum id est non genitum  <pc type="punctus"/>
+            <lb ed="#P" n="1"/>nascitur procedit <pc type="punctus"/> sed non omne quod procedit nascitur <pc type="pilcrow"/> Sciendum est quod <name>augustinus</name> 
+            <lb ed="#P" n="2"/>dicit spiritum sanctum genitum <name>ierominus</name> vero ingenitum <pc type="punctus"/> Et uterque benedixit quia <name>augustinus</name> 
+            <lb ed="#P" n="3"/>utebatur illo termino genitum id est spiratum et <name>ierominus</name> ingenitum id est non genitum  <pc type="punctus"/>
           </p>
         </div>
       </div>

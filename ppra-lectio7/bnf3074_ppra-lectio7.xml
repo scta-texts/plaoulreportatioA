@@ -52,25 +52,25 @@
         <div xml:id="ppra-l7-Dd1e105">
           <head xml:id="ppra-l7-Hraccpc">Recapitulatio argumenti circa periculum credulitatis</head>
           <p xml:id="ppra-l7-seqgpe">
-            <lb ed="#P"/>Consequenter circa materiam fidei maxime ubi dictum fuerat quod ille qui credidit ibi esse corpus 
-            <lb ed="#P"/>christi non est ydolatria 3es modi fuerit tacti <pc type="virgula">/</pc> tamen simplex sacerdos quandoque faceret errore 
-            <lb ed="#P"/>Ideo sciendum quod simplices habent per obiectum adorationis aliquid contentum sub illis speciebus secundum quod 
-            <lb ed="#P"/>inducuntur ad <del rend="strikethrough"> conditionaliter</del> <unclear>adorandum</unclear> quia si conditionaliter <del rend="strikethrough">ado</del> inducerentur ad adorandum forte 
-            <lb ed="#P"/>minus remisse adorarent ideo in ipsis adoratio terminatur ad illud existens sub speciebus <pc type="virgula">/</pc> unde 
-            <lb ed="#P"/>prohibitum est sacerdotibus ne sic ostendant <pc type="virgula">/</pc> videlicet <pc type="virgula">/</pc> hostiam non consecratam ne remitteretur devotio 
-            <lb ed="#P"/>et etiam incitatio
+            <lb ed="#P" n="36"/>Consequenter circa materiam fidei maxime ubi dictum fuerat quod ille qui credidit ibi esse corpus 
+            <lb ed="#P" n="37"/>christi non est ydolatria 3es modi fuerit tacti <pc type="virgula">/</pc> tamen simplex sacerdos quandoque faceret errore 
+            <lb ed="#P" n="38"/>Ideo sciendum quod simplices habent per obiectum adorationis aliquid contentum sub illis speciebus secundum quod 
+            <lb ed="#P" n="39"/>inducuntur ad <del rend="strikethrough"> conditionaliter</del> <unclear>adorandum</unclear> quia si conditionaliter <del rend="strikethrough">ado</del> inducerentur ad adorandum forte 
+            <lb ed="#P" n="40"/>minus remisse adorarent ideo in ipsis adoratio terminatur ad illud existens sub speciebus <pc type="virgula">/</pc> unde 
+            <lb ed="#P" n="41"/>prohibitum est sacerdotibus ne sic ostendant <pc type="virgula">/</pc> videlicet <pc type="virgula">/</pc> hostiam non consecratam ne remitteretur devotio 
+            <lb ed="#P" n="42"/>et etiam incitatio
           </p>
         </div>
         <div xml:id="ppra-l7-Dd1e198">
           <head xml:id="ppra-l7-Hramdcf">Redeundo ad materiam de certitudinem fidei</head>
           <p xml:id="ppra-l7-cmisir">
             <pc type="pilcrow"/> Continuando ergo materiam quia ita est quod vires et virtus sunt circa difficile taliter respectu 
-            <lb ed="#P"/>veritatis quam bonitatis ista quod ex corruptela peccati falsitates sunt nobis magis proportionales tamen 
-            <lb ed="#P"/>secundum <sic>anglicos</sic> diceremus quod deus posset decipere creaturam et fidei potest subesse falsum ymmo 
-            <lb ed="#P"/>et anima christi decipi Et ultra conceduntur quod praeteritum potest non fuisse <pc type="pilcrow"/>dicunt alii quod fides 
-            <lb ed="#P"/>licet causaverit assensum quidquid potest esse falsum nihilominus possibile est quod nonquam causaverit <pc type="pilcrow"/> Sed proprie loquendo istud 
-            <lb ed="#P"/>non videtur verum videlicet quod cum causalitas activa egerit transit in praeteritum sicut effectus <pc type="punctus"/>
-            <lb ed="#P"/>Parisienses doctores tenent oppositum 
+            <lb ed="#P" n="43"/>veritatis quam bonitatis ista quod ex corruptela peccati falsitates sunt nobis magis proportionales tamen 
+            <lb ed="#P" n="44"/>secundum <sic>anglicos</sic> diceremus quod deus posset decipere creaturam et fidei potest subesse falsum ymmo 
+            <lb ed="#P" n="45"/>et anima christi decipi Et ultra conceduntur quod praeteritum potest non fuisse <pc type="pilcrow"/>dicunt alii quod fides 
+            <lb ed="#P" n="46"/>licet causaverit assensum quidquid potest esse falsum nihilominus possibile est quod nonquam causaverit <pc type="pilcrow"/> Sed proprie loquendo istud 
+            <lb ed="#P" n="47"/>non videtur verum videlicet quod cum causalitas activa egerit transit in praeteritum sicut effectus <pc type="punctus"/>
+            <lb ed="#P" n="48"/>Parisienses doctores tenent oppositum 
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l7-sdiqpr">
@@ -82,151 +82,152 @@
             continuationem fidei post instans incarnationis</head>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l7-urefie">
-            <lb ed="#P"/>primum argumentum erat quod fides potest subesse falsum quia si respectu huius christus incarnabitur assensus poterit 
-            <lb ed="#P"/>continuari <pc type="punctus"/> et sic christus non incarnabitur quare tali assensum videtur subesse falsum
+            <lb ed="#P" n="49"/>primum argumentum erat quod fides potest subesse falsum quia si respectu huius christus incarnabitur assensus poterit 
+            <lb ed="#P" n="50"/>continuari <pc type="punctus"/> et sic christus non incarnabitur quare tali assensum videtur subesse falsum
           </p>
           <div xml:id="ppra-l7-Dd1e374">
             <head xml:id="ppra-l7-Hd1e376">Prima responsio possibilis: responsio Guillelmi Altissiodorensis</head>
             <p xml:id="ppra-l7-gaapap">
               <pc type="pilcrow"/> <name>Autissiodorensis</name> 
-              <lb ed="#P"/>dat unam responsionem talem <pc type="punctus"/> quod ante adventum christi iudaei <sic>instruti</sic> per scripturas poterat scire 
-              <lb ed="#P"/>proprie satis adventum christi et appropinquate tempore sic quod non fuisset eis dubium an incarnaretur <pc type="punctus"/>  unde 
-              <lb ed="#P"/>non erat articulus quod christus incarnabitur sed magis debebat ferri in assensum disiunctum scilicet christus 
-              <lb ed="#P"/>incarnabitur incarnatur vel incarnatus est <!-- end of quote --> haec ille <pc type="pilcrow"/> Sed pro solutionis istius intellectu ponuntur 
+              <lb ed="#P" n="51"/>dat unam responsionem talem <pc type="punctus"/> quod ante adventum christi iudaei <sic>instruti</sic> per scripturas poterat scire 
+              <lb ed="#P" n="52"/>proprie satis adventum christi et appropinquate tempore sic quod non fuisset eis dubium an incarnaretur <pc type="punctus"/>  unde 
+              <lb ed="#P" n="53"/>non erat articulus quod christus incarnabitur sed magis debebat ferri in assensum disiunctum scilicet christus 
+              <lb ed="#P" n="54"/>incarnabitur incarnatur vel incarnatus est <!-- end of quote --> haec ille <pc type="pilcrow"/> Sed pro solutionis istius intellectu ponuntur 
               <pb ed="#P" n="31-v"/>
-              <lb ed="#P"/>aliquae propositiones 
+              <lb ed="#P" n="1"/>aliquae propositiones 
             </p>
             <p xml:id="ppra-l7-peqces">
               quarum prima <pc type="virgula">/</pc> quanto erat simpliciores tanto cicius desiit in hiis fides 
-              <lb ed="#P"/>causare assensum respectu huius quod christus incarnabitur <pc type="punctus"/> quia quanto erat simplices tanto minus constabat 
-              <lb ed="#P"/>de tempore et sic cicius obligabatur ad credendum disiunctum <pc type="punctus"/> quam magis elevati <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia illie non 
-              <lb ed="#P"/>obligantur quamdiu constaret de tempore
+              <lb ed="#P" n="2"/>causare assensum respectu huius quod christus incarnabitur <pc type="punctus"/> quia quanto erat simplices tanto minus constabat 
+              <lb ed="#P" n="3"/>de tempore et sic cicius obligabatur ad credendum disiunctum <pc type="punctus"/> quam magis elevati <pc type="virgula">/</pc> patet <pc type="virgula">/</pc> quia illie non 
+              <lb ed="#P" n="4"/>obligantur quamdiu constaret de tempore
             </p>
             <p xml:id="ppra-l7-sppadd">
               <pc type="pilcrow"/> 2a propositio probabiliter tenta quod in sola virgine materia 
-              <lb ed="#P"/>fuit iste assensus continuatus ex fide isque ad instans in quo incarnationis quia scivit in 
-              <lb ed="#P"/>quolibet instanti ante incarnationem quod christus incarnabitur et instans in quo incarnaretur fuit sibi notificatum 
-              <lb ed="#P"/>ergo ista credulitas fuit sibi nota usque tunc alias non sic cum non staret eis <del rend="strikethrough">u</del> <unclear>illa</unclear> 
-              <lb ed="#P"/>appropriate de tempore
+              <lb ed="#P" n="5"/>fuit iste assensus continuatus ex fide isque ad instans in quo incarnationis quia scivit in 
+              <lb ed="#P" n="6"/>quolibet instanti ante incarnationem quod christus incarnabitur et instans in quo incarnaretur fuit sibi notificatum 
+              <lb ed="#P" n="7"/>ergo ista credulitas fuit sibi nota usque tunc alias non sic cum non staret eis <del rend="strikethrough">u</del> <unclear>illa</unclear> 
+              <lb ed="#P" n="8"/>appropriate de tempore
             </p>
             <p xml:id="ppra-l7-tpqpci">
               <pc type="pilcrow"/> Ulterius sequitur alia quod in instanti incarnationis post assensus respectu futuri desiit assensus esse 
-              <lb ed="#P"/>quia alias fuisset falsus et incepit esse alius assensus respectu praesentis 
+              <lb ed="#P" n="9"/>quia alias fuisset falsus et incepit esse alius assensus respectu praesentis 
             </p>
             <p xml:id="ppra-l7-apevie">
               et assensus ille 
-              <lb ed="#P"/>respectu propositionis de praesenti solum in virgine per instans remansit quia in solo instanti illo fuit verum 
-              <lb ed="#P"/>quod christus incarnatur quia prius nec post incarnabatur
+              <lb ed="#P" n="10"/>respectu propositionis de praesenti solum in virgine per instans remansit quia in solo instanti illo fuit verum 
+              <lb ed="#P" n="11"/>quod christus incarnatur quia prius nec post incarnabatur
             </p>
             <!-- reconsider break -->
             <p xml:id="ppra-l7-ehhppi">
               et quia repugnat assensui fidei esse <add place="above-line">et</add> non 
-              <lb ed="#P"/>esse verum <pc type="punctus"/>
+              <lb ed="#P" n="12"/>esse verum <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l7-suqedp">
               <pc type="pilcrow"/> Alia propositio stat quod debetur ultimum instans ultra quod non habuit esse <pc type="punctus"/> 
             </p>
             <p xml:id="ppra-l7-apipci">
               <pc type="pilcrow"/> Alia propositio 
-              <lb ed="#P"/>in eodem instanti in quo incepit esse assensus in virgine respectu veritatis de praesenti in eodem incepit 
-              <lb ed="#P"/>esse respectu veritatis de praeterito
+              <lb ed="#P" n="13"/>in eodem instanti in quo incepit esse assensus in virgine respectu veritatis de praesenti in eodem incepit 
+              <lb ed="#P" n="14"/>esse respectu veritatis de praeterito
             </p>
             <p xml:id="ppra-l7-apeiii">
               <pc type="pilcrow"/> Alia in eodem instanti duo assensus fidei desierunt esse inceperunt esse 
-              <lb ed="#P"/>et tamen non fuerunt ibi nisi 3 assensus quod duo <unclear>desierunt</unclear> <pc type="virgula">/</pc> patet quia assensus respectu futuri desiit esse 
-              <lb ed="#P"/>in instanti incarnationis per remotionem de praesenti et ponere de praeterito et desiit esse assensus respectu 
-              <lb ed="#P"/>praesentis duo etiam inceperunt esse quia aliqua res sic potest produci quod non datur ultimum instans
+              <lb ed="#P" n="15"/>et tamen non fuerunt ibi nisi 3 assensus quod duo <unclear>desierunt</unclear> <pc type="virgula">/</pc> patet quia assensus respectu futuri desiit esse 
+              <lb ed="#P" n="16"/>in instanti incarnationis per remotionem de praesenti et ponere de praeterito et desiit esse assensus respectu 
+              <lb ed="#P" n="17"/>praesentis duo etiam inceperunt esse quia aliqua res sic potest produci quod non datur ultimum instans
             </p>
             <p xml:id="ppra-l7-suqivi">
               <pc type="pilcrow"/> ulterius 
-              <lb ed="#P"/>sequitur alia quod assensus de praesenti similis quantum ad obiectum fuisset in alio vitiosus qui erat meritorius 
-              <lb ed="#P"/>in virgine materia patet quia fuisset in hoc praesumpto quia in illo tempore non erat sibi licitum 
-              <lb ed="#P"/>tunc nisi credere disiunctivam iam dictam
+              <lb ed="#P" n="18"/>sequitur alia quod assensus de praesenti similis quantum ad obiectum fuisset in alio vitiosus qui erat meritorius 
+              <lb ed="#P" n="19"/>in virgine materia patet quia fuisset in hoc praesumpto quia in illo tempore non erat sibi licitum 
+              <lb ed="#P" n="20"/>tunc nisi credere disiunctivam iam dictam
             </p>
             <p xml:id="ppra-l7-suqead">
               <pc type="pilcrow"/> Alia propositio ulterius sequitur quod quanto fuerunt magis elevat 
-              <lb ed="#P"/>tanto diutius duravit assensus respectu futuri quia quanto poterant scire quod nondum veniat 
-              <lb ed="#P"/>tempus tamdiu assentiebat
+              <lb ed="#P" n="21"/>tanto diutius duravit assensus respectu futuri quia quanto poterant scire quod nondum veniat 
+              <lb ed="#P" n="22"/>tempus tamdiu assentiebat
               <!-- possible break point -->
               <pc type="pilcrow"/> Alia quod aliquid incipit esse articulus respectu huius qui non adhuc respectu alterius 
-              <lb ed="#P"/>patet <pc type="virgula">/</pc> quia in simplicibus licitum fuit credere disiunctivam quando non licebat aliis <pc type="punctus"/>
+              <lb ed="#P" n="23"/>patet <pc type="virgula">/</pc> quia in simplicibus licitum fuit credere disiunctivam quando non licebat aliis <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l7-usqoga">
               <pc type="pilcrow"/> Ulterius quod 
-              <lb ed="#P"/>aliqua propositio ex solo lapsu temporis incipit esse articulus patet quia pagani ex solo temporis lapsu per 
-              <lb ed="#P"/>praedicationem sibi factam tenebantur assentire quod christus incarnabitur licet non prius ante <del rend="expunctuation">incarnationem</del> 
-              <lb ed="#P"/>in lapsu temporis
+              <lb ed="#P" n="24"/>aliqua propositio ex solo lapsu temporis incipit esse articulus patet quia pagani ex solo temporis lapsu per 
+              <lb ed="#P" n="25"/>praedicationem sibi factam tenebantur assentire quod christus incarnabitur licet non prius ante <del rend="expunctuation">incarnationem</del> 
+              <lb ed="#P" n="26"/>in lapsu temporis
             </p>
           </div>
           <div xml:id="ppra-l7-Dd1e1207">
             <head xml:id="ppra-l7-Hsrpsrp">Secunda responsio possibilis</head>
             <p xml:id="ppra-l7-atppce">
               <pc type="pilcrow"/> Aliter potest dici in ista materia ymaginando quod fides sit instrumentum 
-              <lb ed="#P"/>spiritus sancti et instrumentum causae libere agentis quo stante probabiliter dici sine nova inquisitione 
-              <lb ed="#P"/>quod habitus fidei sufficiebat illis simplicibus et hoc poterat esse multipliciter sine alia inquisitione 
-              <lb ed="#P"/>quod toto tempore ante fidem inclinaret ad credendum quod christus incarnaretur in tempore incarnationibus quod christus incarnatur 
-              <lb ed="#P"/>et quod licet simplices nescivisset hoc tamen erat in eis sicut nec <unclear>prophetae</unclear> hoc sciebat facere secundum quod post 
-              <lb ed="#P"/>fuit dictum <pc type="punctus"/>
+              <lb ed="#P" n="27"/>spiritus sancti et instrumentum causae libere agentis quo stante probabiliter dici sine nova inquisitione 
+              <lb ed="#P" n="28"/>quod habitus fidei sufficiebat illis simplicibus et hoc poterat esse multipliciter sine alia inquisitione 
+              <lb ed="#P" n="29"/>quod toto tempore ante fidem inclinaret ad credendum quod christus incarnaretur in tempore incarnationibus quod christus incarnatur 
+              <lb ed="#P" n="30"/>et quod licet simplices nescivisset hoc tamen erat in eis sicut nec <unclear>prophetae</unclear> hoc sciebat facere secundum quod post 
+              <lb ed="#P" n="31"/>fuit dictum <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l7-Dd1e1329">
             <head xml:id="ppra-l7-Htrptrp">Tertia responsio possibilis</head>
             <p xml:id="ppra-l7-aveiie">
               <pc type="pilcrow"/> Alia via quae est cuius formis <del rend="strikethrough">ad</del> ymaginationem tactae <pc type="pilcrow"/> Unde ymaginandum est quod fidem 
-              <lb ed="#P"/>sit talis natura et assensus eius et habitus et etiam actus quod subordinatur essentialiter divino assensui 
-              <lb ed="#P"/>Ita quod sicut impossibile esset ignem producere nisi deo principaliter concavitate et concurrente ita ymaginanda 
-              <lb ed="#P"/>essentialis habitudo ad assensus divinum sic quod assensus fidei non possit esse assensus nisi 
-              <lb ed="#P"/>deus sit primo assensus <pc type="punctus"/> in eodem genere assensus <pc type="punctus"/> Et tunc dicitur quod actus fidei et habitus 
-              <lb ed="#P"/>proportionaliter insecuntur in faciendo assentire fidelem divino iudicio nec fidem ante incarnationem 
-              <lb ed="#P"/>poterat inclinare ad assentiendum quod christus incarnatur quia divino iudicio non sic assentiebat 
+              <lb ed="#P" n="32"/>sit talis natura et assensus eius et habitus et etiam actus quod subordinatur essentialiter divino assensui 
+              <lb ed="#P" n="33"/>Ita quod sicut impossibile esset ignem producere nisi deo principaliter concavitate et concurrente ita ymaginanda 
+              <lb ed="#P" n="34"/>essentialis habitudo ad assensus divinum sic quod assensus fidei non possit esse assensus nisi 
+              <lb ed="#P" n="35"/>deus sit primo assensus <pc type="punctus"/> in eodem genere assensus <pc type="punctus"/> Et tunc dicitur quod actus fidei et habitus 
+              <lb ed="#P" n="36"/>proportionaliter insecuntur in faciendo assentire fidelem divino iudicio nec fidem ante incarnationem 
+              <lb ed="#P" n="37"/>poterat inclinare ad assentiendum quod christus incarnatur quia divino iudicio non sic assentiebat 
             </p>
             <div xml:id="ppra-l7-Dd1e1472">
               <head xml:id="ppra-l7-Hoatatr">Obiectio ad tertiam responsionem</head>
               <p xml:id="ppra-l7-eqpfee">
                 <pc type="pilcrow"/> Ex quo sequitur 
-                <lb ed="#P"/>quod si homines tunc assensisset ante incarnationem non fuissent assensus fidei <pc type="punctus"/> sed assensus humani
-                <lb ed="#P"/><pc type="pilcrow"/> Sed instaret aliquis dicens capiamus assensum immediate ante incarnationem et conservetur in anima quo dat 
-                <lb ed="#P"/>primus erit falso quod possit conservari non videtur repugnantia 
+                <lb ed="#P" n="38"/>quod si homines tunc assensisset ante incarnationem non fuissent assensus fidei <pc type="punctus"/> sed assensus humani
+                <lb ed="#P" n="39"/><pc type="pilcrow"/> Sed instaret aliquis dicens capiamus assensum immediate ante incarnationem et conservetur in anima quo dat 
+                <lb ed="#P" n="40"/>primus erit falso quod possit conservari non videtur repugnantia 
               </p>
             </div>
             <div xml:id="ppra-l7-Dd1e1516">
               <head xml:id="ppra-l7-Hraorao">Responsio ad obiectionem</head>
               <p xml:id="ppra-l7-ddqdam">
-                Dicitur quod in isto casu quando ponitur quod con<lb ed="#P"/>servetur 
+                Dicitur quod in isto casu quando ponitur quod con<lb ed="#P" n="41"/>servetur 
                 dico quod hoc est impossibile vel quod assensus qui prius erat assensus respectu futuri erit assensus 
-                <lb ed="#P"/>respectu praesentis
+                <lb ed="#P" n="42"/>respectu praesentis
               </p>
               <p xml:id="ppra-l7-depnif">
                 <pc type="virgula">/</pc> Dico tamen primo quod non potest conservari <pc type="virgula">/</pc> Radix est quia causalitas fidei est 
-                <lb ed="#P"/>una motivitas supernaturalis et sicut motivitas est supernaturalis Ita et concursus dei specialis <pc type="punctus"/> Ita 
-                <lb ed="#P"/>quod deus specialiter concurrit respectu actus dilectionis carctative <unclear>modo</unclear> veritas concurrit quod deus non potest 
-                <lb ed="#P"/>de potentia sua decipere hominem concursu speciali ita non potest concurrere fides suo concursu speciali 
-                <lb ed="#P"/>ad inclinandum falso
+                <lb ed="#P" n="43"/>una motivitas supernaturalis et sicut motivitas est supernaturalis Ita et concursus dei specialis <pc type="punctus"/> Ita 
+                <lb ed="#P" n="44"/>quod deus specialiter concurrit respectu actus dilectionis carctative <unclear>modo</unclear> veritas concurrit quod deus non potest 
+                <lb ed="#P" n="45"/>de potentia sua decipere hominem concursu speciali ita non potest concurrere fides suo concursu speciali 
+                <lb ed="#P" n="46"/>ad inclinandum falso
               </p>
               <p xml:id="ppra-l7-unepig">
                 Ideo dicitur quod deus alter concurrit respectu peccatorum et aliter respectu bonorum 
-                <lb ed="#P"/>Et quia fides est motiva specialiter <pc type="virgula">/</pc> et concursus dei est specialis dei motio et motio dei 
-                <lb ed="#P"/>specialis non potest esse nisi respectu boni <pc type="punctus"/> sequitur quod non potest concurrrere ad illum assensum
+                <lb ed="#P" n="47"/>Et quia fides est motiva specialiter <pc type="virgula">/</pc> et concursus dei est specialis dei motio et motio dei 
+                <lb ed="#P" n="48"/>specialis non potest esse nisi respectu boni <pc type="punctus"/> sequitur quod non potest concurrrere ad illum assensum
               </p>
               <div xml:id="ppra-l7-Dd1e1683">
                 <head xml:id="ppra-l7-Hoarrer">Obiectio ad responsionem et responsio</head>
                 <p xml:id="ppra-l7-esdadc">
                   <pc type="pilcrow"/> Sed contra 
-                  <lb ed="#P"/>deus potest substantiam et <seg type="correction">act<add place="above-line">us</add><del rend="expunctuation">um</del></seg> illius conservare ergo et actum <pc type="pilcrow"/> dicitur quod deus secundum influentiam conservativa respectu 
-                  <lb ed="#P"/>huius christus incarnabitur non potest <unclear><seg type="correction">p<add place="above-line">ost</add><del rend="expunctuation">rius</del></seg></unclear> conservare stante suo concursu sed oporteret specialitas conservare 
-                  <lb ed="#P"/>quia ita est in naturalibus quod inter omnia natura maxime abhorret <sic>octium</sic> Ita si poneremus 
-                  <lb ed="#P"/>quod huiusmodi assensus maneret postquam falsus esset maneret ottiosus <pc type="punctus"/> et sic nulla universalis correspondet 
-                  <lb ed="#P"/>Ideo in isto casu dicitur quod huiusmodi assensus <pc type="punctus"/> non conservaretur in esse nisi deus quod specialius quam 
-                  <lb ed="#P"/>ante concurreret et sic patet quod repugnat fidei subesse falsum
+                  <lb ed="#P" n="49"/>deus potest substantiam et <seg type="correction">act<add place="above-line">us</add><del rend="expunctuation">um</del></seg> illius conservare ergo et actum <pc type="pilcrow"/> dicitur quod deus secundum influentiam conservativa respectu 
+                  <lb ed="#P" n="50"/>huius christus incarnabitur non potest <unclear><seg type="correction">p<add place="above-line">ost</add><del rend="expunctuation">rius</del></seg></unclear> conservare stante suo concursu sed oporteret specialitas conservare 
+                  <lb ed="#P" n="51"/>quia ita est in naturalibus quod inter omnia natura maxime abhorret <sic>octium</sic> Ita si poneremus 
+                  <lb ed="#P" n="52"/>quod huiusmodi assensus maneret postquam falsus esset maneret ottiosus <pc type="punctus"/> et sic nulla universalis correspondet 
+                  <lb ed="#P" n="53"/>Ideo in isto casu dicitur quod huiusmodi assensus <pc type="punctus"/> non conservaretur in esse nisi deus quod specialius quam 
+                  <lb ed="#P" n="54"/>ante concurreret et sic patet quod repugnat fidei subesse falsum
                 </p>
                 <p xml:id="ppra-l7-apdafe">
                   <pc type="pilcrow"/> Aliter etiam dicitur quod <add>sicut</add> assensus respectu futuri 
-                  <lb ed="#P"/>potest non esse respectu huius sed de contrario quia res sibi naturalis est Ideo si sit talis conditionis non est 
-                  <lb ed="#P"/>mirandum quare si ponatur assensus remanere dicitur quod remanebit assensus peccati scilicet respectu illius 
-                  <lb ed="#P"/>christus incarnatur et post praecise respectu illius christus incarnatus est Ideo si dicamus aliqua quae non reperiatur in 
-                  <lb ed="#P"/>naturalibus non est mirandum Et sic diceretur quod huiusmodi assensus remaneret ita quod assensus 
-                  <lb ed="#P"/>qui prius erat respectu futuri post erit respectu praesentis et post respectu praecedenti <pc type="virgula">/</pc> Et proportionaliter 
-                  <lb ed="#P"/>sustineretur de omnibus revelationibus
+                  <pb ed="#P" n="32-r"/>
+                  <lb ed="#P" n="1"/>potest non esse respectu huius sed de contrario quia res sibi naturalis est Ideo si sit talis conditionis non est 
+                  <lb ed="#P" n="2"/>mirandum quare si ponatur assensus remanere dicitur quod remanebit assensus peccati scilicet respectu illius 
+                  <lb ed="#P" n="3"/>christus incarnatur et post praecise respectu illius christus incarnatus est Ideo si dicamus aliqua quae non reperiatur in 
+                  <lb ed="#P" n="4"/>naturalibus non est mirandum Et sic diceretur quod huiusmodi assensus remaneret ita quod assensus 
+                  <lb ed="#P" n="5"/>qui prius erat respectu futuri post erit respectu praesentis et post respectu praecedenti <pc type="virgula">/</pc> Et proportionaliter 
+                  <lb ed="#P" n="6"/>sustineretur de omnibus revelationibus
                 </p>
               </div>
             </div>
@@ -234,22 +235,22 @@
               <head xml:id="ppra-l7-Hd1e1878">Alia responsio ad obiectionem</head>
               <p xml:id="ppra-l7-aunfci">
                 <pc type="pilcrow"/> Ulterius arguitur quod fidei potest subesse falsum 
-                <lb ed="#P"/>quia <name>abraham</name> credidit quod verbum incarnabitur ponatur ergo postquam <name>abraham</name> fuit mortuus 
-                <lb ed="#P"/>quod christus non fuisset incarnatus tunc videtur quod fuit deceptus <pc type="pilcrow"/> <name>Guillemus</name> autissiodorensis dat 
-                <lb ed="#P"/>unam responsionem quod quia iam assensus <name>abrahae</name> transivit in preateritum necessarias eset sed tamen concursus 
-                <lb ed="#P"/>fidei et contingens quia sicut res contingenter fuit <unclear>positum</unclear> esse caritas
+                <lb ed="#P" n="7"/>quia <name>abraham</name> credidit quod verbum incarnabitur ponatur ergo postquam <name>abraham</name> fuit mortuus 
+                <lb ed="#P" n="8"/>quod christus non fuisset incarnatus tunc videtur quod fuit deceptus <pc type="pilcrow"/> <name>Guillemus</name> autissiodorensis dat 
+                <lb ed="#P" n="9"/>unam responsionem quod quia iam assensus <name>abrahae</name> transivit in preateritum necessarias eset sed tamen concursus 
+                <lb ed="#P" n="10"/>fidei et contingens quia sicut res contingenter fuit <unclear>positum</unclear> esse caritas
                 <!-- possible break point --> 
                 <pc type="pilcrow"/> Aliter dicitur quod actus fidei 
-                <lb ed="#P"/>habet habitudinem ad suam causam <pc type="punctus"/> 
+                <lb ed="#P" n="11"/>habet habitudinem ad suam causam <pc type="punctus"/> 
               </p>
               <!-- consider revising break point -->
               <p xml:id="ppra-l7-qtacsd">
                 quantum tamen ad id quod significat non habet necessariam habitudinem 
-                <lb ed="#P"/>quia non dependet proprie ab illo significato quia contingenter significat sic et dato quod non significaret adhuc 
-                <lb ed="#P"/>remaneret vera ita quod assensus respectu futuri potest non esse assensus respectu 
-                <lb ed="#P"/>huius sed oppositi et sic sequitur Et explanat ymaginationem quam sequor et quia fides immediate 
-                <lb ed="#P"/>emanat a prima luce ideo sicut divina lux realiter assensit et potuit non esse assensus 
-                <lb ed="#P"/>si christus non incarnatur dicendum de fide <pc type="punctus"/> cum sequatur conformitatem divinae lucis <pc type="punctus"/>
+                <lb ed="#P" n="12"/>quia non dependet proprie ab illo significato quia contingenter significat sic et dato quod non significaret adhuc 
+                <lb ed="#P" n="13"/>remaneret vera ita quod assensus respectu futuri potest non esse assensus respectu 
+                <lb ed="#P" n="14"/>huius sed oppositi et sic sequitur Et explanat ymaginationem quam sequor et quia fides immediate 
+                <lb ed="#P" n="15"/>emanat a prima luce ideo sicut divina lux realiter assensit et potuit non esse assensus 
+                <lb ed="#P" n="16"/>si christus non incarnatur dicendum de fide <pc type="punctus"/> cum sequatur conformitatem divinae lucis <pc type="punctus"/>
               </p>
             </div>
             <div xml:id="ppra-l7-Dd1e2028">
@@ -257,10 +258,10 @@
                   aliqui damnabitur qui, ante incarnationem, non credidit?</supplied></head>
               <p xml:id="ppra-l7-aceeud">
                 <pc type="pilcrow"/> Aliud casum 
-                <lb ed="#P"/>ponit ponatur casus quod ante tempus christi incarnationis aliquis qui credidisset quod christus non 
-                <lb ed="#P"/>incarnabitur et decedat cum <name>abraham</name> et sit dampnatus sine alio et ponatur quod christus 
-                <lb ed="#P"/>non incarnetur unquam tunc queritur quare iste dampnabitur quia credidit veritati nam credidit 
-                <lb ed="#P"/>quod christus non incarnabitur et sic est 
+                <lb ed="#P" n="17"/>ponit ponatur casus quod ante tempus christi incarnationis aliquis qui credidisset quod christus non 
+                <lb ed="#P" n="18"/>incarnabitur et decedat cum <name>abraham</name> et sit dampnatus sine alio et ponatur quod christus 
+                <lb ed="#P" n="19"/>non incarnetur unquam tunc queritur quare iste dampnabitur quia credidit veritati nam credidit 
+                <lb ed="#P" n="20"/>quod christus non incarnabitur et sic est 
               </p>
               <!-- reconsider break -->
               <p xml:id="ppra-l7-vqncee">
@@ -269,60 +270,60 @@
               <div xml:id="ppra-l7-Dd1e2162">
                 <head xml:id="ppra-l7-Hrasaso">Responsio ad secundam obiectionem</head>
                 <p xml:id="ppra-l7-epresi">
-                  <lb ed="#P"/><pc type="pilcrow"/> <ref xml:id="ppra-l7-Rd1e2179"><name ref="#WilliamOfAuxerre">Autissiodorensis</name></ref> respondet ad hoc dicens quod in illo casu ille qui credidit quod christus non 
-                  <lb ed="#P"/>incarnabitur licet crediderit veritati debet tamen dampnari unde sua ymaginatio fundatur 
-                  <lb ed="#P"/>in hoc de hiis quae non sunt clare determinata aliquid sic asserere est peccatum praesumptionis 
-                  <lb ed="#P"/>unde <ref xml:id="ppra-l7-Rd1e2230" corresp="#l7-Qshoeni"><name>apostolus</name> ad cor</ref> ponit ordinem et dicit quod <quote xml:id="ppra-l7-Qshoeni" source="http://scta.info/resource/Icor2_15"><!-- src=precise--><sic>spiritualis</sic> homo omnia iudicat carnalis 
-                  <lb ed="#P"/>autem iudicatur ab homine <pc type="punctus"/> sed neminem iudicat</quote> <pc type="punctus"/> unde ymaginatur quod homo spiritualis 
-                  <lb ed="#P"/>semper bene iudicat quia cum moderatione rationis cum fide <pc type="punctus"/> sed carnalis non sic innititur et quia 
-                  <lb ed="#P"/>istud iudicium non fuit sic regulatum <pc type="punctus"/> sed forte <unclear>contemplatum</unclear> ideo talis debet dampnati 
-                  <lb ed="#P"/>licet verum sit eveniat quod dixerit <pc type="punctus"/> sed quia impertinenter iudicavit <pc type="punctus"/>
+                  <lb ed="#P" n="21"/><pc type="pilcrow"/> <ref xml:id="ppra-l7-Rd1e2179"><name ref="#WilliamOfAuxerre">Autissiodorensis</name></ref> respondet ad hoc dicens quod in illo casu ille qui credidit quod christus non 
+                  <lb ed="#P" n="22"/>incarnabitur licet crediderit veritati debet tamen dampnari unde sua ymaginatio fundatur 
+                  <lb ed="#P" n="23"/>in hoc de hiis quae non sunt clare determinata aliquid sic asserere est peccatum praesumptionis 
+                  <lb ed="#P" n="24"/>unde <ref xml:id="ppra-l7-Rd1e2230" corresp="#l7-Qshoeni"><name>apostolus</name> ad cor</ref> ponit ordinem et dicit quod <quote xml:id="ppra-l7-Qshoeni" source="http://scta.info/resource/Icor2_15"><!-- src=precise--><sic>spiritualis</sic> homo omnia iudicat carnalis 
+                  <lb ed="#P" n="25"/>autem iudicatur ab homine <pc type="punctus"/> sed neminem iudicat</quote> <pc type="punctus"/> unde ymaginatur quod homo spiritualis 
+                  <lb ed="#P" n="26"/>semper bene iudicat quia cum moderatione rationis cum fide <pc type="punctus"/> sed carnalis non sic innititur et quia 
+                  <lb ed="#P" n="27"/>istud iudicium non fuit sic regulatum <pc type="punctus"/> sed forte <unclear>contemplatum</unclear> ideo talis debet dampnati 
+                  <lb ed="#P" n="28"/>licet verum sit eveniat quod dixerit <pc type="punctus"/> sed quia impertinenter iudicavit <pc type="punctus"/>
                 </p>
                 <p xml:id="ppra-l7-veqdgb">
                   <pc type="pilcrow"/> Nihilominus aliqua notavi 
-                  <lb ed="#P"/>prohuiusmodi responsionis declaratione Et ut casus clarior habeatur ponatur quod unus credat 
-                  <lb ed="#P"/>quod iudicium futurum non erit et quod deus latenter ordinet apud se quod non erit Tunc iste 
-                  <lb ed="#P"/>praecise credit sicut est et tamen peccat <pc type="punctus"/> Causa est quia licet futurum iudicium non erit tamen 
-                  <lb ed="#P"/>ex communiter apparentibus quilibet catholicus tenetur credere quod erit ideo iste licet iudicet veritatem contempnit 
-                  <lb ed="#P"/>scripturam et fidem <pc type="virgula">/</pc> licet ergo non revelaverit nobis deus suum iudiicium et credat quis quod non erit peccabit 
-                  <lb ed="#P"/>quoniam si resolvat se bene credet se credere contra fidem <pc type="virgula">/</pc> licet talis adhuc non contradicat fidei 
-                  <lb ed="#P"/>Et sic ista credulitas est in ecclesiae contemptum
+                  <lb ed="#P" n="29"/>prohuiusmodi responsionis declaratione Et ut casus clarior habeatur ponatur quod unus credat 
+                  <lb ed="#P" n="30"/>quod iudicium futurum non erit et quod deus latenter ordinet apud se quod non erit Tunc iste 
+                  <lb ed="#P" n="31"/>praecise credit sicut est et tamen peccat <pc type="punctus"/> Causa est quia licet futurum iudicium non erit tamen 
+                  <lb ed="#P" n="32"/>ex communiter apparentibus quilibet catholicus tenetur credere quod erit ideo iste licet iudicet veritatem contempnit 
+                  <lb ed="#P" n="33"/>scripturam et fidem <pc type="virgula">/</pc> licet ergo non revelaverit nobis deus suum iudiicium et credat quis quod non erit peccabit 
+                  <lb ed="#P" n="34"/>quoniam si resolvat se bene credet se credere contra fidem <pc type="virgula">/</pc> licet talis adhuc non contradicat fidei 
+                  <lb ed="#P" n="35"/>Et sic ista credulitas est in ecclesiae contemptum
                 </p>
                 <p xml:id="ppra-l7-idtoac">
                   <pc type="pilcrow"/> Item de causis arduis salutem tangentibus 
-                  <lb ed="#P"/>quorum veritas non potest constare aliquid dicere est peccatum praesumptionis <pc type="punctus"/> 
+                  <lb ed="#P" n="36"/>quorum veritas non potest constare aliquid dicere est peccatum praesumptionis <pc type="punctus"/> 
                   <!-- possible break point --> 
                   <pc type="pilcrow"/> Ulterius patet quod si 
-                  <lb ed="#P"/>in talibus liceat habere iudicium maxime esset falsum quia stante casu isto ille qui crederet quod iudicium erit 
-                  <lb ed="#P"/>non tantum peccaret sicut alter quia haberet <unclear>quod</unclear> ecclesiasticus habet per fidem ad sic credendum alter autem <unclear>non</unclear> 
+                  <lb ed="#P" n="37"/>in talibus liceat habere iudicium maxime esset falsum quia stante casu isto ille qui crederet quod iudicium erit 
+                  <lb ed="#P" n="38"/>non tantum peccaret sicut alter quia haberet <unclear>quod</unclear> ecclesiasticus habet per fidem ad sic credendum alter autem <unclear>non</unclear> 
                 </p>
                 <p xml:id="ppra-l7-tdqihs">
-                  <lb ed="#P"/><pc type="pilcrow"/> Alia propositio utraque pars contradicitionis in tali materia fidei est illicita iudicio humano
+                  <lb ed="#P" n="39"/><pc type="pilcrow"/> Alia propositio utraque pars contradicitionis in tali materia fidei est illicita iudicio humano
                 </p>
                 <p xml:id="ppra-l7-sapaoa">
                   <pc type="pilcrow"/> Alia propositio respectu
-                  <lb ed="#P"/>propositionis credibilis viator obligat ad habendum assensum fidei <pc type="punctus"/> et tamen non licet humanitus tali 
-                  <lb ed="#P"/>assentire vel dissentire patet <pc type="virgula">/</pc> quia utraque pars contradictionis est illicita ad assentiendum vel dissentiendum quia stante 
-                  <lb ed="#P"/>quod iudicium non erit quis dubitat quin sortes peccaret credendo quod non erit quia contempneret fidem 
-                  <lb ed="#P"/>et ecclesiam et credendo quod erit peccaret supponendo quod obligemur ad credendum veritati
+                  <lb ed="#P" n="40"/>propositionis credibilis viator obligat ad habendum assensum fidei <pc type="punctus"/> et tamen non licet humanitus tali 
+                  <lb ed="#P" n="41"/>assentire vel dissentire patet <pc type="virgula">/</pc> quia utraque pars contradictionis est illicita ad assentiendum vel dissentiendum quia stante 
+                  <lb ed="#P" n="42"/>quod iudicium non erit quis dubitat quin sortes peccaret credendo quod non erit quia contempneret fidem 
+                  <lb ed="#P" n="43"/>et ecclesiam et credendo quod erit peccaret supponendo quod obligemur ad credendum veritati
                 </p>
                 <p xml:id="ppra-l7-eqseih">
                   <pc type="pilcrow"/> Ex quo patet periculosum 
-                  <lb ed="#P"/>esse formare assensus per rationes probabiles circa huiusmodi articulos ymmo peccatum ubi obligamur 
-                  <lb ed="#P"/>ad altera partem contradictionis quia si veritati assentiatur hoc est praesumptuosum si veritati hoc est contra fidem 
-                  <lb ed="#P"/>verbi gratia probabitur quod sorti non liceat assentire quod iudicium erit nisi ex fide quia incideret in 
-                  <lb ed="#P"/>peccatum infidelitatis Ideo circa materiam de futuris contingentibus bene examinanda est fidei conscientia ne exeat 
-                  <lb ed="#P"/>in actus humanos
+                  <lb ed="#P" n="44"/>esse formare assensus per rationes probabiles circa huiusmodi articulos ymmo peccatum ubi obligamur 
+                  <lb ed="#P" n="45"/>ad altera partem contradictionis quia si veritati assentiatur hoc est praesumptuosum si veritati hoc est contra fidem 
+                  <lb ed="#P" n="46"/>verbi gratia probabitur quod sorti non liceat assentire quod iudicium erit nisi ex fide quia incideret in 
+                  <lb ed="#P" n="47"/>peccatum infidelitatis Ideo circa materiam de futuris contingentibus bene examinanda est fidei conscientia ne exeat 
+                  <lb ed="#P" n="48"/>in actus humanos
                 </p>
                 <p xml:id="ppra-l7-suqmpc">
                   <pc type="pilcrow"/> Ulterius dicitur quod in <unclear><sic>accidentibus</sic><!-- possibly corrected above line --></unclear> fidei debet <sic>debet</sic> esse mirabilis sollicitudo 
-                  <lb ed="#P"/>quia initium debet esse terminor deum <pc type="punctus"/> nec positiones casuum diversitatis fidei sit unus qui credat 
-                  <lb ed="#P"/>quod iudicium non erit et si non erit non aggravat nec excusat istum non peccase tamen si ex 
-                  <lb ed="#P"/>fide assentiat nullum erit periculum 
+                  <lb ed="#P" n="49"/>quia initium debet esse terminor deum <pc type="punctus"/> nec positiones casuum diversitatis fidei sit unus qui credat 
+                  <lb ed="#P" n="50"/>quod iudicium non erit et si non erit non aggravat nec excusat istum non peccase tamen si ex 
+                  <lb ed="#P" n="51"/>fide assentiat nullum erit periculum 
                 </p>
                 <p xml:id="ppra-l7-suqnsa">
                   <pc type="virgula">/</pc> unde bene staret quod fides esset respectu alicuius sic esse qualiter 
-                  <lb ed="#P"/>non sciret se assentire <pc type="virgula">/</pc> quia nemo scit utrum sit dignus caritate vel non
+                  <lb ed="#P" n="52"/>non sciret se assentire <pc type="virgula">/</pc> quia nemo scit utrum sit dignus caritate vel non
                 </p>
               </div>
             </div>
@@ -333,34 +334,34 @@
             credidit aliquid falsum?</head>
           <p xml:id="ppra-l7-arfdmf">
             <pc type="pilcrow"/> Alia ratio fuit 
-            <lb ed="#P"/>de <name>abraham</name> quia credidit immolare filium <add place="above-line">quod intentio dei erat quod vellet <unclear>immolare</unclear></add> et tamen <name>abraham</name> potuit habere fidem de promissione 
-            <lb ed="#P"/>licet non habuerit assensum fidei quod filium suum immolaret ideo illa ratio non probat quod fidei
-            <lb ed="#P"/>possit subesse falsum
+            <lb ed="#P" n="53"/>de <name>abraham</name> quia credidit immolare filium <add place="above-line">quod intentio dei erat quod vellet <unclear>immolare</unclear></add> et tamen <name>abraham</name> potuit habere fidem de promissione 
+            <lb ed="#P" n="54"/>licet non habuerit assensum fidei quod filium suum immolaret ideo illa ratio non probat quod fidei
+            <lb ed="#P" n="55"/>possit subesse falsum
           </p>
           <p xml:id="ppra-l7-iphfcf">
             <pc type="pilcrow"/> Item potuit habere quod deus solum petebat obedientiam Unde sicut vocatur 
-            <lb ed="#P"/>in <ref xml:id="ppra-l7-Rd1e2814">decreto</ref> aliquando est forma praecepti et non intentio quia non erat intentio dei quod immolaretur licet 
-            <lb ed="#P"/>forma praetenderet et aliquando est intentio et non forma ut non facit furtum Et aliquando concurrunt <unclear>ambo</unclear>
+            <lb ed="#P" n="56"/>in <ref xml:id="ppra-l7-Rd1e2814">decreto</ref> aliquando est forma praecepti et non intentio quia non erat intentio dei quod immolaretur licet 
+            <lb ed="#P" n="57"/>forma praetenderet et aliquando est intentio et non forma ut non facit furtum Et aliquando concurrunt <unclear>ambo</unclear>
             <pb ed="#P" n="32-v"/>
-            <lb ed="#P"/>ut illud <quote xml:id="ppra-l7-Qd1e2896" source="http://scta.info/resource/20_12">honora patrem et matrem</quote> et tunc quaeritur illud credere fuit meritam ergo ex fide <pc type="pilcrow"/> Ad 
-            <lb ed="#P"/>hoc respondet <name>autissiodorensis</name> <pc type="virgula">/</pc> quod nec fuit meritorius nec demeritorius <pc type="virgula">/</pc> sed processit a sua voluntate 
-            <lb ed="#P"/>nec fuit sibi peccatum nec meritum 
+            <lb ed="#P" n="1"/>ut illud <quote xml:id="ppra-l7-Qd1e2896" source="http://scta.info/resource/20_12">honora patrem et matrem</quote> et tunc quaeritur illud credere fuit meritam ergo ex fide <pc type="pilcrow"/> Ad 
+            <lb ed="#P" n="2"/>hoc respondet <name>autissiodorensis</name> <pc type="virgula">/</pc> quod nec fuit meritorius nec demeritorius <pc type="virgula">/</pc> sed processit a sua voluntate 
+            <lb ed="#P" n="3"/>nec fuit sibi peccatum nec meritum 
           </p>
           <p xml:id="ppra-l7-duqsfm">
             <pc type="virgula">/</pc> dicitur tamen quod stat quod ex caritate determinasset ad sic credendum et sic 
-            <lb ed="#P"/>bene fecisset <pc type="virgula">/</pc> tamen ille actus non fuisset meritorius et cum arguitur ex hoc procedebat 
-            <lb ed="#P"/>ex caritate 
+            <lb ed="#P" n="4"/>bene fecisset <pc type="virgula">/</pc> tamen ille actus non fuisset meritorius et cum arguitur ex hoc procedebat 
+            <lb ed="#P" n="5"/>ex caritate 
           </p>
           <p xml:id="ppra-l7-esdntf">
             <pc type="virgula">/</pc> dicitur quod caritas in anima quasi tenet principatum et fides est limitata respectu credibilium 
-            <lb ed="#P"/>non respectu illorum quae causantur per rationes et sic est restricta fides respectu illorum quae requiruntur ad salutem <pc type="punctus"/> et sic 
-            <lb ed="#P"/>negatur consequentia 
+            <lb ed="#P" n="6"/>non respectu illorum quae causantur per rationes et sic est restricta fides respectu illorum quae requiruntur ad salutem <pc type="punctus"/> et sic 
+            <lb ed="#P" n="7"/>negatur consequentia 
           </p>
           <p xml:id="ppra-l7-veqins">
             Tamen notat et negat quod ille actus sit meritorius <pc type="punctus"/> Unde aliquis actus producitur 
-            <lb ed="#P"/>aliquando concurrente caritate et tamen non est proprie motus caritatis quia motus caritatis debet esse respectu 
-            <lb ed="#P"/>mediorum ordinatorum ad salutem <pc type="virgula">/</pc> Licet talis actus esset meritorius Et sic concedit quod omnes 
-            <lb ed="#P"/>actus meritorius qui non est de propriis actibus caritatis
+            <lb ed="#P" n="8"/>aliquando concurrente caritate et tamen non est proprie motus caritatis quia motus caritatis debet esse respectu 
+            <lb ed="#P" n="9"/>mediorum ordinatorum ad salutem <pc type="virgula">/</pc> Licet talis actus esset meritorius Et sic concedit quod omnes 
+            <lb ed="#P" n="10"/>actus meritorius qui non est de propriis actibus caritatis
           </p>
         </div>
         <div xml:id="ppra-l7-Dd1e3175">
@@ -368,28 +369,28 @@
             concurrere ad causandum assensum falsum?</head>
           <p xml:id="ppra-l7-aafnaf">
             <pc type="pilcrow"/> Ad aliam spiritus sanctus bene concurrit 
-            <lb ed="#P"/>ergo et fidem <pc type="pilcrow"/> Responsio facilis est quia fides concurrit specialiter ad movendum creaturam motione speciali 
-            <lb ed="#P"/>et tamen motu speciali non posset concurrere spiritus sanctus ad assentiendum falso <pc type="punctus"/> sed si spiritus sanctus concurrat 
-            <lb ed="#P"/>non concurrit specialiter <pc type="punctus"/> sed tamquam necessario in genere remississimo concurrendi <pc type="punctus"/> eo quod causaliter creatura per se 
-            <lb ed="#P"/>non sufficeret ad illum actum se sola causandum <pc type="punctus"/> sed spiritus sanctus <del rend="strikethrough expunctuation">causaliter</del> specialiter non posset concurrere 
-            <lb ed="#P"/>et ergo sicut fides non posset concurrere motu suo speciali nec spiritus sanctus sed quare fidem non potest 
-            <lb ed="#P"/>esse mali hoc est propter imperfectionem fidei respectu spiritus sancti quia fides non habet nisi unum modum 
-            <lb ed="#P"/>concurrendi et spiritus sanctus utrumque 
+            <lb ed="#P" n="11"/>ergo et fidem <pc type="pilcrow"/> Responsio facilis est quia fides concurrit specialiter ad movendum creaturam motione speciali 
+            <lb ed="#P" n="12"/>et tamen motu speciali non posset concurrere spiritus sanctus ad assentiendum falso <pc type="punctus"/> sed si spiritus sanctus concurrat 
+            <lb ed="#P" n="13"/>non concurrit specialiter <pc type="punctus"/> sed tamquam necessario in genere remississimo concurrendi <pc type="punctus"/> eo quod causaliter creatura per se 
+            <lb ed="#P" n="14"/>non sufficeret ad illum actum se sola causandum <pc type="punctus"/> sed spiritus sanctus <del rend="strikethrough expunctuation">causaliter</del> specialiter non posset concurrere 
+            <lb ed="#P" n="15"/>et ergo sicut fides non posset concurrere motu suo speciali nec spiritus sanctus sed quare fidem non potest 
+            <lb ed="#P" n="16"/>esse mali hoc est propter imperfectionem fidei respectu spiritus sancti quia fides non habet nisi unum modum 
+            <lb ed="#P" n="17"/>concurrendi et spiritus sanctus utrumque 
           </p>
           <p xml:id="ppra-l7-acqlec">
             <pc type="pilcrow"/> Ulterius arguitur quia fides potest in actum perfectum ergo et in 
-            <lb ed="#P"/>actum inferioris generis et si sic potuit subesse falsum consequentia non valet quia non sequitur homo potest producere 
-            <lb ed="#P"/>hominem et lapidem <pc type="punctus"/> etiam est limitatio a causa divina
+            <lb ed="#P" n="18"/>actum inferioris generis et si sic potuit subesse falsum consequentia non valet quia non sequitur homo potest producere 
+            <lb ed="#P" n="19"/>hominem et lapidem <pc type="punctus"/> etiam est limitatio a causa divina
           </p>
           <p xml:id="ppra-l7-aacapf">
             <pc type="virgula">/</pc> et cum dicitur fide est in potentia obedientiali 
-            <lb ed="#P"/>Quantum ad istam obedientialem est difficultas sed quantum sufficit dicitur quod fides habet proprietates quae sibi 
-            <lb ed="#P"/>non insunt ut fidei inhaesio
+            <lb ed="#P" n="20"/>Quantum ad istam obedientialem est difficultas sed quantum sufficit dicitur quod fides habet proprietates quae sibi 
+            <lb ed="#P" n="21"/>non insunt ut fidei inhaesio
              <!-- possible break point -->
             <pc type="pilcrow"/> Utrum tamen deus posset assumere fidem secundum denominationes inferiores non est 
-            <lb ed="#P"/>ad propositum quia concurreret praecise ut qualitas sed in quantum fides probabiliter potest dici quod omnino sibi re<lb ed="#P"/>pugnat 
+            <lb ed="#P" n="22"/>ad propositum quia concurreret praecise ut qualitas sed in quantum fides probabiliter potest dici quod omnino sibi re<lb ed="#P" n="23"/>pugnat 
             quia sua regula est conformiter ad divinam voluntatem Etiam istud non est contra divinam potentiam nec contra fidem 
-            <lb ed="#P"/>quia deus posset immutare inclinationem fidei
+            <lb ed="#P" n="24"/>quia deus posset immutare inclinationem fidei
           </p>
         </div>
       </div>
