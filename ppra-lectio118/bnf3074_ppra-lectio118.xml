@@ -54,22 +54,22 @@
           <p xml:id="ppra-l118-avaafc">
             <pb ed="#P" n="118-r"/>
             <lb ed="#P" n="1"/>Consequenter circa materiam praescientiae divinae cum futuris contingentibus antequam descendatur ad materiam in speciali inducuntur 
-            <lb ed="#P"/>aliquae propositiones per modum argumentorum 
+            <lb ed="#P" n="2"/>aliquae propositiones per modum argumentorum 
           </p>
           <p xml:id="ppra-l118-epafep">
             <pc type="virgula">/</pc> unde primo arguitur sic <pc type="virgula">/</pc> primo per <ref xml:id="ppra-l118-Rd1e121" corresp="#ppra-l118-Qjff3ff"><name ref="#Boethius">boecium</name> in 5o <title ref="#Consolation">de consolatione</title>, 
-            <lb ed="#P"/>prosa <del rend="strikethrough">4ta</del></ref> <quote xml:id="ppra-l118-Qjff3ff" source="http://scta.info/resource/hy7y6y-d1e83-d1e214">nam si cuncta prospicit deus neque falli ullo modo potest evenire necesse est quod providentia 
-            <lb ed="#P"/>futurum esse praeviderit <pc type="virgula">/</pc> quare si ab aeternon non facta homini modo <pc type="punctus"/> sed etiam consilia et voluntates praenoscit 
-            <lb ed="#P"/>nulla erit arbitrii libertas</quote> <pc type="punctus"/> haec ille
+            <lb ed="#P" n="3"/>prosa <del rend="strikethrough">4ta</del></ref> <quote xml:id="ppra-l118-Qjff3ff" source="http://scta.info/resource/hy7y6y-d1e83-d1e214">nam si cuncta prospicit deus neque falli ullo modo potest evenire necesse est quod providentia 
+            <lb ed="#P" n="4"/>futurum esse praeviderit <pc type="virgula">/</pc> quare si ab aeternon non facta homini modo <pc type="punctus"/> sed etiam consilia et voluntates praenoscit 
+            <lb ed="#P" n="5"/>nulla erit arbitrii libertas</quote> <pc type="punctus"/> haec ille
           </p>
           <p xml:id="ppra-l118-ssassd">
             <pc type="pilcrow"/> 2o si ita sunt futura quem evenire <del rend="strikethrough">necesse est quae providentia potest</del>
-            <lb ed="#P"/>debeant ut aeque fieri vel non fieri omnia cognoscat haec praescientia quae nihil <unclear>praescientiae</unclear> cognoscat sive stabile comprehendit 
-            <lb ed="#P"/>aut quod hoc praeter <pc type="punctus"/> ab illo ridiculo <name ref="#Tiresias">tyresiae</name> ut quidam erit aut non 
+            <lb ed="#P" n="6"/>debeant ut aeque fieri vel non fieri omnia cognoscat haec praescientia quae nihil <unclear>praescientiae</unclear> cognoscat sive stabile comprehendit 
+            <lb ed="#P" n="7"/>aut quod hoc praeter <pc type="punctus"/> ab illo ridiculo <name ref="#Tiresias">tyresiae</name> ut quidam erit aut non 
           </p>
           <p xml:id="ppra-l118-tagene">
             <pc type="pilcrow"/> Item <ref xml:id="ppra-l118-Rd1e155"><name ref="#WilliamOfAuxerre">magister guillelmus altissioderensis</name></ref>
-            <lb ed="#P"/>arguit sic deus infallibiliter cognoscit futura ergo necessario
+            <lb ed="#P" n="8"/>arguit sic deus infallibiliter cognoscit futura ergo necessario
           </p>
           <!--Doesn't seem present; perhaps accidentally skipped or a later addition
             <p xml:id="ppra-l118-qidine">
@@ -79,181 +79,182 @@
           </p>-->
           <p xml:id="ppra-l118-iatnts">
             <pc type="pilcrow"/> item sic homo potest scire <c>a</c> fore ergo <unclear>necesse</unclear> 
-            <lb ed="#P"/>scit <c>a</c> fore modo scientia hominis non est aequalis scientiae divinae ymmo totaliter inaequalis quia deus immutabilis est
+            <lb ed="#P" n="9"/>scit <c>a</c> fore modo scientia hominis non est aequalis scientiae divinae ymmo totaliter inaequalis quia deus immutabilis est
           </p>
           <p xml:id="ppra-l118-siaemi">
-            <lb ed="#P"/><pc type="pilcrow"/> Item numerus praedestinatarum est <unclear>incompletus<!-- possible correction here --></unclear> et implicat contradictionem quod perpetuo remaneat incompletus 
-            <lb ed="#P"/>ergo necessario <sic>ali</sic> futuri sunt boni et salvandi <pc type="punctus"/> consequentia tenet et antecedens patet per decretum ecclesiae <pc type="punctus"/> sed quod implicat 
-            <lb ed="#P"/>contradictionem patet quia sequitur evidenter numerus elementorum est incompletus ergo aliqui alii salvabuntur 
+            <lb ed="#P" n="10"/><pc type="pilcrow"/> Item numerus praedestinatarum est <unclear>incompletus<!-- possible correction here --></unclear> et implicat contradictionem quod perpetuo remaneat incompletus 
+            <lb ed="#P" n="11"/>ergo necessario <sic>ali</sic> futuri sunt boni et salvandi <pc type="punctus"/> consequentia tenet et antecedens patet per decretum ecclesiae <pc type="punctus"/> sed quod implicat 
+            <lb ed="#P" n="12"/>contradictionem patet quia sequitur evidenter numerus elementorum est incompletus ergo aliqui alii salvabuntur 
           </p>
           <p xml:id="ppra-l118-saerso">
-            <lb ed="#P"/><pc type="pilcrow"/> Item arguit sic quidam <add place="above-line"><ref xml:id="ppra-l118-Rd1e189"><name ref="#RichardFitzRalph">ybernicus</name></ref></add> scientia divina repraesentat antichristum evenire necessario ergo necesse est sic 
-            <lb ed="#P"/>evenire consequentia tenet et antecedens patet quia non minus repraesentat quam scientia sive notitia creata
+            <lb ed="#P" n="13"/><pc type="pilcrow"/> Item arguit sic quidam <add place="above-line"><ref xml:id="ppra-l118-Rd1e189"><name ref="#RichardFitzRalph">ybernicus</name></ref></add> scientia divina repraesentat antichristum evenire necessario ergo necesse est sic 
+            <lb ed="#P" n="14"/>evenire consequentia tenet et antecedens patet quia non minus repraesentat quam scientia sive notitia creata
           </p>
           <p xml:id="ppra-l118-oaicnf">
-            <pc type="pilcrow"/>Item <ref xml:id="ppra-l118-Rd1e199">>unus 
-            <lb ed="#P"/>alter qui vocatur <name ref="#JohnOfRodington">rogniton</name></ref> arguit sic deus non aliter novit quam fienda <pc type="punctus"/> sed necessario illa novit 
-            <lb ed="#P"/>ergo necessario fient <pc type="punctus"/> consequentia tenet et antecedens est <name ref="#Augustine">augustini</name> <pc type="punctus"/> sed facta sic novit quod necessario iam ea facta 
-            <lb ed="#P"/>sic novit 
+            <pc type="pilcrow"/>Item <ref xml:id="ppra-l118-Rd1e199">&gt;unus 
+            <lb ed="#P" n="15"/>alter qui vocatur <name ref="#JohnOfRodington">rogniton</name></ref> arguit sic deus non aliter novit quam fienda <pc type="punctus"/> sed necessario illa novit 
+            <lb ed="#P" n="16"/>ergo necessario fient <pc type="punctus"/> consequentia tenet et antecedens est <name ref="#Augustine">augustini</name> <pc type="punctus"/> sed facta sic novit quod necessario iam ea facta 
+            <lb ed="#P" n="17"/>sic novit 
           </p>
           <p xml:id="ppra-l118-naiaoh">
             <pc type="pilcrow"/> Item arguitur ad idem sic <pc type="punctus"/> sit aliquid praescitum tunc ergo potest illud salvari vel non <pc type="punctus"/> tunc 
-            <lb ed="#P"/>si primum potest mereri suam praedestinationem modo consequens est falsum ergo etc
+            <lb ed="#P" n="18"/>si primum potest mereri suam praedestinationem modo consequens est falsum ergo etc
           </p>
           <p xml:id="ppra-l118-dadenp">
             <pc type="pilcrow"/> Item ad idem divina voluntas 
-            <lb ed="#P"/>respectu alicuius producibilis ab aeterno est determinata ad ipsius producitonem <pc type="punctus"/> nam haec consequentia est bona voluntas 
-            <lb ed="#P"/>est sic determinata ad alicuius futuri productionem ergo necessario erit <name ref="#Aureoli">aureolus</name> facit istam consequentiam et dicit 
-            <lb ed="#P"/>eam esse bonam quia non potest cadere indeterminatio supra voluntatem divinam et tamen sequitur quod effectus necessario erit 
+            <lb ed="#P" n="19"/>respectu alicuius producibilis ab aeterno est determinata ad ipsius producitonem <pc type="punctus"/> nam haec consequentia est bona voluntas 
+            <lb ed="#P" n="20"/>est sic determinata ad alicuius futuri productionem ergo necessario erit <name ref="#Aureoli">aureolus</name> facit istam consequentiam et dicit 
+            <lb ed="#P" n="21"/>eam esse bonam quia non potest cadere indeterminatio supra voluntatem divinam et tamen sequitur quod effectus necessario erit 
           </p>
           <p xml:id="ppra-l118-uasqef">
-            <lb ed="#P"/><pc type="pilcrow"/> Ultimo arguitur quo ad haec sit aliquod futurum contingens sicut hoc antichristus erit vel ergo est dare 
-            <lb ed="#P"/>maximum in quo sit vel minimum in quo non <pc type="punctus"/> si primum tunc qua arguitur sit signato instanti primi temporis 
-            <lb ed="#P"/>potest libertas inferre oppositum et tunc sequeretur quod alia ratione posset in alio instanti produci 
+            <lb ed="#P" n="22"/><pc type="pilcrow"/> Ultimo arguitur quo ad haec sit aliquod futurum contingens sicut hoc antichristus erit vel ergo est dare 
+            <lb ed="#P" n="23"/>maximum in quo sit vel minimum in quo non <pc type="punctus"/> si primum tunc qua arguitur sit signato instanti primi temporis 
+            <lb ed="#P" n="24"/>potest libertas inferre oppositum et tunc sequeretur quod alia ratione posset in alio instanti produci 
           </p>
           <p xml:id="ppra-l118-ssqtef">
             <pc type="virgula">/</pc> Etiam sequeretur 
-            <lb ed="#P"/>quod idem <unclear>corruptum</unclear> posset <unclear>miere</unclear> reparari quod est falsum si sit dare <unclear>minimum</unclear> quod non tunc arguitur
-            <lb ed="#P"/>contra quia quocumque tempus dato illud esset infinitum et interminatum a parte post <pc type="virgula">/</pc> sed quocumque dat datur minimum 
-            <lb ed="#P"/>infinitum Ita quod non potest esse futurum <pc type="punctus"/> Sed tamen ista consequentia est bona <c>a</c> est minimum tempus per quod <c>b</c> 
-            <lb ed="#P"/>non potest esse futurum ergo <c>b</c> non est futurum <pc type="pilcrow"/> item probatur quod per infinitum <add place="above-line">tempus</add> potest esse antichristus futurus quia per <c>a</c> 
-            <lb ed="#P"/>instans potest et sic de aliis igitur etc
+            <lb ed="#P" n="25"/>quod idem <unclear>corruptum</unclear> posset <unclear>miere</unclear> reparari quod est falsum si sit dare <unclear>minimum</unclear> quod non tunc arguitur
+            <lb ed="#P" n="26"/>contra quia quocumque tempus dato illud esset infinitum et interminatum a parte post <pc type="virgula">/</pc> sed quocumque dat datur minimum 
+            <lb ed="#P" n="27"/>infinitum Ita quod non potest esse futurum <pc type="punctus"/> Sed tamen ista consequentia est bona <c>a</c> est minimum tempus per quod <c>b</c> 
+            <lb ed="#P" n="28"/>non potest esse futurum ergo <c>b</c> non est futurum <pc type="pilcrow"/> item probatur quod per infinitum <add place="above-line">tempus</add> potest esse antichristus futurus quia per <c>a</c> 
+            <lb ed="#P" n="29"/>instans potest et sic de aliis igitur etc
           </p>
         </div>
         <div xml:id="ppra-l118-Dd1e257">
           <head xml:id="ppra-l118-Hscasca">Sed contra</head>
           <p xml:id="ppra-l118-icaaeeh">
             <pc type="pilcrow"/>In oppositum tamen arguitur scilicet de concordia divinae praescientiae cum futuris 
-            <lb ed="#P"/>contingentibus sequitur es fide <pc type="punctus"/> unde deus est liber libertate contradictionis igitur futura contingenter eveniunt et 
-            <lb ed="#P"/>per consequens non necessario consequentia patet nam significato aliquo instanti quaero an in illo habeat libertatem 
-            <lb ed="#P"/>producendi <c>a</c> vel non et signo tempus et quaero utrum producat in illo <pc type="punctus"/> si sic tunc erit <pc type="punctus"/> si non tunc 
-            <lb ed="#P"/>contra fidem quia tunc non libere ageret
+            <lb ed="#P" n="30"/>contingentibus sequitur es fide <pc type="punctus"/> unde deus est liber libertate contradictionis igitur futura contingenter eveniunt et 
+            <lb ed="#P" n="31"/>per consequens non necessario consequentia patet nam significato aliquo instanti quaero an in illo habeat libertatem 
+            <lb ed="#P" n="32"/>producendi <c>a</c> vel non et signo tempus et quaero utrum producat in illo <pc type="punctus"/> si sic tunc erit <pc type="punctus"/> si non tunc 
+            <lb ed="#P" n="33"/>contra fidem quia tunc non libere ageret
           </p> 
         </div>
         <div xml:id="ppra-l118-Dd1e266">
           <head xml:id="ppra-l118-Hvsdafc">Via solvendi difficultatem de concordia praescientiae ad futura contingentia</head>
           <p xml:id="ppra-l118-cpmaha">
             <pc type="pilcrow"/> Circa tamen praesentem materiam sciendum est primo quod licet deus sit 
-            <lb ed="#P"/>res simplicissima ut testatur tam philosophia quam theologia et cum ita quod sit idem vivere et velle in eo 
-            <lb ed="#P"/>propter tamen nostrae cognitionis infirmitatem sicut deum in complecte cognoscimus ita etiam aliqua 
-            <lb ed="#P"/>vocabula diversa sibi imponimus propter necessitatem imperfectionis nostrae naturae <pc type="punctus"/> quia non est conceptus 
-            <lb ed="#P"/>possibilis nobis cognoscendi deum <pc type="punctus"/> Et ideo ponendo effectum in esse secundum quod experimur vocamus eum volentem 
-            <lb ed="#P"/>et secundum quod ordinatissime agit vocamus eum sapientem et sic de aliis praedicatis quae sibi attribuimus 
-            <lb ed="#P"/><pc type="pilcrow"/> Et iterum secundum quod varie consideramus eum in ordine ad res vocamus eum notitiam iudicativam 
-            <lb ed="#P"/>et sic de aliis quorum videri potest distinctione 25a libro distinctionum magistri in qua diversitate est maxima 
-            <lb ed="#P"/>aequivocatio ut praescientiam restringatur ad scientiam malorum futurum Sed tamen doctores non debent 
-            <lb ed="#P"/>in hoc stare nec multum <unclear>minori</unclear> quia materia est resolvenda ad conceptus
+            <lb ed="#P" n="34"/>res simplicissima ut testatur tam philosophia quam theologia et cum ita quod sit idem vivere et velle in eo 
+            <lb ed="#P" n="35"/>propter tamen nostrae cognitionis infirmitatem sicut deum in complecte cognoscimus ita etiam aliqua 
+            <lb ed="#P" n="36"/>vocabula diversa sibi imponimus propter necessitatem imperfectionis nostrae naturae <pc type="punctus"/> quia non est conceptus 
+            <lb ed="#P" n="37"/>possibilis nobis cognoscendi deum <pc type="punctus"/> Et ideo ponendo effectum in esse secundum quod experimur vocamus eum volentem 
+            <lb ed="#P" n="38"/>et secundum quod ordinatissime agit vocamus eum sapientem et sic de aliis praedicatis quae sibi attribuimus 
+            <lb ed="#P" n="39"/><pc type="pilcrow"/> Et iterum secundum quod varie consideramus eum in ordine ad res vocamus eum notitiam iudicativam 
+            <lb ed="#P" n="40"/>et sic de aliis quorum videri potest distinctione 25a libro distinctionum magistri in qua diversitate est maxima 
+            <lb ed="#P" n="41"/>aequivocatio ut praescientiam restringatur ad scientiam malorum futurum Sed tamen doctores non debent 
+            <lb ed="#P" n="42"/>in hoc stare nec multum <unclear>minori</unclear> quia materia est resolvenda ad conceptus
           </p>
           <div xml:id="ppra-l118-Dd1e283">
             <head xml:id="ppra-l118-Hpvapva">Prima via</head>
             <p xml:id="ppra-l118-pgreqp">
               <pc type="pilcrow"/> Nihilominus pro generali 
-              <lb ed="#P"/>responsione ad huius materiae difficultatem prima via est ista quod articulus de libertate divina est articulus 
-              <lb ed="#P"/>fidei et ideo est aenigmaticus et non habens evidentiam ut est quod deus sit contradictoriae liber
+              <lb ed="#P" n="43"/>responsione ad huius materiae difficultatem prima via est ista quod articulus de libertate divina est articulus 
+              <lb ed="#P" n="44"/>fidei et ideo est aenigmaticus et non habens evidentiam ut est quod deus sit contradictoriae liber
               
-              <lb ed="#P"/><pc type="pilcrow"/> unde communis natura humana ex puris naturalibus non potest scire adhuc nullum nisi longa 
-              <lb ed="#P"/>exercitatione praevia <pc type="punctus"/> Et sic propositiones deductae particulares in hoc articulo circumscripta speciali 
-              <lb ed="#P"/>evidentia extrinseca sunt eiusdem generis id est sunt aenigmatice et minus evidentes <pc type="virgula">/</pc> apparet haec ex processu 
-              <lb ed="#P"/>doctrinali In unaquaque doctrina nam priora sunt potestatibus notiora <pc type="punctus"/> nisi superveniat alia extrinseca 
-              <lb ed="#P"/>evidentia et hoc est de doctrina philosophi dicentis quod oportet principia scientiarum esse notiora 
+              <lb ed="#P" n="45"/><pc type="pilcrow"/> unde communis natura humana ex puris naturalibus non potest scire adhuc nullum nisi longa 
+              <lb ed="#P" n="46"/>exercitatione praevia <pc type="punctus"/> Et sic propositiones deductae particulares in hoc articulo circumscripta speciali 
+              <lb ed="#P" n="47"/>evidentia extrinseca sunt eiusdem generis id est sunt aenigmatice et minus evidentes <pc type="virgula">/</pc> apparet haec ex processu 
+              <lb ed="#P" n="48"/>doctrinali In unaquaque doctrina nam priora sunt potestatibus notiora <pc type="punctus"/> nisi superveniat alia extrinseca 
+              <lb ed="#P" n="49"/>evidentia et hoc est de doctrina philosophi dicentis quod oportet principia scientiarum esse notiora 
             </p>
             <p xml:id="ppra-l118-Heqsicc">
               Et ex hoc diceretur quod 
-              <lb ed="#P"/>concordia futurum contingentium cum praescientia divina est <unclear>particularis</unclear> consequentia sequens ex fide <pc type="virgula">/</pc> et ideo debet esse minus 
-              <lb ed="#P"/>evidens et recipi cum propositione fidei quia ex fide deducitur solum et ista via sufficit pro simplicibus 
-              <lb ed="#P"/>quia nullo modo est ab eis cognoscibilis
+              <lb ed="#P" n="50"/>concordia futurum contingentium cum praescientia divina est <unclear>particularis</unclear> consequentia sequens ex fide <pc type="virgula">/</pc> et ideo debet esse minus 
+              <lb ed="#P" n="51"/>evidens et recipi cum propositione fidei quia ex fide deducitur solum et ista via sufficit pro simplicibus 
+              <lb ed="#P" n="52"/>quia nullo modo est ab eis cognoscibilis
             </p>
             <p xml:id="ppra-l118-eqssug">
               <pc type="pilcrow"/> Ex quo sequitur error errantium <del rend="strikethrough">sive</del> volentium haec 
-              <lb ed="#P"/>reducere aliquid evidentiam naturalem et hoc in eis consurgit ex ignorantia doctrinali et inquirendi
-              <lb ed="#P"/>veritatem secundum unumquodque genus 
+              <lb ed="#P" n="53"/>reducere aliquid evidentiam naturalem et hoc in eis consurgit ex ignorantia doctrinali et inquirendi
+              <lb ed="#P" n="54"/>veritatem secundum unumquodque genus 
             </p>
           </div>
           <div xml:id="ppra-l118-Dd1e305">
             <head xml:id="ppra-l118-Hsvasva">Secunda via</head>
             <p xml:id="ppra-l118-svqurc">
               <pc type="pilcrow"/> 2a via quae aliquantulum magis elucidat est talis 
-              <lb ed="#P"/>videlicet <pc type="punctus"/> quod rei infinitate competunt proprietates oppositae quod quidam alias est deductum <pc type="pilcrow"/> unde 
-              <lb ed="#P"/>et in ysaia legitur <quote xml:id="ppra-l118-Qasadff" source="http://scta.info/resource/is55_8@1-6">non enim cogitationes meae cogitationes vestrae neque viae mea viae vestrae</quote> dicit dicens 
-              <lb ed="#P"/>scientiae enim finite naturaliter causatae repugnat contingentia unde sequitur sortes scit <c>a</c> igitur <c>a</c> est necessariam <pc type="virgula">/</pc> de scientia
+              <lb ed="#P" n="55"/>videlicet <pc type="punctus"/> quod rei infinitate competunt proprietates oppositae quod quidam alias est deductum <pc type="pilcrow"/> unde 
+              <lb ed="#P" n="56"/>et in ysaia legitur <quote xml:id="ppra-l118-Qasadff" source="http://scta.info/resource/is55_8@1-6">non enim cogitationes meae cogitationes vestrae neque viae mea viae vestrae</quote> dicit dicens 
+              <lb ed="#P" n="57"/>scientiae enim finite naturaliter causatae repugnat contingentia unde sequitur sortes scit <c>a</c> igitur <c>a</c> est necessariam <pc type="virgula">/</pc> de scientia
               <pb ed="#P" n="118-v"/>
-              <lb ed="#P"/>autem increata consequentia nulla <pc type="virgula">/</pc> et hoc resolvendum ad proprietatem aliam quam sit limitate vel finite <pc type="punctus"/> Et illo 
-              <lb ed="#P"/>considerato debet intellectus quietari quod haec <unclear>capulativa</unclear> est possibilis deus scit <c>a</c> fore et tamen potest non fore 
-              <lb ed="#P"/>licet scientia sua sit immutabilis non obstante quod contingens sit <c>a</c> fore non est tamen copulativa impossibilis 
-              <lb ed="#P"/>nec laesiva intellectus <pc type="virgula">/</pc> consideratis proprietatibus dei aliis a nostris quoniam hanc habet proprietatem quod 
-              <lb ed="#P"/>est contradictoriae liber ut dictum est <pc type="pilcrow"/> unde <ref xml:id="ppra-l118-Rd1e343"><name ref="#Dionysius">beatus dyonisius</name> 2o <title ref="#deDivinisNominibus">de <unclear>divinis nominibus</unclear></title></ref> dicit quod deus immutabiliter 
-              <lb ed="#P"/>cognoscit mutabilia et indivisibiliter divisibilia quae prima facie viderentur non intelligentium oculos <unclear>clan?re</unclear>
-              <lb ed="#P"/>Iuxta quam viam debet unus quisque rationabiliter contentari
+              <lb ed="#P" n="1"/>autem increata consequentia nulla <pc type="virgula">/</pc> et hoc resolvendum ad proprietatem aliam quam sit limitate vel finite <pc type="punctus"/> Et illo 
+              <lb ed="#P" n="2"/>considerato debet intellectus quietari quod haec <unclear>capulativa</unclear> est possibilis deus scit <c>a</c> fore et tamen potest non fore 
+              <lb ed="#P" n="3"/>licet scientia sua sit immutabilis non obstante quod contingens sit <c>a</c> fore non est tamen copulativa impossibilis 
+              <lb ed="#P" n="4"/>nec laesiva intellectus <pc type="virgula">/</pc> consideratis proprietatibus dei aliis a nostris quoniam hanc habet proprietatem quod 
+              <lb ed="#P" n="5"/>est contradictoriae liber ut dictum est <pc type="pilcrow"/> unde <ref xml:id="ppra-l118-Rd1e343"><name ref="#Dionysius">beatus dyonisius</name> 2o <title ref="#deDivinisNominibus">de <unclear>divinis nominibus</unclear></title></ref> dicit quod deus immutabiliter 
+              <lb ed="#P" n="6"/>cognoscit mutabilia et indivisibiliter divisibilia quae prima facie viderentur non intelligentium oculos <unclear>clan?re</unclear>
+              <lb ed="#P" n="7"/>Iuxta quam viam debet unus quisque rationabiliter contentari
             </p>
           </div>
           <div xml:id="ppra-l118-Dd1e356">
             <head xml:id="ppra-l118-Htvatva">Tertia via</head>
             <p xml:id="ppra-l118-tvipac">
               <pc type="pilcrow"/> 3a via contentandi magis 
-              <lb ed="#P"/>particularis notat quod compositio et divino sunt ratione imperfectionis in nobis quia partialiter res <unclear>creata</unclear>
-              <lb ed="#P"/>cognoscimus ideo partiales assensus formamus secundum quod possumus concludere <pc type="punctus"/> In deo autem nulla 
-              <lb ed="#P"/>imperfectio <pc type="punctus"/> sed eius essentia simpliciter est perfecta ymmo perfectissima et simplicissima et omnium veritatum contentiva 
-              <lb ed="#P"/>Et iuxta hanc radicem facile eset dicere ad praesentem materiae difficultatem quia scientia dei non est compulativa 
-              <lb ed="#P"/>nec proprie assentiva sed omnium veritatum possibilium et contingentium contentiva Et iuxta hanc viam dicitur quod non 
-              <lb ed="#P"/>est compositiva neque divisiva et tunc deus est necessario notitia huius antichristus erit et si absolute est notitia 
-              <lb ed="#P"/>tunc est intuitus eius deus includit omnes rerum modos et possibilitates ad contrarium et successiones
+              <lb ed="#P" n="8"/>particularis notat quod compositio et divino sunt ratione imperfectionis in nobis quia partialiter res <unclear>creata</unclear>
+              <lb ed="#P" n="9"/>cognoscimus ideo partiales assensus formamus secundum quod possumus concludere <pc type="punctus"/> In deo autem nulla 
+              <lb ed="#P" n="10"/>imperfectio <pc type="punctus"/> sed eius essentia simpliciter est perfecta ymmo perfectissima et simplicissima et omnium veritatum contentiva 
+              <lb ed="#P" n="11"/>Et iuxta hanc radicem facile eset dicere ad praesentem materiae difficultatem quia scientia dei non est compulativa 
+              <lb ed="#P" n="12"/>nec proprie assentiva sed omnium veritatum possibilium et contingentium contentiva Et iuxta hanc viam dicitur quod non 
+              <lb ed="#P" n="13"/>est compositiva neque divisiva et tunc deus est necessario notitia huius antichristus erit et si absolute est notitia 
+              <lb ed="#P" n="14"/>tunc est intuitus eius ymmo potest concedi quod scit eius contradictorium ubi scientia referatur scilicet ad divinum 
+              <lb ed="#P" n="15"/>intuitum quia deus includit omnes rerum modos et possibilitates ad contrarium et successiones
             </p>
             <p xml:id="ppra-l118-pmiprp">
               <pc type="pilcrow"/>Unde 
-              <lb ed="#P"/>pro clariori intellectu materiae et ut debetur modus respondendi talis propositiones deus scit antichristum fore 
-              <lb ed="#P"/>etc debent tales distingui nam si sumatur absolute absque hoc quod includat talem antichristus erit
-              <lb ed="#P"/><unclear>?li?s</unclear> est necessaria deus scit antichristum non fore <pc type="punctus"/> <pc type="punctus"/> 2o potest summi scilicet quod eus habet perfectam scientiam 
-              <lb ed="#P"/>circa hoc complexum deus scit antichristum fore etc copulativa convertibilis cum ea est contingens 
-              <lb ed="#P"/>respectu 2ae partis et remanet circa hanc contingentia quia eadem scientia dei ab <unclear>intra</unclear> stat cum utroque contradictorum 
-              <lb ed="#P"/>Et sic haec consequentia non valet deus scit antichristum fore ergo antichristus erit <pc type="punctus"/> quia antecedens necessariam et 
-              <lb ed="#P"/>consequens mere contingens <pc type="punctus"/> <pc type="pilcrow"/> Communis tamen modus est quod sumatur 2o modo et quod concludat ista duo scilicet 
-              <lb ed="#P"/>perfectionem plenitudinis scientiae circa contradictorium et cum hoc includat a parte rei quod ita erit 
-              <lb ed="#P"/>et ideo conceditur quod est contingens respectu 2ae partis <pc type="pilcrow"/> posset tamen dici probabilius apud me 
-              <lb ed="#P"/>quod haec propositio deus scit antichristum fore primo modo est vera et haec neganda deus non scit antichristum fore 
-              <lb ed="#P"/>ad divinam scientiam relata <pc type="punctus"/>
+              <lb ed="#P" n="16"/>pro clariori intellectu materiae et ut debetur modus respondendi talis propositiones deus scit antichristum fore 
+              <lb ed="#P" n="17"/>etc debent tales distingui nam si sumatur absolute absque hoc quod includat talem antichristus erit
+              <lb ed="#P" n="18"/><unclear>?li?s</unclear> est necessaria deus scit antichristum non fore <pc type="punctus"/> <pc type="punctus"/> 2o potest summi scilicet quod eus habet perfectam scientiam 
+              <lb ed="#P" n="19"/>circa hoc complexum deus scit antichristum fore etc copulativa convertibilis cum ea est contingens 
+              <lb ed="#P" n="20"/>respectu 2ae partis et remanet circa hanc contingentia quia eadem scientia dei ab <unclear>intra</unclear> stat cum utroque contradictorum 
+              <lb ed="#P" n="21"/>Et sic haec consequentia non valet deus scit antichristum fore ergo antichristus erit <pc type="punctus"/> quia antecedens necessariam et 
+              <lb ed="#P" n="22"/>consequens mere contingens <pc type="punctus"/> <pc type="pilcrow"/> Communis tamen modus est quod sumatur 2o modo et quod concludat ista duo scilicet 
+              <lb ed="#P" n="23"/>perfectionem plenitudinis scientiae circa contradictorium et cum hoc includat a parte rei quod ita erit 
+              <lb ed="#P" n="24"/>et ideo conceditur quod est contingens respectu 2ae partis <pc type="pilcrow"/> posset tamen dici probabilius apud me 
+              <lb ed="#P" n="25"/>quod haec propositio deus scit antichristum fore primo modo est vera et haec neganda deus non scit antichristum fore 
+              <lb ed="#P" n="26"/>ad divinam scientiam relata <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l118-eohvep">
               <pc type="pilcrow"/> Sed restat difficultas resolvendo ad divinum intuitum quare ergo sic sumitur 
-              <lb ed="#P"/>Et dicitur breviter quod haec est resolvendo et referendo ad immensitatem perfectionis divinae <pc type="virgula">/</pc> Ita quod ymaginatio 
-              <lb ed="#P"/>stat in haec videlicet quod essentia divina non cognoscit compositive neque indicative ymmo simplicissimo 
-              <lb ed="#P"/>intuitu et perfectiori modo in infinitum quam assentive etc <pc type="pilcrow"/> unde <ref xml:id="ppra-l118-Rd1e399"><name ref="#HenryOfGhent">doctor sollempnis</name></ref> tenet et 
-              <lb ed="#P"/><ref xml:id="ppra-l118-Rd1e412"><name ref="#Chatton">chaton</name></ref> sit et resolvunt materiam de praescientia isto modo unde hanc propositionem dicitur scit antichristum fore <pc type="punctus"/> sic 
-              <lb ed="#P"/>resolvunt name si intelligatur quod deus habeat notitiam perfectam et cum haec intelligit quod antichristus 
-              <lb ed="#P"/>erit prima pars est necessaria et 2a est contingens <pc type="punctus"/> prima enim stat cum utraque parte contradictionis et <unclear>limitata</unclear> 
-              <lb ed="#P"/>et 2a non est limitata <pc type="pilcrow"/> unde limitatio divinae voluntatis stat sine disiunctione ad voluntatem <unclear>contradictoriae</unclear>
+              <lb ed="#P" n="27"/>Et dicitur breviter quod haec est resolvendo et referendo ad immensitatem perfectionis divinae <pc type="virgula">/</pc> Ita quod ymaginatio 
+              <lb ed="#P" n="28"/>stat in haec videlicet quod essentia divina non cognoscit compositive neque indicative ymmo simplicissimo 
+              <lb ed="#P" n="29"/>intuitu et perfectiori modo in infinitum quam assentive etc <pc type="pilcrow"/> unde <ref xml:id="ppra-l118-Rd1e399"><name ref="#HenryOfGhent">doctor sollempnis</name></ref> tenet et 
+              <lb ed="#P" n="30"/><ref xml:id="ppra-l118-Rd1e412"><name ref="#Chatton">chaton</name></ref> sit et resolvunt materiam de praescientia isto modo unde hanc propositionem dicitur scit antichristum fore <pc type="punctus"/> sic 
+              <lb ed="#P" n="31"/>resolvunt name si intelligatur quod deus habeat notitiam perfectam et cum haec intelligit quod antichristus 
+              <lb ed="#P" n="32"/>erit prima pars est necessaria et 2a est contingens <pc type="punctus"/> prima enim stat cum utraque parte contradictionis et <unclear>limitata</unclear> 
+              <lb ed="#P" n="33"/>et 2a non est limitata <pc type="pilcrow"/> unde limitatio divinae voluntatis stat sine disiunctione ad voluntatem <unclear>contradictoriae</unclear>
             </p>
           </div>
           <div xml:id="ppra-l118-Dd1e428">
             <head xml:id="ppra-l118-Hqvaqva">Quarta via</head>
             <p xml:id="ppra-l118-qvscdc">
-              <lb ed="#P"/><pc type="pilcrow"/> 4a via sicut intellectus noster <pc type="virgula">/</pc> circa singularia et et contingentia repperit modum infallibilem vel 
-              <lb ed="#P"/>per distinctionem vel per alium modum procuraverit sibi scientiam secundum rationes unibiles vel secundum 
-              <lb ed="#P"/>alios modos secundum quod contingit de <unclear>mu?bus</unclear> intellectum <del rend="strikethrough">divinum</del> procurare <pc type="pilcrow"/> Ita ymaginandum est concurrere 
-              <lb ed="#P"/>intellectum divinum vel se habere respectu omnium veritatum circumscripta habitudine imperfectionis habebimus quod 
-              <lb ed="#P"/>distinctissime cognoscit contingentia et immutabilia sub hac forma abstrahendi <add place="above-line">confusione</add> et salvabitur quod divina notitia 
-              <lb ed="#P"/>est summa et inmediata <pc type="virgula">/</pc> Et ex intrinseca suae perfectionis habitudine habet modum cognoscendi <pc type="punctus"/> et hanc 
-              <lb ed="#P"/>viam secutus est <ref xml:id="ppra-l118-Rd1e440"><name>guillemus <del rend="strikethrough">altissidiorensis</del> parisiensis</name> in 2a parte de universo</ref> <pc type="punctus"/> nam dicit quod haec propositio 
-              <lb ed="#P"/><unclear>altum</unclear> istorum contradictorum est verum ymmo et hoc scit intellectus noster sed cum quadam conclusione <pc type="virgula">/</pc> ymaginatur enim quod 
-              <lb ed="#P"/>distinctissime deus sciat <pc type="virgula">/</pc> quia sine antichristum scit fore sine non distinctissime cognoscit nos autem non sic 
-              <lb ed="#P"/>tamen subiectum supponit pro contingente quia illa pro qua supponit est mere contingens <pc type="punctus"/>
+              <lb ed="#P" n="34"/><pc type="pilcrow"/> 4a via sicut intellectus noster <pc type="virgula">/</pc> circa singularia et et contingentia repperit modum infallibilem vel 
+              <lb ed="#P" n="35"/>per distinctionem vel per alium modum procuraverit sibi scientiam secundum rationes unibiles vel secundum 
+              <lb ed="#P" n="36"/>alios modos secundum quod contingit de <unclear>mu?bus</unclear> intellectum <del rend="strikethrough">divinum</del> procurare <pc type="pilcrow"/> Ita ymaginandum est concurrere 
+              <lb ed="#P" n="37"/>intellectum divinum vel se habere respectu omnium veritatum circumscripta habitudine imperfectionis habebimus quod 
+              <lb ed="#P" n="38"/>distinctissime cognoscit contingentia et immutabilia sub hac forma abstrahendi <add place="above-line">confusione</add> et salvabitur quod divina notitia 
+              <lb ed="#P" n="39"/>est summa et inmediata <pc type="virgula">/</pc> Et ex intrinseca suae perfectionis habitudine habet modum cognoscendi <pc type="punctus"/> et hanc 
+              <lb ed="#P" n="40"/>viam secutus est <ref xml:id="ppra-l118-Rd1e440"><name>guillemus <del rend="strikethrough">altissidiorensis</del> parisiensis</name> in 2a parte de universo</ref> <pc type="punctus"/> nam dicit quod haec propositio 
+              <lb ed="#P" n="41"/><unclear>altum</unclear> istorum contradictorum est verum ymmo et hoc scit intellectus noster sed cum quadam conclusione <pc type="virgula">/</pc> ymaginatur enim quod 
+              <lb ed="#P" n="42"/>distinctissime deus sciat <pc type="virgula">/</pc> quia sine antichristum scit fore sine non distinctissime cognoscit nos autem non sic 
+              <lb ed="#P" n="43"/>tamen subiectum supponit pro contingente quia illa pro qua supponit est mere contingens <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l118-Dd1e452">
             <head xml:id="ppra-l118-Hqnvqnv">Quinta via</head>
             <p xml:id="ppra-l118-qvqrcf">
               <pc type="pilcrow"/> 5a via est quod natura 
-              <lb ed="#P"/>divina respectu futurum contingentium est scientia praedicata mere libera <pc type="punctus"/> unde ymaginandum est quod sicut voluntas est 
-              <lb ed="#P"/>mere libera respectu effectus producibilis ita de scientia praedicata respectu eiusdem nec est mirabile resolventi <pc type="punctus"/>
-              <lb ed="#P"/>quia idem est voluntas et intellectus in deo nec provenit hoc mirabile nisi ex deffectum nostrae 
-              <lb ed="#P"/>cognitionis visa divinae perfectionis immensitate unde per eamdem notitiam vult antichristum fore 
-              <lb ed="#P"/>vel non fore <pc type="punctus"/> et tamen non elicit novos actus <pc type="virgula">/</pc> et ideo vocatur libera et hoc ratione suae immensitatis 
-              <lb ed="#P"/>et tamen nullo modo mutatur <pc type="virgula">/</pc> et ita de scientia sua <pc type="virgula">/</pc> quia eadem est <unclear>qua</unclear> scit antichristum esse et qua ipsum scit non 
-              <lb ed="#P"/>esse <pc type="punctus"/> undee si bene materia resolvatur eadem est difficultas quod deus volens producere <c>a</c> uniformiter 
-              <lb ed="#P"/>et aequate vult <c>a</c> fore et primo non fortius <del rend="strikethrough">quam</del> ad producendum quam praescientiam quia talem voluntatem habet ad 
-              <lb ed="#P"/>res <pc type="punctus"/> qualem nostra <del rend="expunctuation">non</del> habet <pc type="punctus"/> et sic vocatur libera et habet modum mere libertatis respectu futurum contingentium sciut 
-              <lb ed="#P"/>non sequitur voluntas divina vult quod hoc fiat et ante hoc non erat igitur voluntas divina mutatur consequentia non 
-              <lb ed="#P"/>valet <pc type="punctus"/> Et ita de scientia potest dici quod non est sicut de nostra sed disperitas maxima <!-- possible break --><pc type="pilcrow"/> de 6ta 
-              <lb ed="#P"/>deo concedente videbitur in alia lectione <pc type="punctus"/>
+              <lb ed="#P" n="44"/>divina respectu futurum contingentium est scientia praedicata mere libera <pc type="punctus"/> unde ymaginandum est quod sicut voluntas est 
+              <lb ed="#P" n="45"/>mere libera respectu effectus producibilis ita de scientia praedicata respectu eiusdem nec est mirabile resolventi <pc type="punctus"/>
+              <lb ed="#P" n="46"/>quia idem est voluntas et intellectus in deo nec provenit hoc mirabile nisi ex deffectum nostrae 
+              <lb ed="#P" n="47"/>cognitionis visa divinae perfectionis immensitate unde per eamdem notitiam vult antichristum fore 
+              <lb ed="#P" n="48"/>vel non fore <pc type="punctus"/> et tamen non elicit novos actus <pc type="virgula">/</pc> et ideo vocatur libera et hoc ratione suae immensitatis 
+              <lb ed="#P" n="49"/>et tamen nullo modo mutatur <pc type="virgula">/</pc> et ita de scientia sua <pc type="virgula">/</pc> quia eadem est <unclear>qua</unclear> scit antichristum esse et qua ipsum scit non 
+              <lb ed="#P" n="50"/>esse <pc type="punctus"/> undee si bene materia resolvatur eadem est difficultas quod deus volens producere <c>a</c> uniformiter 
+              <lb ed="#P" n="51"/>et aequate vult <c>a</c> fore et primo non fortius <del rend="strikethrough">quam</del> ad producendum quam praescientiam quia talem voluntatem habet ad 
+              <lb ed="#P" n="52"/>res <pc type="punctus"/> qualem nostra <del rend="expunctuation">non</del> habet <pc type="punctus"/> et sic vocatur libera et habet modum mere libertatis respectu futurum contingentium sciut 
+              <lb ed="#P" n="53"/>non sequitur voluntas divina vult quod hoc fiat et ante hoc non erat igitur voluntas divina mutatur consequentia non 
+              <lb ed="#P" n="54"/>valet <pc type="punctus"/> Et ita de scientia potest dici quod non est sicut de nostra sed disperitas maxima <!-- possible break --><pc type="pilcrow"/> de 6ta 
+              <lb ed="#P" n="55"/>deo concedente videbitur in alia lectione <pc type="punctus"/>
             </p>
           </div>
         </div>
@@ -261,21 +262,21 @@
           <head xml:id="ppra-l118-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l118-xxxxx3">
             <pc type="pilcrow"/> Secuntur ergo conclusiones <unclear>distinctionum</unclear> primae 4ti libri 
-            <lb ed="#P"/>sententiarum cuius conclusio prima quod sacramentum sacrae rei significatum verum est tamen quod sacramentum vocatur aliquotiens <unclear>di?tis</unclear> sed tamen 
-            <lb ed="#P"/>pro signo sentientur 
+            <lb ed="#P" n="56"/>sententiarum cuius conclusio prima quod sacramentum sacrae rei significatum verum est tamen quod sacramentum vocatur aliquotiens <unclear>di?tis</unclear> sed tamen 
+            <lb ed="#P" n="57"/>pro signo sentientur 
           </p>
           <p xml:id="ppra-l118-xxxxx4">
             <pc type="pilcrow"/> 2a conclusio aliter sumitur sacramentum secundum <name>augustinum</name> si quod est invisibilis gratiae visibilis forma 
-            <lb ed="#P"/>et hoc et tenet <name>hugo de sancto victore</name>
+            <lb ed="#P" n="58"/>et hoc et tenet <name>hugo de sancto victore</name>
           </p>
           <p xml:id="ppra-l118-xxxxx5">
             <pc type="pilcrow"/> 3a conclusio triplici de causa fuerunt instituta sacramenta legalia et seriose 
             <pb ed="#P" n="119-r"/>
-            <lb ed="#P"/>sunt ministeriorum christi significativi unde et in filia haec contingebant illis et sic erat aliqualiter dispositiva 
+            <lb ed="#P" n="1"/>sunt ministeriorum christi significativi unde et in filia haec contingebant illis et sic erat aliqualiter dispositiva 
           </p>
           <p xml:id="ppra-l118-xxxxx6">
-            <lb ed="#P"/><pc type="pilcrow"/> 4a conclusio triplici de causa fuerunt infinita sacramenta primo propter humanitatem et iustificationem sicut est contempnere 
-            <lb ed="#P"/>se ipsum
+            <lb ed="#P" n="2"/><pc type="pilcrow"/> 4a conclusio triplici de causa fuerunt infinita sacramenta primo propter humanitatem et iustificationem sicut est contempnere 
+            <lb ed="#P" n="3"/>se ipsum
           </p>
           <p xml:id="ppra-l118-xxxxx7">
             <pc type="pilcrow"/> 2o propter exercitium nam dyabolus <unclear>q?t</unclear> occiosos 
@@ -285,16 +286,20 @@
           </p>
           <p xml:id="ppra-l118-xxxxx9">
             <pc type="pilcrow"/> Alia est de 
-            <lb ed="#P"/>circumscriptione videlicet quod circumcisio fuit data ad peccatum originale tollendum et tamen licet esse <unclear>reme?m</unclear> 
-            <lb ed="#P"/>non conferebat gratiam sicut ait <name>magister</name> <pc type="virgula">/</pc> Et quaeritur tunc si talis habens circumcisione decessisset ubi 
-            <lb ed="#P"/>esset <pc type="punctus"/> <pc type="virgula">/</pc> unde respondetur quod non esset inconveniens quod esset aliquis status medius vel etiam parentes potuissent 
-            <lb ed="#P"/>mereri aliquem gradum gratiae
+            <lb ed="#P" n="4"/>circumscriptione videlicet quod circumcisio fuit data ad peccatum originale tollendum et tamen licet esse <unclear>reme?m</unclear> 
+            <lb ed="#P" n="5"/>non conferebat gratiam sicut ait <name>magister</name> <pc type="virgula">/</pc> Et quaeritur tunc si talis habens circumcisione decessisset ubi 
+            <lb ed="#P" n="6"/>esset <pc type="punctus"/> <pc type="virgula">/</pc> unde respondetur quod non esset inconveniens quod esset aliquis status medius vel etiam parentes potuissent 
+            <lb ed="#P" n="7"/>mereri aliquem gradum gratiae
           </p>
           <p xml:id="ppra-l118-xxxx10">
+            <pc type="pilcrow"/> alia conclusio <del>baptismus in nova lege se habet</del> hebraei 8va de 
+            <lb ed="#P" n="8"/>circumcidebantur <pc type="punctus"/> sed tamen causa necessitatis aliquando citius
+          </p>
+          <p xml:id="ppra-l118-xxxx11">
             <pc type="pilcrow"/> alia conclusio in nova lege baptismus se 
-            <lb ed="#P"/>habet sicut se habebat circumcisio <pc type="punctus"/> unde circumcisio erat tamquam caracter sed baptismus imprimit sigillum 
-            <lb ed="#P"/>christi in animam et dat dona elevata habundanter non sic est de circumcisione et hoc de lectione 
-            <lb ed="#P"/>supra 4tum sententiarum 
+            <lb ed="#P" n="9"/>habet sicut se habebat circumcisio <pc type="punctus"/> unde circumcisio erat tamquam caracter sed baptismus imprimit sigillum 
+            <lb ed="#P" n="10"/>christi in animam et dat dona elevata habundanter non sic est de circumcisione et hoc de lectione 
+            <lb ed="#P" n="11"/>supra 4tum sententiarum 
           </p>
         </div>
       </div>

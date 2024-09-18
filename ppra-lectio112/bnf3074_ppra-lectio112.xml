@@ -53,23 +53,23 @@
           <head xml:id="ppra-l112-Hdlvlvc">De libertate voluntatis creatae</head>
           <p xml:id="ppra-l112-saaapn">
             <pb ed="#P" n="112-v"/>
-            <lb ed="#P"/>Consequenter circa materiam praetactam videndum est de uno argumento alias facta contra divinam voluntatem et arguitur 
-            <lb ed="#P"/>deus vult concurrere producendo <c>a</c> effectum igitur etc 
+            <lb ed="#P" n="1"/>Consequenter circa materiam praetactam videndum est de uno argumento alias facta contra divinam voluntatem et arguitur 
+            <lb ed="#P" n="2"/>deus vult concurrere producendo <c>a</c> effectum igitur etc 
           </p>
         </div>
         <div xml:id="ppra-l112-Dd1e130">
           <head xml:id="ppra-l112-Hprones">Propositiones</head>
           <p xml:id="ppra-l112-pdpppp">
             <pc type="virgula">/</pc> pro declaratione tamen huius ponuntur aliquae 
-            <lb ed="#P"/>propositiones 
+            <lb ed="#P" n="3"/>propositiones 
           </p>
           <div xml:id="ppra-l112-Dd1e141">
             <head xml:id="ppra-l112-Hppo">Prima propositio</head>
             <head xml:id="ppra-l112-Hd1e146" type="question-title">Prioritas concursus primae causae non est aliquo modo durationis</head>
             <p xml:id="ppra-l112-peiqvc">
               quarum prima prioritas concursus primae causae respectu voluntatis creatae non est aliquo modo durationis 
-              <lb ed="#P"/>patet nam aliter effectus esset productus antequam concursus voluntatis esset signetur tunc aliquod instans in quo 
-              <lb ed="#P"/>voluntas creata producitur
+              <lb ed="#P" n="4"/>patet nam aliter effectus esset productus antequam concursus voluntatis esset signetur tunc aliquod instans in quo 
+              <lb ed="#P" n="5"/>voluntas creata producitur
             </p>
             <!-- fuzzy parallel -->
             <p xml:id="ppra-l112-tiimnd">
@@ -81,9 +81,9 @@
             <head xml:id="ppra-l112-Hd1e161" type="question-title">Talis prioritas concursus primae causae non necessario includit praeter effectum aliquid causarum in voluntate</head>
             <p xml:id="ppra-l112-spenia">
               <pc type="pilcrow"/> 2a propositio talis prioritas non 
-              <lb ed="#P"/>necessario includit aliquid causare praeter effectum in ipsa voluntate patet <pc type="virgula">/</pc> quia si oporteret aliquid influere 
-              <lb ed="#P"/>pari ratione requireretur alia dispositio et alia et sic procederetur in infinitum ergo tenendum est quod deo concurrente 
-              <lb ed="#P"/>cum voluntate nihil producit nisi actum ad quem voluntas creata concurrit
+              <lb ed="#P" n="6"/>necessario includit aliquid causare praeter effectum in ipsa voluntate patet <pc type="virgula">/</pc> quia si oporteret aliquid influere 
+              <lb ed="#P" n="7"/>pari ratione requireretur alia dispositio et alia et sic procederetur in infinitum ergo tenendum est quod deo concurrente 
+              <lb ed="#P" n="8"/>cum voluntate nihil producit nisi actum ad quem voluntas creata concurrit
             </p>
           </div>
           <div xml:id="ppra-l112-Dd1e168">
@@ -91,11 +91,11 @@
             <head xml:id="ppra-l112-Hd1e173" type="question-title">Respectu actus boni deus voluntatem primam et inclinat ad agendum</head>
             <p xml:id="ppra-l112-tprrbo">
               <pc type="pilcrow"/> 3a propositio <pc type="virgula">/</pc> respectu actus boni 
-              <lb ed="#P"/>deus voluntatem praemovet et inclinat ad agendum patet in iustificatione impii quoniam specialiter 
-              <lb ed="#P"/>praemovet voluntatem creatam ut ad iustitiam convertatur Ideo <ref xml:id="ppra-l112-Rdfdsas" corresp="#l112-QBefsaop"><title ref="#ap">apocalypsis</title> <num>3o</num> </ref> dicitur <quote xml:id="ppra-l112-QBefsaop" source="http://scta.info/resource/ap3_20">ego <add place="above-line">foris</add> ad ostium 
-              <lb ed="#P"/>pulso</quote> scilicet ut peccatores convertantur etc voluntas divinae praeventi voluntatem creatam gratiam infudendo 
-              <lb ed="#P"/>ymmo <unclear>causante</unclear> stante cum voluntate creata adhuc deus incitat ad boni pro secundum Et sic 
-              <lb ed="#P"/>respectu bonorum operum inclinatur divina voluntas
+              <lb ed="#P" n="9"/>deus voluntatem praemovet et inclinat ad agendum patet in iustificatione impii quoniam specialiter 
+              <lb ed="#P" n="10"/>praemovet voluntatem creatam ut ad iustitiam convertatur Ideo <ref xml:id="ppra-l112-Rdfdsas" corresp="#l112-QBefsaop"><title ref="#ap">apocalypsis</title> <num>3o</num> </ref> dicitur <quote xml:id="ppra-l112-QBefsaop" source="http://scta.info/resource/ap3_20">ego <add place="above-line">foris</add> ad ostium 
+              <lb ed="#P" n="11"/>pulso</quote> scilicet ut peccatores convertantur etc voluntas divinae praeventi voluntatem creatam gratiam infudendo 
+              <lb ed="#P" n="12"/>ymmo <unclear>causante</unclear> stante cum voluntate creata adhuc deus incitat ad boni pro secundum Et sic 
+              <lb ed="#P" n="13"/>respectu bonorum operum inclinatur divina voluntas
             </p>
           </div>
           <div xml:id="ppra-l112-Dd1e200">
@@ -103,10 +103,10 @@
             <head xml:id="ppra-l112-Hd1e205" type="question-title">Respectu actus prohibiti concurrit deus secundum minimum gradum possibilem</head>
             <p xml:id="ppra-l112-qprsip">
               <pc type="pilcrow"/> 4a propositio deus respectu actus prohibiti concurrit secundum 
-              <lb ed="#P"/>minimum gradum possibile et extensive indivisibile <pc type="pilcrow"/> ubi advertendum est quod concursus divinus sit 
-              <lb ed="#P"/>simpliciter immensus et infinitus nihilominus deus <del rend="expunctuation strikethrough">non</del> non concurrit respectu actus prohibiti nisi quantum effectus 
-              <lb ed="#P"/>requirit concurrit tamen intensive minime sic ponit quia non actuat ad malum sed potius ad 
-              <lb ed="#P"/>bonum
+              <lb ed="#P" n="14"/>minimum gradum possibile et extensive indivisibile <pc type="pilcrow"/> ubi advertendum est quod concursus divinus sit 
+              <lb ed="#P" n="15"/>simpliciter immensus et infinitus nihilominus deus <del rend="expunctuation strikethrough">non</del> non concurrit respectu actus prohibiti nisi quantum effectus 
+              <lb ed="#P" n="16"/>requirit concurrit tamen intensive minime sic ponit quia non actuat ad malum sed potius ad 
+              <lb ed="#P" n="17"/>bonum
             </p>
           </div>
           <div xml:id="ppra-l112-Dd1e219">
@@ -114,65 +114,66 @@
             <head xml:id="ppra-l112-Hd1e224" type="question-title">Prioritas dei concursus est sufficientiae <unclear>necessitatis</unclear> et excellentiae</head>
             <p xml:id="ppra-l112-qpprcs">
               <pc type="pilcrow"/> 5a propositio prioritas divini concursus est sufficientiae necessitatis et excellentiae patet primo in prima propositione 
-              <lb ed="#P"/>quia non est durationis <add place="above-line">temporalis</add> 
+              <lb ed="#P" n="18"/>quia non est durationis <add place="above-line">temporalis</add> 
             </p>
             <!-- fuzzy break -->
             <p xml:id="ppra-l112-pereqp">
               sufficientiae quo ad primum membrum quia prima causalitas non indiget 2a causalitate
-              <lb ed="#P"/>ad ponendum eam in esse et habet <unclear>primenitatem</unclear> quia se sola sufficit
+              <lb ed="#P" n="19"/>ad ponendum eam in esse et habet <unclear>primenitatem</unclear> quia se sola sufficit
             </p>
             <p xml:id="ppra-l112-seircs">
               <pc type="pilcrow"/> 2o est ibi <unclear>primenitas</unclear> necessitatis 
-              <lb ed="#P"/>quia quilibet effectus requirit ipsam primam caritatem si effectus producatur sic tamen non est de 2a causa 
-              <lb ed="#P"/><pc type="pilcrow"/> 2o ratione excellentiae quia est suprema et ab ipsa omnis 2a derivatur et dependet
+              <lb ed="#P" n="20"/>quia quilibet effectus requirit ipsam primam caritatem si effectus producatur sic tamen non est de 2a causa 
+              <lb ed="#P" n="21"/><pc type="pilcrow"/> 2o ratione excellentiae quia est suprema et ab ipsa omnis 2a derivatur et dependet
             </p>
             <div xml:id="ppra-l112-Dd1e261">
               <head xml:id="ppra-l112-Hdcddcd">De causalitate divina</head>
               <p xml:id="ppra-l112-uaecep">
                 <pc type="pilcrow"/> unde 
-                <lb ed="#P"/>advertendum est quod sicut aeternitas habet quamdam prioritatem respectu temporis habet et posteriorem patet quia continet modos 
-                <lb ed="#P"/>perfectionis et durationis rerum et continet ante et post et quantum ad essentiam habet sit individualis 
-                <lb ed="#P"/>continet et praevenit 
+                <lb ed="#P" n="22"/>advertendum est quod sicut aeternitas habet quamdam prioritatem respectu temporis habet et posteriorem patet quia continet modos 
+                <lb ed="#P" n="23"/>perfectionis et durationis rerum et continet ante et post et quantum ad essentiam habet sit individualis 
+                <lb ed="#P" n="24"/>continet et praevenit 
               </p>
               <p xml:id="ppra-l112-eidmai">
                 ita de voluntate sive creatae divina respectu causalitatis creatae habet excellentiam ex prioritate 
-                <lb ed="#P"/>continuando ante et post <pc type="punctus"/> Et illo modo deus prior secundum concursum sibi et creaturae et in hiis tribus con<lb ed="#P"/>sistit 
+                <lb ed="#P" n="25"/>continuando ante et post <pc type="punctus"/> Et illo modo deus prior secundum concursum sibi et creaturae et in hiis tribus con<lb ed="#P" n="26"/>sistit 
                 prioritas causae divinae In quibus magis particularum materiam est advertendum quod prima causa continet 
-                <lb ed="#P"/>2am et producit eam tamquam <unclear>unib?am</unclear> suae causalitatis patet nam est habitudo generis ad suos effectus 
-                <lb ed="#P"/>ad intra
+                <lb ed="#P" n="27"/>2am et producit eam tamquam <unclear>unib?am</unclear> suae causalitatis patet nam est habitudo generis ad suos effectus 
+                <lb ed="#P" n="28"/>ad intra
               </p> 
               <p xml:id="ppra-l112-sdchrp">
                 <pc type="pilcrow"/> 2o divina causalitas dat mensuram per immutationem causae primae et ratione huius 
-                <lb ed="#P"/>habet rationem prioritatis 
+                <lb ed="#P" n="29"/>habet rationem prioritatis 
               </p> 
               <p xml:id="ppra-l112-tqdccc">
                 3o quia conservat caritatem creatam
               </p>
               <p xml:id="ppra-l112-qdccpc">
                 <pc type="virgula">/</pc> 4o quia actuat et vivificat 
-                <lb ed="#P"/><pc type="pilcrow"/> Ubi advertendum est quod creatura producta in esse nedum conservatur ad ipsa potentia causa sed <unclear>immitatur</unclear> 
-                <lb ed="#P"/>et hac ratione cuiusdam affinitatis quam habet ipsa creatura cum divina essentia licet non informetur ab ipsa 
-                <lb ed="#P"/>divina essentia 
+                <lb ed="#P" n="30"/><pc type="pilcrow"/> Ubi advertendum est quod creatura producta in esse nedum conservatur ad ipsa potentia causa sed <unclear>immitatur</unclear> 
+                <lb ed="#P" n="31"/>et hac ratione cuiusdam affinitatis quam habet ipsa creatura cum divina essentia licet non informetur ab ipsa 
+                <lb ed="#P" n="32"/>divina essentia 
               </p>
               <!-- fuzzy parallel -->
               <p xml:id="ppra-l112-eqahpr">
                 et cum hoc habet causalitatem ad reddendum eam in actu et si non sic dabat 
-                <lb ed="#P"/>talem vivificationem licet adhuc conservaret in tali esse non actuaretur ad exeundum in 
-                <lb ed="#P"/>actum talem <pc type="pilcrow"/> unde ipsa divina caualitas est fons et origo totius rei
+                <lb ed="#P" n="33"/>talem vivificationem licet adhuc conservaret in tali esse non actuaretur ad exeundum in 
+                <lb ed="#P" n="34"/>actum talem <pc type="pilcrow"/> unde ipsa divina caualitas est fons et origo totius rei
               </p>
               <p xml:id="ppra-l112-qdcpes">
                 <pc type="pilcrow"/> <sic>6to</sic> propositio 
-                <lb ed="#P"/>divina causalitas est summa libertas et ideo in genere potentiarum liberarum est prima et summa
+                <lb ed="#P" n="35"/>divina causalitas est summa libertas et ideo in genere potentiarum liberarum est prima et summa
               </p> 
               <p xml:id="ppra-l112-eqssre">
                 Ex quibus 
-                <lb ed="#P"/>sequitur quod de prioritate praedicta quod prima causa prius influit respectu communis effectus quam 2a non prioritate temporis <pc type="punctus"/> sed 
-                <lb ed="#P"/>aeterna prioritate
+                <lb ed="#P" n="36"/>sequitur quod de prioritate praedicta quod prima causa prius influit respectu communis effectus quam 2a non prioritate temporis <pc type="punctus"/> sed 
+                <lb ed="#P" n="37"/>aeterna prioritate
               </p>
               <p xml:id="ppra-l112-ssqapa">
-                <pc type="pilcrow"/> 2o sequitur quod posterius desinit Et sicut aeternitas dicit perfectionem quia dicit excellentiam 
-                <lb ed="#P"/>activitatis inmense et sic deo competit Consimiliter praeterius influere sic et perfectione denotat 
-                <lb ed="#P"/>quia non concurrit ad durationem temporalem
+                <pc type="pilcrow"/> 2o sequitur quod posterius desinit Et sicut aeternitas est prior et posterior ita 
+                <lb ed="#P" n="38"/>ymaginatur ut tactum est de caritate divina unde sic prius influere dicit perfectionem quia dicit excellentiam 
+                <lb ed="#P" n="39"/>activitatis inmense et sic deo competit Consimiliter praeterius influere sic et perfectione denotat 
+                <lb ed="#P" n="40"/>quia non concurrit ad durationem temporalem
               </p>
             </div>
           </div>
@@ -181,19 +182,19 @@
             <head xml:id="ppra-l112-Hd1e317" type="qusestion-title">Desinere prius influere <unclear>dicitur[?]</unclear> imperfectionem</head>
             <p xml:id="ppra-l112-spdidi">
               <sic>7ma</sic> propositio desinere prius influere dicit imperfectionem patet 
-              <lb ed="#P"/>per <unclear>alium</unclear> praecedentis
+              <lb ed="#P" n="41"/>per <unclear>alium</unclear> praecedentis
             </p> 
             <p xml:id="ppra-l112-eqsatd">
               Ex quo sequitur quod divina caritas respectu creatae concurrit in infinitum est <sic>posterior</sic> 
             </p>
             <p xml:id="ppra-l112-ssadte">
               <pc type="pilcrow"/> Ex quo 
-              <lb ed="#P"/>sequitur quod aequae posterior sicut prior <pc type="punctus"/> quia ab omni parte continet excedendo
+              <lb ed="#P" n="42"/>sequitur quod aequae posterior sicut prior <pc type="punctus"/> quia ab omni parte continet excedendo
             </p>
             <p xml:id="ppra-l112-tsqaap">
               <pc type="pilcrow"/> Sequitur ulterius quod temporaliter 
-              <lb ed="#P"/>habitudo est tota impertinens ad liberum arbitrium necessitandum patet quia non est nisi excellentiae et 
-              <lb ed="#P"/>bonitatis ymmo excludit necessitatem eo quod concurrit libere volendo 2am causam
+              <lb ed="#P" n="43"/>habitudo est tota impertinens ad liberum arbitrium necessitandum patet quia non est nisi excellentiae et 
+              <lb ed="#P" n="44"/>bonitatis ymmo excludit necessitatem eo quod concurrit libere volendo 2am causam
             </p>
           </div>
         </div>
@@ -201,121 +202,124 @@
           <head xml:id="ppra-l112-Hcorria">Corollaria</head>
           <p xml:id="ppra-l112-pcdcre">
             <pc type="pilcrow"/>pro cuius 
-            <lb ed="#P"/>declaratione supponitur quod talis influxus nihil aliud est quam divina volitio ad intra qua deus vult 
-            <lb ed="#P"/>talem actum a voluntate libere produci patet quia deus sola voluntate deus ad extra agit et sic 
-            <lb ed="#P"/>non indiget instrumento iuxta dictum apostoli dicentis <quote xml:id="ppra-l112-Qd1e350" source="http://scta.info/resource/rom4_17@18-25">vocasti ea quae non sunt tanquam ea quae sunt</quote> 
-            <lb ed="#P"/>et alibi <quote xml:id="ppra-l112-Qipeecs" source="http://scta.info/resource/ps148_5@5-14 http://scta.info/resource/ps32_9@2-11">ipse dicit et facta sunt ipse mandavit et creata sunt</quote> Et sic divina volitio <unclear>inclinat</unclear> 
-            <lb ed="#P"/>formaliter creatura libere concurrere quia effectum habet libere produci a voluntate igitur illa influentia <unclear>confert</unclear> 
-            <lb ed="#P"/>volitione divina libere concurrere
+            <lb ed="#P" n="45"/>declaratione supponitur quod talis influxus nihil aliud est quam divina volitio ad intra qua deus vult 
+            <lb ed="#P" n="46"/>talem actum a voluntate libere produci patet quia deus sola voluntate deus ad extra agit et sic 
+            <lb ed="#P" n="47"/>non indiget instrumento iuxta dictum apostoli dicentis <quote xml:id="ppra-l112-Qd1e350" source="http://scta.info/resource/rom4_17@18-25">vocasti ea quae non sunt tanquam ea quae sunt</quote> 
+            <lb ed="#P" n="48"/>et alibi <quote xml:id="ppra-l112-Qipeecs" source="http://scta.info/resource/ps148_5@5-14 http://scta.info/resource/ps32_9@2-11">ipse dicit et facta sunt ipse mandavit et creata sunt</quote> Et sic divina volitio <unclear>inclinat</unclear> 
+            <lb ed="#P" n="49"/>formaliter creatura libere concurrere quia effectum habet libere produci a voluntate igitur illa influentia <unclear>confert</unclear> 
+            <lb ed="#P" n="50"/>volitione divina libere concurrere
           </p>
           <p xml:id="ppra-l112-usqvgp">
             <pc type="pilcrow"/> Ex quo sequitur quod licet divina volitio qua vult produci <c>a</c> licet sit 
-            <lb ed="#P"/>distincta non esset positiva effectus nisi creatura concurreret libere patet quia includit haec et per consequens 
-            <lb ed="#P"/>non tollit libertatem arbitrii ymmo potius auget quam si non praeveniret non sic se hominem 
-            <lb ed="#P"/><del rend="strikethrough">patet nam sicut deus influit voluntatem</del> Exemplum potest poni de effectu quem deus vult producere 
-            <lb ed="#P"/>a tali causa tali tempori et tali in quo non stat ab alio nec etiam a se solo produci licet sua volitio 
-            <lb ed="#P"/>sit in se inmensa
+            <lb ed="#P" n="51"/>distincta non esset positiva effectus nisi creatura concurreret libere patet quia includit haec et per consequens 
+            <lb ed="#P" n="52"/>non tollit libertatem arbitrii ymmo potius auget quam si non praeveniret non sic se hominem 
+            <lb ed="#P" n="53"/><del rend="strikethrough">patet nam sicut deus influit voluntatem</del> Exemplum potest poni de effectu quem deus vult producere 
+            <lb ed="#P" n="54"/>a tali causa tali tempori et tali in quo non stat ab alio nec etiam a se solo produci licet sua volitio 
+            <lb ed="#P" n="55"/>sit in se inmensa
           </p>
           <p xml:id="ppra-l112-eqsias">
             <pc type="pilcrow"/> Sequitur ulterius quod magis consenda libertas ex praeventione divina 
             <pb ed="#P" n="113-r"/>
-            <lb ed="#P"/>quam si prima causa concurreret in genere finis praecise quia nedum praeventio tollit libertatem sed potius 
-            <lb ed="#P"/>auget ut dictum est plusquam si non praevenitur patet nam sicut deus influit voluntatem praeter 
-            <lb ed="#P"/>actum non influit modum agendi quia est talis ordo causarum igitur mere libere concurrit et influit
+            <lb ed="#P" n="1"/>quam si prima causa concurreret in genere finis praecise quia nedum praeventio tollit libertatem sed potius 
+            <lb ed="#P" n="2"/>auget ut dictum est plusquam si non praevenitur patet nam sicut deus influit voluntatem praeter 
+            <lb ed="#P" n="3"/>actum non influit modum agendi quia est talis ordo causarum igitur mere libere concurrit et influit
           </p>
           <p xml:id="ppra-l112-ssqpmn">
-            <lb ed="#P"/><pc type="pilcrow"/> Sequitur ulterius quod non solum ex intrinseca libertatis conditione voluntas necessitatur ad divinam praeventiam
-            <lb ed="#P"/>ymmo magis <unclear>concept?as</unclear> 
+            <lb ed="#P" n="4"/><pc type="pilcrow"/> Sequitur ulterius quod non solum ex intrinseca libertatis conditione voluntas necessitatur ad divinam praeventiam
+            <lb ed="#P" n="5"/>ymmo magis <unclear>concept?as</unclear> 
           </p>
           <!-- very fuzzy parallels; needs review -->
           <p xml:id="ppra-l112-cna4aa">
             <pc type="virgula">/</pc> et sic <unclear>praevenio</unclear> longe distat a potentia libertatis sed voluntas divina necessitat 
-            <lb ed="#P"/>sive causalitas increata actuat increatam <pc type="punctus"/> ad exeundum in actum
+            <lb ed="#P" n="6"/>sive causalitas increata actuat increatam <pc type="punctus"/> ad exeundum in actum
           </p>
           <!-- very fuzzy parallels; needs review -->
           <p xml:id="ppra-l112-svdsda">
             <pc type="virgula">/</pc> 2o ad effectum producendum 
-            <lb ed="#P"/>quia 2a est indeterminata ad ipsum effectum determinandum nisi a voluntate divina determinetur ita voluntas libera 
-            <lb ed="#P"/>respectu divinae voluntatis Et sic tota determinatio activa respectu humanae est <unclear>limi?re</unclear> individua circa sua opera vel etc
-            <lb ed="#P"/>et nullam haec penitus includit necessitatem
+            <lb ed="#P" n="7"/>quia 2a est indeterminata ad ipsum effectum determinandum nisi a voluntate divina determinetur ita voluntas libera 
+            <lb ed="#P" n="8"/>respectu divinae voluntatis Et sic tota determinatio activa respectu humanae est <unclear>limi?re</unclear> individua circa sua opera vel etc
+            <lb ed="#P" n="9"/>et nullam haec penitus includit necessitatem
           </p>
           <p xml:id="ppra-l112-tsqedp">
             <pc type="pilcrow"/> Sequitur ulterius quod nullatenus inputandum est deo
-            <lb ed="#P"/>quod concurrat ad actum prohibitum necessario quia nullo modo neccessitat ad hoc ymmo remissius concurrit 
-            <lb ed="#P"/>quantum ponit et quod prius concurrit ad ipsum actum prohibitum non est sibi illicitum cum ipse ordo 
-            <lb ed="#P"/>causarum ymmo ordinem causarum componens 
+            <lb ed="#P" n="10"/>quod concurrat ad actum prohibitum necessario quia nullo modo neccessitat ad hoc ymmo remissius concurrit 
+            <lb ed="#P" n="11"/>quantum ponit et quod prius concurrit ad ipsum actum prohibitum non est sibi illicitum cum ipse ordo 
+            <lb ed="#P" n="12"/>causarum ymmo ordinem causarum componens 
           </p> 
           <p xml:id="ppra-l112-qsesqr">
             <pc type="pilcrow"/> Unde sequitur ulterius error negantium actus 
-            <lb ed="#P"/>positivos voluntatis <pc type="pilcrow"/> unde ipsi ymaginati sunt quod actus voluntatis cum voluntate divina essent quid positivum 
-            <lb ed="#P"/>ymmo dixerunt quod actus voluntatis vel aliud est quam ipsa voluntas Consequenter non oportet fingere respectus 
-            <lb ed="#P"/>qui non sunt res positivae
+            <lb ed="#P" n="13"/>positivos voluntatis <pc type="pilcrow"/> unde ipsi ymaginati sunt quod actus voluntatis cum voluntate divina essent quid positivum 
+            <lb ed="#P" n="14"/>ymmo dixerunt quod actus voluntatis vel aliud est quam ipsa voluntas Consequenter non oportet fingere respectus 
+            <lb ed="#P" n="15"/>qui non sunt res positivae
           </p>
           <p xml:id="ppra-l112-qsepce">
             <pc type="pilcrow"/> Sequitur ulterius error negantium divinum concursum respectu talium 
-            <lb ed="#P"/>non concurrere active et effective <pc type="punctus"/> sed promissive <pc type="punctus"/>
+            <lb ed="#P" n="16"/>non concurrere active et effective <pc type="punctus"/> sed promissive <pc type="punctus"/>
           </p> 
           <p xml:id="ppra-l112-sseosn">
             <pc type="pilcrow"/> Sequitur ulterius liberum arbitrium prius 
-            <lb ed="#P"/>agere in electione boni sive materiali esse falsae dictum et est error sicut de praecedentibus Sed quia 
-            <lb ed="#P"/>sic dicantes ignorunt haec ideo etc
+            <lb ed="#P" n="17"/>agere in electione boni sive materiali esse falsae dictum et est error sicut de praecedentibus Sed quia 
+            <lb ed="#P" n="18"/>sic dicantes ignorunt haec ideo etc
           </p>
           <p xml:id="ppra-l112-sseeil">
             <pc type="pilcrow"/> Sequitur ulterius error <ref xml:id="ppra-l112-Rd1e410"><name ref="#Bradwardine">brouardin</name></ref> dicentis quod ex 
-            <lb ed="#P"/>praeventione divinae causalitatis ad <unclear>creaturam</unclear> voluntas necessitatur ad quemlibet suum effectum vel actum et haec est 
-            <lb ed="#P"/>tollere libertatem contradictionis Et de rationibus suis sophisticis deo dante in alia lectione videtur
+            <lb ed="#P" n="19"/>praeventione divinae causalitatis ad <unclear>creaturam</unclear> voluntas necessitatur ad quemlibet suum effectum vel actum et haec est 
+            <lb ed="#P" n="20"/>tollere libertatem contradictionis Et de rationibus suis sophisticis deo dante in alia lectione videtur
           </p>
         </div>
         <div xml:id="ppra-l112-Dxxxx1">
           <head xml:id="ppra-l112-Hxxxx2">Conclusiones</head>
           <p xml:id="ppra-l112-xxxxx3">
-            <lb ed="#P"/><pc type="pilcrow"/>Secuntur ergo distinctiones 2ae scilicet 27 et 28va quarum sequitur conclusio prima primae distinctiones <pc type="virgula">/</pc> conclusio ergo est christus non 
-            <lb ed="#P"/>habuit fidem eodem modo quo nos vel etc
+            <lb ed="#P" n="21"/><pc type="pilcrow"/>Secuntur ergo distinctiones 2ae scilicet 27 et 28va quarum sequitur conclusio prima primae distinctiones <pc type="virgula">/</pc> conclusio ergo est christus non 
+            <lb ed="#P" n="22"/>habuit fidem eodem modo quo nos vel etc
           </p>
           <p xml:id="ppra-l112-xxxxx4">
             <pc type="pilcrow"/> 2a conclusio caritas est dilectio qua diligitur deus et proximus 
           </p>
           <p xml:id="ppra-l112-xxxxx5">
-            <lb ed="#P"/> <pc type="pilcrow"/> 3a conclusio dilecto qua diligitur proximum tamquam seipsum referendo dilectionem in deum 
+            <lb ed="#P" n="23"/> <pc type="pilcrow"/> 3a conclusio dilecto qua diligitur deus non sit <del rend="strikethrough">est</del> in aliud perfectius amor vel dilectio <pc type="punctus"/> sed hoc non tenetur
+          </p>
+          <p xml:id="ppra-l112-xxxx55">
+            <lb ed="#P" n="24"/> <pc type="pilcrow"/> 4a conclusio homo debet diligere proximum tamquam seipsum referendo dilectionem in deum 
           </p>
           <p xml:id="ppra-l112-xxxxx6">
             <pc type="pilcrow"/> 5a conclusio 
-            <lb ed="#P"/>est de mente quod refertu in se ipsa sed in deum praecise
+            <lb ed="#P" n="25"/>est de mente quod refertu in se ipsa sed in deum praecise
           </p>
           <p xml:id="ppra-l112-xxxxx7">
             <pc type="pilcrow"/>6a conclusio <unclear>de?mus</unclear> diligere deum toto corde 
-            <lb ed="#P"/>id est omnes actiones nostras in deum referre
+            <lb ed="#P" n="26"/>id est omnes actiones nostras in deum referre
           </p>
           <p xml:id="ppra-l112-xxxxx8">
             <pc type="pilcrow"/> 7ma praeter dilectionem dei non impletur salus 
-            <lb ed="#P"/>in via scilicet ex nostra equitate naturali sed considerata nostra infinite dispensavit <sic>dispensavit</sic> 
-            <lb ed="#P"/>nobiscum deus et sic sufficit
+            <lb ed="#P" n="27"/>in via scilicet ex nostra equitate naturali sed considerata nostra infinite dispensavit <sic>dispensavit</sic> 
+            <lb ed="#P" n="28"/>nobiscum deus et sic sufficit
           </p>
           <p xml:id="ppra-l112-xxxxx9">
             <pc type="pilcrow"/> 8va licet sit duo praecepta caritatis unum aliud includit 
           </p>
           <p xml:id="ppra-l112-xxxxx10">
-            <lb ed="#P"/><pc type="pilcrow"/> prima conclusio alterius distinctionis omne genus <unclear>m?a</unclear> datarum continetur in duobus <unclear>p?is</unclear>
+            <lb ed="#P" n="29"/><pc type="pilcrow"/> prima conclusio alterius distinctionis omne genus <unclear>m?a</unclear> datarum continetur in duobus <unclear>p?is</unclear>
           </p>
           <p xml:id="ppra-l112-xxxxx11">
             <pc type="pilcrow"/> 2a conclusio nemo 
-            <lb ed="#P"/>tantum se refert in deum quin diligat corpus suum unde ponit magister <pc type="virgula">/</pc> distinctione de proximi 
-            <lb ed="#P"/>dilectione nam quaedam est sicut de <unclear>pereu?la</unclear> de <unclear>conversa?ne</unclear> vel etc
+            <lb ed="#P" n="30"/>tantum se refert in deum quin diligat corpus suum unde ponit magister <pc type="virgula">/</pc> distinctione de proximi 
+            <lb ed="#P" n="31"/>dilectione nam quaedam est sicut de <unclear>pereu?la</unclear> de <unclear>conversa?ne</unclear> vel etc
           </p>
           <p xml:id="ppra-l112-xxxxx12">
             <pc type="pilcrow"/> 3a conclusio corrupta est dilectio 
-            <lb ed="#P"/>qua non diligit homo deum sed seipsum plusquam ipsum
+            <lb ed="#P" n="32"/>qua non diligit homo deum sed seipsum plusquam ipsum
           </p>
           <p xml:id="ppra-l112-xxxxx13">
             <pc type="pilcrow"/> 4a conclusio homo inquantum peccator non est diligendus 
           </p>
           <p xml:id="ppra-l112-xxxxx14">
-            <lb ed="#P"/><pc type="pilcrow"/> 5a conclusio <unclear>parte</unclear> cum petitur utrum parentes sint diligendi dicitur quod sic ratione naturae et <unclear>pentele</unclear> 
-            <lb ed="#P"/>sed secundum ipsos mores malos non nec insequendi 
+            <lb ed="#P" n="33"/><pc type="pilcrow"/> 5a conclusio <unclear>parte</unclear> cum petitur utrum parentes sint diligendi dicitur quod sic ratione naturae et <unclear>pentele</unclear> 
+            <lb ed="#P" n="34"/>sed secundum ipsos mores malos non nec insequendi 
           </p>
           <p xml:id="ppra-l112-xxxxx15">
             <pc type="pilcrow"/>6ta et ultima causalitas <unclear>iuxta</unclear> potest distingui 
-            <lb ed="#P"/>quaedam perfecta quaedam perfectissima sunt duo alii modi et hoc satis ponit declarari quare non plus <unclear>boloseni</unclear>
+            <lb ed="#P" n="35"/>quaedam perfecta quaedam perfectissima sunt duo alii modi et hoc satis ponit declarari quare non plus <unclear>boloseni</unclear>
           </p>
         </div>
       </div>
