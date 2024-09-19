@@ -332,7 +332,7 @@
             Et sic varia <unclear>potuerunt</unclear> 
             <lb ed="#P" n="39"/>ordinari praedicamenti primo propter infinitatem rerum et propter infinitatem modorum concipiendi et ad <unclear>distiutius</unclear> cognoscendum 
             <lb ed="#P" n="40"/>conceptus inter se et rerum habitudines et sic tanta vel tot et non <del rend="strikethrough">valde</del> plura sunt valde bene 
-            posita
+            <lb ed="#P" n="41"/>posita
           </p>
           <p xml:id="ppra-l28-qapvaq">
             <pc type="pilcrow"/> unde simplicius loquitur quod aliqui reduxerunt ad tria 
@@ -340,11 +340,11 @@
           <!-- fuzzy break -->
           <p xml:id="ppra-l28-adrrsa">
             <pc type="pilcrow"/> Alii ad unum essentiale et aliud 
-            <lb ed="#P" n="41"/>accidentale
+            <lb ed="#P" n="42"/>accidentale
           </p>
           <p xml:id="ppra-l28-avcseq">
             <pc type="pilcrow"/> Alii consideraverunt totam latitudinem rerum et posuerunt a parte rerum duo praedicamenta scilicet unum 
-            <lb ed="#P" n="42"/>secundum substantiam et quantitatem
+            <lb ed="#P" n="43"/>secundum substantiam et quantitatem
           </p>
           <p xml:id="ppra-l28-avpqeq">
             <pc type="pilcrow"/> Alii ponunt tria quia ponunt quantitatem distinctam a re quanta
@@ -367,7 +367,7 @@
           </p>-->
           <p xml:id="ppra-l28-avpiie"> 
             <pc type="pilcrow"/> Alii vero plura 
-            <lb ed="#P" n="43"/>scilicet x sicut <name>scotus</name> <pc type="pilcrow"/> Isto <unclear>no?to</unclear> tenendo ultimam oppinionem tunc ens esset genus generalissimum
+            <lb ed="#P" n="44"/>scilicet x sicut <name>scotus</name> <pc type="pilcrow"/> Isto <unclear>no?to</unclear> tenendo ultimam oppinionem tunc ens esset genus generalissimum
           </p>
           <!-- Doesn't seem present
             <p xml:id="ppra-l28-aetaap">
@@ -407,8 +407,8 @@
             Ideo forte erant magis apti ad philosophandum.
           </p>-->
           <p xml:id="ppra-l28-pieeas">
-            <pc type="pilcrow"/> Unde pro antiquorum intellectu advertendum est quod licet moderni glosent eos de terminis non fuit sua 
-            <lb ed="#P" n="44"/>intentio principalis 
+            <lb ed="#P" n="45"/><pc type="pilcrow"/> Unde pro antiquorum intellectu advertendum est quod licet moderni glosent eos de terminis non fuit sua 
+            <lb ed="#P" n="46"/>intentio principalis 
           </p>
          <!--
            Doesn't seem present 
@@ -430,45 +430,45 @@
           </p>-->
           <p xml:id="ppra-l28-pcinat">
             pro cuius evidentia et intellectu ponitur exemplum de anima <pc type="punctus"/> nam licet anima nostra sit res individualis 
-            <lb ed="#P" n="45"/>tamen hoc non obstante multas habet operationes sive naturas post infimam existere via namque prima 
-            <lb ed="#P" n="46"/>operatio est appetere sic existere Et ista est generalis in omnibus deinde ascendendo diversas alias habet 
-            <lb ed="#P" n="47"/>scilicet influere et hanc generaliter quaelibet forma videtur habere primo enim est in loco quia in corpore humano et sic 
-            <lb ed="#P" n="48"/>ultra de aliis speciebus ascendendo habebit aliquam operationem correspondentem infime potentiae modo 
-            <lb ed="#P" n="49"/>sic considerando anima nostra habebit aliquam ratione generis generalissimi obiective quod significatur sic ascendendo 
-            <lb ed="#P" n="50"/>per terminos minus generales
+            <lb ed="#P" n="47"/>tamen hoc non obstante multas habet operationes sive naturas post infimam existere via namque prima 
+            <lb ed="#P" n="48"/>operatio est appetere sic existere Et ista est generalis in omnibus deinde ascendendo diversas alias habet 
+            <lb ed="#P" n="49"/>scilicet influere et hanc generaliter quaelibet forma videtur habere primo enim est in loco quia in corpore humano et sic 
+            <lb ed="#P" n="50"/>ultra de aliis speciebus ascendendo habebit aliquam operationem correspondentem infime potentiae modo 
+            <lb ed="#P" n="51"/>sic considerando anima nostra habebit aliquam ratione generis generalissimi obiective quod significatur sic ascendendo 
+            <lb ed="#P" n="52"/>per terminos minus generales
           </p>
           <p xml:id="ppra-l28-iipfot">
             <pc type="pilcrow"/> Item istud potest reduci ad aliquam formarum substantialium ut per aliquam formam 
-            <lb ed="#P" n="51"/>constituuntur in aliquo esse et secundum talem ordinem erit ordo terminorum <pc type="pilcrow"/> Vel etiam possemus ponere secundum 
-            <lb ed="#P" n="52"/>magistrum guillielmum parisiensem scilicet quod creatura est realiter suum esse 
+            <lb ed="#P" n="53"/>constituuntur in aliquo esse et secundum talem ordinem erit ordo terminorum <pc type="pilcrow"/> Vel etiam possemus ponere secundum 
+            <lb ed="#P" n="54"/>magistrum guillielmum parisiensem scilicet quod creatura est realiter suum esse 
           </p>
           <p xml:id="ppra-l28-aevmpf">
             <pc type="pilcrow"/> Alia est via ponere distinctionem 
-            <lb ed="#P" n="53"/>inter esse essentiam
+            <lb ed="#P" n="55"/>inter esse essentiam
           </p>
           <p xml:id="ppra-l28-aeocti">
             <pc type="pilcrow"/> Alia est via sicut <name>de rippa</name> quae est vera compositio et realis concurrentium unitive 
-            <lb ed="#P" n="54"/>et posset deduci sicut prima 
+            <lb ed="#P" n="56"/>et posset deduci sicut prima 
           </p>
           <!-- very fuzzy parallel -->
           <p xml:id="ppra-l28-aevrip">
             <pc type="pilcrow"/> Sed tamen inter omnes istas <unclear>ipsa</unclear> oppinio verior reputatur videlicet quod deus 
-            <lb ed="#P" n="55"/>reponitur in aliquo praedicamento Et si dicatur quod tunc esset in praedicamento relationis
+            <lb ed="#P" n="57"/>reponitur in aliquo praedicamento Et si dicatur quod tunc esset in praedicamento relationis
           </p>
           <p xml:id="ppra-l28-etaiae">
             <pc type="virgula">/</pc> Respondetur quod non 
-            <lb ed="#P" n="56"/>nisi transumptive sicut dicendo quod est bonus vel pater vel filius sed hoc est secundum analogiam quia 
-            <lb ed="#P" n="57"/>est ens transcendens <pc type="pilcrow"/> Et sic breviter patet quid dicendum de articulo illo In quo quaerebatur 
-            <lb ed="#P" n="58"/>sub quo genere praedicamentorum deus reponatur
+            <lb ed="#P" n="58"/>nisi transumptive sicut dicendo quod est bonus vel pater vel filius sed hoc est secundum analogiam quia 
+            <lb ed="#P" n="59"/>est ens transcendens <pc type="pilcrow"/> Et sic breviter patet quid dicendum de articulo illo In quo quaerebatur 
+            <lb ed="#P" n="60"/>sub quo genere praedicamentorum deus reponatur
           </p>
         </div>
         <div xml:id="ppra-l28-Cxxyy1">
           <head xml:id="ppra-l28-Hctctct">Conclusiones</head>
           <p xml:id="ppra-l28-ctdsvs">
             <pc type="pilcrow"/> Sequitur conclusio prima distinctionis lectionis <pc type="punctus"/> quod ypostasis scilicet 
-            <lb ed="#P" n="59"/>suppositum in divinis dicitur de 3bus personis <pc type="punctus"/> Unde tempore certo dicit ieronimus quod non erat bonum dicere quod deus esset 
-            <lb ed="#P" n="60"/>3es ypostases propter haeresum scandalum Et ideo propositiones de materia trinitatis debet resolvi ad sensum clarum 
-            <lb ed="#P" n="61"/>et non tende diffiniri 
+            <lb ed="#P" n="61"/>suppositum in divinis dicitur de 3bus personis <pc type="punctus"/> Unde tempore certo dicit ieronimus quod non erat bonum dicere quod deus esset 
+            <lb ed="#P" n="62"/>3es ypostases propter haeresum scandalum Et ideo propositiones de materia trinitatis debet resolvi ad sensum clarum 
+            <lb ed="#P" n="63"/>et non tende diffiniri 
           </p>
           <p xml:id="ppra-l28-tqnnss">
             <pc type="pilcrow"/> 2a conclusio et 3a quasi conveniunt quod omne quod de deo dicitur <pc type="punctus"/> dicitur secundum substantiam et non secundum accidens quare etc nova 

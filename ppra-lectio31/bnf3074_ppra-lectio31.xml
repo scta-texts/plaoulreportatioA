@@ -144,7 +144,7 @@
           <div xml:id="ppra-l31-Dd1e264">
             <head xml:id="ppra-l31-Hraqaqr">Responsio ad quartam rationem</head>
             <p xml:id="ppra-l31-qaesdr">
-              <pc type="pilcrow"/> De 4a arguebatur si talis notitia esset tunc esset immensa <pc type="virgula">/</pc> et confirmabatur quo ad ordinem specierum 
+              <lb ed="#P" n="34"/><pc type="pilcrow"/> De 4a arguebatur si talis notitia esset tunc esset immensa <pc type="virgula">/</pc> et confirmabatur quo ad ordinem specierum 
             </p>
             <!--
               Doesn't seem present
@@ -183,30 +183,30 @@
             </p>-->
             <p xml:id="ppra-l31-uchdai">
               <pc type="virgula">/</pc> respondetur concedo
-              <lb ed="#P" n="34"/>quod notitia qua deus cognoscitur a creatura est ipse deus ut dicit <name>de rippa</name> 
+              <lb ed="#P" n="35"/>quod notitia qua deus cognoscitur a creatura est ipse deus ut dicit <name>de rippa</name> 
             </p>
             <p xml:id="ppra-l31-tarrvo">
               <pc type="virgula">/</pc> Et tunc ulterius quando dicitur quod tunc creatura cognosceret immense 
-              <lb ed="#P" n="35"/>et tamen cognoscit per notitiam dicitur quod non sed bene cognoscit per notitiam quae realiter est immensa <pc type="punctus"/> et tamen non sequitur ergo immense 
-              <lb ed="#P" n="36"/>cognoscat 
+              <lb ed="#P" n="36"/>et tamen cognoscit per notitiam dicitur quod non sed bene cognoscit per notitiam quae realiter est immensa <pc type="punctus"/> et tamen non sequitur ergo immense 
+              <lb ed="#P" n="37"/>cognoscat 
             </p>
             <!-- very fuzzy parallel -->
             <p xml:id="ppra-l31-accqsp">
               <pc type="pilcrow"/> Et dicitur ulterius quod tanto una species est perfectior et tanto citius immutat potentiam <pc type="pilcrow"/> unde deus est in anima sicut 
-              <lb ed="#P" n="37"/>sibi notitia et creaturae notitia <del rend="strikethrough">sic</del> in alia specie 
+              <lb ed="#P" n="38"/>sibi notitia et creaturae notitia <del rend="strikethrough">sic</del> in alia specie 
             </p>
             <p xml:id="ppra-l31-eqsvtc">
               <pc type="virgula">/</pc> unde deus erit notitia illius cuius supplet vicem quia adaequate immutat sicut
-              <lb ed="#P" n="38"/>alia potentia aeque intense et penes hoc sortitur suam speciem et sic est species accidentalis quod hoc
+              <lb ed="#P" n="39"/>alia potentia aeque intense et penes hoc sortitur suam speciem et sic est species accidentalis quod hoc
             </p>
             <!-- very fuzzy parallel -->
             <p xml:id="ppra-l31-eaitqg">
               <pc type="punctus"/> Sed <unclear>ve?dum</unclear> est ad aliam viam 
-              <lb ed="#P" n="39"/>scilicet quod per notitiam creatam deus potest cognosci et ulterius dicitur quod deus est incertum <unclear>sit possibilis</unclear> ergo non potest cognosci 
+              <lb ed="#P" n="40"/>scilicet quod per notitiam creatam deus potest cognosci et ulterius dicitur quod deus est incertum <unclear>sit possibilis</unclear> ergo non potest cognosci 
             </p>
             <p xml:id="ppra-l31-siuisr">
               <pc type="punctus"/> consequentia non valet 
-              <lb ed="#P" n="40"/>quia licet sumitur et secundum se non potest cognosci tamen respective ad suos effectus cognoscitur
+              <lb ed="#P" n="41"/>quia licet sumitur et secundum se non potest cognosci tamen respective ad suos effectus cognoscitur
             </p>
             <!--
               Doesn't seem present, but everything is really fuzzy here 
@@ -299,7 +299,7 @@
             </p>-->
             <p xml:id="ppra-l31-refhic">
               <pc type="pilcrow"/> Unde ymaginandum est quod sunt plures 
-              <lb ed="#P" n="41"/>notitiae quarum una non plus repraesentat quam alia et tamen erit magis 
+              <lb ed="#P" n="42"/>notitiae quarum una non plus repraesentat quam alia et tamen erit magis 
             </p>
            <!-- 
              Doesn't seem present or it could be in the above
@@ -316,8 +316,8 @@
             </p>-->
             <p xml:id="ppra-l31-udcair">
               Et ulterius dicitur pro 
-              <lb ed="#P" n="42"/>non sequitur deus cognoscit contingenter antichristum fore igitur cognoscit finite consequentia non valet ymmo per obiectum bene valet scilicet infinite vel 
-              <lb ed="#P" n="43"/>immense quia est exemplar divinae maiestatis
+              <lb ed="#P" n="43"/>non sequitur deus cognoscit contingenter antichristum fore igitur cognoscit finite consequentia non valet ymmo per obiectum bene valet scilicet infinite vel 
+              <lb ed="#P" n="44"/>immense quia est exemplar divinae maiestatis
             </p>
           </div> 
         </div>
@@ -325,7 +325,7 @@
           <head xml:id="ppra-l31-Hctctct">Conclusiones</head>
           <p xml:id="ppra-l31-cdspae">
             <pc type="pilcrow"/> conclusio prima lectionis fuit quod istud nomen principium relative dicitur de qualibet prima 
-            <lb ed="#P" n="44"/>trinitatis
+            <lb ed="#P" n="45"/>trinitatis
           </p>
           <p xml:id="ppra-l31-tcpnae">
             <pc type="pilcrow"/> Alia conclusio ab aeterno pater et filius sunt principium

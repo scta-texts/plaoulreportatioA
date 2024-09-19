@@ -308,9 +308,9 @@
               <lb ed="#P" n="48"/><c>b</c> potest producere <c>a</c> ergo producit <c>c</c> quia suam causam et ipse est in sua causa virtualiter
             </p>
             <p xml:id="ppra-l30-idqsec">
-              <pc type="pilcrow"/> Item dicunt quidam quod non est evidens quod aliquam creatura producatur ab aliquo quia diceretur 
-              <lb ed="#P" n="49"/>quia diceretur quod creatura quae produceretur inciperet esse a casu secundum illos qui negant intentionem 
-              <lb ed="#P" n="50"/>agentium et sic illa quae assumit in primo argumento sunt inevidentia
+              <lb ed="#P" n="49"/><pc type="pilcrow"/> Item dicunt quidam quod non est evidens quod aliquam creatura producatur ab aliquo quia diceretur 
+              <lb ed="#P" n="50"/>quia diceretur quod creatura quae produceretur inciperet esse a casu secundum illos qui negant intentionem 
+              <lb ed="#P" n="51"/>agentium et sic illa quae assumit in primo argumento sunt inevidentia
             </p>
             <!--
               Doesn't seem present or in the above
@@ -323,10 +323,10 @@
             </p>-->
             <p xml:id="ppra-l30-cdppns">
               <pc type="pilcrow"/> Consequenter de processu 
-              <lb ed="#P" n="51"/>in infinito non est evidens quin sit processus quia tunc cum significatur multitudo etc dictis quidam 
-              <lb ed="#P" n="52"/>quod non potest significari etiam dato quod significatur distinguendum esset haec tota multitudo est causata si li <mentioned>tota</mentioned> capiatur 
-              <lb ed="#P" n="53"/>sincathegorimatice illa concederetur si cathegorimatice negaretur <pc type="pilcrow"/> Et sic ista deductio assumit inevidentiam 
-              <pb ed="#S" n="51-v"/>
+              <lb ed="#P" n="52"/>in infinito non est evidens quin sit processus quia tunc cum significatur multitudo etc dictis quidam 
+              <lb ed="#P" n="53"/>quod non potest significari etiam dato quod significatur distinguendum esset haec tota multitudo est causata si li <mentioned>tota</mentioned> capiatur 
+              <lb ed="#P" n="54"/>sincathegorimatice illa concederetur si cathegorimatice negaretur <pc type="pilcrow"/> Et sic ista deductio assumit inevidentiam 
+              <pb ed="#P" n="51-v"/>
               <lb ed="#P" n="1"/>Et sic nichil concludit
             </p>
           </div>
@@ -357,70 +357,73 @@
             </p>
             <p xml:id="ppra-l30-esdrsi">
               Et cum dicitur non est evidens aliquid esse de novo ymmo intellectui 
-              <lb ed="#P" n="13"/>bene disposito bene deffecerunt et eos reprobat <name>aristoteles</name> Ita et de illis qui primum principium negat <pc type="pilcrow"/> Sed utrum aliquid possit se producere de potentia absoluta est impertinens <pc type="punctus"/> quia hoc non sequitur 
-              <lb ed="#P" n="14"/>aliquid producitur et non ab alio <pc type="pilcrow"/> Sed utrum absolute deus possit facere per communicationem ydiomatum 
-              <lb ed="#P" n="15"/>ut quod christus genuisset seipsum ut quod genuisset modo naturali <pc type="virgula">/</pc> deinde quod in instans infusionis 
-              <lb ed="#P" n="16"/>animae assumpsisset huiusmodi naturam quo dato esset ille puer qui generaretur et tamen genuisset 
-              <lb ed="#P" n="17"/>se ipso dato esset patet et filius <pc type="pilcrow"/> Sed quia istud est extra propositum quia quaeritur utrum res possit 
-              <lb ed="#P" n="18"/>facere ut sit quia licet christus potuisset se genuisse non tamen ut fuisset Et ideo <name>augustinus</name> 
-              <lb ed="#P" n="19"/>dicit quod <quote xml:id="ppra-l30-Qd1e2697" source="http://scta.info/resource/adt-l1-d1e27" type="paraphrase">nulla res potest se generare ut sic</quote> ita diceretur de qualibet alia quia tunc haberet prioritatem 
-              <lb ed="#P" n="20"/>naturalem respectu sui 
+              <lb ed="#P" n="13"/>bene disposito bene deffecerunt et eos reprobat <name>aristoteles</name> Ita et de illis qui primum principium negat 
+              <lb ed="#P" n="14"/><pc type="pilcrow"/> Sed utrum aliquid possit se producere de potentia absoluta est impertinens <pc type="punctus"/> quia hoc non sequitur 
+              <lb ed="#P" n="15"/>aliquid producitur et non ab alio <pc type="pilcrow"/> Sed utrum absolute deus possit facere per communicationem ydiomatum 
+              <lb ed="#P" n="16"/>ut quod christus genuisset seipsum ut quod genuisset modo naturali <pc type="virgula">/</pc> deinde quod in instans infusionis 
+              <lb ed="#P" n="17"/>animae assumpsisset huiusmodi naturam quo dato esset ille puer qui generaretur et tamen genuisset 
+              <lb ed="#P" n="18"/>se ipso dato esset patet et filius <pc type="pilcrow"/> Sed quia istud est extra propositum quia quaeritur utrum res possit 
+              <lb ed="#P" n="19"/>facere ut sit quia licet christus potuisset se genuisse non tamen ut fuisset Et ideo <name>augustinus</name> 
+              <lb ed="#P" n="20"/>dicit quod <quote xml:id="ppra-l30-Qd1e2697" source="http://scta.info/resource/adt-l1-d1e27" type="paraphrase">nulla res potest se generare ut sic</quote> ita diceretur de qualibet alia quia tunc haberet prioritatem 
+              <lb ed="#P" n="21"/>naturalem respectu sui 
             </p>
             <p xml:id="ppra-l30-pcdnpe">
               unde secundum ymaginationem <name>scoti</name> ymaginatur quod in eodem instanti causa <del rend="strikethrough">sit</del> naturaliter 
-              <lb ed="#P" n="21"/>posita prior sit effectu <pc type="punctus"/> et ergo tenendum est quod impossibile est quod creatura producat se ut sic
+              <lb ed="#P" n="22"/>posita prior sit effectu <pc type="punctus"/> et ergo tenendum est quod impossibile est quod creatura producat se ut sic
             </p>
             <!-- very fuzzy parallel; needs review -->
             <p xml:id="ppra-l30-etapie">
               <pc type="pilcrow"/> Tunc 
-              <lb ed="#P" n="22"/>ponitur quod angelus producatur et quod in eodem instanti producat sibi filiatio et tunc cum dicitur quod velit se in illo 
-              <lb ed="#P" n="23"/>instanti producere conceditur et ultra ponatur quod ista volitio sit causa ipsius haec est ponere contradictionem in terminis 
-              <lb ed="#P" n="24"/>quia volitio talis posterior est ad angelum <pc type="punctus"/> ideo casus est impossibilis <pc type="virgula">/</pc> et cum ponebatur econverso dicitur quod 
-              <lb ed="#P" n="25"/>casus est impossibilis quia ex habitudine quam habet primo <c>a</c> ab <c>b</c> prius non potest esse econverso quare etc 
+              <lb ed="#P" n="23"/>ponitur quod angelus producatur et quod in eodem instanti producat sibi filiatio et tunc cum dicitur quod velit se in illo 
+              <lb ed="#P" n="24"/>instanti producere conceditur et ultra ponatur quod ista volitio sit causa ipsius haec est ponere contradictionem in terminis 
+              <lb ed="#P" n="25"/>quia volitio talis posterior est ad angelum <pc type="punctus"/> ideo casus est impossibilis <pc type="virgula">/</pc> et cum ponebatur econverso dicitur quod 
+              <lb ed="#P" n="26"/>casus est impossibilis quia ex habitudine quam habet primo <c>a</c> ab <c>b</c> prius non potest esse econverso quare etc 
             </p>
             <p xml:id="ppra-l30-sqdsic">
               <!-- no parallel -->
               nam 
-              <lb ed="#P" n="26"/>casus videtur ponere quod <c>b</c> sit prius <c>a</c> potest concurrere ad productionem unius et non alterius scilicet sui 
-              <lb ed="#P" n="27"/>patet hoc ex praedictis 
+              <lb ed="#P" n="27"/>casus videtur ponere quod <c>b</c> sit prius <c>a</c> cum dicitur <c>a</c> producit <c>b</c> ergo quodlibet eiusdem speciei naturae
+              <lb ed="#P" n="28"/>quia non potest se producere sed quamlibet ante eiusdem speciei <pc type="punctus"/> Et sic patet quod duo effectus omnino similes 
+              <lb ed="#P" n="29"/>producatur in eodem instans et tamen <c>a</c> potest concurrere ad productionem unius et non alterius scilicet sui 
+              <lb ed="#P" n="30"/>patet hoc ex praedictis  
             </p>
             <p xml:id="ppra-l30-sqcpae">
                 <!-- no parallel -->
               <pc type="pilcrow"/> Ex quo patet quod concursus <c>a</c> ad <c>b</c> impedit concursum <c>b</c> ad <c>a</c> 
-              <lb ed="#P" n="28"/>quia non est maior repugnantia absolute quod <c>b</c> concurrat ad <c>a</c> sed si <c>a</c> concurrat ad <c>b</c> impediet 
-              <lb ed="#P" n="29"/>ante cursum scilicet de <c>b</c> ad <c>a</c> et sic quantum ad pro terminantis motiva sunt frivola <pc type="punctus"/> 
+              <lb ed="#P" n="31"/>quia non est maior repugnantia absolute quod <c>b</c> concurrat ad <c>a</c> sed si <c>a</c> concurrat ad <c>b</c> impediet 
+              <lb ed="#P" n="32"/>ante cursum scilicet de <c>b</c> ad <c>a</c> et sic quantum ad pro terminantis motiva sunt frivola <pc type="punctus"/> 
             </p>
             <p xml:id="ppra-l30-qamuie">
               <!-- no parallel -->
               <pc type="pilcrow"/>Quantum
-              <lb ed="#P" n="30"/>ad materiam de processu in infinitum in aliquibus est processus in infinitum ubi includitur 
-              <lb ed="#P" n="31"/>nullus esse terminus in aliis et istud introducitur propter processum infinitum de hominibus si mundus fuisset 
-              <lb ed="#P" n="32"/>ab aeterno
+              <lb ed="#P" n="33"/>ad materiam de processu in infinitum in aliquibus est processus in infinitum ubi includitur 
+              <lb ed="#P" n="34"/>nullus esse terminus in aliis et istud introducitur propter processum infinitum de hominibus si mundus fuisset 
+              <lb ed="#P" n="35"/>ab aeterno
               
               <pc type="pilcrow"/> Unde sciendum quod aliqua includendo potest esse taliter ordinata quod denotatur nullus esse terminus vel quod non daretur 
-              <lb ed="#P" n="33"/>primus homo Ideo aliquibus esse potest ut si ponatur quod esset una intelligentia quae generaret 
-              <lb ed="#P" n="34"/>alia et alia tunc quaelibet esset pater et sic nullam esset genita non gignens <pc type="punctus"/> et ergo sic concederetur ista 
-              <lb ed="#P" n="35"/>tantum pater est et ista esset in processu generationis et hominis quia si sic nonquam fuisset primus homo 
+              <lb ed="#P" n="36"/>primus homo Ideo aliquibus esse potest ut si ponatur quod esset una intelligentia quae generaret 
+              <lb ed="#P" n="37"/>alia et alia tunc quaelibet esset pater et sic nullam esset genita non gignens <pc type="punctus"/> et ergo sic concederetur ista 
+              <lb ed="#P" n="38"/>tantum pater est et ista esset in processu generationis et hominis quia si sic nonquam fuisset primus homo 
               
-              <lb ed="#P" n="36"/><pc type="pilcrow"/> In aliquibus tamen est bene processus ubi bene datur esse ut si ymaginetur tota latitudo 
-              <lb ed="#P" n="37"/>causatorum et causabilium ita quod materia prima esset et ultima intelligentia supremum ibi essent infinitae species mediae 
-              <lb ed="#P" n="38"/>producibiles 
+              <lb ed="#P" n="39"/><pc type="pilcrow"/> In aliquibus tamen est bene processus ubi bene datur esse ut si ymaginetur tota latitudo 
+              <lb ed="#P" n="40"/>causatorum et causabilium ita quod materia prima esset et ultima intelligentia supremum ibi essent infinitae species mediae 
+              <lb ed="#P" n="41"/>producibiles 
             </p>
             <!-- fuzzy needs review -->
             <p xml:id="ppra-l30-iestim">
               <!-- no parallel -->
               unde inter extrema data potest dari infirmitas sive in multitudine sive magnitudine sicut esset 
-              <lb ed="#P" n="39"/>de linea quia inciperet a puncto et terminaretur ad punctum et si illa circumferentia poneretur supra 
-              <lb ed="#P" n="40"/>processus erit in infinitum in causando maiorem non tamen infra illam multitudinem sed extra Ita 
-              <lb ed="#P" n="41"/>de tota multitudine creaturarum quia stat quod terminetur ad extra Et ita aliquae sunt licet infinita sicut de quorum 
-              <lb ed="#P" n="42"/>ratione non est quin habeat terminum intrinsecum vel extrinsecum eet sic in illis ubi non est de ratione 
-              <lb ed="#P" n="43"/>talis multitudinis in illis bene datur terminus sicut in casu nostro <pc type="punctus"/> sed propter hoc non tolletur quin daretur 
-              <lb ed="#P" n="44"/>ultima intelligentia mere possibilis et non prima Et ideo instantiae quae solent fieri ad hoc sunt sophisticae 
-              <lb ed="#P" n="45"/>quia sive ponatur processus in causis sive non ratio est evidentissima quod ad hoc tota multitudo clauditur 
-              <lb ed="#P" n="46"/>termino extremo <pc type="punctus"/> Et sic deffectus advertendi ad huiusmodi sophisticationem non possunt habere primum quia in 
-              <lb ed="#P" n="47"/>latitudine creaturarum cuius de ratione non est quod habeat primum et de termino extrinseco non est dubium quin debetur <pc type="pilcrow"/> Et ideo videtur michi 
-              <lb ed="#P" n="48"/>quod ratio <name>scoti</name> sit demonstrabilis et sufficienter <unclear>colocata</unclear> unde et <name>adam</name> pulcrhe tractat istam materiam videat magis ample qui voluerit 
-              <lb ed="#P" n="49"/><pc type="pilcrow"/> Sequitur alia lectio respondendo ad rationes cras unde verus per cras <sic>cras</sic> et <sic>cras</sic> orbis consumitur etas
+              <lb ed="#P" n="42"/>de linea quia inciperet a puncto et terminaretur ad punctum et si illa circumferentia poneretur supra 
+              <lb ed="#P" n="43"/>processus erit in infinitum in causando maiorem non tamen infra illam multitudinem sed extra Ita 
+              <lb ed="#P" n="44"/>de tota multitudine creaturarum quia stat quod terminetur ad extra Et ita aliquae sunt licet infinita sicut de quorum 
+              <lb ed="#P" n="45"/>ratione non est quin habeat terminum intrinsecum vel extrinsecum eet sic in illis ubi non est de ratione 
+              <lb ed="#P" n="46"/>talis multitudinis in illis bene datur terminus sicut in casu nostro <pc type="punctus"/> sed propter hoc non tolletur quin daretur 
+              <lb ed="#P" n="47"/>ultima intelligentia mere possibilis et non prima Et ideo instantiae quae solent fieri ad hoc sunt sophisticae 
+              <lb ed="#P" n="48"/>quia sive ponatur processus in causis sive non ratio est evidentissima quod ad hoc tota multitudo clauditur 
+              <lb ed="#P" n="49"/>termino extremo <pc type="punctus"/> Et sic deffectus advertendi ad huiusmodi sophisticationem non possunt habere primum quia in 
+              <lb ed="#P" n="50"/>latitudine creaturarum cuius de ratione non est quod habeat primum et de termino extrinseco non est dubium quin debetur <pc type="pilcrow"/> Et ideo videtur michi 
+              <lb ed="#P" n="51"/>quod ratio <name>scoti</name> sit demonstrabilis et sufficienter <unclear>colocata</unclear> unde et <name>adam</name> pulcrhe tractat istam materiam videat magis ample qui voluerit 
+              <lb ed="#P" n="52"/><pc type="pilcrow"/> Sequitur alia lectio respondendo ad rationes cras unde verus per cras <sic>cras</sic> et <sic>cras</sic> orbis consumitur etas
               <!--<pb ed="#P" n="52-r"/>
             <lb ed="#P"/>
             crossed out material and then beginning of new lecture (31) around the middle starting with "Restat consequenter..."

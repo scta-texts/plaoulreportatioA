@@ -140,19 +140,20 @@
             <div xml:id="ppra-l40-Dd1e417">
               <head xml:id="ppra-l40-Hasasas">Ad secundum</head>
               <p xml:id="ppra-l40-qaspnr">
-                <ref xml:id="ppra-l40-Rd1e426" target="http://scta.info/resource/ppra-l40-iacnvc">Ad 2m</ref> punctum dicitur quod positive capitur li <mentioned>propter se</mentioned> et non primative sed est difficultas in modo
-                <lb ed="#P" n="45"/>exprimendi unde <ref xml:id="ppra-l40-Rd1e273"><name ref="#Ockham">okam</name></ref> dicit quod non est aliud propter quid deus diligatur nisi propter se <pc type="virgula">/</pc> et quolibet 
-                <lb ed="#P" n="46"/>aliud propter deum vel propter aliud et aliud 
+                <lb ed="#P" n="45"/><ref xml:id="ppra-l40-Rd1e426" target="http://scta.info/resource/ppra-l40-iacnvc">Ad 2m</ref> punctum dicitur quod positive capitur li <mentioned>propter se</mentioned> et non primative sed est difficultas in modo
+                <lb ed="#P" n="46"/>exprimendi unde <ref xml:id="ppra-l40-Rd1e273"><name ref="#Ockham">okam</name></ref> dicit quod non est aliud propter quid deus diligatur nisi propter se <pc type="virgula">/</pc> et quolibet 
+                <lb ed="#P" n="47"/>aliud propter deum vel propter aliud et aliud 
               </p>
               <!-- fuzzy parallel -->
               <p xml:id="ppra-l40-seasod">
-                <pc type="pilcrow"/> unde advertendum est quod in dilectione dei fruitiva concurrit <unclear>die?ce</unclear>
-                <lb ed="#P" n="47"/><c>a</c> est deus igitur <c>a</c> est etc 
+                <pc type="pilcrow"/> unde advertendum est quod in dilectione dei fruitiva concurrunt duae causae
+                <lb ed="#P" n="48"/>una est praeceptum legis alia est ratio deitatis in ipso deo verbi gratia solus deus est super omnia <unclear>du?us</unclear> 
+                <lb ed="#P" n="49"/><c>a</c> est deus igitur <c>a</c> est etc 
               </p>
               <!-- fuzzy parallel -->
               <p xml:id="ppra-l40-eivsod">
                 <pc type="virgula">/</pc> hic assumitur maior per fidem minor autem est ratio deitatis unde li <mentioned>propter se</mentioned> refertur 
-                <lb ed="#P" n="48"/>ad maiorem unibilem vel ad minorem sed debet refferri id est principaliter ratione sui ad maiorem
+                <lb ed="#P" n="50"/>ad maiorem unibilem vel ad minorem sed debet refferri id est principaliter ratione sui ad maiorem
               </p>
             </div>
           </div>
@@ -161,7 +162,7 @@
           <head xml:id="ppra-l40-Hxxyy2">Conclusiones</head>
           <p xml:id="ppra-l40-cd38pc">
             <pc type="pilcrow"/> prima conclusio lectionis res 
-            <lb ed="#P" n="49"/><unclear>fu?re</unclear> sunt <unclear>fu?re</unclear>
+            <lb ed="#P" n="51"/><unclear>fu?re</unclear> sunt <unclear>fu?re</unclear>
           </p>
           <p xml:id="ppra-l40-scsnse">
             <pc type="pilcrow"/> 2a conclusio si res non essent deus non sciret eas <pc type="punctus"/>
