@@ -79,42 +79,35 @@
         </div>
         <div xml:id="ppra-l61-Dd1e189">
           <head xml:id="ppra-l61-Hppdpsr">Plus propositiones de Rippa</head>
-          <!-- extremely fuzzy but does not seem present -->
-          <!--<p xml:id="ppra-l61-eiiiap">
-              Ex ista imaginatione <name ref="#Ripa">de Rippa</name> 
-              infert aliquas propositiones.
-            </p>-->
-          <!-- extremely fuzzy but does not seem present -->
-          <!--<div xml:id="ppra-l61-Dd1e200">
+          
+          <p xml:id="ppra-l61-eiiiap">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/l61-eiiiap"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-eiiiap"/>
+            </assertions>
+            </p>
+          
+          <div xml:id="ppra-l61-Dd1e200">
               <head xml:id="ppra-l61-Hpappap">Prima propositio</head>
               <p xml:id="ppra-l61-peqhpg">
-                Prima est quanto res est perfectior tanto est compotior.
-                Patet de utraque compositione. 
-                Patet primo de compositione graduum 
-                quia quanto res est perfectior tanto magis participat rationem 
-                entis et quanto magis participat rationem entis tanto 
-                habet plures gradus in esse entis, 
-                et ita in aliis perfectionibus 
-                <pb ed="#SV" n="273-r"/>
-                <cb ed="#SV" n="a"/>
-                quia quanto magis participat esse vivens tanto habet plures gradus 
-                in esse vivendi et per consequens compotior ex quo habet plures gradus.
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l61-peqhpg"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-peqhpg"/>
+                </assertions>
               </p>
               <p xml:id="ppra-l61-sechcc">
-                Secundo est compotior quantum ad rationes formales, quia quanto 
-                est perfectior tanto habet plures rationes formales correspondentes 
-                denominationibus perfectionibus et secundum numerum huiusmodi praedicatorum 
-                essentialium et perfectionalium est numerus rationum formalium 
-                huiusmodi compositioni constitutium.
+                <assertions>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/l61-sechcc"/>
+                  <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-sechcc"/>
+                </assertions>
               </p>
-            </div>-->
+            </div>
           <div xml:id="ppra-l61-Dd1e216">
             <head xml:id="ppra-l61-Hsapsap">Secunda propositio</head>
             <p xml:id="ppra-l61-siqfic">
               <assertions>
                 <assertion property="isRelatedTo" target="http://scta.info/resource/l61-siqfic"/>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-siqfic"
-                />
+                <assertion property="isRelatedTo" target="http://scta.info/resource/ppr-l61-siqfic"/>
               </assertions>
             </p>
           </div>

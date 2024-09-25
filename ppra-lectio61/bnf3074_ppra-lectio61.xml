@@ -111,51 +111,44 @@
                 <lb ed="#P" n="46"/>suae species in esse <pc type="virgula">/</pc> quia ratio obiectalis est quodam modo actus et concurrunt unitive ut dictum est et hoc tenet 
                 <lb ed="#P" n="47"/>sic de rippa <pc type="punctus"/> et nisi haberetur talis ymaginatio quis non posset recte ad notitiam distinctionis formalitatum 
                 <lb ed="#P" n="48"/>devenire 
+                
+                <pc type="pilcrow"/> Ex quibus potest concludit quod tot sunt formalitates quot sunt species in se 
+                
+                  
+                
+                
               </p>
             </div>
           </div>
           <div xml:id="ppra-l61-Dd1e189">
             <head xml:id="ppra-l61-Hppdpsr">Plus propositiones de Rippa</head>
-            <!-- extremely fuzzy but does not seem present -->
-            <!--<p xml:id="ppra-l61-eiiiap">
-              Ex ista imaginatione <name ref="#Ripa">de Rippa</name> 
-              infert aliquas propositiones.
-            </p>-->
-            <!-- extremely fuzzy but does not seem present -->
-            <!--<div xml:id="ppra-l61-Dd1e200">
+            
+            <p xml:id="ppra-l61-eiiiap">
+              <pc type="pilcrow"/> Ex quo infertur ista 
+                <lb ed="#P" n="49"/>propositio
+            </p>
+            <div xml:id="ppra-l61-Dd1e200">
               <head xml:id="ppra-l61-Hpappap">Prima propositio</head>
               <p xml:id="ppra-l61-peqhpg">
-                Prima est quanto res est perfectior tanto est compotior.
-                Patet de utraque compositione. 
-                Patet primo de compositione graduum 
-                quia quanto res est perfectior tanto magis participat rationem 
-                entis et quanto magis participat rationem entis tanto 
-                habet plures gradus in esse entis, 
-                et ita in aliis perfectionibus 
-                <pb ed="#SV" n="273-r"/>
-                <cb ed="#SV" n="a"/>
-                quia quanto magis participat esse vivens tanto habet plures gradus 
-                in esse vivendi et per consequens compotior ex quo habet plures gradus.
+               quod quanto res perfectior tanto compositor patet de qualibet compositione quia magis participat latitudinem
+                <lb ed="#P" n="50"/>entis Et dictum est obiectali ita de aliis
               </p>
               <p xml:id="ppra-l61-sechcc">
-                Secundo est compotior quantum ad rationes formales, quia quanto 
-                est perfectior tanto habet plures rationes formales correspondentes 
-                denominationibus perfectionibus et secundum numerum huiusmodi praedicatorum 
-                essentialium et perfectionalium est numerus rationum formalium 
-                huiusmodi compositioni constitutium.
+                <pc type="pilcrow"/> 2o tanto imperfectior tanto maiores numeri concurrunt 
+                <lb ed="#P" n="51"/>praedicamentorum formalium
               </p>
-            </div>-->
+            </div>
             <div xml:id="ppra-l61-Dd1e216">
               <head xml:id="ppra-l61-Hsapsap">Secunda propositio</head>
               <p xml:id="ppra-l61-siqfic">
                 <pc type="pilcrow"/> Consequenter quanto est actualior tanto potentior patet quia per acquisitionem graduum redditur maior 
-                <lb ed="#P" n="49"/>et potentior intrinsece
+                <lb ed="#P" n="52"/>et potentior intrinsece
               </p>
             </div>
             <div xml:id="ppra-l61-Dd1e225">
               <head xml:id="ppra-l61-Htaptap">Tertia propositio</head>
               <p xml:id="ppra-l61-apipas">
-                <pc type="pilcrow"/> 2a propositio infinita supprema intelligentia si daretur ipsa esset intrinsce infinite po<lb ed="#P" break="no" n="50"/>testatis 
+                <pc type="pilcrow"/> 2a propositio infinita supprema intelligentia si daretur ipsa esset intrinsce infinite po<lb ed="#P" break="no" n="53"/>testatis 
                 <pc type="punctus"/> patet quia infinitae actualitatis esset quoniam <unclear>infinitos</unclear> haberet etc
               </p>
             </div>
@@ -163,7 +156,7 @@
               <head xml:id="ppra-l61-Hqtpqtp">Quarta propositio</head>
               <p xml:id="ppra-l61-apsmve">
                 <pc type="pilcrow"/> 3a propositio sola illa est <unclear>infi?lis</unclear> cui repugnat 
-                <lb ed="#P" n="51"/>cui repugnat potestas ad alterius obiecit rationis successionem <pc type="punctus"/> et sic secundum istas ymaginationes 
+                <lb ed="#P" n="54"/>cui repugnat potestas ad alterius obiecit rationis successionem <pc type="punctus"/> et sic secundum istas ymaginationes 
                 <pb ed="#P" n="68-r"/>
                 <lb ed="#P" n="1"/>salvarentur multa dicta doctorum antiquorum et sine hiis non videntur posse salvari <pc type="punctus"/> <pc type="virgula">/</pc> licet tamen ista positio 
                 <lb ed="#P" n="2"/>sit falsa Et per hoc etiam haberetur ymaginatio de distinctione unibilium nam ymaginatur quod a parte rei esset distinctio 

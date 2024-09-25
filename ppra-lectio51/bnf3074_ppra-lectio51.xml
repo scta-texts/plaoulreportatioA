@@ -144,8 +144,8 @@
           
           <pc type="#pilcrow"/>2a pars conclusions apparatet
           <pb ed="#P" n="61-r"/>
-          <lb ed="#P" n="52"/>de caritate nam caritas naturam elevat supra se <pc type="#punctus"/> ex eo quod iustum magis acuit et perficit quam 
-          <lb ed="#P" n="53"/>sit in natura eius propria <pc type="#punctus"/> et in obiecto magis quietatur et delectatur igitur etc
+          <lb ed="#P" n="1"/>de caritate nam caritas naturam elevat supra se <pc type="#punctus"/> ex eo quod iustum magis acuit et perficit quam 
+          <lb ed="#P" n="2"/>sit in natura eius propria <pc type="#punctus"/> et in obiecto magis quietatur et delectatur igitur etc
         </p>
         <!--
           seems missing
@@ -156,7 +156,7 @@
         <p xml:id="ppra-l51-aiedtq">
           <!-- add isRelatedTo to ppra-l51-aigsee -->
           <pc type="#pilcrow"/>Ad idem est tullius 
-          <lb ed="#P" n="54"/>et guillemus parisiensi in libro suo <title>de virtutibus</title> scilicet tam de animatis quam inanimatas
+          <lb ed="#P" n="3"/>et guillemus parisiensi in libro suo <title>de virtutibus</title> scilicet tam de animatis quam inanimatas
         </p>
         <!--<p xml:id="ppra-l51-aigsee">
           seems included in above
@@ -164,45 +164,45 @@
         <p xml:id="ppra-l51-udqfui">
           <!-- paragraph correlation unclear -->
           <pc type="#pilcrow"/>Unde advertendum est 
-          <lb ed="#P" n="55"/>quod triplicia sunt dona nam aliqua sunt quae ordinantur in finem ultimum et optimum
+          <lb ed="#P" n="4"/>quod triplicia sunt dona nam aliqua sunt quae ordinantur in finem ultimum et optimum
         </p>
         <p xml:id="ppra-l51-asddpn">
           <pc type="#pilcrow"/>Alia pure 
-          <lb ed="#P" n="56"/>naturalia nobis innata iuxta capacitatem ipsius creaturae et ista sunt <unclear>me?ra</unclear>
+          <lb ed="#P" n="5"/>naturalia nobis innata iuxta capacitatem ipsius creaturae et ista sunt <unclear>me?ra</unclear>
         </p>
         <p xml:id="ppra-l51-asdnes">
           <pc type="#pilcrow"/>Alia sunt bona
-          <lb ed="#P" n="57"/>simpliciter in positu gradu sicut virtutes naturales quae per assueffactionem acquiriuntur et sic intentio 
-          <lb ed="#P" n="58"/>naturae est ferri in summum bonum tamquam in suum finem <pc type="#punctus"/>
+          <lb ed="#P" n="6"/>simpliciter in positu gradu sicut virtutes naturales quae per assueffactionem acquiriuntur et sic intentio 
+          <lb ed="#P" n="7"/>naturae est ferri in summum bonum tamquam in suum finem <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-l51-sfcdsd">
           <pc type="#pilcrow"/>Sed contra argueretur sicut tunc si sic 
-          <lb ed="#P" n="59"/>esset sequeretur quod creatura rationalis ex puris naturalibus frueretur deo consequens est falsum igitur et antecedens falsitas <unclear>communiter</unclear> 
-          <lb ed="#P" n="60"/>apparet nam tales virtutes naturales magis inclinant inmediate nos ad deum igitur etc
+          <lb ed="#P" n="8"/>esset sequeretur quod creatura rationalis ex puris naturalibus frueretur deo consequens est falsum igitur et antecedens falsitas <unclear>communiter</unclear> 
+          <lb ed="#P" n="9"/>apparet nam tales virtutes naturales magis inclinant inmediate nos ad deum igitur etc
         </p>
         <p xml:id="ppra-l51-icfdqc">
           <pc type="#pilcrow"/>Item 
-          <lb ed="#P" n="61"/>creatura faciliter fertur in dilectionem temporalium igitur ratione fortiori in summum bonum consequentia tenet 
-          <lb ed="#P" n="62"/>pro tanta quoniam facilius videtur exire in ipsum actum quam huius ex se quam in alium <pc type="#punctus"/>
+          <lb ed="#P" n="10"/>creatura faciliter fertur in dilectionem temporalium igitur ratione fortiori in summum bonum consequentia tenet 
+          <lb ed="#P" n="11"/>pro tanta quoniam facilius videtur exire in ipsum actum quam huius ex se quam in alium <pc type="#punctus"/>
         </p>
         <p xml:id="ppra-d148reqiid"> 
           <!-- check id and change elsewhere -->
           <pc type="#pilcrow"/>Ad hoc 
-          <lb ed="#P" n="63"/>dicendum est quod multiplex est causa quare creaturae diligunt bonum temporale et magis fertur bonitatis appetitum 
-          <lb ed="#P" n="64"/>quam in deum <pc type="#punctus"/>  
+          <lb ed="#P" n="12"/>dicendum est quod multiplex est causa quare creaturae diligunt bonum temporale et magis fertur bonitatis appetitum 
+          <lb ed="#P" n="13"/>quam in deum <pc type="#punctus"/>  
         </p>
         <p xml:id="ppra-l51-pcqsdm">
           <pc type="virgula">/</pc> prima causa est quoniam ad hoc quod feratur in deum requiritur consideratio deliberatio et 
-          <lb ed="#P" n="65"/>divinae voluntatis cognitio quod non fit sine maxima difficultate et supernaturaliter
+          <lb ed="#P" n="14"/>divinae voluntatis cognitio quod non fit sine maxima difficultate et supernaturaliter
         </p>
         <p xml:id="ppra-l51-ahabep">
           <pc type="#pilcrow"/>Ad diligendum autem temporalia 
-          <lb ed="#P" n="66"/>non sic <pc type="#punctus"/> sed ut dicit <name ref="#Origen">origenes</name> virtus tarda <pc type="virgula">/</pc> vitium <unclear>vero</unclear> princeps <pc type="#punctus"/> unde ad peccandum 
-          <lb ed="#P" n="67"/>non requiritur deliberatio
+          <lb ed="#P" n="15"/>non sic <pc type="#punctus"/> sed ut dicit <name ref="#Origen">origenes</name> virtus tarda <pc type="virgula">/</pc> vitium <unclear>vero</unclear> princeps <pc type="#punctus"/> unde ad peccandum 
+          <lb ed="#P" n="16"/>non requiritur deliberatio
         </p>
         <p xml:id="ppra-l51-ehadae">
           <pc type="#pilcrow"/>2a causa ad diligendum deum super omnia requiritur mentis corroboratio 
-          <lb ed="#P" n="68"/>revelatio et ad temporale voluntas immediate se ponit <pc type="#pilcrow"/> unde <ref xml:id="ppra-l51-Ridvwdg" corresp="#ppra-l51-Qavj3f3"><name ref="#Virgil">virgilius</name> in <title ref="#Eneads">eneydos</title></ref> <quote xml:id="ppra-l51-Qavj3f3" source="http://scta.info/resource/v8iu7y-d1e92">facilis 
+          <lb ed="#P" n="17"/>revelatio et ad temporale voluntas immediate se ponit <pc type="#pilcrow"/> unde <ref xml:id="ppra-l51-Ridvwdg" corresp="#ppra-l51-Qavj3f3"><name ref="#Virgil">virgilius</name> in <title ref="#Eneads">eneydos</title></ref> <quote xml:id="ppra-l51-Qavj3f3" source="http://scta.info/resource/v8iu7y-d1e92">facilis 
           descensu <unclear>averni</unclear></quote> <pc type="#punctus"/>
         </p>
           <!-- doesn't seem present 
@@ -216,12 +216,12 @@
           </p>-->
           <p xml:id="ppra-l51-tcemii">
             <pc type="#pilcrow"/>3a causa nam temporalia intuitive et inmediate se ostendunt delectabilia 
-            <lb ed="#P" n="69"/>et afficiunt anima sive voluntatis appetitum sed deus non autem sic quoniam ut dicit <name>iohannes</name> in deum 
-            <lb ed="#P" n="70"/>videt homo <unclear>non quam</unclear>
+            <lb ed="#P" n="18"/>et afficiunt anima sive voluntatis appetitum sed deus non autem sic quoniam ut dicit <name>iohannes</name> in deum 
+            <lb ed="#P" n="19"/>videt homo <unclear>non quam</unclear>
           </p>
           <p xml:id="ppra-l51-cqeiac">
             4a causa quae est cupiditas quae fomes est totius peccati quae de directus inclinat 
-            <lb ed="#P" n="71"/>contra caritatem cuius activitas maior est quam virtutum naturalium activitas <pc type="#punctus"/> 
+            <lb ed="#P" n="20"/>contra caritatem cuius activitas maior est quam virtutum naturalium activitas <pc type="#punctus"/> 
           </p>
         <div xml:id="ppra-l51-Dd1e591">
           <head xml:id="ppra-l51-Hcorria">
@@ -229,7 +229,7 @@
           </head>
            <p xml:id="ppra-l51-eicsac">
              <pc type="#pilcrow"/>Ex ista uatem conclusione 
-             <lb ed="#P" n="72"/>inferuntur aliqua correlaria
+             <lb ed="#P" n="21"/>inferuntur aliqua correlaria
            </p>
           <div xml:id="ppra-l51-Dd1e601">
             <head xml:id="ppra-l51-Hqmhdin" type="question-title">
@@ -237,16 +237,16 @@
             </head>
             <p xml:id="ppra-l51-pcenoa">
               <pc type="#pilcrow"/>primum est moralis honestas pulchre describitur in natura <pc type="#punctus"/> patet 
-              <lb ed="#P" n="73"/>nam in ipsa res ordinatissime tendunt tamquam in summum bonum ut patet per <name ref="#Boethius">boetius</name> ubi supra 
+              <lb ed="#P" n="22"/>nam in ipsa res ordinatissime tendunt tamquam in summum bonum ut patet per <name ref="#Boethius">boetius</name> ubi supra 
             </p>
             <p xml:id="ppra-l51-eqpnpd">
-              <lb ed="#P" n="74"/><pc type="virgula">/</pc> Ex 
-              <lb ed="#P" n="75"/>quo patet qualiter imitari debet naturam <pc type="#punctus"/>
+              <lb ed="#P" n="23"/><pc type="virgula">/</pc> Ex 
+              <lb ed="#P" n="24"/>quo patet qualiter imitari debet naturam <pc type="#punctus"/>
             </p>
             <p xml:id="ppra-l51-tpqpbu">
               <pc type="#pilcrow"/>patet etiam qualiter vita moralis relucet in natura 
               <!-- para break here -->
-              <lb ed="#P" n="76"/><pc type="#pilcrow"/> Ulterius infertur quod natura particularis magis diligit bonum commune quam proprium
+              <lb ed="#P" n="25"/><pc type="#pilcrow"/> Ulterius infertur quod natura particularis magis diligit bonum commune quam proprium
             </p> 
           </div>
           <div xml:id="ppra-l51-Dd1e645">
@@ -256,8 +256,8 @@
             </head>
             <p xml:id="ppra-l51-suqoac">
               <pc type="#pilcrow"/>Ulterius sequitur quod gradus 
-              <lb ed="#P" n="77"/>delectionis creaturae alius a se propter deum magis est ex divino statuto quam diligibilitas creaturae quae fit maior 
-              <lb ed="#P" n="78"/>in ea <pc type="#punctus"/> sed ratione obligationis statuti dei quia suas habet magis in sua potestate quam alienas
+              <lb ed="#P" n="26"/>delectionis creaturae alius a se propter deum magis est ex divino statuto quam diligibilitas creaturae quae fit maior 
+              <lb ed="#P" n="27"/>in ea <pc type="#punctus"/> sed ratione obligationis statuti dei quia suas habet magis in sua potestate quam alienas
             </p>
           </div>
           <div xml:id="ppra-l51-Dd1e667">
@@ -269,18 +269,18 @@
             </p> 
             <p xml:id="ppra-l51-uaqeic">
               unde duplex est <del rend="strikethrough">intelligentia</del> 
-              <lb ed="#P" n="79"/>inclinatio si naturalis et cupiditas et sunt absolute lege stante <unclear>con?t</unclear> nunc
+              <lb ed="#P" n="28"/>inclinatio si naturalis et cupiditas et sunt absolute lege stante <unclear>con?t</unclear> nunc
             </p> 
             <p xml:id="ppra-l51-uicpsb">
               <pc type="#pilcrow"/> Alia est naturalis sumitur <pc type="#punctus"/> <pc type="virgula">/</pc> unde 
-              <lb ed="#P" n="80"/>inclinatio cupiditatis inclinat ad diligendum se propter se <pc type="#punctus"/> sed naturalis ad oppositum
+              <lb ed="#P" n="29"/>inclinatio cupiditatis inclinat ad diligendum se propter se <pc type="#punctus"/> sed naturalis ad oppositum
             </p> 
             <p xml:id="ppra-l51-etccac">
               <pc type="#pilcrow"/>In comparando unam 
-              <lb ed="#P" n="81"/>ad aliam fortior est cupiditatis inclinatio quam naturalis <pc type="#pilcrow"/> Et ista est radix quare sine gratia non potest 
-              <lb ed="#P" n="82"/>dirigi libertas arbitrii <pc type="#pilcrow"/> Et sic 3a inclinatio requiritur scilicet caritatis quae contraria est cupiditati 
-              <lb ed="#P" n="83"/>et ipsa est fortior cupiditate <pc type="#pilcrow"/> Unde est in potestate liberi arbitrii mediante caritate facere 
-              <lb ed="#P" n="84"/>bonum vel etc nam spiritus iuvatur caritate caro vero cupiditate ut dicit <name>apostolus</name>
+              <lb ed="#P" n="30"/>ad aliam fortior est cupiditatis inclinatio quam naturalis <pc type="#pilcrow"/> Et ista est radix quare sine gratia non potest 
+              <lb ed="#P" n="31"/>dirigi libertas arbitrii <pc type="#pilcrow"/> Et sic 3a inclinatio requiritur scilicet caritatis quae contraria est cupiditati 
+              <lb ed="#P" n="32"/>et ipsa est fortior cupiditate <pc type="#pilcrow"/> Unde est in potestate liberi arbitrii mediante caritate facere 
+              <lb ed="#P" n="33"/>bonum vel etc nam spiritus iuvatur caritate caro vero cupiditate ut dicit <name>apostolus</name>
               <!--<quote ana="#gal5_17">spiritus adversus carnem</quote>-->
             </p>
           </div>
@@ -290,8 +290,10 @@
             </head>
             <p xml:id="ppra-l51-suqeec">
               <pc type="#pilcrow"/> Ulterius sequeretur 
-              <lb ed="#P" n="85"/>quod omnis primi motus sunt ex cupiditate hic in via <pc type="#punctus"/> unde aliquae sunt inputabiles aliquae vero non <pc type="#punctus"/> imputabiles sunt 
-              <lb ed="#P" n="86"/>quando voluntas <unclear>p?a</unclear> de liberare circa obiectum et ius deliberat tunc talis actus est peccatum
+              <lb ed="#P" n="34"/>quod omnis primi motus sunt ex cupiditate hic in via <pc type="#punctus"/> nam caritas ad hoc quod exeat in actum 
+              <lb ed="#P" n="35"/>praerequirit electionem deliberationis et per consequens omnis alia operatio producitur a cupiditate et caritate simul <pc type="virgula">/</pc> nam 
+              <lb ed="#P" n="36"/>operatio cupiditatis semper est propter <sic>comodum</sic> <pc type="punctus"/> unde aliquae sunt imputabiles aliquae vero non <pc type="punctus"/> imputabiles sunt 
+              <lb ed="#P" n="37"/>quando voluntas <unclear>p?a</unclear> de liberare circa obiectum et ius deliberat tunc talis actus est peccatum
             </p>
             <!--
               Seems like this paragraph should be connected to above; text from reportatio is included in above 
@@ -303,7 +305,7 @@
             </p>-->
             <p xml:id="ppra-l51-eqpvuv">
               <pc type="#pilcrow"/>Ex quilibet 
-              <lb ed="#P" n="87"/>omnibus lucidae patet quod gratia perficit naturam iuvat confortat et delectat
+              <lb ed="#P" n="38"/>omnibus lucidae patet quod gratia perficit naturam iuvat confortat et delectat
             </p>
           </div>
           <div xml:id="ppra-l51-Dd1e768">
@@ -313,8 +315,8 @@
             </head>
             <p xml:id="ppra-l51-suqser">
               <pc type="#pilcrow"/>Ulterius 
-              <lb ed="#P" n="88"/>sequitur quod si appetitus rationalis se conformaret appetitui naturalis esset semper rectitudo nam patet <pc type="virgula">/</pc> quia in obligabiles est 
-              <lb ed="#P" n="89"/>et per consequens creatura semper esset recta et iusta <pc type="virgula">/</pc> <del>patet haec</del> <pc type="virgula">/</pc> si se sic haberet
+              <lb ed="#P" n="39"/>sequitur quod si appetitus rationalis se conformaret appetitui naturalis esset semper rectitudo nam patet <pc type="virgula">/</pc> quia in obligabiles est 
+              <lb ed="#P" n="40"/>et per consequens creatura semper esset recta et iusta <pc type="virgula">/</pc> <del>patet haec</del> <pc type="virgula">/</pc> si se sic haberet
                
             </p>
           </div>
@@ -326,8 +328,8 @@
             </head>
             <p xml:id="ppra-l51-seiser">
               <pc type="#pilcrow"/>Ex quo sequitur quod si poneretur 
-              <lb ed="#P" n="90"/>ex potentia divina talis creatura quae talis appetitus haberet esset naturalis recta et iusta <pc type="#punctus"/> patet haec quia voluntas 
-              <lb ed="#P" n="91"/>eius non esset oblica <pc type="#punctus"/> sed recta <pc type="#punctus"/>
+              <lb ed="#P" n="41"/>ex potentia divina talis creatura quae talis appetitus haberet esset naturalis recta et iusta <pc type="#punctus"/> patet haec quia voluntas 
+              <lb ed="#P" n="42"/>eius non esset oblica <pc type="#punctus"/> sed recta <pc type="#punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l51-Dd1e807">
@@ -336,7 +338,7 @@
             </head>
             <p xml:id="ppra-l51-scqadu">
               <pc type="#pilcrow"/>Sequitur ulterius quod tota natura ad haberet aliqualiter fruitive 
-              <lb ed="#P" n="92"/>etiam immobiliter ultimo fini <pc type="#punctus"/> patet quia haec non requiret eam a deo fruitive
+              <lb ed="#P" n="43"/>etiam immobiliter ultimo fini <pc type="#punctus"/> patet quia haec non requiret eam a deo fruitive
             </p>
           </div>
           <div xml:id="ppra-l51-Dd1e826">
@@ -355,38 +357,35 @@
             </head>
             <p xml:id="ppra-l51-isqcev">
               <pc type="#pilcrow"/>Ex quo etiam patet quod in dampnati 
-              <lb ed="#P" n="93"/>et daemonibus quantumcumque sit actus adversius adhuc remanet actus fruitivus quidditatus et in deo 
-              <lb ed="#P" n="94"/>quietatus <pc type="#pilcrow"/>Consurgit tamen actus quidam in contrariam unde advertendum est quod illud obiectum summum est 
-              <lb ed="#P" n="95"/>a quolibet fruibile iuxta sui capacitatem
+              <lb ed="#P" n="44"/>et daemonibus quantumcumque sit actus adversius adhuc remanet actus fruitivus quidditatus et in deo 
+              <lb ed="#P" n="45"/>quietatus <pc type="#pilcrow"/>Consurgit tamen actus quidam in contrariam unde advertendum est quod illud obiectum summum est 
+              <lb ed="#P" n="46"/>a quolibet fruibile iuxta sui capacitatem
             </p>
             <!-- not clear if there is a paragraph corollation -->
             <p xml:id="ppra-l51-poiuyt">
               <pc type="#pilcrow"/>Ulterius sequitur quod voluntas divina absolute
-              <lb ed="#P" n="96"/>et immobiliter fruitur illo obiecto
+              <lb ed="#P" n="47"/>et immobiliter fruitur illo obiecto
             </p>
             <p xml:id="ppra-l51-aeqcsn">
-              <lb ed="#P" n="97"/>Finaliter advertendum est quod omnis appetitus naturalis iuxta sui capacitatem 
-              <lb ed="#P" n="98"/>fruitur ipso obiecto unde sola voluntas creata ab ipso divertit etc finis
+              <lb ed="#P" n="48"/>Finaliter advertendum est quod omnis appetitus naturalis iuxta sui capacitatem 
+              <lb ed="#P" n="49"/>fruitur ipso obiecto unde sola voluntas creata ab ipso divertit etc finis
             </p>
           </div>
           <div xml:id="ppra-l51-Dd1e857">
             <head xml:id="ppra-l51-Hconsio">Conclusio</head>
-            <!-- where i left off 
-            corrections info file still need throughout 
-            -->
             <p xml:id="ppra-l51-pcldpt">
-              <lb ed="#P" n="99"/><pc type="#pilcrow"/>Prima conclusio lectionis 
-              <lb ed="#P" n="100"/>fuit quod deus est creator omnium et haec videtur esse contra positionem antiquorum philosophorum et <name>origines</name> maxime qui 
-              <lb ed="#P" n="101"/>dicit spiritibus angelicis quod nullam fit mentio in <unclear>genese</unclear> de eorum creatura igitur etc Sed respondetur 
-              <lb ed="#P" n="102"/>secundum <name>augustinum</name> in glosa super genesem quod <unclear>ymmo</unclear> satis quia per caelum intelligitur creatura spiritualis et per terra creatura 
-              <lb ed="#P" n="103"/>cor <unclear>poscorad</unclear>
+              <pc type="#pilcrow"/>Prima conclusio lectionis 
+              <lb ed="#P" n="50"/>fuit quod deus est creator omnium et haec videtur esse contra positionem antiquorum philosophorum et <name>origines</name> maxime qui 
+              <lb ed="#P" n="51"/>dicit spiritibus angelicis quod nullam fit mentio in <unclear>genese</unclear> de eorum creatura igitur etc Sed respondetur 
+              <lb ed="#P" n="52"/>secundum <name>augustinum</name> in glosa super genesem quod <unclear>ymmo</unclear> satis quia per caelum intelligitur creatura spiritualis et per terra creatura 
+              <lb ed="#P" n="53"/>cor <unclear>poscorad</unclear>
             </p>
             <p xml:id="ppra-l51-acldpa">
               <pc type="#pilcrow"/>2a conclusio creare et aliquid de non facere <pc type="#punctus"/> et illud verbum est aequivocum nam creare potest capi 
-              <lb ed="#P" n="104"/>pro facere alio sive indigentia causae efficientis pro producere sed haec inconveniens etc 
+              <lb ed="#P" n="54"/>pro facere alio sive indigentia causae efficientis pro producere sed haec inconveniens etc 
             </p>
             <p xml:id="ppra-l51-bcldpb">
-              <pc type="#pilcrow"/>3a conclusio creatio vel creare dicitur de do<lb ed="#P" break="no" n="105"/>m?te 
+              <pc type="#pilcrow"/>3a conclusio creatio vel creare dicitur de do<lb ed="#P" break="no" n="55"/>m?te 
               agens Vo sit creaturae sed existente
             </p>
             <p xml:id="ppra-l51-ccldpc">
