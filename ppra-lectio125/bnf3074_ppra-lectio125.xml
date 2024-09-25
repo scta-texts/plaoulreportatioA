@@ -153,96 +153,40 @@
             <pc type="pilcrow"/> Ex quo sequitur primo quod nullus talis 
             <lb ed="#P" n="43"/>assensus possit esse falsus <pc type="punctus"/> patet ex praedictis <pc type="virgula">/</pc> quia huiusmodi assensus est insolubilis igitur <pc type="virgula">/</pc> nam dependet 
             <lb ed="#P" n="44"/>ab assensu divino sicut eius entitas <pc type="punctus"/> 
-            
-            
             <pc type="pilcrow"/> Ex quo sequitur 2o quod talis assensus non potest esse falsus 
             <lb ed="#P" n="45"/>patet quia conformis est divino assensui <pc type="punctus"/> sed non stat ipsum esse falsum ergo <pc type="virgula">/</pc>
-            
+          </p>
+          <!-- fuzzy parallel -->
+          <p xml:id="ppra-l125-neqssm">
             <pc type="pilcrow"/> unde advertendum 
             <lb ed="#P" n="46"/>quod per evidentiam non potest sic probari materia ista <pc type="punctus"/> ideo sufficit probabilia ad ipsam probandam 
             <lb ed="#P" n="47"/>declarando ad ducere <pc type="punctus"/> <pc type="pilcrow"/> Ex quibus patet quod nullus assensus talis potest esse falsus <pc type="punctus"/> quia 
             <lb ed="#P" n="48"/>in esse tali a deo dependet <pc type="punctus"/>
-            
-            Ex quo sequitur 
-            quod nullus talis assensus creatus potest esse falsus. 
-            Patet ex suppositionibus 
-            quia intrinseca eius habitudo conformitatis 
-            ad assensum divinum est insolubilis, 
-            igitur non stant ipsum remanere 
-            in esse assensus et non conformari veritati divinae, 
-            et eodem modo imaginatur, 
-            sicut entitas creata dependet ab entitate increata 
-            insolubili dependentia utraque entitate existente, 
-            et sic patet 
-            quia talis assensus non potest esse falsus 
-            quia semper est conformis divino <unclear>assenui <!--assensui--></unclear>, 
-            sed nullo modo stat assensum divinum posse esse falsum, 
-            igitur nec illum qui insolubili conformitate sibi connectitur.
           </p>
-          <p xml:id="ppra-l125-neqssm">
-            Notandum est quod in introductione huiusmodi 
-            materiae non possum ponere rationem ipsum probantis nisi 
-            evitando inconvenientia in quibus alii modi incidunt 
-            nec possunt evitare. et ideo dicitur, quod nullus huiusmodi 
-            assensus potest esset falsus quia semper est conformis speculo sive 
-            macula.
-          </p>
+          <!-- fuzzy parallel -->
           <p xml:id="ppra-l125-sneida">
-            Secundo, 
-            notandum est quod sicut verbum contingenter 
-            est iudicium quod antichristus erit ita assensus Revelatus 
-            est contingenter iudicium illius, patet quia insolubilis est habitudo 
-            conformitatis iudicii creati ad divinum Iudicium 
-            igitur si unum est contingens respectu illius vere Revelationis antichristus 
-            erit est aliud modo illud de divino Iudicio est 
-            notorium igitur de alio.
+            <pc type="pilcrow"/> Ulterius sequitur quod sicut divinum iudicium est contingenter iudicium 
+            <lb ed="#P" n="49"/>quod antichristus erit ita revelatio contingens est patet satis quia insolubilis conformitatis unius ad 
+            <lb ed="#P" n="50"/>relicum
           </p>
           <!-- 2 -->
           <p xml:id="ppra-l125-eqscar">
-            <pc type="pilcrow"/> 3o sequitur quod omnis assensus per revelationem factus de illo genere participat modalem per<lb ed="#P" n="49"/>fectionem 
+            <pc type="pilcrow"/> 3o sequitur quod omnis assensus per revelationem factus de illo genere participat modalem per<lb ed="#P" n="51"/>fectionem 
             infinitae nobilitatis <pc type="virgula">/</pc> licet inferior species debeat competere vel subiacere superiori nihilominus 
-            <lb ed="#P" n="50"/>non sic est in modalibus perfectionibus sicut patet de simplicitate nam ipsa competit animae non tamen 
-            <lb ed="#P" n="51"/>compositus
-            
-            Ex quo sequitur 
-            quod omnis revelatio facta vel assensus talis 
-            participat moralem perfectionem 
-            <pb ed="#SV" n="354-v"/>
-            <cb ed="#SV" n="a"/>
-            infinitae nobilitatis, 
-            et licet perfectio pure <unclear>teu?alis</unclear> 
-            non possit competere inferiori speciei 
-            quin etiam competat superiori, 
-            nihilominus tamen de moralibus perfectionibus non est neccessarium, 
-            immo perfectio moralis infinita poterit competere rei <unclear>finite<!--finitae--></unclear> 
-            ut apparet clare de simplicitate 
-            quae dicit per se moralem 
-            quae convenit animae intellectivae, 
-            non tamen conveniret composito ex suprema intelligentia 
-            et materia prima secundo accidentibus convenit 
-            quod sint simplicia, 
-            et tamen illud non convenit substantiis materialibus et compositis ut homini, 
-            hoc est tamen in proposito 
-            quod esse certitudinem inaequabile est moralis perfectio 
-            intrinsece competens cuilibet assensui revelato.
+            <lb ed="#P" n="52"/>non sic est in modalibus perfectionibus sicut patet de simplicitate nam ipsa competit animae non tamen 
+            <lb ed="#P" n="53"/>compositus
           </p>
           <p xml:id="ppra-l125-sciiar">
-            Sed convenit intrinsece assensui divino ex natura propria 
-            quod sit assensus <unclear>inobliquabilis</unclear>, 
-            et quod possit esse contradictorum assensus. 
-            Assensui autem creato convenit 
-            iste modus per participationem 
-            quia si divinis assensus est 
-            simpliciter <unclear>inobliquabilis</unclear>, 
-            igitur assensus revelatus nec poterit esse falsus, 
-            et sicut divinus assensus idem manens formaliter 
-            potest esse oppositorum uniformiter se habendo, 
-            ita assensus revelatus.
+            <pc type="pilcrow"/> Item accidentibus spiritualibus competit simplicitas et tamen non substantiis materialibus <pc type="virgula">/</pc> quare patet 
+            <lb ed="#P" n="54"/>quod non est inconveniens aliquam modalem perfectiorem <add place="above-line">infe?retur</add> competere alicui sive hoc quod competat 
+            <lb ed="#P" n="55"/>composita et ita in proposito de assensu divino quia inoblicabilis est <del rend="expunctuation">ca</del> creato et revelato
+            <lb ed="#P" n="56"/>per participationem cum illius non potest esse falsus ymmo potest esse <add place="above-line"><unclear>con???</unclear></add> uniformiter se habendo 
+            <lb ed="#P" n="57"/>adaequate
           </p>
           <p xml:id="ppra-l125-sdqapi">
             <pc type="pilcrow"/> 4o sequitur quod quilibet assensus revelatus habet quodammodo libertatis modum instrumentaliter non transeundo 
-            <lb ed="#P" n="1"/>in praeteritum non respectu sui enuntiabilis nec vitalis immutationis potentiae pro eodem enuntabili patet <pc type="virgula">/</pc> quia assensus 
-            <lb ed="#P" n="2"/>respectu huius propositionis iudicium futurum erit potest esse non futurum et sic res respectu obiectorum potest esse et non esse <pc type="virgula">/</pc> et sic est <unclear>quidam modus</unclear>
+            <lb ed="#P" n="58"/>in praeteritum non respectu sui enuntiabilis nec vitalis immutationis potentiae pro eodem enuntabili patet <pc type="virgula">/</pc> quia assensus 
+            <lb ed="#P" n="59"/>respectu huius propositionis iudicium futurum erit potest esse non futurum et sic res respectu obiectorum potest esse et non esse <pc type="virgula">/</pc> et sic est <unclear>quidam modus</unclear>
             <pb ed="#P" n="124-r"/>
             <lb ed="#P" n="1"/>modo sic est de quolibet assensu tali uniformiter se habet quod potest non esse assensus illius <pc type="virgula">/</pc> et sic respectu 
             <lb ed="#P" n="2"/>sui enuntiabilis habet modum causae libere <pc type="punctus"/> quia potest esse et potest non esse nec transit in praeteritum 

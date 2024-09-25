@@ -153,7 +153,7 @@
               <lb ed="#P" n="54"/>et ista sunt aeviterna quae non subiacent fato
             </p>
             <p xml:id="ppra-l109-esines">
-              <lb ed="#P" n="55"/>Et secundum hoc ponuntur duae propositiones quarum prima est 
+              <pc type="pilcrow"/> Et secundum hoc ponuntur duae propositiones quarum prima est 
               <pb ed="#P" n="110-r"/>
               <lb ed="#P" n="1"/>stat liberum arbitrium non subiacere fato patet per <name>boetium</name> nam stat quod quasi possit 
               <lb ed="#P" n="2"/>humanae <del rend="strikethrough">quietationis</del> contemplationis quietudinem in deo Et sic vita sua erit quietativa 
@@ -267,7 +267,6 @@
           </p>
         </div>
       </div>
-      
     </body>
   </text>
 </TEI>
