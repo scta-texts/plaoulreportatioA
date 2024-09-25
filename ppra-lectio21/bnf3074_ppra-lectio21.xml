@@ -292,19 +292,20 @@
             <!-- possible break point --> 
             <pc type="pilcrow"/> Alia via vel oppinio posset esse 
             <lb ed="#P" n="51"/>quod realiter notitia non sortitur speciem penes obiectum quod repraesentat <pc type="virgula">/</pc> sed quia staret quod esset notitia 
-            <lb ed="#P" n="52"/>eiusdem speciei <pc type="punctus"/> et tamen una non repraesentaret idem quod alia Et sic diversae intelligentiae se habendi Et 
-            <lb ed="#P" n="53"/>ergo fundamentum in quo se fundat non est verum
+            <lb ed="#P" n="52"/>eiusdem speciei <pc type="punctus"/> et tamen una non repraesentaret idem quod alia Et sic diversae intelligentiae possent concurrere
+            <lb ed="#P" n="53"/>ad eiusdem speciei productionem et sic non esset processus <del rend="strikethrough">in infinitum</del> nisi in modis se habendi <pc type="punctus"/> Et
+            <lb ed="#P" n="54"/>ergo fundamentum in quo se fundat non est verum
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l21-esppin">
             <pc type="pilcrow"/> Potest tamen dici quod species sic sunt sicut numeri ita 
-            <lb ed="#P" n="54"/>quod inter duas immediatus non posset 3a produci <pc type="punctus"/> Et sic dicebat quod obiectum alterius speciei notitiam 
-            <lb ed="#B" n="55"/>aliam producit 
+            <lb ed="#P" n="55"/>quod inter duas immediatus non posset 3a produci <pc type="punctus"/> Et sic dicebat quod obiectum alterius speciei notitiam 
+            <lb ed="#P" n="56"/>aliam producit 
           </p>
           <!-- fuzzy parallel -->
           <p xml:id="ppra-l21-estpqi">
             <pc type="pilcrow"/> Sed quantum ad rationes de obiecto materiali principalis radix sua est quod nullum agens agit 
-            <lb ed="#B" n="56"/>perfectius se <pc type="punctus"/> facile est dicere quia producens est substantia ideo non haberet propositum
+            <lb ed="#P" n="57"/>perfectius se <pc type="punctus"/> facile est dicere quia producens est substantia ideo non haberet propositum
           </p>
         </div>
         <div xml:id="ppra-l21-Dd1e3754">
@@ -313,22 +314,22 @@
           </head>
           <p xml:id="ppra-l21-chticd">
             <pc type="pilcrow"/> de albedine tamen dicam 
-            <lb ed="#B" n="57"/>quod activitas rerum in influxus secuuntur magis divinam providentiam libere ordinantem pro utilitate universi 
-            <pb ed="#B" n="44-v"/>
-            <lb ed="#B" n="1"/>quam ad proprias specificas rationes vel formas <pc type="virgula">/</pc> quia videmus aliquando minus perfectas nobilius agere 
-            <lb ed="#B" n="2"/>sicut est homo respectu angeli Etiam asinus asinum producit <pc type="punctus"/> et tamen caelum non produceret illum <pc type="punctus"/> licet sit 
-            <lb ed="#B" n="3"/>perfectius asino <pc type="punctus"/> non tamen producit tamquam causa prima respectu illius effectus <pc type="punctus"/> sed concursu 
-            <lb ed="#B" n="4"/>dei generali <pc type="punctus"/> stat tamen quod res producat perfectiorem se quia hoc est inditum ad debitum 
-            <lb ed="#B" n="5"/>regimen universi <pc type="punctus"/> et secundum decretum divinae providentiae Et cum inducit quia sequeretur quod 
-            <lb ed="#B" n="6"/>obiecta materialia posset agere in corpus christi in sacramento altaris <pc type="punctus"/> Retorquebo quam ipsam quia concedit 
-            <lb ed="#B" n="7"/>quod obiectum immutat organum sensus tamen negatur consequentia quia corpus christi non habet habitudinem potentiae cognitivae 
-            <lb ed="#B" n="8"/>ad suum obiectum et non est ibi modo naturali <pc type="punctus"/> secundum quem modo obiecta sunt apta nata agere quae non 
-            <lb ed="#B" n="9"/>ponit in sacramento altaris Et tangit de visione dei <pc type="virgula">/</pc> quidam diversimode dicunt <pc type="punctus"/> sed alias 
-            <lb ed="#B" n="10"/>deo duce de hoc videbitur 
+            <lb ed="#P" n="58"/>quod activitas rerum in influxus secuuntur magis divinam providentiam libere ordinantem pro utilitate universi 
+            <pb ed="#P" n="44-v"/>
+            <lb ed="#P" n="1"/>quam ad proprias specificas rationes vel formas <pc type="virgula">/</pc> quia videmus aliquando minus perfectas nobilius agere 
+            <lb ed="#P" n="2"/>sicut est homo respectu angeli Etiam asinus asinum producit <pc type="punctus"/> et tamen caelum non produceret illum <pc type="punctus"/> licet sit 
+            <lb ed="#P" n="3"/>perfectius asino <pc type="punctus"/> non tamen producit tamquam causa prima respectu illius effectus <pc type="punctus"/> sed concursu 
+            <lb ed="#P" n="4"/>dei generali <pc type="punctus"/> stat tamen quod res producat perfectiorem se quia hoc est inditum ad debitum 
+            <lb ed="#P" n="5"/>regimen universi <pc type="punctus"/> et secundum decretum divinae providentiae Et cum inducit quia sequeretur quod 
+            <lb ed="#P" n="6"/>obiecta materialia posset agere in corpus christi in sacramento altaris <pc type="punctus"/> Retorquebo quam ipsam quia concedit 
+            <lb ed="#P" n="7"/>quod obiectum immutat organum sensus tamen negatur consequentia quia corpus christi non habet habitudinem potentiae cognitivae 
+            <lb ed="#P" n="8"/>ad suum obiectum et non est ibi modo naturali <pc type="punctus"/> secundum quem modo obiecta sunt apta nata agere quae non 
+            <lb ed="#P" n="9"/>ponit in sacramento altaris Et tangit de visione dei <pc type="virgula">/</pc> quidam diversimode dicunt <pc type="punctus"/> sed alias 
+            <lb ed="#P" n="10"/>deo duce de hoc videbitur 
           </p>
           <p xml:id="ppra-l21-epaple">
             Et quodlibet obiectum habet obiective concurrere <pc type="virgula">/</pc> et <add place="above-line">quod</add> causalitas activa est naturalis 
-            <lb ed="#B" n="11"/>hoc non est verum
+            <lb ed="#P" n="11"/>hoc non est verum
           </p> 
         </div>
         <div xml:id="ppra-l21-Dxxxx1">
@@ -337,35 +338,35 @@
             <pc type="pilcrow"/> Sequitur distinctio cuius conclusio prima quod totae tres personae in divinis sunt coaequales
           </p>
           <p xml:id="ppra-l21-xxxxx4">
-            <lb ed="#B" n="12"/><pc type="pilcrow"/> 2a conclusio aeternitas dei essentia et immensitas sunt idem <pc type="punctus"/> <pc type="virgula">/</pc> causa est quia deus summe simplex est 
+            <lb ed="#P" n="12"/><pc type="pilcrow"/> 2a conclusio aeternitas dei essentia et immensitas sunt idem <pc type="punctus"/> <pc type="virgula">/</pc> causa est quia deus summe simplex est 
           </p>
           <p xml:id="ppra-l21-xxxxx5">
-            <lb ed="#B" n="13"/><pc type="pilcrow"/> 3a conclusio pater in divinis non est maior filio in divinis
+            <lb ed="#P" n="13"/><pc type="pilcrow"/> 3a conclusio pater in divinis non est maior filio in divinis
           </p>
           <p xml:id="ppra-l21-xxxxx6">
             <pc type="pilcrow"/> 4a pater est in filio scilicet per inceptionem  
           </p>
           <p xml:id="ppra-l21-xxxxx7">
-            <lb ed="#B" n="14"/><pc type="pilcrow"/> 5a nulla divinarum personarum est pars alterius
+            <lb ed="#P" n="14"/><pc type="pilcrow"/> 5a nulla divinarum personarum est pars alterius
           </p>
           <p xml:id="ppra-l21-xxxxx8">
             <pc type="pilcrow"/> 6a essentia divina non est genus trium personarum 
-            <lb ed="#B" n="15"/>sed actualitas summa <pc type="punctus"/> 
+            <lb ed="#P" n="15"/>sed actualitas summa <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l21-xxxxx9">
             <pc type="pilcrow"/> 7ma conclusio essentia divina non est materia personarum
           </p>
           <p xml:id="ppra-l21-xxxx10">
             <pc type="pilcrow"/> 8va conclusio 3es personae 
-            <lb ed="#B" n="16"/>non dicuntur unius essentiae sicut differenter 3es homines
+            <lb ed="#P" n="16"/>non dicuntur unius essentiae sicut differenter 3es homines
           </p>
           <p xml:id="ppra-l21-xxxx11">
             <pc type="pilcrow"/>9na aliqua differunt non quia essentia 
-            <lb ed="#B" n="17"/>unius non sit de essentia alterius <pc type="punctus"/> 
+            <lb ed="#P" n="17"/>unius non sit de essentia alterius <pc type="punctus"/> 
           </p>
           <p xml:id="ppra-l21-xxxx12">
             <pc type="pilcrow"/> 10 conclusio deus est trinus et tamen non triplex <pc type="punctus"/> ratio est 
-            <lb ed="#B" n="18"/>quia trinus non denotat distinctionem sed triplex denotat hoc
+            <lb ed="#P" n="18"/>quia trinus non denotat distinctionem sed triplex denotat hoc
           </p>
         </div>
       </div>

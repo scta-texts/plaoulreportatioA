@@ -42,7 +42,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="69-v"/>
+        <pb ed="#P" n="70-r"/>
       </div>
     </front>
     <body>
@@ -216,30 +216,32 @@
           </p>
           <p xml:id="ppra-l65-axxyy4">
             <pc type="pilcrow"/> 2a conclusio innoxia animalia facta sunt noxia 
-            <lb ed="#P" n="38"/>parum transgressionem <name>adae</name>
+            <lb ed="#P" n="38"/>propter transgressionem <name>adae</name> <pc type="virgula">/</pc> Et est notandum quod non solum animalia sunt variata <pc type="punctus"/> sed etiam celestis tota armonia 
+            <lb ed="#P" n="39"/>a qua consurgunt tempestates tonit?a <unclear>g?n</unclear> dies et similia et sic sunt effectus peccati adae <pc type="punctus"/> et ista est oppinio 
+            <lb ed="#P" n="40"/>doctorum
           </p>
           <p xml:id="ppra-l65-axxyy5">
             <pc type="pilcrow"/> 3a conclusio de animabus ex putrefactione tenetur quod fuerunt creata non actualiter sed tamen potentialiter 
-            <lb ed="#P" n="39"/>nam ex combinatione quatuor qualitatum primarium consurgunt aliquae formae quae se habent per modum sequele <pc type="punctus"/>
-            <lb ed="#P" n="40"/>unde rabbi moyses dicit quod consurgunt talia lateraliter
+            <lb ed="#P" n="41"/>nam ex combinatione quatuor qualitatum primarium consurgunt aliquae formae quae se habent per modum sequele <pc type="punctus"/>
+            <lb ed="#P" n="42"/>unde rabbi moyses dicit quod consurgunt talia lateraliter
           </p>
           <p xml:id="ppra-l65-axxyy6">
             <pc type="pilcrow"/> 4a conclusio post creationem rerum creatus est homo 
-            <lb ed="#P" n="41"/>tamquam dominator <pc type="punctus"/> sed propter peccatum perdidit obedientiam animalium et naturalem <pc type="punctus"/> unde illa quae sibi facta fuere inmutatum 
-            <lb ed="#P" n="42"/><seg type="strikethrough">consurgere<del rend="strikethrough">gent</del></seg> in <unclear>nocu?tum</unclear>
+            <lb ed="#P" n="43"/>tamquam dominator <pc type="punctus"/> sed propter peccatum perdidit obedientiam animalium et naturalem <pc type="punctus"/> unde illa quae sibi facta fuere inmutatum 
+            <lb ed="#P" n="44"/><seg type="strikethrough">consurgere<del rend="strikethrough">gent</del></seg> in <unclear>nocu?tum</unclear>
           </p>
           <p xml:id="ppra-l65-axxyy7">
             <pc type="pilcrow"/> 5a conclusio est de duabus oppinionibus <pc type="punctus"/> prima est quod successiva fuit creatio 
-            <lb ed="#P" n="43"/>sed tamen <name>augustinus</name> dicit oppositum nam qui manet in aeternum creavit omnia simul unde dicit quod caelum et elementa fuerunt 
-            <lb ed="#P" n="44"/>simul creata <pc type="virgula">/</pc> deinde alii effectus fuerunt post creati <pc type="punctus"/> sed propter populi <unclear>rudi?te</unclear> sic fuit a <name>moyse</name>
-            <lb ed="#P" n="45"/>descriptum secundum rerum successionem et hoc non videtur contra fidem
+            <lb ed="#P" n="45"/>sed tamen <name>augustinus</name> dicit oppositum nam qui manet in aeternum creavit omnia simul unde dicit quod caelum et elementa fuerunt 
+            <lb ed="#P" n="46"/>simul creata <pc type="virgula">/</pc> deinde alii effectus fuerunt post creati <pc type="punctus"/> sed propter populi <unclear>rudi?te</unclear> sic fuit a <name>moyse</name>
+            <lb ed="#P" n="47"/>descriptum secundum rerum successionem et hoc non videtur contra fidem
           </p>
           <p xml:id="ppra-l65-axxyy8">
             <pc type="pilcrow"/> 6a conclusio septimo die requievit 
-            <lb ed="#P" n="46"/>ab universo opere quod patrarat <pc type="virgula">/</pc> non quin continue agat sed quia novas species non producebat
+            <lb ed="#P" n="48"/>ab universo opere quod patrarat <pc type="virgula">/</pc> non quin continue agat sed quia novas species non producebat
           </p>
           <p xml:id="ppra-l65-axxyy9">
-            <lb ed="#P" n="47"/><pc type="pilcrow"/> 7a Complevit opus suum etc id est completum vidit et sic dictum de lectione sit <unclear>alla</unclear> 
+            <lb ed="#P" n="49"/><pc type="pilcrow"/> 7a Complevit opus suum etc id est completum vidit et sic dictum de lectione sit <unclear>alla</unclear> 
           </p>
         </div>
       </div>

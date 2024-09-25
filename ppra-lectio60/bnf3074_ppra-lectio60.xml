@@ -143,9 +143,10 @@
               <head xml:id="ppra-l60-tcdrdf">Tertia conclusio <name ref="#Ripa">de Rippa</name></head>
               <head xml:id="ppra-l60-Hd1e247" type="question-title">Quod sicut in Deo, ita in creatura reperitur distinctio formalis</head>
               <p xml:id="ppra-l60-acsdfi">
-                <pc type="pilcrow"/> 3a conclusio si in deo reperiatur formalis distinctio et in creatura Et radix in hoc est quod quaelibet alia 
-                <lb ed="#P" n="18"/>creatura innuitur <del rend="strikethrough">debent</del> in esse vitae alia in esse Et ex hoc infertur quod creatura assistatur deo secundum esse <pc type="punctus"/> igitur secundum esse 
-                <lb ed="#P" n="19"/>vitae <pc type="virgula">/</pc> quia idem est formaliter esse <pc type="punctus"/> et esse vitae <pc type="punctus"/>
+                <pc type="pilcrow"/> 3a conclusio si in deo reperiatur formalis distinctio et in creatura <pc type="pilcrow"/> unde si numerus praedictorum est <unclear>mis</unclear> 
+                <lb ed="#P" n="18"/>rationum formalium in deo <pc type="punctus"/> unitive concurrentium <pc type="punctus"/> ita et in creatura Et radix in hoc est quod quaelibet alia 
+                <lb ed="#P" n="19"/>creatura innuitur <del rend="strikethrough">debent</del> in esse vitae alia in esse Et ex hoc infertur quod creatura assistatur deo secundum esse <pc type="punctus"/> igitur secundum esse 
+                <lb ed="#P" n="20"/>vitae <pc type="virgula">/</pc> quia idem est formaliter esse <pc type="punctus"/> et esse vitae <pc type="punctus"/>
               </p>
             </div>
             <div xml:id="ppra-l60-Dd1e258">
@@ -153,7 +154,7 @@
               <head xml:id="ppra-l60-Hd1e265" type="question-title">De distinctione causalium rationum</head>
               <p xml:id="ppra-l60-acpipi">
                 <pc type="pilcrow"/> Alia conclusio 4a est de distinctione formalitatum de ipsa cum materia de 
-                <lb ed="#P" n="20"/>ydeis videbitur 
+                <lb ed="#P" n="21"/>ydeis videbitur 
               </p> 
               <p xml:id="ppra-l60-eisidr">
                 <pc type="punctus"/> deo dante et sic ad praesens de isto sufficiat
@@ -165,11 +166,11 @@
           <head xml:id="ppra-l60-Hxxyy2">Conclusiones</head>
           <p xml:id="ppra-l60-axxyy3">
             <pc type="pilcrow"/> Prima conclusio lectionis fuit supra 
-            <lb ed="#P" n="21"/>distinctionem 10am quod omnes angeli intelligunt aliquid dupliciter primo superiores <unclear>nuntiant</unclear> mediis medii inferioribus 
+            <lb ed="#P" n="22"/>distinctionem 10am quod omnes angeli intelligunt aliquid dupliciter primo superiores <unclear>nuntiant</unclear> mediis medii inferioribus 
           </p>
           <p xml:id="ppra-l60-axxyy4">
-            <pc type="pilcrow"/> 2a conclusio Ista nomina gabriel michael raphael et uriel etc non sunt propria nomina sed potius 
-            <lb ed="#P" n="22"/><unclear>agnomina</unclear> sive officialia et sic sunt potius concepta ratione officiarum eis attributa
+            <lb ed="#P" n="23"/><pc type="pilcrow"/> 2a conclusio Ista nomina gabriel michael raphael et uriel etc non sunt propria nomina sed potius 
+            <lb ed="#P" n="24"/><unclear>agnomina</unclear> sive officialia et sic sunt potius concepta ratione officiarum eis attributa
           </p>
         </div>
       </div>

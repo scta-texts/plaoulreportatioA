@@ -178,7 +178,7 @@
             <div xml:id="ppra-l46-Dd1e444">
               <head xml:id="ppra-l46-Hapapap">Ad primam</head>
               <p xml:id="ppra-l46-etadec">
-                <pc type="pilcrow"/>Et tunc ad rationem creatura etc  
+                <lb ed="#P" n="27"/><pc type="pilcrow"/>Et tunc ad rationem creatura etc  
               </p>
               <!--
                 doesn't seem present 
@@ -202,15 +202,15 @@
               </p>-->
               <p xml:id="ppra-l46-atecap">
                 <pc type="pilcrow"/> Advertendum est tamen quod casus posset ponit quod repugnaret 
-                <lb ed="#P" n="27"/>veritati scilicet quod deus non vellet creaturam quo ad hoc adiuvare sed negaretur casus
+                <lb ed="#P" n="28"/>veritati scilicet quod deus non vellet creaturam quo ad hoc adiuvare sed negaretur casus
              </p>
             </div>
             <div xml:id="ppra-l46-Dd1e525">
               <head xml:id="ppra-l46-asasas">Ad secundam</head>
               <p xml:id="ppra-l46-ascpie">
                 <pc type="pilcrow"/> Ad 2m 
-                <lb ed="#P" n="28"/>nam creatura habet libertatem continuandi actum <pc type="punctus"/> etc <pc type="pilcrow"/> Ex praedictis respondetur quod licet libertas sit etc 
-                <lb ed="#P" n="29"/><unclear>co</unclear> hoc requiritur caritatis coexistentia et <sic>coefficantia</sic> et etiam assistentia 
+                <lb ed="#P" n="29"/>nam creatura habet libertatem continuandi actum <pc type="punctus"/> etc <pc type="pilcrow"/> Ex praedictis respondetur quod licet libertas sit etc 
+                <lb ed="#P" n="30"/><unclear>co</unclear> hoc requiritur caritatis coexistentia et <sic>coefficantia</sic> et etiam assistentia 
               </p>
               <!--
                 Doesn't seem present 
@@ -247,11 +247,15 @@
               <head xml:id="ppra-l46-Hatatat">Ad tertiam</head>
               <p xml:id="ppra-l46-aanaas">
                 <pc type="pilcrow"/> Ad aliud de ultimo instanti 
-                <lb ed="#P" n="30"/>si ita esset quod voluntas etc dicitur quod nullum videtur inconveniens sic dare ultimum instans 
-                <lb ed="#P" n="31"/>et hoc habet concedere qui ponit quantitatem distinctam a re quanta ut patet in <del rend="strikethrough">ra</del> rarefactione quia 
-                <lb ed="#P" n="32"/>ibi datur ultimi instans rei permanentis in esse ut patet consideranti <pc type="pilcrow"/> Item si aliquis 
-                <lb ed="#P" n="33"/>incipit in caritate et incipiat peccare tunc erit ultimum instans gratiae quia immediate post hoc 
-                <lb ed="#P" n="34"/>peccabit et si instetur vel in instanti in quo est vel in alio
+                <lb ed="#P" n="31"/>si ita esset quod voluntas etc dicitur quod nullum videtur inconveniens sic dare ultimum instans 
+                <lb ed="#P" n="32"/>et hoc habet concedere qui ponit quantitatem distinctam a re quanta ut patet in <del rend="strikethrough">ra</del> rarefactione quia 
+                <lb ed="#P" n="33"/>ibi datur ultimi instans rei permanentis in esse ut patet consideranti <pc type="pilcrow"/> Item si aliquis 
+                <lb ed="#P" n="34"/>incipit in caritate et incipiat peccare tunc erit ultimum instans gratiae quia immediate post hoc 
+                <lb ed="#P" n="35"/>peccabit et si instetur vel in instanti in quo est vel in alio
+                
+                <pc type="pilcrow"/> Unde propter hoc est advertendum 
+                <lb ed="#P" n="36"/>quod res corrumpitur quando desinit esse et etiam quando est vel dicitur quod non oportet dare aliquod instans 
+                <lb ed="#P" n="37"/>in quo non <del rend="strikethrough">at</del> sit verum dicere quod etc <pc type="punctus"/>
               </p>
             </div>
           </div>
@@ -264,7 +268,7 @@
             <head xml:id="ppra-l46-Hd1e649">Ad rationem quartam, quintam, et sextum</head>
             <p xml:id="ppra-l46-auavss">
               <pc type="pilcrow"/> Ad aliam rationem aliquid aliud a deo est diligendum et <unclear>uit</unclear> creatura 
-              <lb ed="#P" n="35"/>et frui deo <pc type="virgula">/</pc> et dicebatur de christo quod plus erat diligendus
+              <lb ed="#P" n="38"/>et frui deo <pc type="virgula">/</pc> et dicebatur de christo quod plus erat diligendus
             </p>
             <!-- unclear but doesn't seem present 
               <p xml:id="ppra-l46-iceade">
@@ -290,37 +294,37 @@
               per communicationem idiomatum.
             </p>-->
             <p xml:id="ppra-l46-airdqd">
-              <lb ed="#P" n="36"/>Respondetur de christo quod hoc potest intelligi vel absolute vel agregative si <unclear>copiatur</unclear> 2o tunc diligendus est sic ipse 
-              <lb ed="#P" n="37"/>deus quia deus est fons totius diligibilitatis nec magis diligitur secundum humanitatem Et dico quod agregatum 
-              <lb ed="#P" n="38"/>ex deo et <unclear>an?l</unclear> non est magis diligibile quam solus deus
+              <lb ed="#P" n="39"/>Respondetur de christo quod hoc potest intelligi vel absolute vel agregative si <unclear>copiatur</unclear> 2o tunc diligendus est sic ipse 
+              <lb ed="#P" n="40"/>deus quia deus est fons totius diligibilitatis nec magis diligitur secundum humanitatem Et dico quod agregatum 
+              <lb ed="#P" n="41"/>ex deo et <unclear>an?l</unclear> non est magis diligibile quam solus deus
             </p>
             <p xml:id="ppra-l46-scauef">
               <pc type="pilcrow"/> Sed si dicatur contra illud totum agregatum non est univocum 
-              <lb ed="#P" n="39"/>obiectum 
+              <lb ed="#P" n="42"/>obiectum 
             </p>
             <!-- fuzzy prallel -->
             <p xml:id="ppra-l46-rhqnef">
               <pc type="punctus"/> sed si sit dilectio ordinata respectu totius si voluntas ordinate feratur in illud tunc excipere actum unum 
-              <lb ed="#P" n="40"/>vel dicitur quod tota multitudo potest esse obiectum et sic non diligitur magis quam deus <pc type="punctus"/> sed potius multitudo per ipsum <pc type="punctus"/> unde 
-              <lb ed="#P" n="41"/>deus per modum fruitionis diligitur et multitudo per modum usus <pc type="punctus"/>
+              <lb ed="#P" n="43"/>vel dicitur quod tota multitudo potest esse obiectum et sic non diligitur magis quam deus <pc type="punctus"/> sed potius multitudo per ipsum <pc type="punctus"/> unde 
+              <lb ed="#P" n="44"/>deus per modum fruitionis diligitur et multitudo per modum usus <pc type="punctus"/>
             </p> 
             <p xml:id="ppra-l46-cqdceu">
               <pc type="pilcrow"/> Consequenter de humanitate vel argueretur 
-              <lb ed="#P" n="42"/>sic humanitate christi est utendum igitur deo est utendum et consequenter probatur quod illi est frui humanitate igitur etc
+              <lb ed="#P" n="45"/>sic humanitate christi est utendum igitur deo est utendum et consequenter probatur quod illi est frui humanitate igitur etc
             </p>
             <p xml:id="ppra-l46-reppci">
               <pc type="pilcrow"/> Unde 
-              <lb ed="#P" n="43"/>respondetur quod quicquid dictum fit de fruitione intelligitur de per se obiectum <pc type="punctus"/> et non utibile 
+              <lb ed="#P" n="46"/>respondetur quod quicquid dictum fit de fruitione intelligitur de per se obiectum <pc type="punctus"/> et non utibile 
             </p>
             <p xml:id="ppra-l46-aeruef">
               <pc type="punctus"/> sed aliam 
-              <lb ed="#P" n="44"/>responsionem reputo <unclear>ve?rem</unclear> negando scilicet quod sit communicatio ydiomatum respectu personarum frui et uti
+              <lb ed="#P" n="47"/>responsionem reputo <unclear>ve?rem</unclear> negando scilicet quod sit communicatio ydiomatum respectu personarum frui et uti
             </p>
             <p xml:id="ppra-l46-uaqend">
               <pc type="pilcrow"/> Unde humanitas 
-              <lb ed="#P" n="45"/>aliter se habet respectu voluntatis quae causatur ab ea sive visionis et respectu dilectionis <pc type="punctus"/> nam circa 
-              <lb ed="#P" n="46"/>quantum obiectum et circa 2m modo sic nec inmediate et ideo non sequitur humanitas christi est inmediatum obiectum quia dilectio 
-              <lb ed="#P" n="47"/>non immediate competit humanitati <pc type="punctus"/> sed visioni et sic hoc est sibi intrinsecum nam si humanitas videtur et verbum videtur 
+              <lb ed="#P" n="48"/>aliter se habet respectu voluntatis quae causatur ab ea sive visionis et respectu dilectionis <pc type="punctus"/> nam circa 
+              <lb ed="#P" n="49"/>quantum obiectum et circa 2m modo sic nec inmediate et ideo non sequitur humanitas christi est inmediatum obiectum quia dilectio 
+              <lb ed="#P" n="50"/>non immediate competit humanitati <pc type="punctus"/> sed visioni et sic hoc est sibi intrinsecum nam si humanitas videtur et verbum videtur 
               <pb ed="#P" n="58-r"/>
               <lb ed="#P" n="1"/>igitur si humanitas diligitur verbum diligitur 
             </p>

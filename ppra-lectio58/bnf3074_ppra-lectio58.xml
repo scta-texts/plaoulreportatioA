@@ -91,7 +91,8 @@
             <lb ed="#P" n="3"/><pc type="pilcrow"/> 3m de ratione sua est quod sit cuiuscumque alterius mensuare effectiva <pc type="punctus"/> et in genere mensurarum prima 
             <lb ed="#P" n="4"/>Et ideo <name>dyonsius</name> vocat eam saeculum temporum et mensura saeculorum Et <name>ancelmus</name> vocat eam saeculum saeculorum 
             <lb ed="#P" n="5"/>Ex quibus innuitur quod omnes aliae mensurae sunt effectus ipsius aeternitatis Et <ref xml:id="ppra-l58-Rav3kka" corresp="#ppra-l58-Qvm3dad"><name>augustinus</name> in libro <title>confessionum</title></ref>
-            <lb ed="#P" n="6"/>stans dicit <quote xml:id="ppra-l58-Qvm3dad" source="http://scta.info/resource/aconf-l11-d1e168"><!-- source imprecise -->omnia tempora praeterita et futura non praeterita nec futura aeternitas</quote>
+            <lb ed="#P" n="6"/>stans dicit <quote xml:id="ppra-l58-Qvm3dad" source="http://scta.info/resource/aconf-l11-d1e168"><!-- source imprecise -->omnia tempora praeterita et futura non praeterita nec futura aeternitas</quote> <pc type="pilcrow"/> Ex quibus omnibus multa 
+            <lb ed="#P" n="7"/>inferuntur correlaria
           </p>
         </div>
         <div xml:id="ppra-l58-Dd1e264">
@@ -106,15 +107,15 @@
             <head xml:id="ppra-l58-Hscmscm">Secundum corollarium</head>
             <p xml:id="ppra-l58-sciqit">
               <pc type="pilcrow"/> 2m correllarium est 
-              <lb ed="#P" n="7"/>Instans aeternitatis in infinitum est simplicius quam instans temporis et per consequens individualius
+              <lb ed="#P" n="8"/>Instans aeternitatis in infinitum est simplicius quam instans temporis et per consequens individualius
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e287">
             <head xml:id="ppra-l58-Htcmtcm">Tertium corollarium</head>
             <p xml:id="ppra-l58-tcreii">
               <pc type="pilcrow"/> 3m correllarium est
-              <lb ed="#P" n="8"/>Repugnantia est in aeternitate contradictoria verificari quia repugnat quod verificentur in instanti temporis et per consequens 
-              <lb ed="#P" n="9"/>in alio non <pc type="punctus"/>
+              <lb ed="#P" n="9"/>Repugnantia est in aeternitate contradictoria verificari quia repugnat quod verificentur in instanti temporis et per consequens 
+              <lb ed="#P" n="10"/>in alio non <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l58-eqpamt">
               <pc type="pilcrow"/> Ex quo sequitur quod nostrae affirmationes vel negationes referuntur ad temporalem coexistentiam vel etc
@@ -123,58 +124,58 @@
           <div xml:id="ppra-l58-Dd1e302">
             <head xml:id="ppra-l58-Hqcmqcm">Quartum corollarium</head>
             <p xml:id="ppra-l58-qcnsac">
-              <lb ed="#P" n="10"/><pc type="pilcrow"/> 4m correlarium nova aeternitatis ad instans temporis coexistentia non arguit aeternitatis mutatae sed temporis successionem
+              <lb ed="#P" n="11"/><pc type="pilcrow"/> 4m correlarium nova aeternitatis ad instans temporis coexistentia non arguit aeternitatis mutatae sed temporis successionem
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e316">
             <head xml:id="ppra-l58-Hqcrqcr">Quintum corollarium</head>
             <p xml:id="ppra-l58-qclepi">
-              <lb ed="#P" n="11"/><pc type="pilcrow"/> 5m correlarium licet aeternitas sit ante tempus et post et simul <pc type="punctus"/> non <del rend="expunctuation">esset</del> oportet quod quaelibet temporis successio coexistat 
-              <lb ed="#P" n="12"/>patet hoc per salvatorem dicentem <quote>Amen dico vobis antequam <name>abraham</name> fieret ego sum</quote>
+              <lb ed="#P" n="12"/><pc type="pilcrow"/> 5m correlarium licet aeternitas sit ante tempus et post et simul <pc type="punctus"/> non <del rend="expunctuation">esset</del> oportet quod quaelibet temporis successio coexistat 
+              <lb ed="#P" n="13"/>patet hoc per salvatorem dicentem <quote>Amen dico vobis antequam <name>abraham</name> fieret ego sum</quote>
             </p>
             <p xml:id="ppra-l58-scanfp">
               <pc type="pilcrow"/> Sed arguitur sic 
-              <lb ed="#P" n="13"/>nam si sic sequeretur qudo deus posset facere quod mundus nonquam fuisset creatus patet nam si eius aeternitas 
-              <lb ed="#P" n="14"/>praecedat mundi creationem tunc sequeretur nonquam mundum creasse
+              <lb ed="#P" n="14"/>nam si sic sequeretur qudo deus posset facere quod mundus nonquam fuisset creatus patet nam si eius aeternitas 
+              <lb ed="#P" n="15"/>praecedat mundi creationem tunc sequeretur nonquam mundum creasse
             </p>
             <p xml:id="ppra-l58-pderei">
               <pc type="pilcrow"/> Unde <name>petrus damascenus</name>
-              <lb ed="#P" n="15"/>concedit conclusionem <pc type="punctus"/> Et hoc <del rend="strikethrough">est</del> ex ista radice procedit dictum aliquorum dicentium deum reintegrare 
-              <lb ed="#P" n="16"/>corruptam post lapsum <pc type="punctus"/> Et licet hoc sit prima facie contra <ref xml:id="ppra-l58-Rd1e382">parisiensem articulum</ref> dicitur quod licet difficile videatur 
-              <lb ed="#P" n="17"/>ex parte rei fore <pc type="virgula">/</pc> non tamen ex parte divinae naturae licet labatur in praeteritum <pc type="virgula">/</pc> Quod non erit impossibile 
-              <lb ed="#P" n="18"/>apud deum omne verbum <ref>luce primo</ref>
+              <lb ed="#P" n="16"/>concedit conclusionem <pc type="punctus"/> Et hoc <del rend="strikethrough">est</del> ex ista radice procedit dictum aliquorum dicentium deum reintegrare 
+              <lb ed="#P" n="17"/>corruptam post lapsum <pc type="punctus"/> Et licet hoc sit prima facie contra <ref xml:id="ppra-l58-Rd1e382">parisiensem articulum</ref> dicitur quod licet difficile videatur 
+              <lb ed="#P" n="18"/>ex parte rei fore <pc type="virgula">/</pc> non tamen ex parte divinae naturae licet labatur in praeteritum <pc type="virgula">/</pc> Quod non erit impossibile 
+              <lb ed="#P" n="19"/>apud deum omne verbum <ref>luce primo</ref>
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e392">
             <head xml:id="ppra-l58-Hsxmsxm">Sextum corollarium</head>
             <p xml:id="ppra-l58-apeeaa">
               <pc type="pilcrow"/> 6m correlarium essentia divina et quaelibet eius persona sicut sunt unicus gradus 
-              <lb ed="#P" n="19"/>perfectionis sic sunt eadem aeternitas <pc type="punctus"/> 
+              <lb ed="#P" n="20"/>perfectionis sic sunt eadem aeternitas <pc type="punctus"/> 
             </p>
             <p xml:id="ppra-l58-eqspei">
               <pc type="pilcrow"/> Ex quo sequitur contra <name>magistrum ioannem de rippa</name> qui dicit quod supposito personarum 
-              <lb ed="#P" n="20"/>vel esse mensuratur aeternitas <pc type="punctus"/> <pc type="virgula">/</pc> nam sunt eadem perfectio et per consequens prima in esse personali est aeternitas <pc type="punctus"/> 
+              <lb ed="#P" n="21"/>vel esse mensuratur aeternitas <pc type="punctus"/> <pc type="virgula">/</pc> nam sunt eadem perfectio et per consequens prima in esse personali est aeternitas <pc type="punctus"/> 
               
               <pc type="pilcrow"/> ymaginatur 
-              <lb ed="#P" n="21"/>tamen quod aeternitas est mensura rerum et aliquo modo mensuratur mediate 
+              <lb ed="#P" n="22"/>tamen quod aeternitas est mensura rerum et aliquo modo mensuratur mediate 
             </p>
             <p xml:id="ppra-l58-seqema">
               <pc type="pilcrow"/> Item <subst><del rend="strikethrough">productio</del> <add>generatio</add></subst> verbi dei et productio spiritus sancti 
-              <lb ed="#P" n="22"/>mensuratur aeternitate 
+              <lb ed="#P" n="23"/>mensuratur aeternitate 
               
               et licet sit gentium semper tamen gignitur et productus spiritus semper tamen producitur patet quia non potest 
-              <lb ed="#P" n="23"/>esse successio temporalis <pc type="punctus"/> quia productum et productum idem sunt 
+              <lb ed="#P" n="24"/>esse successio temporalis <pc type="punctus"/> quia productum et productum idem sunt 
             </p>
             <!-- very fuzzy parallel -->
             <p xml:id="ppra-l58-ehscad">
               Ex quo infertur manifeste quod opposita est conditio 
-              <lb ed="#P" n="24"/>dei ad creaturam
+              <lb ed="#P" n="25"/>dei ad creaturam
             </p>
             <p xml:id="ppra-l58-atuele">
               <pc type="pilcrow"/> Advertendum est ulterius quod licet aeternitas sit mensura tamen nihil aliud est quam deus a parte rei 
-              <lb ed="#P" n="25"/>et sic <seg type="correction">vide<subst><add>tur</add><del rend="strikethrough">bitur</del></subst></seg> de istis praedicatis quod posita sunt propter deffectum nostrae cognitionis et modo concipiendi <pc type="pilcrow"/> Consideratur 
-              <lb ed="#P" n="26"/>enim tamquam actus unicus purissimus includens omnem perfectionem et excludens omnem potestatem 
-              <lb ed="#P" n="27"/>et ut plenitudo totius bonitatis <pc type="punctus"/> et ita vocatur aeternitas <pc type="punctus"/> Et sic dicendum est de localitate eiusdem
+              <lb ed="#P" n="26"/>et sic <seg type="correction">vide<subst><add>tur</add><del rend="strikethrough">bitur</del></subst></seg> de istis praedicatis quod posita sunt propter deffectum nostrae cognitionis et modo concipiendi <pc type="pilcrow"/> Consideratur 
+              <lb ed="#P" n="27"/>enim tamquam actus unicus purissimus includens omnem perfectionem et excludens omnem potestatem 
+              <lb ed="#P" n="28"/>et ut plenitudo totius bonitatis <pc type="punctus"/> et ita vocatur aeternitas <pc type="punctus"/> Et sic dicendum est de localitate eiusdem
             </p>
           </div>
         </div>
@@ -182,79 +183,79 @@
           <head xml:id="ppra-l58-Hprones">Propositiones</head>
           <p xml:id="ppra-l58-pcddim">
             <pc type="pilcrow"/> Pro 
-            <lb ed="#P" n="28"/>cuius declaratione ponuntur aliquae propositiones quia <name>boetius</name> discurrendo videtur has sonare <pc type="punctus"/>
+            <lb ed="#P" n="29"/>cuius declaratione ponuntur aliquae propositiones quia <name>boetius</name> discurrendo videtur has sonare <pc type="punctus"/>
           </p>
           <div xml:id="ppra-l58-Dd1e445">
             <head xml:id="ppra-l58-Hpritio">Prima propositio</head>
             <p xml:id="ppra-l58-sehilo">
               <pc type="pilcrow"/> Prima est quod quanto 
-              <lb ed="#P" n="29"/>creatura est perfectior tanto est magis apta nata maiorem locum occupare <pc type="punctus"/>et hoc intelligendo de creatura 
-              <lb ed="#P" n="30"/>spirituali quia de corporali non oportet nisi secundum quod quantitas congruit nam sicut magis innuitur deus <del rend="strikethrough">d</del> in perfectione 
-              <lb ed="#P" n="31"/>ita in loci occupatione
+              <lb ed="#P" n="30"/>creatura est perfectior tanto est magis apta nata maiorem locum occupare <pc type="punctus"/>et hoc intelligendo de creatura 
+              <lb ed="#P" n="31"/>spirituali quia de corporali non oportet nisi secundum quod quantitas congruit nam sicut magis innuitur deus <del rend="strikethrough">d</del> in perfectione 
+              <lb ed="#P" n="32"/>ita in loci occupatione
             </p>
             <p xml:id="ppra-l58-eqsoil">
               <pc type="pilcrow"/> Ex quo sequitur quod si supprema intelligentia daretur supra caelum maiorem locum 
-              <lb ed="#P" n="32"/>occuparet
+              <lb ed="#P" n="33"/>occuparet
             </p>
             <p xml:id="ppra-l58-squppo">
               <pc type="pilcrow"/> Sed dubitatur utrum creatura spiritualis sub quolibet modico loco possit situari 
-              <lb ed="#P" n="33"/><pc type="pilcrow"/> Unde ymaginandum est quod quaelibet creatura spiritualis secundum sui quantitatem occupat locum <pc type="punctus"/> sed nihilominus per potentiam divinam 
-              <lb ed="#P" n="34"/>potest non occupare ut satis de anima patet <pc type="punctus"/> nam quando infunditur inceperit magis et magis vel etc
-              <lb ed="#P" n="35"/><pc type="pilcrow"/> Ex quo sequitur quod infinite quid modicum locum potest occupare
+              <lb ed="#P" n="34"/><pc type="pilcrow"/> Unde ymaginandum est quod quaelibet creatura spiritualis secundum sui quantitatem occupat locum <pc type="punctus"/> sed nihilominus per potentiam divinam 
+              <lb ed="#P" n="35"/>potest non occupare ut satis de anima patet <pc type="punctus"/> nam quando infunditur inceperit magis et magis vel etc
+              <lb ed="#P" n="36"/><pc type="pilcrow"/> Ex quo sequitur quod infinite quid modicum locum potest occupare
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e460">
               <head xml:id="ppra-l58-Hspospo">Secunda propositio</head>
             <p xml:id="ppra-l58-apdesr">
               <pc type="pilcrow"/> 2a propositio deus non est proprie circumscriptive 
-              <lb ed="#P" n="36"/>in loco <pc type="virgula">/</pc> sed potius locus in ipso <pc type="pilcrow"/> Primo ad hoc habentur auctoritates augustini ut est in distinctione 
-              <lb ed="#P" n="37"/>17ma unde dicit quod non est alicubi sed in eo sunt res <pc type="punctus"/>
+              <lb ed="#P" n="37"/>in loco <pc type="virgula">/</pc> sed potius locus in ipso <pc type="pilcrow"/> Primo ad hoc habentur auctoritates augustini ut est in distinctione 
+              <lb ed="#P" n="38"/>17ma unde dicit quod non est alicubi sed in eo sunt res <pc type="punctus"/>
             </p>
             <p xml:id="ppra-l58-sqessr">
               Ex quo sequitur quod deus est in diversis sitibus sine tempore simul 
-              <lb ed="#P" n="38"/>sive successive non arguit tamen in eo mutationem <pc type="punctus"/> sed solum in rebus 
+              <lb ed="#P" n="39"/>sive successive non arguit tamen in eo mutationem <pc type="punctus"/> sed solum in rebus 
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e496">
             <head xml:id="ppra-l58-Htpotpo">Tertia propositio</head>
             <p xml:id="ppra-l58-aplrcs">
               <pc type="pilcrow"/> 3a propositio locus ymaginarius vel divisibilis 
-              <lb ed="#P" n="39"/>et creaturae capax infinite recedit ad divina capacitate sive simplicitate 
+              <lb ed="#P" n="40"/>et creaturae capax infinite recedit ad divina capacitate sive simplicitate 
             </p>
             <p xml:id="ppra-l58-peispi">
               <pc type="pilcrow"/> Unde ymaginandum est ratione suae simplicitatis et 
-              <lb ed="#P" n="40"/>inmensitatis quod sit tamquam spera cuius centra omnia continentur ut si sit spatium ymaginarium capax creaturarum 
-              <lb ed="#P" n="41"/>sicut ab aeternitate derivatur tempus ita ab ipso derivaretur etc
+              <lb ed="#P" n="41"/>inmensitatis quod sit tamquam spera cuius centra omnia continentur ut si sit spatium ymaginarium capax creaturarum 
+              <lb ed="#P" n="42"/>sicut ab aeternitate derivatur tempus ita ab ipso derivaretur etc
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e519">
             <head xml:id="ppra-l58-Hqpoqpo">Quarta propositio</head>
             <p xml:id="ppra-l58-apicvn">
               <pc type="pilcrow"/> 4a propositio immensus locus intelligibilis potest 
-              <lb ed="#P" n="42"/>divinam essentiam locare <pc type="punctus"/> nihilominus consideremus deum secundum quod est locus locativus licet sit eadem res et hoc sicut divina 
-              <lb ed="#P" n="43"/>perfectio locat creaturae perfectionem <pc type="punctus"/> et ideo optime dicitur quod deus est spera intelligibilis continens omnia 
+              <lb ed="#P" n="43"/>divinam essentiam locare <pc type="punctus"/> nihilominus consideremus deum secundum quod est locus locativus licet sit eadem res et hoc sicut divina 
+              <lb ed="#P" n="44"/>perfectio locat creaturae perfectionem <pc type="punctus"/> et ideo optime dicitur quod deus est spera intelligibilis continens omnia 
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e538">
             <head xml:id="ppra-l58-Hqaoqao">Quinta propositio</head>
             <p xml:id="ppra-l58-apqadl">
               <pc type="pilcrow"/> 5a propositio 
-              <lb ed="#P" n="44"/>tanto res est perfectior tanto magis appropinquat deo <pc type="punctus"/>
+              <lb ed="#P" n="45"/>tanto res est perfectior tanto magis appropinquat deo <pc type="punctus"/>
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e558">
             <head xml:id="ppra-l58-Hsxosxo">Sexta propositio</head>
             <p xml:id="ppra-l58-aplidi">
               <pc type="pilcrow"/> 6a propositio <pc type="virgula">/</pc> licet creaturae diversimode intimentur deo 
-              <lb ed="#P" n="45"/>nihilominus deus immense intimatur creaturae
+              <lb ed="#P" n="46"/>nihilominus deus immense intimatur creaturae
             </p>
           </div>
           <div xml:id="ppra-l58-Dd1e567">
             <head xml:id="ppra-l58-Hsmpsmp">Septima propositio</head>
             <p xml:id="ppra-l58-apdmid">
               <pc type="pilcrow"/> 7a de intimatione dei ad creaturam unde creatura magis intimatur deo 
-              <lb ed="#P" n="46"/>quam deus sibi ex gratifficatione creaturae et ratione maioris intimationis dignificatur Et sic ex istis patet de proprietatibus 
-              <lb ed="#P" n="47"/>dei quantum ad ubi et quando
+              <lb ed="#P" n="47"/>quam deus sibi ex gratifficatione creaturae et ratione maioris intimationis dignificatur Et sic ex istis patet de proprietatibus 
+              <lb ed="#P" n="48"/>dei quantum ad ubi et quando
             </p>
             <!--
               Doesn't seem present; but needs review 
@@ -267,31 +268,31 @@
           <head xml:id="ppra-l58-Hconsio">Conclusio</head>
           <p xml:id="ppra-l58-edpfpe">
             <pc type="pilcrow"/> dicit tamen boetius quod deus non est in aliquo praedicamento nisi improprie scilicet in praedicamento 
-            <lb ed="#P" n="48"/>substantiae et relationis <pc type="punctus"/> unde non est in ubi quia non locatur sed locat et sic discurrendo per caetera
+            <lb ed="#P" n="49"/>substantiae et relationis <pc type="punctus"/> unde non est in ubi quia non locatur sed locat et sic discurrendo per caetera
           </p>
         </div>
         <div xml:id="ppra-l58-Dxxyy1">
           <head xml:id="ppra-l58-Hxxyy2">Conclusiones</head>
           <p xml:id="ppra-l58-axxyy3">
             <pc type="pilcrow"/> Sequitur prima conclusio supra 
-            <lb ed="#P" n="49"/>distinctionem 8vam huius 2i etc de angelis utrum habeant corpora Rspondetur quod realiter materiam habent scilicet aeream ut 
-            <lb ed="#P" n="50"/>videtur velle augustinus in genesi supra litteram <pc type="punctus"/> unde dicitur quod recitative dicit hoc
+            <lb ed="#P" n="50"/>distinctionem 8vam huius 2i etc de angelis utrum habeant corpora Rspondetur quod realiter materiam habent scilicet aeream ut 
+            <lb ed="#P" n="51"/>videtur velle augustinus in genesi supra litteram <pc type="punctus"/> unde dicitur quod recitative dicit hoc
           </p>
           <p xml:id="ppra-l58-axxyy4">
             <pc type="pilcrow"/> 2a conclusio in corporibus angeli 
-            <lb ed="#P" n="51"/>locuti sunt in persona patris et filii etc sicut patet de multis 
+            <lb ed="#P" n="52"/>locuti sunt in persona patris et filii etc sicut patet de multis 
           </p>
           <p xml:id="ppra-l58-axxyy5">
             <pc type="pilcrow"/> 3a conclusio deus non quam <unclear>appa?it</unclear> in essentia propria 
-            <lb ed="#P" n="52"/>Sed tamen videtur quod non sit generaliter verum potest dici tamen quod verum est conclusio ad sensusm 
+            <lb ed="#P" n="53"/>Sed tamen videtur quod non sit generaliter verum potest dici tamen quod verum est conclusio ad sensusm 
           </p>
           <p xml:id="ppra-l58-axxyy6">
             <pc type="pilcrow"/> 4a conclusio daemones <unclear>intrant</unclear> 
-            <lb ed="#P" n="53"/>corpora quae videntur vexare etc
+            <lb ed="#P" n="54"/>corpora quae videntur vexare etc
           </p>
           <p xml:id="ppra-l58-axxyy7">
             <pc type="pilcrow"/> 5a daemones sic intrantes nonquam <unclear>plenariam</unclear> habent supra corpora potestatem <pc type="punctus"/> 
-            <lb ed="#P" n="54"/>et sic est finis huius lectionis lectae <unclear>diem curis</unclear> post processiones pro pace facta post eyphantiam
+            <lb ed="#P" n="55"/>et sic est finis huius lectionis lectae <unclear>diem curis</unclear> post processiones pro pace facta post eyphantiam
           </p>
         </div>
       </div>
