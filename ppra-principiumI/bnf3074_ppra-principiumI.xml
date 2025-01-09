@@ -254,57 +254,57 @@
             <head xml:id="ppra-prIHtgstgs">Tertius gradus</head>
             <p xml:id="ppra-prItgeecm">
               <pc type="#pilcrow"/>3us gradus est lumen intellectus practici quo illuminatur ad
-              intelligendum principia moralia et conclusiones morales.
+              <lb ed="#P" n="42"/>intelligendum principia moralia et conclusiones morales.
             </p>
           </div>
           <div xml:id="ppra-prI-Dd1e675">
             <head xml:id="ppra-prIHqgsqgs">Quartus gradus</head>
             <p xml:id="ppra-prIqgeple">
               <pc type="#pilcrow"/>4tus gradus est principia moralia in praedicto 
-              <lb ed="#P" n="42"/>lumine evidentia
+              <lb ed="#P" n="43"/>lumine evidentia
             </p>
           </div>
           <div xml:id="ppra-prI-Dd1e684">
             <head xml:id="ppra-prIHqnsqns">Quintus gradus</head>
             <p xml:id="ppra-prIqgepdc">
               <pc type="#pilcrow"/>5us gradus est dictamen practicum ex dictis principiis <del>vel conclusionibus
-              <lb ed="#P" n="43"/>et dividitur</del> deductum conclusive <pc type="#punctus"/>
+              <lb ed="#P" n="44"/>et dividitur</del> deductum conclusive <pc type="#punctus"/>
             </p>
           </div>
           <div xml:id="ppra-prI-Dd1e693">
             <head xml:id="ppra-prIHsxgsxg">Sextus gradus</head>
             <p xml:id="ppra-prIsgetvp">
               <pc type="#pilcrow"/>6us gradus est lex civilis quae non potest conclusive 
-              <lb ed="#P" n="44"/>deduci ex dictis principiis vel conclusionibus <pc type="#punctus"/> et dividitur in 3es gradus secundum 3em legum civilium 
-              <lb ed="#P" n="45"/>varietatem quae quidam varietas attenditur secundum communitatum diversitatem <pc type="virgula">/</pc> quae sunt 3es secundum <name ref="#Aristotle">aristoteles</name>
-              <lb ed="#P" n="46"/>8vo <title ref="#Ethics">ethicorum</title> et 5o <title ref="#Politics">politicae</title> scilicet regum aristocratia et tyrocratia vel policia <pc type="#punctus"/> 
+              <lb ed="#P" n="45"/>deduci ex dictis principiis vel conclusionibus <pc type="#punctus"/> et dividitur in 3es gradus secundum 3em legum civilium 
+              <lb ed="#P" n="46"/>varietatem quae quidam varietas attenditur secundum communitatum diversitatem <pc type="virgula">/</pc> quae sunt 3es secundum <name ref="#Aristotle">aristoteles</name>
+              <lb ed="#P" n="47"/>8vo <title ref="#Ethics">ethicorum</title> et 5o <title ref="#Politics">politicae</title> scilicet regum aristocratia et tyrocratia vel policia <pc type="#punctus"/> 
             </p>
             <!-- should this be a break -->
             <p xml:id="ppra-prIrepova">
               Regnum est politia 
-              <lb ed="#P" n="47"/>seu communitas in qua unus principatur propter bonum virtutis et communitatis <pc type="#punctus"/> et haec est optima <pc type="#punctus"/> Ideo 
-              <lb ed="#P" n="48"/>debent esse perfectissimae leges in ipsa politia et eius transgressiva est tyrannis <pc type="#pilcrow"/> Aristocratia 
-              <lb ed="#P" n="49"/>est communitas in qua pauci virtuosi dominantur <pc type="#pilcrow"/>Tymocratia est illa in qua magna pars 
-              <lb ed="#P" n="50"/>multitudinis est <pc type="virgula">/</pc> et in qualibet istarum aliae et aliae requiruntur leges civiles <pc type="#pilcrow"/> Et quo patet 
-              <lb ed="#P" n="51"/>quod leges sunt variandae secundum diversitatem locorum et temporum <pc type="#pilcrow"/> Ex quo patet ulterius quod 
-              <lb ed="#P" n="52"/>legistae defficerent si leges romanas quo ad omnes vellent applicare
+              <lb ed="#P" n="48"/>seu communitas in qua unus principatur propter bonum virtutis et communitatis <pc type="#punctus"/> et haec est optima <pc type="#punctus"/> Ideo 
+              <lb ed="#P" n="49"/>debent esse perfectissimae leges in ipsa politia et eius transgressiva est tyrannis <pc type="#pilcrow"/> Aristocratia 
+              <lb ed="#P" n="50"/>est communitas in qua pauci virtuosi dominantur <pc type="#pilcrow"/>Tymocratia est illa in qua magna pars 
+              <lb ed="#P" n="51"/>multitudinis est <pc type="virgula">/</pc> et in qualibet istarum aliae et aliae requiruntur leges civiles <pc type="#pilcrow"/> Et quo patet 
+              <lb ed="#P" n="52"/>quod leges sunt variandae secundum diversitatem locorum et temporum <pc type="#pilcrow"/> Ex quo patet ulterius quod 
+              <lb ed="#P" n="53"/>legistae defficerent si leges romanas quo ad omnes vellent applicare
             </p>
           </div>
           <div xml:id="ppra-prI-Dd1e724">
             <head xml:id="ppra-prIHspgspg">Septimus gradus</head>
             <p xml:id="ppra-prIsgelid">
               <pc type="#pilcrow"/>7mus gradus 
-              <lb ed="#P" n="53"/>est lex christi quae non est in naturali potestate hominis <pc type="#punctus"/> sed revelata est divinitus <pc type="#pilcrow"/> Unde tamen advertendum est 
-              <lb ed="#P" n="54"/>quod isti septem gradus sunt inter se conformes <pc type="#punctus"/> nec in aliquo discordat <pc type="#punctus"/> <pc type="#pilcrow"/> Unde 
-              <lb ed="#P" n="55"/><ref xml:id="ppra-prI-Rd1e1004"><name ref="#Gratian">gratianus</name> in <title ref="#Decretals">decreto</title></ref> ait quod <quote xml:id="ppra-prI-Qiniiec" source="http://scta.info/resource/gd-p1d6-d1e160">lex naturalis in evangelio continetur</quote> Cuius prosecutio esset 
-              <lb ed="#P" n="56"/>nimis longa quare dimitto pro praesenti
+              <lb ed="#P" n="54"/>est lex christi quae non est in naturali potestate hominis <pc type="#punctus"/> sed revelata est divinitus <pc type="#pilcrow"/> Unde tamen advertendum est 
+              <lb ed="#P" n="55"/>quod isti septem gradus sunt inter se conformes <pc type="#punctus"/> nec in aliquo discordat <pc type="#punctus"/> <pc type="#pilcrow"/> Unde 
+              <lb ed="#P" n="56"/><ref xml:id="ppra-prI-Rd1e1004"><name ref="#Gratian">gratianus</name> in <title ref="#Decretals">decreto</title></ref> ait quod <quote xml:id="ppra-prI-Qiniiec" source="http://scta.info/resource/gd-p1d6-d1e160">lex naturalis in evangelio continetur</quote> Cuius prosecutio esset 
+              <lb ed="#P" n="57"/>nimis longa quare dimitto pro praesenti
             </p>
           </div>
         </div>
         <div xml:id="ppra-prI-Dd1e753">
           <head xml:id="ppra-prIHdsidsi">De statu innocentiae</head>
           <p xml:id="ppra-prIsnafpo">
-            <lb ed="#P" n="57"/>Consequenter secuntur aliqua videnda de statu innocentiae propter quod advertendum est quod doctores dicunt quod 
+            <lb ed="#P" n="58"/>Consequenter secuntur aliqua videnda de statu innocentiae propter quod advertendum est quod doctores dicunt quod 
             <pb ed="#P" n="16-r"/>
             <lb ed="#P" n="1"/>vires sensitivae plene superioribus <unclear>obae</unclear> diebant scilicet rationi nihilominus ratione negligente poterant 
             <lb ed="#P" n="2"/>exire inobedientiam <pc type="#punctus"/> Et in hoc differet status innocenciae a statu humanitatis christi 
